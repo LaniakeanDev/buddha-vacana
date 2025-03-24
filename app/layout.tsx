@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import { dejaVuSans } from './utils/fonts';
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -12,7 +13,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr" className={`${dejaVuSans.variable}`}>
       <body className="">{children}</body>
     </html>
   );
