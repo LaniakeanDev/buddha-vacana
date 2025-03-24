@@ -1,16 +1,80 @@
+// {
+//   "extends": [
+//     "next/core-web-vitals",
+//     "airbnb",
+//     "airbnb-typescript",
+//     "plugin:@typescript-eslint/recommended",
+//     "prettier"
+//   ],
+//   "parserOptions": {
+//     "project": "./tsconfig.json"
+//   },
+//   "rules": {
+//     "react/react-in-jsx-scope": "off",
+//     "react/jsx-props-no-spreading": "off"
+//   }
+// }
+
 {
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["react", "@typescript-eslint"],
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "parserOptions": {
+        "project": ["./tsconfig.json"] // Specify it only for TypeScript files
+      },
+      "rules": {
+        "@typescript-eslint/no-var-requires": "off",
+        "dot-notation": "off",
+        "@typescript-eslint/dot-notation": "warn",
+        "no-console": ["warn", { "allow": ["warn", "error"] }],
+        "react/function-component-definition": [
+          2,
+          {
+            "namedComponents": ["function-declaration", "arrow-function"],
+            "unnamedComponent": "arrow-function"
+          }
+        ]
+      }
+    }
+  ],
+  "env": {
+    "node": true,
+    "browser": true,
+    "amd": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "project": "./tsconfig.json",
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
   "extends": [
-    "next/core-web-vitals",
+    "next",
+    "eslint:recommended",
+    "plugin:@next/next/recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
     "airbnb",
     "airbnb-typescript",
     "plugin:@typescript-eslint/recommended",
     "prettier"
   ],
-  "parserOptions": {
-    "project": "./tsconfig.json"
-  },
   "rules": {
     "react/react-in-jsx-scope": "off",
+    "react/require-default-props": "off",
     "react/jsx-props-no-spreading": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
   }
 }
