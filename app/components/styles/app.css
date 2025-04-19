@@ -1,0 +1,6 @@
+
+
+.primary-btn {
+  @apply h-20 rounded-b-sm
+  background: linear-gradient(to top, --color-bvrobe-dark, --color-bvrobe-light);
+}
