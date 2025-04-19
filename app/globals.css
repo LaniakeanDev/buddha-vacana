@@ -1,4 +1,6 @@
 @import 'tailwindcss';
+/* @import url('/public/styles/app.css'); < did not work */
+
 
 @theme {
   --breakpoint-2xs: 375px;
@@ -19,9 +21,10 @@
 }
 
 :root {
-  --background: #ededed;
-  --foreground: #171717;
+  /* --background: #ededed;
+  --foreground: #171717; */
 }
+
 
 /* @media (prefers-color-scheme: dark) {
   :root {
@@ -34,4 +37,9 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-deja-vu-sans), sans-serif;
+}
+
+.primary-btn {
+  background: linear-gradient(to top, var(--color-bvrobe-dark), var(--color-bvrobe-light));
+  @apply h-16 rounded-b-sm text-white cursor-pointer
 }
