@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Search from '@/public/assets/svg/search.svg';
+import { BVSVGAsset } from './BVAsset';
 
 export default function BVHero() {
   return (
@@ -14,7 +15,7 @@ export default function BVHero() {
       <div className="border-2 border-bvrobe-dark rounded-2xl w-[210px] h-[34px] bg-white absolute top-4 right-4 z-10 flex flex-row items-center">
         <input type="text" className="w-4/5" />
         <div className="w-0 h-[22px] border-l-1 border-bvrobe-dark mr-2" />
-        <Search className="w-5 h-5" />
+        <BVSVGAsset SVGAsset={Search} assetClassName="w-5 h-5 translate-y-0.5" />
       </div>
       <div className="relative z-10 ml-36 pt-32 w-4/5">
         <div className="p-4 w-[472px]">

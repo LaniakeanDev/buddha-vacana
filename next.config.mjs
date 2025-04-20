@@ -15,26 +15,27 @@ const nextConfig = {
         test: /\.svg$/i,
         issuer: fileLoaderRule.issuer,
         resourceQuery: { not: [...fileLoaderRule.resourceQuery.not, /url/] }, // exclude if *.svg?url
-        use: [
-          {
-            loader: '@svgr/webpack',
-            options: {
-              prettier: false,
-              svgo: true,
-              svgoConfig: {
-                plugins: [
-                  {
-                    name: 'preset-default',
-                    params: {
-                      overrides: { removeViewBox: false },
-                    },
-                  },
-                ],
-              },
-              titleProp: true,
-            },
-          },
-        ],
+        // use: [
+        //   {
+        //     loader: '@svgr/webpack',
+        //     options: {
+        //       prettier: false,
+        //       svgo: true,
+        //       svgoConfig: {
+        //         plugins: [
+        //           {
+        //             name: 'preset-default',
+        //             params: {
+        //               overrides: { removeViewBox: false },
+        //             },
+        //           },
+        //         ],
+        //       },
+        //       titleProp: true,
+        //     },
+        //   },
+        // ],
+        use: ['@svgr/webpack'],
       },
     );
     // Modify the file loader rule to ignore *.svg, since we have it handled now.
