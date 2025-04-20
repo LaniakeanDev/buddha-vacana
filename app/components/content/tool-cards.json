@@ -1,0 +1,62 @@
+[
+  {
+    "svgId": "advancedSearch",
+    "title": "Recherche avancée",
+    "tagline": "Rechercher un passage ou une expression"
+  },
+  {
+    "svgId": "bookmark",
+    "title": "Marque-pages",
+    "tagline": "Retrouvez les textes que vous avez marqués"
+  },
+  {
+    "svgId": "rss",
+    "title": "Flux RSS",
+    "tagline": "Soyez informé des nouveautés par email"
+  },
+  {
+    "svgId": "theme",
+    "title": "Par thème",
+    "tagline": "Retrouvez un texte par son thème"
+  },
+  {
+    "svgId": "name",
+    "title": "Par nom propre",
+    "tagline": "Retrouvez un texte par nom propre"
+  },
+  {
+    "svgId": "allegory",
+    "title": "Par allégorie",
+    "tagline": "Retrouvez un texte par son allégorie"
+  },
+  {
+    "svgId": "gloss",
+    "title": "Glossaire Pali",
+    "tagline": "Eclairer le sens originel des mots"
+  },
+  {
+    "svgId": "form",
+    "title": "Formules Pali",
+    "tagline": "Eclairer le sens des passages récurrents"
+  },
+  {
+    "svgId": "antho",
+    "title": "Anthologies",
+    "tagline": "À télécharger au format pdf"
+  },
+  {
+    "svgId": "map",
+    "title": "Cartes",
+    "tagline": "Eclairer le contexte géographique"
+  },
+  {
+    "svgId": "article",
+    "title": "Articles",
+    "tagline": "Réflexions autour des souttas"
+  },
+  {
+    "svgId": "article",
+    "title": "Blog",
+    "tagline": "Réflexions sur des sujets généraux (à fusionner avec articles?)"
+  }
+]
