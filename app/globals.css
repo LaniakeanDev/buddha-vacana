@@ -16,14 +16,15 @@
   --color-bvrobe-light: #d38e41;
   --color-bvrobe-semidark: #ac6b2a;
   --color-gold: #edc700;
+  --color-bvlightgrey: #f8f8f8;
 
   --font-dejavusans: 'Deja Vu Sans';
 }
 
-:root {
-  /* --background: #ededed;
-  --foreground: #171717; */
-}
+/* :root {
+  --background: #ededed;
+  --foreground: #171717;
+} */
 
 
 /* @media (prefers-color-scheme: dark) {

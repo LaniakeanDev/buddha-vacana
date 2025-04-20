@@ -19,7 +19,7 @@ interface BVSVGAssetProps extends BVWrappingAssetProps {
 
 const AsSVGAsset =
   (WrappingAsset: React.FC<BVWrappingAssetProps>) =>
-  ({ alt, SVGAsset, assetClassName, ...props }: BVSVGAssetProps) => (
+  ({ alt, SVGAsset, assetClassName = '', ...props }: BVSVGAssetProps) => (
     <WrappingAsset {...props}>
       <SVGAsset aria-label={alt} className={assetClassName} />
     </WrappingAsset>
@@ -36,7 +36,7 @@ interface BVImageAssetProps extends BVWrappingAssetProps {
 
 const AsImageAsset =
   (WrappingAsset: React.FC<BVWrappingAssetProps>) =>
-  ({ alt, src, assetClassName, sizes, ...props }: BVImageAssetProps) => (
+  ({ alt, src, assetClassName = '', sizes, ...props }: BVImageAssetProps) => (
     <WrappingAsset {...props}>
       <Image src={src} alt={alt} fill className={`object-cover ${assetClassName}`} sizes={sizes} />
     </WrappingAsset>
