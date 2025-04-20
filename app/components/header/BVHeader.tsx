@@ -3,7 +3,7 @@ import BVLogo from '@/public/assets/svg/bv-logo.svg';
 
 export default function BVHeader() {
   return (
-    <header className="relative w-full h-48 bg-bvprimary-green grid place-items-center">
+    <header className="relative w-full h-48 bg-bvdark-green grid place-items-center">
       <div className="absolute top-0 left-0 h-full pl-4 grid place-items-center">
         <BVSVGAsset
           SVGAsset={BVLogo}
