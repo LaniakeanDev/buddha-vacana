@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { dejaVuSans } from '../utils/fonts';
+import BVFooter from './components/BVFooter';
 
 export const metadata: Metadata = {
   title: 'Budhha Vacana - La Parole du Bouddha',
@@ -14,7 +15,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr" className={`${dejaVuSans.variable}`}>
-      <body className="">{children}</body>
+      <body className="">
+        {children}
+        <BVFooter />
+      </body>
     </html>
   );
 }
