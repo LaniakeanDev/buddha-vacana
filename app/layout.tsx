@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import { dejaVuSans } from './utils/fonts';
+import { dejaVuSans } from '../utils/fonts';
 
 export const metadata: Metadata = {
   title: 'Budhha Vacana - La Parole du Bouddha',

@@ -10,6 +10,7 @@
 
   --color-bvprimary-green: #2e8132;
   --color-bvlight-green: #4bb41d;
+  --color-bvdark-green: #0a500d;
   --color-bvrobe-regular: #bd7d36;
   --color-bvrobe-dark: #844114;
   --color-bvrobe-light: #d38e41;
@@ -17,6 +18,7 @@
   --color-gold: #edc700;
   --color-bvlightgrey: #f8f8f8;
   --color-bvmediumgrey: #e5e5e5;
+  --color-bvgreytext: #7d7d7d;
   --font-dejavusans: 'Deja Vu Sans';
 }
 

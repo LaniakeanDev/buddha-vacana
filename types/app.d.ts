@@ -11,11 +11,11 @@ type UIToolCard = Pick<IToolCardData, 'title', 'tagline'> & {
 interface ISutta {
   paliTitle: string;
   frTitle: string;
-  ref: string;
+  suttaRef: string;
   description: string;
 }
 
-type UINewSuttaCard = Pick<ISutta, 'paliTitle', 'frTitle', 'ref', 'description'> & {
+type UINewSuttaCard = Pick<ISutta, 'paliTitle', 'frTitle', 'suttaRef', 'description'> & {
   date: Date;
   timeLength: string;
 };
