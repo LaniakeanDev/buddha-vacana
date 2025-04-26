@@ -11,7 +11,7 @@ export default function BVHero() {
         sizes="100vw"
         fill
       />
-      <BVSearchbar className="absolute top-4 right-4 w-[210px]" />
+      <BVSearchbar className="absolute top-4 right-4" />
       <div className="relative z-10 ml-36 pt-32 w-4/5">
         <div className="p-4 w-[472px]">
           <p className="text-justify mb-4">
