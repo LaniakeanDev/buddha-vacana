@@ -2,13 +2,13 @@
 
 import { useState, useRef, useEffect, useCallback } from 'react';
 
-interface AccordionProps {
+interface BVAccordionProps {
   title: string;
   children: React.ReactNode;
   level?: number;
 }
 
-export default function Accordion({ title, children, level = 0 }: AccordionProps) {
+export default function BVAccordion({ title, children, level = 0 }: BVAccordionProps) {
   const [isExpanded, setIsExpanded] = useState(false);
   const contentRef = useRef<HTMLDivElement>(null);
   const [maxHeight, setMaxHeight] = useState('0px');
