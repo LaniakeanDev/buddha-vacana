@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr" className={`${dejaVuSans.variable}`} suppressHydrationWarning>
-      <body className="">
+      <body className="bg-default">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           {children}
         </ThemeProvider>
