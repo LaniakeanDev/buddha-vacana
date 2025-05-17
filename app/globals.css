@@ -22,21 +22,37 @@
   --font-dejavusans: 'Deja Vu Sans';
 }
 
-/* :root {
-  --background: #ededed;
-  --foreground: #171717;
-} */
+:root {
+  --text-default: black;
+  --background-default: white;
+}
 
-/* @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0f2607;
-    --foreground: #ededed;
-  }
-} */
+.dark {
+  --text-default: white;
+  --background-default: var(--color-bvdark-green);
+}
+
+.hide-on-dark,
+.dark .show-on-dark {
+  display: block;
+}
+
+.dark .hide-on-dark,
+.show-on-dark {
+  display: none;
+}
+
+.text-default {
+  color: var(--text-default);
+}
+
+.bg-default {
+  background-color: var(--background-default);
+}
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  /* background: var(--background);
+  color: var(--foreground); */
   font-family: var(--font-deja-vu-sans), sans-serif;
 }
 
