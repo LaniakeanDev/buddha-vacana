@@ -20,20 +20,27 @@
   --bvlightgrey: #f8f8f8;
   --bvmdgrey: #e5e5e5;
   --bvgreytext: #7d7d7d;
+  --bvdarktext: #001d03;
+  --bvwhite: #eaffec;
   --font-dejavusans: 'Deja Vu Sans';
 }
 
 :root {
   --test: #001d03;
-  --text-default: #001d03;
+  --text-default: var(--bvdarktext);
   --bg-default: white;
   --card: var(--bvlightgrey);
+  --maintitle-fr: var(--bvprimary-green);
+  /* --maintitle-pl: red; */
+  --maintitle-pl: var(--bvrobe-regular);
 }
 
 .dark {
-  --text-default: #eaffec;
+  --text-default: var(--bvwhite);
   --bg-default: var(--bvdarkgreen);
   --card: var(--bvsemidarkgreen);
+  --maintitle-pl: var(--bvrobe-regular);
+  --maintitle-fr: var(--bvgold);
 }
 
 .hide-on-dark,

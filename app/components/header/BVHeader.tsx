@@ -14,8 +14,8 @@ export default function BVHeader() {
         />
       </div>
       <h1>
-        <p className="text-6xl text-gold font-bold">Buddha Vacana</p>
-        <p className="text-[42px] text-white font-bold text-default">La parole du Bouddha</p>
+        <p className="text-6xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p>
+        <p className="text-[42px] font-bold  !text-(--maintitle-fr)">La parole du Bouddha</p>
       </h1>
     </header>
   );
