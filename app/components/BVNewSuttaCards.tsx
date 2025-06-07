@@ -14,7 +14,7 @@ const newSuttaCardsData: UINewSuttaCard[] = [newSuttaCardData, newSuttaCardData,
 
 export default function BVNewSuttaCards() {
   return (
-    <div className="flex flex-row gap-10 flex-wrap w-[1000px] m-auto">
+    <div className="flex flex-row gap-10 flex-wrap w-[466px] xl:w-[1000px] m-auto">
       {newSuttaCardsData.map((card, idx) => (
         <BVNewSuttaCard
           key={`suttacard-${String(idx)}`}
