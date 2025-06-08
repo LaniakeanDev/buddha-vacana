@@ -1,18 +1,27 @@
 @import 'tailwindcss';
 /* @import url('/public/styles/app.css'); < did not work */
 
-/* --breakpoint-2xs: 375px;
+/* 
+  --breakpoint-2xs: 375px;
   --breakpoint-xs: 480px;
   --breakpoint-3xl: 1920px;
   --breakpoint-4xl: 2560px;
-  --breakpoint-5xl: 3840px; */
-
-@theme {
-  --breakpoint-2xs: 23.4375rem;
+  --breakpoint-5xl: 3840px; 
+  
+    --breakpoint-2xs: 23.4375rem;
   --breakpoint-xs: 30rem;
   --breakpoint-3xl: 120rem;
   --breakpoint-4xl: 160rem;
   --breakpoint-5xl: 240rem;
+  
+  */
+
+@theme {
+  --breakpoint-2xs: 375px;
+  --breakpoint-xs: 480px;
+  --breakpoint-3xl: 1920px;
+  --breakpoint-4xl: 2560px;
+  --breakpoint-5xl: 3840px;
 
   --bvprimary-green: #2e8132;
   --bvsemidarkgreen: #06460a;
@@ -76,7 +85,7 @@ body {
 
 .primary-btn {
   background: linear-gradient(to top, var(--bvrobe-dark), var(--bvrobe-light));
-  @apply h-16 rounded-b-sm text-white cursor-pointer;
+  @apply h-16 rounded-sm text-white cursor-pointer;
 }
 
 p,

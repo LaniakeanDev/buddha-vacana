@@ -5,7 +5,7 @@ import DiceIcon from '@/public/assets/svg/hero/random.svg';
 
 export default function BVHero() {
   return (
-    <section className="relative w-full 2xs:h-[800px] xs:h-[800px] md:h-[750px] lg:h-[700px]">
+    <section className="relative w-full 2xs:h-[850px] xs:h-[800px] md:h-[750px] lg:h-[700px]">
       <Image
         className="object-cover z-0"
         src="/assets/img/hero-bg.jpg"
@@ -14,8 +14,8 @@ export default function BVHero() {
         fill
       />
       <BVSearchbar className="absolute top-4 right-4" />
-      <div className="relative w-[90%] z-10 m-auto md:ml-10 xl:ml-36 pt-16 sm:w-4/5">
-        <div className="mt-4 sm:mt-0 p-8 sm:w-[472px] backdrop-blur-xs bg-[#fcf6ce]/10 mb-8 rounded-xl">
+      <div className="relative w-[95%] xs:w-[90%] z-10 m-auto md:ml-10 xl:ml-36 pt-16 sm:w-4/5">
+        <div className="xs:mt-4 sm:mt-0 p-8 sm:w-[472px] backdrop-blur-xs bg-[#fcf6ce]/10 xs:mb-8 rounded-xl">
           <p className="text-justify !text-(--bvdarktext) mb-4">
             Il se peut que certains d'entre vous se disent : “C'en est fini de la parole de l'Enseignant. Nous n'avons
             plus d'Enseignant.” Mais ils ne devraient pas penser cela, car ce que j'ai déclaré et fait connaître comme
@@ -31,12 +31,12 @@ export default function BVHero() {
             — <span className="font-bold !text-(--bvprimary-green)">Mahāparinibbāna Sutta</span> —
           </p>
         </div>
-        <div className="flex flex-row justify-between">
-          <div className="flex flex-row justify-between w-[472px]">
-            <button className="primary-btn w-[210px]">
+        <div className="w-full grid  place-items-center max-w-[472px]">
+          <div className="flex flex-row gap-8 justify-center">
+            <button className="primary-btn w-32 xs:!w-48">
               <p className="!text-(--bvwhite)">Dhamma</p>
             </button>
-            <button className="primary-btn w-[210px]">
+            <button className="primary-btn w-32 xs:!w-48">
               <p className="!text-(--bvwhite)">Vinaya</p>
             </button>
           </div>
