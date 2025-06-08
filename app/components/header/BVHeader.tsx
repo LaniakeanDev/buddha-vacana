@@ -4,18 +4,24 @@ import ThemeToggle from '../BVThemeToggle';
 
 export default function BVHeader() {
   return (
-    <header className="relative w-full h-48 bg-default grid place-items-center">
-      <ThemeToggle className="absolute top-4 right-4" />
-      <div className="absolute top-0 left-0 h-full pl-4 grid place-items-center">
+    <header className="relative w-full h-30 sm:h-36 md:h-40 lg:h-48 bg-default grid place-items-center">
+      <ThemeToggle className="absolute top-2 right-2 sm:top-4 sm:right-4" />
+      <div className="absolute top-0 left-0 h-full xs:!pl-2 sm:!pl-4 grid place-items-center">
         <BVSVGAsset
           SVGAsset={BVLogo}
           alt="Logo représentant une roue du Dhamma dans un lotus"
-          containerClassName="w-32 h-32"
+          containerClassName="w-20 h-20 xs:!w-28 xs:!h-28 sm:!w-32 sm:!h-32"
         />
       </div>
-      <h1>
-        <p className="text-6xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p>
-        <p className="text-[42px] font-bold  !text-(--maintitle-fr)">La parole du Bouddha</p>
+      <h1 className="translate-x-8 xs:!translate-x-12 lg:translate-x-0">
+        {/* <p className="sm:text-4xl md:text-5xl lg:text-6xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p> */}
+        <p className="text-2xl 2xs:!text-3xl xs:!text-4xl sm:!text-5xl lg:!text-6xl text-gold font-bold !text-(--maintitle-pl)">
+          Buddha Vacana
+        </p>
+        {/* <p className="sm:text-[25.25px] md:text-[33.75px] lg:text-[42px] font-bold  !text-(--maintitle-fr)">La parole du Bouddha</p> */}
+        <p className="text-[16.75px] 2xs:!text-[21px] xs:!text-[25.25px] sm:!text-[33.75px] lg:!text-[42px] font-bold  !text-(--maintitle-fr)">
+          La parole du Bouddha
+        </p>
       </h1>
     </header>
   );

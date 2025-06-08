@@ -10,12 +10,12 @@ export default function BVNewSuttaCard({
   timeLength,
 }: UINewSuttaCard) {
   return (
-    <div className="w-[466px] h-[262px] rounded-lg py-5 drop-shadow-lg drop-shadow-black/25 bg-(--card) hover:bg-bvmediumgrey cursor-pointer flex flex-col">
+    <div className="max-w-[500px] sm:h-[262px] rounded-lg py-5 drop-shadow-lg drop-shadow-black/25 bg-(--card) hover:bg-bvmediumgrey cursor-pointer flex flex-col">
       <p className="w-full text-right text-bvgreytext text-xs pr-4">
         {date.getDate()} Avril {date.getFullYear() + 543} ({date.getFullYear()})
       </p>
-      <div className="px-8">
-        <p className="font-bold text-xl py-2">{paliTitle} Sutta</p>
+      <div className="px-6 xs:!px-8">
+        <h5 className="font-bold text-xl py-4">{paliTitle} Sutta</h5>
         <div className="w-full flex flex-row gap-7 items-center justify-start">
           <p className="font-bold">{frTitle}</p>
           <p>{suttaRef}</p>
