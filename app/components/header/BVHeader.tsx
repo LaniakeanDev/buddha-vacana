@@ -4,7 +4,7 @@ import ThemeToggle from '../BVThemeToggle';
 
 export default function BVHeader() {
   return (
-    <header className="relative w-full xs:h-32 sm:h-36 md:h-40 lg:h-48 bg-default grid place-items-center">
+    <header className="relative w-full h-32 sm:h-36 md:h-40 lg:h-48 bg-default grid place-items-center">
       <ThemeToggle className="absolute top-2 right-2 sm:top-4 sm:right-4" />
       <div className="absolute top-0 left-0 h-full pl-2 sm:pl-4 grid place-items-center">
         <BVSVGAsset
