@@ -14,7 +14,7 @@ export default function BVNewSuttaCard({
       <p className="w-full text-right text-bvgreytext text-xs pr-4">
         {date.getDate()} Avril {date.getFullYear() + 543} ({date.getFullYear()})
       </p>
-      <div className="px-6 xs:px-8">
+      <div className="px-6 xs:!px-8">
         <h5 className="font-bold text-xl py-4">{paliTitle} Sutta</h5>
         <div className="w-full flex flex-row gap-7 items-center justify-start">
           <p className="font-bold">{frTitle}</p>

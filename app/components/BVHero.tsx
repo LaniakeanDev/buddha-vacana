@@ -5,7 +5,7 @@ import DiceIcon from '@/public/assets/svg/hero/random.svg';
 
 export default function BVHero() {
   return (
-    <section className="relative w-full 2xs:h-[850px] xs:h-[800px] md:h-[750px] lg:h-[700px]">
+    <section className="relative w-full h-[820px] 2xs:!h-[850px] xs:!h-[800px] md:h-[750px] lg:h-[700px]">
       <Image
         className="object-cover z-0"
         src="/assets/img/hero-bg.jpg"
@@ -14,8 +14,8 @@ export default function BVHero() {
         fill
       />
       <BVSearchbar className="absolute top-4 right-4" />
-      <div className="relative w-[95%] xs:w-[90%] z-10 m-auto md:ml-10 xl:ml-36 pt-16 sm:w-4/5">
-        <div className="xs:mt-4 sm:mt-0 p-8 sm:w-[472px] backdrop-blur-xs bg-[#fcf6ce]/10 xs:mb-8 rounded-xl">
+      <div className="relative w-[95%] xs:!w-[90%] z-10 m-auto md:ml-10 xl:ml-36 pt-16 sm:w-4/5 flex flex-col items-center md:items-start">
+        <div className="xs:!mt-4 sm:mt-0 p-4 2xs:!p-8 max-w-[472px] backdrop-blur-xs bg-[#fcf6ce]/10 xs:!mb-8 rounded-xl">
           <p className="text-justify !text-(--bvdarktext) mb-4">
             Il se peut que certains d'entre vous se disent : “C'en est fini de la parole de l'Enseignant. Nous n'avons
             plus d'Enseignant.” Mais ils ne devraient pas penser cela, car ce que j'ai déclaré et fait connaître comme
