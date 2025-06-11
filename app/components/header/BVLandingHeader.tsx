@@ -2,7 +2,7 @@ import { BVSVGAsset } from '../BVAsset';
 import BVLogo from '@/public/assets/svg/bv-logo.svg';
 import ThemeToggle from '../BVThemeToggle';
 
-export default function BVHeader() {
+export default function BVLandingHeader() {
   return (
     <header className="relative w-full h-30 sm:h-36 md:h-40 lg:h-48 bg-default grid place-items-center">
       <ThemeToggle className="absolute top-2 right-2 sm:top-4 sm:right-4" />
@@ -10,8 +10,7 @@ export default function BVHeader() {
         <BVSVGAsset
           SVGAsset={BVLogo}
           alt="Logo représentant une roue du Dhamma dans un lotus"
-          // containerClassName="w-20 h-20 xs:!w-28 xs:!h-28 sm:!w-32 sm:!h-32"
-          containerClassName="w-20 h-20"
+          containerClassName="w-20 h-20 xs:!w-28 xs:!h-28 sm:!w-32 sm:!h-32"
         />
       </div>
       <h1 className="translate-x-8 xs:!translate-x-12 lg:translate-x-0">

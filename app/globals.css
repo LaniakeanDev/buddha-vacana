@@ -56,6 +56,7 @@
   --maintitle-fr: var(--bvprimary-green);
   /* --maintitle-pl: red; */
   --maintitle-pl: var(--bvrobe-regular);
+  --emphasis: var(--bvmdgrey);
 }
 
 .dark {
@@ -64,6 +65,7 @@
   --card: var(--bvsemidarkgreen);
   --maintitle-pl: var(--bvrobe-regular);
   --maintitle-fr: var(--bvgold);
+  --emphasis: var(--bvrobe-dark);
 }
 
 .hide-on-dark,
