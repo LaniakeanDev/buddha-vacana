@@ -1,11 +1,11 @@
 /* .primary-btn {
   @apply h-20 rounded-b-sm
-  background: linear-gradient(to top, --color-bvrobe-dark, --color-bvrobe-light);
+  background: linear-gradient(to top, --color-robe-dark, --color-robe-light);
 } */
 
 .card {
-  background: linear-gradient(to top right, #c0d3c0, #d5e7d5);
-  border: solid 1px #c0d3c0;
+  background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
+  border: solid 1px #d0dbd0;
   transition: ease-in 0.3s;
 }
 
@@ -16,4 +16,8 @@
 
 .card:hover {
   box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.25);
+}
+
+.card:hover h2 {
+  color: var(--gold)!important;
 }
