@@ -13,7 +13,7 @@ export default function BVLandingHeader() {
           containerClassName="w-20 h-20 xs:!w-28 xs:!h-28 sm:!w-32 sm:!h-32"
         />
       </div>
-      <h1 className="translate-x-8 xs:!translate-x-12 lg:translate-x-0">
+      <h1 className="translate-x-8 xs:!translate-x-12 lg:!translate-x-0">
         {/* <p className="sm:text-4xl md:text-5xl lg:text-6xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p> */}
         <p className="text-2xl 2xs:!text-3xl xs:!text-4xl sm:!text-5xl lg:!text-6xl text-gold font-bold !text-(--maintitle-pl)">
           Buddha Vacana

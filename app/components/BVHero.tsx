@@ -2,6 +2,7 @@ import Image from 'next/image';
 import BVSearchbar from './BVSearchbar';
 import NewContentIcon from '@/public/assets/svg/hero/new-content.svg';
 import DiceIcon from '@/public/assets/svg/hero/random.svg';
+import Link from 'next/link';
 
 export default function BVHero() {
   return (
@@ -41,9 +42,11 @@ export default function BVHero() {
         </div>
         <div className="w-full grid  place-items-center max-w-[472px]">
           <div className="flex flex-row gap-8 justify-center">
-            <button className="primary-btn w-32 xs:!w-48">
-              <p className="!text-(--bvwhite) text-lg xs:!text-2xl">Dhamma</p>
-            </button>
+            <Link href="/dhamma">
+              <button className="primary-btn w-32 xs:!w-48">
+                <p className="!text-(--bvwhite) text-lg xs:!text-2xl">Dhamma</p>
+              </button>
+            </Link>
             <button className="primary-btn w-32 xs:!w-48">
               <p className="!text-(--bvwhite) text-lg xs:!text-2xl">Vinaya</p>
             </button>

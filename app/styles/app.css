@@ -1,0 +1,19 @@
+/* .primary-btn {
+  @apply h-20 rounded-b-sm
+  background: linear-gradient(to top, --color-bvrobe-dark, --color-bvrobe-light);
+} */
+
+.card {
+  background: linear-gradient(to top right, #c0d3c0, #d5e7d5);
+  border: solid 1px #c0d3c0;
+  transition: ease-in 0.3s;
+}
+
+.dark .card {
+  background: linear-gradient(to top right, #420301, #2e092b);
+  border: solid 1px rgb(110, 110, 110);
+}
+
+.card:hover {
+  box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.25);
+}
