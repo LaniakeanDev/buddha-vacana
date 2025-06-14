@@ -14,8 +14,8 @@ export default function BVHeader() {
           containerClassName="w-20 h-20"
         />
         <h1>
-          <p className="text-2xl 2xs:!text-3xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p>
-          <p className="text-[16.75px] 2xs:!text-[21px] font-bold  !text-(--maintitle-fr)">La parole du Bouddha</p>
+          <p className="text-2xl lg:!text-3xl text-gold font-bold !text-(--maintitle-pl)">Buddha Vacana</p>
+          <p className="text-[16.75px] lg:!text-[21px] font-bold  !text-(--maintitle-fr)">La parole du Bouddha</p>
         </h1>
       </Link>
     </header>
