@@ -11,7 +11,7 @@ export default function BVFooter() {
   const whiteBlockItemStyle = 'text-xs text-white';
 
   return (
-    <footer className="px-8 pb-6 pt-12 w-full flex flex-row justify-between items-start bg-bvdark-green footer">
+    <footer className="px-8 pb-6 pt-12 w-full flex flex-row justify-between items-start bg-(--bvsemidarkgreen) footer">
       <div>
         <h4 className="text-2xl text-white">Buddha Vacana</h4>
         <p className="text-white">La Parole du Bouddha</p>
