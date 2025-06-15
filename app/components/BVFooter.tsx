@@ -3,7 +3,6 @@ import FacebookIcon from '@/public/assets/svg/facebook.svg';
 import GithubIcon from '@/public/assets/svg/github.svg';
 import { BVSVGAsset } from './BVAsset';
 import BVSearchbar from './BVSearchbar';
-import './styles/footer.css';
 
 export default function BVFooter() {
   const whiteBoxStyle = 'bg-[#d9d9d9]/20 pt-8 rounded-lg';
