@@ -5,7 +5,7 @@ import BVFooter from './components/BVFooter';
 
 export const metadata: Metadata = {
   title: 'Budhha Vacana - La Parole du Bouddha',
-  description: 'Traductions de souttas en français',
+  description: 'Traductions de souttas en Français',
 };
 
 export default function RootLayout({
