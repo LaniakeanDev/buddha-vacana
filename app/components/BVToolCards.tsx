@@ -37,7 +37,7 @@ export default function BVToolCards() {
   }
 
   return (
-    <div className="flex flex-row gap-10 flex-wrap w-[1144px] m-auto">
+    <div className="flex flex-row gap-10 flex-wrap w-[256px] sm:w-[552px] lg:w-[848px] xl:w-[1144px] m-auto">
       {toolCardData.map((item, idx) => {
         const SVGComponent = TOOL_SVG_URL_MAP[item.svgId];
         return (
