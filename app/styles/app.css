@@ -1,23 +1,16 @@
-/* .primary-btn {
-  @apply h-20 rounded-b-sm
-  background: linear-gradient(to top, --color-robe-dark, --color-robe-light);
-} */
-
-.card {
-  background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
-  border: solid 1px #d0dbd0;
-  transition: ease-in 0.3s;
+.primary-btn {
+  background: linear-gradient(to top, var(--robe-dark), var(--robe-light));
+  @apply h-16 rounded-sm text-white cursor-pointer;
 }
 
-.dark .card {
-  background: linear-gradient(to top right, #420301, #2e092b);
-  border: solid 1px rgb(110, 110, 110);
+p,
+h1,
+h2,
+h3 {
+  color: var(--text-default);
 }
 
-.card:hover {
-  box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.25);
-}
-
-.card:hover h2 {
+/* .card:hover h3 p,
+.card:hover h3 p span {
   color: var(--gold)!important;
-}
+} */

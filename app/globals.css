@@ -1,25 +1,6 @@
 @import url('./styles/app.css');
 
 @import 'tailwindcss';
-/* @import url('/public/styles/app.css'); < did not work */
-
-/* 
-  --breakpoint-2xs: 375px;
-  --breakpoint-xs: 480px;
-  --breakpoint-sm: 640px;
-  --breakpoint-md: 768px;
-  --breakpoint-lg: 1280px;
-  --breakpoint-3xl: 1920px;
-  --breakpoint-4xl: 2560px;
-  --breakpoint-5xl: 3840px;
-  
-  --breakpoint-2xs:! 23.4375rem;
-  --breakpoint-xs:! 30rem;
-  --breakpoint-3xl: 120rem;
-  --breakpoint-4xl: 160rem;
-  --breakpoint-5xl: 240rem;
-  
-  */
 
 @theme {
   --breakpoint-2xs: 23.4375rem;
@@ -47,6 +28,7 @@
   --greytext: #7d7d7d;
   --darktext: #001d03;
   --white: #eaffec;
+
   --font-dejavusans: 'Deja Vu Sans';
 }
 
@@ -56,8 +38,9 @@
   --bg-default: white;
   --card: var(--lightgrey);
   --maintitle-fr: var(--primary-green);
-  /* --maintitle-pl: red; */
   --maintitle-pl: var(--robe-regular);
+  --page-title: var(--semidarkgreen);
+  /* --page-title: var(--primary-green); */
   --emphasis: var(--semidarkgreen);
   --card-title: var(--robe-dark);
 }
@@ -68,6 +51,7 @@
   --card: var(--semidarkgreen);
   --maintitle-pl: var(--robe-regular);
   --maintitle-fr: var(--gold);
+  --page-title: var(--white);
   --emphasis: var(--robe-dark);
   --card-title: var(--gold);
 }
@@ -82,29 +66,31 @@
   display: none;
 }
 
+body {
+  font-family: var(--font-deja-vu-sans), sans-serif;
+}
+
 .text-default {
   color: var(--text-default);
 }
 
 .bg-default {
-  /* background-color: yellow; */
   background-color: var(--bg-default);
 }
 
-body {
-  /* background: var(--background);
-  color: var(--foreground); */
-  font-family: var(--font-deja-vu-sans), sans-serif;
+.card {
+  background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
+  border: solid 1px #d0dbd0;
+  transition: ease-in 0.3s;
 }
 
-.primary-btn {
-  background: linear-gradient(to top, var(--robe-dark), var(--robe-light));
-  @apply h-16 rounded-sm text-white cursor-pointer;
+.dark .card {
+  background: linear-gradient(to top right, #420301, #2e092b);
+  border: solid 1px rgb(110, 110, 110);
 }
 
-p,
-h1,
-h2,
-h3 {
-  color: var(--text-default);
+.card:hover {
+  box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.25);
+  /* background: linear-gradient(to top right, #420301, #2e092b);
+  transition: ease-in 0.3s; */
 }

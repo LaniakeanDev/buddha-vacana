@@ -6,7 +6,7 @@ export default function Dhamma() {
     <main className="pb-32">
       <div className="w-full grid place-items-center">
         <div className="w-[90vw] max-w-3xl mb-16">
-          <h1 className="font-semibold text-4xl md:!text-6xl text-center mt-4 mb-8">Dhamma</h1>
+          <h1 className="font-semibold text-4xl md:!text-6xl text-center !text-(--page-title) mt-4 mb-8">Dhamma</h1>
           <p className="xs:text-justify mb-4 indent-4">
             Le terme « Dhamma » recouvre plusieurs significations, dont celles d'« Enseignement » et de « Loi de la
             Nature ». Dans ce dernier sens, il désigne les lois universelles et incontournables qui régissent

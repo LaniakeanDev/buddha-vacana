@@ -6,7 +6,9 @@ export default function NikayaCard({ titlePl, titleFr, description, count, short
       </div>
       <div className="w-full grid place-items-center mb-4">
         <h3>
-          <p className="text-xl sm:!text-2xl text-center !text-(--card-title)">{titlePl}</p>
+          <p className="text-xl sm:!text-2xl text-center !text-(--card-title)">
+            <span>{titlePl}</span>
+          </p>
           <p className="text-lg sm:!text-xl text-center">{titleFr}</p>
         </h3>
       </div>
