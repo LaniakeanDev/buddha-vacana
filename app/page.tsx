@@ -2,12 +2,12 @@ import BVHero from './components/BVHero';
 import BVNewSuttaCards from './components/BVNewSuttaCards';
 import BVSection from './components/BVSection';
 import BVToolCards from './components/BVToolCards';
-import BVHeader from './components/header/BVHeader';
+import BVLandingHeader from './components/header/BVLandingHeader';
 
 export default function Home() {
   return (
-    <div>
-      <BVHeader />
+    <main>
+      <BVLandingHeader />
       <BVHero />
       <BVSection title="Outils">
         <BVToolCards />
@@ -15,6 +15,6 @@ export default function Home() {
       <BVSection title="Nouveautés">
         <BVNewSuttaCards />
       </BVSection>
-    </div>
+    </main>
   );
 }
