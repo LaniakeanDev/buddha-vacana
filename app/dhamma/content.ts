@@ -1,3 +1,9 @@
+export const dhammaPresentation: string[] = [
+  "Le terme « Dhamma » recouvre plusieurs significations, dont celles d'« Enseignement » et de « Loi de la Nature ». Dans ce dernier sens, il désigne les lois universelles et incontournables qui régissent l'existence de tous les êtres vivants, à l'instar des lois fondamentales de la physique.",
+  "Le Dhamma représente ainsi l'enseignement qui expose les lois primordiales de notre existence, ainsi que la manière de les utiliser à notre avantage afin d'éliminer l'insatisfaction et de se libérer des souffrances inhérentes à la condition humaine.",
+  "Parmi tout ce qui nous est accessible aujourd'hui, les enseignements qui se rapprochent le plus de la parole même du Bouddha se trouvent dans les cinq collections qui suivent.",
+];
+
 export const nikayaPresentationData: INikayaPresentationData[] = [
   {
     id: 'digha',
