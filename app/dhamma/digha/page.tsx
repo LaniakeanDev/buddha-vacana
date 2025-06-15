@@ -17,6 +17,7 @@ export default function Digha() {
             identifier={item.identifier}
             translator={item.translator}
             readingTime={item.readingTime}
+            key={`sutta-card-${item.identifier}`}
           />
         ))}
       </div>

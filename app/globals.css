@@ -1,6 +1,6 @@
-@import url('./styles/app.css');
-
 @import 'tailwindcss';
+
+@import './styles/app.css';
 
 @theme {
   --breakpoint-2xs: 23.4375rem;
@@ -66,6 +66,9 @@
   display: none;
 }
 
+/* should be in app/styles/app.css */
+
+/* generally applicable styles */
 body {
   font-family: var(--font-deja-vu-sans), sans-serif;
 }
@@ -78,10 +81,35 @@ body {
   background-color: var(--bg-default);
 }
 
+p,
+h1,
+h2,
+h3 {
+  color: var(--text-default);
+}
+
+.center {
+  @apply w-full grid place-items-center;
+}
+
+/* general components  */
+
+/* a problem to solve here... */
+.primary-btn {
+  background: linear-gradient(to top, var(--robe-dark), var(--robe-light));
+  @apply h-16 rounded-sm text-white cursor-pointer;
+}
+
+.primary-btn {
+  @apply h-20 rounded-b-sm
+  background: linear-gradient(to top, --color-robe-dark, --color-robe-light);
+}
+
 .card {
   background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
   border: solid 1px #d0dbd0;
   transition: ease-in 0.3s;
+  @apply rounded-xl relative cursor-pointer pt-6 pb-4 px-6 sm:!px-8 w-[90vw] max-w-xl;
 }
 
 .dark .card {
@@ -93,4 +121,8 @@ body {
   box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.25);
   /* background: linear-gradient(to top right, #420301, #2e092b);
   transition: ease-in 0.3s; */
+}
+
+.card-list-container {
+  @apply w-full flex flex-col items-center gap-8;
 }

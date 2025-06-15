@@ -12,7 +12,7 @@ export default function SuttaCard({
   // tags
 }: ISuttaData) {
   return (
-    <div>
+    <div className="card">
       <div className="center">
         <p>{identifier}</p>
       </div>

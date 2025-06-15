@@ -25,14 +25,15 @@ export default function Dhamma() {
         </div>
       </div>
       <div className="card-list-container">
-        {nikayaPresentationData.map((card, idx) => (
+        {nikayaPresentationData.map((card) => (
           <NikayaCard
             plTitle={card.plTitle}
             frTitle={card.frTitle}
             description={card.description}
             count={card.count}
             short={card.short}
-            key={`nikaya-card-${String(idx)}`}
+            id={card.id}
+            key={card.id}
           />
         ))}
       </div>
