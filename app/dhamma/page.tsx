@@ -1,13 +1,13 @@
 import BVPageTitle from '../components/BVPageTitle';
 import NikayaCard from './components/NikayaCard';
-import { nikayaCardsData } from './content';
+import { nikayaPresentationData } from './content';
 
 export default function Dhamma() {
   return (
     <main className="pb-32">
       <div className="w-full grid place-items-center">
         <div className="w-[90vw] max-w-3xl mb-16">
-          <BVPageTitle>Dhamma</BVPageTitle>
+          <BVPageTitle plTitle="Dhamma" frTitle="L'Enseignement" />
           <p className="xs:text-justify mb-4 indent-4">
             Le terme « Dhamma » recouvre plusieurs significations, dont celles d'« Enseignement » et de « Loi de la
             Nature ». Dans ce dernier sens, il désigne les lois universelles et incontournables qui régissent
@@ -24,11 +24,11 @@ export default function Dhamma() {
           </p>
         </div>
       </div>
-      <div className="w-full flex flex-col items-center gap-8">
-        {nikayaCardsData.map((card, idx) => (
+      <div className="card-list-container">
+        {nikayaPresentationData.map((card, idx) => (
           <NikayaCard
-            titlePl={card.titlePl}
-            titleFr={card.titleFr}
+            plTitle={card.plTitle}
+            frTitle={card.frTitle}
             description={card.description}
             count={card.count}
             short={card.short}

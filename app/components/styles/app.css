@@ -2,3 +2,11 @@
   @apply h-20 rounded-b-sm
   background: linear-gradient(to top, --color-robe-dark, --color-robe-light);
 }
+
+.card-list-container {
+  @apply w-full flex flex-col items-center gap-8;
+}
+
+.center {
+  @apply w-full grid place-items-center;
+}
