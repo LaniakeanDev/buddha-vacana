@@ -11,8 +11,10 @@ export default function PageHead({ plTitle, frTitle, pageDescription }: PageHead
     <div className="w-full grid place-items-center">
       <div className="w-[90vw] max-w-3xl mb-16">
         <BVPageTitle plTitle={plTitle} frTitle={frTitle} />
-        {pageDescription.map((paragraph) => (
-          <p className="xs:text-justify mb-4 indent-4">{paragraph}</p>
+        {pageDescription.map((paragraph, idx) => (
+          <p className="xs:text-justify mb-4 indent-4" key={`parag-${String(idx)}`}>
+            {paragraph}
+          </p>
         ))}
       </div>
     </div>
