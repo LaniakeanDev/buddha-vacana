@@ -41,7 +41,7 @@ export default function BVFooter() {
               <div className={whiteBlockStyle}>
                 <div className="w-full grid place-items-center">
                   <div className="flex flex-col gap-2">
-                    <h6 className="font-bold">Outils</h6>
+                    <h6 className={whiteBlockTitleStyle}>Outils</h6>
                     <p className={whiteBlockItemStyle}>Marque-pages</p>
                     <p className={whiteBlockItemStyle}>Glossaire</p>
                     <p className={whiteBlockItemStyle}>Formules Pali</p>
@@ -51,7 +51,7 @@ export default function BVFooter() {
               <div className={whiteBlockStyle}>
                 <div className="w-full grid place-items-center">
                   <div className="flex flex-col gap-2">
-                    <h6 className="font-bold">Informations</h6>
+                    <h6 className={whiteBlockTitleStyle}>Informations</h6>
                     <p className={whiteBlockItemStyle}>Anthologies</p>
                     <p className={whiteBlockItemStyle}>Cartes</p>
                     <p className={whiteBlockItemStyle}>Articles</p>
