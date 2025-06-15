@@ -1,0 +1,26 @@
+import CardContent from './CardContent';
+
+export default function SuttaCard({
+  plTitle,
+  frTitle,
+  description,
+  identifier,
+  translator,
+  readingTime,
+  // themes,
+  // similes,
+  // tags
+}: ISuttaData) {
+  return (
+    <div className="card">
+      <div className="center mb-4">
+        <p>{identifier}</p>
+      </div>
+      <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
+      <div className="w-full flex flex-row justify-between">
+        <p>{translator}</p>
+        <p>{readingTime}</p>
+      </div>
+    </div>
+  );
+}

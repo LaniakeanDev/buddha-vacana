@@ -1,10 +1,12 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { dejaVuSans } from '../utils/fonts';
+import BVFooter from './components/BVFooter';
+import { ThemeProvider } from 'next-themes';
 
 export const metadata: Metadata = {
   title: 'Budhha Vacana - La Parole du Bouddha',
-  description: 'Traductions de souttas en français',
+  description: 'Traductions de souttas en Français',
 };
 
 export default function RootLayout({
@@ -13,8 +15,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fr" className={`${dejaVuSans.variable}`}>
-      <body className="">{children}</body>
+    <html lang="fr" className={`${dejaVuSans.variable}`} suppressHydrationWarning>
+      <body className="bg-default">
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          {children}
+        </ThemeProvider>
+        <BVFooter />
+      </body>
     </html>
   );
 }
