@@ -9,7 +9,7 @@ export default function BVFooter() {
   const whiteBoxStyle = 'bg-[#d9d9d9]/20 pt-8 rounded-lg';
   const whiteBlockStyle = `${whiteBoxStyle} w-[175px] h-[190px]`;
   return (
-    <footer className="px-4 md:px-8 pb-6 pt-12 w-full bg-(--bvsemidarkgreen) footer">
+    <footer className="px-4 md:px-8 pb-6 pt-12 w-full bg-(--semidarkgreen) footer">
       <div className="flex flex-col gap-8 w-full justify-between sm:items-start sm:flex-row sm:gap-0 items-center">
         <div className="w-48">
           <h4 className="text-2xl text-center text-white w-48">Buddha Vacana</h4>
