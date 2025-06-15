@@ -1,6 +1,0 @@
-@import 'tailwindcss';
-
-.footer p,
-.footer h6 {
-  @apply text-white;
-}
