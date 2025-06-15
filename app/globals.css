@@ -78,6 +78,13 @@ body {
   background-color: var(--bg-default);
 }
 
+p,
+h1,
+h2,
+h3 {
+  color: var(--text-default);
+}
+
 .card {
   background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
   border: solid 1px #d0dbd0;
@@ -98,4 +105,12 @@ body {
 .primary-btn {
   background: linear-gradient(to top, var(--robe-dark), var(--robe-light));
   @apply h-16 rounded-sm text-white cursor-pointer;
+}
+
+.card-list-container {
+  @apply w-full flex flex-col items-center gap-8;
+}
+
+.center {
+  @apply w-full grid place-items-center;
 }
