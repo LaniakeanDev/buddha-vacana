@@ -8,39 +8,74 @@
   --breakpoint-4xl: 2560px;
   --breakpoint-5xl: 3840px;
 
-  --color-bvprimary-green: #2e8132;
-  --color-bvlight-green: #4bb41d;
-  --color-bvdark-green: #0a500d;
-  --color-bvrobe-regular: #bd7d36;
-  --color-bvrobe-dark: #844114;
-  --color-bvrobe-light: #d38e41;
-  --color-bvrobe-semidark: #ac6b2a;
-  --color-gold: #edc700;
-  --color-bvlightgrey: #f8f8f8;
-  --color-bvmediumgrey: #e5e5e5;
-  --color-bvgreytext: #7d7d7d;
+  --bvprimary-green: #2e8132;
+  --bvsemidarkgreen: #06460a;
+  --bvdarkgreen: #032e05;
+  --bvrobe-regular: #bd7d36;
+  --bvrobe-dark: #844114;
+  --bvrobe-light: #d38e41;
+  --bvrobe-semidark: #ac6b2a;
+  --bvgold: #edc700;
+  --bvlightgreen: #8cf191;
+  --bvlightgrey: #f8f8f8;
+  --bvmdgrey: #e5e5e5;
+  --bvgreytext: #7d7d7d;
+  --bvdarktext: #001d03;
+  --bvwhite: #eaffec;
   --font-dejavusans: 'Deja Vu Sans';
 }
 
-/* :root {
-  --background: #ededed;
-  --foreground: #171717;
-} */
+:root {
+  --test: #001d03;
+  --text-default: var(--bvdarktext);
+  --bg-default: white;
+  --card: var(--bvlightgrey);
+  --maintitle-fr: var(--bvprimary-green);
+  /* --maintitle-pl: red; */
+  --maintitle-pl: var(--bvrobe-regular);
+}
 
-/* @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0f2607;
-    --foreground: #ededed;
-  }
-} */
+.dark {
+  --text-default: var(--bvwhite);
+  --bg-default: var(--bvdarkgreen);
+  --card: var(--bvsemidarkgreen);
+  --maintitle-pl: var(--bvrobe-regular);
+  --maintitle-fr: var(--bvgold);
+}
+
+.hide-on-dark,
+.dark .show-on-dark {
+  display: block;
+}
+
+.dark .hide-on-dark,
+.show-on-dark {
+  display: none;
+}
+
+.text-default {
+  color: var(--text-default);
+}
+
+.bg-default {
+  /* background-color: yellow; */
+  background-color: var(--bg-default);
+}
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  /* background: var(--background);
+  color: var(--foreground); */
   font-family: var(--font-deja-vu-sans), sans-serif;
 }
 
 .primary-btn {
-  background: linear-gradient(to top, var(--color-bvrobe-dark), var(--color-bvrobe-light));
+  background: linear-gradient(to top, var(--bvrobe-dark), var(--bvrobe-light));
   @apply h-16 rounded-b-sm text-white cursor-pointer;
+}
+
+p,
+h1,
+h2,
+h3 {
+  color: var(--text-default);
 }

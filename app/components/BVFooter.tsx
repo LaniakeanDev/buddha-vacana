@@ -7,14 +7,14 @@ import BVSearchbar from './BVSearchbar';
 export default function BVFooter() {
   const whiteBoxStyle = 'bg-[#d9d9d9]/20 pt-8 rounded-lg';
   const whiteBlockStyle = `${whiteBoxStyle} w-[175px] h-[190px]`;
-  const whiteBlockTitleStyle = 'font-bold text-white';
-  const whiteBlockItemStyle = 'text-xs text-white';
+  const whiteBlockTitleStyle = 'font-bold !text-white';
+  const whiteBlockItemStyle = 'text-xs !text-white';
 
   return (
-    <footer className="px-8 pb-6 pt-12 w-full flex flex-row justify-between items-start bg-bvdark-green footer">
+    <footer className="px-8 pb-6 pt-12 w-full flex flex-row justify-between items-start bg-(--bvsemidarkgreen) footer">
       <div>
-        <h4 className="text-2xl text-white">Buddha Vacana</h4>
-        <p className="text-white">La Parole du Bouddha</p>
+        <h4 className="text-2xl !text-white">Buddha Vacana</h4>
+        <p className="!text-white">La Parole du Bouddha</p>
         <BVSVGAsset
           SVGAsset={BVLogo}
           alt="Logo représentant une roue du Dhamma dans un lotus"
