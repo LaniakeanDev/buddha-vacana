@@ -89,6 +89,7 @@ h3 {
   background: linear-gradient(to top right, #d0dbd0, #f1f8f1);
   border: solid 1px #d0dbd0;
   transition: ease-in 0.3s;
+  @apply rounded-xl relative cursor-pointer pt-6 pb-4 px-6 sm:!px-8 w-[90vw] max-w-3xl;
 }
 
 .dark .card {

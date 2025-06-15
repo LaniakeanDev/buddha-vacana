@@ -12,8 +12,8 @@ export default function SuttaCard({
   // tags
 }: ISuttaData) {
   return (
-    <div>
-      <div className="center">
+    <div className="card">
+      <div className="center mb-4">
         <p>{identifier}</p>
       </div>
       <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
