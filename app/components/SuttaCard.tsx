@@ -1,4 +1,5 @@
 import CardContent from './CardContent';
+import CardIdentifier from './CardIdentifier';
 
 export default function SuttaCard({
   plTitle,
@@ -13,9 +14,7 @@ export default function SuttaCard({
 }: ISuttaData) {
   return (
     <div className="card">
-      <div className="center mb-4">
-        <p>{identifier}</p>
-      </div>
+      <CardIdentifier content={identifier} className="!w-16" />
       <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
       <div className="w-full flex flex-row justify-between">
         <p>{translator}</p>
