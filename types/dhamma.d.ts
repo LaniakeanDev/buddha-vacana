@@ -1,3 +1,5 @@
+type NikayaEnum = 'dn' | 'mn' | 'sm' | 'an' | 'kn';
+
 interface INikayaPresentationData {
   id: 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
   plTitle: string;
