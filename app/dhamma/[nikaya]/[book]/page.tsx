@@ -19,21 +19,25 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
     const { plTitle, frTitle, description, body } = suttaData;
     console.log({ suttaData });
     return (
-      <div>
-        <h1>
-          <p>{plTitle}</p>
-          <p>{frTitle}</p>
-        </h1>
-        <p>{description}</p>
-        <div>
+      <main className="py-8">
+        <div className="w-full flex flex-col items-center gap-4">
+          <h1 className="w-fit flex flex-col items-center">
+            <p className="text-3xl">{plTitle}</p>
+            <p className="text-xl">{frTitle}</p>
+          </h1>
+          <hr />
+          <p className="max-w-lg text-justify">{description}</p>
+          <hr />
+        </div>
+        <div className="p-4">
           {body.map((paragraph, idx) => (
-            <div key={`${suttaId}-p${String(idx + 1)}`}>
-              <p>{paragraph.fr}</p>
-              <p>{paragraph.pl}</p>
+            <div key={`${suttaId}-p${String(idx + 1)}`} className="flex flex-col gap-2 lg:flex-row lg:gap-8 p-2">
+              <p className="lg:flex-1 text-justify">{paragraph.fr}</p>
+              <p className="lg:flex-1">{paragraph.pl}</p>
             </div>
           ))}
         </div>
-      </div>
+      </main>
     );
   }
   return <p>Soutta non trouvé</p>;
