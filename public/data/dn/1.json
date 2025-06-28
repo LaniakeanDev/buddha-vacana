@@ -1,0 +1,20 @@
+{
+  "shortRef": "DN 1",
+  "plTitle": "Brahmajāla Sutta",
+  "frTitle": "Le filet contenant toutes les opinions",
+  "description": "Dans le but de montrer les raisons non triviales de faire l'éloge du Bouddha, celui-ci formule un long discours qui catégorise en 62 types toutes les croyances que les hommes pourront jamais formuler à propos de la nature de l'existence.",
+  "body": [
+    {
+      "pl": "Evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā antarā ca rājagahaṃ antarā ca nāḷandaṃ addhānamaggappaṭipanno hoti mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi. suppiyopi kho paribbājako antarā ca rājagahaṃ antarā ca nāḷandaṃ addhānamaggappaṭipanno hoti saddhiṃ antevāsinā brahmadattena māṇavena.",
+      "fr": "Un [jour|mahiccha] le [Fortuné|bhagava] fit le long voyage entre Rājagaha et Nāḷanda, accompagné de [nombreux|abhijjha] mendiants, [environ|mahiccha] cinq cent en tout. Suppiya, un renonçant, faisait aussi le long voyage entre Rājagaha et Nāḷanda, accompagné de son élève, le jeune Brahmadattā."
+    },
+    {
+      "pl": "tatra sudaṃ suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati, dhammassa avaṇṇaṃ bhāsati, saṅghassa avaṇṇaṃ bhāsati; suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena buddhassa vaṇṇaṃ bhāsati, dhammassa vaṇṇaṃ bhāsati, saṅghassa vaṇṇaṃ bhāsati. itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā bhagavantaṃ piṭṭhito piṭṭhito anubandhā honti bhikkhusaṅghañca.",
+      "fr": "Pendant le voyage, Suppiya le renonçant dénigrait le Bouddha, le Dhamma et le Saṅgha de différentes manières. Le jeune Brahmadattā, l'élève de Suppiya, cependant, faisait l'éloge du Bouddha, du Dhamma et du Saṅgha de différentes manières. Ainsi, l'instructeur et l'élève, disant chacun des choses contradictoires par rapport à l'autre, suivirent derrière le Fortuné et la compagnie de mendiants."
+    }
+  ]
+}
