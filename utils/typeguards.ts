@@ -33,6 +33,7 @@ export function isISuttaData(data: unknown): data is ISuttaData {
 
   // Check required top-level properties
   if (
+    typeof potentialSutta.shortRef !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
     typeof potentialSutta.description !== 'string'
@@ -57,5 +58,18 @@ export function isISuttaData(data: unknown): data is ISuttaData {
     }
   }
 
+  return true;
+}
+
+export function isIGlossEntryData(data: unknown): data is IGlossEntryData {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+
+  const potentialGlossEntry = data as Record<string, unknown>;
+
+  if (typeof potentialGlossEntry.id !== 'string' || typeof potentialGlossEntry.content !== 'string') {
+    return false;
+  }
   return true;
 }

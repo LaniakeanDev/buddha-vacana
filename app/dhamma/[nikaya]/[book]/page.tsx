@@ -1,8 +1,8 @@
-// 'use client';
-
-import { readFileSync } from 'fs';
 import path from 'path';
+import { readFileSync } from 'fs';
 import { isISuttaData } from '@/utils/typeguards';
+import SuttaTextBody from '@/app/components/SuttaTextBody';
+import glossEntry from '@/public/glossary/abhijjha.json';
 
 interface SuttaPageProps {
   params: {
@@ -16,11 +16,12 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
   const { nikaya, book, suttaId } = await params;
   const suttaData = getSuttaData(nikaya, book, suttaId);
   if (suttaData && isISuttaData(suttaData)) {
-    const { plTitle, frTitle, description, body } = suttaData;
-    console.log({ suttaData });
+    const { shortRef, plTitle, frTitle, description, body } = suttaData;
+    // console.log({ suttaData });
     return (
       <main className="py-8">
         <div className="w-full flex flex-col items-center gap-4">
+          <p className="font-bold">{shortRef}</p>
           <h1 className="w-fit flex flex-col items-center">
             <p className="text-3xl">{plTitle}</p>
             <p className="text-xl">{frTitle}</p>
@@ -30,12 +31,13 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
           <hr />
         </div>
         <div className="p-4">
-          {body.map((paragraph, idx) => (
+          {/* {body.map((paragraph, idx) => (
             <div key={`${suttaId}-p${String(idx + 1)}`} className="flex flex-col gap-2 lg:flex-row lg:gap-8 p-2">
-              <p className="lg:flex-1 text-justify">{paragraph.fr}</p>
-              <p className="lg:flex-1">{paragraph.pl}</p>
+              <p className="lg:flex-100 text-justify indent-4">{paragraph.fr}</p>
+              <p className="lg:flex-95">{paragraph.pl}</p>
             </div>
-          ))}
+          ))} */}
+          <SuttaTextBody blocks={body} glossEntries={[glossEntry]} />
         </div>
       </main>
     );
@@ -62,7 +64,6 @@ function getSuttaData(nikaya: string, level1: string, level2: string | undefined
 
   try {
     const suttaFileContents = readFileSync(suttaPath, 'utf8');
-    console.log({ suttaFileContents });
     return JSON.parse(suttaFileContents);
   } catch (error) {
     // console.log({error});

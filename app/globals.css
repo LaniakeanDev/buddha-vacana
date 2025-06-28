@@ -115,3 +115,16 @@ h3 {
 .center {
   @apply w-full grid place-items-center;
 }
+
+.sutta-gloss-word {
+  text-decoration: none;
+  color: white;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: #406135;
+}
+.sutta-gloss-word:hover,
+.sutta-gloss-word:focus {
+  text-decoration: none;
+  color: #adeb76;
+}
