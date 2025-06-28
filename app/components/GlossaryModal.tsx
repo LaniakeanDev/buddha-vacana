@@ -26,11 +26,18 @@ export default function GlossaryModal({
   entries,
   closeModal,
 }: GlossaryModalProps) {
-  console.log('GlossaryModal:21');
-  console.log({ glossId });
-  console.log({ isOpen });
-  console.log('GlossaryModal:24');
+  // console.log('GlossaryModal:21');
+  // console.log({ glossId });
+  // console.log({ isOpen });
+  // console.log('GlossaryModal:24');
   const entry = entries.find((v) => v.id === glossId);
+  entries.map((e) => {
+    console.log({ e });
+    console.log(e.id);
+  });
+  console.log({ entries });
+  console.log({ glossId });
+  console.log({ entry });
   if (entry && isIGlossEntryData(entry)) {
     return (
       <div

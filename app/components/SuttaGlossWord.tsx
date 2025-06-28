@@ -7,8 +7,8 @@ interface SuttaGlossWordProps {
 }
 
 export default function SuttaGlossWord({ word, /* glossId, */ onClick }: SuttaGlossWordProps) {
-  console.log('SuttaGlossWord:10');
-  console.log({ word });
+  // console.log('SuttaGlossWord:10');
+  // console.log({ word });
   return (
     <span className="sutta-gloss-word cursor-pointer" onClick={() => onClick()}>
       {word}

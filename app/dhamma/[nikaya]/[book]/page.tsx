@@ -2,7 +2,9 @@ import path from 'path';
 import { readFileSync } from 'fs';
 import { isISuttaData } from '@/utils/typeguards';
 import SuttaTextBody from '@/app/components/SuttaTextBody';
-import glossEntry from '@/public/glossary/abhijjha.json';
+import abhijjha from '@/public/glossary/abhijjha.json';
+import bhagava from '@/public/glossary/bhagava.json';
+import mahiccha from '@/public/glossary/mahiccha.json';
 
 interface SuttaPageProps {
   params: {
@@ -37,7 +39,7 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
               <p className="lg:flex-95">{paragraph.pl}</p>
             </div>
           ))} */}
-          <SuttaTextBody blocks={body} glossEntries={[glossEntry]} />
+          <SuttaTextBody blocks={body} glossEntries={[abhijjha, bhagava, mahiccha]} />
         </div>
       </main>
     );
