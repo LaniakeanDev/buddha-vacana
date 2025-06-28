@@ -30,7 +30,7 @@ export default function GlossaryModal({
   const [isTall, setIsTall] = useState(false);
   const dynamicHeight = () => {
     if (isOpen) {
-      return isTall ? 'h-[70vh] border-4' : 'h-[40vh] border-4';
+      return isTall ? 'h-[70vh] border-6' : 'h-[40vh] border-6';
     }
     return 'h-0 border-0';
   };
