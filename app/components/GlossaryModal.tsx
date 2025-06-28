@@ -40,7 +40,7 @@ export default function GlossaryModal({
           className="absolute top-2 right-4 cursor-pointer"
           onClick={() => closeModal({ isOpen: false, word: sourceWord, glossId: glossId })}
         >
-          <p className="!text-black hover:text-white">✕</p>
+          <p className="!text-black text-lg hover:text-white">✕</p>
         </button>
         <div className="p-8 overflow-y-auto">
           <GlossaryEntry entry={entry} />
