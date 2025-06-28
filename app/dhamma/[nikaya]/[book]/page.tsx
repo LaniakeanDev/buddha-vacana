@@ -19,7 +19,6 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
   const suttaData = getSuttaData(nikaya, book, suttaId);
   if (suttaData && isISuttaData(suttaData)) {
     const { shortRef, plTitle, frTitle, description, body } = suttaData;
-    // console.log({ suttaData });
     return (
       <main className="py-8">
         <div className="w-full flex flex-col items-center gap-4">
@@ -33,12 +32,6 @@ export default async function SuttaPage({ params }: SuttaPageProps) {
           <hr />
         </div>
         <div className="p-4">
-          {/* {body.map((paragraph, idx) => (
-            <div key={`${suttaId}-p${String(idx + 1)}`} className="flex flex-col gap-2 lg:flex-row lg:gap-8 p-2">
-              <p className="lg:flex-100 text-justify indent-4">{paragraph.fr}</p>
-              <p className="lg:flex-95">{paragraph.pl}</p>
-            </div>
-          ))} */}
           <SuttaTextBody blocks={body} glossEntries={[abhijjha, bhagava, mahiccha]} />
         </div>
       </main>

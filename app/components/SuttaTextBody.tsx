@@ -24,7 +24,6 @@ export default function SuttaTextBody({ blocks, glossEntries }: SuttaTextBodyPro
       {blocks.map((block, idx) => {
         return (
           <div key={`sutta-body-${String(idx + 1)}`} className="flex flex-col gap-2 lg:flex-row lg:gap-8 p-2">
-            {/* <p className="lg:flex-100 text-justify indent-4">{block.fr}</p> */}
             <SuttaTranslatedBlock
               className="lg:flex-100 text-justify indent-4"
               openModal={setModalState}
