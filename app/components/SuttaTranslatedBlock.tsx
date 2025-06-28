@@ -4,17 +4,12 @@ import SuttaGlossWord from './SuttaGlossWord';
 
 interface SuttaTranslatedBlockProps {
   text: string;
-  openModal: React.Dispatch<
-    React.SetStateAction<{
-      isOpen: boolean;
-      word: string | undefined;
-      glossId: string | undefined;
-    }>
-  >;
+  openModal: React.Dispatch<React.SetStateAction<IModalState>>;
+  modalState: IModalState;
   className: string;
 }
 
-export default function SuttaTranslatedBlock({ text, openModal, className }: SuttaTranslatedBlockProps) {
+export default function SuttaTranslatedBlock({ text, openModal, modalState, className }: SuttaTranslatedBlockProps) {
   // Parse the text and identify interactive words
   const parseText = () => {
     // Split text while preserving whitespace
@@ -26,11 +21,18 @@ export default function SuttaTranslatedBlock({ text, openModal, className }: Sut
       if (match) {
         const word = match[1];
         const glossId = match[2];
+        const nextModalState = () => {
+          let nextState = true;
+          if (modalState.word === word) {
+            nextState = !modalState.isOpen;
+          }
+          return nextState;
+        };
         return (
           <SuttaGlossWord
             key={index}
             word={word}
-            onClick={() => openModal({ isOpen: true, word: word, glossId: glossId })}
+            onClick={() => openModal({ isOpen: nextModalState(), word: word, glossId: glossId })}
           />
         );
       }

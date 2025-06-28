@@ -10,3 +10,9 @@ interface ISuttaData {
   description: string;
   body: ISuttaBlock[];
 }
+
+interface IModalState {
+  isOpen: boolean;
+  word: string | undefined;
+  glossId: string | undefined;
+}

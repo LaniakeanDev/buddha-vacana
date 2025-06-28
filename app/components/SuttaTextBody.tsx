@@ -10,11 +10,7 @@ interface SuttaTextBodyProps {
 }
 
 export default function SuttaTextBody({ blocks, glossEntries }: SuttaTextBodyProps) {
-  const [modalState, setModalState] = useState<{
-    isOpen: boolean;
-    word: string | undefined;
-    glossId: string | undefined;
-  }>({
+  const [modalState, setModalState] = useState<IModalState>({
     isOpen: false,
     word: undefined,
     glossId: undefined,
@@ -27,6 +23,7 @@ export default function SuttaTextBody({ blocks, glossEntries }: SuttaTextBodyPro
             <SuttaTranslatedBlock
               className="lg:flex-100 text-justify indent-4"
               openModal={setModalState}
+              modalState={modalState}
               text={block.fr}
             />
             <p className="lg:flex-95">{block.pl}</p>
