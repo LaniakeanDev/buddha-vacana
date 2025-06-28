@@ -30,18 +30,19 @@ export default function GlossaryModal({
   if (entry && isIGlossEntryData(entry)) {
     return (
       <div
-        className={`z-20 fixed bottom-0 left-0 w-full bg-(--bg-default) transition-[height] ease-out duration-1000 border-4 border-white overflow-y-auto ${isOpen ? 'h-[40vh]' : 'h-0'} ${className}`}
+        className={`z-20 fixed bottom-0 left-0 w-full bg-(--bg-default) transition-[height] ease-out duration-300 border-amber-500 box-border ${isOpen ? 'h-[40vh] border-4' : 'h-0 border-0'} ${className}`}
       >
         <div className="w-full h-10 bg-amber-500 grid place-items-center">
-          <p className="!text-black">— {sourceWord} —</p>
+          <p className="!text-black font-bold">— {sourceWord} —</p>
         </div>
         <button
-          className="absolute top-2 right-2 cursor-pointer"
-          onClick={() => closeModal({ isOpen: false, word: undefined, glossId: undefined })}
+          // alt="Fermer"
+          className="absolute top-2 right-4 cursor-pointer"
+          onClick={() => closeModal({ isOpen: false, word: sourceWord, glossId: glossId })}
         >
-          <p>x</p>
+          <p className="!text-black hover:text-white">✕</p>
         </button>
-        <div className="p-8">
+        <div className="p-8 overflow-y-auto">
           <GlossaryEntry entry={entry} />
         </div>
       </div>
