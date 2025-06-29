@@ -118,13 +118,21 @@ h3 {
 
 .sutta-gloss-word {
   text-decoration: none;
-  color: white;
+  /* color: white; */
   border-bottom-width: 1px;
   border-bottom-style: dotted;
-  border-bottom-color: #406135;
+  border-bottom-color: #adeb76;
 }
 .sutta-gloss-word:hover,
 .sutta-gloss-word:focus {
   text-decoration: none;
+  color: #406135;
+}
+
+.dark .sutta-gloss-word {
+  border-bottom-color: #406135;
+}
+.dark .sutta-gloss-word:hover,
+.dark .sutta-gloss-word:focus {
   color: #adeb76;
 }
