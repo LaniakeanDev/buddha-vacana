@@ -9,7 +9,7 @@ interface CollectionPageProps {
 }
 
 export default async function Digha({ params }: CollectionPageProps) {
-  const { nikaya } = await params;
+  const { nikaya } = params;
   const presentationData = nikayaPresentationData.find((item) => item.id === nikaya)!;
   return (
     <main className="pb-32">

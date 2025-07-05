@@ -10,7 +10,7 @@ interface SuttaPageProps {
 export default function SuttaPageContent({ suttaData }: SuttaPageProps) {
   const { shortRef, plTitle, frTitle, description, body } = suttaData;
   return (
-    <main className="py-8">
+    <main className="pb-8">
       <div className="w-full flex flex-col items-center gap-4">
         <p className="font-bold">{shortRef}</p>
         <h1 className="w-fit flex flex-col items-center">
