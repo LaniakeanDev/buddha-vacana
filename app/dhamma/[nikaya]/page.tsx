@@ -2,8 +2,15 @@ import PageHead from '@/app/components/PageHead';
 import SuttaCard from '@/app/components/SuttaCard';
 import { nikayaPresentationData, dighaSuttaData } from '@/app/dhamma/content';
 
-export default function Digha() {
-  const presentationData = nikayaPresentationData.find((item) => item.id === 'digha')!;
+interface CollectionPageProps {
+  params: {
+    nikaya: NikayaEnum;
+  };
+}
+
+export default async function Digha({ params }: CollectionPageProps) {
+  const { nikaya } = await params;
+  const presentationData = nikayaPresentationData.find((item) => item.id === nikaya)!;
   return (
     <main className="pb-32">
       <PageHead

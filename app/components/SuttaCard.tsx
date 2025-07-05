@@ -15,7 +15,7 @@ export default function SuttaCard({
   // themes,
   // similes,
   // tags
-}: ISuttaData) {
+}: ISuttaCardData) {
   return (
     <div className="card">
       <CardIdentifier content={identifier} className="!w-16" />

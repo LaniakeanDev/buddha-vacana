@@ -52,7 +52,7 @@ export const nikayaPresentationData: INikayaPresentationData[] = [
   },
 ];
 
-export const dighaSuttaData: ISuttaData[] = [
+export const dighaSuttaData: ISuttaCardData[] = [
   {
     plTitle: 'Brahmajāla Sutta',
     frTitle: 'Le filet de Brahma',
