@@ -1,0 +1,84 @@
+import fs from 'fs/promises';
+import { readdirSync, statSync } from 'fs';
+import path from 'path';
+import { isISuttaData } from './typeguards';
+
+interface SuttaMetadata {
+  shortRef: string;
+  plTitle: string;
+  frTitle: string;
+  description: string;
+  nikaya: string;
+  id: string;
+}
+
+async function generateCardData(): Promise<void> {
+  const dataDir = path.join(process.cwd(), 'public/data/sutta');
+  const nikayas = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
+
+  try {
+    for (const nikaya of nikayas) {
+      const nikayaPath = path.join(dataDir, nikaya);
+      if (nikaya === 'digha' || nikaya === 'majjhima') {
+        const dataToBeWritten = getDataCollector(nikayaPath, nikaya);
+        const outputFile =
+          nikaya === 'digha'
+            ? path.join(process.cwd(), 'public/data/suttaCardData/dn.json')
+            : path.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+        await fs.writeFile(
+          outputFile,
+          JSON.stringify(dataToBeWritten, null, 2), // pretty print
+          'utf8',
+        );
+      }
+      if (nikaya === 'samyutta' || nikaya === 'anguttara') {
+        const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
+        for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
+          const dataToBeWritten = getDataCollector(path.join(nikayaPath, String(subNikayaNumber)), nikaya);
+          const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
+          await fs.writeFile(
+            path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
+            JSON.stringify(dataToBeWritten, null, 2), // pretty print
+            'utf8',
+          );
+        }
+      }
+      if (nikaya === 'khuddaka') {
+        const subNikayas = readdirSync(nikayaPath).filter((file) => {
+          const fullPath = path.join(nikayaPath, file);
+          return statSync(fullPath).isDirectory();
+        });
+        for (const subNikaya of subNikayas) {
+          console.log(subNikaya);
+          // to be finisehd later
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error generating card data:', error);
+    process.exit(1);
+  }
+}
+
+generateCardData();
+
+async function getDataCollector(localPath: string, nikaya: string): Promise<SuttaMetadata[]> {
+  const files = await fs.readdir(localPath); // array of file names
+  const localDataCollector: SuttaMetadata[] = [];
+  for (const file of files) {
+    const filePath = path.join(localPath, file);
+    const content = await fs.readFile(filePath, 'utf8');
+    const suttaData = JSON.parse(content);
+    if (!isISuttaData(suttaData)) {
+      console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
+    }
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    const { body, ...metadata } = suttaData; // Extract metadata (without the body)
+    localDataCollector.push({
+      ...metadata,
+      nikaya,
+      id: file.replace('.json', ''),
+    });
+  }
+  return localDataCollector;
+}

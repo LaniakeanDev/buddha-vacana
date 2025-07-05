@@ -16,9 +16,9 @@ export default async function ShallowSuttaPage({ params }: ShallowSuttaPageProps
   if (suttaData && isISuttaData(suttaData)) {
     return (
       <>
-        <p className="ml-4 lg:ml-16 bg-[#d9d9d9]/20 px-4 py-2 rounded-xl w-fit">
+        <p className="breadcrumbs">
           <Link href="/dhamma">Dhamma</Link> {'>'} <Link href={`/dhamma/${nikaya}`}>{NIKAYA_SHORT_MAP[nikaya]}</Link>{' '}
-          {'>'} {NIKAYA_SHORT_MAP[nikaya]} {nikayaSublevel1}
+          {'>'} {/* NIKAYA_SHORT_MAP[nikaya] */} {nikayaSublevel1}
         </p>
         <SuttaPageContent suttaData={suttaData} />
       </>

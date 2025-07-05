@@ -6,14 +6,14 @@ export function getSuttaData(nikaya: string, level1: string, level2: string | un
     ? path.join(
         // Safely combines path segments (handles OS-specific slashes)
         process.cwd(), // Returns the current working directory (project root).
-        '/public/data',
+        '/public/data/sutta',
         nikaya,
         level1, // level1 is a book
         `${level2}.json`, // level 2 is a suttaId
       )
     : path.join(
         process.cwd(),
-        '/public/data',
+        '/public/data/sutta',
         nikaya,
         `${level1}.json`, // level 1 is a suttaId
       );
