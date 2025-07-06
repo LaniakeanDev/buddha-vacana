@@ -3,7 +3,7 @@ import { getSuttaData, NIKAYA_SHORT_MAP } from '@/utils/helpers';
 import SuttaPageContent from '@/app/dhamma/components/SuttaPageContent';
 import Link from 'next/link';
 
-interface DeepSuttaPageProps {
+interface NestedSuttaPageProps {
   params: {
     nikaya: NikayaEnum;
     nikayaSublevel1: string; // book or suttaId
@@ -11,7 +11,7 @@ interface DeepSuttaPageProps {
   };
 }
 
-export default async function DeepSuttaPage({ params }: DeepSuttaPageProps) {
+export default async function NestedSuttaPage({ params }: NestedSuttaPageProps) {
   const { nikaya, nikayaSublevel1, nikayaSublevel2 } = await params;
   const suttaData = getSuttaData(nikaya, nikayaSublevel1, nikayaSublevel2);
   if (suttaData && isISuttaData(suttaData)) {

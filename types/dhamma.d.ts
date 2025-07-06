@@ -1,7 +1,6 @@
 type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
 
 interface INikayaPresentationData {
-  id: NikayaEnum;
   plTitle: string;
   frTitle: string;
   description: string;

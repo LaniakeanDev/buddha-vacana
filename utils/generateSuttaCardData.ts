@@ -2,6 +2,7 @@ import fs from 'fs/promises';
 import { readdirSync, statSync } from 'fs';
 import path from 'path';
 import { isISuttaData } from './typeguards';
+// import { NIKAYA_SHORT_MAP } from './helpers';
 
 interface SuttaMetadata {
   shortRef: string;
@@ -9,18 +10,19 @@ interface SuttaMetadata {
   frTitle: string;
   description: string;
   nikaya: string;
+  readingTime: number;
   id: string;
 }
 
 async function generateCardData(): Promise<void> {
   const dataDir = path.join(process.cwd(), 'public/data/sutta');
-  const nikayas = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
+  const nikayas: NikayaEnum[] = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
 
   try {
     for (const nikaya of nikayas) {
       const nikayaPath = path.join(dataDir, nikaya);
       if (nikaya === 'digha' || nikaya === 'majjhima') {
-        const dataToBeWritten = getDataCollector(nikayaPath, nikaya);
+        const dataToBeWritten = extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
         const outputFile =
           nikaya === 'digha'
             ? path.join(process.cwd(), 'public/data/suttaCardData/dn.json')
@@ -34,7 +36,10 @@ async function generateCardData(): Promise<void> {
       if (nikaya === 'samyutta' || nikaya === 'anguttara') {
         const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
-          const dataToBeWritten = getDataCollector(path.join(nikayaPath, String(subNikayaNumber)), nikaya);
+          const dataToBeWritten = extractSuttaCardMetadataFromFolder(
+            path.join(nikayaPath, String(subNikayaNumber)),
+            nikaya,
+          );
           const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
           await fs.writeFile(
             path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
@@ -44,6 +49,7 @@ async function generateCardData(): Promise<void> {
         }
       }
       if (nikaya === 'khuddaka') {
+        // figure out which subNikayas are in the folder structure
         const subNikayas = readdirSync(nikayaPath).filter((file) => {
           const fullPath = path.join(nikayaPath, file);
           return statSync(fullPath).isDirectory();
@@ -62,23 +68,35 @@ async function generateCardData(): Promise<void> {
 
 generateCardData();
 
-async function getDataCollector(localPath: string, nikaya: string): Promise<SuttaMetadata[]> {
-  const files = await fs.readdir(localPath); // array of file names
-  const localDataCollector: SuttaMetadata[] = [];
+async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: NikayaEnum): Promise<SuttaMetadata[]> {
+  let readingTime = 1;
+  const files = await fs.readdir(folderPath); // array of file names
+  const extractedSuttaCardMetadata: SuttaMetadata[] = [];
   for (const file of files) {
-    const filePath = path.join(localPath, file);
+    const filePath = path.join(folderPath, file);
     const content = await fs.readFile(filePath, 'utf8');
     const suttaData = JSON.parse(content);
     if (!isISuttaData(suttaData)) {
       console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
     }
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const { body, ...metadata } = suttaData; // Extract metadata (without the body)
-    localDataCollector.push({
+
+    // calculate reading time
+    let aggregateString = '';
+    for (const block of body) {
+      aggregateString += block.fr;
+    }
+    readingTime = Math.floor(aggregateString.length / 1000);
+
+    // build the identifier
+    // const identifier = `${NIKAYA_SHORT_MAP[nikaya]} ${}`;
+
+    extractedSuttaCardMetadata.push({
       ...metadata,
       nikaya,
       id: file.replace('.json', ''),
+      readingTime,
     });
   }
-  return localDataCollector;
+  return extractedSuttaCardMetadata;
 }
