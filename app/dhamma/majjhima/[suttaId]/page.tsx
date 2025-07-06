@@ -2,6 +2,7 @@ import { getSuttaData } from '@/utils/helpers';
 import { isISuttaData } from '@/utils/typeguards';
 import Link from 'next/link';
 import SuttaPageContent from '../../components/SuttaPageContent';
+import GraciousFail from '@/app/components/GraciousFail';
 
 interface MajjhimaSuttaPageProps {
   params: {
@@ -11,8 +12,9 @@ interface MajjhimaSuttaPageProps {
 
 export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPageProps) {
   const { suttaId } = await params;
-  if (!Number.isInteger(suttaId) || suttaId < 1 || suttaId > 152) {
-    return <p>La ressource que vous demandez n'existe pas</p>;
+  const id = Number(suttaId);
+  if (!Number.isInteger(id) || id < 1 || id > 152) {
+    return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
     const suttaData = getSuttaData('majjhima', String(suttaId), undefined);
@@ -35,6 +37,6 @@ export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPagePro
     }
   } catch (error) {
     console.error(`Failed to load sutta data from MN ${suttaId}:`, error);
-    return <p>Soutta non trouvé</p>;
+    return <GraciousFail message="Soutta non trouvé" />;
   }
 }

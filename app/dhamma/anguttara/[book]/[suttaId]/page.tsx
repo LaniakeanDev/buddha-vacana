@@ -2,6 +2,7 @@ import { getSuttaData } from '@/utils/helpers';
 import { isISuttaData } from '@/utils/typeguards';
 import Link from 'next/link';
 import SuttaPageContent from '../../../components/SuttaPageContent';
+import GraciousFail from '@/app/components/GraciousFail';
 
 interface AnguttaraSuttaPageProps {
   params: {
@@ -13,7 +14,7 @@ interface AnguttaraSuttaPageProps {
 export default async function AnguttaraSuttaPage({ params }: AnguttaraSuttaPageProps) {
   const { bookNumber, suttaId } = await params;
   if (!Number.isInteger(bookNumber) || !Number.isInteger(suttaId) || bookNumber < 1 || bookNumber > 12 || suttaId < 1) {
-    return <p>La ressource que vous demandez n'existe pas</p>;
+    return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
     const suttaData = getSuttaData('anguttara', String(bookNumber), String(suttaId));
@@ -36,6 +37,6 @@ export default async function AnguttaraSuttaPage({ params }: AnguttaraSuttaPageP
     }
   } catch (error) {
     console.error(`Failed to load sutta data from anguttara/${bookNumber}/${suttaId}:`, error);
-    return <p>Soutta non trouvé</p>;
+    return <GraciousFail message="Soutta non trouvé" />;
   }
 }

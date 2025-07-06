@@ -2,17 +2,20 @@ import { getSuttaData } from '@/utils/helpers';
 import { isISuttaData } from '@/utils/typeguards';
 import Link from 'next/link';
 import SuttaPageContent from '../../components/SuttaPageContent';
+import GraciousFail from '@/app/components/GraciousFail';
 
 interface DighaSuttaPageProps {
   params: {
-    suttaId: number;
+    suttaId: string;
   };
 }
 
 export default async function DighaSuttaPage({ params }: DighaSuttaPageProps) {
   const { suttaId } = await params;
-  if (!Number.isInteger(suttaId) || suttaId < 1 || suttaId > 34) {
-    return <p>La ressource que vous demandez n'existe pas</p>;
+  const id = Number(suttaId);
+  console.log({ id });
+  if (!Number.isInteger(id) || id < 1 || id > 34) {
+    return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
     const suttaData = getSuttaData('digha', String(suttaId), undefined);
@@ -35,6 +38,6 @@ export default async function DighaSuttaPage({ params }: DighaSuttaPageProps) {
     }
   } catch (error) {
     console.error(`Failed to load sutta data from DN ${suttaId}:`, error);
-    return <p>Soutta non trouvé</p>;
+    return <GraciousFail message="Soutta non trouvé" />;
   }
 }

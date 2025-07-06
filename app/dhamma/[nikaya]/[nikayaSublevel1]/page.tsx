@@ -24,5 +24,5 @@ export default async function FlatSuttaPage({ params }: FlatSuttaPageProps) {
       </>
     );
   }
-  return <p>Soutta non trouvé</p>;
+  return <GraciousFail message="Soutta non trouvé" />;
 }

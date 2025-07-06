@@ -26,5 +26,5 @@ export default async function NestedSuttaPage({ params }: NestedSuttaPageProps) 
       </>
     );
   }
-  return <p>Soutta non trouvé</p>;
+  return <GraciousFail message="Soutta non trouvé" />;
 }
