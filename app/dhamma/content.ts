@@ -52,10 +52,6 @@ export const dhammaPresentation: string[] = [
 //   },
 // ];
 
-type NikayaPresentationMap = {
-  [key in NikayaEnum]: INikayaPresentationData;
-};
-
 export const nikayaPresentationMap: NikayaPresentationMap = {
   digha: {
     plTitle: 'Dīgha Nikāya',

@@ -19,3 +19,7 @@ interface ISuttaCardData {
   similes?: string[];
   tags?: string[];
 }
+
+type NikayaPresentationMap = {
+  [key in NikayaEnum]: INikayaPresentationData;
+};
