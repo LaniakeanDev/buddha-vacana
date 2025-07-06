@@ -1,7 +1,6 @@
-type NikayaEnum = 'dn' | 'mn' | 'sm' | 'an' | 'kn';
+type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
 
 interface INikayaPresentationData {
-  id: 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
   plTitle: string;
   frTitle: string;
   description: string;
@@ -9,7 +8,7 @@ interface INikayaPresentationData {
   short: string;
 }
 
-interface ISuttaData {
+interface ISuttaCardData {
   plTitle: string;
   frTitle: string;
   description: string;
@@ -20,3 +19,7 @@ interface ISuttaData {
   similes?: string[];
   tags?: string[];
 }
+
+type NikayaPresentationMap = {
+  [key in NikayaEnum]: INikayaPresentationData;
+};

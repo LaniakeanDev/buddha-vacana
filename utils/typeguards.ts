@@ -18,6 +18,41 @@ export const isToolCardDataArray = (items: unknown): items is IToolCardData[] =>
 };
 
 /**
+ * check that the contents of a suttaCardData json file are correctly structured as an array of
+ * @param data
+ * @returns data is ISuttaCardData
+ */
+export function isISuttaCardDataArray(data: unknown): data is ISuttaCardData[] {
+  if (!Array.isArray(data)) {
+    return false;
+  }
+  return data.every((item) => isISuttaCardData(item));
+}
+
+/**
+ * check that the contents of a suttaCardData json file are correctly structured
+ * @param data
+ * @returns data is ISuttaCardData
+ */
+function isISuttaCardData(data: unknown): data is ISuttaCardData {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialSuttaCardData = data as Record<string, unknown>;
+  if (
+    typeof potentialSuttaCardData.plTitle !== 'string' ||
+    typeof potentialSuttaCardData.frTitle !== 'string' ||
+    typeof potentialSuttaCardData.description !== 'string' ||
+    typeof potentialSuttaCardData.identifier !== 'string' ||
+    typeof potentialSuttaCardData.translator !== 'string' ||
+    typeof potentialSuttaCardData.readingTime !== 'string'
+  ) {
+    return false;
+  }
+  return true;
+}
+
+/**
  * check that the contents of a sutta json file are correctly structured
  * @param data
  * @returns data is ISuttaData
@@ -59,6 +94,19 @@ export function isISuttaData(data: unknown): data is ISuttaData {
   }
 
   return true;
+}
+
+/**
+ * Check that the contents are correctly structured as an array of ISuttaData
+ * @param data
+ * @returns data is ISuttaData[]
+ */
+export function isISuttaDataArray(data: unknown): data is ISuttaData[] {
+  // Check if data is an array
+  if (!Array.isArray(data)) {
+    return false;
+  }
+  return data.every((item) => isISuttaData(item));
 }
 
 export function isIGlossEntryData(data: unknown): data is IGlossEntryData {

@@ -136,3 +136,7 @@ h3 {
 .dark .sutta-gloss-word:focus {
   color: #adeb76;
 }
+
+.breadcrumbs {
+  @apply ml-4 lg:ml-16 bg-[#d9d9d9]/20 px-4 py-2 rounded-xl w-fit;
+}
