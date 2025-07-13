@@ -1,5 +1,3 @@
-type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
-
 interface INikayaPresentationData {
   plTitle: string;
   frTitle: string;
@@ -27,3 +25,5 @@ interface ISuttaCardData {
 type NikayaPresentationMap = {
   [key in NikayaEnum]: INikayaPresentationData;
 };
+
+type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
