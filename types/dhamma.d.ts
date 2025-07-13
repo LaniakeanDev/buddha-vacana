@@ -8,6 +8,10 @@ interface INikayaPresentationData {
   short: string;
 }
 
+interface INikayaNaviPresentationData extends INikayaPresentationData {
+  id: NikayaEnum;
+}
+
 interface ISuttaCardData {
   plTitle: string;
   frTitle: string;

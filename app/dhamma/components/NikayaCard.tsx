@@ -2,7 +2,7 @@ import CardContent from '@/app/components/CardContent';
 import CardIdentifier from '@/app/components/CardIdentifier';
 import Link from 'next/link';
 
-type NikayaCardProps = INikayaPresentationData;
+type NikayaCardProps = INikayaNaviPresentationData;
 
 export default function NikayaCard({ plTitle, frTitle, description, count, short, id }: NikayaCardProps) {
   return (
