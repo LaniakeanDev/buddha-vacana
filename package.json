@@ -2,10 +2,11 @@
   "name": "buddha-vacana",
   "version": "0.1.0",
   "private": true,
+  "type": "commonjs",
   "scripts": {
     "dev": "next dev",
     "build": "npm run generate-metadata && next build",
-    "generate-metadata": "ts-node scripts/generateCardData.ts",
+    "generate-metadata": "npx ts-node utils/generateSuttaCardData.ts",
     "start": "next start",
     "lint": "eslint .",
     "prettier-format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md}\"",

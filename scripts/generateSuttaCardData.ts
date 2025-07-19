@@ -1,8 +1,8 @@
 import fs from 'fs/promises';
 import { readdirSync, statSync } from 'fs';
 import path from 'path';
-import { isISuttaData } from './typeguards';
-import { NikayaEnum } from '@/types/nikaya-enum';
+import { isISuttaData } from '../utils/typeguards';
+// import { NikayaEnum } from '@/types/nikaya-enum';
 // import { NIKAYA_SHORT_MAP } from './helpers';
 
 interface SuttaMetadata {
@@ -17,7 +17,7 @@ interface SuttaMetadata {
 
 async function generateCardData(): Promise<void> {
   const dataDir = path.join(process.cwd(), 'public/data/sutta');
-  const nikayas: NikayaEnum[] = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
+  const nikayas: string[] = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
 
   try {
     for (const nikaya of nikayas) {
@@ -69,7 +69,7 @@ async function generateCardData(): Promise<void> {
 
 generateCardData();
 
-async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: NikayaEnum): Promise<SuttaMetadata[]> {
+async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: string): Promise<SuttaMetadata[]> {
   let readingTime = 1;
   const files = await fs.readdir(folderPath); // array of file names
   const extractedSuttaCardMetadata: SuttaMetadata[] = [];
