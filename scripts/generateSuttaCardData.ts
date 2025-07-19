@@ -1,3 +1,6 @@
+// npx tsc -p tsconfig.scripts.json
+// node dist/scripts/scripts/generateSuttaCardData.js
+
 import fs from 'fs/promises';
 import { readdirSync, statSync } from 'fs';
 import path from 'path';
