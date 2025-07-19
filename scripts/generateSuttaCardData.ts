@@ -23,30 +23,34 @@ async function generateCardData(): Promise<void> {
     for (const nikaya of nikayas) {
       const nikayaPath = path.join(dataDir, nikaya);
       if (nikaya === 'digha' || nikaya === 'majjhima') {
-        const dataToBeWritten = extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
-        const outputFile =
-          nikaya === 'digha'
-            ? path.join(process.cwd(), 'public/data/suttaCardData/dn.json')
-            : path.join(process.cwd(), 'public/data/suttaCardData/mn.json');
-        await fs.writeFile(
-          outputFile,
-          JSON.stringify(dataToBeWritten, null, 2), // pretty print
-          'utf8',
-        );
+        const dataToBeWritten = await extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
+        if (dataToBeWritten.length) {
+          const outputFile =
+            nikaya === 'digha'
+              ? path.join(process.cwd(), 'public/data/suttaCardData/dn.json')
+              : path.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+          await fs.writeFile(
+            outputFile,
+            JSON.stringify(dataToBeWritten, null, 2), // pretty print
+            'utf8',
+          );
+        }
       }
       if (nikaya === 'samyutta' || nikaya === 'anguttara') {
         const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
-          const dataToBeWritten = extractSuttaCardMetadataFromFolder(
+          const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
             path.join(nikayaPath, String(subNikayaNumber)),
             nikaya,
           );
-          const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
-          await fs.writeFile(
-            path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
-            JSON.stringify(dataToBeWritten, null, 2), // pretty print
-            'utf8',
-          );
+          if (dataToBeWritten.length) {
+            const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
+            await fs.writeFile(
+              path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
+              JSON.stringify(dataToBeWritten, null, 2), // pretty print
+              'utf8',
+            );
+          }
         }
       }
       if (nikaya === 'khuddaka') {
