@@ -10,17 +10,20 @@ const fs_1 = require('fs');
 const path_1 = __importDefault(require('path'));
 const typeguards_1 = require('../utils/typeguards');
 async function generateCardData() {
+  console.log('generateCardData:13');
   const dataDir = path_1.default.join(process.cwd(), 'public/data/sutta');
   const nikayas = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
   try {
     for (const nikaya of nikayas) {
       const nikayaPath = path_1.default.join(dataDir, nikaya);
       if (nikaya === 'digha' || nikaya === 'majjhima') {
-        const dataToBeWritten = extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
+        console.log('generateCardData:20');
+        const dataToBeWritten = await extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
         const outputFile =
           nikaya === 'digha'
             ? path_1.default.join(process.cwd(), 'public/data/suttaCardData/dn.json')
             : path_1.default.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+        console.log({ dataToBeWritten });
         await promises_1.default.writeFile(
           outputFile,
           JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -30,7 +33,7 @@ async function generateCardData() {
       if (nikaya === 'samyutta' || nikaya === 'anguttara') {
         const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
-          const dataToBeWritten = extractSuttaCardMetadataFromFolder(
+          const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
             path_1.default.join(nikayaPath, String(subNikayaNumber)),
             nikaya,
           );
