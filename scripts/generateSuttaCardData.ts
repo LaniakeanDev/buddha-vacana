@@ -2,8 +2,6 @@ import fs from 'fs/promises';
 import { readdirSync, statSync } from 'fs';
 import path from 'path';
 import { isISuttaData } from '../utils/typeguards';
-// import { NikayaEnum } from '@/types/nikaya-enum';
-// import { NIKAYA_SHORT_MAP } from './helpers';
 
 interface SuttaMetadata {
   shortRef: string;
