@@ -10,10 +10,11 @@ const path_1 = __importDefault(require('path'));
 const promises_1 = __importDefault(require('fs/promises'));
 const typeguards_1 = require('@/utils/typeguards');
 async function getSuttaCardData(filePathEnd) {
-  const sourcePath = path_1.default.join(process.cwd(), `public/data/suttaCarData/${filePathEnd}.json`);
+  const sourcePath = path_1.default.join(process.cwd(), `public/data/suttaCardData/${filePathEnd}.json`);
   try {
     const rawData = await promises_1.default.readFile(sourcePath, 'utf8');
     const suttaCardData = JSON.parse(rawData);
+    console.log({ suttaCardData });
     if (!(0, typeguards_1.isISuttaCardDataArray)(suttaCardData)) {
       throw new Error(`Data structure in ${sourcePath} doesn't match ISuttaCardData interface`);
     }

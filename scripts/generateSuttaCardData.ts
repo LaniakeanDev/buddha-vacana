@@ -7,7 +7,7 @@ import path from 'path';
 import { isISuttaData } from '../utils/typeguards';
 
 interface SuttaMetadata {
-  shortRef: string;
+  identifier: string;
   plTitle: string;
   frTitle: string;
   description: string;

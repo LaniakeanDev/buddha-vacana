@@ -7,7 +7,7 @@ import PageWrapper from '../components/PageWrapper';
 import { getSuttaCardData } from '@/utils/getSuttaCardData';
 
 export default async function MajjhimaPage() {
-  // const sourcePath = path.join(process.cwd(), `public/data/suttaCarData/mn.json`);
+  // const sourcePath = path.join(process.cwd(), `public/data/suttaCardData/mn.json`);
   // const rawData = await fs.readFile(sourcePath, 'utf8');
   // const suttaCardData = JSON.parse(rawData);
   // if (!isISuttaCardDataArray(suttaCardData)) {

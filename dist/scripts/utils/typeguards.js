@@ -69,7 +69,7 @@ function isISuttaData(data) {
   const potentialSutta = data;
   // Check required top-level properties
   if (
-    typeof potentialSutta.shortRef !== 'string' ||
+    typeof potentialSutta.identifier !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
     typeof potentialSutta.description !== 'string'

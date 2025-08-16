@@ -1,8 +1,9 @@
 {
-  "shortRef": "AN 1.1",
+  "identifier": "AN 1.1",
   "plTitle": "Premier Sutta",
   "frTitle": "C'est le premier",
   "description": "Premier soutta dans cette magnifique collection.",
+  "translator": "Remy",
   "body": [
     {
       "pl": "Evaṃ me sutaṃ",

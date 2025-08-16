@@ -14,7 +14,7 @@ interface NikayaPageProps {
 export default async function NikayaPage({ params }: NikayaPageProps) {
   const { nikaya } = params;
   if (nikaya === 'digha' || nikaya === 'majjhima') {
-    const sourcePath = path.join(process.cwd(), `public/data/suttaCarData/${NIKAYA_SHORT_MAP[nikaya]}.json`);
+    const sourcePath = path.join(process.cwd(), `public/data/suttaCardData/${NIKAYA_SHORT_MAP[nikaya]}.json`);
     const rawData = await fs.readFile(sourcePath, 'utf8');
     const suttaCardData = JSON.parse(rawData);
     if (!isISuttaData(suttaCardData)) {

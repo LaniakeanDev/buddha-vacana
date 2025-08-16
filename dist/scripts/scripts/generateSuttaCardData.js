@@ -1,4 +1,6 @@
 'use strict';
+// npx tsc -p tsconfig.scripts.json
+// node dist/scripts/scripts/generateSuttaCardData.js
 var __importDefault =
   (this && this.__importDefault) ||
   function (mod) {
