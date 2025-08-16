@@ -14,7 +14,7 @@ export default async function MajjhimaPage() {
   //   console.error('Error while reading file "', sourcePath, '": data structure doesn\'t match ISuttaData Interface');
   // }
   const suttaCardData = getSuttaCardData('mn');
-  const presentationData = nikayaPresentationMap.majjhima;
+  const presentationData = nikayaPresentationMap.mn;
   return (
     <PageWrapper data={presentationData}>
       <div className="card-list-container">

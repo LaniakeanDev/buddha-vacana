@@ -3,11 +3,12 @@ interface INikayaPresentationData {
   frTitle: string;
   description: string;
   count: number;
-  short: string;
+  identifier: string;
 }
 
 interface INikayaNaviPresentationData extends INikayaPresentationData {
-  id: NikayaEnum;
+  href: string;
+  // id: NikayaEnum;
 }
 
 interface ISuttaCardData {
@@ -26,4 +27,10 @@ type NikayaPresentationMap = {
   [key in NikayaEnum]: INikayaPresentationData;
 };
 
-type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
+// type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
+
+interface ISubNikayaPage {
+  params: {
+    book: number;
+  };
+}

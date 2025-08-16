@@ -3,7 +3,7 @@ import { nikayaPresentationMap } from '../content';
 
 export default function SamyuttaPage() {
   return (
-    <PageWrapper data={nikayaPresentationMap.khuddaka}>
+    <PageWrapper data={nikayaPresentationMap.sn}>
       <div>content</div>
     </PageWrapper>
   );

@@ -14,8 +14,7 @@ export default async function DighaPage() {
   //   console.error('Error while reading file "', sourcePath, '": data structure doesn\'t match ISuttaData Interface');
   // }
   const suttaCardData = await getSuttaCardData('dn');
-  console.log({ suttaCardData });
-  const presentationData = nikayaPresentationMap.digha;
+  const presentationData = nikayaPresentationMap.dn;
   return (
     <PageWrapper data={presentationData}>
       <div className="card-list-container">
