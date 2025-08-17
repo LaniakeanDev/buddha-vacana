@@ -1,3 +1,5 @@
+import { ISuttaCardData } from '@/types/exports';
+
 const hasRequiredProperties = (obj: object, keys: string[]): boolean => {
   return keys.every((key) => key in obj);
 };
@@ -6,7 +8,7 @@ const isIToolCardData = (item: unknown): item is IToolCardData => {
   if (typeof item !== 'object' || item === null) {
     return false;
   }
-  const requiredKeys: (keyof IToolCardData)[] = ['svgId', 'title', 'tagline'];
+  const requiredKeys: string[] = ['svgId', 'title', 'tagline'];
   return hasRequiredProperties(item, requiredKeys);
 };
 
@@ -45,7 +47,7 @@ function isISuttaCardData(data: unknown): data is ISuttaCardData {
     typeof potentialSuttaCardData.description !== 'string' ||
     typeof potentialSuttaCardData.identifier !== 'string' ||
     typeof potentialSuttaCardData.translator !== 'string' ||
-    typeof potentialSuttaCardData.readingTime !== 'string'
+    typeof potentialSuttaCardData.readingTime !== 'number'
   ) {
     return false;
   }
@@ -68,7 +70,7 @@ export function isISuttaData(data: unknown): data is ISuttaData {
 
   // Check required top-level properties
   if (
-    typeof potentialSutta.shortRef !== 'string' ||
+    typeof potentialSutta.identifier !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
     typeof potentialSutta.description !== 'string'
