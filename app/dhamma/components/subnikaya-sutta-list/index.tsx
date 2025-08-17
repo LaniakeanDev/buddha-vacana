@@ -4,7 +4,7 @@ import { isISuttaCardDataArray } from '@/utils/typeguards';
 
 interface SubNikayaSuttaListProps {
   nikaya: 'an' | 'sn' | 'kn';
-  book: number;
+  book: OneToTwelve | OneToFiftySix | TknBooks;
 }
 
 export default async function SubNikayaSuttaList({ nikaya, book }: SubNikayaSuttaListProps) {

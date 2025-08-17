@@ -4,14 +4,14 @@ import { nikayaPresentationMap, KNPresentationMap } from '../content';
 
 export default function KhuddakaPage() {
   const renderSubnikayaCards = () => {
-    return Object.values(KNPresentationMap).map((item, idx) => (
+    return Object.values(KNPresentationMap).map((item) => (
       <NikayaCard
         plTitle={item.plTitle}
         frTitle={item.frTitle}
         description={item.description}
         count={item.count}
         identifier={item.identifier}
-        href={`an/${String(idx + 1)}`}
+        href={`kn/${item.identifier.toLowerCase()}`}
         key={item.identifier}
       />
     ));
