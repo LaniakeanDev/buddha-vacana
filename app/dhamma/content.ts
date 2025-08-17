@@ -54,6 +54,37 @@ export function getNikayaNaviPresentationData(): INikayaNaviPresentationData[] {
   }));
 }
 
+export const subnikayaPresentationMap: TSubnikayaPresentationMap = {
+  an: {
+    1: {
+      plTitle: 'Ekaka Nipāta',
+      frTitle: 'Le livre des énumérations à un seul élément',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 30,
+      identifier: 'AN 1',
+    },
+    2: {
+      plTitle: 'Duka Nipāta',
+      frTitle: 'Le livre des énumérations à deux éléments',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 50,
+      identifier: 'AN 2',
+    },
+    3: {
+      plTitle: 'Tika Nipāta',
+      frTitle: 'Le livre des énumérations à trois éléments',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 89,
+      identifier: 'AN 3',
+    },
+  },
+  // sn: {},
+  // kn: {}
+};
+
 // const samyuttaSubNikayaPresentationData = [
 //   {
 //     id: 1,

@@ -1,21 +1,25 @@
 import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
-import { nikayaPresentationMap } from '../content';
+import { nikayaPresentationMap, subnikayaPresentationMap } from '../content';
 
-export default function SamyuttaPage() {
+export default function AnguttaraPage() {
+  const subnikayaPresentation = subnikayaPresentationMap.an;
+  const renderSubnikayaCards = () => {
+    return Object.values(subnikayaPresentation).map((item, idx) => (
+      <NikayaCard
+        plTitle={item.plTitle}
+        frTitle={item.frTitle}
+        description={item.description}
+        count={item.count}
+        identifier={item.identifier}
+        href={`an/${String(idx + 1)}`}
+        key={item.identifier}
+      />
+    ));
+  };
   return (
     <PageWrapper data={nikayaPresentationMap.an}>
-      <ul className="card-list-container">
-        <NikayaCard
-          plTitle="Ekaka Nipāta"
-          frTitle="Le livre des énumérations à un seul élément"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi."
-          count={30}
-          identifier="AN 1"
-          href="an/1"
-          key="an1"
-        />
-      </ul>
+      <ul className="card-list-container">{renderSubnikayaCards()}</ul>
     </PageWrapper>
   );
 }

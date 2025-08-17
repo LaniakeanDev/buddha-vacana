@@ -1,7 +1,7 @@
 import PageWrapper from '../components/PageWrapper';
 import { nikayaPresentationMap } from '../content';
 
-export default function SamyuttaPage() {
+export default function KhuddakaPage() {
   return (
     <PageWrapper data={nikayaPresentationMap.kn}>
       <div>content</div>

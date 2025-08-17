@@ -1,6 +1,19 @@
+import PageWrapper from '../../components/PageWrapper';
 import SubNikayaSuttaList from '../../components/subnikaya-sutta-list';
+import { subnikayaPresentationMap } from '../../content';
 
-export default function AnguttaraNipataPage({ params }: ISubNikayaPage): React.ReactElement {
-  const { book } = params;
-  return <SubNikayaSuttaList nikaya="an" book={book} />;
+interface ANParams {
+  params: {
+    book: OneToTwelve;
+  };
+}
+
+export default async function AnguttaraNipataPage({ params }: ANParams) {
+  const { book } = await params;
+  const presentationData = subnikayaPresentationMap.an[book];
+  return (
+    <PageWrapper data={presentationData}>
+      <SubNikayaSuttaList nikaya="an" book={book} />
+    </PageWrapper>
+  );
 }

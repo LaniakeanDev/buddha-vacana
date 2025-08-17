@@ -8,7 +8,6 @@ export async function getSuttaCardData(filePathEnd: string): Promise<ISuttaCardD
   try {
     const rawData = await fs.readFile(sourcePath, 'utf8');
     const suttaCardData = JSON.parse(rawData);
-    console.log({ suttaCardData });
     if (!isISuttaCardDataArray(suttaCardData)) {
       throw new Error(`Data structure in ${sourcePath} doesn't match ISuttaCardData interface`);
     }
