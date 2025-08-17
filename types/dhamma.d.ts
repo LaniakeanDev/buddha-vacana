@@ -26,19 +26,6 @@ interface ISuttaCardData {
 type NikayaPresentationMap = {
   [key in NikayaEnum]: INikayaPresentationData;
 };
-
-type TSubnikayaPresentationMap = {
-  an: {
-    [key in OneToTwelve]: INikayaPresentationData;
-  };
-  sn: {
-    [key in OneToFiftySix]: INikayaPresentationData;
-  };
-  kn?: {
-    [key in knBooks]: INikayaPresentationData;
-  };
-};
-
 type TANPresentationMap = {
   [key in OneToTwelve]: INikayaPresentationData;
 };
