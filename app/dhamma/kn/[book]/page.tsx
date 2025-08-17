@@ -8,7 +8,7 @@ interface KNParams {
   };
 }
 
-export default async function IndividualSamyuttaPage({ params }: KNParams) {
+export default async function KNBookPage({ params }: KNParams) {
   const { book } = await params;
   const presentationData = KNPresentationMap[book];
   return (

@@ -11,7 +11,7 @@ export default function SamyuttaPage() {
         description={item.description}
         count={item.count}
         identifier={item.identifier}
-        href={`an/${String(idx + 1)}`}
+        href={`sn/${String(idx + 1)}`}
         key={item.identifier}
       />
     ));
