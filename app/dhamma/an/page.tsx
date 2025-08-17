@@ -1,11 +1,10 @@
 import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
-import { nikayaPresentationMap, subnikayaPresentationMap } from '../content';
+import { nikayaPresentationMap, ANPresentationMap } from '../content';
 
 export default function AnguttaraPage() {
-  const subnikayaPresentation = subnikayaPresentationMap.an;
   const renderSubnikayaCards = () => {
-    return Object.values(subnikayaPresentation).map((item, idx) => (
+    return Object.values(ANPresentationMap).map((item, idx) => (
       <NikayaCard
         plTitle={item.plTitle}
         frTitle={item.frTitle}

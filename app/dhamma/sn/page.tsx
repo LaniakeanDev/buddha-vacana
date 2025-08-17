@@ -1,11 +1,10 @@
 import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
-import { nikayaPresentationMap, subnikayaPresentationMap } from '../content';
+import { nikayaPresentationMap, SNPresentationMap } from '../content';
 
 export default function SamyuttaPage() {
-  const subnikayaPresentation = subnikayaPresentationMap.sn;
   const renderSubnikayaCards = () => {
-    return Object.values(subnikayaPresentation).map((item, idx) => (
+    return Object.values(SNPresentationMap).map((item, idx) => (
       <NikayaCard
         plTitle={item.plTitle}
         frTitle={item.frTitle}

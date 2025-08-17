@@ -54,60 +54,85 @@ export function getNikayaNaviPresentationData(): INikayaNaviPresentationData[] {
   }));
 }
 
-export const subnikayaPresentationMap: TSubnikayaPresentationMap = {
-  an: {
-    1: {
-      plTitle: 'Ekaka Nipāta',
-      frTitle: 'Le livre des énumérations à un seul élément',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 30,
-      identifier: 'AN 1',
-    },
-    2: {
-      plTitle: 'Duka Nipāta',
-      frTitle: 'Le livre des énumérations à deux éléments',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 50,
-      identifier: 'AN 2',
-    },
-    3: {
-      plTitle: 'Tika Nipāta',
-      frTitle: 'Le livre des énumérations à trois éléments',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 89,
-      identifier: 'AN 3',
-    },
+export const ANPresentationMap: TANPresentationMap = {
+  1: {
+    plTitle: 'Ekaka Nipāta',
+    frTitle: 'Le livre des énumérations à un seul élément',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 30,
+    identifier: 'AN 1',
   },
-  sn: {
-    1: {
-      plTitle: 'Devatā Saṃyutta',
-      frTitle: 'Les dévas',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 12,
-      identifier: 'SN 1',
-    },
-    2: {
-      plTitle: 'Devaputta Saṃyutta',
-      frTitle: 'Les enfants de dévas',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 4,
-      identifier: 'SN 2',
-    },
-    3: {
-      plTitle: 'Kosala Saṃyutta',
-      frTitle: 'Le royaume de Kossala',
-      description:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
-      count: 12,
-      identifier: 'SN 3',
-    },
+  2: {
+    plTitle: 'Duka Nipāta',
+    frTitle: 'Le livre des énumérations à deux éléments',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 50,
+    identifier: 'AN 2',
   },
-  // kn: {}
+  3: {
+    plTitle: 'Tika Nipāta',
+    frTitle: 'Le livre des énumérations à trois éléments',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 89,
+    identifier: 'AN 3',
+  },
+};
+
+export const SNPresentationMap: TSNPresentationMap = {
+  1: {
+    plTitle: 'Devatā Saṃyutta',
+    frTitle: 'Les dévas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 12,
+    identifier: 'SN 1',
+  },
+  2: {
+    plTitle: 'Devaputta Saṃyutta',
+    frTitle: 'Les enfants de dévas',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 4,
+    identifier: 'SN 2',
+  },
+  3: {
+    plTitle: 'Kosala Saṃyutta',
+    frTitle: 'Le royaume de Kossala',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 12,
+    identifier: 'SN 3',
+  },
+};
+
+export const KNPresentationMap: TKNPresentationMap = {
+  kp: {
+    plTitle: 'Khuddakapāṭha',
+    frTitle: 'Le petit sentier',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 6,
+    identifier: 'Kp',
+  },
+  dhp: {
+    plTitle: 'Dhammapada',
+    frTitle: 'Les Versets du Dhamma',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 27,
+    identifier: 'Dhp',
+  },
+  ud: {
+    plTitle: 'Udāna',
+    frTitle: 'Les Exclamations',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+    count: 21,
+    identifier: 'Ud',
+  },
 };
 
 // const samyuttaSubNikayaPresentationData = [

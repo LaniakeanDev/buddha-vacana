@@ -35,9 +35,21 @@ type TSubnikayaPresentationMap = {
     [key in OneToFiftySix]: INikayaPresentationData;
   };
   kn?: {
-    [key in 'kp' | 'dhp' | 'ud' | 'it' | 'snp' | 'thag' | 'thig']: INikayaPresentationData;
+    [key in knBooks]: INikayaPresentationData;
   };
 };
+
+type TANPresentationMap = {
+  [key in OneToTwelve]: INikayaPresentationData;
+};
+type TSNPresentationMap = {
+  [key in OneToFiftySix]: INikayaPresentationData;
+};
+type TKNPresentationMap = {
+  [key in knBooks]: INikayaPresentationData;
+};
+
+type knBooks = 'kp' | 'dhp' | 'ud' /* | 'it' | 'snp' | 'thag' | 'thig' */;
 
 type OneToTwelve = 1 | 2 | 3 /* | 4 | 5 | 6 | 7 | 8 | 9 | 10 
   | 11 | 12 */;
