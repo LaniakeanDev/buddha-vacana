@@ -31,7 +31,7 @@ type TSubnikayaPresentationMap = {
   an: {
     [key in OneToTwelve]: INikayaPresentationData;
   };
-  sn?: {
+  sn: {
     [key in OneToFiftySix]: INikayaPresentationData;
   };
   kn?: {
@@ -42,10 +42,7 @@ type TSubnikayaPresentationMap = {
 type OneToTwelve = 1 | 2 | 3 /* | 4 | 5 | 6 | 7 | 8 | 9 | 10 
   | 11 | 12 */;
 
-type OneToFiftySix =
-  | 1
-  | 2
-  | 3
+type OneToFiftySix = 1 | 2 | 3 /*
   | 4
   | 5
   | 6
@@ -98,6 +95,6 @@ type OneToFiftySix =
   | 53
   | 54
   | 55
-  | 56;
+  | 56 */;
 
 type NikayaEnum = 'dn' | 'mn' | 'sn' | 'an' | 'kn';

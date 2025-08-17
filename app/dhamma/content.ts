@@ -81,7 +81,32 @@ export const subnikayaPresentationMap: TSubnikayaPresentationMap = {
       identifier: 'AN 3',
     },
   },
-  // sn: {},
+  sn: {
+    1: {
+      plTitle: 'Devatā Saṃyutta',
+      frTitle: 'Les dévas',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 12,
+      identifier: 'SN 1',
+    },
+    2: {
+      plTitle: 'Devaputta Saṃyutta',
+      frTitle: 'Les enfants de dévas',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 4,
+      identifier: 'SN 2',
+    },
+    3: {
+      plTitle: 'Kosala Saṃyutta',
+      frTitle: 'Le royaume de Kossala',
+      description:
+        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor itaque nostrum voluptatem, provident voluptate dolorum error ipsam aperiam quisquam maxime voluptatum nesciunt sunt, natus qui ipsa iste? Delectus, architecto modi',
+      count: 12,
+      identifier: 'SN 3',
+    },
+  },
   // kn: {}
 };
 
