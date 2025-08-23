@@ -1,0 +1,25 @@
+{
+  "identifier": "SN 1.1",
+  "plTitle": "Premier Sutta SN",
+  "frTitle": "C'est le 2e premier",
+  "description": "Premier soutta dans cette autre collection.",
+  "translator": "Remy",
+  "body": [
+    {
+      "pl": "Evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi",
+      "fr": "Un jour, le Fortuné séjournait à Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux mendiants:"
+    },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca",
+      "fr": "— Bhadanté», lui répondirent les mendiants. Le Fortuné leur dit alors:"
+    },
+    {
+      "pl": "“nāhaṃ, bhikkhave, aññaṃ ekarūpampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthirūpaṃ. itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī”ti.",
+      "fr": "«Mendiants, je ne vois aucune autre forme visible qui s'empare de l'esprit d'un homme autant que la forme d'une femme. La forme d'une femme, mendiants, s'empare de l'esprit d'un homme.»"
+    }
+  ]
+}

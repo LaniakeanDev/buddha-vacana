@@ -4,7 +4,7 @@ import { nikayaPresentationData } from '@/app/dhamma/content';
 
 interface FlatNikayaPageContentProps {
   data: ISuttaCardData[];
-  nikaya: NikayaEnum;
+  nikaya: TNikayaEnum;
 }
 
 export default function FlatNikayaPageContent({ data, nikaya }: FlatNikayaPageContentProps) {

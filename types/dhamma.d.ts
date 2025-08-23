@@ -8,7 +8,7 @@ interface INikayaPresentationData {
 
 interface INikayaNaviPresentationData extends INikayaPresentationData {
   href: string;
-  // id: NikayaEnum;
+  // id: TNikayaEnum;
 }
 
 interface ISuttaCardData {
@@ -24,7 +24,7 @@ interface ISuttaCardData {
 }
 
 type NikayaPresentationMap = {
-  [key in NikayaEnum]: INikayaPresentationData;
+  [key in TNikayaEnum]: INikayaPresentationData;
 };
 type TANPresentationMap = {
   [key in OneToTwelve]: INikayaPresentationData;
@@ -96,4 +96,4 @@ type OneToFiftySix = 1 | 2 | 3 /*
   | 55
   | 56 */;
 
-type NikayaEnum = 'dn' | 'mn' | 'sn' | 'an' | 'kn';
+type TNikayaEnum = 'dn' | 'mn' | 'sn' | 'an' | 'kn';

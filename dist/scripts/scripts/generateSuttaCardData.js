@@ -12,18 +12,19 @@ const fs_1 = require('fs');
 const path_1 = __importDefault(require('path'));
 const typeguards_1 = require('../utils/typeguards');
 async function generateCardData() {
-  const dataDir = path_1.default.join(process.cwd(), 'public/data/sutta');
-  const nikayas = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
+  console.log('generateCardData()');
+  const dataDir = path_1.default.join(process.cwd(), 'public/_data/sutta');
+  const nikayas = ['dn', 'mn', 'sn', 'an', 'kn'];
   try {
     for (const nikaya of nikayas) {
       const nikayaPath = path_1.default.join(dataDir, nikaya);
-      if (nikaya === 'digha' || nikaya === 'majjhima') {
+      if (nikaya === 'dn' || nikaya === 'mn') {
         const dataToBeWritten = await extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
         if (dataToBeWritten.length) {
           const outputFile =
-            nikaya === 'digha'
-              ? path_1.default.join(process.cwd(), 'public/data/suttaCardData/dn.json')
-              : path_1.default.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+            nikaya === 'dn'
+              ? path_1.default.join(process.cwd(), 'public/_data/suttaCardData/dn.json')
+              : path_1.default.join(process.cwd(), 'public/_data/suttaCardData/mn.json');
           await promises_1.default.writeFile(
             outputFile,
             JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -31,15 +32,15 @@ async function generateCardData() {
           );
         }
       }
-      if (nikaya === 'samyutta' || nikaya === 'anguttara') {
-        const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
+      if (nikaya === 'sn' || nikaya === 'an') {
+        const numberOfSubNikayas = nikaya === 'sn' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
           const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
             path_1.default.join(nikayaPath, String(subNikayaNumber)),
             nikaya,
           );
           if (dataToBeWritten.length) {
-            const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
+            const outPutPath = nikaya === 'sn' ? 'public/_data/suttaCardData/sn' : 'public/_data/suttaCardData/an';
             await promises_1.default.writeFile(
               path_1.default.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
               JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -48,15 +49,25 @@ async function generateCardData() {
           }
         }
       }
-      if (nikaya === 'khuddaka') {
+      if (nikaya === 'kn') {
         // figure out which subNikayas are in the folder structure
         const subNikayas = (0, fs_1.readdirSync)(nikayaPath).filter((file) => {
           const fullPath = path_1.default.join(nikayaPath, file);
           return (0, fs_1.statSync)(fullPath).isDirectory();
         });
         for (const subNikaya of subNikayas) {
-          console.log(subNikaya);
-          // to be finisehd later
+          const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
+            path_1.default.join(nikayaPath, String(subNikaya)),
+            nikaya,
+          );
+          if (dataToBeWritten.length) {
+            const outPutPath = 'public/_data/suttaCardData/kn';
+            await promises_1.default.writeFile(
+              path_1.default.join(process.cwd(), outPutPath, `/${String(subNikaya)}.json`),
+              JSON.stringify(dataToBeWritten, null, 2), // pretty print
+              'utf8',
+            );
+          }
         }
       }
     }

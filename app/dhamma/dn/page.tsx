@@ -7,7 +7,7 @@ import PageWrapper from '../components/PageWrapper';
 import { getSuttaCardData } from '@/utils/getSuttaCardData';
 
 export default async function DighaPage() {
-  // const sourcePath = path.join(process.cwd(), `public/data/suttaCardData/dn.json`);
+  // const sourcePath = path.join(process.cwd(), `public/_data/suttaCardData/dn.json`);
   // const rawData = await fs.readFile(sourcePath, 'utf8');
   // const suttaCardData = JSON.parse(rawData);
   // if (!isISuttaCardDataArray(suttaCardData)) {

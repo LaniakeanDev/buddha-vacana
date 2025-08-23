@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import { isISuttaCardDataArray } from '@/utils/typeguards';
 
 export async function getSuttaCardData(filePathEnd: string): Promise<ISuttaCardData[] | undefined> {
-  const sourcePath = path.join(process.cwd(), `public/data/suttaCardData/${filePathEnd}.json`);
+  const sourcePath = path.join(process.cwd(), `public/_data/suttaCardData/${filePathEnd}.json`);
 
   try {
     const rawData = await fs.readFile(sourcePath, 'utf8');
