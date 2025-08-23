@@ -17,7 +17,7 @@ interface SuttaMetadata {
 }
 
 async function generateCardData(): Promise<void> {
-  const dataDir = path.join(process.cwd(), 'public/data/sutta');
+  const dataDir = path.join(process.cwd(), 'public/_data/sutta');
   const nikayas: string[] = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
 
   try {
@@ -28,8 +28,8 @@ async function generateCardData(): Promise<void> {
         if (dataToBeWritten.length) {
           const outputFile =
             nikaya === 'digha'
-              ? path.join(process.cwd(), 'public/data/suttaCardData/dn.json')
-              : path.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+              ? path.join(process.cwd(), 'public/_data/suttaCardData/dn.json')
+              : path.join(process.cwd(), 'public/_data/suttaCardData/mn.json');
           await fs.writeFile(
             outputFile,
             JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -45,7 +45,8 @@ async function generateCardData(): Promise<void> {
             nikaya,
           );
           if (dataToBeWritten.length) {
-            const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
+            const outPutPath =
+              nikaya === 'samyutta' ? 'public/_data/suttaCardData/sn' : 'public/_data/suttaCardData/an';
             await fs.writeFile(
               path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
               JSON.stringify(dataToBeWritten, null, 2), // pretty print

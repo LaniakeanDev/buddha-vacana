@@ -12,7 +12,7 @@ const fs_1 = require('fs');
 const path_1 = __importDefault(require('path'));
 const typeguards_1 = require('../utils/typeguards');
 async function generateCardData() {
-  const dataDir = path_1.default.join(process.cwd(), 'public/data/sutta');
+  const dataDir = path_1.default.join(process.cwd(), 'public/_data/sutta');
   const nikayas = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
   try {
     for (const nikaya of nikayas) {
@@ -22,8 +22,8 @@ async function generateCardData() {
         if (dataToBeWritten.length) {
           const outputFile =
             nikaya === 'digha'
-              ? path_1.default.join(process.cwd(), 'public/data/suttaCardData/dn.json')
-              : path_1.default.join(process.cwd(), 'public/data/suttaCardData/mn.json');
+              ? path_1.default.join(process.cwd(), 'public/_data/suttaCardData/dn.json')
+              : path_1.default.join(process.cwd(), 'public/_data/suttaCardData/mn.json');
           await promises_1.default.writeFile(
             outputFile,
             JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -39,7 +39,8 @@ async function generateCardData() {
             nikaya,
           );
           if (dataToBeWritten.length) {
-            const outPutPath = nikaya === 'samyutta' ? 'public/data/suttaCardData/sn' : 'public/data/suttaCardData/an';
+            const outPutPath =
+              nikaya === 'samyutta' ? 'public/_data/suttaCardData/sn' : 'public/_data/suttaCardData/an';
             await promises_1.default.writeFile(
               path_1.default.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
               JSON.stringify(dataToBeWritten, null, 2), // pretty print

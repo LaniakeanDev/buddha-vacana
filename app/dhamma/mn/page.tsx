@@ -7,13 +7,13 @@ import PageWrapper from '../components/PageWrapper';
 import { getSuttaCardData } from '@/utils/getSuttaCardData';
 
 export default async function MajjhimaPage() {
-  // const sourcePath = path.join(process.cwd(), `public/data/suttaCardData/mn.json`);
+  // const sourcePath = path.join(process.cwd(), `public/_data/suttaCardData/mn.json`);
   // const rawData = await fs.readFile(sourcePath, 'utf8');
   // const suttaCardData = JSON.parse(rawData);
   // if (!isISuttaCardDataArray(suttaCardData)) {
   //   console.error('Error while reading file "', sourcePath, '": data structure doesn\'t match ISuttaData Interface');
   // }
-  const suttaCardData = getSuttaCardData('mn');
+  const suttaCardData = await getSuttaCardData('mn');
   const presentationData = nikayaPresentationMap.mn;
   return (
     <PageWrapper data={presentationData}>
