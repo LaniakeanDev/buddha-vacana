@@ -1,4 +1,4 @@
-export type NikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
+export type TNikayaEnum = 'digha' | 'majjhima' | 'samyutta' | 'anguttara' | 'khuddaka';
 
 export interface ISuttaCardData {
   plTitle: string;

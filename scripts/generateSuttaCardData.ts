@@ -11,23 +11,23 @@ interface SuttaMetadata {
   plTitle: string;
   frTitle: string;
   description: string;
-  nikaya: string;
+  nikaya: TNikayaEnum;
   readingTime: number;
   id: string;
 }
 
 async function generateCardData(): Promise<void> {
   const dataDir = path.join(process.cwd(), 'public/_data/sutta');
-  const nikayas: string[] = ['digha', 'majjhima', 'samyutta', 'anguttara', 'khuddaka'];
+  const nikayas: TNikayaEnum[] = ['dn', 'mn', 'sn', 'an', 'kn'];
 
   try {
     for (const nikaya of nikayas) {
       const nikayaPath = path.join(dataDir, nikaya);
-      if (nikaya === 'digha' || nikaya === 'majjhima') {
+      if (nikaya === 'dn' || nikaya === 'mn') {
         const dataToBeWritten = await extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
         if (dataToBeWritten.length) {
           const outputFile =
-            nikaya === 'digha'
+            nikaya === 'dn'
               ? path.join(process.cwd(), 'public/_data/suttaCardData/dn.json')
               : path.join(process.cwd(), 'public/_data/suttaCardData/mn.json');
           await fs.writeFile(
@@ -37,16 +37,15 @@ async function generateCardData(): Promise<void> {
           );
         }
       }
-      if (nikaya === 'samyutta' || nikaya === 'anguttara') {
-        const numberOfSubNikayas = nikaya === 'samyutta' ? 56 : 12;
+      if (nikaya === 'sn' || nikaya === 'an') {
+        const numberOfSubNikayas = nikaya === 'sn' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
           const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
             path.join(nikayaPath, String(subNikayaNumber)),
             nikaya,
           );
           if (dataToBeWritten.length) {
-            const outPutPath =
-              nikaya === 'samyutta' ? 'public/_data/suttaCardData/sn' : 'public/_data/suttaCardData/an';
+            const outPutPath = nikaya === 'sn' ? 'public/_data/suttaCardData/sn' : 'public/_data/suttaCardData/an';
             await fs.writeFile(
               path.join(process.cwd(), outPutPath, `/${subNikayaNumber}.json`),
               JSON.stringify(dataToBeWritten, null, 2), // pretty print
@@ -55,15 +54,25 @@ async function generateCardData(): Promise<void> {
           }
         }
       }
-      if (nikaya === 'khuddaka') {
+      if (nikaya === 'kn') {
         // figure out which subNikayas are in the folder structure
         const subNikayas = readdirSync(nikayaPath).filter((file) => {
           const fullPath = path.join(nikayaPath, file);
           return statSync(fullPath).isDirectory();
         });
         for (const subNikaya of subNikayas) {
-          console.log(subNikaya);
-          // to be finisehd later
+          const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
+            path.join(nikayaPath, String(subNikaya)),
+            nikaya,
+          );
+          if (dataToBeWritten.length) {
+            const outPutPath = 'public/_data/suttaCardData/kn';
+            await fs.writeFile(
+              path.join(process.cwd(), outPutPath, `/${String(subNikaya)}.json`),
+              JSON.stringify(dataToBeWritten, null, 2), // pretty print
+              'utf8',
+            );
+          }
         }
       }
     }

@@ -4,7 +4,7 @@
 
 interface NestedNikayaPageContentProps {
   data: boolean;
-  nikaya: NikayaEnum;
+  nikaya: TNikayaEnum;
 }
 
 export default function NestedNikayaPageContent({ data, nikaya }: NestedNikayaPageContentProps) {
