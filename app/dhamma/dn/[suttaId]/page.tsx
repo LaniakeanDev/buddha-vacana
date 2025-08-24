@@ -13,12 +13,11 @@ interface DighaSuttaPageProps {
 export default async function DighaSuttaPage({ params }: DighaSuttaPageProps) {
   const { suttaId } = await params;
   const id = Number(suttaId);
-  console.log({ id });
   if (!Number.isInteger(id) || id < 1 || id > 34) {
     return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
-    const suttaData = getSuttaData('digha', String(suttaId), undefined);
+    const suttaData = getSuttaData('dn', id);
     if (!suttaData) {
       throw new Error(`File containing data for DN ${suttaId} unavailable`);
     }
