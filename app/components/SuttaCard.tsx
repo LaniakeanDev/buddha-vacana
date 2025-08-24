@@ -4,12 +4,14 @@ import HourglassIcon from '@/public/assets/svg/hourglass.svg';
 import HourglassIconLightEnv from '@/public/assets/svg/hourglass-lightenv.svg';
 import TranslatorIcon from '@/public/assets/svg/sutta/translator.svg';
 import TranslatorIconLightEnv from '@/public/assets/svg/sutta/translator-lightenv.svg';
+import Link from 'next/link';
 
 export default function SuttaCard({
   plTitle,
   frTitle,
   description,
   identifier,
+  id,
   translator,
   readingTime,
   // themes,
@@ -17,7 +19,7 @@ export default function SuttaCard({
   // tags
 }: ISuttaCardData) {
   return (
-    <div className="card">
+    <Link href={`${identifier.split(' ')[0].toLowerCase()}/${id}`} className="card">
       <CardIdentifier content={identifier} className="!w-16" />
       <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
       <div className="w-full flex flex-row justify-between">
@@ -32,6 +34,6 @@ export default function SuttaCard({
           <p className="text-sm">{readingTime} mn</p>
         </div>
       </div>
-    </div>
+    </Link>
   );
 }

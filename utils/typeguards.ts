@@ -45,7 +45,7 @@ function isISuttaCardData(data: unknown): data is ISuttaCardData {
     typeof potentialSuttaCardData.plTitle !== 'string' ||
     typeof potentialSuttaCardData.frTitle !== 'string' ||
     typeof potentialSuttaCardData.description !== 'string' ||
-    typeof potentialSuttaCardData.identifier !== 'string' ||
+    // typeof potentialSuttaCardData.identifier !== 'string' ||
     typeof potentialSuttaCardData.translator !== 'string' ||
     typeof potentialSuttaCardData.readingTime !== 'number'
   ) {

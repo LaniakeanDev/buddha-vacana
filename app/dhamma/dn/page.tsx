@@ -24,7 +24,8 @@ export default async function DighaPage() {
               plTitle={item.plTitle}
               frTitle={item.frTitle}
               description={item.description}
-              identifier={item.identifier}
+              identifier={`DN ${item.id}`}
+              id={item.id}
               translator={item.translator}
               readingTime={item.readingTime}
               key={`sutta-card-${item.identifier}`}

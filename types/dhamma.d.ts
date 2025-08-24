@@ -18,6 +18,7 @@ interface ISuttaCardData {
   identifier: string;
   translator: string;
   readingTime: number;
+  id: number;
   themes?: string[];
   similes?: string[];
   tags?: string[];

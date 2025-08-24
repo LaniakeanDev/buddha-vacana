@@ -27,10 +27,10 @@ export function getSuttaData(nikaya: string, level1: string, level2: string | un
   }
 }
 
-export const NIKAYA_SHORT_MAP = {
-  digha: 'DN',
-  majjhima: 'MN',
-  samyutta: 'SN',
-  anguttara: 'AN',
-  khuddaka: 'KN',
-};
+// export const NIKAYA_SHORT_MAP = {
+//   digha: 'DN',
+//   majjhima: 'MN',
+//   samyutta: 'SN',
+//   anguttara: 'AN',
+//   khuddaka: 'KN',
+// };
