@@ -47,7 +47,7 @@ function isISuttaCardData(data) {
     typeof potentialSuttaCardData.plTitle !== 'string' ||
     typeof potentialSuttaCardData.frTitle !== 'string' ||
     typeof potentialSuttaCardData.description !== 'string' ||
-    typeof potentialSuttaCardData.identifier !== 'string' ||
+    // typeof potentialSuttaCardData.identifier !== 'string' ||
     typeof potentialSuttaCardData.translator !== 'string' ||
     typeof potentialSuttaCardData.readingTime !== 'number'
   ) {

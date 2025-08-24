@@ -12,7 +12,6 @@ const fs_1 = require('fs');
 const path_1 = __importDefault(require('path'));
 const typeguards_1 = require('../utils/typeguards');
 async function generateCardData() {
-  console.log('generateCardData()');
   const dataDir = path_1.default.join(process.cwd(), 'public/_data/sutta');
   const nikayas = ['dn', 'mn', 'sn', 'an', 'kn'];
   try {

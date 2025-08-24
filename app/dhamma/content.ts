@@ -156,49 +156,49 @@ export const KNPresentationMap: TKNPresentationMap = {
 // }
 
 // obsolete, to be deleted when sure no longer needed
-export const dighaSuttaData: ISuttaCardData[] = [
-  {
-    plTitle: 'Brahmajāla Sutta',
-    frTitle: 'Le filet de Brahma',
-    description:
-      "Un long discours qui catégorise en 62 types les croyances que les hommes ont tendance à formuler au sujet de l'existence.",
-    identifier: 'DN 1',
-    translator: 'Rémy',
-    readingTime: 25,
-  },
-  {
-    plTitle: 'Sāmaññaphala Sutta',
-    frTitle: 'Les fruits du renoncement',
-    description: 'Le Bouddha explique en détail au roi Ajatassattou quels sont les fruits du renoncement.',
-    identifier: 'DN 2',
-    translator: 'Rémy',
-    readingTime: 25,
-  },
-  {
-    plTitle: 'Mahāparinibbāna Sutta',
-    frTitle: "Le grand récit de l'Extinction complète",
-    description:
-      "Le récit des derniers jours du Bouddha, formant le plus long soutta. Celui-ci rappelle les points les plus importants de son enseignement et donne des instructions spécifiques concernant la pratique de ses disciples qui n'auront pas eu la chance de l'avoir connu personnellement, et donc très utiles à chacun de nous.",
-    identifier: 'DN 16',
-    translator: 'Rémy',
-    readingTime: 45,
-  },
-  {
-    plTitle: 'Mahāsatipaṭṭhāna Sutta',
-    frTitle: "Le grand discours sur la mise en place de la présence d'esprit",
-    description:
-      "Le Mahāsatipaṭṭhāna Sutta est une référence fondamentale dans l'enseignement du Bouddha. Ce long discours décrit les instructions relatives aux différentes pratiques de méditations recommandées par le Bouddha, et contient également une explication détaillée des quatre nobles vérités.",
-    identifier: 'DN 22',
-    translator: 'Rémy',
-    readingTime: 25,
-  },
-  {
-    plTitle: 'Siṅgāla Sutta',
-    frTitle: 'Discours à Singala',
-    description:
-      "Le Bouddha explique à Singala, un jeune homme qui cherche à respecter les dernières volontés de son père, comment on doit protéger les six directions. C'est une sorte de manuel de savoir-vivre expliquant les dangers qui guettent l'homme de foyer, comment choisir ses amis, comment se comporter vis-à-vis des uns et des autres, afin d'assurer son propre bien-être, celui de sa famille et de tous les proches, et d'acquérir et protéger la richesse.",
-    identifier: 'DN 31',
-    translator: 'Rémy',
-    readingTime: 25,
-  },
-];
+// export const dighaSuttaData: ISuttaCardData[] = [
+//   {
+//     plTitle: 'Brahmajāla Sutta',
+//     frTitle: 'Le filet de Brahma',
+//     description:
+//       "Un long discours qui catégorise en 62 types les croyances que les hommes ont tendance à formuler au sujet de l'existence.",
+//     identifier: 'DN 1',
+//     translator: 'Rémy',
+//     readingTime: 25,
+//   },
+//   {
+//     plTitle: 'Sāmaññaphala Sutta',
+//     frTitle: 'Les fruits du renoncement',
+//     description: 'Le Bouddha explique en détail au roi Ajatassattou quels sont les fruits du renoncement.',
+//     identifier: 'DN 2',
+//     translator: 'Rémy',
+//     readingTime: 25,
+//   },
+//   {
+//     plTitle: 'Mahāparinibbāna Sutta',
+//     frTitle: "Le grand récit de l'Extinction complète",
+//     description:
+//       "Le récit des derniers jours du Bouddha, formant le plus long soutta. Celui-ci rappelle les points les plus importants de son enseignement et donne des instructions spécifiques concernant la pratique de ses disciples qui n'auront pas eu la chance de l'avoir connu personnellement, et donc très utiles à chacun de nous.",
+//     identifier: 'DN 16',
+//     translator: 'Rémy',
+//     readingTime: 45,
+//   },
+//   {
+//     plTitle: 'Mahāsatipaṭṭhāna Sutta',
+//     frTitle: "Le grand discours sur la mise en place de la présence d'esprit",
+//     description:
+//       "Le Mahāsatipaṭṭhāna Sutta est une référence fondamentale dans l'enseignement du Bouddha. Ce long discours décrit les instructions relatives aux différentes pratiques de méditations recommandées par le Bouddha, et contient également une explication détaillée des quatre nobles vérités.",
+//     identifier: 'DN 22',
+//     translator: 'Rémy',
+//     readingTime: 25,
+//   },
+//   {
+//     plTitle: 'Siṅgāla Sutta',
+//     frTitle: 'Discours à Singala',
+//     description:
+//       "Le Bouddha explique à Singala, un jeune homme qui cherche à respecter les dernières volontés de son père, comment on doit protéger les six directions. C'est une sorte de manuel de savoir-vivre expliquant les dangers qui guettent l'homme de foyer, comment choisir ses amis, comment se comporter vis-à-vis des uns et des autres, afin d'assurer son propre bien-être, celui de sa famille et de tous les proches, et d'acquérir et protéger la richesse.",
+//     identifier: 'DN 31',
+//     translator: 'Rémy',
+//     readingTime: 25,
+//   },
+// ];

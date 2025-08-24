@@ -17,7 +17,7 @@ export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPagePro
     return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
-    const suttaData = getSuttaData('majjhima', String(suttaId), undefined);
+    const suttaData = getSuttaData('mn', id);
     if (!suttaData) {
       throw new Error(`File containing data for MN ${suttaId} unavailable`);
     }
