@@ -18,8 +18,11 @@ export default function SuttaCard({
   // similes,
   // tags
 }: ISuttaCardData) {
+  const nikayaOrKNBook = identifier.split(' ')[0].toLowerCase();
+  const pathSegment =
+    nikayaOrKNBook === 'an' || nikayaOrKNBook === 'sn' ? identifier.split(' ')[1].split('.')[0] : nikayaOrKNBook;
   return (
-    <Link href={`${identifier.split(' ')[0].toLowerCase()}/${id}`} className="card">
+    <Link href={`${pathSegment}/${id}`} className="card">
       <CardIdentifier content={identifier} className="!w-16" />
       <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
       <div className="w-full flex flex-row justify-between">

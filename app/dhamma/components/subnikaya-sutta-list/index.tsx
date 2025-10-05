@@ -17,10 +17,11 @@ export default async function SubNikayaSuttaList({ nikaya, book }: SubNikayaSutt
             plTitle={item.plTitle}
             frTitle={item.frTitle}
             description={item.description}
-            identifier={item.identifier}
+            identifier={`SN ${book}.${item.id}`}
+            id={item.id}
             translator={item.translator}
             readingTime={item.readingTime}
-            key={`sutta-card-${item.identifier}`}
+            key={`sutta-card-${book}-${item.id}`}
           />
         ))}
     </div>

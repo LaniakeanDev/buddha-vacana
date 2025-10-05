@@ -28,7 +28,7 @@ export default async function DighaSuttaPage({ params }: DighaSuttaPageProps) {
       return (
         <>
           <p className="breadcrumbs">
-            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/digha">DN</Link>
+            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/dn">DN</Link>
             {' > '} DN {String(suttaId)}
           </p>
           <SuttaPageContent suttaData={suttaData} />

@@ -28,7 +28,7 @@ export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPagePro
       return (
         <>
           <p className="breadcrumbs">
-            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/majjhima">MN</Link>
+            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/mn">MN</Link>
             {' > '} MN {String(suttaId)}
           </p>
           <SuttaPageContent suttaData={suttaData} />

@@ -6,37 +6,38 @@ import GraciousFail from '@/app/components/GraciousFail';
 
 interface SamyuttaSuttaPageProps {
   params: {
-    bookNumber: number;
+    book: number;
     suttaId: number;
   };
 }
 
 export default async function SamyuttaSuttaPage({ params }: SamyuttaSuttaPageProps) {
-  const { bookNumber, suttaId } = await params;
-  if (!Number.isInteger(bookNumber) || !Number.isInteger(suttaId) || bookNumber < 1 || bookNumber > 56 || suttaId < 1) {
+  const { book, suttaId } = await params;
+  console.log({ book });
+  if (!Number.isInteger(+book) || !Number.isInteger(+suttaId) || +book < 1 || +book > 56 || +suttaId < 1) {
     return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
   }
   try {
-    const suttaData = getSuttaData('samyutta', String(bookNumber), String(suttaId));
+    const suttaData = getSuttaData('sn', suttaId, String(book));
     if (!suttaData) {
-      throw new Error(`File containing data for SN ${bookNumber}.${suttaId} unavailable`);
+      throw new Error(`File containing data for SN ${book}.${suttaId} unavailable`);
     }
     if (!isISuttaData(suttaData)) {
-      throw new Error(`Data structure in SN ${bookNumber}.${suttaId} doesn't match ISuttaCardData interface`);
+      throw new Error(`Data structure in SN ${book}.${suttaId} doesn't match ISuttaCardData interface`);
     }
     if (suttaData && isISuttaData(suttaData)) {
       return (
         <>
           <p className="breadcrumbs">
-            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/samyutta">SN</Link>
-            {' > '} <Link href="/dhamma/samyutta">SN {bookNumber}</Link> {' > '} SN {bookNumber}.{suttaId}
+            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/sn">SN</Link>
+            {' > '} <Link href={`/dhamma/sn/${book}`}>SN {book}</Link> {' > '} SN {book}.{suttaId}
           </p>
           <SuttaPageContent suttaData={suttaData} />
         </>
       );
     }
   } catch (error) {
-    console.error(`Failed to load sutta data from samyutta/${bookNumber}/${suttaId}:`, error);
+    console.error(`Failed to load sutta data from samyutta/${book}/${suttaId}:`, error);
     return <GraciousFail message="Soutta non trouvé" />;
   }
 }
