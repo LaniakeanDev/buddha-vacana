@@ -16,3 +16,13 @@ interface IModalState {
   word: string | undefined;
   glossId: string | undefined;
 }
+
+type IPageSuttaDataFetcherResponse =
+  | {
+      success: true;
+      suttaData: ISuttaData;
+    }
+  | {
+      success: false;
+      errorMessage: string;
+    };

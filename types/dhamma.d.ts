@@ -37,7 +37,7 @@ type TKNPresentationMap = {
   [key in TknBooks]: INikayaPresentationData;
 };
 
-type TknBooks = 'kp' | 'dhp' | 'ud' /* | 'it' | 'snp' | 'thag' | 'thig' */;
+type TknBooks = 'kp' | 'dhp' | 'ud' | 'it' | 'snp' | 'thag' | 'thig';
 
 type OneToTwelve = 1 | 2 | 3 /* | 4 | 5 | 6 | 7 | 8 | 9 | 10 
   | 11 | 12 */;
