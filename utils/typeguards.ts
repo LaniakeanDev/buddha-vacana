@@ -82,7 +82,7 @@ export const isCorrectKNSuttaId = (suttaId: string, book: string): boolean => {
     case 'dhp':
       return isDhpChapter(suttaId);
     case 'ud':
-      const parsedUdSuttaId = suttaId.split('.');
+      const parsedUdSuttaId = suttaId.split('-');
       return (
         Number.isInteger(+parsedUdSuttaId[0]) &&
         Number.isInteger(+parsedUdSuttaId[1]) &&
@@ -94,7 +94,7 @@ export const isCorrectKNSuttaId = (suttaId: string, book: string): boolean => {
     case 'it':
       return Number.isInteger(+suttaId) && +suttaId > 0 && +suttaId < 113;
     case 'snp':
-      const parsedSnpSuttaId = suttaId.split('.');
+      const parsedSnpSuttaId = suttaId.split('-');
       return isCorrectSnpSuttaId(parsedSnpSuttaId[0], parsedSnpSuttaId[1]);
     case 'thag':
       return Number.isInteger(+suttaId) && +suttaId > 0 && +suttaId < 22;
