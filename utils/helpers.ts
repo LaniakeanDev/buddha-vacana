@@ -64,7 +64,11 @@ export function getSuttaData(nikaya: TNikayaEnum, id: string, subnikaya?: string
 //   khuddaka: 'KN',
 // };
 
-const suttaUrlIsCorrect = (nikaya: TNikayaEnum, suttaId: string, book?: string): boolean => {
+const suttaUrlIsCorrect = (
+  nikaya: TNikayaEnum,
+  suttaId: string,
+  book?: OneToTwelve | OneToFiftySix | TknBooks,
+): boolean => {
   switch (nikaya) {
     case 'dn':
       return Number.isInteger(+suttaId) && +suttaId > 0 && +suttaId <= 34;
@@ -90,7 +94,7 @@ const formatSuttaReference = (nikaya: TNikayaEnum, suttaId: string, book?: strin
 export function pageSuttaDataFetcher(
   nikaya: TNikayaEnum,
   suttaId: string,
-  book?: string,
+  book?: OneToTwelve | OneToFiftySix | TknBooks,
 ): IPageSuttaDataFetcherResponse {
   if (!suttaUrlIsCorrect(nikaya, suttaId, book)) {
     return {
@@ -106,24 +110,24 @@ export function pageSuttaDataFetcher(
         case 'mn':
           return getSuttaData('mn', suttaId);
         case 'sn':
-          return getSuttaData('sn', suttaId, book);
+          return getSuttaData('sn', suttaId, String(book));
         case 'an':
-          return getSuttaData('an', suttaId, book);
+          return getSuttaData('an', suttaId, String(book));
         case 'kn':
-          return getSuttaData('kn', suttaId, book);
+          return getSuttaData('kn', suttaId, String(book));
         default:
           return null;
       }
     })();
-    if (!suttaData) throw `File containing data for ${formatSuttaReference(nikaya, suttaId, book)} unavailable`;
+    if (!suttaData) throw `File containing data for ${formatSuttaReference(nikaya, suttaId, String(book))} unavailable`;
     if (!isISuttaData(suttaData))
-      throw `Data structure in ${formatSuttaReference(nikaya, suttaId, book)} doesn't match ISuttaCardData interface`;
+      throw `Data structure in ${formatSuttaReference(nikaya, suttaId, String(book))} doesn't match ISuttaCardData interface`;
     return {
       success: true,
       suttaData,
     };
   } catch (error) {
-    console.error(`Failed to load sutta data from ${formatSuttaReference(nikaya, suttaId, book)}: `, error);
+    console.error(`Failed to load sutta data from ${formatSuttaReference(nikaya, suttaId, String(book))}: `, error);
     return {
       success: false,
       errorMessage: typeof error == 'string' ? error : 'unknown error',

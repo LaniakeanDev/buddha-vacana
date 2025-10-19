@@ -19,14 +19,8 @@ export const isToolCardDataArray = (items: unknown): items is IToolCardData[] =>
   return items.every((item) => isIToolCardData(item));
 };
 
-export const isKNBook = (string: string): string is TknBooks =>
-  string == 'kp' ||
-  string == 'dhp' ||
-  string == 'ud' ||
-  string == 'it' ||
-  string == 'snp' ||
-  string == 'thag' ||
-  string == 'thig';
+export const isKNBook = (book: OneToTwelve | OneToFiftySix | TknBooks): book is TknBooks =>
+  book == 'kp' || book == 'dhp' || book == 'ud' || book == 'it' || book == 'snp' || book == 'thag' || book == 'thig';
 
 const isDhpChapter = (string: string): boolean =>
   string == '1-20' ||

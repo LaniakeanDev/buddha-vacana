@@ -6,6 +6,8 @@ interface INikayaPresentationData {
   identifier: string;
 }
 
+type TBasket = 'Dhamma' | 'Vinaya';
+
 interface INikayaNaviPresentationData extends INikayaPresentationData {
   href: string;
   // id: TNikayaEnum;
