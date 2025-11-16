@@ -3,9 +3,9 @@ import SubNikayaSuttaList from '../../components/subnikaya-sutta-list';
 import { ANPresentationMap } from '../../content';
 
 interface ANParams {
-  params: {
+  params: Promise<{
     book: OneToTwelve;
-  };
+  }>;
 }
 
 export default async function AnguttaraNipataPage({ params }: ANParams) {

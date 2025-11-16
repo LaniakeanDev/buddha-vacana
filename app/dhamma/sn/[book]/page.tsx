@@ -3,9 +3,9 @@ import SubNikayaSuttaList from '../../components/subnikaya-sutta-list';
 import { SNPresentationMap } from '../../content';
 
 interface SNParams {
-  params: {
+  params: Promise<{
     book: OneToFiftySix;
-  };
+  }>;
 }
 
 export default async function IndividualSamyuttaPage({ params }: SNParams) {

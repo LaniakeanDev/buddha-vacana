@@ -17,7 +17,7 @@ export default function SuttaCard({
   // themes,
   // similes,
   // tags
-}: ISuttaCardData) {
+}: IDisplaySuttaCardData) {
   const nikayaOrKNBook = identifier.split(' ')[0].toLowerCase();
   const pathSegment =
     nikayaOrKNBook === 'an' || nikayaOrKNBook === 'sn' ? identifier.split(' ')[1].split('.')[0] : nikayaOrKNBook;

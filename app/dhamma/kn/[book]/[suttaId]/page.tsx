@@ -6,10 +6,10 @@ import GraciousFail from '@/app/components/GraciousFail';
 import { pageSuttaDataFetcher } from '@/utils/helpers';
 
 interface KhuddakaSuttaPageProps {
-  params: {
+  params: Promise<{
     book: TknBooks;
     suttaId: string;
-  };
+  }>;
 }
 
 export default async function KhuddakaSuttaPage({ params }: KhuddakaSuttaPageProps) {

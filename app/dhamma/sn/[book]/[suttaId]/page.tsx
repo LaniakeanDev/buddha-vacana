@@ -6,10 +6,10 @@ import SuttaPageContent from '../../../components/SuttaPageContent';
 import GraciousFail from '@/app/components/GraciousFail';
 
 interface SamyuttaSuttaPageProps {
-  params: {
-    book: string;
+  params: Promise<{
+    book: OneToFiftySix;
     suttaId: string;
-  };
+  }>;
 }
 
 export default async function SamyuttaSuttaPage({ params }: SamyuttaSuttaPageProps) {

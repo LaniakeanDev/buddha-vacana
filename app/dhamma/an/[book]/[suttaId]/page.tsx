@@ -4,10 +4,10 @@ import { pageSuttaDataFetcher } from '@/utils/helpers';
 import BreadCrumbs from '@/app/components/breadcrumbs';
 
 interface AnguttaraSuttaPageProps {
-  params: {
+  params: Promise<{
     book: OneToTwelve;
     suttaId: string;
-  };
+  }>;
 }
 
 export default async function AnguttaraSuttaPage({ params }: AnguttaraSuttaPageProps) {

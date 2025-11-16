@@ -6,9 +6,9 @@ import GraciousFail from '@/app/components/GraciousFail';
 import { pageSuttaDataFetcher } from '@/utils/helpers';
 
 interface DighaSuttaPageProps {
-  params: {
+  params: Promise<{
     suttaId: string;
-  };
+  }>;
 }
 
 export default async function DighaSuttaPage({ params }: DighaSuttaPageProps) {

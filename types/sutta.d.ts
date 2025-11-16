@@ -4,7 +4,7 @@ interface ISuttaBlock {
 }
 
 interface ISuttaData {
-  // identifier: string;
+  identifier: string;
   plTitle: string;
   frTitle: string;
   description: string;

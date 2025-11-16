@@ -1,4 +1,4 @@
-import { ISuttaCardData } from '@/types/exports';
+// import { ISuttaCardData } from '@/types/exports';
 
 const hasRequiredProperties = (obj: object, keys: string[]): boolean => {
   return keys.every((key) => key in obj);
@@ -20,7 +20,9 @@ export const isToolCardDataArray = (items: unknown): items is IToolCardData[] =>
 };
 
 export const isKNBook = (book: OneToTwelve | OneToFiftySix | TknBooks): book is TknBooks =>
-  book == 'kp' || book == 'dhp' || book == 'ud' || book == 'it' || book == 'snp' || book == 'thag' || book == 'thig';
+  book == 'kp' ||
+  book == 'dhp' ||
+  book == 'ud'; /* || book == 'it' || book == 'snp' || book == 'thag' || book == 'thig' */
 
 const isDhpChapter = (string: string): boolean =>
   string == '1-20' ||
@@ -104,11 +106,11 @@ export const isCorrectKNSuttaId = (suttaId: string, book: string): boolean => {
  * @param data
  * @returns data is ISuttaCardData
  */
-export function isISuttaCardDataArray(data: unknown): data is ISuttaCardData[] {
+export function isIDisplaySuttaCardDataArray(data: unknown): data is IDisplaySuttaCardData[] {
   if (!Array.isArray(data)) {
     return false;
   }
-  return data.every((item) => isISuttaCardData(item));
+  return data.every((item) => isIDisplaySuttaCardData(item));
 }
 
 /**
@@ -116,7 +118,7 @@ export function isISuttaCardDataArray(data: unknown): data is ISuttaCardData[] {
  * @param data
  * @returns data is ISuttaCardData
  */
-function isISuttaCardData(data: unknown): data is ISuttaCardData {
+function isIDisplaySuttaCardData(data: unknown): data is IDisplaySuttaCardData {
   if (typeof data !== 'object' || data === null) {
     return false;
   }

@@ -1,6 +1,6 @@
 import SuttaCard from '@/app/components/SuttaCard';
 import { getSuttaCardData } from '@/utils/getSuttaCardData';
-import { isISuttaCardDataArray } from '@/utils/typeguards';
+import { isIDisplaySuttaCardDataArray } from '@/utils/typeguards';
 
 interface SubNikayaSuttaListProps {
   nikaya: 'an' | 'sn' | 'kn';
@@ -11,7 +11,7 @@ export default async function SubNikayaSuttaList({ nikaya, book }: SubNikayaSutt
   const suttaCardData = await getSuttaCardData(`${nikaya}/${book}`);
   return (
     <div className="card-list-container">
-      {isISuttaCardDataArray(suttaCardData) &&
+      {isIDisplaySuttaCardDataArray(suttaCardData) &&
         suttaCardData.map((item) => (
           <SuttaCard
             plTitle={item.plTitle}

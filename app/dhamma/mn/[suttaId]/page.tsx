@@ -6,9 +6,9 @@ import SuttaPageContent from '../../components/SuttaPageContent';
 import GraciousFail from '@/app/components/GraciousFail';
 
 interface MajjhimaSuttaPageProps {
-  params: {
+  params: Promise<{
     suttaId: string;
-  };
+  }>;
 }
 
 export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPageProps) {

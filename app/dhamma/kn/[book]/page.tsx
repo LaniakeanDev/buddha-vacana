@@ -3,9 +3,9 @@ import SubNikayaSuttaList from '../../components/subnikaya-sutta-list';
 import { KNPresentationMap } from '../../content';
 
 interface KNParams {
-  params: {
+  params: Promise<{
     book: TknBooks;
-  };
+  }>;
 }
 
 export default async function KNBookPage({ params }: KNParams) {
