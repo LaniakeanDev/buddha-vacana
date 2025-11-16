@@ -17,7 +17,8 @@ export default async function SubNikayaSuttaList({ nikaya, book }: SubNikayaSutt
             plTitle={item.plTitle}
             frTitle={item.frTitle}
             description={item.description}
-            identifier={`SN ${book}.${item.id}`}
+            // identifier={`SN ${book}.${item.id}`}
+            identifier={item.identifier}
             id={item.id}
             translator={item.translator}
             readingTime={item.readingTime}
