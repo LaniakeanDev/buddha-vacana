@@ -1,6 +1,7 @@
 import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
 import { nikayaPresentationMap, ANPresentationMap } from '../content';
+import BreadCrumbs from '@/app/components/breadcrumbs';
 
 export default function AnguttaraPage() {
   const renderSubnikayaCards = () => {
@@ -17,8 +18,11 @@ export default function AnguttaraPage() {
     ));
   };
   return (
-    <PageWrapper data={nikayaPresentationMap.an}>
-      <ul className="card-list-container">{renderSubnikayaCards()}</ul>
-    </PageWrapper>
+    <>
+      <BreadCrumbs basket="Dhamma" nikaya="an" />
+      <PageWrapper data={nikayaPresentationMap.an}>
+        <ul className="card-list-container">{renderSubnikayaCards()}</ul>
+      </PageWrapper>
+    </>
   );
 }

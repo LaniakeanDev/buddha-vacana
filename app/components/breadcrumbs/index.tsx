@@ -29,8 +29,11 @@ export default function BreadCrumbs({ basket, nikaya, book, suttaId }: BreadCrum
           <p className="breadcrumbs">
             <Link href="/dhamma">Dhamma</Link> {' > '}
             <Link href={`/dhamma/${nikaya}`}>{nikaya.toUpperCase()}</Link>
-            {' > '}
-            <Link href={`/dhamma/${nikaya}/${book}`}>{book}</Link>
+            {book && (
+              <>
+                {' > '} <Link href={`/dhamma/${nikaya}/${book}`}>{book}</Link>
+              </>
+            )}
             {suttaId && (
               <>
                 {' > '} {suttaId}
@@ -43,8 +46,14 @@ export default function BreadCrumbs({ basket, nikaya, book, suttaId }: BreadCrum
           <p className="breadcrumbs">
             <Link href="/dhamma">Dhamma</Link> {' > '}
             <Link href={`/dhamma/kn`}>KN</Link>
-            {' > '}
-            <Link href={`/dhamma/kn/${book}`}>{String(book).charAt(0).toUpperCase() + String(book).slice(1)}</Link>
+            {book && (
+              <>
+                {' > '}{' '}
+                <Link href={`/dhamma/kn/${book}`}>{String(book).charAt(0).toUpperCase() + String(book).slice(1)}</Link>
+              </>
+            )}
+            {/* {' > '}
+            <Link href={`/dhamma/kn/${book}`}>{String(book).charAt(0).toUpperCase() + String(book).slice(1)}</Link> */}
             {suttaId && (
               <>
                 {' > '} {suttaId}
