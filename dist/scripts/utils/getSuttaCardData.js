@@ -14,7 +14,7 @@ async function getSuttaCardData(filePathEnd) {
   try {
     const rawData = await promises_1.default.readFile(sourcePath, 'utf8');
     const suttaCardData = JSON.parse(rawData);
-    if (!(0, typeguards_1.isISuttaCardDataArray)(suttaCardData)) {
+    if (!(0, typeguards_1.isIDisplaySuttaCardDataArray)(suttaCardData)) {
       throw new Error(`Data structure in ${sourcePath} doesn't match ISuttaCardData interface`);
     }
     return suttaCardData;
