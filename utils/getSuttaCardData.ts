@@ -11,8 +11,6 @@ export async function getSuttaCardData(filePathEnd: string): Promise<IDisplaySut
     if (!isIDisplaySuttaCardDataArray(suttaCardData)) {
       throw new Error(`Data structure in ${sourcePath} doesn't match ISuttaCardData interface`);
     }
-
-    // TODO: Fix This!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! then carry on with breadcrumbs
     return suttaCardData;
   } catch (error) {
     console.error(`Failed to load sutta card data from ${sourcePath}:`, error);
