@@ -4,13 +4,16 @@ import { nikayaPresentationMap } from '../content';
 import PageWrapper from '../components/PageWrapper';
 import { getSuttaCardData } from '@/utils/getSuttaCardData';
 import BreadCrumbs from '@/app/components/breadcrumbs';
+import DhammaHeader from '@/app/components/header';
 
 export default async function DighaPage() {
   const suttaCardData = await getSuttaCardData('dn');
   const presentationData = nikayaPresentationMap.dn;
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="dn" />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="dn" />
+      </DhammaHeader>
       <PageWrapper data={presentationData}>
         <div className="card-list-container">
           {isIDisplaySuttaCardDataArray(suttaCardData) &&

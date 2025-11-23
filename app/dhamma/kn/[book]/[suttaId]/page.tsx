@@ -2,6 +2,7 @@ import SuttaPageContent from '../../../components/SuttaPageContent';
 import GraciousFail from '@/app/components/GraciousFail';
 import { pageSuttaDataFetcher } from '@/utils/helpers';
 import BreadCrumbs from '@/app/components/breadcrumbs';
+import DhammaHeader from '@/app/components/header';
 
 interface KhuddakaSuttaPageProps {
   params: Promise<{
@@ -16,7 +17,9 @@ export default async function KhuddakaSuttaPage({ params }: KhuddakaSuttaPagePro
   if (!data.success) return <GraciousFail message={data.errorMessage} />;
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="kn" book={book} suttaId={suttaId} />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="kn" book={book} suttaId={suttaId} />
+      </DhammaHeader>
       <SuttaPageContent suttaData={data.suttaData} />
     </>
   );
