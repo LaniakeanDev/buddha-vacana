@@ -6,18 +6,21 @@ interface INikayaPresentationData {
   identifier: string;
 }
 
+type TBasket = 'Dhamma' | 'Vinaya';
+
 interface INikayaNaviPresentationData extends INikayaPresentationData {
   href: string;
   // id: TNikayaEnum;
 }
 
-interface ISuttaCardData {
+interface IDisplaySuttaCardData {
   plTitle: string;
   frTitle: string;
   description: string;
   identifier: string;
   translator: string;
   readingTime: number;
+  id: number;
   themes?: string[];
   similes?: string[];
   tags?: string[];

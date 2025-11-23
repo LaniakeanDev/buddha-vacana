@@ -8,5 +8,15 @@
     "nikaya": "sn",
     "id": "1",
     "readingTime": 0
+  },
+  {
+    "identifier": "SN 1.2",
+    "plTitle": "Deuxieme Sutta SN",
+    "frTitle": "C'est le 2e",
+    "description": "Deuxieme soutta dans cette autre collection.",
+    "translator": "Remy",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 0
   }
 ]

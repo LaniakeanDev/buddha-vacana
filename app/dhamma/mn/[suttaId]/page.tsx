@@ -1,42 +1,22 @@
-import { getSuttaData } from '@/utils/helpers';
-import { isISuttaData } from '@/utils/typeguards';
-import Link from 'next/link';
+import { pageSuttaDataFetcher } from '@/utils/helpers';
 import SuttaPageContent from '../../components/SuttaPageContent';
 import GraciousFail from '@/app/components/GraciousFail';
+import BreadCrumbs from '@/app/components/breadcrumbs';
 
 interface MajjhimaSuttaPageProps {
-  params: {
-    suttaId: number;
-  };
+  params: Promise<{
+    suttaId: string;
+  }>;
 }
 
 export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPageProps) {
   const { suttaId } = await params;
-  const id = Number(suttaId);
-  if (!Number.isInteger(id) || id < 1 || id > 152) {
-    return <GraciousFail message="La ressource que vous demandez n'existe pas" />;
-  }
-  try {
-    const suttaData = getSuttaData('majjhima', String(suttaId), undefined);
-    if (!suttaData) {
-      throw new Error(`File containing data for MN ${suttaId} unavailable`);
-    }
-    if (!isISuttaData(suttaData)) {
-      throw new Error(`Data structure in MN ${suttaId} doesn't match ISuttaCardData interface`);
-    }
-    if (suttaData && isISuttaData(suttaData)) {
-      return (
-        <>
-          <p className="breadcrumbs">
-            <Link href="/dhamma">Dhamma</Link> {' > '} <Link href="/dhamma/majjhima">MN</Link>
-            {' > '} MN {String(suttaId)}
-          </p>
-          <SuttaPageContent suttaData={suttaData} />
-        </>
-      );
-    }
-  } catch (error) {
-    console.error(`Failed to load sutta data from MN ${suttaId}:`, error);
-    return <GraciousFail message="Soutta non trouvé" />;
-  }
+  const data = pageSuttaDataFetcher('mn', suttaId);
+  if (!data.success) return <GraciousFail message={data.errorMessage} />;
+  return (
+    <>
+      <BreadCrumbs basket="Dhamma" nikaya="mn" suttaId={suttaId} />
+      <SuttaPageContent suttaData={data.suttaData} />
+    </>
+  );
 }
