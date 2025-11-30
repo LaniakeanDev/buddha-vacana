@@ -126,7 +126,7 @@ function generateKeywords(body: ISuttaBlock[]): string[] {
     const segments = block.fr.split(/(\[[^\|]+\|[^\]]+\]|\s+)/).filter(Boolean);
     segments.map((segment) => {
       const match = segment.match(/^\[([^\|]+)\|([^\]]+)\]$/);
-      if (match) {
+      if (match && !keywords.includes(match[1])) {
         keywords.push(match[1]);
       }
     });
