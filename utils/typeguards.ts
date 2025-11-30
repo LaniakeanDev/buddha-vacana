@@ -164,17 +164,20 @@ export function isISuttaData(data: unknown): data is ISuttaData {
   if (!Array.isArray(potentialSutta.body)) {
     return false;
   }
-
   // Validate each block in body
   for (const block of potentialSutta.body) {
     if (typeof block !== 'object' || block === null) {
       return false;
     }
-
     // Check required block properties
     if (typeof (block as ISuttaBlock).fr !== 'string' || typeof (block as ISuttaBlock).pl !== 'string') {
       return false;
     }
+  }
+
+  if (!Array.isArray(potentialSutta.keywords)) return false;
+  for (const keyword of potentialSutta.keywords) {
+    if (typeof keyword !== 'string') return false;
   }
 
   return true;

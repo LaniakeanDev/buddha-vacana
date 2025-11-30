@@ -14,6 +14,7 @@ interface SuttaMetadata {
   nikaya: TNikayaEnum;
   readingTime: number;
   id: string;
+  keywords: string[];
 }
 
 async function generateCardData(): Promise<void> {
@@ -96,7 +97,9 @@ async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: st
       console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
     }
     const { body, ...metadata } = suttaData; // Extract metadata (without the body)
-
+    // generate keywords list
+    suttaData.keywords = generateKeywords(body);
+    await fs.writeFile(filePath, JSON.stringify(suttaData, null, 2));
     // calculate reading time
     let aggregateString = '';
     for (const block of body) {
@@ -115,4 +118,18 @@ async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: st
     });
   }
   return extractedSuttaCardMetadata;
+}
+
+function generateKeywords(body: ISuttaBlock[]): string[] {
+  let keywords: string[] = [];
+  body.map((block) => {
+    const segments = block.fr.split(/(\[[^\|]+\|[^\]]+\]|\s+)/).filter(Boolean);
+    segments.map((segment) => {
+      const match = segment.match(/^\[([^\|]+)\|([^\]]+)\]$/);
+      if (match) {
+        keywords.push(match[1]);
+      }
+    });
+  });
+  return keywords;
 }
