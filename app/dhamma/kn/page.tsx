@@ -2,6 +2,7 @@ import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
 import { nikayaPresentationMap, KNPresentationMap } from '../content';
 import BreadCrumbs from '@/app/components/breadcrumbs';
+import DhammaHeader from '@/app/components/header';
 
 export default function KhuddakaPage() {
   const renderSubnikayaCards = () => {
@@ -19,7 +20,9 @@ export default function KhuddakaPage() {
   };
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="kn" />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="kn" />
+      </DhammaHeader>
       <PageWrapper data={nikayaPresentationMap.kn}>
         <ul className="card-list-container">{renderSubnikayaCards()}</ul>
       </PageWrapper>

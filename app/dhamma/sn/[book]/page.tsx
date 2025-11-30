@@ -2,6 +2,7 @@ import PageWrapper from '../../components/PageWrapper';
 import SubNikayaSuttaList from '../../components/subnikaya-sutta-list';
 import { SNPresentationMap } from '../../content';
 import BreadCrumbs from '@/app/components/breadcrumbs';
+import DhammaHeader from '@/app/components/header';
 
 interface SNParams {
   params: Promise<{
@@ -14,7 +15,9 @@ export default async function IndividualSamyuttaPage({ params }: SNParams) {
   const presentationData = SNPresentationMap[book];
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="sn" book={book} />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="sn" book={book} />
+      </DhammaHeader>
       <PageWrapper data={presentationData}>
         <SubNikayaSuttaList nikaya="sn" book={book} />
       </PageWrapper>

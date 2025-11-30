@@ -1,6 +1,7 @@
 import { pageSuttaDataFetcher } from '@/utils/helpers';
 import SuttaPageContent from '../../components/SuttaPageContent';
 import GraciousFail from '@/app/components/GraciousFail';
+import DhammaHeader from '@/app/components/header';
 import BreadCrumbs from '@/app/components/breadcrumbs';
 
 interface MajjhimaSuttaPageProps {
@@ -15,7 +16,9 @@ export default async function MajjhimaSuttaPage({ params }: MajjhimaSuttaPagePro
   if (!data.success) return <GraciousFail message={data.errorMessage} />;
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="mn" suttaId={suttaId} />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="mn" suttaId={suttaId} />
+      </DhammaHeader>
       <SuttaPageContent suttaData={data.suttaData} />
     </>
   );

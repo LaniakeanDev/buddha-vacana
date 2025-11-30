@@ -2,6 +2,7 @@ import NikayaCard from '../components/NikayaCard';
 import PageWrapper from '../components/PageWrapper';
 import { nikayaPresentationMap, SNPresentationMap } from '../content';
 import BreadCrumbs from '@/app/components/breadcrumbs';
+import DhammaHeader from '@/app/components/header';
 
 export default function SamyuttaPage() {
   const renderSubnikayaCards = () => {
@@ -19,7 +20,9 @@ export default function SamyuttaPage() {
   };
   return (
     <>
-      <BreadCrumbs basket="Dhamma" nikaya="sn" />
+      <DhammaHeader>
+        <BreadCrumbs basket="Dhamma" nikaya="sn" />
+      </DhammaHeader>
       <PageWrapper data={nikayaPresentationMap.sn}>
         <ul className="card-list-container">{renderSubnikayaCards()}</ul>
       </PageWrapper>
