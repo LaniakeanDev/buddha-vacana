@@ -88,6 +88,9 @@ async function extractSuttaCardMetadataFromFolder(folderPath, nikaya) {
       console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
     }
     const { body, ...metadata } = suttaData; // Extract metadata (without the body)
+    // generate keywords list
+    suttaData.keywords = generateKeywords(body);
+    await promises_1.default.writeFile(filePath, JSON.stringify(suttaData, null, 2));
     // calculate reading time
     let aggregateString = '';
     for (const block of body) {
@@ -104,4 +107,17 @@ async function extractSuttaCardMetadataFromFolder(folderPath, nikaya) {
     });
   }
   return extractedSuttaCardMetadata;
+}
+function generateKeywords(body) {
+  let keywords = [];
+  body.map((block) => {
+    const segments = block.fr.split(/(\[[^\|]+\|[^\]]+\]|\s+)/).filter(Boolean);
+    segments.map((segment) => {
+      const match = segment.match(/^\[([^\|]+)\|([^\]]+)\]$/);
+      if (match && !keywords.includes(match[1])) {
+        keywords.push(match[1]);
+      }
+    });
+  });
+  return keywords;
 }
