@@ -1,14 +1,20 @@
 import SuttaTextBody from '@/app/components/SuttaTextBody';
-import abhijjha from '@/public/glossary/abhijjha.json';
-import bhagava from '@/public/glossary/bhagava.json';
-import mahiccha from '@/public/glossary/mahiccha.json';
+import { isIGlossEntryData } from '@/utils/typeguards';
+import fs from 'fs/promises';
 
 interface SuttaPageProps {
   suttaData: ISuttaData;
 }
 
-export default function SuttaPageContent({ suttaData }: SuttaPageProps) {
-  const { identifier, plTitle, frTitle, description, body } = suttaData;
+export default async function SuttaPageContent({ suttaData }: SuttaPageProps) {
+  const { identifier, plTitle, frTitle, description, keywords, body } = suttaData;
+  let glossEntries: IGlossEntryData[] = [];
+  for (const keyword of keywords) {
+    const filePath = `public/glossary/${keyword}.json`;
+    const data = await fs.readFile(filePath, 'utf8');
+    const parsedData = JSON.parse(data);
+    if (isIGlossEntryData(parsedData)) glossEntries.push(parsedData);
+  }
   return (
     <main className="pt-16 pb-8">
       <div className="w-full flex flex-col items-center gap-4">
@@ -22,7 +28,7 @@ export default function SuttaPageContent({ suttaData }: SuttaPageProps) {
         <hr />
       </div>
       <div className="p-4">
-        <SuttaTextBody blocks={body} glossEntries={[abhijjha, bhagava, mahiccha]} />
+        <SuttaTextBody blocks={body} glossEntries={glossEntries} />
       </div>
     </main>
   );

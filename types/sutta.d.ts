@@ -9,6 +9,7 @@ interface ISuttaData {
   frTitle: string;
   description: string;
   body: ISuttaBlock[];
+  keywords: string[];
 }
 
 interface IModalState {
