@@ -9,12 +9,15 @@ interface SuttaPageProps {
 export default async function SuttaPageContent({ suttaData }: SuttaPageProps) {
   const { identifier, plTitle, frTitle, description, keywords, body } = suttaData;
   let glossEntries: IGlossEntryData[] = [];
+  // console.log('from SuttaPageContents: ', {keywords})
   for (const keyword of keywords) {
+    // console.log({keyword})
     const filePath = `public/glossary/${keyword}.json`;
     const data = await fs.readFile(filePath, 'utf8');
     const parsedData = JSON.parse(data);
     if (isIGlossEntryData(parsedData)) glossEntries.push(parsedData);
   }
+  // console.log('from SuttaPageContents: ', {glossEntries})
   return (
     <main className="pt-16 pb-8">
       <div className="w-full flex flex-col items-center gap-4">

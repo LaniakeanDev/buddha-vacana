@@ -12,15 +12,15 @@ export default function GlossaryEntry({ entry }: GlossaryEntryProps) {
         {body.map((item, bodyIdx) => {
           if (isIGlossEntryBodyParagsSection(item)) {
             return (
-              <>
+              <div key={`block${String(bodyIdx)}`}>
                 {item.parags.map((parag, paragIdx) => (
                   <p key={`${String(bodyIdx)}parag${String(paragIdx)}`}>{parag}</p>
                 ))}
-              </>
+              </div>
             );
           } else {
             return (
-              <div>
+              <div key={`block${String(bodyIdx)}`}>
                 <h4>{item.quote.source}</h4>
                 {item.quote.parags.map((parag, paragIdx) => (
                   <div key={`${String(bodyIdx)}parag${String(paragIdx)}`}>

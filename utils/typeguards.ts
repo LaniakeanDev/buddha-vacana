@@ -233,7 +233,6 @@ export function isIGlossEntryData(data: unknown): data is IGlossEntryData {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
-
   const potentialGlossEntry = data as Record<string, unknown>;
 
   if (typeof potentialGlossEntry.id !== 'string') {
@@ -247,7 +246,7 @@ export function isIGlossEntryData(data: unknown): data is IGlossEntryData {
   if (!Array.isArray(potentialGlossContentBody)) {
     return false;
   }
-  return !potentialGlossContentBody.every(
+  return potentialGlossContentBody.every(
     (block) => isIGlossEntryBodyParagsSection(block) || isIGlossEntryBodyQuoteSection(block),
   );
 }

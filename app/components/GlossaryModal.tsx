@@ -28,14 +28,17 @@ export default function GlossaryModal({
   closeModal,
 }: GlossaryModalProps) {
   const [isTall, setIsTall] = useState(false);
-  console.log('GlossaryModal triggered');
+  // console.log('GlossaryModal triggered');
   const dynamicHeight = () => {
     if (isOpen) {
       return isTall ? 'h-[70vh] border-6' : 'h-[40vh] border-6';
     }
     return 'h-0 border-0';
   };
+  // console.log('fom inside GlossaryModal: ', {glossId})
+  // console.log({entries})
   const entry = entries.find((v) => v.id === glossId);
+  // console.log({entry})
   const renderModalContent = () => {
     if (entry && isIGlossEntryData(entry)) {
       return (
