@@ -171,6 +171,10 @@ function isISuttaData(data) {
       return false;
     }
   }
+  if (!Array.isArray(potentialSutta.keywords)) return false;
+  for (const keyword of potentialSutta.keywords) {
+    if (typeof keyword !== 'string') return false;
+  }
   return true;
 }
 /**

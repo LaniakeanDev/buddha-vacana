@@ -15,6 +15,8 @@ export default function SuttaTextBody({ blocks, glossEntries }: SuttaTextBodyPro
     word: undefined,
     glossId: undefined,
   });
+  // useEffect(() => {console.log({modalState})}, [modalState])
+  // console.log('from SuttaTextBody: ', {glossEntries})
   return (
     <div>
       {blocks.map((block, idx) => {

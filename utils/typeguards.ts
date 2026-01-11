@@ -164,17 +164,20 @@ export function isISuttaData(data: unknown): data is ISuttaData {
   if (!Array.isArray(potentialSutta.body)) {
     return false;
   }
-
   // Validate each block in body
   for (const block of potentialSutta.body) {
     if (typeof block !== 'object' || block === null) {
       return false;
     }
-
     // Check required block properties
     if (typeof (block as ISuttaBlock).fr !== 'string' || typeof (block as ISuttaBlock).pl !== 'string') {
       return false;
     }
+  }
+
+  if (!Array.isArray(potentialSutta.keywords)) return false;
+  for (const keyword of potentialSutta.keywords) {
+    if (typeof keyword !== 'string') return false;
   }
 
   return true;
@@ -193,15 +196,57 @@ export function isISuttaDataArray(data: unknown): data is ISuttaData[] {
   return data.every((item) => isISuttaData(item));
 }
 
+function isISuttaBlock(data: any): data is ISuttaBlock {
+  const potentialISuttaBlock = data as Record<string, unknown>;
+  if (typeof potentialISuttaBlock.pl !== 'string' || typeof potentialISuttaBlock.fr !== 'string') return false;
+  return true;
+}
+
+export function isIGlossEntryBodyParagsSection(data: any): data is IGlossEntryBodyParagsSection {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyParagsSection = data as Record<string, unknown>;
+  if (!Array.isArray(potentialGlossEntryBodyParagsSection.parags)) {
+    return false;
+  }
+  const parags = potentialGlossEntryBodyParagsSection.parags;
+
+  return parags.every((parag) => typeof parag == 'string');
+}
+
+function isIGlossEntryBodyQuoteSection(data: any): data is IGlossEntryBodyQuoteSection {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyQuoteSection = data as Record<string, unknown>;
+  if (!potentialGlossEntryBodyQuoteSection.quote) return false;
+  const potentialGlossEntryBodyQuoteSectionQuote = potentialGlossEntryBodyQuoteSection.quote as Record<string, unknown>;
+  if (typeof potentialGlossEntryBodyQuoteSectionQuote.source !== 'string') return false;
+  if (!Array.isArray(potentialGlossEntryBodyQuoteSectionQuote.parags)) {
+    return false;
+  }
+  return potentialGlossEntryBodyQuoteSectionQuote.parags.every((section) => isISuttaBlock(section));
+}
+
 export function isIGlossEntryData(data: unknown): data is IGlossEntryData {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
-
   const potentialGlossEntry = data as Record<string, unknown>;
 
-  if (typeof potentialGlossEntry.id !== 'string' || typeof potentialGlossEntry.content !== 'string') {
+  if (typeof potentialGlossEntry.id !== 'string') {
     return false;
   }
-  return true;
+  if (!potentialGlossEntry.content) return false;
+  const potentialGlossContent = potentialGlossEntry.content as Record<string, unknown>;
+  if (typeof potentialGlossContent.title !== 'string' || typeof potentialGlossContent.translation !== 'string')
+    return false;
+  const potentialGlossContentBody = potentialGlossContent.body as Record<string, unknown>;
+  if (!Array.isArray(potentialGlossContentBody)) {
+    return false;
+  }
+  return potentialGlossContentBody.every(
+    (block) => isIGlossEntryBodyParagsSection(block) || isIGlossEntryBodyQuoteSection(block),
+  );
 }
