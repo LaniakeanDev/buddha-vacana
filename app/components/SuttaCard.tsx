@@ -23,7 +23,7 @@ export default function SuttaCard({
     nikayaOrKNBook === 'an' || nikayaOrKNBook === 'sn' ? identifier.split(' ')[1].split('.')[0] : nikayaOrKNBook;
   return (
     <Link href={`${pathSegment}/${id}`} className="card">
-      <CardIdentifier content={identifier} className="!w-16" />
+      <CardIdentifier content={identifier} className="!w-fit" />
       <CardContent plTitle={plTitle} frTitle={frTitle} description={description} />
       <div className="w-full flex flex-row justify-between">
         <div className="flex flex-row items-center gap-2">
