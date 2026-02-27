@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "AN 4.199",
+  "plTitle": "Taṇhā Sutta",
+  "frTitle": "La Soif",
+  "description": "Ce soutta identifie 108 pensées élémentaires qui font en permanence partie de nos schémas de pensée comme étant autant de pièges qui nous empêchent de trouver la libération.",
+  "body": [
+    { "pl": "bhagavā etadavoca:", "fr": "Le [bhagava|Fortuné] dit:" },
+    {
+      "pl": "— “taṇhaṃ vo, bhikkhave, desessāmi jāliniṃ saritaṃ visaṭaṃ visattikaṃ, yāya ayaṃ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
+      "fr": "—[bhikkhu|Mendiants], je vais vous enseigner ce qu'est la [tanha|Soif], le désir s'écoulant, se répandant, s'attachant, par laquelle ce [loka|monde] est entouré, asphyxié, emmêlé comme une boule de ficelle, comme les brindilles d'un nid, comme des herbes et des roseaux, de telle sorte qu'il ne dépasse pas l'[apaya|existence infortunée], la [duggati|mauvaise destination], le [vinipata|monde inférieur], la [samsara|continuation des existences]. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“katamā ca sā, bhikkhave, taṇhā jālinī saritā visaṭā visattikā, yāya ayaṃ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati? aṭṭhārasa kho panimāni, bhikkhave, taṇhāvicaritāni ajjhattikassa upādāya, aṭṭhārasa taṇhāvicaritāni bāhirassa upādāya.",
+      "fr": "—Et quelle est, [bhikkhu|mendiants], cette [tanha|Soif], ce désir s'écoulant, se répandant, s'attachant, par laquelle ce [loka|monde] est entouré, asphyxié, emmêlé comme une boule de ficelle, comme les brindilles d'un nid, comme des herbes et des roseaux, de telle sorte qu'il ne dépasse pas l'[apaya|existence infortunée], la [duggati|mauvaise destination], le [vinipata|monde inférieur], la [samsara|continuation des existences]? Les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'intérieur, et les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'extérieur."
+    },
+    {
+      "pl": "“katamāni aṭṭhārasa taṇhāvicaritāni ajjhattikassa upādāya? asmīti, bhikkhave, sati itthasmīti hoti, evaṃsmīti hoti, aññathāsmīti hoti, asasmīti hoti, satasmīti hoti, santi hoti, itthaṃ santi hoti, evaṃ santi hoti, aññathā santi hoti, apihaṃ santi hoti, apihaṃ itthaṃ santi hoti, apihaṃ evaṃ santi hoti, apihaṃ aññathā santi hoti, bhavissanti hoti, itthaṃ bhavissanti hoti, evaṃ bhavissanti hoti, aññathā bhavissanti hoti. imāni aṭṭhārasa taṇhāvicaritāni ajjhattikassa upādāya.",
+      "fr": "Et quelles sont les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'intérieur? [bhikkhu|Mendiants], lorsqu'il y a [i]“Je suis”[/i], il y a [i]“Je suis ici”[/i], [i]“Je suis ainsi”[/i], [i]“Je suis différent”[/i], [i]“Je suis permanent”[/i], [i]“Je suis temporaire”[/i], [i]“Il se peut que je sois”[/i], [i]“Il se peut que je sois ici”[/i], [i]“Il se peut que je sois ainsi”[/i], [i]“Il se peut que je sois différent”[/i], [i]“Que je sois”[/i], [i]“Que je sois ici”[/i], [i]“Que je sois ainsi”[/i], [i]“Que je sois différent”[/i], [i]“Je serai”[/i], [i]“Je serai ici”[/i], [i]“Je serai ainsi”[/i], et [i]“Je serai différent”[/i]. Voici les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'intérieur."
+    },
+    {
+      "pl": "“katamāni aṭṭhārasa taṇhāvicaritāni bāhirassa upādāya? imināsmīti, bhikkhave, sati iminā itthasmīti hoti, iminā evaṃsmīti hoti, iminā aññathāsmīti hoti, iminā asasmīti hoti, iminā satasmīti hoti, iminā santi hoti, iminā itthaṃ santi hoti, iminā evaṃ santi hoti, iminā aññathā santi hoti, iminā apihaṃ santi hoti, iminā apihaṃ itthaṃ santi hoti, iminā apihaṃ evaṃ santi hoti, iminā apihaṃ aññathā santi hoti, iminā bhavissanti hoti, iminā itthaṃ bhavissanti hoti, iminā evaṃ bhavissanti hoti, iminā aññathā bhavissanti hoti. imāni aṭṭhārasa taṇhāvicaritāni bāhirassa upādāya.",
+      "fr": "Et quelles sont les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'extérieur? [bhikkhu|Mendiants], lorsqu'il y a [i]“Je suis à cause de cela”[/i], il y a [i]“Je suis ici à cause de cela”[/i], [i]“Je suis ainsi à cause de cela”[/i], [i]“Je suis différent à cause de cela”[/i], [i]“Je suis permanent à cause de cela”[/i], [i]“Je suis temporaire à cause de cela”[/i], [i]“Il se peut que je sois à cause de cela”[/i], [i]“Il se peut que je sois ici à cause de cela”[/i], [i]“Il se peut que je sois ainsi à cause de cela”[/i], [i]“Il se peut que je sois différent à cause de cela”[/i], [i]“Que je sois à cause de cela”[/i], [i]“Que je sois ici à cause de cela”[/i], [i]“Que je sois ainsi à cause de cela”[/i], [i]“Que je sois différent à cause de cela”[/i], [i]“Je serai à cause de cela”[/i], [i]“Je serai ici à cause de cela”[/i], [i]“Je serai ainsi à cause de cela”[/i], et [i]“Je serai différent à cause de cela”[/i]. Voici les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'extérieur."
+    },
+    {
+      "pl": "“iti aṭṭhārasa taṇhāvicaritāni ajjhattikassa upādāya, aṭṭhārasa taṇhāvicaritāni bāhirassa upādāya. imāni vuccanti, bhikkhave, chattiṃsa taṇhāvicaritāni. iti evarūpāni atītāni chattiṃsa taṇhāvicaritāni, anāgatāni chattiṃsa taṇhāvicaritāni, paccuppannāni chattiṃsa taṇhāvicaritāni. evaṃ aṭṭhasataṃ taṇhāvicaritaṃ honti.",
+      "fr": "Voici les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'intérieur et les dix-huit réflexions empreintes de [tanha|Soif] attachées à l'extérieur. On les appelle les trente-six réflexions empreintes de [tanha|Soif]. Ainsi, il y a trente-six réflexions de ce type empreintes de [tanha|Soif] liées au passé, trente-six réflexions empreintes de [tanha|Soif] liées au futur, et trente-six réflexions empreintes de [tanha|Soif] liées au présent. Ainsi, cela fait cent-huit réflexions empreintes de [tanha|Soif]."
+    },
+    {
+      "pl": "“ayaṃ kho sā, bhikkhave, taṇhā jālinī saritā visaṭā visattikā, yāya ayaṃ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattatī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelle est la [tanha|Soif], le désir s'écoulant, se répandant, s'attachant, par laquelle ce [loka|monde] est entouré, asphyxié, emmêlé comme une boule de ficelle, comme les brindilles d'un nid, comme des herbes et des roseaux, de telle sorte qu'il ne dépasse pas l'[apaya|existence infortunée], la [duggati|mauvaise destination], le [vinipata|monde inférieur], la [samsara|continuation des existences]."
+    }
+  ],
+  "translator": "Rémy"
+}

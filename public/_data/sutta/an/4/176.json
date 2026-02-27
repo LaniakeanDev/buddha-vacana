@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 4.176",
+  "plTitle": "Āyācana Sutta",
+  "frTitle": "Des souhaits",
+  "description": "Voici ce que nous devrions souhaiter devenir.",
+  "body": [
+    {
+      "pl": "“saddho, bhikkhave, bhikkhu evaṃ sammā āyācamāno āyāceyya: ‘tādiso homi yādisā sāriputtamoggallānā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūnaṃ, yadidaṃ sāriputtamoggallānā.",
+      "fr": "Un [bhikkhu|mendiant] doué de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme Saripoutta et Moggallana!”[/i] Car Saripoutta et Moggallana sont le modèle, ils sont la référence en ce qui concerne mes [upasaka|disciples] [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "“saddhā, bhikkhave, bhikkhunī evaṃ sammā āyācamānā āyāceyya: ‘tādisī homi yādisī khemā ca bhikkhunī uppalavaṇṇā cā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ bhikkhunīnaṃ yadidaṃ khemā ca bhikkhunī uppalavaṇṇā cā”ti.",
+      "fr": "Une mendiante pourvue de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme les [bhikkhuni|mendiantes] Khéma et Ouppalavanna!”[/i] Car les [bhikkhuni|mendiantes] Khéma et Ouppalavanna sont le modèle, elles sont la référence en ce qui concerne mes [upasaka|disciples] [bhikkhuni|mendiantes]."
+    },
+    {
+      "pl": "“saddho, bhikkhave, upāsako evaṃ sammā āyācamāno āyāceyya: ‘tādiso homi yādiso citto ca gahapati hatthako ca āḷavako’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ upāsakānaṃ yadidaṃ citto ca gahapati hatthako ca āḷavako”ti.",
+      "fr": "Un [upasaka|disciple laïc] doué de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme Tchitta le chef de foyer et Hatthaka Alavaka!”[/i] Car Tchitta le chef de foyer et Hatthaka Alavaka sont le modèle, ils sont la référence en ce qui concerne mes [savaka|disciples] [upasaka|laïcs]."
+    },
+    {
+      "pl": "“saddhā, bhikkhave, upāsikā evaṃ sammā āyācamānā āyāceyya: ‘tādisī homi yādisī khujjuttarā ca upāsikā veḷukaṇḍakiyā ca nandamātā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ upāsikānaṃ yadidaṃ khujjuttarā ca upāsikā veḷukaṇḍakiyā ca nandamātā”ti.",
+      "fr": "Une [upasika|disciple laïque] pourvue de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme la [upasika|disciple laïque] Khoujjouttara et Véloukandakiya la mère de Nanda!”[/i] Car la [upasika|disciple laïque] Khoujjouttara et Véloukandakiya la mère de Nanda sont le modèle, elles sont la référence en ce qui concerne mes [savaka|disciples] [upasika|laïques]."
+    }
+  ],
+  "translator": "Rémy"
+}

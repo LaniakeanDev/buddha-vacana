@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "AN 4.198",
+  "plTitle": "Attantapa Sutta",
+  "frTitle": "Mortification de soi",
+  "description": "Cet extrait décrit comment une personne décide de devenir mendiant(ni).",
+  "body": [
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "idha, bhikkhave, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā. so imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [tathagata|Tathagata] apparaît dans le [loka|monde], [@f_anussati#anussati-1-cl|un arahant, un Bouddha pleinement réalisé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.] Il fait connaître ce monde avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] et brahmanes, à cette génération de [deva|dévas] et d'êtres humains, en en ayant fait lui-même l'expérience par [abhinna|connaissance directe]. Il enseigne un [dhamma|Dhamma] qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la [brahmacariya|vie brahmique] qui est entièrement complète et pure."
+    },
+    {
+      "pl": "taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto. so taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. so tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajāpatho; abbhokāso pabbajjā. nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. yaṃnūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.",
+      "fr": "Un chef de foyer ou le fils d'un chef de foyer, ou bien quelqu'un né dans une quelconque famille, entend cet [dhamma|enseignement]. Ayant entendu cet [dhamma|enseignement], il acquiert de la [saddha|conviction] envers le [tathagata|Tathagata]. Doué de cette [saddha|conviction] qu'il a acquise, il considère ceci: [i]“La vie de foyer est encombrante, c'est un chemin boueux; le départ du foyer, c'est le grand air. Il n'est pas facile, en vivant au foyer, de vivre la [brahmacariya|vie brahmique] qui est absolument complète et pure, polie comme une conque. Et si je me rasais les cheveux et la barbe, que je revêtais les robes ocres et que je [pabbaja|quittais la vie de foyer] pour le [anagariya|sans-foyer]?”[/i]"
+    },
+    {
+      "pl": "so aparena samayena appaṃ vā bhogakkhandhaṃ pahāya, mahantaṃ vā bhogakkhandhaṃ pahāya, appaṃ vā ñātiparivaṭṭaṃ pahāya, mahantaṃ vā ñātiparivaṭṭaṃ pahāya, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati.",
+      "fr": "Plus tard, ayant abandonné un petit patrimoine ou un grand patrimoine, ayant abandonné un petit cercle de relations ou un grand cercle de relations, s'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, il quitte la vie de foyer pour le [anagariya|sans-foyer]. "
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.182",
+  "plTitle": "Pāṭibhoga Sutta",
+  "frTitle": "Aucun assureur",
+  "description": "Quatre choses contre lesquelles il ne peut y avoir aucun assureur.",
+  "body": [
+    {
+      "pl": "“catunnaṃ, bhikkhave, dhammānaṃ natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ. katamesaṃ catunnaṃ?",
+      "fr": "Il y a quatre [dhamma|choses], [bhikkhu|mendiants], contre lesquelles il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde]."
+    },
+    {
+      "pl": "‘jarādhammaṃ mā jīrī’ti natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ;",
+      "fr": "Il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde] [qui puisse garantir] que ce qui est [dhamma|par nature voué] au [jara|vieillissement] ne vieillira pas."
+    },
+    {
+      "pl": "‘byādhidhammaṃ mā byādhiyī’ti natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ;",
+      "fr": "Il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde] [qui puisse garantir] que ce qui est [dhamma|par nature voué] à la maladie ne tombera pas malade."
+    },
+    {
+      "pl": "‘maraṇadhammaṃ mā mīyī’ti natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ;",
+      "fr": "Il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde] [qui puisse garantir] que ce qui est [dhamma|par nature voué] à la [marana|mort] ne mourra pas."
+    },
+    {
+      "pl": "‘yāni kho pana tāni pubbe attanā katāni pāpakāni kammāni saṃkilesikāni ponobhavikāni sadarāni dukkhavipākāni āyatiṃ jātijarāmaraṇikāni, tesaṃ vipāko mā nibbattī’ti natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmiṃ.",
+      "fr": "Il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde] [qui puisse garantir] que les [kamma|actions] passées faites par soi-même qui sont [papaka|malsaines], impures, qui mènent au renouvellement de l'[bhava|existence], qui apportent des difficultés, qui ont le [dukkha|mal-être] pour [vipaka|résultat], qui produisent la [jati|naissance], [jaramarana|le vieillissement et la mort] dans le futur, n'engendreront pas leur [vipaka|résultat]."
+    },
+    {
+      "pl": "“imesaṃ kho, bhikkhave, catunnaṃ dhammānaṃ natthi koci pāṭibhogo, samaṇo vā brāhmaṇo vā devo vā māro vā brahmā vā koci vā lokasmin”ti.",
+      "fr": "Contre ces quatre [dhamma|choses], [bhikkhu|mendiants], il n'y a aucun assureur, ni [samana|renonçant], ni brahmane, ni [deva|déva], ni [mara|Mara], ni [brahma|Brahmā], ni quiconque dans le [loka|monde]."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.118",
+  "plTitle": "Saṃvejanīya Sutta",
+  "frTitle": "Motivants",
+  "description": "Le Bouddha encourage ses disciples à aller visiter ces quatre endroits.",
+  "body": [
+    {
+      "pl": "“cattārimāni, bhikkhave, saddhassa kulaputtassa dassanīyāni saṃvejanīyāni ṭhānāni. katamāni cattāri? ",
+      "fr": "[bhikkhu|Mendiants], ces quatre endroits motivants devraient être visités par un enfant de [bonne] famille pourvu de [saddha|conviction]. Quels sont ces quatre?"
+    },
+    {
+      "pl": "‘idha tathāgato jāto’ti, bhikkhave, saddhassa kulaputtassa dassanīyaṃ saṃvejanīyaṃ ṭhānaṃ.",
+      "fr": "L'endroit où le [tathagata|Tathagata] est né devrait être visité par un enfant de [bonne] famille pourvu de [saddha|conviction]."
+    },
+    {
+      "pl": "‘idha tathāgato anuttaraṃ sammāsambodhiṃ abhisambuddho’ti, bhikkhave, saddhassa kulaputtassa dassanīyaṃ saṃvejanīyaṃ ṭhānaṃ.",
+      "fr": "L'endroit où le [tathagata|Tathagata] s'est éveillé au suprême [sammasambodhi|Éveil véritable] devrait être visité par un enfant de [bonne] famille pourvu de [saddha|conviction]."
+    },
+    {
+      "pl": "‘idha tathāgato anuttaraṃ dhammacakkaṃ pavattesī’ti, bhikkhave, saddhassa kulaputtassa dassanīyaṃ saṃvejanīyaṃ ṭhānaṃ.",
+      "fr": "L'endroit où le [tathagata|Tathagata] a mis en route la suprême roue du [dhamma|Dhamma] devrait être visité par un enfant de [bonne] famille pourvu de [saddha|conviction]."
+    },
+    {
+      "pl": "‘idha tathāgato anupādisesāya nibbānadhātuyā parinibbuto’ti, bhikkhave, saddhassa kulaputtassa dassanīyaṃ saṃvejanīyaṃ ṭhānaṃ.",
+      "fr": "L'endroit où le [tathagata|Tathagata] s'est [parinibbana|complètement éteint] dans l'élément d'[nibbana|Extinction] devrait être visité par un enfant de [bonne] famille pourvu de [saddha|conviction]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, cattāri saddhassa kulaputtassa dassanīyāni saṃvejanīyāni ṭhānānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre endroits motivants qui devraient être visités par un enfant de [bonne] famille pourvu de [saddha|conviction]."
+    }
+  ],
+  "translator": "Rémy"
+}

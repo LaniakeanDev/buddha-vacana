@@ -1,0 +1,57 @@
+﻿{
+  "identifier": "AN 4.165",
+  "plTitle": "Khama Sutta",
+  "frTitle": "Endurante",
+  "description": "Une autre version des quatre manières de pratiquer présentées dans le soutta précédent.",
+  "body": [
+    {
+      "pl": "“catasso imā, bhikkhave, paṭipadā. katamā catasso? akkhamā paṭipadā, khamā paṭipadā, damā paṭipadā, samā paṭipadā. ",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [patipada|manières de pratiquer]. Quelles sont ces quatre? La [patipada|manière de pratiquer] sans endurance, la [patipada|manière de pratiquer] endurante, la [patipada|manière de pratiquer] en modération, et la [patipada|manière de pratiquer] calme."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, akkhamā paṭipadā? idha, bhikkhave, ekacco akkhamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṃsa-makasa-vātā-tapa-sarīṃsapa-samphassānaṃ duruttānaṃ durāgatānaṃ vacanapathānaṃ uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ anadhivāsakajātiko hoti. ayaṃ vuccati, bhikkhave, akkhamā paṭipadā.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la [patipada|manière de pratiquer] sans endurance? À cet égard, un certain individu n'endure pas le froid, la chaleur, le contact avec les mouches, les moustiques, le vent, le soleil ni les rampants, il n'endure pas les manières de parler qui sont malséantes et malvenues, ni les [vedana|ressentis] corporels apparus qui sont douloureux, incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] sans endurance."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, khamā paṭipadā? idha, bhikkhave, ekacco khamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṃsa-makasa-vātā-tapa-sarīṃsapa-samphassānaṃ duruttānaṃ durāgatānaṃ vacanapathānaṃ uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsakajātiko hoti. ayaṃ vuccati, bhikkhave, khamā paṭipadā.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la [patipada|manière de pratiquer] endurante? À cet égard, un certain individu endure le froid, la chaleur, le contact avec les mouches, les moustiques, le vent, le soleil & les rampants, il endure les manières de parler qui sont malséantes et malvenues, ainsi que les [vedana|ressentis] corporels apparus qui sont douloureux, incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] endurante."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, damā paṭipadā? idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati cakkhundriyaṃ; cakkhundriye saṃvaraṃ āpajjati.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la [patipada|manière de pratiquer] en modération? À cet égard, [@f_samvara#is-eye|un mendiant, en voyant une forme avec l'œil, ne saisit pas un aspect, ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'œil, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'œil; il entreprend la restreinte de la faculté de l'œil.]"
+    },
+    {
+      "pl": "sotena saddaṃ sutvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ sotindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati sotindriyaṃ; sotindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-ear|En entendant un son avec l'oreille, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'oreille, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'oreille; il entreprend la restreinte de la faculté de l'oreille.]"
+    },
+    {
+      "pl": "ghāṇena gandhaṃ ghāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ ghāṇindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati ghāṇindriyaṃ; ghāṇindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-nose|En sentant une odeur avec le nez, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du nez, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du nez; il entreprend la restreinte de la faculté du nez.]"
+    },
+    {
+      "pl": "jivhāya rasaṃ sāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ jivhindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati jivhindriyaṃ; jivhindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-tongue|En goûtant une saveur avec la langue, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de la langue, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de la langue; il entreprend la restreinte de la faculté de la langue.]"
+    },
+    {
+      "pl": "kāyena phoṭṭhabbaṃ phusitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ kāyindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati kāyindriyaṃ; kāyindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-body|En touchant une sensation corporelle avec le corps, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du corps, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du corps; il entreprend la restreinte de la faculté du corps.]"
+    },
+    {
+      "pl": "manasā dhammaṃ viññāya na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati manindriyaṃ; manindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-mind|En prenant conscience d'un phénomène mental avec l'esprit, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'esprit, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'esprit; il entreprend la restreinte de la faculté de l'esprit.]"
+    },
+    {
+      "pl": "ayaṃ vuccati, bhikkhave, damā paṭipadā.",
+      "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] en modération."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, samā paṭipadā? idha, bhikkhave, bhikkhu uppannaṃ kāmavitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannaṃ byāpādavitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannaṃ vihiṃsāvitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti. ayaṃ vuccati, bhikkhave, samā paṭipadā.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la [patipada|manière de pratiquer] calme? À cet égard, un mendiant ne consent pas à une [vitakka|pensée] de [kama|sensualité] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; ilne consent pas à une [vitakka|pensée] de [byapada|malveillance] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; ilne consent pas à une [vitakka|pensée] de [vihimsa|non-inoffensivité] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; il ne consent pas à un [dhamma|état mental] [papaka|malsain] et [akusala|désavantageux] ayant fait surface, il l'abandonne, le dissipe, l'élimine et le fait disparaître. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] calme."
+    },
+    {
+      "pl": "imā kho, bhikkhave, catasso paṭipadā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [patipada|manières de pratiquer]."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.138",
+  "plTitle": "Nikaṭṭha Sutta",
+  "frTitle": "En retraite",
+  "description": "La retraite n'est pas seulement physique, elle est avant tout mentale.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame cattāro? nikaṭṭhakāyo anikaṭṭhacitto, anikaṭṭhakāyo nikaṭṭhacitto, anikaṭṭhakāyo ca anikaṭṭhacitto ca, nikaṭṭhakāyo ca nikaṭṭhacitto ca.",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces quatre [types de] personnes. Quels sont ces quatre? Celui qui est en retraite en [kaya|corps] mais pas en [citta|esprit], celui qui n'est pas en retraite en [kaya|corps] mais qui l'est en [citta|esprit], celui qui n'est en retraite ni en [kaya|corps] ni en [citta|esprit], et celui qui est en retraite à la fois en [kaya|corps] et en [citta|esprit]."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto? idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati, so tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto.",
+      "fr": "Et comment, [bhikkhu|Mendiants], une personne est-elle en retraite en [kaya|corps] mais pas en [citta|esprit]? À cet égard, une certaine personne fréquente des [senasana|gîtes] isolés en pleine forêt, mais elle y pense des [vitakka|pensées] de [kama|sensualité], des [vitakka|pensées] de [byapada|malveillance], des [vitakka|pensées] de [vihimsa|non-inoffensivité]. Voici, [bhikkhu|Mendiants], comment une personne est en retraite en [kaya|corps] mais pas en [citta|esprit]."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto? idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati, so tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto.",
+      "fr": "Et comment, [bhikkhu|Mendiants], une personne n'est-elle pas en retraite en [kaya|corps] mais l'est en [citta|esprit]? À cet égard, une certaine personne ne fréquente pas de [senasana|gîtes] isolés en pleine forêt, mais elle y pense des [vitakka|pensées] de [nekkhamma|renoncement], des [vitakka|pensées] de [abyapada|bienveillance] et des [vitakka|pensées] [avihimsa|inoffensives]. Voici, [bhikkhu|Mendiants], comment une personne n'est pas en retraite en [kaya|corps] mais l'est en [citta|esprit]."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca? idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati. so tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca.",
+      "fr": "Et comment, [bhikkhu|Mendiants], une personne n'est-elle en retraite ni en [kaya|corps] ni en [citta|esprit]? À cet égard, une certaine personne ne fréquente pas de [senasana|gîtes] isolés en pleine forêt, et elle y pense des [vitakka|pensées] de [kama|sensualité], des [vitakka|pensées] de [byapada|malveillance], des [vitakka|pensées] de [vihimsa|non-inoffensivité]. Voici, [bhikkhu|Mendiants], comment une personne n'est en retraite ni en [kaya|corps] ni en [citta|esprit]."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca? idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati. so tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca.",
+      "fr": "Et comment, [bhikkhu|Mendiants], une personne est-elle en retraite à la fois en [kaya|corps] et en [citta|esprit]? À cet égard, une certaine personne fréquente des [senasana|gîtes] isolés en pleine forêt, et elle y pense des [vitakka|pensées] de [nekkhamma|renoncement], des [vitakka|pensées] de [abyapada|bienveillance] et des [vitakka|pensées] [avihimsa|inoffensives]. Voici, [bhikkhu|Mendiants], comment une personne est en retraite à la fois en [kaya|corps] et en [citta|esprit]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|Mendiants], quels sont ces quatre [types de] personnes que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "translator": "Rémy"
+}

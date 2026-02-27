@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.69",
+  "plTitle": "Padhāna Sutta",
+  "frTitle": "Efforts",
+  "description": "Les quatre types d'efforts.",
+  "body": [
+    {
+      "pl": "“cattārimāni, bhikkhave, padhānāni. katamāni cattāri? saṃvarappadhānaṃ, pahānappadhānaṃ, bhāvanāppadhānaṃ, anurakkhaṇāppadhānaṃ. ",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [padhana|effort]s. Quels sont ces quatre? L'[padhana|effort] de [samvara|restreinte], l'[padhana|effort] d'abandon, l'[padhana|effort] de [bhavana|développement], et l'[padhana|effort] de protection."
+    },
+    {
+      "pl": "katamañca, bhikkhave, saṃvarappadhānaṃ? idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. idaṃ vuccati, bhikkhave, saṃvarappadhānaṃ.",
+      "fr": "Et qu'est-ce [bhikkhu|mendiants], que l'[padhana|effort] de [samvara|restreinte]? À cet égard, un [bhikkhu|mendiant] génère le [chanda|désir] de non-apparition des [dhamma|états mentaux] [papaka|mauvais] et [akusala|désavantageux] qui ne sont pas [encore] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de [samvara|restreinte]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, pahānappadhānaṃ? idha, bhikkhave, bhikkhu uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. idaṃ vuccati, bhikkhave, pahānappadhānaṃ.",
+      "fr": "Et qu'est-ce [bhikkhu|mendiants], que l'[padhana|effort] d'abandon? À cet égard, un [bhikkhu|mendiant] génère le [chanda|désir] d'abandon des [dhamma|états mentaux] [papaka|mauvais] et [akusala|désavantageux] qui sont [déjà] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] d'abandon."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, bhāvanāppadhānaṃ? idha, bhikkhave, bhikkhu anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. idaṃ vuccati, bhikkhave, bhāvanāppadhānaṃ.",
+      "fr": "Et qu'est-ce [bhikkhu|mendiants], que l'[padhana|effort] de [bhavana|développement]? À cet égard, un [bhikkhu|mendiant] génère le [chanda|désir] d'apparition des [dhamma|états mentaux] [kusala|avantageux] qui ne sont pas [encore] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de [bhavana|développement]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, anurakkhaṇāppadhānaṃ? idha, bhikkhave, bhikkhu uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. idaṃ vuccati, bhikkhave, anurakkhaṇāppadhānaṃ.",
+      "fr": "Et qu'est-ce [bhikkhu|mendiants], que l'[padhana|effort] de protection? À cet égard, un [bhikkhu|mendiant] génère le [chanda|désir] de maintien, de non-confusion, d'augmentation, d'abondance, de [bhavana|développement] et de complétude des [dhamma|états mentaux] [kusala|avantageux] qui sont [déjà] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de protection."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, cattāri padhānānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [padhana|effort]s."
+    }
+  ],
+  "translator": "Rémy"
+}

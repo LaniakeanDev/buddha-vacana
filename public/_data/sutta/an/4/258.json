@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.258",
+  "plTitle": "Kula Sutta",
+  "frTitle": "Une famille",
+  "description": "Quels sont les facteurs qui font qu'une famille parvient à maintenir une grande fortune qu'elle a acquise?",
+  "body": [
+    {
+      "pl": "“yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena. katamehi catūhi? ",
+      "fr": "[bhikkhu|Mendiants], toutes les familles qui, après avoir obtenu de grandes richesses, ne persistent pas pendant longtemps, sont toutes [dans cette situation] à cause de l'une ou l'autre de quatre raisons. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "naṭṭhaṃ na gavesanti, jiṇṇaṃ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti.",
+      "fr": "Ils ne cherchent pas ce qui est perdu, ils ne réparent pas ce qui est usagé, ils boivent et mangent sans modération, ils mettent en charge une femme ou un homme qui manque de [sila|vertu]."
+    },
+    {
+      "pl": "yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi, etesaṃ vā aññatarena.",
+      "fr": "[bhikkhu|Mendiants], toutes les familles qui, après avoir obtenu de grandes richesses, ne persistent pas pendant longtemps, sont toutes [dans cette situation] à cause de l'une ou l'autre de quatre raisons."
+    },
+    {
+      "pl": "“yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena. katamehi catūhi?",
+      "fr": "[bhikkhu|Mendiants], toutes les familles qui, après avoir obtenu de grandes richesses, persistent pendant longtemps, sont toutes [dans cette situation] à cause de l'une ou l'autre de quatre raisons. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "naṭṭhaṃ gavesanti, jiṇṇaṃ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti.",
+      "fr": "Ils cherchent ce qui est perdu, ils réparent ce qui est usagé, ils boivent et mangent avec modération, ils mettent en charge une femme ou un homme [sila|vertu]eux."
+    },
+    {
+      "pl": "yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi, etesaṃ vā aññatarenā”ti.",
+      "fr": "[bhikkhu|Mendiants], toutes les familles qui, après avoir obtenu de grandes richesses, persistent pendant longtemps, sont toutes [dans cette situation] à cause de l'une ou l'autre de quatre raisons."
+    }
+  ],
+  "translator": "Rémy"
+}

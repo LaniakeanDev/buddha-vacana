@@ -1,0 +1,57 @@
+﻿{
+  "identifier": "AN 4.4",
+  "plTitle": "Khata Sutta",
+  "frTitle": "Déraciné",
+  "description": "Quatre individus qui se font du mal à eux-mêmes parce qu'ils manquent de respect à quatre personnes.",
+  "body": [
+    {
+      "pl": "“catūsu, bhikkhave, micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati. katamesu catūsu?",
+      "fr": "Se comportant de manière erronée envers quatre [personnes], [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "mātari, bhikkhave, micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+      "fr": "Se comportant de manière erronée envers sa mère, [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]."
+    },
+    {
+      "pl": "pitari, bhikkhave, micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+      "fr": "Se comportant de manière erronée envers son père, [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]."
+    },
+    {
+      "pl": "tathāgate, bhikkhave, micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+      "fr": "Se comportant de manière erronée envers le [tathagata|Tathagata], [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]."
+    },
+    {
+      "pl": "tathāgatasāvake, bhikkhave, micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+      "fr": "Se comportant de manière erronée envers un [savaka|disciple] du [tathagata|Tathagata], [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]."
+    },
+    {
+      "pl": "imesu kho, bhikkhave, catūsu micchā paṭipajjamāno bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+      "fr": "Se comportant de manière erronée envers ces quatre [personnes], [bhikkhu|mendiants], une [asappurisa|mauvaise personne], [baala|sotte] et incompétente, s'entretient dans un état de déracinement, détériorée, elle est [savajja|répréhensible], critiquée par les hommes de connaissance, et elle accumule beaucoup de dé·[punna|mérite]."
+    },
+    {
+      "pl": "“catūsu, bhikkhave, sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati. katamesu catūsu?",
+      "fr": "Se comportant de manière correcte envers quatre [personnes], [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "mātari, bhikkhave, sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+      "fr": "Se comportant de manière correcte envers sa mère, [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]."
+    },
+    {
+      "pl": "pitari, bhikkhave, sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+      "fr": "Se comportant de manière correcte envers son père, [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]."
+    },
+    {
+      "pl": "tathāgate, bhikkhave, sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+      "fr": "Se comportant de manière correcte envers le [tathagata|Tathagata], [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]."
+    },
+    {
+      "pl": "tathāgatasāvake, bhikkhave, sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati.",
+      "fr": "Se comportant de manière correcte envers un [savaka|disciple] du [tathagata|Tathagata], [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]."
+    },
+    {
+      "pl": "imesu kho, bhikkhave, catūsu sammā paṭipajjamāno paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī”ti.",
+      "fr": "Se comportant de manière correcte envers ces quatre [personnes], [bhikkhu|mendiants], un [sappurisa|homme de bien], [pandita|sage] et compétent, s'entretient dans un état ferme, non-détérioré, il est irréprochable, n'est pas critiqué par les hommes de connaissance, et il accumule beaucoup de [punna|mérite]."
+    }
+  ],
+  "translator": "Rémy"
+}

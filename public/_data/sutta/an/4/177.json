@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.177",
+  "plTitle": "Rāhula Sutta",
+  "frTitle": "Intructions pour Rahoula",
+  "description": "Des instructions très profondes du Bouddha pour son fils Rahoula concernant les quatre éléments.",
+  "body": [
+    {
+      "pl": "atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ rāhulaṃ bhagavā etadavoca:",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Rahoula alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Tandis qu'il état assis là, le [bhagava|Fortuné] lui dit:"
+    },
+    {
+      "pl": "“yā ca, rāhula, ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu, pathavīdhāturevesā. ‘taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. evametaṃ yathābhūtaṃ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṃ virājeti.",
+      "fr": "Rahoula, l'[dhatu|élément] terre intérieur et l'[dhatu|élément] terre extérieur, ce n'est rien que l'[dhatu|élément] terre. Il devrait être vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]. Lorsqu'il l'a vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, il est [nibbida|désenchanté] vis-à-vis de l'[dhatu|élément] terre, et il supprime de son [citta|esprit] l'[raga|avidité] pour l'[dhatu|élément] terre."
+    },
+    {
+      "pl": "“yā ca, rāhula, ajjhattikā āpodhātu yā ca bāhirā āpodhātu, āpodhāturevesā. ‘taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. evametaṃ yathābhūtaṃ sammappaññāya disvā āpodhātuyā nibbindati, āpodhātuyā cittaṃ virājeti.",
+      "fr": "Rahoula, l'[dhatu|élément] eau intérieur et l'[dhatu|élément] eau extérieur, ce n'est rien que l'[dhatu|élément] eau. Il devrait être vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]. Lorsqu'il l'a vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, il est [nibbida|désenchanté] vis-à-vis de l'[dhatu|élément] eau, et il supprime de son [citta|esprit] l'[raga|avidité] pour l'[dhatu|élément] eau."
+    },
+    {
+      "pl": "“yā ca, rāhula, ajjhattikā tejodhātu yā ca bāhirā tejodhātu, tejodhāturevesā. ‘taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. evametaṃ yathābhūtaṃ sammappaññāya disvā tejodhātuyā nibbindati, tejodhātuyā cittaṃ virājeti.",
+      "fr": "Rahoula, l'[dhatu|élément] feu intérieur et l'[dhatu|élément] feu extérieur, ce n'est rien que l'[dhatu|élément] feu. Il devrait être vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]. Lorsqu'il l'a vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, il est [nibbida|désenchanté] vis-à-vis de l'[dhatu|élément] feu, et il supprime de son [citta|esprit] l'[raga|avidité] pour l'[dhatu|élément] feu."
+    },
+    {
+      "pl": "“yā ca, rāhula, ajjhattikā vāyodhātu yā ca bāhirā vāyodhātu, vāyodhāturevesā. ‘taṃ netaṃ mama, nesohamasmi, na meso attā’ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. evametaṃ yathābhūtaṃ sammappaññāya disvā vāyodhātuyā nibbindati, vāyodhātuyā cittaṃ virājeti.",
+      "fr": "Rahoula, l'[dhatu|élément] air intérieur et l'[dhatu|élément] air extérieur, ce n'est rien que l'[dhatu|élément] air. Il devrait être vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]. Lorsqu'il l'a vu [yathabhutam|tel qu'il est réellement] avec le [panna|discernement] correct, il est [nibbida|désenchanté] vis-à-vis de l'[dhatu|élément] air, et il supprime de son [citta|esprit] l'[raga|avidité] pour l'[dhatu|élément] air."
+    },
+    {
+      "pl": "“yato kho, rāhula, bhikkhu imāsu catūsu dhātūsu nevattānaṃ na attaniyaṃ samanupassati, ayaṃ vuccati, rāhula, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā”ti.",
+      "fr": "Rahoula, lorsqu'un [bhikkhu|mendiant] considère ces quatre [dhatu|éléments] comme n'étant ni [atta|Soi] ni appartenant au [atta|Soi], on l'appelle un [bhikkhu|mendiant] qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves] et qui, par la compréhension correcte de la [maana|prétention], a mis fin au [dukkha|mal-être]."
+    }
+  ],
+  "translator": "Rémy"
+}

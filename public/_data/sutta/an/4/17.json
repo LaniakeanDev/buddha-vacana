@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 4.17",
+  "plTitle": "Agati Sutta",
+  "frTitle": "Une mauvaise ligne de conduite",
+  "description": "Voici quelles sont les quatre raisons pour lesquelles on s'engage dans une mauvaise ligne de conduite.",
+  "body": [
+    {
+      "pl": "Cattārimāni, bhikkhave, agatigamanāni. Katamāni cattāri? Chandāgatiṃ gacchati, dosāgatiṃ gacchati, mohāgatiṃ gacchati, bhayāgatiṃ gacchati. Imāni kho, bhikkhave, cattāri agatigamanānī ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre manières de s'engager dans une mauvaise ligne de conduite. Quelles sont ces quatre? On s'engage dans une mauvaise ligne de conduite par [chanda|désir], par [dosa|aversion], par [moha|délusion], ou par peur. Voici, [bhikkhu|mendiants], quelles sont ces quatre manières de s'engager dans une mauvaise ligne de conduite."
+    },
+    {
+      "pl": "[i]Chandā dosā bhayā mohā,[@v]Yo dhammaṃ ativattati[@v]Nihīyati tassa yaso,[@v]Kāḷapakkheva candimā ti.[/i]",
+      "fr": "[i]Par désir, aversion, peur ou ignorance,[@v]Celui qui transgresse le [dhamma|Dhamma][@v]Voit sa réputation décroître,[@v]Comme la lune durant sa quinzaine sombre.[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

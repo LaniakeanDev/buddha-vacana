@@ -1,0 +1,65 @@
+﻿{
+  "identifier": "AN 4.85",
+  "plTitle": "Tamotama Sutta",
+  "frTitle": "De l'obcurité vers l'obscurité",
+  "description": "Voici quatre types d'individus, selon l'état de confort ou d'inconfort dans lequel ils se trouvent actuellement, et ce vers quoi il se dirigent.",
+  "body": [
+    {
+      "pl": "Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Tamo tamaparāyaṇo, tamo jotiparāyaṇo, joti tamaparāyaṇo, joti jotiparāyaṇo.",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces quatre [types d']individus. Quels sont ces quatre? Celui qui est dans l'obscurité et se destine à l'obscurité, celui qui est dans l'obscurité et se destine à la lumière, celui qui est dans la lumière et se destine à l'obscurité, et celui qui est dans la lumière et se destine à la lumière."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo tamo hoti tamaparāyaṇo? Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti: caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. So ca hoti dubbaṇṇo duddasiko okoṭimako bavhābādho kāṇo vā kuṇī vā khañjo vā pakkhahato vā, na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu qui est dans l'obscurité se destine-t-il à l'obscurité? À cet égard, un certain individu est né dans une famille de basse extraction: une famille d'intouchables, une famille de [tisseurs] de bambou, une famille de chasseurs, une famille de réparateurs de chariots, ou une famille de ramasseurs de poubelles, et il est pauvre, il a peu à manger et à boire, subsistant dans la difficulté, là où la nourriture et les vêtements sont difficiles à se procurer. Il est laid, difforme, chétif, maladif, borgne, ou bien bossu, boiteux ou paralysé. Il n'obtient pas de nourriture, de boisson, de vêtements, ni de véhicules, de guirlandes, de parfums ou de cosmétiques, de lits, de logements, ni de lampes."
+    },
+    {
+      "pl": "So kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati. So kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+      "fr": "Il s'engage dans la [duccarita|méconduite] corporelle, il s'engage dans la [duccarita|méconduite] verbale, il s'engage dans la [duccarita|méconduite] mentale. S'étant engagé dans la [duccarita|méconduite] corporelle, s'étant engagé dans la [duccarita|méconduite] verbale, s'étant engagé dans la [duccarita|méconduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "Evaṃ kho, bhikkhave, puggalo tamo hoti tamaparāyaṇo.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un individu qui est dans l'obscurité se destine à l'obscurité."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo tamo hoti jotiparāyaṇo? Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti: caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati; so ca hoti dubbaṇṇo duddasiko okoṭimako bavhābādho kāṇo vā kuṇī vā khañjo vā pakkhahato vā na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu qui est dans l'obscurité se destine-t-il à la lumière? À cet égard, un certain individu est né dans une famille de basse extraction: une famille d'intouchables, une famille de [tisseurs] de bambou, une famille de chasseurs, une famille de réparateurs de chariots, ou une famille de ramasseurs de poubelles, et il est pauvre, il a peu à manger et à boire, subsistant dans la difficulté, là où la nourriture et les vêtements sont difficiles à se procurer. Il est laid, difforme, chétif, maladif, borgne, ou bien bossu, boiteux ou paralysé. Il n'obtient pas de nourriture, de boisson, de vêtements, ni de véhicules, de guirlandes, de parfums ou de cosmétiques, de lits, de logements, ni de lampes."
+    },
+    {
+      "pl": "So kāyena sucaritaṃ carati, vācāya sucaritaṃ carati, manasā sucaritaṃ carati. So kāyena sucaritaṃ caritvā, vācāya sucaritaṃ caritvā, manasā sucaritaṃ caritvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+      "fr": "Il s'engage dans la [sucarita|bonne conduite] corporelle, il s'engage dans la [sucarita|bonne conduite] verbale, il s'engage dans la [sucarita|bonne conduite] mentale. S'étant engagé dans la [sucarita|bonne conduite] corporelle, s'étant engagé dans la [sucarita|bonne conduite] verbale, s'étant engagé dans la [sucarita|bonne conduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]."
+    },
+    {
+      "pl": "Evaṃ kho, bhikkhave, puggalo tamo hoti jotiparāyaṇo.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un individu qui est dans l'obscurité se destine à la lumière."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo joti hoti tamaparāyaṇo? Idha, bhikkhave, ekacco puggalo ucce kule paccājāto hoti: khattiyamahāsālakule vā brāhmaṇamahāsālakule vā gahapatimahāsālakule vā aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate pahūtavittūpakaraṇe pahūtadhanadhaññe. so ca hoti abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato. lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu qui est dans la lumière se destine-t-il à l'obscurité? À cet égard, un certain individu est né dans une famille de haute extraction: une famille d'aristocrates opulente, une famille de brahmanes opulente, ou une famille de maîtres de maison opulente, et il est riche, avec de grandes richesses et une grande fortune, avec de l'or & de l'argent en abondance, avec des richesses & provisions en abondance, avec des biens & des stocks en abondance. Il est charmant, séduisant, aimable, et il porte une excellente beauté de teint. Il obtient de la nourriture, des boissons, des vêtements, et des véhicules, des guirlandes, des parfums & des cosmétiques, des lits, des logements, & des lampes."
+    },
+    {
+      "pl": "So kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati. So kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+      "fr": "Il s'engage dans la [duccarita|méconduite] corporelle, il s'engage dans la [duccarita|méconduite] verbale, il s'engage dans la [duccarita|méconduite] mentale. S'étant engagé dans la [duccarita|méconduite] corporelle, s'étant engagé dans la [duccarita|méconduite] verbale, s'étant engagé dans la [duccarita|méconduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "Evaṃ kho, bhikkhave, puggalo joti hoti tamaparāyaṇo.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un individu qui est dans la lumière se destine à l'obscurité."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo joti hoti jotiparāyaṇo? Idha, bhikkhave, ekacco puggalo ucce kule paccājāto hoti: khattiyamahāsālakule vā brāhmaṇamahāsālakule vā gahapatimahāsālakule vā aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate pahūtavittūpakaraṇe pahūtadhanadhaññe; so ca hoti abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato, lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu qui est dans la lumière se destine-t-il à la lumière? À cet égard, un certain individu est né dans une famille de haute extraction: une famille d'aristocrates opulente, une famille de brahmanes opulente, ou une famille de maîtres de maison opulente, et il est riche, avec de grandes richesses et une grande fortune, avec de l'or & de l'argent en abondance, avec des richesses & provisions en abondance, avec des biens & des stocks en abondance. Il est charmant, séduisant, aimable, et il porte une excellente beauté de teint. Il obtient de la nourriture, des boissons, des vêtements, et des véhicules, des guirlandes, des parfums & des cosmétiques, des lits, des logements, & des lampes."
+    },
+    {
+      "pl": "So kāyena sucaritaṃ carati, vācāya sucaritaṃ carati, manasā sucaritaṃ carati. So kāyena sucaritaṃ caritvā, vācāya sucaritaṃ caritvā, manasā sucaritaṃ caritvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+      "fr": "Il s'engage dans la [sucarita|bonne conduite] corporelle, il s'engage dans la [sucarita|bonne conduite] verbale, il s'engage dans la [sucarita|bonne conduite] mentale. S'étant engagé dans la [sucarita|bonne conduite] corporelle, s'étant engagé dans la [sucarita|bonne conduite] verbale, s'étant engagé dans la [sucarita|bonne conduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]."
+    },
+    {
+      "pl": "evaṃ kho, bhikkhave, puggalo joti hoti jotiparāyaṇo.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un individu qui est dans la lumière se destine à la lumière."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "translator": "Rémy"
+}

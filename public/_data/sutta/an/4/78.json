@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.78",
+  "plTitle": "Dakkhiṇa Sutta",
+  "frTitle": "Les offrandes",
+  "description": "Quatre types d'offrandes, purifiées ou non.",
+  "body": [
+    {
+      "pl": "“catasso imā, bhikkhave, dakkhiṇā visuddhiyo. katamā catasso? atthi, bhikkhave, dakkhiṇā dāyakato visujjhati, no paṭiggāhakato; atthi, bhikkhave, dakkhiṇā paṭiggāhakato visujjhati, no dāyakato; atthi, bhikkhave, dakkhiṇā neva dāyakato visujjhati, no paṭiggāhakato; atthi, bhikkhave, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [types de] [visuddhi|purification] d'une offrande. Quels sont ces quatre? Il y a le type d'offrande qui est purifiée par le donateur mais pas par le donataire. Il y a le type d'offrande qui est purifiée par le donataire mais pas par le donateur. Il y a le type d'offrande qui n'est purifiée ni par le donateur, ni par le donataire. Il y a le type d'offrande qui est purifiée à la fois par le donateur et par le donataire."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, dakkhiṇā dāyakato visujjhati, no paṭiggāhakato? idha, bhikkhave, dāyako hoti sīlavā kalyāṇadhammo; paṭiggāhakā honti dussīlā pāpadhammā. evaṃ kho, bhikkhave, dakkhiṇā dāyakato visujjhati, no paṭiggāhakato.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], l'offrande qui est purifiée par le donateur mais pas par le donataire? À cet égard, le donneur est [sila|vertueux], de bonne nature, et le donataire manque de [sila|vertu], il a une mauvaise nature. Voici, [bhikkhu|mendiants], quelle est l'offrande qui est purifiée par le donateur mais pas par le donataire."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, dakkhiṇā paṭiggāhakato visujjhati, no dāyakato? idha, bhikkhave, dāyako hoti dussīlo pāpadhammo; paṭiggāhakā honti sīlavanto kalyāṇadhammā. evaṃ kho, bhikkhave, dakkhiṇā paṭiggāhakato visujjhati, no dāyakato.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], l'offrande qui est purifiée par le donataire mais pas par le donateur? À cet égard, le donneur manque de [sila|vertu], il a mauvaise nature, et le donataire est [sila|vertueux], de bonne nature. Voici, [bhikkhu|mendiants], quelle est l'offrande qui est purifiée par le donataire mais pas par le donateur."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, dakkhiṇā neva dāyakato visujjhati, no paṭiggāhakato? idha, bhikkhave, dāyako hoti dussīlo pāpadhammo; paṭiggāhakāpi honti dussīlā pāpadhammā. evaṃ kho, bhikkhave, dakkhiṇā neva dāyakato visujjhati, no paṭiggāhakato.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], l'offrande qui n'est purifiée ni par le donateur, ni par le donataire? À cet égard, le donneur manque de [sila|vertu], il a mauvaise nature, et le donataire manque de [sila|vertu], il a mauvaise nature. Voici, [bhikkhu|mendiants], quelle est l'offrande qui n'est purifiée ni par le donateur, ni par le donataire."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca? idha, bhikkhave, dāyako hoti sīlavā kalyāṇadhammo; paṭiggāhakāpi honti sīlavanto kalyāṇadhammā. evaṃ kho, bhikkhave, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], l'offrande qui est purifiée à la fois par le donateur et par le donataire? À cet égard, le donneur est [sila|vertueux], de bonne nature, et le donataire est [sila|vertueux], de bonne nature. Voici, [bhikkhu|mendiants], quelle est l'offrande qui est purifiée à la fois par le donateur et par le donataire."
+    },
+    {
+      "pl": "imā kho, bhikkhave, catasso dakkhiṇā visuddhiyo”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [types de] [visuddhi|purification] d'une offrande."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,41 @@
+﻿{
+  "identifier": "AN 4.183",
+  "plTitle": "Suta Sutta",
+  "frTitle": "Ce qu'on a entendu",
+  "description": "Toute vérité est-elle bonne à dire? Le Bouddha propose une grille d'analyse très simple.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. atha kho vassakāro brāhmaṇo magadhamahāmatto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho vassakāro brāhmaṇo magadhamahāmatto bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri, dans la bambouseraie, au refuge des écureuils. Ce jour-là, le [brahmana|brahmane] Vassakāra, ministre d'état du Magadha, vint voir le [bhagava|Fortuné] et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [brahmana|brahmane] Vassakāra, ministre d'état du Magadha, dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“ahañhi, bho gotama, evaṃvādī evaṃdiṭṭhi: ‘yo koci diṭṭhaṃ bhāsati: evaṃ me diṭṭhanti, natthi tato doso; yo koci sutaṃ bhāsati: evaṃ me sutanti, natthi tato doso; yo koci mutaṃ bhāsati: evaṃ me mutanti, natthi tato doso; yo koci viññātaṃ bhāsati: evaṃ me viññātanti, natthi tato doso’”ti.",
+      "fr": "[bho|Honorable] Gotama, j'adhère à cette position, à cette [ditthi|vue]: [i]“Quiconque dit à propos de ce qu'il a vu: “J'ai vu ainsi”, n'est pas en faute; quiconque dit à propos de ce qu'il a entendu: “J'ai entendu ainsi”, n'est pas en faute; quiconque dit à propos de ce qu'il a senti: “J'ai senti ainsi”, n'est pas en faute; quiconque dit à propos de ce qu'il a connu: “J'ai connu ainsi”, n'est pas en faute'.[/i]"
+    },
+    {
+      "pl": "“nāhaṃ, brāhmaṇa, sabbaṃ diṭṭhaṃ bhāsitabbanti vadāmi; na panāhaṃ, brāhmaṇa, sabbaṃ diṭṭhaṃ na bhāsitabbanti vadāmi; nāhaṃ, brāhmaṇa, sabbaṃ sutaṃ bhāsitabbanti vadāmi; na panāhaṃ, brāhmaṇa, sabbaṃ sutaṃ na bhāsitabbanti vadāmi; nāhaṃ, brāhmaṇa, sabbaṃ mutaṃ bhāsitabbanti vadāmi; na panāhaṃ, brāhmaṇa, sabbaṃ mutaṃ na bhāsitabbanti vadāmi; nāhaṃ, brāhmaṇa, sabbaṃ viññātaṃ bhāsitabbanti vadāmi; na panāhaṃ, brāhmaṇa, sabbaṃ viññātaṃ na bhāsitabbanti vadāmi.",
+      "fr": "Brahmane, je ne dis pas qu'on devrait parler de tout ce qu'on a vu, et je ne dis pas non plus qu'on ne devrait parler de rien de ce qu'on a vu; je ne dis pas qu'on devrait parler de tout ce qu'on a entendu, et je ne dis pas non plus qu'on ne devrait parler de rien de ce qu'on a entendu; je ne dis pas qu'on devrait parler de tout ce qu'on a senti, et je ne dis pas non plus qu'on ne devrait parler de rien de ce qu'on a senti; je ne dis pas qu'on devrait parler de tout ce qu'on a connu, et je ne dis pas non plus qu'on ne devrait parler de rien de ce qu'on a connu."
+    },
+    {
+      "pl": "“yañhi, brāhmaṇa, diṭṭhaṃ bhāsato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpaṃ diṭṭhaṃ na bhāsitabbanti vadāmi. yañca khvassa, brāhmaṇa, diṭṭhaṃ abhāsato kusalā dhammā parihāyanti, akusalā dhammā abhivaḍḍhanti, evarūpaṃ diṭṭhaṃ bhāsitabbanti vadāmi.",
+      "fr": "Si, brahmane, lorsqu'on parle de choses qu'on a vues les [dhamma|états mentaux] [akusala|désavantageux] se développent et les [dhamma|états mentaux] [kusala|avantageux] déclinent, alors je dis qu'il ne faudrait pas parler de ces choses qu'on a vues. Mais si, lorsqu'on ne parle pas de choses qu'on a vues les [dhamma|états mentaux] [kusala|avantageux] déclinent et les [dhamma|états mentaux] [akusala|désavantageux] se développent, alors je dis qu'il faudrait parler de ces choses qu'on a vues."
+    },
+    {
+      "pl": "“yañhi, brāhmaṇa, sutaṃ bhāsato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpaṃ sutaṃ na bhāsitabbanti vadāmi. yañca khvassa, brāhmaṇa, sutaṃ abhāsato kusalā dhammā parihāyanti, akusalā dhammā abhivaḍḍhanti, evarūpaṃ sutaṃ bhāsitabbanti vadāmi.",
+      "fr": "Si, brahmane, lorsqu'on parle de choses qu'on a entendues les [dhamma|états mentaux] [akusala|désavantageux] se développent et les [dhamma|états mentaux] [kusala|avantageux] déclinent, alors je dis qu'il ne faudrait pas parler de ces choses qu'on a entendues. Mais si, lorsqu'on ne parle pas de choses qu'on a entendues les [dhamma|états mentaux] [kusala|avantageux] déclinent et les [dhamma|états mentaux] [akusala|désavantageux] se développent, alors je dis qu'il faudrait parler de ces choses qu'on a entendues."
+    },
+    {
+      "pl": "“yañhi, brāhmaṇa, mutaṃ bhāsato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpaṃ mutaṃ na bhāsitabbanti vadāmi. yañca khvassa, brāhmaṇa, mutaṃ abhāsato kusalā dhammā parihāyanti, akusalā dhammā abhivaḍḍhanti, evarūpaṃ mutaṃ bhāsitabbanti vadāmi.",
+      "fr": "Si, brahmane, lorsqu'on parle de choses qu'on a senties les [dhamma|états mentaux] [akusala|désavantageux] se développent et les [dhamma|états mentaux] [kusala|avantageux] déclinent, alors je dis qu'il ne faudrait pas parler de ces choses qu'on a senties. Mais si, lorsqu'on ne parle pas de choses qu'on a senties les [dhamma|états mentaux] [kusala|avantageux] déclinent et les [dhamma|états mentaux] [akusala|désavantageux] se développent, alors je dis qu'il faudrait parler de ces choses qu'on a senties."
+    },
+    {
+      "pl": "“yañhi, brāhmaṇa, viññātaṃ bhāsato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpaṃ viññātaṃ na bhāsitabbanti vadāmi. yañca khvassa, brāhmaṇa, viññātaṃ abhāsato kusalā dhammā parihāyanti, akusalā dhammā abhivaḍḍhanti, evarūpaṃ viññātaṃ bhāsitabbanti vadāmī”ti.",
+      "fr": "Si, brahmane, lorsqu'on parle de choses qu'on a connues les [dhamma|états mentaux] [akusala|désavantageux] se développent et les [dhamma|états mentaux] [kusala|avantageux] déclinent, alors je dis qu'il ne faudrait pas parler de ces choses qu'on a connues. Mais si, lorsqu'on ne parle pas de choses qu'on a connues les [dhamma|états mentaux] [kusala|avantageux] déclinent et les [dhamma|états mentaux] [akusala|désavantageux] se développent, alors je dis qu'il faudrait parler de ces choses qu'on a connues."
+    },
+    {
+      "pl": "atha kho vassakāro brāhmaṇo magadhamahāmatto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmīti.",
+      "fr": "Alors le [brahmana|brahmane] Vassakāra, ministre d'état du Magadha, ayant approuvé les paroles du [bhagava|Fortuné], le salua puis se leva de son siège et s'en alla."
+    }
+  ],
+  "translator": "Rémy"
+}

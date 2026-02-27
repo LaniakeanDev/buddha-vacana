@@ -1,0 +1,57 @@
+﻿{
+  "identifier": "AN 4.181",
+  "plTitle": "Yodhājīva Sutta",
+  "frTitle": "Le guerrier",
+  "description": "Voici comment un mendiant peut être comparé à un valeureux guerrier.",
+  "body": [
+    {
+      "pl": "Catūhi, bhikkhave, aṅgehi samannāgato yodhājīvo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati. Katamehi catūhi? Idha, bhikkhave, yodhājīvo ṭhānakusalo ca hoti, dūrepātī ca, akkhaṇavedhī ca, mahato ca kāyassa padāletā. Imehi kho, bhikkhave, catūhi aṅgehi samannāgato yodhājīvo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati. ",
+      "fr": "[bhikkhu|Mendiants], un guerrier pourvu de quatre qualités est digne du roi, utile au roi, et il est considéré comme un atout du roi. Quelles sont ces quatre? À cet égard, [bhikkhu|mendiants], un guerrier est habile en positionnement, il [est capable de] tirer loin, il tire précisément, et il [est capable de] percer une grande masse. [bhikkhu|Mendiants], un guerrier pourvu de ces quatre qualités, est digne du roi, utile au roi, et il est considéré comme un atout du roi."
+    },
+    {
+      "pl": "Evamevaṃ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa. Katamehi catūhi? Idha, bhikkhave, bhikkhu ṭhānakusalo ca hoti, dūrepātī ca, akkhaṇavedhī ca, mahato ca kāyassa padāletā.",
+      "fr": "De la même manière, [bhikkhu|mendiants], un [bhikkhu|mendiant] pourvu de quatre qualités est [@f_anussati#anussati-3-cl|digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.] Quelles sont ces quatre? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] est habile en positionnement, il [est capable de] tirer loin, il tire précisément, et il [est capable de] percer une grande masse."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu ṭhānakusalo hoti? Idha, bhikkhave, bhikkhu sīlavā hoti pātimokkha-saṃvara-saṃvuto viharati ācāra-gocara-sampanno aṇumattesu vajjesu bhaya-dassāvī, samādāya sikkhati sikkhā-padesu. Evaṃ kho, bhikkhave, bhikkhu ṭhānakusalo hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant] est-il habile en positionnement? À cet égard, [bhikkhu|mendiants], [@f_sila|un [bhikkhu|mendiant] est vertueux, il demeure restreint par la restreinte du Patimokkha, accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les règles de l'entraînement et s'y entraîne.] Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] est habile en positionnement."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu dūrepātī hoti? Idha, bhikkhave, bhikkhu yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathā·bhūtaṃ sammappaññāya passati.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant][est-t-il capable de] tirer loin? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] voit toute [rupa|Forme], qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou superbe, éloignée ou proche, [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yā kāci vedanā atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ vedanā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathā·bhūtaṃ sammappaññāya passati.",
+      "fr": "Quelque [vedana|Ressenti] que ce soit, qu'il soit passé, futur ou présent, interne ou externe, grossier ou subtil, inférieur ou sublime, éloigné ou proche, il voit tout [vedana|Ressenti] [yathabhutam|tel qu'il est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yā kāci saññā atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ saññā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathā·bhūtaṃ sammappaññāya passati.",
+      "fr": "Quelque [sanna|Perception] que ce soit, qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou sublime, éloignée ou proche, il voit toute [sanna|Perception] [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Ye keci saṅkhārā atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ saṅkhārā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathā·bhūtaṃ sammappaññāya passati.",
+      "fr": "Quelque [sankhara|Constructions] que ce soient, qu'elles soient passées, futures ou présentes, internes ou externes, grossières ou subtiles, inférieures ou sublimes, éloignées ou proches, il voit toutes [sankhara|Constructions] [yathabhutam|telles qu'elles sont réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathā·bhūtaṃ sammappaññāya passati.",
+      "fr": "Quelque [vinnana|Conscience] que ce soit, qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou sublime, éloignée ou proche, il voit toute [vinnana|Conscience] [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Evaṃ kho, bhikkhave, bhikkhu dūrepātī hoti.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] [est capable de] tirer loin."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu akkhaṇavedhī hoti? Idha, bhikkhave, bhikkhu ‘idaṃ dukkha’nti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·samudayo’ti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·nirodho’ti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yathā·bhūtaṃ pajānāti. Evaṃ kho, bhikkhave, bhikkhu akkhaṇavedhī hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant] tire-t-il précisément? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i]. Il discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|origine du mal-être]”[/i]. Il discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i]. Il discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i]. Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] tire précisément."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu mahato kāyassa padāletā hoti? Idha, bhikkhave, bhikkhu mahantaṃ avijjākkhandhaṃ padāletā. Evaṃ kho, bhikkhave, bhikkhu mahato kāyassa padāletā hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant] [est-il capable de] percer une grande masse? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] perce la grande [khandha|accumulation] d'[avijja|ignorance]. Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] est [est capable de] percer une grande masse."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces quatre qualités est [@f_anussati#anussati-3-cl|digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.]"
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 4.7",
+  "plTitle": "Sobhana Sutta",
+  "frTitle": "Ornements",
+  "description": "Voici les personnes qui ornent le Sangha.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā saṅghaṃ sobhenti. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], ces quatre [types de personnes, lorsqu'ils sont] compétents, disciplinés, sûrs d'eux, [@m_bahussuta|très instruit]s, qu'ils connaissent l'[dhamma|Enseignement] par cœur et qu'ils [dadp|pratiquent l'enseignement au niveau des phénomènes], ornent la [sangha|Communauté]. Quels sont ces quatre?"
+    },
+    {
+      "pl": "bhikkhu, bhikkhave, viyatto vinīto visārado bahussuto dhammadharo dhammānudhammappaṭipanno saṅghaṃ sobheti.",
+      "fr": "Un [bhikkhu|mendiant], [lorsqu'il est] compétent, discipliné, sûr de lui, [@m_bahussuta|très instruit], qu'il connaît l'[dhamma|Enseignement] par cœur et qu'il [dadp|pratique l'enseignement au niveau des phénomènes], orne la [sangha|Communauté]."
+    },
+    {
+      "pl": "bhikkhunī, bhikkhave, viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā saṅghaṃ sobheti.",
+      "fr": "Une [bhikkhuni|mendiante], [lorsqu'elle est] compétente, disciplinée, sûre d'elle, [@m_bahussuta|très instruit]e, qu'elle connaît l'[dhamma|Enseignement] par cœur et qu'elle [dadp|pratique l'enseignement au niveau des phénomènes], orne la [sangha|Communauté]."
+    },
+    {
+      "pl": "upāsako, bhikkhave, viyatto vinīto visārado bahussuto dhammadharo dhammānudhammappaṭipanno saṅghaṃ sobheti.",
+      "fr": "Un [upasaka|disciple laïc], [lorsqu'il est] compétent, discipliné, sûr de lui, [@m_bahussuta|très instruit], qu'il connaît l'[dhamma|Enseignement] par cœur et qu'il [dadp|pratique l'enseignement au niveau des phénomènes], orne la [sangha|Communauté]."
+    },
+    {
+      "pl": "upāsikā, bhikkhave, viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā saṅghaṃ sobheti.",
+      "fr": "Une [upasika|disciple laïque], [lorsqu'elle est] compétente, disciplinée, sûre d'elle, [@m_bahussuta|très instruit]e, qu'elle connaît l'[dhamma|Enseignement] par cœur, et qu'elle [dadp|pratique l'enseignement au niveau des phénomènes], orne la [sangha|Communauté]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro viyattā vinītā visāradā bahussutā dhammadharā dhammānudhammappaṭipannā saṅghaṃ sobhentī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types de personnes, qui, lorsqu'ils sont] compétents, disciplinés, sûrs d'eux, [@m_bahussuta|très instruit]s, qu'ils connaissent l'[dhamma|Enseignement] par cœur et qu'ils [dadp|pratiquent l'enseignement au niveau des phénomènes], ornent la [sangha|Communauté]."
+    }
+  ],
+  "translator": "Rémy"
+}

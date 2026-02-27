@@ -1,0 +1,73 @@
+﻿{
+  "identifier": "AN 4.111",
+  "plTitle": "Kesi Sutta",
+  "frTitle": "Kessi le dresseur de chevaux",
+  "description": "Le Bouddha converse avec un dresseur de chevaux et lui explique comment ils partagent le même modus operandi général.",
+  "body": [
+    {
+      "pl": "atha kho kesi assadammasārathi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho kesiṃ assadammasārathiṃ bhagavā etadavoca:",
+      "fr": "Ce jour-là, Kessi le dresseur de chevaux alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois qu'il fut assis là, le [bhagava|Fortuné] dit à Kessi le dresseur de chevaux:"
+    },
+    {
+      "pl": "— “tvaṃ khosi, kesi, paññāto assadammasārathīti. kathaṃ pana tvaṃ, kesi, assadammaṃ vinesī”ti?",
+      "fr": "—Kessi, vous êtes un dresseur de chevaux renommé. Comment donc [vinaya|discipline]z-vous les chevaux?"
+    },
+    {
+      "pl": "“ahaṃ kho, bhante, assadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemī”ti.",
+      "fr": "—[bhante|Bhanté], je [vinaya|discipline] un cheval en employant la manière douce, ou je le [vinaya|discipline] en employant la manière forte, ou bien je le [vinaya|discipline] en employant la manière douce & forte."
+    },
+    {
+      "pl": "“sace te, kesi, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ karosī”ti?",
+      "fr": "—Kessi, et si le cheval ne se soumet à la [vinaya|discipline] ni par la manière douce, ni par la manière forte, ni par la manière douce & forte, alors que faites-vous?"
+    },
+    {
+      "pl": "“sace me, bhante, assadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti; hanāmi naṃ, bhante. taṃ kissa hetu? mā me ācariyakulassa avaṇṇo ahosī”ti.",
+      "fr": "—[bhante|Bhanté], si le cheval ne se soumet à la [vinaya|discipline] ni par la manière douce, ni par la manière forte, ni par la manière douce & forte, alors je le tue. Et quelle en est la raison? Pour que cela n'apporte pas la honte à mon clan de dresseurs."
+    },
+    {
+      "pl": "“bhagavā pana, bhante, anuttaro purisadammasārathi. kathaṃ pana, bhante, bhagavā purisadammaṃ vinetī”ti?",
+      "fr": "Mais [bhante|Bhanté], le [bhagava|Fortuné] est le suprême entraîneur d'hommes. Comment, [bhante|Bhanté], le [bhagava|Fortuné] [vinaya|discipline]-t-il les hommes?"
+    },
+    {
+      "pl": "“ahaṃ kho, kesi, purisadammaṃ saṇhenapi vinemi, pharusenapi vinemi, saṇhapharusenapi vinemi.",
+      "fr": "—Kessi, je [vinaya|discipline] un homme en employant la manière douce, ou je le [vinaya|discipline] en employant la manière forte, ou bien je le [vinaya|discipline] en employant la manière douce & forte."
+    },
+    {
+      "pl": "tatridaṃ, kesi, saṇhasmiṃ: iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti devā, iti manussāti.",
+      "fr": "Et voici, Kessi, quelle est la manière douce: [i]“Voici la [sucarita|bonne conduite] corporelle, voici le résultat de la [sucarita|bonne conduite] corporelle, voici la [sucarita|bonne conduite] verbale, voici le résultat de la [sucarita|bonne conduite] verbale, voici la [sucarita|bonne conduite] mentale, voici le résultat de la [sucarita|bonne conduite] mentale, voici les [deva|dévas], voici les humains.”[/i]"
+    },
+    {
+      "pl": "tatridaṃ, kesi, pharusasmiṃ: iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti nirayo, iti tiracchānayoni, iti pettivisayo”ti.",
+      "fr": "Voici, Kessi, quelle est la manière forte: [i]“Voici la [duccarita|méconduite] corporelle, voici le résultat de la [duccarita|méconduite] corporelle, voici la [duccarita|méconduite] verbale, voici le résultat de la [duccarita|méconduite] verbale, voici la [duccarita|méconduite] mentale, voici le résultat de la [duccarita|méconduite] mentale, voici l'[niraya|enfer], voici le [tiracchanayoni|sein animal], voici le [pettivisaya|plan d'existence des esprits affligés].”[/i]"
+    },
+    {
+      "pl": "“tatridaṃ, kesi, saṇhapharusasmiṃ: iti kāyasucaritaṃ iti kāyasucaritassa vipāko, iti kāyaduccaritaṃ iti kāyaduccaritassa vipāko, iti vacīsucaritaṃ iti vacīsucaritassa vipāko, iti vacīduccaritaṃ iti vacīduccaritassa vipāko, iti manosucaritaṃ iti manosucaritassa vipāko, iti manoduccaritaṃ iti manoduccaritassa vipāko, iti devā, iti manussā, iti nirayo, iti tiracchānayoni, iti pettivisayo”ti.",
+      "fr": "Voici, Kessi, quelle est la manière douce & forte: [i]“Voici la [sucarita|bonne conduite] corporelle, voici le résultat de la [sucarita|bonne conduite] corporelle, voici la [duccarita|méconduite] corporelle, voici le résultat de la [duccarita|méconduite] corporelle, voici la [sucarita|bonne conduite] verbale, voici le résultat de la [sucarita|bonne conduite] verbale, voici la [duccarita|méconduite] verbale, voici le résultat de la [duccarita|méconduite] verbale, voici la [sucarita|bonne conduite] mentale, voici le résultat de la [sucarita|bonne conduite] mentale, voici la [duccarita|méconduite] mentale, voici le résultat de la [duccarita|méconduite] mentale, voici les [deva|dévas], voici les humains, voici l'[niraya|enfer], voici le [tiracchanayoni|sein animal], voici le [pettivisaya|plan d'existence des esprits affligés].”[/i]"
+    },
+    {
+      "pl": "“sace te, bhante, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, kinti naṃ bhagavā karotī”ti?",
+      "fr": "—Mais [bhante|Bhanté], si un homme ne se soumet à la [vinaya|discipline] ni par la manière douce, ni par la manière forte, ni par la manière douce & forte, alors que fait le [bhagava|Fortuné]?"
+    },
+    {
+      "pl": "“sace me, kesi, purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, hanāmi naṃ, kesī”ti.",
+      "fr": "—Kessi, si un homme ne se soumet à la [vinaya|discipline] ni par la manière douce, ni par la manière forte, ni par la manière douce & forte, alors je le tue."
+    },
+    {
+      "pl": "“na kho, bhante, bhagavato pāṇātipāto kappati. atha ca pana bhagavā evamāha: ‘hanāmi, naṃ kesī’”ti!",
+      "fr": "—Mais [bhante|Bhanté], il n'est pas correct pour le [bhagava|Fortuné] de [panatipata|détruire la vie]. Et pourtant le [bhagava|Fortuné] dit ceci: [i]“alors je le tue”[/i]"
+    },
+    {
+      "pl": "“saccaṃ, kesi! na tathāgatassa pāṇātipāto kappati. api ca yo purisadammo saṇhena vinayaṃ na upeti, pharusena vinayaṃ na upeti, saṇhapharusena vinayaṃ na upeti, na taṃ tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññanti. vadho heso, kesi, ariyassa vinaye: yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantī”ti.",
+      "fr": "—Il est vrai, Kessi, qu'il n'est pas correct pour le [tathagata|Tathagata] de [panatipata|détruire la vie]. Cependant, lorsqu'un homme ne se soumet à la [vinaya|discipline] ni par la manière douce, ni par la manière forte, ni par la manière douce & forte, alors le [tathagata|Tathagata] considère que cela ne vaut pas la peine de lui parler et de l'instruire, et ses perspicaces compagnons dans la [brahmacariya|vie brahmique] considèrent que cela ne vaut pas la peine de lui parler et de l'instruire. En effet, Kessi, ceci est la mise à mort dans la [vinaya|discipline] du [ariya|noble]: que le [tathagata|Tathagata] considère que cela ne vaut pas la peine de lui parler et de l'instruire, et que ses perspicaces compagnons dans la [brahmacariya|vie brahmique] considèrent que cela ne vaut pas la peine de lui parler et de l'instruire."
+    },
+    {
+      "pl": "“so hi nūna, bhante, suhato hoti yaṃ na tathāgato vattabbaṃ anusāsitabbaṃ maññati, nāpi viññū sabrahmacārī vattabbaṃ anusāsitabbaṃ maññantīti.",
+      "fr": "—[bhante|Bhanté], il est en effet bien mis à mort lorsque le [tathagata|Tathagata] considère que cela ne vaut pas la peine de lui parler et de l'instruire, et que ses perspicaces compagnons dans la [brahmacariya|vie brahmique] considèrent que cela ne vaut pas la peine de lui parler et de l'instruire."
+    },
+    {
+      "pl": "“abhikkantaṃ, bhante, abhikkantaṃ, bhante! seyyathāpi bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ, bhante, bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], je vais en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie."
+    }
+  ],
+  "translator": "Rémy"
+}

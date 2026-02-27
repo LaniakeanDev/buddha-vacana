@@ -1,0 +1,166 @@
+﻿{
+  "identifier": "AN 4.193",
+  "plTitle": "Bhaddiya Sutta",
+  "frTitle": "Discours à Bhaddiya",
+  "description": "Certains disent que le Bouddha est un magicien qui utilise un sortilège pour convertir les gens et les convaincre de devenir ses [savaka|disciples]. Celui-ci explique à Bhaddiya qu'il n'en est rien et que la seule conversion qui l'intéresse est celle qui consiste à abandonner ce qui est désavantageux pour soi-même et entreprendre ce qui est avantageux pour soi-même.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. atha kho bhaddiyo licchavi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho bhaddiyo licchavi bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Ce jour-là, Bhaddiya le Licchavi alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“sutaṃ metaṃ, bhante: ‘māyāvī samaṇo gotamo āvaṭṭaniṃ māyaṃ jānāti yāya aññatitthiyānaṃ sāvake āvaṭṭetī’ti. ye te, bhante, evamāhaṃsu (...), kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṃ abhūtena abbhācikkhanti, dhammassa ca anudhammaṃ byākaronti, na ca koci sahadhammiko vādānupāto gārayhaṃ ṭhānaṃ āgacchati, anabbhakkhātukāmā hi mayaṃ, bhante, bhagavantan”ti?",
+      "fr": "—Bhanté, j'ai entendu dire ceci: [i]“Le renonçant Gotama est un magicien qui connaît une magie qui convertit à l'aide de laquelle il convertit les [savaka|disciples] hétérodoxes.”[/i] [bhante|Bhanté], est-ce que ceux qui déclarent cela disent ce qui a été dit par le [bhagava|Fortuné] et évitent de le représenter faussement avec ce qui est incorrect? Est-ce qu'ils expliquent le [dhamma|Dhamma] tel qu'il est, sans s'exposer à la critique de leurs pairs ni s'engager dans ce qui est matière à reproches? Je ne voudrais pas représenter faussement le [bhagava|Fortuné]."
+    },
+    {
+      "pl": "“etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā ‘samaṇo no garū’ti. yadā tumhe, bhaddiya, attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantī’ti, atha tumhe, bhaddiya, pajaheyyātha.",
+      "fr": "—Bhaddiya, ne te fie ni à [anussava|ce que tu as entendu], ni à la tradition, ni à ce qui est communément admis, ni à ce qui est transmis dans des textes, ni aux raisonnements, ni aux inférences, ni à la réflexion profonde, ni à l'[ditthinijjhanakhanti|acceptation d'une opinion après l'avoir méditée], ni à ce qui semble possible, ni à [la pensée:] [i]“Ce [samana|renonçant] est notre enseignant”[/i]. Bhaddiya, ce dont tu sais par toi-même être des [dhamma|choses] [akusala|désavantageuses], des [dhamma|choses] [savajja|répréhensibles], des [dhamma|choses] condamnées par les sages, des [dhamma|choses] qui, lorsqu'elles sont entreprises et accomplies, portent préjudice et mènent au [dukkha|mal-être], tu devrais les abandonner."
+    },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, lobho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "Qu'est-ce que tu en penses, Bhaddiya, lorsque l'[lobha|avidité] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“luddho panāyaṃ, bhaddiya, purisapuggalo lobhena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti yaṃsa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
+      "fr": "—Un homme en proie à l'[lobha|avidité], Bhaddiya, dont l'esprit est dominé, sous l'emprise de l'[raga|avidité], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, doso purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, lorsque la [dosa|haine] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“duṭṭho panāyaṃ, bhaddiya, purisapuggalo dosena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
+      "fr": "—Un homme en proie à la [dosa|haine], Bhaddiya, dont l'esprit est dominé, sous l'emprise de la [dosa|haine], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, lorsque la [moha|délusion] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“mūḷho panāyaṃ, bhaddiya, purisapuggalo mohena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
+      "fr": "—Un homme en proie à la [moha|délusion], Bhaddiya, dont l'esprit est dominé, sous l'emprise de la [moha|délusion], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, ime dhammā kusalā vā akusalā vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, est-ce que ces [dhamma|choses] sont [kusala|avantageuses] ou [akusala|désavantageuses]?"
+    },
+    { "pl": "“akusalā, bhante”.", "fr": "—D[akusala|ésavantageu]ses, [bhante|Bhanté]." },
+    { "pl": "“sāvajjā vā anavajjā vā”ti?", "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochable]?" },
+    { "pl": "“sāvajjā, bhante”.", "fr": "—R[savajja|épréhensible]s, [bhante|Bhanté]." },
+    {
+      "pl": "“viññugarahitā vā viññuppasatthā vā”ti?",
+      "fr": "—Condamnées par les sages ou recommandées par les sages?"
+    },
+    { "pl": "“viññugarahitā, bhante”.", "fr": "—Condamnées par les sages, [bhante|Bhanté]." },
+    {
+      "pl": "“samattā samādinnā ahitāya dukkhāya saṃvattanti, no vā? kathaṃ vā ettha hotī”ti?",
+      "fr": "—Lorsqu'elles sont entreprises et accomplies, est-ce qu'elles portent préjudice et mènent au [dukkha|mal-être], ou pas? Qu'est-ce que tu en penses?"
+    },
+    {
+      "pl": "“samattā, bhante, samādinnā ahitāya dukkhāya saṃvattantīti. evaṃ no ettha hotī”ti.",
+      "fr": "—Lorsqu'elles sont entreprises et accomplies, [bhante|Bhanté], elles portent préjudice et mènent au [dukkha|mal-être]. C'est ce que j'en pense."
+    },
+    {
+      "pl": "“iti kho, bhaddiya, yaṃ taṃ avocumhā: ‘etha tumhe, bhaddiya! mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. yadā tumhe bhaddiya attanāva jāneyyātha: ‘ime dhammā akusalā, ime dhammā sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya dukkhāya saṃvattantīti, atha tumhe, bhaddiya, pajaheyyāthā’ti, iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ.",
+      "fr": "—Voici, Bhaddiya, ce en rapport à quoi j'ai dit: [i]“Bhaddiya, ne te fie ni à [anussava|ce que tu as entendu], ni à la tradition, ni à ce qui est communément admis, ni à ce qui est transmis dans des textes, ni aux raisonnements, ni aux inférences, ni à la réflexion profonde, ni à l'[ditthinijjhanakhanti|acceptation d'une opinion après l'avoir méditée], ni à ce qui semble possible, ni à [la pensée:] “Ce [samana|renonçant] est notre enseignant”. Bhaddiya, ce dont tu sais par toi-même être des [dhamma|choses] [akusala|désavantageuses], des [dhamma|choses] [savajja|répréhensibles], des [dhamma|choses] condamnées par les sages, des [dhamma|choses] qui, lorsqu'elles sont entreprises et accomplies, portent préjudice et mènent au [dukkha|mal-être], tu devrais l'abandonner.”[/i]"
+    },
+    {
+      "pl": "“etha tumhe, bhaddiya, mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. yadā tumhe, bhaddiya, attanāva jāneyyātha: ‘ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṃvattantī’ti, atha tumhe, bhaddiya, upasampajja vihareyyātha.",
+      "fr": "Bhaddiya, ne te fie ni à [anussava|ce que tu as entendu], ni à la tradition, ni à ce qui est communément admis, ni à ce qui est transmis dans des textes, ni aux raisonnements, ni aux inférences, ni à la réflexion profonde, ni à l'[ditthinijjhanakhanti|acceptation d'une opinion après l'avoir méditée], ni à ce qui semble possible, ni à [la pensée:] [i]“Ce [samana|renonçant] est notre enseignant”[/i]. Bhaddiya, ce dont tu sais par toi-même être des [dhamma|choses] [kusala|avantageuses], des [dhamma|choses] [anavajja|irréprochables], des [dhamma|choses] recommandées par les sages, des [dhamma|choses] qui, lorsqu'elles sont entreprises et accomplies, sont à ton avantage et mènent au [sukha|bien-être], tu devrais les entreprendre et vivre en accord avec elles."
+    },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, alobho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "Qu'est-ce que tu en penses, Bhaddiya, lorsque l'[alobha|absence d'avidité] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“aluddho panāyaṃ, bhaddiya, purisapuggalo lobhena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
+      "fr": "—Un homme qui n'est pas en proie à l'[lobha|avidité], Bhaddiya, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de l'[raga|avidité], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, adoso purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, lorsque l'absence de [dosa|haine] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“aduṭṭho panāyaṃ, bhaddiya, purisapuggalo dosena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
+      "fr": "—Un homme qui n'est pas en proie à la [dosa|haine], Bhaddiya, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de la [dosa|haine], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, amoho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, lorsque l'absence de [moha|délusion] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
+    },
+    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“amūḷho panāyaṃ, bhaddiya, purisapuggalo mohena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
+      "fr": "—Un homme qui n'est pas en proie à la [moha|délusion], Bhaddiya, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de la [moha|délusion], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhaddiya, ime dhammā kusalā vā akusalā vā”ti?",
+      "fr": "—Qu'est-ce que tu en penses, Bhaddiya, est-ce que ces [dhamma|choses] sont [kusala|avantageuses] ou [akusala|désavantageuses]?"
+    },
+    { "pl": "“kusalā, bhante”.", "fr": "—A[kusala|vantageuse]s, [bhante|Bhanté]" },
+    { "pl": "“sāvajjā vā anavajjā vā”ti?", "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochable]?" },
+    { "pl": "“anavajjā, bhante”.", "fr": "—[anavajja|Irréprochable], [bhante|Bhanté]." },
+    {
+      "pl": "“viññugarahitā vā viññuppasatthā vā”ti?",
+      "fr": "—Condamnées par les sages ou recommandées par les sages?"
+    },
+    { "pl": "“viññuppasatthā, bhante”.", "fr": "—Recommandées par les sages, [bhante|Bhanté]." },
+    {
+      "pl": "“samattā samādinnā hitāya sukhāya saṃvattanti, no vā? kathaṃ vā ettha hotī”ti?",
+      "fr": "—Lorsqu'elles sont entreprises et accomplies, est-ce qu'elles sont à son avantage et mènent à son [sukha|bien-être], ou pas? Qu'est-ce que tu en penses?"
+    },
+    {
+      "pl": "“samattā, bhante, samādinnāhitāya sukhāya saṃvattantīti. evaṃ no ettha hotī”ti.",
+      "fr": "—Lorsqu'elles sont entreprises et accomplies, [bhante|Bhanté], elles sont à son avantage et mènent à son [sukha|bien-être]. C'est ce que j'en pense."
+    },
+    {
+      "pl": "“iti kho, bhaddiya, yaṃ taṃ avocumhā: ‘etha tumhe, bhaddiya! mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti. yadā tumhe, bhaddiya, attanāva jāneyyātha: ime dhammā kusalā, ime dhammā anavajjā, ime dhammā viññuppasatthā, ime dhammā samattā samādinnā hitāya sukhāya saṃvattantīti, atha tumhe, bhaddiya, upasampajja vihareyyāthā’ti, iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ.",
+      "fr": "—Voici, Bhaddiya, ce en rapport à quoi j'ai dit: [i]“Bhaddiya, ne te fie ni à [anussava|ce que tu as entendu], ni à la tradition, ni à ce qui est communément admis, ni à ce qui est transmis dans des textes, ni aux raisonnements, ni aux inférences, ni à la réflexion profonde, ni à l'[ditthinijjhanakhanti|acceptation d'une opinion après l'avoir méditée], ni à ce qui semble possible, ni à [la pensée:] “Ce [samana|renonçant] est notre enseignant”. Bhaddiya, ce dont tu sais par toi-même être des [dhamma|choses] [kusala|avantageuses], des [dhamma|choses] [anavajja|irréprochables], des [dhamma|choses] recommandées par les sages, des [dhamma|choses] qui, lorsqu'elles sont entreprises et accomplies, sont à ton avantage et mènent au [sukha|bien-être], tu devrais les entreprendre et vivre en accord avec elles.”[/i]"
+    },
+    {
+      "pl": "“ye kho te, bhaddiya, loke santo sappurisā te sāvakaṃ evaṃ samādapenti: ‘ehi tvaṃ, ambho purisa, lobhaṃ vineyya viharāhi. lobhaṃ vineyya viharanto na lobhajaṃ kammaṃ karissasi kāyena vācāya manasā. dosaṃ vineyya viharāhi. dosaṃ vineyya viharanto na dosajaṃ kammaṃ karissasi kāyena vācāya manasā. mohaṃ vineyya viharāhi. mohaṃ vineyya viharanto na mohajaṃ kammaṃ karissasi kāyena vācāya manasā. sārambhaṃ vineyya viharāhi. sārambhaṃ vineyya viharanto na sārambhajaṃ kammaṃ karissasi kāyena vācāya manasā’”ti.",
+      "fr": "Bhaddiya, ceux dans le monde qui sont des [sappurisa|hommes de bien] exhortent leurs [savaka|disciples] ainsi: [i]“Viens, mon cher, reste à éliminer l'[lobha|avidité]. Lorsque tu resteras à éliminer l'[lobha|avidité], tu ne réaliseras aucune action engendrée par l'[lobha|avidité], que ce soit en corps, en parole ou en esprit. Reste à éliminer l'[dosa|aversion]. Lorsque tu resteras à éliminer l'[dosa|aversion], tu ne réaliseras aucune action engendrée par l'[dosa|aversion], que ce soit en corps, en parole ou en esprit. Reste à éliminer la [moha|délusion]. Lorsque tu resteras à éliminer la [moha|délusion], tu ne réaliseras aucune action engendrée par la [moha|délusion], que ce soit en corps, en parole ou en esprit. Reste à éliminer la brutalité. Lorsque tu resteras à éliminer la brutalité, tu ne réaliseras aucune action engendrée par la brutalité, que ce soit en corps, en parole ou en esprit.”[/i]"
+    },
+    {
+      "pl": "evaṃ vutte bhaddiyo licchavi bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, Bhaddiya le Licchavi dit au Fortuné:"
+    },
+    {
+      "pl": "— “abhikkantaṃ, bhante, abhikkantaṃ, bhante! seyyathāpi bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ, bhante, bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "—C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], je vais en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie."
+    },
+    {
+      "pl": "“api nu tāhaṃ, bhaddiya, evaṃ avaca: ‘ehi me tvaṃ, bhaddiya, sāvako hohi; ahaṃ satthā bhavissāmī’”ti?",
+      "fr": "—Bhaddiya, est-ce que je t'ai dit: [i]“Viens à moi, Bhaddiya, sois mon disciple, je serai ton maître?”[/i]"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃvādiṃ kho maṃ, bhaddiya, evamakkhāyiṃ eke samaṇabrāhmaṇā asatā tucchā musā abhūtena abbhācikkhanti: ‘māyāvī samaṇo gotamo āvaṭṭaniṃ māyaṃ jānāti yāya aññatitthiyānaṃ sāvake āvaṭṭetī’”ti.",
+      "fr": "—Mais bien que je parle ainsi et que j'expose ainsi [mon enseignement], certains [samana|renonçants] & [brahmana|brahmanes] me représentent faussement avec ce qui est fallacieux, creux, mensonger et incorrect: [i]“Le renonçant Gotama est un magicien qui connaît une magie qui convertit à l'aide de laquelle il convertit les [savaka|disciples] hétérodoxes.”[/i]"
+    },
+    {
+      "pl": "“bhaddikā, bhante, āvaṭṭanī māyā. kalyāṇī, bhante, āvaṭṭanī māyā. piyā me, bhante, ñātisālohitā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, piyānampi me assa ñātisālohitānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhante, khattiyā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhante, brāhmaṇā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhante, vessā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhante, suddā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa suddānaṃ dīgharattaṃ hitāya sukhāyā”ti.",
+      "fr": "—[bhante|Bhanté], [cette] magie qui convertit est excellente. [bhante|Bhanté], [cette] magie qui convertit est bénéfique. [bhante|Bhanté], si mes proches & parents étaient convertis par cette conversion, ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les [khattiya|aristocrates] étaient convertis par cette conversion, ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les [brahmana|brahmanes] étaient convertis par cette conversion, ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les vessas étaient convertis par cette conversion, ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les souddas étaient convertis par cette conversion, ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps."
+    },
+    {
+      "pl": "“evametaṃ, bhaddiya, evametaṃ, bhaddiya! sabbe cepi, bhaddiya, khattiyā imāya āvaṭṭaniyā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhaddiya, brāhmaṇā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhaddiya, vessā imāya āvaṭṭaniyā āvaṭṭeyyuṃ, sabbesampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. sabbe cepi, bhaddiya, suddā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, sabbesampissa suddānaṃ dīgharattaṃ hitāya sukhāya.",
+      "fr": "—Il en est ainsi, Bhaddiya, il en est ainsi. Si tous les [khattiya|aristocrates] étaient convertis par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les [brahmana|brahmanes] étaient convertis par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les vessas étaient convertis par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps. Si tous les souddas étaient convertis par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps."
+    },
+    {
+      "pl": "sadevako cepi, bhaddiya, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā imāya āvaṭṭaniyā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāya. ime cepi, bhaddiya, mahāsālā imāya āvaṭṭaniyā āvaṭṭeyyuṃ akusaladhammappahānāya kusaladhammūpasampadāya, imesampissa mahāsālānaṃ dīgharattaṃ hitāya sukhāya (sace ceteyyuṃ). ko pana vādo manussabhūtassā”ti!",
+      "fr": "Si le monde avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] & [brahmana|brahmanes], [cette] génération de [deva|dévas] et d'êtres humains, était converti par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à son avantage et mènerait à son [sukha|bien-être] pour longtemps. Si ces grands arbres sals étaient convertis par cette conversion à l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], ce serait à leur avantage et mènerait à leur [sukha|bien-être] pour longtemps (s'ils pouvaient choisir). Que dire donc des êtres humains?"
+    }
+  ],
+  "translator": "Rémy"
+}
