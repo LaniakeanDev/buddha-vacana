@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.87",
+  "plTitle": "Sīlavanta Sutta",
+  "frTitle": "Vertueux",
+  "description": "Cinq caractéristiques qui rendent un aîné agréable et respecté.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. katamehi pañcahi? ",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de cinq [dhamma|caractéristiques] est cher et bien-aimé par ses compagnons dans la [brahmacariya|vie brahmique], et il est honoré et révéré. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati, ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu;",
+      "fr": "Il [@f_sila|est vertueux, il demeure restreint par la restreinte du Patimokkha, accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les règles de l'entraînement et s'y entraîne.]"
+    },
+    {
+      "pl": "bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā;",
+      "fr": "Il est [@m_bahussuta|très instruit], il garde à l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bénéfiques] au début, [kalyana|bénéfiques] au milieu et [kalyana|bénéfiques] à la fin, avec la [@m_attha|signification] et le phrasé corrects, révélant la [brahmacariya|vie brahmique] qui est entièrement complète et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus à l'esprit, récités oralement, examinés mentalement et bien intégrés dans ses [ditthi|vues]."
+    },
+    {
+      "pl": "kalyāṇavāco hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagaḷāya atthassa viññāpaniyā;",
+      "fr": "Il a une parole agréable, une conversation agréable, il est doué d'une élocution polie, distincte, articulée, qui explique la [@m_attha|signification]."
+    },
+    {
+      "pl": "catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī;",
+      "fr": "Il obtient à volonté, aisément et sans difficulté les quatre [jhana|jhanas], états d'[citta|esprit] élevés qui fournissent un séjour [sukha|agréable] [ditthadhamma|dans le monde visible]."
+    },
+    {
+      "pl": "āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+      "fr": "Avec la destruction des [asava|impuretés mentales], il entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā”ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de ces cinq [dhamma|caractéristiques] est cher et bien-aimé par ses compagnons dans la [brahmacariya|vie brahmique], et il est honoré et révéré."
+    }
+  ],
+  "translator": "Rémy"
+}

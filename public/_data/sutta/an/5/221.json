@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 5.221 & 222",
+  "plTitle": "Dīghacārika Suttāni",
+  "frTitle": "Les longs voyages",
+  "description": "Deux souttas qui conseillent aux mendiants de faire des voyages ayant une destination précise, par opposition au vagabondage sans destination particulière.",
+  "body": [
+    {
+      "pl": "221. “pañcime, bhikkhave, ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato. katame pañca? assutaṃ na suṇāti, sutaṃ na pariyodāpeti, sutenekaccena avisārado hoti, gāḷhaṃ rogātaṅkaṃ phusati, na ca mittavā hoti. ime kho, bhikkhave, pañca ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato.",
+      "fr": "221. [bhikkhu|Mendiants], il y a ces cinq [adinava|désavantages] au fait de se vouer aux longs voyages, aux voyages sans destination particulière. Quels sont ces cinq? On n'entend pas ce qu'on n'a jamais entendu auparavant, on ne clarifie pas ce qu'on a entendu, on n'est pas certain en ce qui concerne les parties qu'on a entendues, on tombe gravement malade, et on n'a pas d'amis. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] au fait de se vouer aux longs voyages, aux voyages sans destination particulière."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, ānisaṃsā samavatthacāre. katame pañca? assutaṃ suṇāti, sutaṃ pariyodāpeti, sutenekaccena visārado hoti, na gāḷhaṃ rogātaṅkaṃ phusati, mittavā ca hoti. ime kho, bhikkhave, pañca ānisaṃsā samavatthacāre”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [anisamsa|bienfaits] de voyager [de manière modérée,] avec une destination particulière. Quels sont ces cinq? On entend ce qu'on n'a jamais entendu auparavant, on clarifie ce qu'on a entendu, on est certain en ce qui concerne les parties qu'on a entendues, on ne tombe pas gravement malade, et on a des amis. Voici, [bhikkhu|mendiants], quels sont ces cinq [anisamsa|bienfaits] de voyager [de manière modérée,] avec une destination particulière."
+    },
+    {
+      "pl": "222. “pañcime, bhikkhave, ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato. katame pañca? anadhigataṃ nādhigacchati, adhigatā parihāyati, adhigatenekaccena avisārado hoti, gāḷhaṃ rogātaṅkaṃ phusati, na ca mittavā hoti. ime kho, bhikkhave, pañca ādīnavā dīghacārikaṃ anavatthacārikaṃ anuyuttassa viharato.",
+      "fr": "222. [bhikkhu|Mendiants], il y a ces cinq [adinava|désavantages] au fait de se vouer aux longs voyages, aux voyages sans destination particulière. Quels sont ces cinq? On n'atteint pas ce qu'on n'a jamais atteint auparavant, on décline en ce qu'on a atteint, on n'est pas certain en ce qui concerne les parties qu'on a atteintes, on tombe gravement malade, et on n'a pas d'amis. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] au fait de se vouer aux longs voyages, aux voyages sans destination particulière."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, ānisaṃsā samavatthacāre. katame pañca? anadhigataṃ adhigacchati, adhigatā na parihāyati, adhigatenekaccena visārado hoti, na gāḷhaṃ rogātaṅkaṃ phusati, mittavā ca hoti. ime kho, bhikkhave, pañca ānisaṃsā samavatthacāre”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [anisamsa|bienfaits] de voyager [de manière modérée,] avec une destination particulière. Quels sont ces cinq? On atteint ce qu'on n'a jamais atteint auparavant, on clarifie ce qu'on a atteint, on est certain en ce qui concerne les parties qu'on a atteintes, on ne tombe pas gravement malade, et on a des amis. Voici, [bhikkhu|mendiants], quels sont ces cinq [anisamsa|bienfaits] de voyager [de manière modérée,] avec une destination particulière."
+    }
+  ],
+  "translator": "Rémy"
+}

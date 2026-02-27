@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 5.89",
+  "plTitle": "Sekha Sutta",
+  "frTitle": "En entraînement",
+  "description": "Le Bouddha nous rappelle cinq [dhamma|choses] qui sont des obstacles directs à la pratique. Fondamental à savoir et à appliquer pour quiconque veut développer sa pratique.",
+  "body": [
+    {
+      "pl": "Pañcime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame pañca? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ na paccavekkhati: ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+      "fr": "[bhikkhu|Mendiants], ces cinq [dhamma|choses] mènent à la détérioration d'un [bhikkhu|mendiant] [sekha|en entraînement]. Quelles sont ces cinq? La complaisance dans les activités, la complaisance dans les conversations, la complaisance dans le sommeil, la complaisance dans la socialisation, et ne pas passer en revue la manière dont l'esprit est délivré. Ces cinq [dhamma|choses], [bhikkhu|mendiants], mènent à la détérioration d'un [bhikkhu|mendiant] [sekha|en entraînement]."
+    },
+    {
+      "pl": "Pañcime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti. Katame pañca? Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, yathāvimuttaṃ cittaṃ paccavekkhati. Ime kho, bhikkhave, pañca dhammā sekhassa bhikkhuno aparihānāya saṃvattantī ti.",
+      "fr": "[bhikkhu|Mendiants], ces cinq [dhamma|choses] mènent à la non-détérioration d'un [bhikkhu|mendiant] [sekha|en entraînement]. Quelles sont ces cinq?La non-complaisance dans les activités, la non-complaisance dans les conversations, la non-complaisance dans le sommeil, la non-complaisance dans la socialisation, et passer en revue la manière dont l'esprit est délivré. Ces cinq [dhamma|choses], [bhikkhu|mendiants], mènent à la non-détérioration d'un [bhikkhu|mendiant] [sekha|en entraînement]."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 5.20",
+  "plTitle": "Catutthahita Sutta",
+  "frTitle": "Quatrième soutta sur le bien",
+  "description": "Ce que signifie pratiquer pour son propre bien et pratiquer pour le bien des autres.",
+  "body": [
+    {
+      "pl": "Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu attahitāya ca paṭipanno hoti parahitāya ca. Katamehi pañcahi?",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de cinq [dhamma|qualités] pratique pour son propre bien ainsi que pour le bien des autres. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu attanā ca sīla-sampanno hoti, parañca sīla-sampadāya samādapeti; attanā ca samādhi-sampanno hoti, parañca samādhi-sampadāya samādapeti, attanā ca paññā-sampanno hoti, parañca paññā-sampadāya samādapeti; attanā ca vimutti-sampanno hoti, parañca vimutti-sampadāya samādapeti; attanā ca vimutti-ñāṇa-dassana-sampanno hoti, parañca vimutti-ñāṇa-dassana-sampadāya samādapeti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] est lui-même pourvu de [sila|vertu] et incite les autres à être pourvus de [sila|vertu;] il est lui-même pourvu de [samadhi|concentration], et incite les autres à être pourvus de [samadhi|concentration;] il est lui-même pourvu de [panna|discernement], et incite les autres à être pourvus de [panna|discernement;] il est lui-même pourvu de [vimutti|libération], et incite les autres à être pourvus de [vimutti|libération;] il est lui-même pourvu de [nanadassana|connaissance & vision] de la [vimutti|libération], et incite les autres à être pourvus de [nanadassana|connaissance & vision] de la [vimutti|libération]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu attahitāya ca paṭipanno hoti parahitāya cā ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces cinq [dhamma|qualités] pratique pour son propre bien ainsi que pour le bien des autres."
+    }
+  ],
+  "translator": "Rémy"
+}

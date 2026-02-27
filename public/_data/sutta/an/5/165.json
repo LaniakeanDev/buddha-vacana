@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "AN 5.165",
+  "plTitle": "Pañhapucchā Sutta",
+  "frTitle": "Poser une question",
+  "description": "Le vénérable Saripoutta éclaircit les cinq motivations possibles sur la base desquelles une personne pose une question.",
+  "body": [
+    {
+      "pl": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "Āvuso bhikkhave ti.", "fr": "— Amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "Āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. Āyasmā sāriputto etadavoca:",
+      "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Saripoutta dit alors:"
+    },
+    {
+      "pl": "Yo hi koci, āvuso, paraṃ pañhaṃ pucchati, sabbo so pañcahi ṭhānehi, etesaṃ vā aññatarena. Katamehi pañcahi? Mandattā momūhattā paraṃ pañhaṃ pucchati; pāpiccho icchāpakato paraṃ pañhaṃ pucchati; paribhavaṃ paraṃ pañhaṃ pucchati; aññātukāmo paraṃ pañhaṃ pucchati; atha vā panevaṃcitto paraṃ pañhaṃ pucchati: ‘sace me pañhaṃ puṭṭho sammadeva byākarissati iccetaṃ kusalaṃ, no ce me pañhaṃ puṭṭho sammadeva byākarissati ahamassa sammadeva byākarissāmī’ti. Yo hi koci, āvuso, paraṃ pañhaṃ pucchati, sabbo so imehi pañcahi ṭhānehi, etesaṃ vā aññatarena.",
+      "fr": "— Amis, quiconque pose une question à un autre le fait pour l'une ou l'autre de cinq raisons. Quelles sont ces cinq? Il pose une question à un autre par stupidité, par sottise; il pose une question à un autre par désir [papa|mauvais], mû par le désir; il pose une question à un autre par mépris; il pose une question à un autre par désir de connaissance; ou bien il pose une question à un autre dans l'[citta|esprit] suivant: [i]“Si, après que je lui pose la question, il répond correctement, c'est [kusala|avantageux], et si, après que je lui pose la question, il ne répond pas correctement, je répondrai correctement.”[/i] Amis, quiconque pose une question à un autre le fait pour l'une ou l'autre de ces cinq raisons."
+    },
+    {
+      "pl": "Ahaṃ kho panāvuso, evaṃcitto paraṃ pañhaṃ pucchāmi: ‘sace me pañhaṃ puṭṭho sammadeva byākarissati iccetaṃ kusalaṃ, no ce me pañhaṃ puṭṭho sammadeva byākarissati, ahamassa sammadeva byākarissāmī ti.",
+      "fr": "Et en ce qui me concerne, amis, lorsque je pose une question à un autre, c'est dans l'[citta|esprit] suivant: [i]“Si, après que je lui pose la question, il répond correctement, c'est [kusala|avantageux], et si, après que je lui pose la question, il ne répond pas correctement, je répondrai correctement.”[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

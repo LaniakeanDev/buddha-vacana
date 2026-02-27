@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 5.125 & 126",
+  "plTitle": "Anāyussā Suttāni",
+  "frTitle": "Ce qui réduit la longévité",
+  "description": "Voici les bonnes et mauvaises habitudes qui réduisent ou augmentent la longévité.",
+  "body": [
+    {
+      "pl": "125.“pañcime, bhikkhave, dhammā anāyussā. katame pañca? asappāyakārī hoti, sappāye mattaṃ na jānāti, apariṇatabhojī ca hoti, akālacārī ca hoti, abrahmacārī ca. ime kho, bhikkhave, pañca dhammā anāyussā.",
+      "fr": "125.[bhikkhu|Mendiants], ces cinq [dhamma|choses] réduisent la longévité. Quelles sont ces cinq? Faire ce qui est nuisible, ne pas savoir se modérer dans ce qui est bénéfique, se nourrir de ce qui est inapproprié, sortir au mauvais moment, et le [arbrahmacariya|non-célibat]. Ces cinq [dhamma|choses], [bhikkhu|mendiants], réduisent la longévité."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, dhammā āyussā. katame pañca? sappāyakārī hoti, sappāye mattaṃ jānāti, pariṇatabhojī ca hoti, kālacārī ca hoti, brahmacārī ca. ime kho, bhikkhave, pañca dhammā āyussā”ti.",
+      "fr": "[bhikkhu|Mendiants], ces cinq [dhamma|choses] augmentent la longévité. Quelles sont ces cinq? Faire ce qui est bénéfique, savoir se modérer dans ce qui est bénéfique, se nourrir de ce qui est approprié, sortir au bon moment, et le [brahmacariya|célibat]. Ces cinq [dhamma|choses], [bhikkhu|mendiants], augmentent la longévité."
+    },
+    {
+      "pl": "126.“pañcime, bhikkhave, dhammā anāyussā. katame pañca? asappāyakārī hoti, sappāye mattaṃ na jānāti, apariṇatabhojī ca hoti, dussīlo ca, pāpamitto ca. ime kho, bhikkhave, pañca dhammā anāyussā.",
+      "fr": "126.[bhikkhu|Mendiants], ces cinq [dhamma|choses] réduisent la longévité. Quelles sont ces cinq? Faire ce qui est nuisible, ne pas savoir se modérer dans ce qui est bénéfique, se nourrir de ce qui est inapproprié, manquer de [sila|vertu], et avoir des amis malsains. Ces cinq [dhamma|choses], [bhikkhu|mendiants], réduisent la longévité."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, dhammā āyussā. katame pañca? sappāyakārī hoti, sappāye mattaṃ jānāti, pariṇatabhojī ca hoti, sīlavā ca, kalyāṇamitto ca. ime kho, bhikkhave, pañca dhammā āyussā”ti.",
+      "fr": "[bhikkhu|Mendiants], ces cinq [dhamma|choses] augmentent la longévité. Quelles sont ces cinq? Faire ce qui est bénéfique, savoir se modérer dans ce qui est bénéfique, se nourrir de ce qui est approprié, être [sila|vertueux], et avoir des [kalyanamittata|amis bénéfiques]. Ces cinq [dhamma|choses], [bhikkhu|mendiants], augmentent la longévité."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.141",
+  "plTitle": "Avajānāti Sutta",
+  "frTitle": "Le mépris",
+  "description": "Voici cinq comportements que chacun devrait s'assurer de ne pas adopter.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame pañca? datvā avajānāti, saṃvāsena avajānāti, ādheyyamukho hoti, lolo hoti, mando momūho hoti.",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces cinq [types d']individus. Quels sont ces cinq? Celui qui, ayant donné, méprise, celui qui, ayant cohabité [avec un autre, le] méprise, celui qui est crédule face aux rumeurs, celui qui est versatile, et celui qui idiot et stupide."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo datvā avajānāti? idha, bhikkhave, puggalo puggalassa deti cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhāraṃ. tassa evaṃ hoti: ‘ahaṃ demi; ayaṃ paṭiggaṇhātī’ti. tamenaṃ datvā avajānāti. evaṃ kho, bhikkhave, puggalo datvā avajānāti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu, ayant donné, méprise-t-il? À cet égard, [bhikkhu|mendiants], un individu donne des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] & provisions pour les malades à un [autre] individu. Il se dit: [i]“Je donne, il reçoit.”[/i] Lui ayant donné, il [le] méprise. Voici, [bhikkhu|mendiants], comment un individu, ayant donné, méprise."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo saṃvāsena avajānāti? idha, bhikkhave, puggalo puggalena saddhiṃ saṃvasati dve vā tīṇi vā vassāni. tamenaṃ saṃvāsena avajānāti. evaṃ kho, bhikkhave, puggalo saṃvāsena avajānāti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu, ayant cohabité [avec un autre, le] méprise-t-il? À cet égard, [bhikkhu|mendiants], un individu cohabite avec un [autre] individu pendant deux ou trois ans. Parce qu'il a cohabité avec lui, il le méprise. Voici, [bhikkhu|mendiants], comment un individu, ayant cohabité [avec un autre, le] méprise."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo ādheyyamukho hoti? idha, bhikkhave, ekacco puggalo parassa vaṇṇe vā avaṇṇe vā bhāsiyamāne taṃ khippaññeva adhimuccitā hoti. evaṃ kho, bhikkhave, puggalo ādheyyamukho hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu est-il crédule face aux rumeurs? À cet égard, [bhikkhu|mendiants], lorsque l'éloge ou la critique d'un autre est faite, il y croit aussitôt. Voici, [bhikkhu|mendiants], comment un individu est crédule face aux rumeurs."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo lolo hoti? idha, bhikkhave, ekacco puggalo ittarasaddho hoti ittarabhattī ittarapemo ittarappasādo. evaṃ kho, bhikkhave, puggalo lolo hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu est-il versatile? À cet égard, [bhikkhu|mendiants], un certain individu a une [saddha|conviction] faible, il a une dévotion faible, il a une affection faible, il a une confiance faible. Voici, [bhikkhu|mendiants], comment un individu est versatile."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo mando momūho hoti? idha, bhikkhave, ekacco puggalo kusalākusale dhamme na jānāti, sāvajjānavajje dhamme na jānāti, hīnappaṇīte dhamme na jānāti, kaṇhasukkasappaṭibhāge dhamme na jānāti. evaṃ kho, bhikkhave, puggalo mando momūho hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un individu est-il idiot et stupide? À cet égard, [bhikkhu|mendiants], un certain individu ne connaît pas les[dhamma|états mentaux] qui sont [kusala|avantageux] ou [akusala|désavantageux], les [dhamma|états mentaux] condamnables ou irréprochables, les [dhamma|états mentaux] inférieurs ou élevés, etles [dhamma|états mentaux] sombres et lumineux avec leurs contreparties. Voici, [bhikkhu|mendiants], comment un individu est idiot et stupide."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq [types d']individus que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "translator": "Rémy"
+}

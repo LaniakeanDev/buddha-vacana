@@ -1,0 +1,73 @@
+﻿{
+  "identifier": "AN 5.88",
+  "plTitle": "Thera Sutta",
+  "frTitle": "Un aîné",
+  "description": "Ce soutta nous invite à être très circonspects dans le crédit que nous pouvons accorder à un enseignant moine bouddhiste sur la base de sa réputation ou de l'étendue de son savoir sur le Dhamma.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu bahujanāhitāya paṭipanno hoti bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. katamehi pañcahi?",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de cinq [dhamma|caractéristiques] œuvre au détriment de beaucoup de gens, pour le malheur de beaucoup de gens, pour le préjudice, le détriment et le [dukkha|mal-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "“thero hoti rattaññū cirapabbajito;",
+      "fr": "C'est un aîné de longue date qui a [pabbajja|quitté le foyer] depuis longtemps."
+    },
+    {
+      "pl": "ñāto hoti yasassī sagahaṭṭhapabbajitānaṃ bahujanaparivāro;",
+      "fr": "Il est renommé et réputé, il a un grand nombre d'adeptes, aussi bien des laïcs que des [pabbajja|sans-foyer]."
+    },
+    {
+      "pl": "lābhī hoti cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ;",
+      "fr": "Il obtient [beaucoup] de [civara|robes], de [pindapata|nourriture d'aumônes], de [senasana|gîtes], de [bhesajja|remèdes] & provisions pour les malades."
+    },
+    {
+      "pl": "bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā appaṭividdhā;",
+      "fr": "Il est [@m_bahussuta|très instruit], il garde à l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bénéfiques] au début, [kalyana|bénéfiques] au milieu et [kalyana|bénéfiques] à la fin, avec la signification et le phrasé corrects, révélant la [brahmacariya|vie brahmique] qui est entièrement complète et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus à l'esprit, récités oralement, examinés mentalement et bien intégrés dans ses [ditthi|vues]."
+    },
+    {
+      "pl": "micchādiṭṭhiko hoti viparītadassano.",
+      "fr": "Il a des [micchaditthi|vues erronées], il a une vision faussée."
+    },
+    {
+      "pl": "so bahujanaṃ saddhammā vuṭṭhāpetvā asaddhamme patiṭṭhāpeti. thero bhikkhu rattaññū cirapabbajito itipissa diṭṭhānugatiṃ āpajjanti, ñāto thero bhikkhu yasassī sagahaṭṭhapabbajitānaṃ bahujanaparivāro itipissa diṭṭhānugatiṃ āpajjanti, lābhī thero bhikkhu cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ itipissa diṭṭhānugatiṃ āpajjanti, bahussuto thero bhikkhu sutadharo sutasannicayo itipissa diṭṭhānugatiṃ āpajjanti.",
+      "fr": "Il détourne beaucoup de gens du [saddhamma|Dhamma authentique] et les installe dans des enseignements erronés. Ils suivent son exemple [en se disant]: [i]“C'est un mendiant aîné de longue date qui a [pabbajja|quitté le foyer] depuis longtemps.”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant renommé et réputé, ayant un grand nombre d'adeptes, aussi bien des laïcs que des [pabbajja|sans-foyer].”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant qui obtient [beaucoup] de [civara|robes], de [pindapata|nourriture d'aumônes], de [senasana|gîtes], de [bhesajja|remèdes] & provisions pour les malades.”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant qui est [@m_bahussuta|très instruit], qui garde à l'esprit ce qu'il a entendu, qui accumule ce qu'il a entendu.”[/i]"
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu bahujanāhitāya paṭipanno hoti bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de ces cinq [dhamma|caractéristiques] œuvre au détriment de beaucoup de gens, pour le malheur de beaucoup de gens, pour le préjudice, le détriment et le [dukkha|mal-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]."
+    },
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato thero bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. katamehi pañcahi?",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de cinq [dhamma|caractéristiques] œuvre au bénéfice de beaucoup de gens, pour le [sukha|bonheur] de beaucoup de gens, pour le bienfait, le bénéfice et le [sukha|bien-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "“thero hoti rattaññū cirapabbajito;",
+      "fr": "C'est un aîné de longue date qui a [pabbajja|quitté le foyer] depuis longtemps."
+    },
+    {
+      "pl": "ñāto hoti yasassī sagahaṭṭhapabbajitānaṃ bahujanaparivāro;",
+      "fr": "Il est renommé et réputé, il a un grand nombre d'adeptes, aussi bien des laïcs que des [pabbajja|sans-foyer]."
+    },
+    {
+      "pl": "lābhī hoti cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ;",
+      "fr": "Il obtient [beaucoup] de [civara|robes], de [pindapata|nourriture d'aumônes], de [senasana|gîtes], de [bhesajja|remèdes] & provisions pour les malades."
+    },
+    {
+      "pl": "bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā appaṭividdhā;",
+      "fr": "Il est [@m_bahussuta|très instruit], il garde à l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bénéfiques] au début, [kalyana|bénéfiques] au milieu et [kalyana|bénéfiques] à la fin, avec la signification et le phrasé corrects, révélant la [brahmacariya|vie brahmique] qui est entièrement complète et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus à l'esprit, récités oralement, examinés mentalement et bien intégrés dans ses [ditthi|vues]."
+    },
+    {
+      "pl": "sammādiṭṭhiko hoti aviparītadassano.",
+      "fr": "Il a des [sammaditthi|vues correctes], il a une vision non faussée."
+    },
+    {
+      "pl": "so bahujanaṃ asaddhammā vuṭṭhāpetvā saddhamme patiṭṭhāpeti. thero bhikkhu rattaññū cirapabbajito itipissa diṭṭhānugatiṃ āpajjanti, ñāto thero bhikkhu yasassī sagahaṭṭhapabbajitānaṃ bahujanaparivāro itipissa diṭṭhānugatiṃ āpajjanti, lābhī thero bhikkhu cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ itipissa diṭṭhānugatiṃ āpajjanti, bahussuto thero bhikkhu sutadharo sutasannicayo itipissa diṭṭhānugatiṃ āpajjanti.",
+      "fr": "Il détourne beaucoup de gens d'enseignements erronés et les installe dans le [saddhamma|Dhamma authentique]. Ils suivent son exemple [en se disant]: [i]“C'est un mendiant aîné de longue date qui a [pabbajja|quitté le foyer] depuis longtemps.”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant renommé et réputé, ayant un grand nombre d'adeptes, aussi bien des laïcs que des [pabbajja|sans-foyer].”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant qui obtient [beaucoup] de [civara|robes], de [pindapata|nourriture d'aumônes], de [senasana|gîtes], de [bhesajja|remèdes] & provisions pour les malades.”[/i] Ils suivent son exemple [en se disant]: [i]“C'est un mendiant qui est [@m_bahussuta|très instruit], qui garde à l'esprit ce qu'il a entendu, qui accumule ce qu'il a entendu.”[/i]"
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato thero bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya bahuno janassa atthāya hitāya sukhāya devamanussānan”ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] aîné qui est pourvu de ces cinq [dhamma|caractéristiques] œuvre au bénéfice de beaucoup de gens, pour le [sukha|bonheur] de beaucoup de gens, pour le bienfait, le bénéfice et le [sukha|bien-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 5.223 & 224",
+  "plTitle": "Atinivāsa & Maccharī Suttāni",
+  "frTitle": "Les longs voyages",
+  "description": "À l'inverse des précédents, ces deux souttas conseillent aux mendiants de ne pas résider trop longtemps au même endroit.",
+  "body": [
+    {
+      "pl": "223. “pañcime, bhikkhave, ādīnavā atinivāse. katame pañca? bahubhaṇḍo hoti bahubhaṇḍasannicayo, bahubhesajjo hoti bahubhesajjasannicayo, bahukicco hoti bahukaraṇīyo byatto kiṃkaraṇīyesu, saṃsaṭṭho viharati gahaṭṭhapabbajitehi ananulomikena gihisaṃsaggena, tamhā ca āvāsā pakkamanto sāpekkho pakkamati. ime kho, bhikkhave, pañca ādīnavā atinivāse.",
+      "fr": "223. [bhikkhu|Mendiants], il y a ces cinq [adinava|désavantages] au fait de résider trop longtemps [au même endroit]. Quels sont ces cinq? On en vient à posséder et accumuler beaucoup d'objets, on en vient à posséder et accumuler beaucoup de [bhesajja|remèdes médicinaux], on en vient à avoir beaucoup de responsabilités, beaucoup à faire, étant rompu aux tâches à réaliser, on prend l'habitude de s'associer aux gens de foyer & renonçants de manière inappropriée comme le font les gens de foyer, et lorsque l'on quitte cette résidence, on le fait avec nostalgie. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] au fait de résider trop longtemps [au même endroit]."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, ānisaṃsā samavatthavāse. katame pañca? na bahubhaṇḍo hoti na bahubhaṇḍasannicayo, na bahubhesajjo hoti na bahubhesajjasannicayo, na bahukicco hoti na bahukaraṇīyo na byatto kiṃkaraṇīyesu, asaṃsaṭṭho viharati gahaṭṭhapabbajitehi ananulomikena gihisaṃsaggena, tamhā ca āvāsā pakkamanto anapekkho pakkamati. ime kho, bhikkhave, pañca ānisaṃsā samavatthavāse”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [anisamsa|bienfaits] du fait de résider [au même endroit] pendant un temps modéré. Quels sont ces cinq? On n'en vient pas à posséder et accumuler beaucoup d'objets, on n'en vient pas à posséder et accumuler beaucoup de [bhesajja|remèdes médicinaux], on n'en vient pas à avoir beaucoup de responsabilités, beaucoup à faire, n'étant pas rompu aux tâches à réaliser, on ne prend pas l'habitude de s'associer aux gens de foyer & renonçants de manière inappropriée comme le font les gens de foyer, et lorsque l'on quitte cette résidence, on le fait sans nostalgie. Voici, [bhikkhu|mendiants], quels sont ces cinq [anisamsa|bienfaits] du fait de résider [au même endroit] pendant un temps modéré."
+    },
+    {
+      "pl": "224. “pañcime, bhikkhave, ādīnavā atinivāse. katame pañca? āvāsamaccharī hoti, kulamaccharī hoti, lābhamaccharī hoti, vaṇṇamaccharī hoti, dhammamaccharī hoti. ime kho, bhikkhave, pañca ādīnavā atinivāse.",
+      "fr": "224. [bhikkhu|Mendiants], il y a ces cinq [adinava|désavantages] au fait de résider trop longtemps [au même endroit]. Quels sont ces cinq? On devient avare en termes de lieux de résidence, avare en termes de familles, avare en termes d'acquisitions, avare en termes d'éloges et avare par rapport [à la connaissance du] [dhamma|Dhamma]. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] au fait de résider trop longtemps [au même endroit]."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, ānisaṃsā samavatthavāse. katame pañca? na āvāsamaccharī hoti, na kulamaccharī hoti, na lābhamaccharī hoti, na vaṇṇamaccharī hoti, na dhammamaccharī hoti. ime kho, bhikkhave, pañca ānisaṃsā samavatthavāse”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [anisamsa|bienfaits] du fait de résider [au même endroit] pendant un temps modéré. On ne devient pas avare en termes de lieux de résidence, ni avare en termes de familles, ni avare en termes d'acquisitions, ni avare en termes d'éloges, ni avare par rapport [à la connaissance du] [dhamma|Dhamma]. Voici, [bhikkhu|mendiants], quels sont ces cinq [anisamsa|bienfaits] du fait de résider [au même endroit] pendant un temps modéré."
+    }
+  ],
+  "translator": "Rémy"
+}

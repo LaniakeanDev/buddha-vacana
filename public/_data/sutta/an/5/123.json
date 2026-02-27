@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 5.123",
+  "plTitle": "Upaṭṭhāka Sutta",
+  "frTitle": "À soigner",
+  "description": "Des caractéristiques d'un malade qui le rendent facile ou difficile à soigner.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato gilāno dūpaṭṭhāko hoti. katamehi pañcahi? asappāyakārī hoti, sappāye mattaṃ na jānāti, bhesajjaṃ nappaṭisevitā hoti, atthakāmassa gilānupaṭṭhākassa na yathābhūtaṃ ābādhaṃ āvikattā hoti abhikkamantaṃ vā abhikkamatīti paṭikkamantaṃ vā paṭikkamatīti ṭhitaṃ vā ṭhitoti, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ anadhivāsakajātiko hoti. imehi kho, bhikkhave, pañcahi dhammehi samannāgato gilāno dūpaṭṭhāko hoti.",
+      "fr": "[bhikkhu|Mendiants], un malade pourvu de cinq [dhamma|caractéristiques] est difficile à soigner. Quelles sont ces cinq? Il fait ce qui lui est nuisible; il ne sait pas se modérer par rapport à ce qui lui est bénéfique; il ne prend pas son remède; il n'explique pas clairement sa maladie, [yathabhutam|telle qu'elle est réellement], à son soignant bien intentionné [en disant] qu'elle s'aggrave lorsqu'elle s'aggrave, qu'elle s'améliore lorsqu'elle s'améliore, ou qu'elle se maintient lorsqu'elle se maintient; et il n'endure pas les [vedana|ressentis] corporels apparus qui sont [dukkha|douloureux], incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie. [bhikkhu|Mendiants], un malade pourvu de ces cinq [dhamma|caractéristiques] est difficile à soigner."
+    },
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato gilāno sūpaṭṭhāko hoti. katamehi pañcahi? sappāyakārī hoti, sappāye mattaṃ jānāti, bhesajjaṃ paṭisevitā hoti, atthakāmassa gilānupaṭṭhākassa yathābhūtaṃ ābādhaṃ āvikattā hoti abhikkamantaṃ vā abhikkamatīti paṭikkamantaṃ vā paṭikkamatīti ṭhitaṃ vā ṭhitoti, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsakajātiko hoti. imehi kho, bhikkhave, pañcahi dhammehi samannāgato gilāno sūpaṭṭhāko hotī”ti.",
+      "fr": "[bhikkhu|Mendiants], un malade pourvu de cinq [dhamma|caractéristiques] est facile à soigner. Quelles sont ces cinq? Il fait ce qui lui est bénéfique; il sait se modérer par rapport à ce qui lui est bénéfique; il prend son remède; il explique clairement sa maladie, [yathabhutam|telle qu'elle est réellement], à son soignant bien intentionné [en disant] qu'elle s'aggrave lorsqu'elle s'aggrave, qu'elle s'améliore lorsqu'elle s'améliore, ou qu'elle se maintient lorsqu'elle se maintient; et il endure les [vedana|ressentis] corporels apparus qui sont [dukkha|douloureux], incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie. [bhikkhu|Mendiants], un malade pourvu de ces cinq [dhamma|caractéristiques] est facile à soigner."
+    }
+  ],
+  "translator": "Rémy"
+}

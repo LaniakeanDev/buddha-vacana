@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.105",
+  "plTitle": "Phāsuvihāra Sutta",
+  "frTitle": "Manières de séjourner confortablement",
+  "description": "Quelques recettes pour séjourner confortablement, autrement dit vivre heureux.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, phāsuvihārā. katame pañca? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [manières de] séjourner confortablement. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] cultive en public comme en privé des [kamma|actes] corporels [metta|bienveillants] envers ses compagnons dans la [brahmacariya|vie brahmique]."
+    },
+    {
+      "pl": "mettaṃ vacīkammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+      "fr": "Il cultive en public comme en privé des [kamma|actes] verbaux [metta|bienveillants] envers ses compagnons dans la [brahmacariya|vie brahmique]."
+    },
+    {
+      "pl": "mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca.",
+      "fr": "Il cultive en public comme en privé des [kamma|actes] mentaux [metta|bienveillants] envers ses compagnons dans la [brahmacariya|vie brahmique]."
+    },
+    {
+      "pl": "yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni, tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+      "fr": "Il demeure avec ses compagnons dans la [brahmacariya|vie brahmique], en public comme en privé, [@f_anussati#anussati-4|pourvu de vertus qui sont sans rupture, sans faille, sans tache, sans défaut, libératrices, louées par les sages, sans fanatisme, menant à la concentration]."
+    },
+    {
+      "pl": "yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya, tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca.",
+      "fr": "Il demeure avec ses compagnons dans la [brahmacariya|vie brahmique], en public comme en privé, doué de [ditthi|vues] qui sont [ariya|nobles], libératrices, qui mènent celui qui les possède vers la destruction correcte du [dukkha|mal-être]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca phāsuvihārā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq [manières de] séjourner confortablement."
+    }
+  ],
+  "translator": "Rémy"
+}

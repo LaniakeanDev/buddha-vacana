@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.27",
+  "plTitle": "Samādhi Sutta",
+  "frTitle": "La concentration",
+  "description": "Cinq connaissances qui apparaissent à celui qui pratique la concentration illimitée.",
+  "body": [
+    {
+      "pl": "“samādhiṃ, bhikkhave, bhāvetha appamāṇaṃ nipakā patissatā. samādhiṃ, bhikkhave, bhāvayataṃ appamāṇaṃ nipakānaṃ patissatānaṃ pañca ñāṇāni paccattaññeva uppajjanti. katamāni pañca?",
+      "fr": "[bhikkhu|Mendiants], cultivez la [samadhi|concentration] illimitée en étant alertes et constamment [sato|présents d'esprit]. Lorsque vous cultivez la [samadhi|concentration] illimitée en étant alertes et constamment [sato|présents d'esprit], cinq [nana|connaissances] personnelles vous apparaissent. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "‘ayaṃ samādhi paccuppannasukho ceva āyatiñca sukhavipāko’ti paccattaññeva ñāṇaṃ uppajjati;",
+      "fr": "La [nana|connaissance] personnelle vous apparaît: [i]“Cette [samadhi|concentration] est [sukha|agréable] dans le présent et a un [vipaka|résultat] [sukha|agréable] dans le futur”[/i];"
+    },
+    {
+      "pl": "‘ayaṃ samādhi ariyo nirāmiso’ti paccattaññeva ñāṇaṃ uppajjati;",
+      "fr": "La [nana|connaissance] personnelle vous apparaît: [i]“Cette [samadhi|concentration] est [ariya|noble] et [niramisa|détachée de la chair]”[/i];"
+    },
+    {
+      "pl": "‘ayaṃ samādhi akāpurisasevito’ti paccattaññeva ñāṇaṃ uppajjati;",
+      "fr": "La [nana|connaissance] personnelle vous apparaît: [i]“Cette [samadhi|concentration] n'est pas pratiquée par les hommes vils”[/i];"
+    },
+    {
+      "pl": "‘ayaṃ samādhi santo paṇīto paṭippassaddhaladdho ekodibhāvādhigato, na saṅkhāraniggayhavāritagato’ti paccattaññeva ñāṇaṃ uppajjati;",
+      "fr": "La [nana|connaissance] personnelle vous apparaît: [i]“Cette [samadhi|concentration] est paisible, sublime, elle est obtenue par celui qui est complètement calme, par celui qui a atteint l'unification interne, elle n'est pas encombrée d'un [sankhara|effort volontaire] de restreinte”[/i];"
+    },
+    {
+      "pl": "‘sato kho panāhaṃ imaṃ samāpajjāmi sato vuṭṭhahāmī’ti paccattaññeva ñāṇaṃ uppajjati.",
+      "fr": "La [nana|connaissance] personnelle vous apparaît: [i]“J'atteins cela en étant [sato|présent d'esprit] et j'en émerge en étant [sato|présent d'esprit]'.[/i]"
+    },
+    {
+      "pl": "“samādhiṃ, bhikkhave, bhāvetha appamāṇaṃ nipakā patissatā. samādhiṃ, bhikkhave, bhāvayataṃ appamāṇaṃ nipakānaṃ patissatānaṃ imāni pañca ñāṇāni paccattaññeva uppajjantī”ti.",
+      "fr": "[bhikkhu|Mendiants], cultivez la [samadhi|concentration] illimitée en étant alertes et constamment [sato|présents d'esprit]. Lorsque vous cultivez la [samadhi|concentration] illimitée en étant alertes et constamment [sato|présents d'esprit], ces cinq [nana|connaissances] personnelles vous apparaissent."
+    }
+  ],
+  "translator": "Rémy"
+}

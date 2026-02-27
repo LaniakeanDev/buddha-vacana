@@ -1,0 +1,39 @@
+﻿{
+  "identifier": "AN 5.51",
+  "plTitle": "Āvaraṇa Sutta",
+  "frTitle": "Les obstacles",
+  "description": "Une allégorie qui illustre comment les cinq obstructions empêchent l'esprit d'obtenir la puissance de ses capacités.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhadante|Bhadanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“pañcime, bhikkhave, āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā. katame pañca? kāmacchando, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo. byāpādo, bhikkhave, āvaraṇo nīvaraṇo cetaso ajjhāruho paññāya dubbalīkaraṇo. thinamiddhaṃ, bhikkhave, āvaraṇaṃ nīvaraṇaṃ cetaso ajjhāruhaṃ paññāya dubbalīkaraṇaṃ. uddhaccakukkuccaṃ, bhikkhave, āvaraṇaṃ nīvaraṇaṃ cetaso ajjhāruhaṃ paññāya dubbalīkaraṇaṃ. vicikicchā, bhikkhave, āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā. ime kho, bhikkhave, pañca āvaraṇā nīvaraṇā cetaso ajjhāruhā paññāya dubbalīkaraṇā.",
+      "fr": "Mendiants, il y a ces cinq [choses] qui sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement]. Quelles sont ces cinq? Le [kamacchanda|désir sensuel], [bhikkhu|mendiants], est un obstacle, une [nivarana|obstruction], un encombrant de l'[citta|esprit] qui affaiblit le [panna|discernement]. La [byapada|malveillance], [bhikkhu|mendiants], est un obstacle, une [nivarana|obstruction], un encombrant de l'[citta|esprit] qui affaiblit le [panna|discernement]. La [thinamiddha|torpeur & somnolence], [bhikkhu|mendiants], est un obstacle, une [nivarana|obstruction], un encombrant de l'[citta|esprit] qui affaiblit le [panna|discernement]. L'[uk|agitation mentale & préoccupation], [bhikkhu|mendiants], est un obstacle, une [nivarana|obstruction], un encombrant de l'[citta|esprit] qui affaiblit le [panna|discernement]. Le [vicikiccha|doute], [bhikkhu|mendiants], est un obstacle, une [nivarana|obstruction], un encombrant de l'[citta|esprit] qui affaiblit le [panna|discernement]. Mendiants, ces cinq [choses] sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement]."
+    },
+    {
+      "pl": "“so vata, bhikkhave, bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe appahāya, abalāya paññāya dubbalāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alam-ariya-ñāṇa-dassana-visesaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati.",
+      "fr": "Mendiants, il est impossible qu'un mendiant, sans avoir abandonné ces cinq [choses] qui sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement], ayant un [panna|discernement] faible et sans force, puisse savoir ce qui lui est bénéfique, ce qui est bénéfique aux autres, ce qui est bénéfique aux deux, ou réaliser un état surhumain, une distinction en [nanadassana|connaissance & vision] digne des [ariya|êtres nobles]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, nadī pabbateyyā dūraṅgamā sīghasotā hārahārinī. tassā puriso ubhato naṅgalamukhāni vivareyya. evañhi so, bhikkhave, majjhe nadiyā soto vikkhitto visaṭo byādiṇṇo neva dūraṅgamo assa na sīghasoto na hārahārī. evamevaṃ kho, bhikkhave, so vata bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe appahāya, abalāya paññāya dubbalāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alam-ariya-ñāṇa-dassana-visesaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati.",
+      "fr": "Tout comme, [bhikkhu|mendiants], s'il y avait un torrent de montagne à fort courant, s'écoulant sur une longue distance, transportant de nombreuses choses, et qu'une personne ouvrait des canaux d'irrigation des deux côtés: de cette manière, le courant au milieu du torrent serait perturbé, dispersé et divisé, et celle-ci ne s'écoulerait plus sur une longue distance, ne serait plus à fort courant, et ne transporterait plus de nombreuses choses. De la même manière, [bhikkhu|mendiants], il est impossible qu'un mendiant, sans avoir abandonné ces cinq [choses] qui sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement], ayant un [panna|discernement] faible et sans force, puisse savoir ce qui lui est bénéfique, ce qui est bénéfique aux autres, ce qui est bénéfique aux deux, ou réaliser un état surhumain, une distinction en [nanadassana|connaissance & vision] digne des [ariya|êtres nobles]."
+    },
+    {
+      "pl": "“so vata, bhikkhave, bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe pahāya, balavatiyā paññāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alam-ariya-ñāṇa-dassana-visesaṃ sacchikarissatīti ṭhānametaṃ vijjati.",
+      "fr": "Mendiants, il est possible qu'un mendiant, ayant abandonné ces cinq [choses] qui sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement], ayant un [panna|discernement] puissant, puisse savoir ce qui lui est bénéfique, ce qui est bénéfique aux autres, ce qui est bénéfique aux deux, et réaliser un état surhumain, une distinction en [nanadassana|connaissance & vision] digne des [ariya|êtres nobles]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, nadī pabbateyyā dūraṅgamā sīghasotā hārahārinī. tassā puriso ubhato naṅgalamukhāni pidaheyya. evañhi so, bhikkhave, majjhe nadiyā soto avikkhitto avisaṭo abyādiṇṇo dūraṅgamo ceva assa sīghasoto ca hārahārī ca. evamevaṃ kho, bhikkhave, so vata bhikkhu ime pañca āvaraṇe nīvaraṇe cetaso ajjhāruhe paññāya dubbalīkaraṇe pahāya, balavatiyā paññāya attatthaṃ vā ñassati paratthaṃ vā ñassati ubhayatthaṃ vā ñassati uttari vā manussadhammā alam-ariya-ñāṇa-dassana-visesaṃ sacchikarissatīti ṭhānametaṃ vijjatī”ti.",
+      "fr": "Tout comme, [bhikkhu|mendiants], s'il y avait un torrent de montagne à fort courant, s'écoulant sur une longue distance, transportant de nombreuses choses, et qu'une personne fermait des canaux d'irrigation des deux côtés: de cette manière, le courant au milieu du torrent serait centralisé, concentré et condensé, et celle-ci s'écoulerait sur une longue distance, serait à fort courant, et transporterait de nombreuses choses. De la même manière, [bhikkhu|mendiants], il est possible qu'un mendiant, ayant abandonné ces cinq [choses] qui sont des obstacles, des [nivarana|obstruction]s, des encombrants de l'[citta|esprit] qui affaiblissent le [panna|discernement], ayant un [panna|discernement] puissant, puisse savoir ce qui lui est bénéfique, ce qui est bénéfique aux autres, ce qui est bénéfique aux deux, et réaliser un état surhumain, une distinction en [nanadassana|connaissance & vision] digne des [ariya|êtres nobles]."
+    }
+  ],
+  "translator": "Rémy"
+}

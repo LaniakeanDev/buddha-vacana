@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 5.128",
+  "plTitle": "Samaṇasukha Sutta",
+  "frTitle": "Le bien-être d'un renonçant",
+  "description": "Cinq caractéristiques qui font le bien-être ou le mal-être d'un renonçant.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, samaṇadukkhāni. katamāni pañca?",
+      "fr": "[bhikkhu|Mendiant]s, il y a ces cinq [dukkha|mal-être] d'un [samana|renonçant]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu asantuṭṭho hoti itarītarena cīvarena, asantuṭṭho hoti itarītarena piṇḍapātena, asantuṭṭho hoti itarītarena senāsanena, asantuṭṭho hoti itarītarena gilāna-ppaccaya-bhesajja-parikkhārena, anabhirato ca brahmacariyaṃ carati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] ne se satisfait pas de n'importe quelles [civara|robes] [il obtient], il ne se satisfait pas de n'importe quelle [pindapata|nourriture d'aumônes] [il obtient], il ne se satisfait pas n'importe quel [senasana|gîte] [il obtient], il ne se satisfait pas n'importe quels [bhesajja|remèdes] & provisions pour les malades [il obtient]; et il mène la [brahmacariya|vie brahmique] sans s'y plaire."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, pañca samaṇadukkhāni.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq [dukkha|mal-être] d'un [samana|renonçant]."
+    },
+    {
+      "pl": "“pañcimāni, bhikkhave, samaṇasukhāni. katamāni pañca?",
+      "fr": "[bhikkhu|Mendiant]s, il y a ces cinq [sukha|bien-être] d'un [samana|renonçant]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu santuṭṭho hoti itarītarena cīvarena, santuṭṭho hoti itarītarena piṇḍapātena, santuṭṭho hoti itarītarena senāsanena, santuṭṭho hoti itarītarena gilāna-ppaccaya-bhesajja-parikkhārena, abhirato ca brahmacariyaṃ carati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] se satisfait n'importe quelles [civara|robes] [il obtient], il se satisfait de n'importe quelle [pindapata|nourriture d'aumônes] [il obtient], il se satisfait n'importe quel [senasana|gîte] [il obtient], il se satisfait n'importe quels [bhesajja|remèdes] & provisions pour les malades [il obtient]; et il vit la [brahmacariya|vie brahmique] en s'y plaisant."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, pañca samaṇasukhānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq [sukha|bien-être] d'un [samana|renonçant]."
+    }
+  ],
+  "translator": "Rémy"
+}

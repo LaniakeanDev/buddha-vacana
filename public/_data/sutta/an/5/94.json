@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.94",
+  "plTitle": "Phāsuvihāra Sutta",
+  "frTitle": "Un séjour confortable",
+  "description": "Le Bouddha explique ici ce qu'il entend par l'expression 'un séjour confortable' (phāsu·vihāra).",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, phāsuvihārā. katame pañca? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [manières] de séjourner confortablement. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant], [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états mentaux désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.]"
+    },
+    {
+      "pl": "vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati.",
+      "fr": "[@f_4jhana#2-cl|Avec l'apaisement des pensées actives et passives, il entre et demeure dans le deuxième jhana, avec tranquillisation intérieure et unification de l'esprit, sans pensées actives ni passives, avec exaltation et bien-être engendrés par la concentration.]"
+    },
+    {
+      "pl": "pītiyā ca virāgā upekkhako ca viharissasi sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati.",
+      "fr": "[@f_4jhana#3-cl|Avec la disparition de l'exaltation, il demeure équanime, présent d'esprit et doué d'un discernement attentif, il entre et demeure dans le troisième jhana et ressent dans le corps le bien-être que les êtres nobles décrivent: “équanime et présent d'esprit, il séjourne dans le bien-être”.]"
+    },
+    {
+      "pl": "sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati.",
+      "fr": "[@f_4jhana#4-cl|Abandonnant le bien-être et abandonnant le mal-être, la plaisance et la déplaisance mentales ayant auparavant disparu, il entre et demeure dans le quatrième jhana, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité.]"
+    },
+    {
+      "pl": "āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati.",
+      "fr": "Avec la destruction des [asava|impuretés mentales], il entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca phāsuvihārā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq [manières] de séjourner confortablement."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "identifier": "AN 5.54",
+  "plTitle": "Samaya Sutta",
+  "frTitle": "Les différents moments",
+  "description": "Voici des moments propres ou impropres à l'effort, en fonction des circonstances.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, asamayā padhānāya. katame pañca? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq moments impropres à l'[padhana|effort]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu jiṇṇo hoti jarāyābhibhūto. ayaṃ, bhikkhave, paṭhamo asamayo padhānāya.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] est âgé, accablé par le vieillissement. Voici, [bhikkhu|mendiants], le premier moment impropre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, bhikkhu byādhito hoti byādhinābhibhūto. ayaṃ, bhikkhave, dutiyo asamayo padhānāya.",
+      "fr": "Ou bien, [bhikkhu|mendiants], un [bhikkhu|mendiant] est malade, accablé par la maladie. Voici, [bhikkhu|mendiants], le deuxième moment impropre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, dubbhikkhaṃ hoti dussassaṃ dullabhapiṇḍaṃ, na sukaraṃ uñchena paggahena yāpetuṃ. ayaṃ, bhikkhave, tatiyo asamayo padhānāya.",
+      "fr": "Ou bien, [bhikkhu|mendiants], la nourriture est rare, les récoltes sont mauvaises, les aumônes de nourriture sont difficiles à obtenir, et il est difficile de se sustenter avec ce qui est glané au nom de la charité. Voici, [bhikkhu|mendiants], le troisième moment impropre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, bhayaṃ hoti aṭavisaṅkopo, cakkasamārūḷhā jānapadā pariyāyanti. ayaṃ, bhikkhave, catuttho asamayo padhānāya.",
+      "fr": "Ou bien, [bhikkhu|mendiants], il y a du danger, des bandits vivant dans la forêt prennent les armes; les gens montent sur leurs véhicules et fuient de toutes parts. Voici, [bhikkhu|mendiants], le quatrième moment impropre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, saṅgho bhinno hoti. saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ akkosā ca honti, aññamaññaṃ paribhāsā ca honti, aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajā ca honti. tattha appasannā ceva nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hoti. ayaṃ, bhikkhave, pañcamo asamayo padhānāya.",
+      "fr": "Ou bien, [bhikkhu|mendiants], la [sangha|Communauté] est divisée. [bhikkhu|Mendiants], lorsque la [sangha|Communauté] est divisée, ils s'invectivent les uns les autres, ils s'accusent les uns les autres, ils s'affrontent les uns les autres, et ils se rejettent les uns les autres. Alors ceux qui n'avaient pas confiance ne sont pas mis en confiance, et parmi ceux qui avaient confiance, certains changent d'avis. Voici, [bhikkhu|mendiants], le cinquième moment impropre à l'[padhana|effort]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca asamayā padhānāyāti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq moments impropres à l'[padhana|effort]."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, samayā padhānāya. katame pañca?",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq moments propres à l'[padhana|effort]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu daharo hoti yuvā susu kāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā. ayaṃ, bhikkhave, paṭhamo samayo padhānāya.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] est jeune, peu avancé en âge, un jeune homme aux cheveux noirs, pourvu des bienfaits de la jeunesse, dans le premier stade de la vie. Voici, [bhikkhu|mendiants], le premier moment propre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, bhikkhu appābādho hoti appātaṅko, samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya. ayaṃ, bhikkhave, dutiyo samayo padhānāya.",
+      "fr": "De plus, [bhikkhu|mendiants], un [bhikkhu|mendiant] est en bonne santé, il a peu de maladies, il est doué d'une bonne digestion, ni trop faible, ni trop forte, équilibrée, adaptée à l'[padhana|[padhana|effort]]. Voici, [bhikkhu|mendiants], le deuxième moment propre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, subhikkhaṃ hoti susassaṃ sulabhapiṇḍaṃ, sukaraṃ uñchena paggahena yāpetuṃ. ayaṃ, bhikkhave, tatiyo samayo padhānāya.",
+      "fr": "De plus, [bhikkhu|mendiants], la nourriture est abondante, les récoltes sont bonnes, les aumônes de nourriture sont faciles à obtenir, il est facile de se sustenter avec ce qui est glané au nom de la charité. Voici, [bhikkhu|mendiants], le troisième moment propre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, manussā samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharanti. ayaṃ, bhikkhave, catuttho samayo padhānāya.",
+      "fr": "De plus, [bhikkhu|mendiants], les hommes vivent en harmonie, en bons termes, sans querelles, se mélangeant comme l'eau et le lait, se voyant les uns les autres avec un regard amical. Voici, [bhikkhu|mendiants], le quatrième moment propre à l'[padhana|effort]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, saṅgho samaggo sammodamāno avivadamāno ekuddeso phāsu viharati. saṅghe kho pana, bhikkhave, samagge na ceva aññamaññaṃ akkosā honti, na ca aññamaññaṃ paribhāsā honti, na ca aññamaññaṃ parikkhepā honti, na ca aññamaññaṃ pariccajā honti. tattha appasannā ceva pasīdanti, pasannānañca bhiyyobhāvo hoti. ayaṃ, bhikkhave, pañcamo samayo padhānāya.",
+      "fr": "De plus, [bhikkhu|mendiants], la [sangha|Communauté] vit en harmonie, en bons termes, sans querelles, avec une seule récitation, confortablement. [bhikkhu|Mendiants], lorsque la [sangha|Communauté] vit en harmonie, ils ne s'invectivent pas les uns les autres, ils ne s'accusent pas les uns les autres, ils ne s'affrontent pas les uns les autres, et ils ne se rejettent pas les uns les autres. Alors ceux qui n'avaient pas confiance sont mis en confiance, et parmi ceux qui avaient confiance, elle augmente. Voici, [bhikkhu|mendiants], le cinquième moment propre à l'[padhana|effort]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca samayā padhānāyā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq moments propres à l'[padhana|effort]."
+    }
+  ],
+  "translator": "Rémy"
+}

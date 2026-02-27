@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.101",
+  "plTitle": "Sārajja Sutta",
+  "frTitle": "Timidité",
+  "description": "Cinq qualités qui éliminent la timidité d'un individu en entraînement et lui apportent de la confiance en lui.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, sekhavesārajjakaraṇā dhammā. katame pañca? idha, bhikkhave, bhikkhu saddho hoti, sīlavā hoti, bahussuto hoti, āraddhavīriyo hoti, paññavā hoti.",
+      "fr": "[bhikkhu|Mendiants], ces cinq [dhamma|qualités] apportent la confiance en lui à un [sekha|individu en entraînement]. Quelles sont ces cinq? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] a de la [saddha|conviction], il est [sila|vertueux], il est [@m_bahussuta|très instruit], il est [araddhaviriya|énergique], et il a du [panna|discernement]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, assaddhassa sārajjaṃ hoti, saddhassa taṃ sārajjaṃ na hoti. tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+      "fr": "Celui qui a de la [saddha|conviction] n'a pas la timidité de celui qui n'a pas de [saddha|conviction]. C'est pourquoi cette [dhamma|qualité] apporte la confiance en lui à un [sekha|individu en entraînement]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, dussīlassa sārajjaṃ hoti, sīlavato taṃ sārajjaṃ na hoti. tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+      "fr": "Celui qui est [sila|vertueux] n'a pas la timidité de celui qui manque de [sila|vertu]. C'est pourquoi cette [dhamma|qualité] apporte la confiance en lui à un [sekha|individu en entraînement]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, appassutassa sārajjaṃ hoti, bahussutassa taṃ sārajjaṃ na hoti. tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+      "fr": "Celui qui est [@m_bahussuta|très instruit] n'a pas la timidité de celui qui est peu instruit. C'est pourquoi cette [dhamma|qualité] apporte la confiance en lui à un [sekha|individu en entraînement]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, kusītassa sārajjaṃ hoti, āraddhavīriyassa taṃ sārajjaṃ na hoti. tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+      "fr": "Celui qui est [araddhaviriya|énergique] n'a pas la timidité de celui qui est paresseux. C'est pourquoi cette [dhamma|qualité] apporte la confiance en lui à un [sekha|individu en entraînement]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, duppaññassa sārajjaṃ hoti, paññavato taṃ sārajjaṃ na hoti. tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+      "fr": "Celui qui a du [panna|discernement] n'a pas la timidité de celui qui manque de [panna|discernement]. C'est pourquoi cette [dhamma|qualité] apporte la confiance en lui à un [sekha|individu en entraînement]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca sekhavesārajjakaraṇā dhammā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq qualités qui apportent la confiance en lui à un [sekha|individu en entraînement]."
+    }
+  ],
+  "translator": "Rémy"
+}

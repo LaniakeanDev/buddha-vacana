@@ -1,0 +1,82 @@
+﻿{
+  "identifier": "AN 5.162",
+  "plTitle": "Āghātapaṭivinaya Sutta",
+  "frTitle": "Dissiper le ressentiment",
+  "description": "Le vénérable Saripoutta explique cinq manières d'éradiquer le ressentiment qu'on peut éprouver envers une personne, à l'aide de comparaisons éloquentes.",
+  "body": [
+    {
+      "pl": "tatra kho āyasmā sāriputto bhikkhū āmantesi:",
+      "fr": "Là, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "— “āvuso bhikkhave”ti.", "fr": "—[avuso|Amis], [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. āyasmā sāriputto etadavoca:",
+      "fr": "—[avuso|Ami], répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Saripoutta. Ce dernier leur dit:"
+    },
+    {
+      "pl": "“pañcime, āvuso, āghātapaṭivinayā yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo. katame pañca? idhāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti parisuddhavacīsamācāro; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.",
+      "fr": "[avuso|Amis], il y a ces cinq manières de dissiper le ressentiment au moyen desquelles le ressentiment qui est apparu chez un [bhikkhu|mendiant] devrait être complètement dissipé. Quelles sont ces cinq? À cet égard, [avuso|amis], un certain individu a une conduite corporelle impure mais une conduite verbale purifiée; [avuso|amis], le ressentiment envers un tel individu devrait être complètement dissipé."
+    },
+    {
+      "pl": "idha panāvuso, ekacco puggalo aparisuddhavacīsamācāro hoti parisuddhakāyasamācāro; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.",
+      "fr": "Ou bien, [avuso|amis], un certain individu a une conduite verbale impure mais une conduite corporelle purifiée; [avuso|amis], le ressentiment envers un tel individu devrait être complètement dissipé."
+    },
+    {
+      "pl": "idha panāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti aparisuddhavacīsamācāro, labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.",
+      "fr": "Ou bien, [avuso|amis], un certain individu a une conduite verbale impure et une conduite corporelle impure, mais il obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit]; [avuso|amis], le ressentiment envers un tel individu devrait être complètement dissipé."
+    },
+    {
+      "pl": "idha panāvuso, ekacco puggalo aparisuddhakāyasamācāro hoti aparisuddhavacīsamācāro, na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.",
+      "fr": "Ou bien, [avuso|amis], un certain individu a une conduite verbale impure et une conduite corporelle impure, et n'obtient pas non plus de temps en temps d'opportunité d'[citta|esprit] [pour le calme], de quiétude d'[citta|esprit]; [avuso|amis], le ressentiment envers un tel individu devrait être complètement dissipé."
+    },
+    {
+      "pl": "idha panāvuso, ekacco puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro, labhati ca kālena vā kālaṃ cetaso vivaraṃ cetaso pasādaṃ; evarūpepi, āvuso, puggale āghāto paṭivinetabbo.",
+      "fr": "Ou bien, [avuso|amis], un certain individu a une conduite verbale purifiée et une conduite corporelle purifiée, et il obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit]; [avuso|amis], le ressentiment envers un tel individu devrait être complètement dissipé."
+    },
+    {
+      "pl": "“tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro parisuddhavacīsamācāro, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? seyyathāpi, āvuso, bhikkhu paṃsukūliko rathiyāya nantakaṃ disvā vāmena pādena niggaṇhitvā dakkhiṇena pādena pattharitvā, yo tattha sāro taṃ paripātetvā ādāya pakkameyya.",
+      "fr": "Maintenant, [avuso|amis], en ce qui concerne l'individu qui a une conduite corporelle impure mais une conduite verbale purifiée, comment le ressentiment envers cet individu devrait-il être dissipé? Imaginez, [avuso|amis], un [bhikkhu|mendiant] qui porte des [pamsukula|haillons abandonnés comme déchets]: ayant vu un chiffon abandonné au bord d'une route, il le maintiendrait avec le pied gauche, il l'ouvrirait avec le pied droit, en déchirerait la partie encore utilisable, et s'en irait en l'emportant."
+    },
+    {
+      "pl": "evamevaṃ khvāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro parisuddhavacīsamācāro, yāssa aparisuddhakāyasamācāratā na sāssa tasmiṃ samaye manasi kātabbā, yā ca khvāssa parisuddhavacīsamācāratā sāssa tasmiṃ samaye manasi kātabbā. evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "De la même manière, [avuso|amis], en ce qui concerne l'individu qui a une conduite corporelle impure mais une conduite verbale purifiée, il faudrait ne pas [manasikara|porter son attention] à ce moment-là à l'impureté de sa conduite corporelle, mais [manasikara|porter son attention] à ce moment-là à la pureté de sa conduite verbale. Voici comment le ressentiment envers cet individu devrait être dissipé."
+    },
+    {
+      "pl": "“tatrāvuso, yvāyaṃ puggalo aparisuddhavacīsamācāro parisuddhakāyasamācāro, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? seyyathāpi, āvuso, pokkharaṇī sevālapaṇakapariyonaddhā. atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. so taṃ pokkharaṇiṃ ogāhetvā ubhohi hatthehi iticiti ca sevālapaṇakaṃ apaviyūhitvā añjalinā pivitvā pakkameyya.",
+      "fr": "Maintenant, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure mais une conduite corporelle purifiée, comment le ressentiment envers cet individu devrait-il être dissipé? Imaginez, [avuso|amis], un bassin couvert de plantes d'eau. Arriverait alors un homme accablé par la chaleur, abattu par la chaleur, épuisé, déshydraté, assoiffé. Il descendrait dans ce bassin, il écarterait les plantes d'eau avec ses deux mains, boirait dans le creux de ses mains et s'en irait."
+    },
+    {
+      "pl": "evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhavacīsamācāro parisuddhakāyasamācāro, yāssa aparisuddhavacīsamācāratā na sāssa tasmiṃ samaye manasi kātabbā, yā ca khvāssa parisuddhakāyasamācāratā sāssa tasmiṃ samaye manasi kātabbā. evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "De la même manière, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure mais une conduite corporelle purifiée, il faudrait ne pas [manasikara|porter son attention] à ce moment-là à l'impureté de sa conduite verbale, mais [manasikara|porter son attention] à ce moment-là à la pureté de sa conduite corporelle. Voici comment le ressentiment envers cet individu devrait être dissipé."
+    },
+    {
+      "pl": "“tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? seyyathāpi, āvuso, parittaṃ gopade udakaṃ. atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. tassa evamassa: ‘idaṃ kho parittaṃ gopade udakaṃ. sacāhaṃ añjalinā vā pivissāmi bhājanena vā khobhessāmipi taṃ loḷessāmipi taṃ apeyyampi taṃ karissāmi. yaṃnūnāhaṃ catukkuṇḍiko nipatitvā gopītakaṃ pivitvā pakkameyyan’ti. so catukkuṇḍiko nipatitvā gopītakaṃ pivitvā pakkameyya.",
+      "fr": "Maintenant, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure et une conduite corporelle impure, mais qui obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit], comment le ressentiment envers cet individu devrait-il être dissipé? Imaginez, [avuso|amis], une petite flaque d'eau dans une empreinte de vache. Arriverait alors un homme accablé par la chaleur, abattu par la chaleur, épuisé, déshydraté, assoiffé. Il se dirait: [i]“Ce n'est qu'une petite flaque d'eau [qu'il y a] dans l'empreinte de vache. Si je bois dans le creux de mes mains ou avec un récipient, je l'agiterai, je la troublerai et la rendrai imbuvable. Et si je me mettais à quatre pattes et que je buvais comme une vache, puis que je m'en allais?”[/i] Il se met à quatre pattes, boit comme une vache, puis s'en va."
+    },
+    {
+      "pl": "evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, yāssa aparisuddhakāyasamācāratā na sāssa tasmiṃ samaye manasi kātabbā; yāpissa aparisuddhavacīsamācāratā na sāpissa tasmiṃ samaye manasi kātabbā. yañca kho so labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, tamevassa tasmiṃ samaye manasi kātabbaṃ. evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "De la même manière, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure et une conduite corporelle impure, mais qui obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit], il faudrait ne pas [manasikara|porter son attention] à ce moment-là à l'impureté de sa conduite corporelle, il faudrait ne pas [manasikara|porter son attention] à ce moment-là à l'impureté de sa conduite verbale, mais [manasikara|porter son attention] à ce moment-là au fait qu'il obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit]. Voici comment le ressentiment envers cet individu devrait être dissipé."
+    },
+    {
+      "pl": "“tatrāvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? seyyathāpi, āvuso, puriso ābādhiko dukkhito bāḷhagilāno addhānamaggappaṭipanno. tassa puratopissa dūre gāmo pacchatopissa dūre gāmo. so na labheyya sappāyāni bhojanāni, na labheyya sappāyāni bhesajjāni, na labheyya patirūpaṃ upaṭṭhākaṃ, na labheyya gāmantanāyakaṃ. tamenaṃ aññataro puriso passeyya addhānamaggappaṭipanno. so tasmiṃ purise kāruññaṃyeva upaṭṭhāpeyya, anuddayaṃyeva upaṭṭhāpeyya, anukampaṃyeva upaṭṭhāpeyya: ‘aho vatāyaṃ puriso labheyya sappāyāni bhojanāni, labheyya sappāyāni bhesajjāni, labheyya patirūpaṃ upaṭṭhākaṃ, labheyya gāmantanāyakaṃ! taṃ kissa hetu? māyaṃ puriso idheva anayabyasanaṃ āpajjī’ti!",
+      "fr": "Maintenant, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure et une conduite corporelle impure, et qui n'obtient pas non plus de temps en temps d'opportunité d'[citta|esprit] [pour le calme], de quiétude d'[citta|esprit], comment le ressentiment envers cet individu devrait-il être dissipé? Imaginez, [avuso|amis], un homme en proie à la maladie, souffrant, gravement malade voyageant sur une longue route. Le village précédent serait loin et le village suivant serait loin. Il n'obtiendrait pas de nourriture adaptée, il n'obtiendrait pas de [bhesajja|remèdes] adaptés, il n'obtiendrait pas de garde-malade compétent, et il n'obtiendrait pas quelqu'un qui puisse le mener à un village. Alors un autre homme voyageant sur cette longue route le verrait et prendrait soin de lui par compassion, il prendrait soin de lui par miséricorde, il prendrait soin de lui par sympathie [en se disant]: [i]“Que cet homme obtienne de la nourriture adaptée, qu'il obtienne des [bhesajja|remèdes] adaptés, qu'il obtienne un garde-malade compétent, qu'il obtienne quelqu'un qui puisse le mener à un village. Pourquoi cela? Pour que cet homme ne rencontre pas de malheur & infortune ici même.”[/i]"
+    },
+    {
+      "pl": "evamevaṃ kho, āvuso, yvāyaṃ puggalo aparisuddhakāyasamācāro aparisuddhavacīsamācāro na ca labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, evarūpepi, āvuso, puggale kāruññaṃyeva upaṭṭhāpetabbaṃ anuddayāyeva upaṭṭhāpetabbā anukampāyeva upaṭṭhāpetabbā ‘aho vata ayamāyasmā kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveyya, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveyya, manoduccaritaṃ pahāya manosucaritaṃ bhāveyya! taṃ kissa hetu? māyaṃ āyasmā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjī’ti! evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "De la même manière, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale impure et une conduite corporelle impure, et qui n'obtient pas non plus de temps en temps d'opportunité d'[citta|esprit] [pour le calme], de quiétude d'[citta|esprit], il faudrait prendre soin d'un tel individu par compassion, il faudrait prendre soin de lui par miséricorde, il faudrait prendre soin de lui par sympathie [en se disant]: [i]“Que ce [ayasma|vénérable] abandonne la [duccarita|méconduite] corporelle et cultive la [sucarita|bonne conduite] corporelle, qu'il abandonne la [duccarita|méconduite] verbale et cultive la [sucarita|bonne conduite] verbale, qu'il abandonne la [duccarita|méconduite] mentale et cultive la [sucarita|bonne conduite] mentale. Pourquoi cela? Pour que lors de la rupture du [kaya|corps], après la [marana|mort], ce [ayasma|vénérable] ne réapparaisse pas dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer].”[/i] Voici comment le ressentiment envers cet individu devrait être dissipé."
+    },
+    {
+      "pl": "“tatrāvuso, yvāyaṃ puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, kathaṃ tasmiṃ puggale āghāto paṭivinetabbo? seyyathāpi, āvuso, pokkharaṇī acchodakā sātodakā sītodakā setakā supatitthā ramaṇīyā nānārukkhehi sañchannā. atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito. so taṃ pokkharaṇiṃ ogāhetvā nhātvā ca pivitvā ca paccuttaritvā tattheva rukkhacchāyāya nisīdeyya vā nipajjeyya vā.",
+      "fr": "Maintenant, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale purifiée et une conduite corporelle purifiée, et qui obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit], comment le ressentiment envers cet individu devrait-il être dissipé? Imaginez, [avuso|amis], un bassin rempli d'eau claire, agréable, transparente, ayant des berges agréables, charmant, à l'ombre de divers arbres. Arriverait alors un homme accablé par la chaleur, abattu par la chaleur, épuisé, déshydraté, assoiffé. Il descendrait dans ce bassin, s'y baignerait, en boirait, en ressortirait puis s'assoirait ou se coucherait sur place, à l'ombre des arbres."
+    },
+    {
+      "pl": "evamevaṃ kho, āvuso, yvāyaṃ puggalo parisuddhakāyasamācāro parisuddhavacīsamācāro labhati ca kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, yāpissa parisuddhakāyasamācāratā sāpissa tasmiṃ samaye manasi kātabbā; yāpissa parisuddhavacīsamācāratā sāpissa tasmiṃ samaye manasi kātabbā; yampi labhati kālena kālaṃ cetaso vivaraṃ cetaso pasādaṃ, tampissa tasmiṃ samaye manasi kātabbaṃ. evaṃ tasmiṃ puggale āghāto paṭivinetabbo. samantapāsādikaṃ, āvuso, puggalaṃ āgamma cittaṃ pasīdati.",
+      "fr": "De la même manière, [avuso|amis], en ce qui concerne l'individu qui a une conduite verbale purifiée et une conduite corporelle purifiée, et qui obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit], il faudrait [manasikara|porter son attention] à ce moment-là à la pureté de sa conduite corporelle, il faudrait [manasikara|porter son attention] à ce moment-là à la pureté de sa conduite verbale, et il faudrait [manasikara|porter son attention] à ce moment-là au fait qu'il obtient de temps en temps une opportunité d'[citta|esprit] [pour le calme], une quiétude d'[citta|esprit]. Voici comment le ressentiment envers cet individu devrait être dissipé. [avuso|Amis], lorsqu'on est en compagnie d'un individu qui inspire entièrement confiance, l'esprit devient confiant."
+    },
+    {
+      "pl": "“ime kho, āvuso, pañca āghātapaṭivinayā, yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo”ti.",
+      "fr": "Voici, [avuso|amis], quelles sont ces cinq manières de dissiper le ressentiment au moyen desquelles le ressentiment qui est apparu chez un [bhikkhu|mendiant] devrait être complètement dissipé."
+    }
+  ],
+  "translator": "Rémy"
+}

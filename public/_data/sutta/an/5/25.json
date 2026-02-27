@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 5.25",
+  "plTitle": "Anuggahita Sutta",
+  "frTitle": "Protégée",
+  "description": "Cinq facteurs qui, lorsqu'ils protègent la vue correcte (sammādiṭṭhi), la rendent capable de produire la libération de l'esprit (cetovimutti) et la libération par le discernement (paññāvimutti).",
+  "body": [
+    {
+      "pl": "Pañcahi, bhikkhave, aṅgehi anuggahitā sammādiṭṭhi cetovimutti-phalā ca hoti cetovimutti-phalānisaṃsā ca, paññāvimutti-phalā ca hoti paññāvimutti-phalānisaṃsā ca. Katamehi pañcahi?",
+      "fr": "Lorsque, [bhikkhu|mendiants], la [sammaditthi|vue correcte] est protégée par cinq facteurs, elle a la [cetovimutti|libération de l'esprit] pour fruit, elle a la [cetovimutti|libération de l'esprit] pour [anisamsa|rétribution], elle a la [pannavimutti|libération par le discernement] pour fruit, elle a la [pannavimutti|libération par le discernement] pour [anisamsa|rétribution]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "Idha, bhikkhave, sammādiṭṭhi sīlānuggahitā ca hoti, sutānuggahitā ca hoti, sākacchānuggahitā ca hoti, samathānuggahitā ca hoti, vipassanānuggahitā ca hoti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], la [sammaditthi|vue correcte] est protégée par la [sila|vertu], elle est protégée par l'instruction, elle est protégée par les discussions, elle est protégée par la [samatha|Tranquillité], elle est protégée par la [vipassana|Vision discernante]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, pañcahi aṅgehi anuggahitā sammādiṭṭhi cetovimutti-phalā ca hoti cetovimutti-phalānisaṃsā ca, paññāvimutti-phalā ca hoti paññāvimutti-phalānisaṃsā cā ti.",
+      "fr": "Lorsque, [bhikkhu|mendiants],la [sammaditthi|vue correcte] est protégée par ces cinq facteurs, elle a la [cetovimutti|libération de l'esprit] pour fruit, elle a la [cetovimutti|libération de l'esprit] pour [anisamsa|rétribution], elle a la [pannavimutti|libération par le discernement] pour fruit, elle a la [pannavimutti|libération par le discernement] pour [anisamsa|rétribution]."
+    }
+  ],
+  "translator": "Rémy"
+}

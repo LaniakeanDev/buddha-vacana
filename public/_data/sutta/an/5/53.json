@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "AN 5.53",
+  "plTitle": "Padhāniyaṅga Sutta",
+  "frTitle": "Facteurs de l'effort",
+  "description": "Cinq qualités qui rendent l'effort correct possible.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, padhāniyaṅgāni. katamāni pañca?",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq facteurs de l'[padhana|effort]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu saddho hoti, saddahati tathāgatassa bodhiṃ: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti;",
+      "fr": "À cet égard, [bhikkhu|mendiants], un mendiant a de la conviction, il est convaincu de l'éveil du Tathagata: [@f_anussati#anussati-1-cl|'le Fortuné est un arahant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé]';"
+    },
+    {
+      "pl": "appābādho hoti appātaṅko, samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya;",
+      "fr": "Il est en bonne santé, il a peu de maladies, il est pourvu d'une bonne digestion, ni trop faible, ni trop forte, équilibrée, adaptée à l'[padhana|effort];"
+    },
+    {
+      "pl": "asaṭho hoti amāyāvī yathābhūtaṃ attānaṃ āvikattā satthari vā viññūsu vā sabrahmacārīsu;",
+      "fr": "il est honnête et sincère, s'ouvrant tel qu'il est vraiment à son enseignant ou à ses perspicaces compagnons dans la [brahmacariya|vie brahmique];"
+    },
+    {
+      "pl": "āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu;",
+      "fr": "Il maintient son [viriya|énergie] activée pour l'abandon des [dhamma|états mentaux] [akusala|désavantageux] et l'acquisition des [dhamma|états mentaux] [kusala|avantageux], il est tenace, ferme dans son effort, il ne manque pas à la responsabilité de cultiver les [dhamma|états mentaux] [kusala|avantageux];"
+    },
+    {
+      "pl": "paññavā hoti, udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā.",
+      "fr": "il a du [panna|discernement], il est pourvu du [panna|discernement] de l'apparition et de l'extinction qui est [ariya|noble] et pénétrant, menant à la destruction correcte du [dukkha|mal-être]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, pañca padhāniyaṅgānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq facteurs de l'[padhana|effort]."
+    }
+  ],
+  "translator": "Rémy"
+}
