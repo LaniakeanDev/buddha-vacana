@@ -5,8 +5,8 @@ interface CardIdentifierProps {
 
 export default function CardIdentifier({ content, className }: CardIdentifierProps) {
   return (
-    <div className={`absolute top-4 left-0 h-10 center bg-(--emphasis) rounded-tr-md rounded-br-md ${className}`}>
-      <p className="font-bold !text-white">{content}</p>
+    <div className={`absolute top-0 right-0 py-1 center bg-(--emphasis) rounded-bl-md rounded-tr-xl px-2 ${className}`}>
+      <p className="font-semibold !text-white">{content}</p>
     </div>
   );
 }
