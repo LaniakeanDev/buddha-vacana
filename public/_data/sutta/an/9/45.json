@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 9.45",
+  "plTitle": "Kāyasakkhī Suttāni",
+  "frTitle": "Un témoin du corps",
+  "description": "Dans ces trois souttas visiblement datés d'après la mort du Bouddha, Ananda explique ce que celui-ci entendait par les expressions «témoin du corps» (kāyasakkhī), «libéré par le discernement» (paññāvimutto) et «libéré des deux manières» (ubhatobhāgavimutto).",
+  "body": [
+    {
+      "pl": "“‘ubhatobhāgavimutto ubhatobhāgavimutto’ti, āvuso, vuccati. kittāvatā nu kho, āvuso, ubhatobhāgavimutto vutto bhagavatā”ti?",
+      "fr": "«Ami, on entend dire: [i]“Libéré des deux manières, libéré des deux manières”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il de quelqu'un libéré des deux manières?"
+    },
+    {
+      "pl": "“idhāvuso, bhikkhu vivicceva kāmehi ... pe ... paṭhamaṃ jhānaṃ upasampajja viharati. yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, ubhatobhāgavimutto vutto bhagavatā pariyāyena",
+      "fr": "—À cet égard, cher ami, un [bhikkhu|mendiant], [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation]. Il reste à toucher avec son [kaya|corps] l'étendue de cette [ayatana|sphère [d'expérience]], et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré des deux manières, de manière intermédiaire."
+    },
+    {
+      "pl": "... pe ....",
+      "fr": "En outre, cher ami, un [bhikkhu|mendiant], [@f_4jhana#2-cl|avec l'apaisement des pensées actives et passives, entre et demeure dans le deuxième jhana](…) le troisième [jhana|jhana](…) le quatrième [jhana|jhana]. Il reste à toucher avec son [kaya|corps] l'étendue de cette [ayatana|sphère [d'expérience]], et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré des deux manières, de manière intermédiaire.(…)"
+    },
+    {
+      "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, ubhatobhāgavimutto vutto bhagavatā nippariyāyenā”ti.",
+      "fr": "En outre, cher ami, un [bhikkhu|mendiant],[@f_arupajjhana#9|ayant transcendé la sphère de ni-perception-ni-non-perception, entre et demeure dans la cessation de la perception et du ressenti], et l'ayant vue avec [panna|discernement], ses [asava|impuretés mentales] sont complètement épuisées. Il reste à toucher avec son [kaya|corps] l'étendue de cette [ayatana|sphère [d'expérience]], et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré des deux manières, de manière définitive.»"
+    }
+  ],
+  "translator": "Sekha"
+}

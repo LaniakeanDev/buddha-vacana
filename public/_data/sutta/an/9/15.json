@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 9.15",
+  "plTitle": "Gaṇḍa Sutta",
+  "frTitle": "Comme un abcès",
+  "description": "Le corps et ses neuf orifices est comparé à un abcès.",
+  "body": [
+    {
+      "pl": "“seyyathāpi, bhikkhave, gaṇḍo anekavassagaṇiko. tassassu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni. tato yaṃ kiñci pagghareyya, asuciyeva pagghareyya, duggandhaṃyeva pagghareyya, jegucchiyaṃyeva pagghareyya; yaṃ kiñci pasaveyya, asuciyeva pasaveyya, duggandhaṃyeva pasaveyya, jegucchiyaṃyeva pasaveyya.",
+      "fr": "Imaginez, [bhikkhu|mendiants], un abcès vieux de plusieurs années. Cet abcès aurait neuf orifices, neuf ouvertures. Tout ce qui en sortirait, en sortirait malpropre, en sortirait malodorant, en sortirait écœurant; tout ce qui s'en écoulerait, s'en écoulerait malpropre, s'en écoulerait malodorant, s'en écoulerait écœurant."
+    },
+    {
+      "pl": "“gaṇḍoti kho, bhikkhave, imassetaṃ cātumahābhūtikassa kāyassa adhivacanaṃ mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādana-parimaddana-bhedana-viddhaṃsana-dhammassa. tassassu gaṇḍassa nava vaṇamukhāni nava abhedanamukhāni. tato yaṃ kiñci paggharati, asuciyeva paggharati, duggandhaṃyeva paggharati, jegucchiyaṃyeva paggharati; yaṃ kiñci pasavati, asuciyeva pasavati, duggandhaṃyeva pasavati, jegucchiyaṃyeva pasavati.",
+      "fr": "Un abcès est une figure pour ce [kaya|corps] composé des quatre grands éléments, produit par mère et père, se nourrissant de riz et de gruau, par nature sujet à l'[anicca|impermanence], à l'abrasion, au frottement, au démembrement, à la destruction. Cet abcès a neuf orifices, neuf ouvertures. Tout ce qui en sort, en sort malpropre, en sort malodorant, en sort écœurant; tout ce qui s'en écoule, s'en écoule malpropre, s'en écoule malodorant, s'en écoule écœurant."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, imasmiṃ kāye nibbindathā”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous désenchanter de ce [kaya|corps]."
+    }
+  ],
+  "translator": "Rémy"
+}

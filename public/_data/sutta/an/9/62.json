@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 9.62",
+  "plTitle": "Abhabba Sutta",
+  "frTitle": "Impossible",
+  "description": "Sans avoir abandonné neuf états, il est impossible de devenir un arahant.",
+  "body": [
+    {
+      "pl": "“nava, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. katame nava? rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ — ime kho, bhikkhave, nava dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+      "fr": "[bhikkhu|Mendiants], sans avoir abandonné neuf [dhamma|états], il est impossible de devenir un [arahant|Méritant]. Quels sont ces neuf [dhamma|états]? L'[raga|avidité], l'[dosa|aversion], la [moha|délusion], la colère, l'hostilité, le mépris, l'insolence, la jalousie, et l'avarice. [bhikkhu|Mendiants], sans avoir abandonné ces neuf [dhamma|états], il est impossible de devenir un [arahant|Méritant]."
+    },
+    {
+      "pl": "“nava, bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ. katame nava? rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ — ime kho, bhikkhave, nava dhamme pahāya bhabbo arahattaṃ sacchikātun”ti.",
+      "fr": "[bhikkhu|Mendiants], en ayant abandonné neuf [dhamma|états], il est possible de devenir un [arahant|Méritant]. Quels sont ces neuf [dhamma|états]? L'[raga|avidité], l'[dosa|aversion], la [moha|délusion], la colère, l'hostilité, le mépris, l'insolence, la jalousie, et l'avarice. [bhikkhu|Mendiants], en ayant abandonné ces neuf [dhamma|états], il est possible de devenir un [arahant|Méritant]."
+    }
+  ],
+  "translator": "Sekha"
+}
