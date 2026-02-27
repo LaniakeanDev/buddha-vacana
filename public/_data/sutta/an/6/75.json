@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 6.75",
+  "plTitle": "Dukkha Sutta",
+  "frTitle": "Dans le mal-être",
+  "description": "Six types de pensées et perceptions à abandonner, et les six correspondantes qu'il faut développer.",
+  "body": [
+    {
+      "pl": "“chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā. katamehi chahi? ",
+      "fr": "Un [bhikkhu|mendiant] pourvu de six [dhamma|états] vit dans le [dukkha|mal-être] [ditthevadhamme|dans ce monde visible], avec contrariétés, adversité et fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [duggati|mauvaise destination]. Quels sont ces six?"
+    },
+    {
+      "pl": "kāmavitakkena, byāpādavitakkena, vihiṃsāvitakkena, kāmasaññāya, byāpādasaññāya, vihiṃsāsaññāya. imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā.",
+      "fr": "La [vitakka|pensée] [kama|sensuelle], la [vitakka|pensée] de [byapada|malveillance], la [vitakka|pensée] de [vihimsa|non-inoffensivité], la [sanna|perception] [kama|sensuelle], la [sanna|perception] de [byapada|malveillance], et la [sanna|perception] de [vihimsa|non-inoffensivité]. Un [bhikkhu|mendiant] pourvu de ces six [dhamma|états] vit dans le [dukkha|mal-être] [ditthevadhamme|dans ce monde visible], avec contrariétés, adversité et fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [duggati|mauvaise destination]."
+    },
+    {
+      "pl": "“chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā. katamehi chahi?",
+      "fr": "Un [bhikkhu|mendiant] pourvu de six [dhamma|états]vit dans le [sukha|bien-être] [ditthevadhamme|dans ce monde visible], sans contrariétés, sans adversité et sans fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [sugati|bonne destination]. Quels sont ces six?"
+    },
+    {
+      "pl": "nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena, nekkhammasaññāya, abyāpādasaññāya, avihiṃsāsaññāya. imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā”ti.",
+      "fr": "La [vitakka|pensée] de [nekkhamma|renoncement], la [vitakka|pensée] de [abyapada|bienveillance], la [vitakka|pensée] d'[avihimsa|inoffensivité], la [sanna|perception] de [nekkhamma|renoncement], la [sanna|perception] de [abyapada|bienveillance], et la [sanna|perception] d'[avihimsa|inoffensivité]. Un [bhikkhu|mendiant] pourvu de ces six [dhamma|états]vit dans le [sukha|bien-être] [ditthevadhamme|dans ce monde visible], sans contrariétés, sans adversité et sans fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [sugati|bonne destination]."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

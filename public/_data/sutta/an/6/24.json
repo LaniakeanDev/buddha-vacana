@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 6.24",
+  "plTitle": "Himavanta Sutta",
+  "frTitle": "Les Himalayas",
+  "description": "Six qualités doué desquelles un méditant briserait (soi-disant) même les Himalayas.",
+  "body": [
+    {
+      "pl": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāya! Katamehi chahi? ",
+      "fr": "[bhikkhu|Mendiants], un mendiant doué de six [dhamma|qualités] pourrait détruire l'Himalaya, roi des montagnes, et que dire de la misérable [avijja|ignorance]! Quelles sont ces six?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu samādhissa samāpatti·kusalo hoti, samādhissa ṭhiti·kusalo hoti, samādhissa vuṭṭhāna·kusalo hoti, samādhissa kallatā·kusalo hoti, samādhissa gocara·kusalo hoti, samādhissa abhinīhāra·kusalo hoti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un mendiant est habile à l'atteinte de la [samadhi|concentration], il est habile au maintien de la [samadhi|concentration], il est habile à l'émergence de la [samadhi|concentration], il est habile en disposition à la [samadhi|concentration], il est habile en nourritures de [samadhi|concentration], et il est habile en aspiration à la [samadhi|concentration]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāyā ti!",
+      "fr": "[bhikkhu|Mendiants], un mendiant doué de ces six [dhamma|qualités] pourrait détruire l'Himalaya roi des montagnes, et que dire de la misérable [avijja|ignorance]!"
+    }
+  ],
+  "translator": "Rémy"
+}

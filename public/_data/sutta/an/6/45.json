@@ -1,0 +1,63 @@
+﻿{
+  "identifier": "AN 6.45",
+  "plTitle": "Iṇa Sutta",
+  "frTitle": "La dette",
+  "description": "Le Bouddha compare la jouissance des plaisirs sensuels à un endettement, pour un mendiant.",
+  "body": [
+    {
+      "pl": "“dāḷiddiyaṃ, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti? ",
+      "fr": "«[bhikkhus|Mendiants], la pauvreté n'est-elle pas un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“yampi, bhikkhave, daliddo assako anāḷhiko iṇaṃ ādiyati, iṇādānampi, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti?",
+      "fr": "—[bhikkhus|Mendiants], lorsque celui qui est pauvre, démuni et indigent s'endette, l'endettement n'est-il pas lui aussi un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“yampi, bhikkhave, daliddo assako anāḷhiko iṇaṃ ādiyitvā vaḍḍhiṃ paṭissuṇāti, vaḍḍhipi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+      "fr": "—[bhikkhus|Mendiants], lorsque celui qui est pauvre, démuni et indigent s'est endetté et promet de payer des intérêts, les intérêts ne sont-ils pas eux aussi un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“yampi, bhikkhave, daliddo assako anāḷhiko vaḍḍhiṃ paṭissuṇitvā kālābhataṃ vaḍḍhiṃ na deti, codentipi naṃ; codanāpi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+      "fr": "—[bhikkhus|Mendiants], lorsque celui qui est pauvre, démuni et indigent s'est endetté, a promis de payer des intérêts, ne paie pas à temps, et qu'on lui donne un avertissement, l'avertissement n'est-il pas lui aussi un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“yampi, bhikkhave, daliddo assako anāḷhiko codiyamāno na deti, anucarantipi naṃ; anucariyāpi, bhikkhave, dukkhā lokasmiṃ kāmabhogino”ti?",
+      "fr": "—[bhikkhus|Mendiants], si celui qui est pauvre, démuni et indigent ne paie pas lorsqu'on lui donne un avertissement, on l'inculpe. L'inculpation n'est-elle pas elle aussi un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“yampi, bhikkhave, daliddo assako anāḷhiko anucariyamāno na deti, bandhantipi naṃ; bandhanampi, bhikkhave, dukkhaṃ lokasmiṃ kāmabhogino”ti?",
+      "fr": "—[bhikkhus|Mendiants], si celui qui est pauvre, démuni et indigent ne paie pas lorsqu'on l'inculpe, on l'emprisonne. L'emprisonnement n'est-il pas lui aussi un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“iti kho, bhikkhave, dāliddiyampi dukkhaṃ lokasmiṃ kāmabhogino, iṇādānampi dukkhaṃ lokasmiṃ kāmabhogino, vaḍḍhipi dukkhā lokasmiṃ kāmabhogino, codanāpi dukkhā lokasmiṃ kāmabhogino, anucariyāpi dukkhā lokasmiṃ kāmabhogino, bandhanampi dukkhaṃ lokasmiṃ kāmabhogino; evamevaṃ kho, bhikkhave, yassa kassaci saddhā natthi kusalesu dhammesu, hirī natthi kusalesu dhammesu, ottappaṃ natthi kusalesu dhammesu, vīriyaṃ natthi kusalesu dhammesu, paññā natthi kusalesu dhammesu ayaṃ vuccati, bhikkhave, ariyassa vinaye daliddo assako anāḷhiko.",
+      "fr": "—Ainsi, [bhikkhu|mendiants], la pauvreté est un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde], l'endettement est un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde], les intérêts sont un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde], l'avertissement est un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde] et l'emprisonnement est un [dukkha|mal-être] pour celui qui jouit de la [kama|sensualité] dans le [loka|monde]. De la même manière, [bhikkhu|mendiants], celui qui n'a pas de [saddha|conviction] par rapport aux [dhamma|états] [kusala|avantageux], qui n'a pas de [hiri|honte morale] par rapport aux [dhamma|états] [kusala|avantageux], qui n'a pas de [ottappa|crainte morale] par rapport aux [dhamma|états] [kusala|avantageux], qui n'a pas d'[viriya|énergie] par rapport aux [dhamma|états] [kusala|avantageux], qui n'a pas de [panna|discernement] par rapport aux [dhamma|états] [kusala|avantageux], c'est qu'on appelle, dans la [vinaya|discipline] du [ariya|noble], un pauvre, un démuni, un indigent."
+    },
+    {
+      "pl": "“sa kho so, bhikkhave, daliddo assako anāḷhiko saddhāya asati kusalesu dhammesu, hiriyā asati kusalesu dhammesu, ottappe asati kusalesu dhammesu, vīriye asati kusalesu dhammesu, paññāya asati kusalesu dhammesu, kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati. idamassa iṇādānasmiṃ vadāmi.",
+      "fr": "Et ce pauvre, [bhikkhu|mendiants], ce démuni, cet indigent, n'ayant pas de [saddha|conviction] par rapport aux [dhamma|états] [kusala|avantageux], n'ayant pas de [hiri|honte morale] par rapport aux [dhamma|états] [kusala|avantageux], n'ayant pas de [ottappa|crainte morale] par rapport aux [dhamma|états] [kusala|avantageux], n'ayant pas d'[viriya|énergie] par rapport aux [dhamma|états] [kusala|avantageux], n'ayant pas de [panna|discernement] par rapport aux [dhamma|états] [kusala|avantageux], s'engage dans la [duccarita|méconduite] corporelle, s'engage dans la [duccarita|méconduite] verbale, et s'engage dans la [duccarita|méconduite] mentale. C'est ce que j'appelle son endettement."
+    },
+    {
+      "pl": "“so tassa kāyaduccaritassa paṭicchādanahetu pāpikaṃ icchaṃ paṇidahati. ‘mā maṃ jaññū’ti icchati, ‘mā maṃ jaññū’ti saṅkappati, ‘mā maṃ jaññū’ti vācaṃ bhāsati, ‘mā maṃ jaññū’ti kāyena parakkamati. so tassa vacīduccaritassa paṭicchādanahetu pāpikaṃ icchaṃ paṇidahati. ‘mā maṃ jaññū’ti icchati, ‘mā maṃ jaññū’ti saṅkappati, ‘mā maṃ jaññū’ti vācaṃ bhāsati, ‘mā maṃ jaññū’ti kāyena parakkamati. so tassa manoduccaritassa paṭicchādanahetu pāpikaṃ icchaṃ paṇidahati. ‘mā maṃ jaññū’ti icchati, ‘mā maṃ jaññū’ti saṅkappati, ‘mā maṃ jaññū’ti vācaṃ bhāsati, ‘mā maṃ jaññū’ti kāyena parakkamati. idamassa vaḍḍhiyā vadāmi.",
+      "fr": "Et pour dissimuler cette [duccarita|méconduite] corporelle, il a un désir [papaka|malsain]. Il désire qu'on ne le sache pas. Il [sankappa|aspire] à ce qu'on ne le sache pas. Il parle dans le but qu'on ne le sache pas. Il s'efforce pour qu'on ne le sache pas. Pour dissimuler cette [duccarita|méconduite] verbale, il a un désir [papaka|malsain]. Il désire qu'on ne le sache pas. Il [sankappa|aspire] à ce qu'on ne le sache pas. Il parle dans le but qu'on ne le sache pas. Il s'efforce pour qu'on ne le sache pas.Pour dissimuler cette [duccarita|méconduite] mentale, il a un désir [papaka|malsain]. Il désire qu'on ne le sache pas. Il [sankappa|aspire] à ce qu'on ne le sache pas. Il parle dans le but qu'on ne le sache pas. Il s'efforce pour qu'on ne le sache pas. C'est ce que j'appelle ses intérêts."
+    },
+    {
+      "pl": "“tamenaṃ pesalā sabrahmacārī evamāhaṃsu: ‘ayañca so āyasmā evaṃkārī evaṃsamācāro’ti. idamassa codanāya vadāmi.",
+      "fr": "Ses compagnons dans la [brahmacariya|vie brahmique] de bon caractère disent de lui: [i]«Ce [ayasma|vénérable] fait ceci, il se comporte de telle manière.» C'est ce que j'appelle son avertissement."
+    },
+    {
+      "pl": "“tamenaṃ araññagataṃ vā rukkhamūlagataṃ vā suññāgāragataṃ vā vippaṭisārasahagatā pāpakā akusalavitakkā samudācaranti. idamassa anucariyāya vadāmi.",
+      "fr": "Lorsqu'il se rend dans la [aranna|forêt], au pied d'un arbre ou dans une pièce vide, des [vitakka|pensées] [papaka|malsaines] et [akusala|désavantageuses] liées au remords l'assaillent. C'est ce que j'appelle son inculpation."
+    },
+    {
+      "pl": "“sa kho so, bhikkhave, daliddo assako anāḷhiko kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā nirayabandhane vā bajjhati tiracchānayonibandhane vā. nāhaṃ, bhikkhave, aññaṃ ekabandhanampi samanupassāmi evaṃdāruṇaṃ evaṃkaṭukaṃ evaṃantarāyakaraṃ anuttarassa yogakkhemassa adhigamāya, yathayidaṃ, bhikkhave, nirayabandhanaṃ vā tiracchānayonibandhanaṃ vā”ti.",
+      "fr": "Et ce pauvre, [bhikkhu|mendiants], ce démuni, cet indigent, s'étant engagé dans la [duccarita|méconduite] corporelle, s'étant engagé dans la [duccarita|méconduite] verbale, s'étant engagé dans la [duccarita|méconduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], est emprisonné dans la prison de l'[niraya|enfer] ou dans la prison du [tiracchanayoni|sein animal]. Et je ne vois pas d'autre prison aussi cruelle, aussi amère, qui fasse autant obstacle au suprême soulagement du joug, que la prison de l'[niraya|enfer] ou la prison du [tiracchanayoni|sein animal].»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

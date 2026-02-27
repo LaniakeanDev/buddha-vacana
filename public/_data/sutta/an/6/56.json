@@ -1,0 +1,19 @@
+﻿{
+  "identifier": "AN 6.56",
+  "plTitle": "Phagguna Sutta",
+  "frTitle": "La mort de Phaggouna",
+  "description": "Suite à un décès, le Bouddha explique à Ananda l'attitude qu'il recommande au moment de la mort.",
+  "body": [
+    { "pl": "(…) ", "fr": "(…)" },
+    {
+      "pl": "“puna caparaṃ, ānanda, bhikkhuno pañcahi orambhāgiyehi saṃyojanehi cittaṃ avimuttaṃ hoti. so tamhi samaye maraṇakāle na heva kho labhati tathāgataṃ dassanāya, api ca kho tathāgatasāvakaṃ labhati dassanāya. tassa tathāgatasāvako dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. tassa taṃ dhammadesanaṃ sutvā pañcahi orambhāgiyehi saṃyojanehi cittaṃ vimuccati. ayaṃ, ānanda, dutiyo ānisaṃso kālena dhammassavane.",
+      "fr": "Ou bien, Ananda, l'esprit d'un [bhikkhu|mendiant] n'est pas libéré des cinq [samyojana|entraves spirituelles] inférieures. Au moment de sa mort, il n'a pas l'opportunité de voir le [tathagata|Tathagata], mais il a l'opportunité de voir un [savaka|disciple] du [tathagata|Tathagata]. Le [savaka|disciple] du [tathagata|Tathagata] lui expose le [dhamma|Dhamma] qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la [brahmacariya|vie brahmique] qui est entièrement complète et pure. Ayant écouté cet exposé du [dhamma|Dhamma], son esprit est libéré des cinq [samyojana|entraves spirituelles] inférieures. Voici, Ananda, quel est le deuxième bienfait d'examiner la signification [de l'enseignement] au bon moment."
+    },
+    {
+      "pl": "“puna caparaṃ, ānanda, bhikkhuno pañcahi orambhāgiyehi saṃyojanehi cittaṃ avimuttaṃ hoti. so tamhi samaye maraṇakāle na heva kho labhati tathāgataṃ dassanāya, napi tathāgatasāvakaṃ labhati dassanāya; api ca kho yathāsutaṃ yathāpariyattaṃ dhammaṃ cetasā anuvitakketi anuvicāreti manasānupekkhati. tassa yathāsutaṃ yathāpariyattaṃ dhammaṃ cetasā anuvitakkayato anuvicārayato manasānupekkhato pañcahi orambhāgiyehi saṃyojanehi cittaṃ vimuccati. ayaṃ, ānanda, tatiyo ānisaṃso kālena atthupaparikkhāya.",
+      "fr": "Ou bien, Ananda, l'esprit d'un [bhikkhu|mendiant] n'est pas libéré des cinq [samyojana|entraves spirituelles] inférieures. Au moment de sa mort, il n'a pas l'opportunité de voir le [tathagata|Tathagata], ni de voir un [savaka|disciple] du [tathagata|Tathagata]. Mais il [vitakka|pense activement] et [vicara|passivement] au [dhamma|Dhamma] tel qu'il l'a appris et compris, et l'examine mentalement. Tandis qu'il pense [vitakka|pense activement] et [vicara|passivement] au [dhamma|Dhamma] tel qu'il l'a appris et compris, et qu'il l'examine mentalement, son esprit est libéré des cinq [samyojana|entraves spirituelles] inférieures. Voici, Ananda, quel est le troisième bienfait d'examiner la signification [de l'enseignement] au bon moment."
+    },
+    { "pl": "(…)", "fr": "(…) " }
+  ],
+  "translator": "Sekha"
+}

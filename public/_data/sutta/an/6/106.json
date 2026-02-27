@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 6.106",
+  "plTitle": "Taṇhā Sutta",
+  "frTitle": "Les types de Soif",
+  "description": "Les trois types de Soif et d'amour-propre devant être abandonnés.",
+  "body": [
+    {
+      "pl": "“tisso imā, bhikkhave, taṇhā pahātabbā, tayo ca mānā. katamā tisso taṇhā pahātabbā? kāmataṇhā, bhavataṇhā, vibhavataṇhā. imā tisso taṇhā pahātabbā. ",
+      "fr": "[bhikkhu|Mendiants], vous devriez abandonner ces trois [types de] [tanha|Soif] et ces trois [types d'][maana|amour-propre]. Quels sont les trois [types de] [tanha|Soif] que vous devriez abandonner? La [kamatanha|Soif de sensualité], la [bhavatanha|Soif d'existence], la [vibhavatanha|Soif de non-existence]. Vous devriez abandonner ces trois [types de] [tanha|Soif]."
+    },
+    {
+      "pl": "katame tayo mānā pahātabbā? māno, omāno, atimāno. ime tayo mānā pahātabbā.",
+      "fr": "Quels sont les trois [types d'][maana|amour-propre] que vous devriez abandonner? L'[maana|amour-propre], le complexe d'infériorité et le complexe de supériorité. Vous devriez abandonner ces trois [types d'][maana|amour-propre]."
+    },
+    {
+      "pl": "yato kho, bhikkhave, bhikkhuno imā tisso taṇhā pahīnā honti, ime ca tayo mānā, ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā”ti.",
+      "fr": "Un [bhikkhu|mendiant] chez qui ces trois [types de] [tanha|Soif] et ces trois [types d'][maana|amour-propre] sont abandonnés est appelé un [bhikkhu|mendiant] qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves], et qui par la compréhension correcte de l'[maana|amour-propre] a mis fin au [dukkha|mal-être]."
+    }
+  ],
+  "translator": "Rémy"
+}

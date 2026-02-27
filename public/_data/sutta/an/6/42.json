@@ -1,0 +1,74 @@
+﻿{
+  "identifier": "AN 6.42",
+  "plTitle": "Nāgita Sutta",
+  "frTitle": "En compagnie de Naguita",
+  "description": "Le Bouddha fait l'éloge des mendiants qui prennent résidence en pleine forêt, loin de la tentation des acquisitions, des honneurs et de la renommée (lābha-sakkāra-siloka).",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.",
+      "fr": "Un jour, en voyageant à pied à travers le Kosala avec un grand groupe de [bhikkhu|mendiants], le [bhagava|Fortuné] arriva à un village de [brahmana|brahmanes] du Kosala qui s'appelait Itchanangala. Le [bhagava|Fortuné] séjourna alors près d'Itchanangala, dans le maquis forestier d'Itchanangala."
+    },
+    {
+      "pl": "assosuṃ kho icchānaṅgalakā brāhmaṇagahapatikā — “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito icchānaṅgalaṃ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe. taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato — ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. so imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. sādhu kho pana tathārūpānaṃ arahataṃ dassanaṃ hotī”ti.",
+      "fr": "Les [brahmana|brahmanes] maîtres de maison d'Itchanangala entendirent: [i]«Messieurs, le [samana|renonçant] Gotama, un fils des Sakyas ayant quitté le clan des Sakyas, est arrivé à Itchanangala en voyageant à pied à travers le Kosala avec un grand groupe de [bhikkhu|mendiants]. Et la bonne réputation de ce [ayasma|vénérable] Gotama s'est répandue ainsi: “[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.] Il fait connaître ce monde avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] & [brahmana|brahmanes], avec cette génération de [deva|dévas] et d'êtres humains, en en ayant fait lui-même l'expérience par [abhinna|connaissance directe]. Il enseigne un [dhamma|Dhamma] qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la [brahmacariya|vie brahmique] qui est entièrement complète et pure. Il est bon de voir un tel [arahant|Méritant]”.»[/i]"
+    },
+    {
+      "pl": "atha kho icchānaṅgalakā brāhmaṇagahapatikā tassā rattiyā accayena pahūtaṃ khādanīyaṃ bhojanīyaṃ ādāya yena icchānaṅgalavanasaṇḍo tenupasaṅkamiṃsu; upasaṅkamitvā bahidvārakoṭṭhake aṭṭhaṃsu uccāsaddā mahāsaddā.",
+      "fr": "Alors lorsque cette nuit-là fut passée, les [brahmana|brahmanes] maîtres de maison d'Itchanangala emportèrent d'abondantes nourritures, de base et raffinées et se rendirent au maquis forestier d'Itchanangala. Une fois arrivés, ils se tinrent debout au portail d'entrée en faisant beaucoup de bruit et de vacarme."
+    },
+    {
+      "pl": "tena kho pana samayena āyasmā nāgito bhagavato upaṭṭhāko hoti. atha kho bhagavā āyasmantaṃ nāgitaṃ āmantesi:",
+      "fr": "À cette époque-là, le [ayasma|vénérable] Naguita était l'intendant du [bhagava|Fortuné]. Le [bhagava|Fortuné] s'adressa alors au [ayasma|vénérable] Naguita:"
+    },
+    {
+      "pl": "“ke pana kho, nāgita, uccāsaddamahāsaddā, kevaṭṭā maññe macchavilope”ti?",
+      "fr": "«Naguita, quel est donc ce bruit et ce vacarme, on dirait des pêcheurs avec une prise de poissons?"
+    },
+    {
+      "pl": "“ete, bhante, icchānaṅgalakā brāhmaṇagahapatikā pahūtaṃ khādanīyaṃ bhojanīyaṃ ādāya bahidvārakoṭṭhake ṭhitā bhagavantaññeva uddissa bhikkhusaṅghañcā”ti.",
+      "fr": "—[bhante|Bhanté], ce sont les [brahmana|brahmanes] maîtres de maison d'Itchanangala qui, ayant apporté d'abondantes nourritures, de base et raffinées, se tiennent debout au portail d'entrée [pour faire leur offrande] au [bhagava|Fortuné] et à la [sangha|communauté] des [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "“māhaṃ, nāgita, yasena samāgamaṃ, mā ca mayā yaso. yo kho, nāgita, nayimassa nekkhammasukhassa pavivekasukhassa upasamasukhassa sambodhasukhassa nikāmalābhī assa akicchalābhī akasiralābhī, yassāhaṃ nekkhammasukhassa pavivekasukhassa upasamasukhassa sambodhasukhassa nikāmalābhī akicchalābhī akasiralābhī. so taṃ mīḷhasukhaṃ middhasukhaṃ lābhasakkārasilokasukhaṃ sādiyeyyā”ti.",
+      "fr": "—Naguita, puissé-je ne pas avoir de renommée, et que la renommée ne soit pas mienne. Naguita, celui qui n'obtient pas à volonté, aisément et sans difficulté le [sukha|plaisir] du [nekkhamma|renoncement], le [sukha|plaisir] de l'[paviveka|isolement], le [sukha|plaisir] de la [upasama|quiétude], le [sukha|plaisir] de l'[sambodhi|éveil], tout comme j'obtiens moi-même à volonté, aisément et sans difficultéle [sukha|plaisir] du [nekkhamma|renoncement], le [sukha|plaisir] de l'[paviveka|isolement], le [sukha|plaisir] de la [upasama|quiétude], le [sukha|plaisir] de l'[sambodhi|éveil], jouit de ce [sukha|plaisir] fécal, de ce [sukha|plaisir] paresseux qu'est le [sukha|plaisir] des [lss|acquisitions, honneurs & renommée]."
+    },
+    {
+      "pl": "“adhivāsetu dāni, bhante, bhagavā, adhivāsetu sugato; adhivāsanakālo dāni, bhante, bhagavato. yena yeneva dāni bhagavā gamissati taṃninnāva gamissanti brāhmaṇagahapatikā negamā ceva jānapadā ca. seyyathāpi, bhante, thullaphusitake deve vassante yathāninnaṃ udakāni pavattanti; evamevaṃ kho, bhante, yena yeneva dāni bhagavā gamissati, taṃninnāva gamissanti brāhmaṇagahapatikā negamā ceva jānapadā ca. taṃ kissa hetu? tathā hi, bhante, bhagavato sīlapaññāṇan”ti.",
+      "fr": "—[bhante|Bhanté], que le [bhagava|Fortuné] accepte maintenant, que le [sugata|Sublime] accepte. [bhante|Bhanté], c'est le moment pour le [bhagava|Fortuné] d'accepter. Où que le [bhagava|Fortuné] aille maintenant, les [brahmana|brahmanes] maîtres de maison des villes et de la région y sont également attirés. Tout comme, [bhante|Bhanté], lorsqu'un nuage fait tomber de la pluie en grosses gouttes, l'eau s'écoule dans les pentes, de la même manière, où que le [bhagava|Fortuné] aille maintenant, les [brahmana|brahmanes] maîtres de maison des villes et de la région y sont également attirés. Et quelle en est la raison? À cause de la [sila|vertu] et du [panna|discernement] du [bhagava|Fortuné]."
+    },
+    {
+      "pl": "“māhaṃ, nāgita, yasena samāgamaṃ, mā ca mayā yaso. yo kho, nāgita, nayimassa nekkhammasukhassa pavivekasukhassa upasamasukhassa sambodhasukhassa nikāmalābhī assa akicchalābhī akasiralābhī, yassāhaṃ nekkhammasukhassa pavivekasukhassa upasamasukhassa sambodhasukhassa nikāmalābhī akicchalābhī akasiralābhī. so taṃ mīḷhasukhaṃ middhasukhaṃ lābhasakkārasilokasukhaṃ sādiyeyyā”ti.",
+      "fr": "—Naguita, puissé-je ne pas avoir de renommée, et que la renommée ne soit pas mienne. Naguita, celui qui n'obtient pas à volonté, aisément et sans difficulté le [sukha|plaisir] du [nekkhamma|renoncement], le [sukha|plaisir] de l'[paviveka|isolement], le [sukha|plaisir] de la [upasama|quiétude], le [sukha|plaisir] de l'[sambodhi|éveil], tout comme j'obtiens moi-même à volonté, aisément et sans difficultéle [sukha|plaisir] du [nekkhamma|renoncement], le [sukha|plaisir] de l'[paviveka|isolement], le [sukha|plaisir] de la [upasama|quiétude], le [sukha|plaisir] de l'[sambodhi|éveil], jouit de ce [sukha|plaisir] fécal, de ce [sukha|plaisir] paresseux qu'est le [sukha|plaisir] des [lss|acquisitions, honneurs & renommée]."
+    },
+    {
+      "pl": "“idhāhaṃ, nāgita, bhikkhuṃ passāmi gāmantavihāriṃ samāhitaṃ nisinnaṃ. tassa mayhaṃ, nāgita, evaṃ hoti: ‘idānimaṃ āyasmantaṃ ārāmiko vā upaṭṭhahissati samaṇuddeso vā taṃ tamhā samādhimhā cāvessatī’ti. tenāhaṃ, nāgita, tassa bhikkhuno na attamano homi gāmantavihārena.",
+      "fr": "Naguita, lorsque je vois un [bhikkhu|mendiant] séjournant au bord d'un village assis, [samadhi|concentré], je me dis: [i]“bientôt, un assistant de monastère ou un novice va arriver et faire chuter ce [ayasma|vénérable] de cette [samadhi|concentration].”[/i] Et pour cette raison, je ne suis pas satisfait du séjour de ce [bhikkhu|mendiant] au bord d'un village."
+    },
+    {
+      "pl": "idha panāhaṃ, nāgita, bhikkhuṃ passāmi āraññikaṃ araññe pacalāyamānaṃ nisinnaṃ. tassa mayhaṃ, nāgita, evaṃ hoti: ‘idāni ayamāyasmā imaṃ niddākilamathaṃ paṭivinodetvā araññasaññaṃyeva manasi karissati ekattan’ti. tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārena.",
+      "fr": "Mais lorsque je vois un [bhikkhu|mendiant] qui vit en [aranna|forêt], assis, s'endormant, je me dis: [i]“bientôt, ce [ayasma|vénérable] va dissiper de cette fatigue et cette somnolence et [manasikara|porter son attention] uniquement à la perception de la [aranna|forêt], à l'unification [de l'esprit].”[/i] Et pour cette raison, je suis satisfait du séjour de ce [bhikkhu|mendiant] en [aranna|forêt]."
+    },
+    {
+      "pl": "“idha panāhaṃ, nāgita, bhikkhuṃ passāmi āraññikaṃ araññe asamāhitaṃ nisinnaṃ. tassa mayhaṃ, nāgita, evaṃ hoti — ‘idāni ayamāyasmā asamāhitaṃ vā cittaṃ samādahissati, samāhitaṃ vā cittaṃ anurakkhissatī’ti. tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārena.",
+      "fr": "Et lorsque je vois un [bhikkhu|mendiant] qui vit en [aranna|forêt], assis, déconcentré, je me dis: «bientôt, ce [ayasma|vénérable] va [samadhi|concentrer] son esprit déconcentré, ou protéger son esprit [samadhi|concentré].» Et pour cette raison, je suis satisfait du séjour de ce [bhikkhu|mendiant] en [aranna|forêt]."
+    },
+    {
+      "pl": "“idha panāhaṃ, nāgita, bhikkhuṃ passāmi āraññikaṃ araññe samāhitaṃ nisinnaṃ. tassa mayhaṃ, nāgita, evaṃ hoti — ‘idāni ayamāyasmā avimuttaṃ vā cittaṃ vimocessati, vimuttaṃ vā cittaṃ anurakkhissatī’ti. tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārena.",
+      "fr": "Et lorsque je vois un [bhikkhu|mendiant] qui vit en [aranna|forêt], assis, [samadhi|concentré], je me dis: «bientôt, ce [ayasma|vénérable] va [vimutti|libérer] son esprit non-libéré, ou protéger son esprit [vimutti|libéré].» Et pour cette raison, je suis satisfait du séjour de ce [bhikkhu|mendiant] en [aranna|forêt]."
+    },
+    {
+      "pl": "“idha panāhaṃ, nāgita, bhikkhuṃ passāmi gāmantavihāriṃ lābhiṃ cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ. so taṃ lābha-sakkāra-silokaṃ nikāmayamāno riñcati paṭisallānaṃ riñcati araññavanapatthāni pantāni senāsanāni; gāmanigamarājadhāniṃ osaritvā vāsaṃ kappeti. tenāhaṃ, nāgita, tassa bhikkhuno na attamano homi gāmantavihārena.",
+      "fr": "Et lorsque je vois un [bhikkhu|mendiant] séjournant au bord d'un village, obtenant des [civara|robes], des [pindapata|nourritures d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] et provisions pour les malades, désirant [lss|acquisitions, honneurs & renommée], il néglige la [patisallana|solitude] et les [senasana|gîtes] isolés en pleine [aranna|forêt]. Il se rend dans un village, une ville ou une capitale et s'y installe. Et pour cette raison, je ne suis pas satisfait du séjour de ce [bhikkhu|mendiant] au bord d'un village."
+    },
+    {
+      "pl": "“idha panāhaṃ, nāgita, bhikkhuṃ passāmi āraññikaṃ lābhiṃ cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ. so taṃ lābhasakkārasilokaṃ paṭipaṇāmetvā na riñcati paṭisallānaṃ na riñcati araññavanapatthāni pantāni senāsanāni. tenāhaṃ, nāgita, tassa bhikkhuno attamano homi araññavihārena.",
+      "fr": "Mais lorsque je vois un [bhikkhu|mendiant] qui vit en [aranna|forêt], obtenant des [civara|robes], des [pindapata|nourritures d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] et provisions pour les malades, repoussant [lss|acquisitions, honneurs & renommée], il ne néglige pas la [patisallana|solitude] ni les [senasana|gîtes] isolés en pleine [aranna|forêt]. Et pour cette raison, je suis satisfait du séjour de ce [bhikkhu|mendiant] en [aranna|forêt]."
+    },
+    {
+      "pl": "yasmāhaṃ, nāgita, samaye addhānamaggappaṭipanno na kañci passāmi purato vā pacchato vā, phāsu me, nāgita, tasmiṃ samaye hoti antamaso uccārapassāvakammāyā”ti.",
+      "fr": "Naguita, lorsque je voyage sur une longue route et que je ne vois personne devant ni derrière, je suis à l'aise, même pour uriner et déféquer.»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

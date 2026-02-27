@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 6.76",
+  "plTitle": "Arahatta Sutta",
+  "frTitle": "L'état d'arahant",
+  "description": "Pour atteindre l'état d'arahant, il faut avoir abandonné ces six états.",
+  "body": [
+    {
+      "pl": "“cha, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. katame cha? mānaṃ, omānaṃ, atimānaṃ, adhimānaṃ, thambhaṃ, atinipātaṃ. ime kho, bhikkhave, cha dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+      "fr": "[bhikkhu|Mendiants], il est impossible de réaliser le [arahant|Mérite] sans avoir abandonné six [dhamma|états]. Quels sont ces six [dhamma|états]? L'[maana|orgueil], le complexe d'infériorité, le complexe de supériorité, la surestime de soi, l'opiniâtreté, et l'auto-humiliation. [bhikkhu|Mendiants], il est impossible de réaliser le [arahant|Mérite] sans avoir abandonné ces six [dhamma|états]."
+    },
+    {
+      "pl": "“cha, bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ. katame cha? mānaṃ, omānaṃ, atimānaṃ, adhimānaṃ, thambhaṃ, atinipātaṃ. ime kho, bhikkhave, cha dhamme pahāya bhabbo arahattaṃ sacchikātun”ti.",
+      "fr": "[bhikkhu|Mendiants], il est possible de réaliser le [arahant|Mérite] en ayant abandonné six [dhamma|états]. Quels sont ces six [dhamma|états]? L'[maana|orgueil], le complexe d'infériorité, le complexe de supériorité, la surestime de soi, l'opiniâtreté, et l'auto-humiliation. [bhikkhu|Mendiants], il est possible de réaliser le [arahant|Mérite] en ayant abandonné ces six [dhamma|états]."
+    }
+  ],
+  "translator": "Sekha"
+}

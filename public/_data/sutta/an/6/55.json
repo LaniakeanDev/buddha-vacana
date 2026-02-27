@@ -1,0 +1,139 @@
+﻿{
+  "identifier": "AN 6.55",
+  "plTitle": "Soṇa Sutta",
+  "frTitle": "Conseils à Soṇa",
+  "description": "Célèbre discours dans lequel le Bouddha explique l'équilibrage de l'effort au moyen d'une comparaison avec un instrument à cordes. Suit une description de l'état d'arahant par le vénérable Soṇa.",
+  "body": [
+    { "pl": "evaṃ, me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. tena kho pana samayena āyasmā soṇo rājagahe viharati sītavanasmiṃ. atha kho āyasmato soṇassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “ye kho keci bhagavato sāvakā āraddhavīriyā viharanti, ahaṃ tesaṃ aññataro. atha ca pana me na anupādāya āsavehi cittaṃ vimuccati, saṃvijjanti kho pana me kule bhogā, sakkā bhogā ca bhuñjituṃ puññāni ca kātuṃ. yaṃnūnāhaṃ sikkhaṃ paccakkhāya hīnāyāvattitvā bhoge ca bhuñjeyyaṃ puññāni ca kareyyan”ti.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri au Pic des Vautours. Au même moment, le [ayasma|vénérable] Soṇa séjournait près de Rajgiri, dans le bois frais. Ce jour-là, le [ayasma|vénérable] Soṇa était en [patisallana|isolement] dans un endroit retiré, et la pensée suivante apparut dans son [citta|esprit]: [i]“Bien que je fasse partie des disciples du [bhagava|Fortuné] qui demeurent [araddhavirya|avec une [araddhaviriya|énergie activée]], mon [citta|esprit] n'est pas délivré des [asava|impuretés mentales] par non-[upadana|attachement]. Cependant, ma famille a beaucoup de richesses, et il est possible de jouir des richesses tout en faisant du [punna|mérite]. Pourquoi ne pas abandonner l'[sikkha|entraînement] et retourner à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]?”[/i]"
+    },
+    {
+      "pl": "atha kho bhagavā āyasmato soṇassa cetasā cetoparivitakkamaññāya, seyyathāpi nāma balavā puriso sammiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ sammiñjeyya, evamevaṃ kho, gijjhakūṭe pabbate antarahito sītavane āyasmato soṇassa sammukhe pāturahosi. nisīdi bhagavā paññatte āsane. āyasmāpi kho soṇo bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ soṇaṃ bhagavā etadavoca:",
+      "fr": "Ayant connu avec son [citta|esprit] la réflexion qui était apparue dans l'[citta|esprit] du [ayasma|vénérable] Soṇa, tout comme un homme en bonne santé pourrait étendre son bras replié ou replier son bras étendu, le [bhagava|Fortuné] disparut du Pic des Vautours et apparut juste devant le [ayasma|vénérable] Soṇa, dans le bois frais. Il s'assit sur le siège préparé, et le [ayasma|vénérable] Soṇa, après lui avoir rendu hommage, s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui dit:"
+    },
+    {
+      "pl": "“nanu te, soṇa, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘ye kho keci bhagavato sāvakā āraddhavīriyā viharanti, ahaṃ tesaṃ aññataro. atha ca pana me na anupādāya āsavehi cittaṃ vimuccati, saṃvijjanti kho pana me kule bhogā, sakkā bhogā ca bhuñjituṃ puññāni ca kātuṃ. yaṃnūnāhaṃ sikkhaṃ paccakkhāya hīnāyāvattitvā bhoge ca bhuñjeyyaṃ puññāni ca kareyyan’”ti?",
+      "fr": "—Soṇa, pendant que tu étais en [patisallana|isolement] dans un endroit retiré, la pensée suivante n'est-elle pas apparue dans ton [citta|esprit]: [i]“Bien que je fasse partie de disciples du [bhagava|Fortuné] qui demeurent [araddhavirya|avec une [araddhaviriya|énergie activée]], mon [citta|esprit] n'est pas délivré des [asava|impuretés mentales] par non-[upadana|attachement]. Cependant, ma famille a beaucoup de richesses, et il est possible de jouir des richesses tout en faisant du [punna|mérite]. Pourquoi ne pas abandonner l'[sikkha|entraînement] et retourner à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]?”[/i]?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññasi, soṇa, kusalo tvaṃ pubbe agāriyabhūto vīṇāya tantissare”ti?",
+      "fr": "—Qu'en penses-tu, Soṇa, auparavant, lorsque tu vivais au foyer, est-ce que tu étais connaisseur en ce qui concerne le son [produit par] les cordes du vīṇa?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+      "fr": "—Qu'en penses-tu, Soṇa, lorsque les cordes du vīṇa sont trop tendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+      "fr": "—Qu'en penses-tu, Soṇa, lorsque les cordes du vīṇa sont trop détendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+      "fr": "—Et lorsque les cordes du vīṇa ne sont ni trop tendues ni trop détendues, qu'elles sont ajustées à une tonalité équilibrée, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+    },
+    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evamevaṃ kho, soṇa, accāraddhavīriyaṃ uddhaccāya saṃvattati, atisithilavīriyaṃ kosajjāya saṃvattati. tasmātiha tvaṃ, soṇa, vīriyasamataṃ adhiṭṭhahaṃ, indriyānañca samataṃ paṭivijjha, tattha ca nimittaṃ gaṇhāhī”ti.",
+      "fr": "—De la même manière, Soṇa, une [viriya|énergie] trop active mène à l'[uddhacca|agitation], et une [viriya|énergie] trop détendue mène à la paresse. C'est pourquoi tu devrais déterminer une [viriya|énergie] équilibrée en prenant en compte l'équilibre des [indriya|facultés], et c'est là que tu devrais saisir ton [nimitta|objet]."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho āyasmā soṇo bhagavato paccassosi. atha kho bhagavā āyasmantaṃ soṇaṃ iminā ovādena ovaditvā, seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya, evamevaṃ kho, sītavane antarahito gijjhakūṭe pabbate pāturahosi.",
+      "fr": "—Oui, [bhante|Bhanté], répondit le [ayasma|vénérable] Soṇa au [bhagava|Fortuné]. Alors, ayant exhorté le [ayasma|vénérable] Soṇa avec cette exhortation, tout comme un homme en bonne santé pourrait étendre son bras replié ou replier son bras étendu, le [bhagava|Fortuné] disparut du bois frais et apparut sur le Pic des Vautours."
+    },
+    {
+      "pl": "atha kho āyasmā soṇo aparena samayena vīriyasamathaṃ adhiṭṭhāsi, indriyānañca samataṃ paṭivijjhi, tattha ca nimittaṃ aggahesi. atha kho āyasmā soṇo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva, yassatthāya kulaputtā sammadeva agārasmā anāgāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. aññataro ca panāyasmā soṇo arahataṃ ahosi.",
+      "fr": "Et un peu plus tard, le [ayasma|vénérable] Soṇa détermina une [viriya|énergie] équilibrée en prenant en compte l'équilibre des [indriya|facultés], et ce fut là qu'il saisit son objet. Demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, il entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les enfants de [bonne] famille quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Soṇa devint l'un des [arahant|Méritants]."
+    },
+    {
+      "pl": "atha kho āyasmato soṇassa arahattappattassa etadahosi: “yaṃnūnāhaṃ yena bhagavā tenupasaṅkameyyaṃ; upasaṅkamitvā bhagavato santike aññaṃ byākareyyan”ti. atha kho āyasmā soṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā soṇo bhagavantaṃ etadavoca:",
+      "fr": "Et ayant atteint le [arahant|Mérite], il se dit: [i]“Et si j'allais voir le [bhagava|Fortuné] et que je déclarais [avoir atteint] la Connaissance finale auprès de lui?”[/i] Alors le [ayasma|vénérable] Soṇa alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“yo so, bhante, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto, so cha ṭhānāni adhimutto hoti: nekkhammādhimutto hoti, pavivekādhimutto hoti, abyāpajjādhimutto hoti, taṇhākkhayādhimutto hoti, upādānakkhayādhimutto hoti, asammohādhimutto hoti.",
+      "fr": "—Les [bhikkhu|mendiants], [bhante|Bhanté], qui sont des [arahant|Méritants], qui ont complètement éliminé les [asava|impuretés mentales], qui sont accomplis, qui ont fait ce qui devait l'être, qui ont déposé le fardeau, qui ont atteint l'objectif, qui ont complètement épuisé les [samyojana|entraves spirituelles] de l'[bhava|existence], et qui sont délivrés par connaissance correcte, sont enclins à six choses: ils sont enclins au [nekkhamma|renoncement], à l'[paviveka|isolement], à l'absence de préjudice, à l'élimination complète de la [tanha|Soif], à l'élimination complète de l'[upadana|attachement], et au dés·[moha|illusionnement]."
+    },
+    {
+      "pl": "“siyā kho pana, bhante, idhekaccassa āyasmato evamassa: ‘kevalaṃsaddhāmattakaṃ nūna ayamāyasmā nissāya nekkhammādhimutto’ti. na kho panetaṃ, bhante, evaṃ daṭṭhabbaṃ. khīṇāsavo, bhante, bhikkhu vusitavā katakaraṇīyo karaṇīyaṃ attano asamanupassanto katassa vā paṭicayaṃ, khayā rāgassa vītarāgattā nekkhammādhimutto hoti, khayā dosassa vītadosattā nekkhammādhimutto hoti, khayā mohassa vītamohattā nekkhammādhimutto hoti.",
+      "fr": "De plus, [bhante|Bhanté], il se pourrait que des [ayasma|vénérables] se disent: [i]“Ce [ayasma|vénérable] est enclin au [nekkhamma|renoncement] par pure et simple [saddha|conviction].”[/i] Mais cela ne devrait pas être vu ainsi. Un [aaaaaaa|mendiant] qui a complètement éliminé les [asava|impuretés mentales], qui est accompli, qui a fait ce qui devait l'être, ne voyant pas en lui-même quelque chose [qui resterait] à faire, ni [le besoin] d'accumuler ce qui a été fait, est enclin au [nekkhamma|renoncement] parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin au [nekkhamma|renoncement] parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin au [nekkhamma|renoncement] parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“siyā kho pana, bhante, idhekaccassa āyasmato evamassa: ‘lābhasakkārasilokaṃ nūna ayamāyasmā nikāmayamāno pavivekādhimutto’ti. na kho panetaṃ, bhante, evaṃ daṭṭhabbaṃ. khīṇāsavo, bhante, bhikkhu vusitavā katakaraṇīyo karaṇīyaṃ attano asamanupassanto katassa vā paṭicayaṃ khayā rāgassa vītarāgattā pavivekādhimutto hoti, khayā dosassa vītadosattā pavivekādhimutto hoti, khayā mohassa vītamohattā pavivekādhimutto hoti.",
+      "fr": "De plus, [bhante|Bhanté], il se pourrait que des [ayasma|vénérables] se disent: [i]“Ce [ayasma|vénérable] est enclin à l'[paviveka|isolement] par désir d'[lss|acquisitions, honneurs et renommée].”[/i] Mais cela ne devrait pas être vu ainsi. Un [bhikkhu|mendiant] qui a complètement éliminé les [asava|impuretés mentales], qui est accompli, qui a fait ce qui devait l'être, ne voyant pas en lui-même quelque chose [qui resterait] à faire, ni [le besoin] d'accumuler ce qui a été fait, est enclin à l'[paviveka|isolement] parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin à l'[paviveka|isolement] parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin à l'[paviveka|isolement] parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“siyā kho pana, bhante, idhekaccassa āyasmato evamassa: ‘sīlabbataparāmāsaṃ nūna ayamāyasmā sārato paccāgacchanto abyāpajjādhimutto’ti. na kho panetaṃ, bhante, evaṃ daṭṭhabbaṃ. khīṇāsavo, bhante, bhikkhu vusitavā katakaraṇīyo karaṇīyaṃ attano asamanupassanto katassa vā paṭicayaṃ khayā rāgassa vītarāgattā abyāpajjādhimutto hoti, khayā dosassa vītadosattā abyāpajjādhimutto hoti, khayā mohassa vītamohattā abyāpajjādhimutto hoti.",
+      "fr": "De plus, [bhante|Bhanté], il se pourrait que des [ayasma|vénérables] se disent: [i]“Ce [ayasma|vénérable] est enclin à l'absence de préjudice parce qu'il a rechuté dans la [silabbataparamasa|croyance en la suprématie des rites et préceptes] comme étant l'essence [de la pratique]'.[/i]Mais cela ne devrait pas être vu ainsi. Un [bhikkhu|mendiant] qui a complètement éliminé les [asava|impuretés mentales], qui est accompli, qui a fait ce qui devait l'être, ne voyant pas en lui-même quelque chose [qui resterait] à faire, ni [le besoin] d'accumuler ce qui a été fait, est enclin à l'absence de préjudice parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin à l'absence de préjudice parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin à l'absence de préjudice parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“khayā rāgassa vītarāgattā taṇhākkhayādhimutto hoti, khayā dosassa vītadosattā taṇhākkhayādhimutto hoti, khayā mohassa vītamohattā taṇhākkhayādhimutto hoti.",
+      "fr": "Il est enclin à l'élimination complète de la [tanha|Soif] parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin à l'élimination complète de la [tanha|Soif] parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin à l'élimination complète de la [tanha|Soif] parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“khayā rāgassa vītarāgattā upādānakkhayādhimutto hoti, khayā dosassa vītadosattā upādānakkhayādhimutto hoti, khayā mohassa vītamohattā upādānakkhayādhimutto hoti.",
+      "fr": "Il est enclin à l'élimination complète de l'[upadana|attachement] parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin à l'élimination complète de l'[upadana|attachement] parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin à l'élimination complète de l'[upadana|attachement] parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“khayā rāgassa vītarāgattā asammohādhimutto hoti, khayā dosassa vītadosattā asammohādhimutto hoti, khayā mohassa vītamohattā asammohādhimutto hoti.",
+      "fr": "Il est enclin au dés·[moha|illusionnement] parce qu'il est devenu dénué d'[raga|avidité] par l'élimination complète de l'[raga|avidité], il est enclin au dés·[moha|illusionnement] parce qu'il est devenu dénué d'[dosa|aversion] par l'élimination complète de l'[dosa|aversion], et il est enclin au dés·[moha|illusionnement] parce qu'il est devenu dénué de [moha|délusion] par l'élimination complète de la [moha|délusion]."
+    },
+    {
+      "pl": "“evaṃ sammā vimuttacittassa, bhante, bhikkhuno bhusā cepi cakkhuviññeyyā rūpā cakkhussa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Chez un [bhikkhu|mendiant] ainsi correctement [cetovimutti|libéré en esprit], [bhante|Bhanté], même si de formidables formes connaissables par l'œil entrent dans le champ d'objets de son œil, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi sotaviññeyyā saddā sotassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables sons connaissables par l'oreille entrent dans le champ d'objets de son oreille, ils ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi ghānaviññeyyā gandhā ghānassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables odeurs connaissables par le nez entrent dans le champ d'objets de son nez, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi jivhāviññeyyā rasā jivhāya āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables saveurs connaissables par la langue entrent dans le champ d'objets de sa langue, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi kāyaviññeyyā phoṭṭhabbā kāyassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables sensations corporelles connaissables par le corps entrent dans le champ d'objets de son corps, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi manoviññeyyā dhammā manassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti. amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables phénomènes mentaux connaissables par l'[citta|esprit] entrent dans le champ d'objets de son [citta|esprit], ils ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "seyyathāpi, bhante, selo pabbato acchiddo asusiro ekagghano. atha puratthimāya cepi disāya āgaccheyya bhusā vātavuṭṭhi neva naṃ saṅkampeyya na sampakampeyya na sampavedheyya, atha pacchimāya cepi disāya āgaccheyya bhusā vātavuṭṭhi neva naṃ saṅkampeyya na sampakampeyya na sampavedheyya, atha uttarāya cepi disāya āgaccheyya bhusā vātavuṭṭhi neva naṃ saṅkampeyya na sampakampeyya na sampavedheyya, atha dakkhiṇāya cepi disāya āgaccheyya bhusā vātavuṭṭhi neva naṃ saṅkampeyya na sampakampeyya na sampavedheyya.",
+      "fr": "Tout comme, [bhante|Bhanté] une montagne rocheuse sans fissures ni anfractuosités, se tenant d'une seule masse: les vents formidables et la pluie venant de l'est ne pourraient la faire vibrer, ni la faire trembler, ni la secouer; les vents formidables et la pluie venant de l'ouest ne pourraient la faire vibrer, ni la faire trembler, ni la secouer; les vents formidables et la pluie venant du nord, ne pourraient la faire vibrer, ni la faire trembler, ni la secouer; les vents formidables et la pluie venant du sud, ne pourraient la faire vibrer, ni la faire trembler, ni la secouer."
+    },
+    {
+      "pl": "evamevaṃ kho, bhante, evaṃ sammāvimuttacittassa bhikkhuno bhusā cepi cakkhuviññeyyā rūpā cakkhussa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "De la même manière, [bhante|Bhanté], chez un [bhikkhu|mendiant] ainsi correctement [cetovimutti|libéré en esprit], même si de formidables formes connaissables par l'œil entrent dans le champ d'objets de son œil, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi sotaviññeyyā saddā sotassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables sons connaissables par l'oreille entrent dans le champ d'objets de son oreille, ils ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi ghānaviññeyyā gandhā ghānassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables odeurs connaissables par le nez entrent dans le champ d'objets de son nez, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi jivhāviññeyyā rasā jivhāya āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables saveurs connaissables par la langue entrent dans le champ d'objets de sa langue, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi kāyaviññeyyā phoṭṭhabbā kāyassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables sensations corporelles connaissables par le corps entrent dans le champ d'objets de son corps, elles ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    },
+    {
+      "pl": "bhusā cepi manoviññeyyā dhammā manassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti. amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ vayañcassānupassati.",
+      "fr": "Même si de formidables phénomènes mentaux connaissables par l'[citta|esprit] entrent dans le champ d'objets de son [citta|esprit], ils ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
+    }
+  ],
+  "translator": "Rémy"
+}
