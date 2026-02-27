@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "SN 36.1",
+  "plTitle": "Samādhi Sutta",
+  "frTitle": "La concentration",
+  "description": "Les trois types de ressentis sont ici expliqués simplement, avec quelques vers en complément.",
+  "body": [
+    {
+      "pl": "“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā — imā kho, bhikkhave, tisso vedanāti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces trois [types de] de [vedana|ressentis]. Quels sont ces trois [types]? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] de [vedana|ressentis]."
+    },
+    {
+      "pl": "“samāhito sampajāno, [@v]sato buddhassa sāvako.",
+      "fr": "[i]Un [savaka|disciple] du [buddha|Bouddha] est [samadhi|concentré],[/i][@v][i][sati|Présent d'esprit] et [sampajana|discerne attentivement].[/i]"
+    },
+    {
+      "pl": "vedanā ca pajānāti,[@v]vedanānañca sambhavaṃ.[@v]yattha cetā nirujjhanti, [@v]maggañca khayagāminaṃ.",
+      "fr": "[i]Il [panna|discerne] les [vedana|ressentis][/i][@v][i]Ainsi que leur origine,[/i][@v][i]Là où ils [nirodha|cessent],[/i][@v][i]Et la [magga|voie] menant à leur destruction.[/i]"
+    },
+    {
+      "pl": "vedanānaṃ khayā bhikkhu,[@v]nicchāto parinibbuto”ti.",
+      "fr": "[i]Avec la destruction des [vedana|ressentis], un [bhikkhu|mendiant][/i][@v][i]Est pleinement satisfait, [parinibbana|complètement calme].[/i]"
+    }
+  ],
+  "translator": "Sekha"
+}

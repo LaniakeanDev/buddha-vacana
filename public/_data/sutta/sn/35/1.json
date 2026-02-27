@@ -1,0 +1,47 @@
+﻿{
+  "identifier": "SN 35.1 à 3",
+  "plTitle": "Ajjhatta Sutta",
+  "frTitle": "Intérieurement",
+  "description": "Voici comment le Bouddha veut que nous appréhendions les six organes des sens.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ.", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca",
+      "fr": "—[bhadante|Badhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“cakkhuṃ, bhikkhave, aniccaṃ. yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tadanattā. yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "[bhikkhu|Mendiants], l'œil est [anicca|impermanent]. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "sotaṃ aniccaṃ. yadaniccaṃ ... pe ...",
+      "fr": "L'oreille est [anicca|impermanent]e. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "ghānaṃ aniccaṃ. yadaniccaṃ ... pe ...",
+      "fr": "Le nez est [anicca|impermanent]. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "jivhā aniccā. yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tadanattā. yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "La langue est [anicca|impermanent]e. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "kāyo anicco. yadaniccaṃ ... pe ...",
+      "fr": "Le corps est [anicca|impermanent]. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "mano anicco. yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tadanattā. yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "Le mental est [anicca|impermanent]. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
+    },
+    {
+      "pl": "evaṃ passaṃ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, sotasmimpi nibbindati, ghānasmimpi nibbindati, jivhāyapi nibbindati, kāyasmimpi nibbindati, manasmimpi nibbindati. nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+      "fr": "En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de l'œil, il est [nibbida|désenchanté] vis-à-vis de l'oreille, vis-à-vis du nez, de la langue, du corps, et il est [nibbida|désenchanté] vis-à-vis du mental. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 34.11",
+  "plTitle": "Samāpattimūlakaṭhiti Sutta",
+  "frTitle": "Atteindre et se maintenir",
+  "description": "Atteindre la concentration et s'y maintenir.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Cattārome, bhikkhave, jhāyī. Katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "Idha, bhikkhave, ekacco jhāyī samādhismiṃ samāpatti·kusalo hoti, na samādhismiṃ ṭhiti·kusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ ṭhiti·kusalo hoti, na samādhismiṃ samāpatti·kusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṃ samāpatti·kusalo hoti, na ca samādhismiṃ ṭhiti·kusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṃ samāpatti·kusalo ca hoti, samādhismiṃ ṭhiti·kusalo ca.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un certain méditant est habile à atteindre la [samadhi|concentration], mais n'est pas habile à se maintenir dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à se maintenir dans la [samadhi|concentration], mais il n'est pas habile à atteindre la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile à atteindre la [samadhi|concentration], ni habile à se maintenir dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à atteindre la [samadhi|concentration] et habile à se maintenir dans la [samadhi|concentration]."
+    },
+    {
+      "pl": "Tatra, bhikkhave, yvāyaṃ jhāyī samādhismiṃ samāpatti·kusalo ca hoti, samādhismiṃ ṭhiti·kusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.",
+      "fr": "Parmi ces quatre [types de] méditants, [bhikkhu|mendiants], celui qui est habile à atteindre la [samadhi|concentration] et habile à se maintenir dans la [samadhi|concentration] est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati; evameva kho, bhikkhave, yvāyaṃ jhāyī samādhismiṃ samādhi·kusalo ca hoti samādhismiṃ ṭhiti·kusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā ti.",
+      "fr": "Tout comme, [bhikkhu|mendiants], de la vache vient le lait, du lait la crème, de la crème le beurre, du beurre le ghee et du ghee la crème de ghee, qui est considérée comme la plus raffinée [de ces choses], de la même manière, [bhikkhu|mendiants], parmi ces quatre [types de] méditants, celui qui est habile à atteindre la [samadhi|concentration] et habile à se maintenir dans la [samadhi|concentration] est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué."
+    }
+  ],
+  "translator": "Sekha"
+}

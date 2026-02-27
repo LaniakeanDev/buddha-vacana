@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 34.20 à 27",
+  "plTitle": "Thitimūlaka Suttāni",
+  "frTitle": "Par rapport au maintien",
+  "description": "Une série de huit souttas qui compare diverses capacités liées à la concentration à l'habilité à maintenir cette dernière.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(20) idha, bhikkhave, ekacco jhāyī samādhismiṃ ṭhitikusalo hoti, na samādhismiṃ vuṭṭhānakusalo. idha pana, bhikkhave, ekacco jhāyī samādhismiṃ vuṭṭhānakusalo hoti, na samādhismiṃ ṭhitikusalo. idha pana, bhikkhave, ekacco jhāyī neva samādhismiṃ ṭhitikusalo hoti, na ca samādhismiṃ vuṭṭhānakusalo. idha pana, bhikkhave, ekacco jhāyī samādhismiṃ ṭhitikusalo ca hoti, samādhismiṃ vuṭṭhānakusalo ca.",
+      "fr": "(20) À cet égard, [bhikkhu|mendiants], un certain méditant est habile à se maintenir dans la [samadhi|concentration], mais n'est pas habile à émerger de la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à émerger de la [samadhi|concentration], mais il n'est pas habile à se maintenir dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile à se maintenir dans la [samadhi|concentration], ni habile à émerger de la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à se maintenir dans la [samadhi|concentration] et habile à émerger de la [samadhi|concentration]."
+    },
+    {
+      "pl": "tatra, bhikkhave, yvāyaṃ jhāyī samādhismiṃ ṭhitikusalo ca hoti, samādhismiṃ vuṭṭhānakusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.",
+      "fr": "Parmi ces quatre [types de] méditants, [bhikkhu|mendiants], celui qui est habile à se maintenir dans la [samadhi|concentration] et habile à émerger de la [samadhi|concentration] est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué.(…)"
+    },
+    {
+      "pl": "(purimamūlakāni viya yāva sattavīsatimā ṭhitimūlakasappāyakārīsuttā aṭṭha suttāni pūretabbāni)",
+      "fr": "(21 à 27: Les sept souttas qui restent dans cette série suivent le modèle ci-dessus, en remplaçant «émerger» par les termes de la série précédente, de «qualité» à «ce qui est adéquat», comme dans SN 34.13 à 19.)"
+    }
+  ],
+  "translator": "Sekha"
+}

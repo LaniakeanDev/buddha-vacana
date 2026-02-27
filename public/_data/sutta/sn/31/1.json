@@ -1,0 +1,18 @@
+﻿{
+  "identifier": "SN 31.1",
+  "plTitle": "Suddhika Sutta",
+  "frTitle": "Version simple",
+  "description": "Les différents types de dévas Gandhabbas.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Gandhabbakāyike vo, bhikkhave, deve desessāmi. Taṃ suṇātha. Katamā ca, bhikkhave, gandhabbakāyikā devā? Santi, bhikkhave, mūla·gandhe adhivatthā devā. Santi, bhikkhave, sāra·gandhe adhivatthā devā. Santi, bhikkhave, pheggu·gandhe adhivatthā devā. Santi, bhikkhave, taca·gandhe adhivatthā devā. Santi, bhikkhave, papaṭika·gandhe adhivatthā devā. Santi, bhikkhave, patta·gandhe adhivatthā devā. Santi, bhikkhave, puppha·gandhe adhivatthā devā. Santi, bhikkhave, phala·gandhe adhivatthā devā. Santi, bhikkhave, rasa·gandhe adhivatthā devā. Santi, bhikkhave, gandha·gandhe adhivatthā devā.",
+      "fr": "Je vais vous enseigner, [bhikkhu|mendiants], ce que sont les [deva|dévas] Gandhabbas. Écoutez cela. Et que sont, [bhikkhu|mendiants], les [deva|dévas] Gandhabbas? Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des racines aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans du bois de cœur aromatique. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans du bois extérieur aromatique. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des écorces aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des pousses aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des feuilles aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des fleurs aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans des fruits aromatiques. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans de la sève aromatique. Il y a, [bhikkhu|mendiants], des [deva|dévas] résidant dans les odeurs aromatiques."
+    },
+    {
+      "pl": "Ime vuccanti, bhikkhave, gandhabbakāyikā devā ti.",
+      "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle les [deva|dévas] Gandhabbas."
+    }
+  ],
+  "translator": "Rémy"
+}

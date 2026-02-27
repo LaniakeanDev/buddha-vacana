@@ -1,0 +1,57 @@
+﻿{
+  "identifier": "SN 35.19",
+  "plTitle": "Abhinanda Sutta",
+  "frTitle": "Complaisance",
+  "description": "Celui qui se complaît dans les organes des sens n'est pas délivré.",
+  "body": [
+    {
+      "pl": "“yo, bhikkhave, cakkhuṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi.",
+      "fr": "[bhikkhu|Mendiants], celui qui se complaît dans l'œil se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo sotaṃ ... pe ...",
+      "fr": "Celui qui se complaît dans l'oreille se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo ghānaṃ ... pe ...",
+      "fr": "Celui qui se complaît dans le nez se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo jivhaṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi.",
+      "fr": "Celui qui se complaît dans la langue se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo kāyaṃ ... pe ...",
+      "fr": "Celui qui se complaît dans le corps se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo manaṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmā”ti vadāmi.",
+      "fr": "Celui qui se complaît dans le mental se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "“yo ca kho, bhikkhave, cakkhuṃ nābhinandati, dukkhaṃ so nābhinandati. yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmi.",
+      "fr": "[bhikkhu|Mendiants], celui qui ne se complaît pas dans l'œil ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo sotaṃ ... pe ...",
+      "fr": "Celui qui ne se complaît pas dans l'oreille ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo ghānaṃ ... pe ...",
+      "fr": "Celui qui ne se complaît pas dans le nez ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo jivhaṃ nābhinandati, dukkhaṃ so nābhinandati. yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmi.",
+      "fr": "Celui qui ne se complaît pas dans la langue ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo kāyaṃ ... pe ...",
+      "fr": "Celui qui ne se complaît pas dans le corps ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "yo manaṃ nābhinandati, dukkhaṃ so nābhinandati. yo dukkhaṃ nābhinandati, parimutto so dukkhasmā”ti vadāmi.",
+      "fr": "Celui qui ne se complaît pas dans le mental ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    }
+  ],
+  "translator": "Sekha"
+}

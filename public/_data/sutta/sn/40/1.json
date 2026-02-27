@@ -1,0 +1,34 @@
+﻿{
+  "identifier": "SN 40.1",
+  "plTitle": "Paṭhamajhānapañhā Sutta",
+  "frTitle": "Question concernant le premier jhana",
+  "description": "Le grand Moggalāna raconte son effort pour maîtriser le premier jhana, et comment le Bouddha lui est venu en aide.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā mahāmoggallāno sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi ",
+      "fr": "Un jour, le [ayasma|vénérable] Mahāmoggalāna séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“āvuso, bhikkhave”ti.", "fr": "— Mes amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ. āyasmā mahāmoggallāno etadavoca:",
+      "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Mahāmoggalāna dit alors:"
+    },
+    {
+      "pl": "“idha mayhaṃ, āvuso, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘paṭhamaṃ jhānaṃ, paṭhamaṃ jhānan’ti vuccati. katamaṃ nu kho paṭhamaṃ jhānanti? tassa mayhaṃ, āvuso, etadahosi: ‘idha bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. idaṃ vuccati paṭhamaṃ jhānan’ti. so khvāhaṃ, āvuso, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharāmi. tassa mayhaṃ, āvuso, iminā vihārena viharato kāmasahagatā saññāmanasikārā samudācaranti.",
+      "fr": "Mes amis, pendant que j'étais en [patisallana|isolement] dans un endroit retiré, la pensée suivante est apparue dans mon esprit: [i]“On entend dire: “Premier [jhana|jhāna], premier [jhana|jhāna]”. Qu'est-ce donc que le premier [jhana|jhāna]?”[/i] Alors, mes amis, je me suis dit: [i]“À cet égard, un mendiant, [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états mentaux désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.]”[/i] Alors, [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états mentaux désavantageux, je suis entré et j'ai demeuré dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.] Mais tandis que je pratiquais cette méditation, des [sanna|perceptions] et [manasikara|attentions] liées à la [kama|sensualité] apparaissaient en moi."
+    },
+    {
+      "pl": "“atha kho maṃ, āvuso, bhagavā iddhiyā upasaṅkamitvā etadavoca:",
+      "fr": "Alors le [bhagava|Fortuné] est venu me voir au moyen de ses [iddhi|pouvoirs psychiques] et m'a dit:"
+    },
+    {
+      "pl": "‘moggallāna, moggallāna! mā, brāhmaṇa, paṭhamaṃ jhānaṃ pamādo; paṭhame jhāne cittaṃ saṇṭhapehi; paṭhame jhāne cittaṃ ekodiṃ karohi; paṭhame jhāne cittaṃ samādahā’ti.",
+      "fr": "— Moggallāna, Moggallāna! Brahmane, ne soit pas négligent avec le premier [jhana|jhāna]; stabilise ton [citta|esprit] dans le premier [jhana|jhāna]; unifie ton [citta|esprit] dans le premier [jhana|jhāna]; concentre ton [citta|esprit] dans le premier [jhana|jhāna].'"
+    },
+    {
+      "pl": "so khvāhaṃ, āvuso, aparena samayena vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja vihāsiṃ. yañhi taṃ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako mahābhiññataṃ patto’ti, mamaṃ taṃ sammā vadamāno vadeyya: ‘satthārānuggahito sāvako mahābhiññataṃ patto’”ti.",
+      "fr": "Alors, mes amis, un peu plus tard, [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états mentaux désavantageux, je suis entré et j'ai demeuré dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.] Mes amis, si en parlant correctement on pouvait dire de quelqu'un: [i]“Celui-là est un [savaka|disciple] qui a atteint la grandeur de la [abhinna|connaissance directe] avec l'assistance de l'Instructeur”[/i], ce serait de moi qu'il serait correct de le dire."
+    }
+  ],
+  "translator": "Rémy"
+}

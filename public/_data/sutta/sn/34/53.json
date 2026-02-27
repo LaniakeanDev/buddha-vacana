@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "SN 34.53 & 54",
+  "plTitle": "Sakkaccamūlaka Suttāni",
+  "frTitle": "Par rapport à la minutie",
+  "description": "Deux souttas qui comparent l'habileté à la minutie et à ce qui est adéquat dans la concentration à l'habilité à la minutie dans cette dernière.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(53) “samādhismiṃ sakkaccakārī hoti, na samādhismiṃ sātaccakārī. samādhismiṃ sātaccakārī hoti, na samādhismiṃ sakkaccakārī . neva samādhismiṃ sakkaccakārī hoti, na ca samādhismiṃ sātaccakārī. samādhismiṃ sakkaccakārī ca hoti, samādhismiṃ sātaccakārī ca.",
+      "fr": "(53) (…) un certain méditant est habile à la minutie dans la [samadhi|concentration], mais n'est pas habile à la persévérance dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à la persévérance dans la [samadhi|concentration], mais il n'est pas habile à la minutie dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile à la minutie dans la [samadhi|concentration], ni habile à la persévérance dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à la minutie dans la [samadhi|concentration] et habile à la persévérance dans la [samadhi|concentration]. (…)"
+    },
+    {
+      "pl": "(54) samādhismiṃ sakkaccakārī hoti, na samādhismiṃ sappāyakārī... pe ....",
+      "fr": "(54) (…) est habile à la minutie dans la [samadhi|concentration], mais n'est pas habile à ce qui est adéquat dans la [samadhi|concentration] (…) "
+    }
+  ],
+  "translator": "Sekha"
+}

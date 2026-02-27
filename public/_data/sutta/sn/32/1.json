@@ -1,0 +1,14 @@
+﻿{
+  "identifier": "SN 32.1",
+  "plTitle": "Suddhika Sutta",
+  "frTitle": "Version simple",
+  "description": "Les différents types de dévas Valahaka (résidant dans les nuages).",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Valāhakakāyike vo, bhikkhave, deve desessāmi. Taṃ suṇātha. Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā devā; santi uṇhavalāhakā devā; santi abbhavalāhakā devā; santi vātavalāhakā devā; santi vassavalāhakā devā. Ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’ ti.",
+      "fr": "Je vais vous enseigner, [bhikkhu|mendiants], ce que sont les [deva|dévas] Valahaka (des nuages). Écoutez cela. Et que sont, [bhikkhu|mendiants], les [deva|dévas] des nuages? Il y a, [bhikkhu|mendiants], les [deva|dévas] des nuages froids; il y a les [deva|dévas] des nuages chauds; il y a les [deva|dévas] des nuages orageux; il y a les [deva|dévas] des nuages venteux; il y a les [deva|dévas] des nuages de pluie. Voici, [bhikkhu|mendiants], ce qu'on appelle les [deva|dévas] de l'ordre des Valahakas."
+    }
+  ],
+  "translator": "Rémy"
+}

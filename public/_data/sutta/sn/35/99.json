@@ -1,0 +1,41 @@
+﻿{
+  "identifier": "SN 35.99",
+  "plTitle": "Samādhi Sutta",
+  "frTitle": "La concentration",
+  "description": "Le Bouddha rappelle l'importance fondamentale de la concentation, puis explique quelle observation liée aux six sphères des sens elle rend possible.",
+  "body": [
+    {
+      "pl": "Samādhiṃ, bhikkhave, bhāvetha. Samāhito, bhikkhave, bhikkhu yathā·bhūtaṃ pajānāti. Kiñca yathā·bhūtaṃ pajānāti?",
+      "fr": "[bhikkhu|Mendiants], cultivez la [samadhi|concentration]. Un [bhikkhu|mendiant] concentré discerne[yathabhutam|tel que c'est réellement]. Et que discerne-t-il[yathabhutam|tel que c'est réellement]?"
+    },
+    {
+      "pl": "‘Cakkhu anicca’nti yathā·bhūtaṃ pajānāti; ‘rūpā aniccā’ti yathā·bhūtaṃ pajānāti; ‘cakkhuviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘cakkhusamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“L'œil est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les [rupa|formes visibles] sont [anicca|impermanentes]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] oculaire est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] oculaire est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] oculaire, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "‘Sotaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘saddā aniccā’ti yathā·bhūtaṃ pajānāti; ‘sotaviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘sotasamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ sotasamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“L'oreille est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les sons sont [anicca|impermanents]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] auditive est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] auditif est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] auditif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "‘Ghānaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘gandhā aniccā’ti yathā·bhūtaṃ pajānāti; ‘ghānaviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘ghānasamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ ghānasamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le nez est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les odeurs sont [anicca|impermanentes]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] olfactive est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] olfactif est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] olfactif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "‘Jivhā aniccā’ti yathā·bhūtaṃ pajānāti; ‘rasā aniccā’ti yathā·bhūtaṃ pajānāti; ‘jivhāviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘jivhāsamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ jivhāsamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“La langue est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les saveurs sont [anicca|impermanentes]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] gustative est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] gustatif est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] gustatif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "‘Kāyo anicco’ti yathā·bhūtaṃ pajānāti; ‘phoṭṭhabbā aniccā’ti yathā·bhūtaṃ pajānāti; ‘kāyaviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘kāyasamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ kāyasamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [kaya|corps] est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les [photthabba|sensations corporelles] sont [anicca|impermanentes]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] corporelle est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] corporel est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] corporel, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "‘Mano anicco’ti yathā·bhūtaṃ pajānāti; ‘dhammā aniccā’ti yathā·bhūtaṃ pajānāti; ‘cakkhuviññāṇaṃ anicca’nti yathā·bhūtaṃ pajānāti; ‘cakkhusamphasso anicco’ti yathā·bhūtaṃ pajānāti. ‘Yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi anicca’nti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [mana|mental] est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Les [dhamma|phénomènes mentaux] sont [anicca|impermanents]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“La [vinnana|conscience] [mana|mentale] est [anicca|impermanente]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Le [phassa|contact] [mana|mental] est [anicca|impermanent]”[/i]; il discerne,[yathabhutam|tel que c'est réellement]: [i]“Tout ce qui apparaît sur la base du [phassa|contact] [mana|mental], que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre], est également [anicca|impermanent]'.[/i]"
+    },
+    {
+      "pl": "Samādhiṃ, bhikkhave, bhāvetha. Samāhito, bhikkhave, bhikkhu yathā·bhūtaṃ pajānātī ti.",
+      "fr": "[bhikkhu|Mendiants], cultivez la [samadhi|concentration]. Un [bhikkhu|mendiant] concentré discerne[yathabhutam|tel que c'est réellement]. "
+    }
+  ],
+  "translator": "Rémy"
+}

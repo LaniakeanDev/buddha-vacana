@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 34.28 à 34",
+  "plTitle": "Vuṭṭhānamūlaka Suttāni",
+  "frTitle": "Par rapport à l'émergence",
+  "description": "Une série de six souttas qui compare diverses capacités liées à la concentration à l'habilité à émerger de cette dernière.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(28) idha, bhikkhave, ekacco jhāyī samādhismiṃ vuṭṭhānakusalo hoti, na samādhismiṃ kallitakusalo... samādhismiṃ kallitakusalo hoti, na samādhismiṃ vuṭṭhānakusalo... neva samādhismiṃ vuṭṭhānakusalo hoti, na ca samādhismiṃ kallitakusalo... samādhismiṃ vuṭṭhānakusalo ca hoti samādhismiṃ kallitakusalo ca.",
+      "fr": "(28) À cet égard, [bhikkhu|mendiants], un certain méditant est habile à émerger de la [samadhi|concentration], mais n'est pas habile à la qualité dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à la qualité dans la [samadhi|concentration], mais il n'est pas habile à émerger de la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile à émerger de la [samadhi|concentration], ni habile à la qualité dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à émerger de la [samadhi|concentration] et habile à la qualité dans la [samadhi|concentration]."
+    },
+    {
+      "pl": "tatra, bhikkhave, yvāyaṃ jhāyī samādhismiṃ vuṭṭhānakusalo ca hoti samādhismiṃ kallitakusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.",
+      "fr": "Parmi ces quatre [types de] méditants, [bhikkhu|mendiants], celui qui est habile à émerger de la [samadhi|concentration] et habile à la qualité dans la [samadhi|concentration] est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué.(…)"
+    },
+    {
+      "pl": "(purimamūlakāni viya yāva catuttiṃsatimā vuṭṭhānamūlakasappāyakārīsuttā satta suttāni pūretabbāni)",
+      "fr": "(29 à 34: Les six souttas qui restent dans cette série suivent le modèle ci-dessus, en remplaçant «qualité» par les termes de la série précédente, de «socle» à «ce qui est adéquat», comme dans SN 34.14 à 19.)"
+    }
+  ],
+  "translator": "Sekha"
+}
