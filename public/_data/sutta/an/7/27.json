@@ -1,0 +1,49 @@
+﻿{
+  "identifier": "AN 7.27",
+  "plTitle": "Saññā Sutta",
+  "frTitle": "Sept perceptions",
+  "description": "Sept perceptions qui mènent à la prospérité des [bhikkhu|mendiants], et empêchent leur déclin.",
+  "body": [
+    {
+      "pl": "satta vo, bhikkhave, aparihāniye dhamme desessāmi. taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+      "fr": "Mendiants, je vais vous enseigner les sept [dhamma|critères] de non-déclin. Écoutez cela, et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté] répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "katame ca, bhikkhave, satta aparihāniyā dhammā? yāvakīvañca, bhikkhave, bhikkhū aniccasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "— Et quels sont, [bhikkhu|mendiants], les sept [dhamma|critères] de non-déclin? Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [aniccasanna|perception de l'impermanence], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū anattasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [anattasanna|perception du sans-égoïté], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū asubhasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [asubhasanna|perception du répugnant], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū ādīnavasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [adinavasanna|perception des désavantages], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū pahānasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [pahanasanna|perception de l'abandon], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū virāgasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [viragasanna|perception du désintéressement], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "yāvakīvañca, bhikkhave, bhikkhū nirodhasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] cultiveront la [nirodhasanna|perception de la cessation], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu, bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī”ti.",
+      "fr": "Aussi longtemps que ces sept [dhamma|critères] de non-déclin sont maintenus chez les [bhikkhu|mendiants], que les [bhikkhu|mendiants] sont vus [comme étant doués de] ces sept [dhamma|critères] de non-déclin, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    }
+  ],
+  "translator": "Rémy"
+}

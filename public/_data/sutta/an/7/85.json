@@ -1,0 +1,48 @@
+﻿{
+  "identifier": "AN 7.85 à 92",
+  "plTitle": "Bhikkhu Suttāni",
+  "frTitle": "Un mendiant",
+  "description": "Une série de huit souttas formulés de manière très similaire, au sujet de ce qui fait devenir un mendiant, un renonçant, un noble, un arahant etc.",
+  "body": [
+    {
+      "pl": "AN 7.85 “sattannaṃ, bhikkhave, dhammānaṃ bhinnattā bhikkhu hoti. katamesaṃ sattannaṃ? sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ bhinnattā bhikkhu hotī”ti.",
+      "fr": "AN 7.85  [bhikkhu|Mendiants], c'est en ayant brisé sept [dhamma|choses] qu'on devient un [bhikkhu|mendiant]. Quelles sont ces sept [dhamma|choses]? La [sakkayaditthi|croyance en l'existence du soi] est brisée, le [vicikiccha|doute] est brisé, la [silabbataparamasa|croyance en la suprématie des rites et préceptes] est brisée, l'[raga|avidité] est brisée, l'[dosa|aversion] est brisée, la [moha|délusion] est brisée, et l'[maana|identification au soi] est brisée. C'est en ayant brisé ces sept [dhamma|choses] qu'on devient un [bhikkhu|mendiant]."
+    },
+    { "pl": "AN 7.86", "fr": "AN 7.86" },
+    {
+      "pl": "sattannaṃ, bhikkhave, dhammānaṃ samitattā samaṇo hoti ... pe ....",
+      "fr": "[bhikkhu|Mendiants], c'est en ayant calmé sept [dhamma|choses] qu'on devient un [samana|renonçant]. Quelles sont ces sept [dhamma|choses]? La [sakkayaditthi|croyance en l'existence du soi] est calmée, le [vicikiccha|doute] est calmé, la [silabbataparamasa|croyance en la suprématie des rites et préceptes] est calmée, l'[raga|avidité] est calmée, l'[dosa|aversion] est calmée, la [moha|délusion] est calmée, et l'[maana|identification au soi] est calmée. C'est en ayant calmé ces sept [dhamma|choses] qu'on devient un [samana|renonçant]."
+    },
+    { "pl": "AN 7.87", "fr": "AN 7.87" },
+    {
+      "pl": "bāhitattā brāhmaṇo hoti ... pe ...",
+      "fr": "[bhikkhu|Mendiants], c'est en ayant exclu sept [dhamma|choses] qu'on devient un [brahmana|brahmane] (…)"
+    },
+    { "pl": "AN 7.88", "fr": "AN 7.88" },
+    {
+      "pl": "nissutattā sottiyo hoti ... pe ....",
+      "fr": "c'est en ayant fait disparaître sept [dhamma|choses] qu'on devient un expert (…)"
+    },
+    { "pl": "AN 7.89", "fr": "AN 7.89" },
+    {
+      "pl": "nhātattā nhātako hoti ... pe ....",
+      "fr": "c'est en se purifiant de sept [dhamma|choses] qu'on devient une personne pure (…)"
+    },
+    { "pl": "AN 7.90", "fr": "AN 7.90" },
+    {
+      "pl": "viditattā vedagū hoti ... pe ....",
+      "fr": "c'est en connaissant sept [dhamma|choses] qu'on devient un connaisseur (…)"
+    },
+    { "pl": "AN 7.91", "fr": "AN 7.91" },
+    {
+      "pl": "ārakattā ariyo hoti ... pe ....",
+      "fr": "c'est en se tenant éloigné de sept [dhamma|choses] qu'on devient [ariya|noble] (…)"
+    },
+    { "pl": "AN 7.92", "fr": "AN 7.92" },
+    {
+      "pl": "“ārakattā arahā hoti. katamesaṃ sattannaṃ? sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī”ti.",
+      "fr": "[bhikkhu|Mendiants], c'est en éloignant sept [dhamma|choses] qu'on devient un [arahant|Méritant]. Quelles sont ces sept [dhamma|choses]? La [sakkayaditthi|croyance en l'existence du soi] est éloignée, le [vicikiccha|doute] est éloigné, la [silabbataparamasa|croyance en la suprématie des rites et préceptes] est éloignée, l'[raga|avidité] est éloignée, l'[dosa|aversion] est éloignée, la [moha|délusion] est éloignée, et l'[maana|identification au soi] est éloignée. C'est en éloignant ces sept [dhamma|choses] qu'on devient un [arahant|Méritant]."
+    }
+  ],
+  "translator": "Sekha"
+}

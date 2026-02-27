@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 7.7",
+  "plTitle": "Ugga Sutta",
+  "frTitle": "Pour Ougga",
+  "description": "Ougga est fasciné par la richesse de Migāra. Le Bouddha lui explique qu'il y a sept trésors préférables aux possessions matérielles.",
+  "body": [
+    {
+      "pl": "Atha kho uggo rāja·mahā·matto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekam·antaṃ nisīdi. Ekam·antaṃ nisinno kho uggo rāja·mahā·matto bhagavantaṃ etad·avoca:",
+      "fr": "Ce jour-là, Ougga, le premier ministre du roi, vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "Acchariyaṃ, bhante abbhutaṃ, bhante yāva aḍḍho cāyaṃ, bhante migāro rohaṇeyyo yāva maha·d·dhano yāva mahā·bhogo ti!",
+      "fr": "— C'est formidable, [bhante|Bhanté] inouï, combien Migāra Rohaṇeyya est riche, combien ses trésors sont grands, combien ses richesses sont grandes!"
+    },
+    {
+      "pl": "Kīva aḍḍho panugga, migāro rohaṇeyyo, kīva maha·d·dhano, kīva mahā·bhogo ti?",
+      "fr": "— Mais dans quelle mesure, Ougga, est-ce que Migāra Rohaṇeyya est riche, dans quelle mesure est-ce que ses trésors sont grands, dans quelle mesure est-ce que ses richesses sont grandes?"
+    },
+    {
+      "pl": "Sataṃ, bhante sata·sahassānaṃ hiraññassa, ko pana vādo rūpiyassā ti!",
+      "fr": "— Cent, [bhante|Bhanté] cent mille pièces d'or, pour ne rien dire de son argent!"
+    },
+    {
+      "pl": "Atthi kho etaṃ, ugga, dhanaṃ netaṃ ‘natthī’ti vadāmīti. Tañca kho etaṃ, ugga, dhanaṃ sādhāraṇaṃ agginā udakena rājūhi corehi appiyehi dāyādehi. Satta kho imāni, ugga, dhanāni asādhāraṇāni agginā udakena rājūhi corehi appiyehi dāyādehi. Katamāni satta?",
+      "fr": "— Cela est un trésor, Ougga, je ne dis pas que ce n'en est pas un. Et ce trésor est ouvert aux feus, aux eaux, aux rois, aux voleurs et aux héritiers désagréables. Mais ces sept trésors, Ougga, ne sont pas ouverts aux feus, ni aux eaux, ni aux rois, ni aux voleurs ni aux héritiers désagréables. Quels sont ces sept?"
+    },
+    {
+      "pl": "Saddhā·dhanaṃ, sīla·dhanaṃ, hirī·dhanaṃ, ottappa·dhanaṃ, suta·dhanaṃ, cāga·dhanaṃ, paññā·dhanaṃ. Imāni kho, ugga, satta dhanāni asādhāraṇāni agginā udakena rājūhi corehi appiyehi dāyādehīti.",
+      "fr": "Le trésor de la [saddha|conviction], le trésor de la [sila|vertu], le trésor de la [hiri|honte morale], le trésor de la [ottappa|crainte morale], le trésor de l'instruction, le trésor de la [caga|générosité], le trésor du [panna|discernement]. Ces sept trésors, Ougga, ne sont pas ouverts aux feus, ni aux eaux, ni aux rois, ni aux voleurs ni aux héritiers désagréables."
+    }
+  ],
+  "translator": "Rémy"
+}

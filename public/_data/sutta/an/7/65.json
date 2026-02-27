@@ -1,0 +1,113 @@
+﻿{
+  "identifier": "AN 7.65",
+  "plTitle": "Hirīottappa Sutta",
+  "frTitle": "Honte morale et crainte morale ",
+  "description": "Toute la pratique repose sur la restreinte des sens. Mais la restreinte des sens elle-même repose également sur deux choses très importantes.",
+  "body": [
+    {
+      "pl": "“hirottappe, bhikkhave, asati hirottappavipannassa hatūpaniso hoti indriyasaṃvaro;",
+      "fr": "[bhikkhu|Mendiants], s'il n'y a pas de [hiri|honte morale] & [ottappa|crainte morale], chez celui qui est dénué de [hiri|honte morale] & [ottappa|crainte morale], le fondement de la [indriyasamvara|restreinte des facultés sensorielles] est miné."
+    },
+    {
+      "pl": "indriyasaṃvare asati indriya-saṃvara-vipannassa hatūpanisaṃ hoti sīlaṃ;",
+      "fr": "S'il n'y a pas de [indriyasamvara|restreinte des facultés sensorielles], chez celui qui est dénué de [indriyasamvara|restreinte des facultés sensorielles], le fondement de la [sila|vertu] est miné."
+    },
+    {
+      "pl": "sīle asati sīla-vipannassa hatūpaniso hoti sammāsamādhi;",
+      "fr": "S'il n'y a pas de [sila|vertu], chez celui qui est dénué de [sila|vertu], le fondement de la [sammasamadhi|concentration correcte] est miné."
+    },
+    {
+      "pl": "sammāsamādhimhi asati sammāsamādhi-vipannassa hatūpanisaṃ hoti yathābhūtañāṇadassanaṃ;",
+      "fr": "S'il n'y a pas de [sammasamadhi|concentration correcte], chez celui qui est dénué de [sammasamadhi|concentration correcte], le fondement de la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] est miné."
+    },
+    {
+      "pl": "yathābhūtañāṇadassane asati yathābhūtañāṇadassana-vipannassa hatūpaniso hoti nibbidāvirāgo;",
+      "fr": "S'il n'y a pas de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], chez celui qui est dénué de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], le fondement du [nibbida|désenchantement] et du [viraga|désintéressement] est miné."
+    },
+    {
+      "pl": "nibbidāvirāge asati nibbidāvirāga-vipannassa hatūpanisaṃ hoti vimuttiñāṇadassanaṃ.",
+      "fr": "S'il n'y a pas de [nibbida|désenchantement] et de [viraga|désintéressement], chez celui qui est dénué de [nibbida|désenchantement] et de [viraga|désintéressement], le fondement de la [nanadassana|connaissance & vision] de la [vimutti|libération] est miné."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, rukkho sākhāpalāsavipanno: tassa papaṭikāpi na pāripūriṃ gacchati, tacopi na pāripūriṃ gacchati, pheggupi na pāripūriṃ gacchati, sāropi na pāripūriṃ gacchati.",
+      "fr": "Imaginez, [bhikkhu|mendiants], un arbre dont les branches et les feuilles font défaut: son écorce externe n'atteint pas sa complétude, son écorce interne n'atteint pas sa complétude, son bois n'atteint pas sa complétude et sa moelle n'atteint pas sa complétude."
+    },
+    {
+      "pl": "evamevaṃ kho, bhikkhave, hirottappe, bhikkhave, asati hirottappavipannassa hatūpaniso hoti indriyasaṃvaro;",
+      "fr": "De la même manière, [bhikkhu|mendiants], s'il n'y a pas de [hiri|honte morale] & [ottappa|crainte morale], chez celui qui est dénué de [hiri|honte morale] & [ottappa|crainte morale], le fondement de la [indriyasamvara|restreinte des facultés sensorielles] est miné."
+    },
+    {
+      "pl": "indriyasaṃvare asati indriya-saṃvara-vipannassa hatūpanisaṃ hoti sīlaṃ;",
+      "fr": "S'il n'y a pas de [indriyasamvara|restreinte des facultés sensorielles], chez celui qui est dénué de [indriyasamvara|restreinte des facultés sensorielles], le fondement de la [sila|vertu] est miné."
+    },
+    {
+      "pl": "sīle asati sīla-vipannassa hatūpaniso hoti sammāsamādhi;",
+      "fr": "S'il n'y a pas de [sila|vertu], chez celui qui est dénué de [sila|vertu], le fondement de la [sammasamadhi|concentration correcte] est miné."
+    },
+    {
+      "pl": "sammāsamādhimhi asati sammāsamādhi-vipannassa hatūpanisaṃ hoti yathābhūtañāṇadassanaṃ;",
+      "fr": "S'il n'y a pas de [sammasamadhi|concentration correcte], chez celui qui est dénué de [sammasamadhi|concentration correcte], le fondement de la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] est miné."
+    },
+    {
+      "pl": "yathābhūtañāṇadassane asati yathābhūtañāṇadassana-vipannassa hatūpaniso hoti nibbidāvirāgo;",
+      "fr": "S'il n'y a pas de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], chez celui qui est dénué de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], le fondement du [nibbida|désenchantement] et du [viraga|désintéressement] est miné."
+    },
+    {
+      "pl": "nibbidāvirāge asati nibbidāvirāga-vipannassa hatūpanisaṃ hoti vimuttiñāṇadassanaṃ.",
+      "fr": "S'il n'y a pas de [nibbida|désenchantement] et de [viraga|désintéressement], chez celui qui est dénué de [nibbida|désenchantement] et de [viraga|désintéressement], le fondement de la [nanadassana|connaissance & vision] de la [vimutti|libération] est miné."
+    },
+    {
+      "pl": "“hirottappe, bhikkhave, sati hirottappasampannassa upanisa-sampanno hoti indriyasaṃvaro;",
+      "fr": "[bhikkhu|Mendiants], s'il y a [hiri|honte morale] & [ottappa|crainte morale], chez celui qui est pourvu de [hiri|honte morale] & [ottappa|crainte morale], le fondement de la [indriyasamvara|restreinte des facultés sensorielles] est présent."
+    },
+    {
+      "pl": "indriyasaṃvare sati indriyasaṃvarasampannassa upanisa-sampannaṃ hoti sīlaṃ;",
+      "fr": "S'il y a [indriyasamvara|restreinte des facultés sensorielles], chez celui qui est pourvu de [indriyasamvara|restreinte des facultés sensorielles], le fondement de la [sila|vertu] est présent."
+    },
+    {
+      "pl": "sīle sati sīlasampannassa upanisa-sampanno hoti sammāsamādhi;",
+      "fr": "S'il y a [sila|vertu], chez celui qui est pourvu de [sila|vertu], le fondement de la [sammasamadhi|concentration correcte] est présent."
+    },
+    {
+      "pl": "sammāsamādhimhi sati sammāsamādhisampannassa upanisa-sampannaṃ hoti yathābhūtañāṇadassanaṃ;",
+      "fr": "S'il y a [sammasamadhi|concentration correcte], chez celui qui est pourvu de [sammasamadhi|concentration correcte], le fondement de la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] est présent."
+    },
+    {
+      "pl": "yathābhūtañāṇadassane sati yathābhūtañāṇadassanasampannassa upanisa-sampanno hoti nibbidāvirāgo;",
+      "fr": "S'il y a [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], chez celui qui est pourvu de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], le fondement du [nibbida|désenchantement] et du [viraga|désintéressement] est présent."
+    },
+    {
+      "pl": "nibbidāvirāge sati nibbidāvirāgasampannassa upanisa-sampannaṃ hoti vimuttiñāṇadassanaṃ.",
+      "fr": "S'il y a [nibbida|désenchantement] et [viraga|désintéressement], chez celui qui est pourvu de [nibbida|désenchantement] et de [viraga|désintéressement], le fondement de la [nanadassana|connaissance & vision] de la [vimutti|libération] est présent."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, rukkho sākhāpalāsasampanno: tassa papaṭikāpi pāripūriṃ gacchati, tacopi pāripūriṃ gacchati, pheggupi pāripūriṃ gacchati, sāropi pāripūriṃ gacchati.",
+      "fr": "Imaginez, [bhikkhu|mendiants], un arbre pourvu de branches et de feuilles: son écorce externe atteint sa complétude, son écorce interne atteint sa complétude, son bois atteint sa complétude et sa moelle atteint sa complétude."
+    },
+    {
+      "pl": "evamevaṃ kho, bhikkhave, hirottappe sati hirottappa-sampannassa upanisa-sampanno hoti indriyasaṃvaro;",
+      "fr": "De la même manière, [bhikkhu|mendiants], s'il y a [hiri|honte morale] & [ottappa|crainte morale], chez celui qui est pourvu de [hiri|honte morale] & [ottappa|crainte morale], le fondement de la [indriyasamvara|restreinte des facultés sensorielles] est présent."
+    },
+    {
+      "pl": "indriyasaṃvare sati indriya-saṃvara-sampannassa upanisa-sampannaṃ hoti sīlaṃ;",
+      "fr": "S'il y a [indriyasamvara|restreinte des facultés sensorielles], chez celui qui est pourvu de [indriyasamvara|restreinte des facultés sensorielles], le fondement de la [sila|vertu] est présent."
+    },
+    {
+      "pl": "sīle sati sīlasampannassa upanisa-sampanno hoti sammāsamādhi;",
+      "fr": "S'il y a [sila|vertu], chez celui qui est pourvu de [sila|vertu], le fondement de la [sammasamadhi|concentration correcte] est présent."
+    },
+    {
+      "pl": "sammāsamādhimhi sati sammāsamādhisampannassa upanisa-sampannaṃ hoti yathābhūtañāṇadassanaṃ;",
+      "fr": "S'il y a [sammasamadhi|concentration correcte], chez celui qui est pourvu de [sammasamadhi|concentration correcte], le fondement de la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] est présent."
+    },
+    {
+      "pl": "yathābhūtañāṇadassane sati yathābhūtañāṇadassanasampannassa upanisa-sampanno hoti nibbidāvirāgo;",
+      "fr": "S'il y a [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], chez celui qui est pourvu de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], le fondement du [nibbida|désenchantement] et du [viraga|désintéressement] est présent."
+    },
+    {
+      "pl": "nibbidāvirāge sati nibbidāvirāgasampannassa upanisa-sampannaṃ hoti vimuttiñāṇadassanaṃ.",
+      "fr": "S'il y a [nibbida|désenchantement] et [viraga|désintéressement], chez celui qui est pourvu de [nibbida|désenchantement] et de [viraga|désintéressement], le fondement de la [nanadassana|connaissance & vision] de la [vimutti|libération] est présent."
+    }
+  ],
+  "translator": "Rémy"
+}
