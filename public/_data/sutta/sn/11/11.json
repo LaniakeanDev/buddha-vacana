@@ -1,0 +1,44 @@
+﻿{
+  "identifier": "SN 11.11",
+  "plTitle": "Vatapada Sutta",
+  "frTitle": "Les règles de conduite de Sakka",
+  "description": "Lorsqu'il était humain, avant de devenir roi des dévas, Sakka se fixa ces sept règles de conduite.",
+  "body": [
+    { "pl": "sāvatthiyaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“sakkassa, bhikkhave, devānamindassa pubbe manussabhūtassa satta vatapadāni samattāni samādinnāni ahesuṃ, yesaṃ samādinnattā sakko sakkattaṃ ajjhagā. katamāni satta vatapadāni?",
+      "fr": "Auparavant, [bhikkhu|mendiants], lorsque Sakka le roi des [deva|dévas] était un être humain, il a entrepris et observé sans relâche sept règles de conduite, par l'observance desquelles il a obtenu son statut de roi. Quelles sont ces sept?"
+    },
+    {
+      "pl": "yāvajīvaṃ mātāpettibharo assaṃ;",
+      "fr": "Tant que je serai en vie, que je porte assistance à ma mère et mon père;"
+    },
+    {
+      "pl": "yāvajīvaṃ kule jeṭṭhāpacāyī assaṃ;",
+      "fr": "Tant que je serai en vie, que je traite les anciens de la famille avec respect;"
+    },
+    { "pl": "yāvajīvaṃ saṇhavāco assaṃ;", "fr": "Tant que je serai en vie, que j'aie des paroles aimables;" },
+    {
+      "pl": "yāvajīvaṃ apisuṇavāco assaṃ;",
+      "fr": "Tant que je serai en vie, que je n'aie pas de [pisunavaca|paroles médisantes];"
+    },
+    {
+      "pl": "yāvajīvaṃ vigatamalamaccherena cetasā agāraṃ ajjhāvaseyyaṃ muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato;",
+      "fr": "Tant que je serai en vie, que je vive à la maison avec un esprit dépourvu de la souillure de l'avarice, librement généreux, la main ouverte, me plaisant à faire des dons, accessible aux demandes, me plaisant à donner et à partager;"
+    },
+    { "pl": "yāvajīvaṃ saccavāco assaṃ;", "fr": "Tant que je serai en vie, que j'aie des paroles de vérité;" },
+    {
+      "pl": "yāvajīvaṃ akkodhano assaṃ sacepi me kodho uppajjeyya, khippameva naṃ paṭivineyyan”ti.",
+      "fr": "Tant que je serai en vie, que je reste aimable, et si la colère apparaît en moi, que je la dissipe sur-le-champ."
+    },
+    {
+      "pl": "“sakkassa, bhikkhave, devānamindassa pubbe manussabhūtassa imāni satta vatapadāni samattāni samādinnāni ahesuṃ, yesaṃ samādinnattā sakko sakkattaṃ ajjhagā”ti.",
+      "fr": "Auparavant, [bhikkhu|mendiants], lorsque Sakka le roi des [deva|dévas] était un être humain, il a entrepris et observé sans relâche ces sept règles de conduite, par l'observance desquelles il a obtenu son statut de roi."
+    },
+    {
+      "pl": "[i]“mātāpettibharaṃ jantuṃ, kule jeṭṭhāpacāyinaṃ.saṇhaṃ sakhilasambhāsaṃ, pesuṇeyyappahāyinaṃ.“maccheravinaye yuttaṃ, saccaṃ kodhābhibhuṃ naraṃ.taṃ ve devā tāvatiṃsā, āhu sappuriso itī”ti. [/i]",
+      "fr": "[i]Lorsqu'une personne porte assistance à sa mère et son père,Qu'elle traite les anciens de la famille avec respect,Qu'elle parle gentiment de manière aimable,Ayant abandonné les paroles médisantes,S'attachant à dissiper l'avarice,Qu'elle s'en tient à la vérité et vainc la colère,Alors les [deva|dévas] de TavatimsaDisent que c'est un [sappurisa|homme de bien].[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

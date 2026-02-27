@@ -1,0 +1,31 @@
+﻿{
+  "identifier": "SN 20.8",
+  "plTitle": "Kaliṅgara Sutta",
+  "frTitle": "Des bûches pour oreillers",
+  "description": "Une chose que des [bhikkhu|mendiants] et des soldats licchavīs ont en commun et qui les rend invincibles face à l'ennemi.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhadante|Bhadanté], répondirent-ils. Le [bhagava|Fortuné]leur dit:"
+    },
+    {
+      "pl": "“kaliṅgarūpadhānā, bhikkhave, etarahi licchavī viharanti appamattā ātāpino upāsanasmiṃ. tesaṃ rājā māgadho ajātasattu vedehiputto na labhati otāraṃ na labhati ārammaṇaṃ. bhavissanti, bhikkhave, anāgatamaddhānaṃ licchavī sukhumālā mudutalunahatthapādā te mudukāsu seyyāsu tūlabimbohanāsu yāvasūriyuggamanā seyyaṃ kappissanti. tesaṃ rājā māgadho ajātasattu vedehiputto lacchati otāraṃ lacchati ārammaṇaṃ.",
+      "fr": "—[bhikkhu|Mendiants], de nos jours les Licchavīs utilisent des bûches comme oreillers. Ils sont [appamada|diligents] et [atapi|ardents] à l'exercice. Le roi Ajāsattu du Magadha, le fils de Vedeha, n'arrive pas à les approcher, il ne prend pas pied sur eux. Mais dans le futur, les Licchavīs deviendront délicats, ayant les mains et les pieds doux et tendres. Ils dormiront jusqu'au lever du soleil, sur des lits mous avec des oreillers de coton. À ce moment-là, le roi Ajāsattu du Magadha arrivera à les approcher, il prendra pied sur eux."
+    },
+    {
+      "pl": "“kaliṅgarūpadhānā, bhikkhave, etarahi bhikkhū viharanti appamattā ātāpino padhānasmiṃ. tesaṃ māro pāpimā na labhati otāraṃ na labhati ārammaṇaṃ. bhavissanti, bhikkhave, anāgatamaddhānaṃ bhikkhū sukhumā mudutalunahatthapādā. te mudukāsu seyyāsu tūlabimbohanāsu yāvasūriyuggamanā seyyaṃ kappissanti. tesaṃ māro pāpimā lacchati otāraṃ lacchati ārammaṇaṃ.",
+      "fr": "[bhikkhu|Mendiants], de nos jours les [bhikkhu|mendiants] utilisent des bûches comme oreillers. Ils sont [appamada|diligents] et [atapi|ardents] dans l'effort. [mara|Mara] le Malin n'arrive pas à les approcher, il ne prend pas pied sur eux. Mais dans le futur, les [bhikkhu|mendiants] deviendront délicats, ayant les mains et les pieds doux et tendres. Ils dormiront jusqu'au lever du soleil, sur des lits mous avec des oreillers de coton. À ce moment-là, [mara|Mara] le Malin arrivera à les approcher, il prendra pied sur eux."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘kaliṅgarūpadhānā viharissāma appamattā ātāpino padhānasmin’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Utilisant des bûches comme oreillers, nous demeurerons [appamada|diligents] et [atapi|ardents] dans l'effort.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

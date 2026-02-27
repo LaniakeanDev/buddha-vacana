@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 13.1",
+  "plTitle": "Nakhasikhā Sutta",
+  "frTitle": "Le coin de l'ongle",
+  "description": "Le Bouddha illustre les bienfaits de l'entrée dans le courant à l'aide d'un brin de terre sur le coin de son ongle.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho bhagavā parittaṃ nakhasikhāyaṃ paṃsuṃ āropetvā bhikkhū āmantesi",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, ayant mis un brin de terre sur le coin de son ongle, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhikkhave, katamaṃ nu kho bahutaraṃ: yo vāyaṃ mayā paritto nakhasikhāyaṃ paṃsu āropito, ayaṃ vā mahāpathavī”ti?",
+      "fr": "«Qu'en pensez-vous, [bhikkhu|mendiants], quel est le plus grand: ce brin de terre que j'ai mis sur le coin de mon ongle, ou cette grande Terre?"
+    },
+    {
+      "pl": "“etadeva, bhante, bahutaraṃ, yadidaṃ mahāpathavī. appamattako bhagavatā paritto nakhasikhāyaṃ paṃsu āropito. neva satimaṃ kalaṃ upeti na sahassimaṃ kalaṃ upeti na satasahassimaṃ kalaṃ upeti mahāpathaviṃ upanidhāya bhagavatā paritto nakhasikhāyaṃ paṃsu āropito””ti.",
+      "fr": "—[bhante|Bhanté], c'est cette grande Terre qui est la plus grande, tandis que le brin de terre que le [bhagava|Fortuné] a mis sur le coin de son ongle est infime. Comparé à la grande Terre, le brin de terre que le [bhagava|Fortuné] a mis sur le coin de son ongle ne représente pas le centième, ne représente pas le millième, ne représente pas le cent-millième."
+    },
+    {
+      "pl": "“evameva kho, bhikkhave, ariyasāvakassa diṭṭhisampannassa puggalassa abhisametāvino etadeva bahutaraṃ dukkhaṃ yadidaṃ parikkhīṇaṃ pariyādiṇṇaṃ; appamattakaṃ avasiṭṭhaṃ. neva satimaṃ kalaṃ upeti na sahassimaṃ kalaṃ upeti na satasahassimaṃ kalaṃ upeti purimaṃ dukkhakkhandhaṃ parikkhīṇaṃ pariyādiṇṇaṃ upanidhāya yadidaṃ sattakkhattuṃparamatā. evaṃ mahatthiyo kho, bhikkhave, dhammābhisamayo; evaṃ mahatthiyo dhammacakkhupaṭilābho””ti.",
+      "fr": "—De la même manière, [bhikkhu|mendiants], le [dukkha|mal-être] qui a été totalementépuisé et éliminé par un [ariyasavaka|noble disciple] [ditthisampanna|accompli en vue [correcte]] et ayant pleinement compris est le plus grand, tandis que ce qui reste est infime. Cela ne représente pas le centième, ne représente pas le millième, ne représente pas le cent-millième de la précédente masse de [dukkha|mal-être] qui a été totalement épuisé et éliminé, puisqu'il ne lui reste au maximum que sept vies. Tel est le grand bienfait de la réalisation du [dhamma|Dhamma], [bhikkhu|mendiants], tel est le grand bienfait de l'acquisition de l'[dhammacakkhu|œil du Dhamma].»"
+    }
+  ],
+  "translator": "Sekha."
+}

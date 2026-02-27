@@ -1,0 +1,27 @@
+﻿{
+  "identifier": "SN 17.1",
+  "plTitle": "Dāruṇa Sutta",
+  "frTitle": "Cruels",
+  "description": "Acquisitions, honneurs et renommée constituent un grand danger pour un mendiant.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "— Mendiants!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Bhadante, répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "— Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs & renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

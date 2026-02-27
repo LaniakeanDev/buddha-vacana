@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 17.29",
+  "plTitle": "Rajju Sutta",
+  "frTitle": "La corde",
+  "description": "Une élaboration sur une allégorie douloureuse pour les acquisitions, honneurs et renommée.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "lābhasakkārasiloko, bhikkhave, chaviṃ chindati, chaviṃ chetvā cammaṃ chindati, cammaṃ chetvā maṃsaṃ chindati, maṃsaṃ chetvā nhāruṃ chindati, nhāruṃ chetvā aṭṭhiṃ chindati, aṭṭhiṃ chetvā aṭṭhimiñjaṃ āhacca tiṭṭhati.",
+      "fr": "Les [lss|acquisitions, honneurs et renommée], [bhikkhu|mendiants], coupent à travers l'épiderme, puis ayant coupé à travers l'épiderme ils coupent à travers la peau, puis ayant coupé à travers la peau ils coupent à travers la chair, puis ayant coupé à travers la chair ils coupent à travers les tendons, puis ayant coupé à travers les tendons ils coupent à travers les os, puis ayant coupé à travers les os ils atteignent la moelle osseuse."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, balavā puriso daḷhāya vāḷarajjuyā jaṅghaṃ veṭhetvā ghaṃseyya. sā chaviṃ chindeyya, chaviṃ chetvā cammaṃ chindeyya, cammaṃ chetvā maṃsaṃ chindeyya, maṃsaṃ chetvā nhāruṃ chindeyya, nhāruṃ chetvā aṭṭhiṃ chindeyya, aṭṭhiṃ chetvā aṭṭhimiñjaṃ āhacca tiṭṭheyya.",
+      "fr": "Imaginez, [bhikkhu|mendiants], qu'un homme doué de force enroule un lasso dur autour d'une jambe et se mette au frotter. Il couperait à travers l'épiderme, puis ayant coupé à travers l'épiderme il couperait à travers la peau, puis ayant coupé à travers la peau il couperait à travers la chair, puis ayant coupé à travers la chair il couperait à travers les tendons, puis ayant coupé à travers les tendons il couperait à travers les os, puis ayant coupé à travers les os il atteindrait la moelle osseuse."
+    },
+    {
+      "pl": "evameva kho, bhikkhave, lābhasakkārasiloko chaviṃ chindati, chaviṃ chetvā cammaṃ chindati, cammaṃ chetvā maṃsaṃ chindati, maṃsaṃ chetvā nhāruṃ chindati, nhāruṃ chetvā aṭṭhiṃ chindati, aṭṭhiṃ chetvā aṭṭhiṃmiñjaṃ āhacca tiṭṭhati.",
+      "fr": "De la même manière, [bhikkhu|mendiants], les [lss|acquisitions, honneurs et renommée], [bhikkhu|mendiants], coupent à travers l'épiderme, puis ayant coupé à travers l'épiderme ils coupent à travers la peau, puis ayant coupé à travers la peau ils coupent à travers la chair, puis ayant coupé à travers la chair ils coupent à travers les tendons, puis ayant coupé à travers les tendons ils coupent à travers les os, puis ayant coupé à travers les os ils atteignent la moelle osseuse."
+    },
+    {
+      "pl": "evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

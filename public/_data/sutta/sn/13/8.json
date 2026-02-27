@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "SN 13.8",
+  "plTitle": "Samudda Sutta",
+  "frTitle": "L'océan",
+  "description": "Le Bouddha donne une idée de la quantité de mal-être restant après l'expérience de l'entrée dans le courant, en rapport à celle qu'a éprouvé l'individu dans ses innombrables existences.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“seyyathāpi, bhikkhave, mahāsamuddo parikkhayaṃ pariyādānaṃ gaccheyya, ṭhapetvā dve vā tīṇi vā udakaphusitāni. taṃ kiṃ maññatha, bhikkhave, katamaṃ nu kho bahutaraṃ: yaṃ vā mahāsamudde udakaṃ parikkhīṇaṃ pariyādinnaṃ yāni vā dve vā tīṇi vā udakaphusitāni avasiṭṭhānī”ti?",
+      "fr": "Imaginez, [bhikkhu|mendiants], que le grand corps d'océans soit totalement épuisé et éliminé, et qu'il n'en reste que deux ou trois gouttes d'eau. Qu'en pensez-vous, [bhikkhu|mendiants], quel est le plus grand: la quantité d'eau contenue dans le grand corps d'océans totalement épuisé et éliminé, ou bien celle restant dans les deux ou trois gouttes d'eau?"
+    },
+    {
+      "pl": "“etadeva, [bhante|Bhanté] bahutaraṃ mahāsamudde udakaṃ, yadidaṃ parikkhīṇaṃ pariyādiṇṇaṃ; appamattakāni dve vā tīṇi vā udakaphusitāni avasiṭṭhāni. neva satimaṃ kalaṃ upenti na sahassimaṃ kalaṃ upenti na satasahassimaṃ kalaṃ upenti mahāsamudde udakaṃ parikkhīṇaṃ pariyādiṇṇaṃ upanidhāya dve vā tīṇi vā udakaphusitāni avasiṭṭhānī”ti.",
+      "fr": "— Bhanté, la quantité d'eau contenue dans le grand corps d'océans totalement épuisé et éliminé est la plus grande; celle restant dans les deux ou trois gouttes d'eau est infime. La quantité d'eau restant dans les deux ou trois gouttes d'eau ne représente pas le centième, ne représente pas le millième, ne représente pas le cent-millième de la quantité d'eau contenue dans le grand corps d'océans totalement épuisé et éliminé."
+    },
+    {
+      "pl": "“evameva kho, bhikkhave, ariya-sāvakassa diṭṭhi-sampannassa puggalassa abhisametāvino etadeva bahutaraṃ dukkhaṃ yadidaṃ parikkhīṇaṃ pariyādiṇṇaṃ; appamattakaṃ avasiṭṭhaṃ. neva satimaṃ kalaṃ upeti na sahassimaṃ kalaṃ upeti na satasahassimaṃ kalaṃ upeti purimaṃ dukkhakkhandhaṃ parikkhīṇaṃ pariyādiṇṇaṃ upanidhāya yadidaṃ sattakkhattuṃ-paramatā. evaṃ mahatthiyo kho, bhikkhave, dhamm-ābhisamayo; evaṃ mahatthiyo dhamma-cakkhu-paṭilābho”ti.",
+      "fr": "— De la même manière, [bhikkhu|mendiants], un [ariyasavaka|noble disciple], un individu [ditthisampanna|ayant acquis la vue] qui a atteint sa réalisation, la quantité de [dukkha|mal-être] qui a été totalement épuisé et éliminé est la plus grande; celle qui reste est infime. Elle ne représente pas le centième, ne représente pas le millième, ne représente pas le cent-millième de la précédente masse de [dukkha|mal-être] qui a été totalement épuisé et éliminé, puisqu'il ne lui reste au maximum que sept vies. Tel est le grand bienfait de la réalisation du [dhamma|Dhamma], [bhikkhu|mendiants], tel est le grand bienfait de l'acquisition de l'[dhammacakkhu|œil du Dhamma]."
+    }
+  ],
+  "translator": "Rémy"
+}

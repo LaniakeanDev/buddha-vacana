@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 16.1",
+  "plTitle": "Santuṭṭha Sutta",
+  "frTitle": "La satisfaction",
+  "description": "Le Bouddha prend Kassapa comme modèle pour exhorter les mendiants à se satisfaire des quatre supports de vie qu'ils obtiennent.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati … pe …", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "“santuṭṭhāyaṃ, bhikkhave, kassapo itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī; na ca cīvarahetu anesanaṃ appatirūpaṃ āpajjati; aladdhā ca cīvaraṃ na paritassati; laddhā ca cīvaraṃ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati”.",
+      "fr": "[bhikkhu|Mendiants], ce Kassapa se [santuttha|satisfait] de n'importe quelle [civara|robe], il prône la [santuttha|satisfaction] avec n'importe quelle [civara|robe]; il ne s'engage pas, à [hetu|cause] d'une [civara|robe], dans ce qui est malséant et inapproprié; s'il n'obtient pas de [civara|robe], il n'en est pas agité, et s'il obtient une [civara|robe], il l'utilise sans y être attaché, sans s'en enthousiasmer, sans s'y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à son égard."
+    },
+    {
+      "pl": "“santuṭṭhāyaṃ, bhikkhave, kassapo itarītarena piṇḍapātena, itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī; na ca piṇḍapātahetu anesanaṃ appatirūpaṃ āpajjati; aladdhā ca piṇḍapātaṃ na paritassati; laddhā ca piṇḍapātaṃ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati.",
+      "fr": "Ce Kassapa se [santuttha|satisfait] de n'importe quelle [pindapata|nourriture d'aumônes], il prône la [santuttha|satisfaction] avec n'importe quelle [pindapata|nourriture d'aumônes]; il ne s'engage pas, à [hetu|cause] de [pindapata|nourriture d'aumônes], dans ce qui est malséant et inapproprié; s'il n'obtient pas de [pindapata|nourriture d'aumônes], il n'en est pas agité, et s'il obtient de la [pindapata|nourriture d'aumônes], il l'utilise sans y être attaché, sans s'en enthousiasmer, sans s'y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à son égard."
+    },
+    {
+      "pl": "“santuṭṭhāyaṃ, bhikkhave, kassapo itarītarena senāsanena, itarītarasenāsanasantuṭṭhiyā ca vaṇṇavādī; na ca senāsanahetu anesanaṃ appatirūpaṃ āpajjati; aladdhā ca senāsanaṃ na paritassati; laddhā ca senāsanaṃ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati.",
+      "fr": "Ce Kassapa se [santuttha|satisfait] de n'importe quel [senasana|gîte], il prône la [santuttha|satisfaction] avec n'importe quel [senasana|gîte]; il ne s'engage pas, à [hetu|cause] d'un [senasana|gîte], dans ce qui est malséant et inapproprié; s'il n'obtient pas de [senasana|gîte], il n'en est pas agité, et s'il obtient un [senasana|gîte], il l'utilise sans y être attaché, sans s'en enthousiasmer, sans s'y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à son égard."
+    },
+    {
+      "pl": "“santuṭṭhāyaṃ, bhikkhave, kassapo itarītarena gilānappaccaya-bhesajja-parikkhārena, itarītara-gilānappaccaya-bhesajja-parikkhāra-santuṭṭhiyā ca vaṇṇavādī; na ca gilānappaccaya-bhesajja-parikkhārahetu anesanaṃ appatirūpaṃ āpajjati; aladdhā ca gilānappaccaya-bhesajja-parikkhāraṃ na paritassati; laddhā ca gilānappaccaya-bhesajja-parikkhāraṃ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati.",
+      "fr": "Ce Kassapa se [santuttha|satisfait] de n'importe quels [bhesajja|remèdes] et provisions pour les malades, il prône la [santuttha|satisfaction] avec n'importe quels [bhesajja|remèdes] et provisions pour les malades; il ne s'engage pas, à [hetu|cause] de [bhesajja|remèdes] et provisions pour les malades, dans ce qui est malséant et inapproprié; s'il n'obtient pas de [bhesajja|remèdes] et provisions pour les malades, il n'en est pas agité, et s'il obtient des [bhesajja|remèdes] et provisions pour les malades, il les utilise sans y être attaché, sans s'en enthousiasmer, sans s'y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à leur égard."
+    },
+    {
+      "pl": "“tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ — ‘santuṭṭhā bhavissāma itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādino; na ca cīvarahetu anesanaṃ appatirūpaṃ āpajjissāma; aladdhā ca cīvaraṃ na ca paritassissāma; laddhā ca cīvaraṃ agadhitā amucchitā anajjhāpannā ādīnavadassāvino nissaraṇapaññā paribhuñjissāma’”.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous nous [santuttha|satisferons] de n'importe quelle [civara|robe], nous prônerons la [santuttha|satisfaction] avec n'importe quelle [civara|robe]; nous ne nous engagerons pas, à [hetu|cause] d'une [civara|robe], dans ce qui est malséant et inapproprié; si nous n'obtenons pas de [civara|robe], nous n'en serons pas agités, et si nous obtenons une [civara|robe], nous l'utiliserons sans y être attachés, sans nous en enthousiasmer, sans nous y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à son égard.”[/i]"
+    },
+    {
+      "pl": "“‘santuṭṭhā bhavissāma itarītarena piṇḍapātena … pe … santuṭṭhā bhavissāma itarītarena senāsanena … pe … santuṭṭhā bhavissāma itarītarena gilānappaccaya-bhesajja-parikkhārena, itarītara-gilānappaccaya-bhesajja-parikkhārasantuṭṭhiyā ca vaṇṇavādino; na ca gilānappaccaya-bhesajja-parikkhārahetu anesanaṃ appatirūpaṃ āpajjissāma aladdhā ca gilānappaccaya-bhesajja-parikkhāraṃ na paritassissāma; laddhā ca gilānappaccaya-bhesajja-parikkhāraṃ agadhitā amucchitā anajjhāpannā ādīnavadassāvino nissaraṇapaññā paribhuñjissāmā’’ti.",
+      "fr": "[i]“Nous nous [santuttha|satisferons] de n'importe quelle [pindapata|nourriture d'aumône] (…) n'importe quel [senasana|gîte] (…) n'importe quels [bhesajja|remèdes] et provisions pour les malades”, nous prônerons la [santuttha|satisfaction] avec n'importe quels [bhesajja|remèdes] et provisions pour les malades; nous ne nous engagerons pas, à [hetu|cause] de [bhesajja|remèdes] et provisions pour les malades, dans ce qui est malséant et inapproprié; si nous n'obtenons pas de [bhesajja|remèdes] et provisions pour les malades, nous n'en serons pas agités, et si nous obtenons des [bhesajja|remèdes] et provisions pour les malades, nous les utiliserons sans y être attachés, sans nous en enthousiasmer, sans nous y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à leur égard.[/i]"
+    },
+    {
+      "pl": "evañhi vo, bhikkhave, sikkhitabbaṃ. kassapena vā hi vo, bhikkhave, ovadissāmi yo vā panassa kassapasadiso, ovaditehi ca pana vo tathattāya paṭipajjitabban””ti.",
+      "fr": "Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner. Je vous exhorterai en prenant Kassapa ou quelqu'un qui lui ressemble comme exemple. Vous devriez pratiquer conformément à l'exhortation. "
+    }
+  ],
+  "translator": "Sekha."
+}

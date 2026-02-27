@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 20.10",
+  "plTitle": "Biḷāra Sutta",
+  "frTitle": "Le chat",
+  "description": "Voici comment un mendiant qui ne pratique pas correctement la restreinte des sens est semblable à un chat à qui il arrive une mauvaise surprise.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati.", "fr": "À Savatthi." },
+    {
+      "pl": "tena kho pana samayena aññataro bhikkhu ativelaṃ kulesu cārittaṃ āpajjati. tamenaṃ bhikkhū evamāhaṃsu:",
+      "fr": "Ce jour-là, un certain bhikkhu passait trop de temps dans les familles. Alors les autres lui dirent:"
+    },
+    {
+      "pl": "“māyasmā ativelaṃ kulesu cārittaṃ āpajjī”ti.",
+      "fr": "— Le [ayasma|vénérable] ne devrait pas passer trop de temps dans les familles."
+    },
+    {
+      "pl": "so bhikkhu bhikkhūhi vuccamāno na viramati. atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
+      "fr": "Mais le bhikkhu, en dépit de cet appel, ne s'abstenait pas. Alors un certain nombre de [bhikkhu|mendiants] approchèrent le [bhagava|Fortuné]; s'étant approchés, et ayant rendu hommage au [bhagava|Fortuné], ils s'assirent d'un côté. Une fois assis d'un côté, ces [bhikkhu|mendiants] dirent au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idha, [bhante|Bhanté] aññataro bhikkhu ativelaṃ kulesu cārittaṃ āpajjati. tamenaṃ bhikkhū evamāhaṃsu: ‘māyasmā ativelaṃ kulesu cārittaṃ āpajjī’ti. so bhikkhu bhikkhūhi vuccamāno na viramatī”ti.",
+      "fr": "— [bhante|Bhanté], un certain bhikkhu passe trop de temps dans les familles. Alors les autres lui ont dit: [i]“Le [ayasma|vénérable] ne devrait pas passer trop de temps dans les familles.”[/i] Mais le bhikkhu, en dépit de cet appel, ne s'abstient pas."
+    },
+    {
+      "pl": "“bhūtapubbaṃ, bhikkhave, biḷāro sandhisamalasaṅkaṭīre ṭhito ahosi mudumūsiṃ maggayamāno: ‘yadāyaṃ mudumūsi gocarāya pakkamissati, tattheva naṃ gahetvā khādissāmī’ti. atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. tamenaṃ biḷāro gahetvā sahasā saṅkhāditvā ajjhohari. tassa so mudumūsi antampi khādi, antaguṇampi khādi. so tatonidānaṃ maraṇampi nigacchi maraṇamattampi dukkhaṃ.",
+      "fr": "— Dans le passé, [bhikkhu|mendiants], il y avait un chat qui se tenait près d'un écoulement d'eaux usées, attendant une petite souris en pensant: [i]“Quand la petite souris sortira de son trou, je l'attraperai et la mangerai!”[/i] Finalement, [bhikkhu|mendiants], la petite souris sortit de son trou. Le chat l'attrapa et l'avala tout rond, sans la mâcher. Alors la petite souris mangea le chat par les tripes, et à cause de cela, le chat subit des souffrances mortelles et la mort."
+    },
+    {
+      "pl": "“evameva kho, bhikkhave, idhekacco bhikkhu pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya gāmaṃ vā nigamaṃ vā piṇḍāya pavisati arakkhiteneva kāyena arakkhitāya vācāya arakkhitena cittena, anupaṭṭhitāya satiyā, asaṃvutehi indriyehi. so tattha passati mātugāmaṃ dunnivatthaṃ vā duppārutaṃ vā. tassa mātugāmaṃ disvā dunnivatthaṃ vā duppārutaṃ vā rāgo cittaṃ anuddhaṃseti. so rāgānuddhaṃsena cittena maraṇaṃ vā nigacchati maraṇamattaṃ vā dukkhaṃ. maraṇañhetaṃ, bhikkhave, ariyassa vinaye yo sikkhaṃ paccakkhāya hīnāyāvattati. maraṇamattañhetaṃ, bhikkhave, dukkhaṃ yadidaṃ aññataraṃ saṃkiliṭṭhaṃ āpattiṃ āpajjati, yathārūpāya āpattiyā vuṭṭhānaṃ paññāyati.",
+      "fr": "De la même manière, [bhikkhu|mendiants], un mendiant s'habille le matin, emporte son bol et sa robe, et entre dans un village ou dans une ville pour ses aumônes de nourriture, sans se protéger en corps, sans se protéger en parole, sans se protéger en esprit, sans avoir installé sa [sati|présence d'esprit], sans restreindre ses [indriya|facultés sensorielles]. Là, il voit une femme habillée de manière inappropriée ou sans haut, et le [raga|désir] corrompt son [citta|esprit]. Avec son [citta|esprit] corrompu par le [raga|désir], il subit la [marana|mort] ou des [dukkha|souffrances] mortelles. Car la [marana|mort], [bhikkhu|mendiants], dans la [vinaya|discipline] du [ariya|noble], c'est d'abandonner l'[sikkha|entraînement] et de retourner à la vie inférieure. Et les [dukkha|souffrances] mortelles, [bhikkhu|mendiants], c'est de commettre une certaine [apatti|transgression] impure dont il est possible d'être réhabilité."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘rakkhiteneva kāyena rakkhitāya vācāya rakkhitena cittena, upaṭṭhitāya satiyā, saṃvutehi indriyehi gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous irons au village ou en ville protégés en corps, protégés en parole, protégés en esprit, en ayant installé notre [sati|présence d'esprit], avec nos [indriya|facultés sensorielles] restreintes.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

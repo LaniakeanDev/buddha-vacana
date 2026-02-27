@@ -1,0 +1,129 @@
+﻿{
+  "identifier": "SN 12.17",
+  "plTitle": "Acelakassapa Sutta",
+  "frTitle": "La question d'Atchéla Kassapa",
+  "description": "Atchéla Kassapa interrompt le Bouddha au milieu de sa tournée d'aumônes pour lui poser des questions sur l'origine de l'insatisfaction.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi. addasā kho acelo kassapo bhagavantaṃ dūratova āgacchantaṃ. disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho acelo kassapo bhagavantaṃ etadavoca —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri, dans la bambouseraie, au refuge des écureuils. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Rajgiri pour ses aumônes de nourriture. Atchéla Kassapa vit le [bhagava|Fortuné] arriver de loin, s'approcha de lui et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il se tint debout d'un côté et lui dit:"
+    },
+    {
+      "pl": "“puccheyyāma mayaṃ bhavantaṃ gotamaṃ kañcideva desaṃ, sace no bhavaṃ gotamo okāsaṃ karoti pañhassa veyyākaraṇāyā””ti.",
+      "fr": "«Nous souhaiterions poser une petite question au [bho|Honorable] Gotama, s'il daigne nous donner une réponse."
+    },
+    {
+      "pl": "“akālo kho tāva, kassapa, pañhassa; antaragharaṃ paviṭṭhamhā””ti.",
+      "fr": "—Kassapa, ce n'est pas le moment pour une question, nous sommes entrés au milieu des maisons.»"
+    },
+    {
+      "pl": "dutiyampi kho acelo kassapo bhagavantaṃ etadavoca",
+      "fr": "Une deuxième fois, Atchéla Kassapa dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“puccheyyāma mayaṃ bhavantaṃ gotamaṃ kañcideva desaṃ, sace no bhavaṃ gotamo okāsaṃ karoti pañhassa veyyākaraṇāyā””ti.",
+      "fr": "«Nous souhaiterions poser une petite question au [bho|Honorable] Gotama, s'il daigne nous donner une réponse."
+    },
+    {
+      "pl": "“akālo kho tāva, kassapa, pañhassa; antaragharaṃ paviṭṭhamhā””ti.",
+      "fr": "—Kassapa, ce n'est pas le moment pour une question, nous sommes entrés au milieu des maisons.»"
+    },
+    { "pl": "tatiyampi kho acelo kassapo … pe …", "fr": "Une troisième fois (…)" },
+    { "pl": "… antaragharaṃ paviṭṭhamhāti.", "fr": "«(…) nous sommes entrés au milieu des maisons.»" },
+    {
+      "pl": "evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca —",
+      "fr": "Lorsque cela fut dit, Atchéla Kassapa dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“na kho pana mayaṃ bhavantaṃ gotamaṃ bahudeva pucchitukāmā””ti.",
+      "fr": "«Nous ne souhaitons pas demander grand chose au [bho|Honorable] Gotama."
+    },
+    { "pl": "“puccha, kassapa, yadākaṅkhasī””ti.", "fr": "—Alors demande ce que tu souhaites, Kassapa." },
+    {
+      "pl": "“kiṃ nu kho, bho gotama, ‘sayaṃkataṃ dukkhan’’ti?",
+      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] est produite par soi-même?"
+    },
+    {
+      "pl": "‘mā hevaṃ, kassapā’’ti bhagavā avoca.",
+      "fr": "—Non, Kassapa, il n'en est pas ainsi», dit le [bhagava|Fortuné]."
+    },
+    {
+      "pl": "‘kiṃ pana, bho gotama, paraṃkataṃ dukkhan’’ti?",
+      "fr": "«Alors, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] est produite par un autre?"
+    },
+    {
+      "pl": "‘mā hevaṃ, kassapā’’ti bhagavā avoca.",
+      "fr": "—Non, Kassapa, il n'en est pas ainsi», dit le [bhagava|Fortuné]."
+    },
+    {
+      "pl": "‘kiṃ nu kho, bho gotama, sayaṃkatañca paraṃkatañca dukkhan’’ti?",
+      "fr": "«Alors, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] est produite par soi-même et par un autre?"
+    },
+    {
+      "pl": "‘mā hevaṃ, kassapā’’ti bhagavā avoca.",
+      "fr": "—Non, Kassapa, il n'en est pas ainsi», dit le [bhagava|Fortuné]."
+    },
+    {
+      "pl": "‘kiṃ pana bho gotama, asayaṃkāraṃ aparaṃkāraṃ adhiccasamuppannaṃ dukkhan’’ti?",
+      "fr": "«Alors, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] n'est produite ni par soi-même ni par un autre et apparaît sans cause?"
+    },
+    {
+      "pl": "‘mā hevaṃ, kassapā’’ti bhagavā avoca.",
+      "fr": "—Non, Kassapa, il n'en est pas ainsi», dit le [bhagava|Fortuné]."
+    },
+    {
+      "pl": "‘kiṃ nu kho, bho gotama, natthi dukkhan’’ti?",
+      "fr": "«Alors, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] n'existe pas?"
+    },
+    {
+      "pl": "‘na kho, kassapa, natthi dukkhaṃ. atthi kho, kassapa, dukkhan’’ti.",
+      "fr": "—Ce n'est pas le cas, Kassapa, que l'[dukkha|insatisfaction] n'existe pas. L'[dukkha|insatisfaction] existe bel et bien."
+    },
+    {
+      "pl": "‘tena hi bhavaṃ gotamo dukkhaṃ na jānāti, na passatī’’ti.",
+      "fr": "—Alors est-ce que c'est parce que l'[bho|Honorable] Gotama ne connaît pas et ne voit pas l'[dukkha|insatisfaction]?"
+    },
+    {
+      "pl": "‘na khvāhaṃ, kassapa, dukkhaṃ na jānāmi, na passāmi. jānāmi khvāhaṃ, kassapa, dukkhaṃ; passāmi khvāhaṃ, kassapa, dukkhan’””ti.",
+      "fr": "—Ce n'est pas le cas, Kassapa, que je ne connais pas et ne vois pas l'[dukkha|insatisfaction]. Je connais bel et bien l'[dukkha|insatisfaction], et je vois bel et bien l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "“ki nu kho, bho gotama, ‘sayaṃkataṃ dukkhan’’ti iti puṭṭho samāno ‘mā hevaṃ, kassapā’’ti vadesi. ‘kiṃ pana, bho gotama, paraṃkataṃ dukkhan’’ti iti puṭṭho samāno ‘mā hevaṃ, kassapā’’ti vadesi. ‘kiṃ nu kho, bho gotama, sayaṃkatañca paraṃkatañca dukkhan’’ti iti puṭṭho samāno ‘mā hevaṃ, kassapā’’ti vadesi. ‘kiṃ pana, bho gotama, asayaṃkāraṃ aparaṃkāraṃ adhiccasamuppannaṃ dukkhan’’ti iti puṭṭho samāno ‘mā hevaṃ, kassapā’’ti vadesi. ‘kiṃ nu kho, bho gotama, natthi dukkhan’’ti iti puṭṭho samāno ‘na kho, kassapa, natthi dukkhaṃ, atthi kho, kassapa, dukkhan’’ti vadesi. ‘tena hi bhavaṃ gotamo dukkhaṃ na jānāti na passatī’’ti iti puṭṭho samāno ‘na khvāhaṃ, kassapa, dukkhaṃ na jānāmi na passāmi. jānāmi khvāhaṃ, kassapa, dukkhaṃ; passāmi khvāhaṃ, kassapa, dukkhan’’ti vadesi. ācikkhatu ca me, bhante, bhagavā dukkhaṃ. desetu ca me, bhante, bhagavā dukkhan””ti.",
+      "fr": "—[bho|Honorable] Gotama, lorsqu'on vous demande si l'[dukkha|insatisfaction] est produite par soi-même, vous répondez que non; lorsqu'on vous demande si l'[dukkha|insatisfaction] est produite par un autre, vous répondez que non; lorsqu'on vous demande si l'[dukkha|insatisfaction] est produite soi-même et par un autre, vous répondez que non; lorsqu'on vous demande si l'[dukkha|insatisfaction] n'est produite ni par soi-même ni par un autre et apparaît sans cause, vous répondez que non; lorsqu'on vous demande si l'[dukkha|insatisfaction] n'existe pas, vous répondez que ce n'est pas le cas que l'[dukkha|insatisfaction] n'existe pas, qu'elle existe bel et bien; lorsqu'on vous demande si l'[bho|Honorable] Gotama ne connaît pas et ne voit pas l'[dukkha|insatisfaction], vous répondez que ce n'est pas le cas que vous ne connaissez pas et ne voyez pas l'[dukkha|insatisfaction], que vous connaissez bel et bien l'[dukkha|insatisfaction], et que vous voyez bel et bien l'[dukkha|insatisfaction]. [bhante|Bhanté], que le [bhagava|Fortuné] m'explique l'[dukkha|insatisfaction], que le [bhagava|Fortuné] m'expose l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "“‘so karoti so paṭisaṃvedayatī’’ti kho, kassapa, ādito sato ‘sayaṃkataṃ dukkhan’’ti iti vadaṃ sassataṃ etaṃ pareti. ‘añño karoti añño paṭisaṃvedayatī’’ti kho, kassapa, vedanābhitunnassa sato ‘paraṃkataṃ dukkhan’’ti iti vadaṃ ucchedaṃ etaṃ pareti.",
+      "fr": "—Kassapa, [si on pense que] celui qui agit est le même que celui qui ressent [les conséquences de l'action], alors considérant qu'on existe depuis le début, [on pense que] l'[dukkha|insatisfaction] est produite par soi-même, et cela s'apparente à l'éternalisme. [Si on pense que] celui qui agit est différent de celui qui ressent [les conséquences de l'action], alors par rapport à celui qui est frappé par le ressenti, [on pense que] l'[dukkha|insatisfaction] est produite par un autre, et cela s'apparente à l'annihilationnisme."
+    },
+    {
+      "pl": "ete te, kassapa, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti — ‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṃ … pe … evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+      "fr": "Evitant ces deux extrêmes, Kassapa, le [tathagata|Tathagata] enseigne le [dhamma|Dhamma] par le milieu: l'[avijja|ignorance] est la condition [de l'apparition] des [sankhara|constructions];les [sankhara|constructions] sont la condition [de l'apparition] de la [vinnana|conscience];la [vinnana|conscience] est la condition [de l'apparition] du [namarupa|Nom-et-Forme];le [namarupa|Nom-et-Forme] est la condition [de l'apparition] des [salayatana|organes des sens];les [salayatana|organes des sens] sont la condition [de l'apparition] du [phassa|contact];le [phassa|contact] est la condition [de l'apparition] du [vedana|ressenti];le [vedana|ressenti] est la condition [de l'apparition] de la [tanha|Soif];la [tanha|Soif] est la condition [de l'apparition] de l'[upadana|attachement];l'[upadana|attachement] est la condition [de l'apparition] de l'[bhava|existence];l'[bhava|existence] est la condition [de l'apparition] de la [jati|naissance];la [jati|naissance] est la condition [de l'apparition] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Telle est l'apparition de toute cette [khandha|accumulation] de [dukkha|mal-être]."
+    },
+    {
+      "pl": "avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho … pe … evametassa kevalassa dukkhakkhandhassa nirodho hotī’””ti.",
+      "fr": "La [viraga|disparition] complète & [nirodha|cessation] de l'[avijja|ignorance] amène la [nirodha|cessation] des [sankhara|constructions]; la [nirodha|cessation] des [sankhara|constructions] amène la [nirodha|cessation] de la [vinnana|conscience];la [nirodha|cessation] de la [vinnana|conscience] amène la [nirodha|cessation] du [namarupa|Nom-et-Forme];la [nirodha|cessation] du [namarupa|Nom-et-Forme] amène la [nirodha|cessation] des [salayatana|organes des sens];la [nirodha|cessation] des [salayatana|organes des sens] amène la [nirodha|cessation] du [phassa|contact];la [nirodha|cessation] du [phassa|contact] amène la [nirodha|cessation] du [vedana|ressenti];la [nirodha|cessation] du [vedana|ressenti] amène la [nirodha|cessation] de la [tanha|Soif];la [nirodha|cessation] de la [tanha|Soif] amène la [nirodha|cessation] de l'[upadana|attachement];la [nirodha|cessation] de l'[upadana|attachement] amène la [nirodha|cessation] de l'[bhava|existence];la [nirodha|cessation] de l'[bhava|existence] amène la [nirodha|cessation] de la [jati|naissance];la [nirodha|cessation] de la [jati|naissance] amène la [nirodha|cessation] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Telle est la [nirodha|cessation] de toute cette [khandha|accumulation] de [dukkha|mal-être].»"
+    },
+    {
+      "pl": "evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca —",
+      "fr": "Lorsque cela fut dit, Atchéla Kassapa dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“abhikkantaṃ, bhante, abhikkantaṃ, bhante! seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya … pe … cakkhumanto rūpāni dakkhantīti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyaṃ upasampadan””ti.",
+      "fr": "«C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. [bhante|Bhanté], puissé-je obtenir le départ du foyer en la présence du [bhagava|Fortuné], puissé-je obtenir l'[upasampada|ordination monastique]."
+    },
+    {
+      "pl": "“yo kho, kassapa, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati pabbajjaṃ, ākaṅkhati upasampadaṃ, so cattāro māse parivasati. catunnaṃ māsānaṃ accayena (parivutthaparivāsaṃ) āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya. api ca mayā puggalavemattatā viditā””ti.",
+      "fr": "—Kassapa, ceux qui étaient auparavant hétérodoxes et qui souhaitent le départ du foyer dans cet [dhamma|Enseignement] & [vinaya|Discipline], qui souhaitent l'[upasampada|ordination complète], doivent rester en probation pendant quatre mois, et au bout de quatre mois, si les mendiants sont satisfaits, ils confèrent le départ du foyer, ils confèrent l'[upasampada|ordination complète] pour devenir [bhikkhu|mendiant]. Mais par rapport à cela, je sais reconnaître les différences entre les individus."
+    },
+    {
+      "pl": "“sace, bhante, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati pabbajjaṃ, ākaṅkhati upasampadaṃ, cattāro māse parivasati. catunnaṃ māsānaṃ accayena (parivutthaparivāsaṃ) āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya. ahaṃ cattāri vassāni parivasissāmi, catunnaṃ vassānaṃ accayena (parivutthaparivāsaṃ) āraddhacittā bhikkhū pabbājentu upasampādentu bhikkhubhāvāyā””ti.",
+      "fr": "—[bhante|Bhanté], si ceux qui étaient auparavant hétérodoxes et qui souhaitent le départ du foyer dans cet [dhamma|Enseignement] & [vinaya|Discipline], qui souhaitent l'[upasampada|ordination complète], doivent rester en probation pendant quatre mois, et qu'au bout de quatre mois, si les mendiants sont satisfaits, ils confèrent le départ du foyer, ils confèrent l'[upasampada|ordination complète] pour devenir [bhikkhu|mendiant], alors je resterai en probation pendant quatre ans, et au bout de quatre ans, si les mendiants sont satisfaits, ils me donneront le départ du foyer, ils me donneront l'[upasampada|ordination complète] pour devenir [bhikkhu|mendiant].»"
+    },
+    {
+      "pl": "alattha kho acelo kassapo bhagavato santike pabbajjaṃ, alattha upasampadaṃ. acirūpasampanno ca panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva — yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ — brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā””ti abbhaññāsi. aññataro ca panāyasmā kassapo arahataṃ ahosīti.",
+      "fr": "Alors Atchéla Kassapa obtint le [pabbajja|Départ du foyer] auprès du [bhagava|Fortuné], il obtint l'[upasampada|ordination complète]. Et peu de temps après son ordination, le [ayasma|vénérable] Kassapa, demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Kassapa devint l'un des [arahant|Méritants]."
+    }
+  ],
+  "translator": "Sekha."
+}

@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 17.2",
+  "plTitle": "Baḷisa Sutta",
+  "frTitle": "L'hameçon",
+  "description": "Comment acquisitions, honneurs et renommée sont semblables au hameçon d'un pêcheur.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, bāḷisiko āmisagataṃ baḷisaṃ gambhīre udakarahade pakkhipeyya, tamenaṃ aññataro āmisacakkhu maccho gileyya. evañhi so, bhikkhave, maccho gilabaḷiso bāḷisikassa anayaṃ āpanno byasanaṃ āpanno yathākāmakaraṇīyo bāḷisikassa”.",
+      "fr": "Imaginez, [bhikkhu|mendiants], qu'un pêcheur jette un hameçon avec un appât dans un lac d'eau profond, et qu'un poisson cherchant de la nourriture y morde. Ainsi, [bhikkhu|mendiants], le poisson ayant mordu à l'hameçon du pêcheur rencontrerait son malheur, rencontrerait son infortune, et le pêcheur ferait de lui ce qu'il voudrait."
+    },
+    {
+      "pl": "“bāḷisikoti kho, bhikkhave, mārassetaṃ pāpimato adhivacanaṃ. baḷisanti kho, bhikkhave, lābhasakkārasilokassetaṃ adhivacanaṃ. yo hi koci, bhikkhave, bhikkhu uppannaṃ lābhasakkārasilokaṃ assādeti nikāmeti, ayaṃ vuccati, bhikkhave, bhikkhu gilabaḷiso mārassa anayaṃ āpanno byasanaṃ āpanno yathākāmakaraṇīyo pāpimato. evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Le pêcheur, [bhikkhu|mendiants], représente [mara|Mara] le Malin. L'hameçon, [bhikkhu|mendiants], représente [lss|les acquisitions, honneurs et renommée]. Tout bhikkhu qui succombe aux attraits des [lss|acquisitions, honneurs et renommée] obtenus, qui les désire, est ce qu'on appelle un mendiant ayant mordu à l'hameçon de [mara|Mara], qui a rencontré son malheur, qui a rencontré son infortune, et le Malin fait de lui ce qu'il veut. Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

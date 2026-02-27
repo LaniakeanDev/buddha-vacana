@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 17.5",
+  "plTitle": "Mīḷhaka Sutta",
+  "frTitle": "Le scarabée",
+  "description": "Une allégorie efficace pour dissuader les [bhikkhu|mendiants] de s'attacher aux acquisitions ou à la renommée.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, mīḷhakā gūthādī gūthapūrā puṇṇā gūthassa, purato cassa mahāgūthapuñjo. sā tena aññā mīḷhakā atimaññeyya: ‘ahamhi gūthādī gūthapūrā puṇṇā gūthassa, purato ca myāyaṃ mahāgūthapuñjo’ti.",
+      "fr": "Imaginez, [bhikkhu|mendiants], un scarabée se nourrissant d'excréments, rempli d'excréments, gorgé d'excréments, et qui aurait un gros tas d'excréments en face de lui. Il mépriserait alors les autres scarabées: [i]“Moi, je me nourris d'excréments, je suis rempli d'excréments, gorgé d'excréments, et j'ai un gros tas d'excréments en face de moi!”[/i]"
+    },
+    {
+      "pl": "evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pariyādiṇṇacitto pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya gāmaṃ vā nigamaṃ vā piṇḍāya pavisati. so tattha bhuttāvī ca hoti yāvadattho, nimantito ca svātanāya, piṇḍapāto cassa pūro. so ārāmaṃ gantvā bhikkhugaṇassa majjhe vikatthati: ‘bhuttāvī camhi yāvadattho, nimantito camhi svātanāya, piṇḍapāto ca myāyaṃ pūro, lābhī camhi cīvara-piṇḍapāta-senāsana-gilānappaccaya-bhesajjaparikkhārānaṃ, ime panaññe bhikkhū appapuññā appesakkhā na lābhino cīvara-piṇḍapātasenāsana-gilānappaccaya-bhesajja-parikkhārānan’ti. so tena lābhasakkārasilokena abhibhūto pariyādiṇṇacitto aññe pesale bhikkhū atimaññati. tañhi tassa, bhikkhave, moghapurisassa hoti dīgharattaṃ ahitāya dukkhāya.",
+      "fr": "De la même manière, [bhikkhu|mendiants], un certain bhikkhu dont l'esprit est dominé, sous l'emprise [lss|des acquisitions, honneurs et renommée], s'étant habillé le matin et ayant pris ses robes et son bol, entre dans un village ou une ville pour ses aumônes de nourriture. Il mange autant qu'il veut, il est aussi invité pour le lendemain et il se remplit de nourriture d'aumônes. De retour au monastère, il se vante au milieu d'un groupe de [bhikkhu|mendiants]: [i]“Moi, je mange autant que je veux, je suis invité pour demain, je me suis rempli de nourriture d'aumônes, j'obtiens des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], et des [bhesajja|médicaments] et remèdes pour les malades. Ces autres [bhikkhu|mendiants] n'ont que peu de mérite, peu d'influence, ils n'obtiennent pas de [civara|robes], de [pindapata|nourriture d'aumônes], de [senasana|gîtes], ni de [bhesajja|médicaments] et remèdes pour les malades.”[/i] Ainsi, ayant l'esprit est dominé, sous l'emprise [lss|des acquisitions, honneurs et renommée], il méprise les autres [bhikkhu|mendiants] de bon caractère. Cela mènera cet homme sans valeur à son malheur et son [dukkha|mal-être] pendant longtemps."
+    },
+    {
+      "pl": "evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i]Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

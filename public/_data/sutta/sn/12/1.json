@@ -1,0 +1,55 @@
+﻿{
+  "identifier": "SN 12.1",
+  "plTitle": "Paṭiccasamuppāda Sutta",
+  "frTitle": "L'apparition conditionnée",
+  "description": "Ce soutta présente simplement le cycle de l'apparition conditionnée (paṭicca·samuppāda) dans les deux sens.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“paṭiccasamuppādaṃ vo, bhikkhave, desessāmi. taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
+      "fr": "«[bhikkhu|Mendiants], je vais vous enseigner l'[paticcasamuppada|apparition conditionnée]. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté]», répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, paṭiccasamuppādo?",
+      "fr": "— «Et qu'est-ce, [bhikkhu|mendiants], que l'[paticcasamuppada|apparition conditionnée]?"
+    },
+    {
+      "pl": "avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṃ; viññāṇapaccayā nāmarūpaṃ; nāmarūpapaccayā saḷāyatanaṃ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ soka-parideva-dukkha-domanass-upāyāsā sambhavanti. ",
+      "fr": "L'[avijja|ignorance], [bhikkhu|mendiants], est la condition [de l'apparition] des [sankhara|constructions];les [sankhara|constructions] sont la condition [de l'apparition] de la [vinnana|conscience];la [vinnana|conscience] est la condition [de l'apparition] du [namarupa|Nom-et-Forme];le [namarupa|Nom-et-Forme] est la condition [de l'apparition] des [salayatana|organes des sens];les [salayatana|organes des sens] sont la condition [de l'apparition] du [phassa|contact];le [phassa|contact] est la condition [de l'apparition] du [vedana|ressenti];le [vedana|ressenti] est la condition [de l'apparition] de la [tanha|Soif];la [tanha|Soif] est la condition [de l'apparition] de l'[upadana|attachement];l'[upadana|attachement] est la condition [de l'apparition] de l'[bhava|existence];l'[bhava|existence] est la condition [de l'apparition] de la [jati|naissance];la [jati|naissance] est la condition [de l'apparition] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]."
+    },
+    {
+      "pl": "evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+      "fr": "Telle est l'apparition de toute cette [khandha|accumulation] de [dukkha|mal-être]."
+    },
+    {
+      "pl": "ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.",
+      "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle l'[paticcasamuppada|apparition conditionnée]."
+    },
+    {
+      "pl": "“avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṃ soka-parideva-dukkha-domanass-upāyāsā nirujjhanti. ",
+      "fr": "La [viraga|disparition] complète & [nirodha|cessation] de l'[avijja|ignorance] amène la [nirodha|cessation] des [sankhara|constructions];la [nirodha|cessation] des [sankhara|constructions] amène la [nirodha|cessation] de la [vinnana|conscience];la [nirodha|cessation] de la [vinnana|conscience] amène la [nirodha|cessation] du [namarupa|Nom-et-Forme];la [nirodha|cessation] du [namarupa|Nom-et-Forme] amène la [nirodha|cessation] des [salayatana|organes des sens];la [nirodha|cessation] des [salayatana|organes des sens] amène la [nirodha|cessation] du [phassa|contact];la [nirodha|cessation] du [phassa|contact] amène la [nirodha|cessation] du [vedana|ressenti];la [nirodha|cessation] du [vedana|ressenti] amène la [nirodha|cessation] de la [tanha|Soif];la [nirodha|cessation] de la [tanha|Soif] amène la [nirodha|cessation] de l'[upadana|attachement];la [nirodha|cessation] de l'[upadana|attachement] amène la [nirodha|cessation] de l'[bhava|existence];la [nirodha|cessation] de l'[bhava|existence] amène la [nirodha|cessation] de la [jati|naissance];la [nirodha|cessation] de la [jati|naissance] amène la [nirodha|cessation] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]."
+    },
+    {
+      "pl": "evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti.",
+      "fr": "Telle est la [nirodha|cessation] de toute cette [khandha|accumulation] de [dukkha|mal-être].»"
+    },
+    {
+      "pl": "idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+      "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
+    }
+  ],
+  "translator": "Sekha."
+}

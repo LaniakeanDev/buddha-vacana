@@ -1,0 +1,66 @@
+﻿{
+  "identifier": "SN 16.3",
+  "plTitle": "Candūpama Sutta",
+  "frTitle": "En comparaison à la lune",
+  "description": "Le Bouddha explique à quelle condition un mendiant est apte à approcher les familles, puis à quelle condition son enseignement du Dhamma est pur.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati...", "fr": "À Savatthi" },
+    {
+      "pl": "“candūpamā, bhikkhave, kulāni upasaṅkamatha: apakasseva kāyaṃ, apakassa cittaṃ, niccanavakā kulesu appagabbhā. seyyathāpi, bhikkhave, puriso jarudapānaṃ vā olokeyya pabbatavisamaṃ vā nadīviduggaṃ vā apakasseva kāyaṃ, apakassa cittaṃ; evameva kho, bhikkhave, candūpamā kulāni upasaṅkamatha: apakasseva kāyaṃ, apakassa cittaṃ, niccanavakā kulesu appagabbhā”.",
+      "fr": "Mendiants, vous devriez approcher les familles en comparaison à la lune: en retenant le [kaya|corps], en retenant l'[citta|esprit], en vous comportant toujours comme des inconnus, sans impudence envers les familles. Tout comme un homme qui inspecte un vieux puits, un chemin de montagne malaisé ou un gué difficile à franchir le fait en retenant le [kaya|corps], en retenant l'[citta|esprit]; de la même manière, [bhikkhu|mendiants], vous devriez approcher les familles en comparaison à la lune: en retenant le [kaya|corps], en retenant l'[citta|esprit], en vous comportant toujours comme des inconnus, sans impudence envers les familles."
+    },
+    {
+      "pl": "“kassapo, bhikkhave, candūpamo kulāni upasaṅkamati: apakasseva kāyaṃ, apakassa cittaṃ, niccanavako kulesu appagabbho. taṃ kiṃ maññatha, bhikkhave, kathaṃrūpo bhikkhu arahati kulāni upasaṅkamitun”ti?",
+      "fr": "Mendiants, Kassapa approche les familles en comparaison à la lune: en retenant le [kaya|corps], en retenant l'[citta|esprit], en se comportant toujours comme un inconnu, sans impudence envers les familles. Qu'en pensez-vous, [bhikkhu|mendiants], quel genre de [bhikkhu|mendiant] mérite d'approcher les familles?"
+    },
+    {
+      "pl": "“bhagavaṃmūlakā no, bhante dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. sādhu vata, [bhante|Bhanté] bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. bhagavato sutvā bhikkhū dhāressantī”ti.",
+      "fr": "— [bhante|Bhanté], le [dhamma|Dhamma] a le [bhagava|Fortuné] pour racine, il a le [bhagava|Fortuné] pour guide, il a le [bhagava|Fortuné] pour protecteur. Il serait excellent, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront."
+    },
+    {
+      "pl": "atha kho bhagavā ākāse pāṇiṃ cālesi.",
+      "fr": "Alors le [bhagava|Fortuné] fit osciller sa main dans les airs."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, ayaṃ ākāse pāṇi na sajjati na gayhati na bajjhati; evameva kho, bhikkhave, yassa kassaci bhikkhuno kulāni upasaṅkamato kulesu cittaṃ na sajjati na gayhati na bajjhati: ‘labhantu lābhakāmā, puññakāmā karontu puññānī’ti; yathāsakena lābhena attamano hoti sumano, evaṃ paresaṃ lābhena attamano hoti sumano. evarūpo kho, bhikkhave, bhikkhu arahati kulāni upasaṅkamituṃ.",
+      "fr": "— Tout comme, [bhikkhu|mendiants], cette main n'est pas attachée à l'air, elle n'y est pas attrapée ni retenue; de la même manière, lorsqu'il approche les familles, l'[citta|esprit] d'un [bhikkhu|mendiant] n'est pas attaché, n'est pas attrapé ni retenu [et il pense:] [i]“Que ceux qui désirent une acquisition l'obtiennent, que ceux qui désirent du mérite fassent du mérite”[/i]; il est aussi content et réjoui de ses propres gains qu'il est content et réjoui des gains des autres. Un tel [bhikkhu|mendiant] mérite d'approcher les familles."
+    },
+    {
+      "pl": "“kassapassa, bhikkhave, kulāni upasaṅkamato kulesu cittaṃ na sajjati na gayhati na bajjhati — ‘labhantu lābhakāmā, puññakāmā karontu puññānī’ti; yathāsakena lābhena attamano hoti sumano; evaṃ paresaṃ lābhena attamano hoti sumano.",
+      "fr": "Lorsqu'il approche les familles, [bhikkhu|mendiants], l'[citta|esprit] de Kassapa n'est pas attaché, n'est pas attrapé ni retenu [et il pense:] [i]“Que ceux qui désirent une acquisition l'obtiennent, que ceux qui désirent du mérite fassent du mérite”[/i]; il est aussi content et réjoui de ses propres gains qu'il est content et réjoui des gains des autres."
+    },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhikkhave, kathaṃrūpassa bhikkhuno aparisuddhā dhammadesanā hoti, kathaṃrūpassa bhikkhuno parisuddhā dhammadesanā hotī”ti?",
+      "fr": "Qu'en pensez-vous, [bhikkhu|mendiants], comment l'enseignement du [dhamma|Dhamma] d'un [bhikkhu|mendiant] est-il impur, et comment son enseignement du [dhamma|Dhamma] est-il pur?"
+    },
+    {
+      "pl": "“bhagavaṃmūlakā no, bhante dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. sādhu vata, [bhante|Bhanté] bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. bhagavato sutvā bhikkhū dhāressantī”ti.",
+      "fr": "— [bhante|Bhanté], le [dhamma|Dhamma] a le [bhagava|Fortuné] pour racine, il a le [bhagava|Fortuné] pour guide, il a le [bhagava|Fortuné] pour protecteur. Il serait excellent, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront."
+    },
+    {
+      "pl": "“tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha: bhāsissāmī”ti.",
+      "fr": "— Écoutez cela, [bhikkhu|mendiants], faites bien attention: je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Celui-ci dit:"
+    },
+    {
+      "pl": "“yo hi koci, bhikkhave, bhikkhu evaṃcitto paresaṃ dhammaṃ deseti: ‘aho vata me dhammaṃ suṇeyyuṃ, sutvā ca pana dhammaṃ pasīdeyyuṃ, pasannā ca me pasannākāraṃ kareyyun’ti; evarūpassa kho, bhikkhave, bhikkhuno aparisuddhā dhammadesanā hoti.",
+      "fr": "— Si un [bhikkhu|mendiant] enseigne le [dhamma|Dhamma] aux autres en ayant à l'[citta|esprit]: [i]“Oh, qu'ils entendent le [dhamma|Dhamma] venant de moi; l'ayant entendu, qu'ils gagnent de la dévotion envers le [dhamma|Dhamma]; une fois dévoués, qu'ils me montrent leur dévotion!”[/i], alors l'enseignement du [dhamma|Dhamma] d'un tel [bhikkhu|mendiant] est impur."
+    },
+    {
+      "pl": "“yo ca kho, bhikkhave, bhikkhu evaṃcitto paresaṃ dhammaṃ deseti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhīti. aho, vata me dhammaṃ suṇeyyuṃ, sutvā ca pana dhammaṃ ājāneyyuṃ; ājānitvā ca pana tathattāya paṭipajjeyyun’ti. iti dhammasudhammataṃ paṭicca paresaṃ dhammaṃ deseti, kāruññaṃ paṭicca anuddayaṃ paṭicca anukampaṃ upādāya paresaṃ dhammaṃ deseti. evarūpassa kho, bhikkhave, bhikkhuno parisuddhā dhammadesanā hoti.",
+      "fr": "Si un [bhikkhu|mendiant] enseigne le [dhamma|Dhamma] aux autres en ayant à l'[citta|esprit]: [i][@f_anussati#anussati-2|«Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.] Oh, qu'ils entendent le [dhamma|Dhamma] venant de moi; l'ayant entendu, qu'ils comprennent le [dhamma|Dhamma]; et l'ayant compris, qu'ils pratiquent en conséquence!”[/i], il enseigne ainsi le [dhamma|Dhamma] aux autres à cause des bonnes qualités intrinsèques au [dhamma|Dhamma], il enseigne le [dhamma|Dhamma] par compassion, par bonté, par sympathie, et alors l'enseignement du [dhamma|Dhamma] d'un tel [bhikkhu|mendiant] est pur."
+    },
+    {
+      "pl": "“kassapo, bhikkhave, evaṃcitto paresaṃ dhammaṃ deseti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhīti. aho, vata me dhammaṃ suṇeyyuṃ, sutvā ca pana dhammaṃ ājāneyyuṃ, ājānitvā ca pana tathattāya paṭipajjeyyun’ti. iti dhammasudhammataṃ paṭicca paresaṃ dhammaṃ deseti, kāruññaṃ paṭicca anuddayaṃ paṭicca anukampaṃ upādāya paresaṃ dhammaṃ deseti.",
+      "fr": "Mendiants, Kassapa enseigne le [dhamma|Dhamma] aux autres en ayant à l'[citta|esprit]: [i][@f_anussati#anussati-2|«Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.] Oh, qu'ils entendent le [dhamma|Dhamma] venant de moi; l'ayant entendu, qu'ils comprennent le [dhamma|Dhamma]; et l'ayant compris, qu'ils pratiquent en conséquence!”[/i], il enseigne ainsi le [dhamma|Dhamma] aux autres à cause des bonnes qualités intrinsèques au [dhamma|Dhamma], il enseigne le [dhamma|Dhamma] par compassion, par bonté, par sympathie."
+    },
+    {
+      "pl": "kassapena vā hi vo, bhikkhave, ovadissāmi yo vā panassa kassapasadiso. ovaditehi ca pana vo tathattāya paṭipajjitabban”ti.",
+      "fr": "Mendiants, je vous exhorte en prenant Kassapa pour exemple, ou quelqu'un qui lui est semblable. Ayant été exhortés, vous devriez pratiquer en conséquence."
+    }
+  ],
+  "translator": "Rémy"
+}

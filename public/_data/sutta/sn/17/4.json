@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 17.4",
+  "plTitle": "Dīghalomika Sutta",
+  "frTitle": "La chèvre aux longs poils",
+  "description": "Comment acquisitions, honneurs et renommée sont semblables à un maquis rempli d'épines.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, dīghalomikā eḷakā kaṇṭakagahanaṃ paviseyya. sā tatra tatra sajjeyya, tatra tatra gayheyya, tatra tatra bajjheyya, tatra tatra anayabyasanaṃ āpajjeyya.",
+      "fr": "Imaginez, [bhikkhu|mendiants], qu'une chèvre aux longs poils entre dans un maquis rempli d'épines. Elle s'attacherait ici et là, elle se prendrait ici et là, elle serait retenue ici et là, et elle rencontrerait ici et là son malheur & infortune."
+    },
+    {
+      "pl": "‘evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pariyādiṇṇacitto pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya gāmaṃ vā nigamaṃ vā piṇḍāya pavisati. so tatra tatra sajjati, tatra tatra gayhati, tatra tatra bajjhati, tatra tatra anayabyasanaṃ āpajjati. evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "De la même manière, [bhikkhu|mendiants], un certain bhikkhu dont l'esprit est dominé, sous l'emprise de [lss|les acquisitions, honneurs et renommée], s'étant habillé le matin et ayant pris ses robes et son bol, entre dans un village ou une ville pour ses aumônes de nourriture. Il s'attache ici et là, il se prend ici et là, il est retenu ici et là, et il rencontre ici et là son malheur & infortune. Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i]Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

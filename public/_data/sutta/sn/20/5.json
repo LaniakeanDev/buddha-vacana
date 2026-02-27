@@ -1,0 +1,28 @@
+﻿{
+  "identifier": "SN 20.5",
+  "plTitle": "Satti Sutta",
+  "frTitle": "La lance",
+  "description": "Une comparaison pour comprendre que développer la [metta|bienveillance] est la meilleure des protections contre les esprits.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“seyyathāpi, bhikkhave, satti tiṇhaphalā. atha puriso āgaccheyya: ‘ahaṃ imaṃ sattiṃ tiṇhaphalaṃ pāṇinā vā muṭṭhinā vā paṭileṇissāmi paṭikoṭṭissāmi paṭivaṭṭessāmī’ti. taṃ kiṃ maññatha, bhikkhave, bhabbo nu kho so puriso amuṃ sattiṃ tiṇhaphalaṃ pāṇinā vā muṭṭhinā vā paṭileṇetuṃ paṭikoṭṭetuṃ paṭivaṭṭetun”ti?",
+      "fr": "Imaginez, [bhikkhu|mendiants], la pointe tranchante d'une lance. Un homme viendrait [en pensant]: 'Je vais tordre la pointe tranchante de cette lance avec ma main ou mon poing, je vais la plier complètement, je vais la retourner. Qu'en pensez-vous, [bhikkhu|mendiants], serait-il possible à cet homme de tordre la pointe tranchante de cette lance avec sa main ou son poing, de la plier complètement, de la retourner?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
+    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“asu hi, bhante satti tiṇhaphalā na sukarā pāṇinā vā muṭṭhinā vā paṭileṇetuṃ paṭikoṭṭetuṃ paṭivaṭṭetuṃ. yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.",
+      "fr": "— Parce qu'il n'est pas facile, [bhante|Bhanté], de tordre la pointe tranchante de cette lance avec sa main ou son poing, de la plier complètement, de la retourner. Cet homme ne rencontrerait que fatigue et contrariété."
+    },
+    {
+      "pl": "“evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, tassa ce amanusso cittaṃ khipitabbaṃ maññeyya. atha kho sveva amanusso kilamathassa vighātassa bhāgī assa.",
+      "fr": "— De la même manière, [bhikkhu|mendiants], lorsqu'un mendiant a développé la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], qu'il l'a cultivée, qu'il en a fait son véhicule, son territoire, qu'il l'a établie, qu'il l'a accumulée, qu'il l'a pleinement entreprise, et qu'un être non-humain s'imagine pouvoir déstabiliser son esprit, cet être non-humain ne rencontre que fatigue et contrariété."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous développerons la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], nous la cultiverons, nous en ferons notre véhicule, nous en ferons notre terrain, nous l'établirons, nous l'accumulerons, nous la perfectionnerons.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

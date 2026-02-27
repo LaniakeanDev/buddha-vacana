@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 17.10",
+  "plTitle": "Sagāthaka Sutta",
+  "frTitle": "Avec des vers",
+  "description": "Le Bouddha voit que la fièvre des acquisitions, honneurs et renommée mène jusqu'en enfer.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ passāmi sakkārena abhibhūtaṃ pariyādiṇṇacittaṃ, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannaṃ. idha panāhaṃ, bhikkhave, ekaccaṃ puggalaṃ passāmi asakkārena abhibhūtaṃ pariyādiṇṇacittaṃ, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannaṃ. idha panāhaṃ, bhikkhave, ekaccaṃ puggalaṃ passāmi sakkārena ca asakkārena ca tadubhayena abhibhūtaṃ pariyādiṇṇacittaṃ, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannaṃ.",
+      "fr": "Mendiants, je vois un certain individu dont l'esprit est dominé, sous l'emprise des honneurs, lors de la dissolution du corps, après la mort, réapparaître dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]. Je vois aussi, [bhikkhu|mendiants],un certain individu dont l'esprit est dominé, sous l'emprise de l'absence d'honneurs, lors de la dissolution du corps, après la mort, réapparaître dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]. Je vois aussi, [bhikkhu|mendiants],un certain individu dont l'esprit est dominé, sous l'emprise à la fois des honneurs et de l'absence d'honneurs, lors de la dissolution du corps, après la mort, réapparaître dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "“yassa sakkariyamānassa,[@v]asakkārena cūbhayaṃ.[@v]samādhi na vikampati,[@v]appamāṇavihārino.",
+      "fr": " [i]Qu'il soit couvert d'honneurs,[@v]Que les honneurs soient absents, ou bien les deux,[@v]Sa concentration n'est pas ébranlée,[@v]Il séjourne dans le sans-limite."
+    }
+  ],
+  "translator": "Rémy"
+}

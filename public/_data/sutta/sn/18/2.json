@@ -1,0 +1,63 @@
+﻿{
+  "identifier": "SN 18.2",
+  "plTitle": "Rūpa Sutta",
+  "frTitle": "Les formes visibles",
+  "description": "Rahoula vient voir son père pour lui demander des instructions. Le Bouddha lui fait considérer les six objets des sens.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rāhulo bhagavantaṃ etadavoca —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [aysama|vénérable] Rahoula alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.",
+      "fr": "«Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'effort."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, rāhula, rūpā niccā vā aniccā vā”ti?",
+      "fr": "—Qu'en penses-tu, Rahoula: les formes visibles sont-elles permanentes ou [anicca|impermanentes]?"
+    },
+    { "pl": "“aniccā, bhante”.", "fr": "—Elles sont impermanentes, [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — ‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    { "pl": "“saddā niccā vā aniccā vā”ti?", "fr": "—Les sons sont-ils permanents ou [anicca|impermanents]?" },
+    { "pl": "“aniccā, bhante” … pe ….", "fr": "—Ils sont impermanents, [bhante|Bhanté] (…)" },
+    { "pl": "“gandhā niccā vā aniccā vā”ti?", "fr": "—Les odeurs sont-elles permanentes ou [anicca|impermanentes]?" },
+    { "pl": "“aniccā, bhante” … pe …", "fr": "—Elles sont impermanentes, [bhante|Bhanté] (…)" },
+    { "pl": "“rasā niccā vā aniccā vā”ti?", "fr": "—Les saveurs sont-elles permanentes ou [anicca|impermanentes]?" },
+    { "pl": "“aniccā, bhante” … pe …", "fr": "—Elle sont impermanentes, [bhante|Bhanté] (…)" },
+    {
+      "pl": "“phoṭṭhabbā niccā vā aniccā vā”ti?",
+      "fr": "—Les sensations corporelles sont-elles permanentes ou [anicca|impermanentes]?"
+    },
+    { "pl": "“aniccā, bhante” … pe …", "fr": "—Elles sont impermanentes, [bhante|Bhanté] (…)" },
+    {
+      "pl": "“dhammā niccā vā aniccā vā”ti?",
+      "fr": "—Les phénomènes mentaux sont-ils permanents ou [anicca|impermanents]?"
+    },
+    { "pl": "“aniccā, bhante”.", "fr": "—Ils sont impermanents, [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — ‘etaṃ mama, esohamasmi, eso me attā’”ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ passaṃ, rāhula, sutavā ariyasāvako rūpesupi nibbindati, saddesupi nibbindati, gandhesupi nibbindati, rasesupi nibbindati, phoṭṭhabbesupi nibbindati, dhammesupi nibbindati. nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+      "fr": "—En voyant ainsi, Rahoula, un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis des formes visibles, il est [nibbida|désenchanté] vis-à-vis des sons, vis-à-vis des odeurs, des saveurs, des sensations corporelles, et il est [nibbida|désenchanté] vis-à-vis des phénomènes mentaux. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]»"
+    }
+  ],
+  "translator": "Sekha."
+}
