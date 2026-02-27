@@ -1,0 +1,62 @@
+{
+  "identifier": "AN 10.86",
+  "plTitle": "Adhimāna Sutta",
+  "frTitle": "Surestimation de soi",
+  "description": "Mahakassapa explique dans cet extrait qu'il y a des moines qui surestiment leurs réalisations parce qu'ils connaissent bien l'enseignement. Il liste ensuite des points-clé qui permettent de conclure qu'une personne se surestime en déclarant faussement être devenu un arahant.",
+  "body": [
+    { "pl": "(…)", "fr": "(…)" },
+    {
+      "pl": "“tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca pajānāti — ‘bahussuto kho pana ayamāyasmā sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā. tasmā ayamāyasmā adhimāniko adhimānasacco, appatte pattasaññī, akate katasaññī, anadhigate adhigatasaññī. adhimānena aññaṃ byākaroti — khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyāti pajānāmī’ti.",
+      "fr": "Le [tathagata|Tathagata] ou l'un de ses [savaka|disciples], qui pratique les [jhana|jhanas], qui est habile pour les atteindre, qui est compétent au sujet de l'[citta|esprit] des autres, qui est compétent au sujet du fonctionnement de l'[citta|esprit] des autres, ayant englobé son [citta|esprit]avec le sien, discerne: [i]“Ce [ayasma|vénérable] est [@m_bahussuta|très instruit], il garde à l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bénéfiques] au début, [kalyana|bénéfiques] au milieu et [kalyana|bénéfiques] à la fin, avec la signification et le phrasé corrects, révélant la [brahmacariya|vie brahmique] qui est entièrement complète et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus à l'esprit, récités oralement, examinés mentalement et bien intégrés dans ses [ditthi|vues]. En conséquence, ce [ayasma|vénérable] se surestime et prend sa surestimation pour la vérité. Il croit qu'il a atteint ce qu'il n'a pas atteint, il croit qu'il a accompli ce qu'il n'a pas accompli, il croit qu'il a réalisé ce qu'il n'a pas réalisé. C'est par surestime de soi qu'il déclare aux autres qu'il comprend: [/i]‘C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.’”"
+    },
+    {
+      "pl": "“tamenaṃ tathāgato vā tathāgatasāvako vā jhāyī samāpattikusalo paracittakusalo paracittapariyāyakusalo evaṃ cetasā ceto paricca pajānāti —",
+      "fr": "Le [tathagata|Tathagata] ou l'un de ses [savaka|disciples], qui pratique les [jhana|jhanas], qui est habile pour les atteindre, qui est compétent au sujet de l'[citta|esprit] des autres, qui est compétent au sujet du fonctionnement de l'[citta|esprit] des autres, ayant englobé son [citta|esprit]avec le sien, discerne:"
+    },
+    {
+      "pl": "‘abhijjhālu kho pana ayamāyasmā; abhijjhāpariyuṭṭhitena cetasā bahulaṃ viharati. abhijjhāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] est [abhijjha|envieux], son [citta|esprit] est souvent sous l'emprise de la [abhijjha|convoitise]. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la [abhijjha|convoitise] est un [signe de] déclin."
+    },
+    {
+      "pl": "‘byāpanno kho pana ayamāyasmā; byāpādapariyuṭṭhitena cetasā bahulaṃ viharati. byāpādapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] est [byapada|malveillant], son [citta|esprit] est souvent sous l'emprise de la [byapada|malveillance]. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la [byapada|malveillance] est un [signe de] déclin."
+    },
+    {
+      "pl": "‘thinamiddho kho pana ayamāyasmā; thinamiddhapariyuṭṭhitena cetasā bahulaṃ viharati. thinamiddhapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] est [thinamiddha|léthargique & somnolent], son [citta|esprit] est souvent sous l'emprise de la [thinamiddha|torpeur & somnolence]. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la [thinamiddha|torpeur & somnolence] est un [signe de] déclin."
+    },
+    {
+      "pl": "‘uddhato kho pana ayamāyasmā; uddhaccapariyuṭṭhitena cetasā bahulaṃ viharati. uddhaccapariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] est [uddhacca|agité], son [citta|esprit] est souvent sous l'emprise de l'[uddhacca|agitation]. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de l'[uddhacca|agitation] est un [signe de] déclin."
+    },
+    {
+      "pl": "‘vicikiccho kho pana ayamāyasmā; vicikicchāpariyuṭṭhitena cetasā bahulaṃ viharati. vicikicchāpariyuṭṭhānaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] est dans le [vicikiccha|doute], son [citta|esprit] est souvent sous l'emprise du [vicikiccha|doute]. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise du [vicikiccha|doute] est un [signe de] déclin."
+    },
+    {
+      "pl": "‘kammārāmo kho pana ayamāyasmā kammarato kammārāmataṃ anuyutto. kammārāmatā kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] se complaît dans les activités, son [citta|esprit] est souvent sous l'emprise de la complaisance dans les activités. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la complaisance dans les activités est un [signe de] déclin."
+    },
+    {
+      "pl": "‘bhassārāmo kho pana ayamāyasmā bhassarato bhassārāmataṃ anuyutto. bhassārāmatā kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] se complaît dans les conversations, son [citta|esprit] est souvent sous l'emprise de la complaisance dans les conversations. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la complaisance dans les conversations est un [signe de] déclin."
+    },
+    {
+      "pl": "‘niddārāmo kho pana ayamāyasmā niddārato niddārāmataṃ anuyutto. niddārāmatā kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] se complaît dans le sommeil, son [citta|esprit] est souvent sous l'emprise de la complaisance dans le sommeil. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la complaisance dans le sommeil est un [signe de] déclin."
+    },
+    {
+      "pl": "‘saṅgaṇikārāmo kho pana ayamāyasmā saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto. saṅgaṇikārāmatā kho pana tathāgatappavedite dhammavinaye parihānametaṃ.",
+      "fr": "De plus, ce [ayasma|vénérable] se complaît dans la socialisation, son [citta|esprit] est souvent sous l'emprise de la complaisance dans la socialisation. Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], être sous l'emprise de la complaisance dans la socialisation est un [signe de] déclin."
+    },
+    {
+      "pl": "‘sati kho pana ayamāyasmā uttari karaṇīye oramattakena visesādhigamena antarā vosānaṃ āpanno. antarā vosānagamanaṃ kho pana tathāgatappavedite dhammavinaye parihānametaṃ’.",
+      "fr": "De plus, ce [ayasma|vénérable] a encore des choses à faire, il s'est arrêté à mi-chemin après avoir atteint une distinction ou un accomplissement de nature inférieure.Et dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], s'arrêter à mi-chemin est un [signe de] déclin."
+    },
+    {
+      "pl": "“so vatāvuso, bhikkhu ‘ime dasa dhamme appahāya imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatī’ti netaṃ ṭhānaṃ vijjati. so vatāvuso, bhikkhu ‘ime dasa dhamme pahāya imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjissatī’ti ṭhānametaṃ vijjatī”ti.",
+      "fr": "Car, mes amis, il est impossible qu'un [bhikkhu|mendiant] trouve croissance, développement et abondance dans cet [dhamma|Enseignement] & [vinaya|Discipline] sans avoir abandonné ces dix [dhamma|choses]. Mais il est possible qu'un [bhikkhu|mendiant] trouve croissance, développement et abondance dans cet [dhamma|Enseignement] & [vinaya|Discipline] en ayant abandonné ces dix [dhamma|choses]."
+    }
+  ],
+  "translator": "Sekha"
+}

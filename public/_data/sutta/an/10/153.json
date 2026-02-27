@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 10.153",
+  "plTitle": "Anussaritabba Sutta",
+  "frTitle": "Qu'il faudrait se remémorer",
+  "description": "Voici des choses qu'il ne faut pas se remémorer, et d'autres qu'il faut au contraire se remémorer.",
+  "body": [
+    {
+      "pl": "“anussaritabbañca vo, bhikkhave, dhammaṃ desessāmi na anussaritabbañca. taṃ suṇātha, sādhukaṃ manasi karotha. bhāsissāmī”ti.",
+      "fr": "Je vais vous enseigner, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il faudrait se remémorer et le [dhamma|Dhamma] qu'il ne faudrait pas se remémorer. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "evaṃ, bhante ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "– Oui, [bhadante|Bhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "katamo ca, bhikkhave, na anussaritabbo dhammo? micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti. ayaṃ vuccati, bhikkhave, na anussaritabbo dhammo.",
+      "fr": "– Et quel est, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il ne faudrait pas se remémorer? La [ditthi|vue] erronée, l'[sankappa|intention] erronée, la [vaca|parole] erronée, l'action erronée, les [ajiva|moyens de subsistance] erronés, l'[vayama|effort] erroné, la [sati|présence d'esprit] erronée, la [samadhi|concentration] erronée, la [nana|connaissance] erronée et la [vimutti|libération] erronée. Voici, [bhikkhu|mendiants], ce qu'on appellele [dhamma|Dhamma] qu'il ne faudrait pas se remémorer."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, anussaritabbo dhammo? sammādiṭṭhi, sammāsaṅkappo, sammāvācā sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti. ayaṃ vuccati, bhikkhave, anussaritabbo dhammo”ti.",
+      "fr": "Et quel est, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il faudrait se remémorer? La [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte], et la [sammasamadhi|concentration correcte], la [nana|connaissance] correcte et la [vimutti|libération] correcte. Voici, [bhikkhu|mendiants], ce qu'on appellele [dhamma|Dhamma] qu'il faudrait se remémorer."
+    }
+  ],
+  "translator": "Rémy"
+}

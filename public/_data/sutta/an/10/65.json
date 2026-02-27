@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 10.65",
+  "plTitle": "Sukha Sutta",
+  "frTitle": "Agréable",
+  "description": "Le vénérable Saripoutta explique ce qui est agréable et désagréable dans l'enseignement du Bouddha.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ āyasmā sāriputto magadhesu viharati nālakagāmake. Atha kho sāmaṇḍakāni paribbājako yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho sāmaṇḍakāni paribbājako āyasmantaṃ sāriputtaṃ etadavoca:",
+      "fr": "Un jour, le [ayasma|vénérable] Saripoutta séjournait dans le Magadha, près du village de Nalaka. Ce jour-là, le [paribbajaka|vagabond spirituel] Samandakani vint voir le [ayasma|vénérable] Saripoutta et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [paribbajaka|vagabond spirituel] Samandakani dit au [ayasma|vénérable] Saripoutta:"
+    },
+    {
+      "pl": "Kiṃ nu kho, āvuso sāriputta, imasmiṃ dhammavinaye sukhaṃ, kiṃ dukkhanti?",
+      "fr": "— [avuso|Ami] Saripoutta, qu'est-ce donc qui, dans cet [dhamma|Enseignement] & [vinaya|Discipline], est [sukha|agréable], qu'est-ce qui est [dukkha|désagréable]?"
+    },
+    {
+      "pl": "Abhinibbatti kho, āvuso, dukkhā, anabhinibbatti sukhā. Abhinibbattiyā, āvuso, sati idaṃ dukkhaṃ pāṭikaṅkhaṃ: sītaṃ uṇhaṃ jighacchā pipāsā uccāro passāvo aggisamphasso daṇḍasamphasso satthasamphasso ñātīpi mittāpi saṅgamma samāgamma rosenti. Abhinibbattiyā, āvuso, sati idaṃ dukkhaṃ pāṭikaṅkhaṃ.",
+      "fr": "— [avuso|Ami], c'est la renaissance qui est [dukkha|désagréable], et l'absence de renaissance qui est [sukha|agréable]. [avuso|Ami], lorsqu'il y a renaissance, ces [dukkha|désagréments] sont à attendre: le froid, la chaleur, la faim, la soif, la défécation, l'urination, le contact avec le feu, le contact avec les bâtons, le contact avec les armes, ou bien les proches et les amis se réunissent et nous contrarient. Ami, lorsqu'il y a renaissance, ces [dukkha|désagréments] sont à attendre."
+    },
+    {
+      "pl": "Anabhinibbattiyā, āvuso, sati idaṃ sukhaṃ pāṭikaṅkhaṃ: na sītaṃ na uṇhaṃ na jighacchā na pipāsā na uccāro na passāvo na aggisamphasso na daṇḍasamphasso na satthasamphasso ñātīpi mittāpi saṅgamma samāgamma na rosenti. Anabhinibbattiyā, āvuso, sati idaṃ sukhaṃ pāṭikaṅkhanti.",
+      "fr": "[avuso|Ami], lorsqu'il y a absence de renaissance, ces [sukha|agréments] sont à attendre: pas de froid, pas de chaleur, pas de faim, pas de soif, pas de défécation, pas d'urination, pas de contact avec le feu, pas de contact avec les bâtons, pas de contact avec les armes, et les proches et les amis ne se réunissent pas pour nous contrarier. [avuso|Ami], lorsqu'il y a absence de renaissance, ces [sukha|agréments] sont à attendre."
+    }
+  ],
+  "translator": "Rémy"
+}

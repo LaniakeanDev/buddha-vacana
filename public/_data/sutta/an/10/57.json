@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 10.57",
+  "plTitle": "Saññā Sutta",
+  "frTitle": "Les perceptions utiles",
+  "description": "Deux souttas dans lesquels le Bouddha recommande la pratique de dix perceptions.",
+  "body": [
+    {
+      "pl": "“dasayimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā. katamā dasa?",
+      "fr": "[bhikkhu|Mendiants], ces dix [sanna|perceptions], lorsqu'elles sont développées et cultivées abondamment, portent d'excellents fruits, elles apportent de grands [anisamsa|bienfaits], elles mènent au [amata|sans-mort], et elles atteignent leur perfection dans le [amata|sans-mort]. Quelles sont ces dix [sanna|perceptions]?"
+    },
+    {
+      "pl": "aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aṭṭhikasaññā, puḷavakasaññā, vinīlakasaññā, vicchiddakasaññā, uddhumātakasaññā",
+      "fr": "La [aniccasanna|perception de l'impermanence], la [anattasanna|perception du non-Soi], la [maranasanna|perception de la mort], la [ahareps|perception du dégoûtant dans la nourriture], la [slas|perception de non-complaisance envers le monde entier], la [sanna|perception] d'un squelette, la [sanna|perception] d'un corps infesté de vers, la [sanna|perception] d'un cadavre bleui, la [sanna|perception] d'un cadavre ouvert, et la [sanna|perception] d'un cadavre gonflé."
+    },
+    {
+      "pl": "imā kho, bhikkhave, dasa saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā”ti.",
+      "fr": "[bhikkhu|Mendiants], ces dix [sanna|perceptions], lorsqu'elles sont développées et cultivées abondamment, portent d'excellents fruits, elles apportent de grands [anisamsa|bienfaits], elles mènent au [amata|sans-mort], et elles atteignent leur perfection dans le [amata|sans-mort]."
+    }
+  ],
+  "translator": "Sekha"
+}

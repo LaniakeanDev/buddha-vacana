@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 10.56",
+  "plTitle": "Saññā Sutta",
+  "frTitle": "Les perceptions utiles",
+  "description": "Deux souttas dans lesquels le Bouddha recommande la pratique de dix perceptions.",
+  "body": [
+    {
+      "pl": "“dasayimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā. katamā dasa?",
+      "fr": "[bhikkhu|Mendiants], ces dix [sanna|perceptions], lorsqu'elles sont développées et cultivées abondamment, portent d'excellents fruits, elles apportent de grands [anisamsa|bienfaits], elles mènent au [amata|sans-mort], et elles atteignent leur perfection dans le [amata|sans-mort]. Quelles sont ces dix [sanna|perceptions]?"
+    },
+    {
+      "pl": "asubhasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā, aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā",
+      "fr": "La [asubhasanna|perception du répugnant], la [maranasanna|perception de la mort], la [ahareps|perception du dégoûtant dans la nourriture], la [slas|perception de non-complaisance envers le monde entier], la [aniccasanna|perception de l'impermanence], la [adsanna|perception de l'insatisfaction dans ce qui est impermanent], la [anattasanna|perception du sans-égoïté] dans ce qui est [dukkha|insatisfaisant], la [sanna|perception] de l'abandon, la [viragasanna|perception du désintéressement], et la [sanna|perception] de la [nirodha|cessation]."
+    },
+    {
+      "pl": "imā kho, bhikkhave, dasa saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā”ti.",
+      "fr": "[bhikkhu|Mendiants], ces dix [sanna|perceptions], lorsqu'elles sont développées et cultivées abondamment, portent d'excellents fruits, elles apportent de grands [anisamsa|bienfaits], elles mènent au [amata|sans-mort], et elles atteignent leur perfection dans le [amata|sans-mort]."
+    }
+  ],
+  "translator": "Sekha"
+}

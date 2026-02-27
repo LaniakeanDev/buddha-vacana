@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 10.13",
+  "plTitle": "Saṃyojana Sutta",
+  "frTitle": "Les entraves spirituelles",
+  "description": "Voici quelles sont les dix entraves spirituelles (saṃyojana). Seul un arahant a abandonné la seconde moitié d'entre elles.",
+  "body": [
+    {
+      "pl": "“dasayimāni, bhikkhave, saṃyojanāni. katamāni dasa? pañcorambhāgiyāni saṃyojanāni, pañcuddhambhāgiyāni saṃyojanāni. ",
+      "fr": "[bhikkhu|Mendiants], il y a ces dix [samyojana|entraves spirituelles]. Quelles sont ces dix? Les cinq [samyojana|entraves spirituelles] inférieures et les cinq [samyojana|entraves spirituelles] supérieures."
+    },
+    {
+      "pl": "katamāni pañcorambhāgiyāni saṃyojanāni? sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo. imāni pañcorambhāgiyāni saṃyojanāni.",
+      "fr": "Et quelles sont les cinq [samyojana|entraves spirituelles] inférieures? La [sakkayaditthi|croyance en l'existence du soi], le [vicikiccha|doute], la [silabbataparamasa|croyance en la suprématie des rites et préceptes], le [kamacchanda|désir sensuel], et la [byapada|malveillance]. Voici quelles sont ces cinq [samyojana|entraves spirituelles] inférieures."
+    },
+    {
+      "pl": "“katamāni pañcuddhambhāgiyāni saṃyojanāni? rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā. imāni pañcuddhambhāgiyāni saṃyojanāni.",
+      "fr": "Et quelles sont les cinq [samyojana|entraves spirituelles] supérieures? L'[raga|avidité] envers la [rupa|Forme], l'[raga|avidité] envers le [arupa|sans-Forme], l'[maana|identification au soi], l'[uddhacca|agitation mentale] et l'[avijja|ignorance]. Voici quelles sont ces cinq [samyojana|entraves spirituelles] supérieures."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, dasa saṃyojanānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq [samyojana|entraves spirituelles]."
+    }
+  ],
+  "translator": "Rémy"
+}

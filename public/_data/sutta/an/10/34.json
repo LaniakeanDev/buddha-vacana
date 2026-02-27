@@ -1,0 +1,61 @@
+﻿{
+  "identifier": "AN 10.34",
+  "plTitle": "Upasampāda Sutta",
+  "frTitle": "L'ordination complète",
+  "description": "Le Bouddha explique à Oupali quelles sont les dix qualités (à défaut des cinq mentionnées à AN 5.251) qu'un mendiant doit réunir afin d'être jugé apte à donner l'ordination monastique, à donner la dépendance aux mendiants ordonnés depuis moins de cinq ans, ou à être assisté par un samanéra.",
+  "body": [
+    {
+      "pl": "“katihi nu kho, bhante, dhammehi samannāgatena bhikkhunā upasampādetabban”ti?",
+      "fr": "«[bhante|Bhanté], de combien de [dhamma|qualités]un [bhikkhu|mendiant] devrait-il être pourvu pour conférer l'[upasampada|ordination complète]?"
+    },
+    {
+      "pl": "“dasahi kho, upāli, dhammehi samannāgatena bhikkhunā upasampādetabbaṃ. katamehi dasahi?",
+      "fr": "—Oupali, un [bhikkhu|mendiant] devrait être pourvu de dix [dhamma|qualités] pour conférer l'[upasampada|ordination complète]. Quelles sont ces dix?"
+    },
+    {
+      "pl": "idhupāli, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu;",
+      "fr": "À cet égard, Oupali, [@f_sila|un mendiant est vertueux, il demeure restreint par la restreinte du [patimokkha|Patimokkha], accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les règles de l'entraînement et s'y entraîne.]"
+    },
+    {
+      "pl": "bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā;",
+      "fr": "Il est [@m_bahussuta|très instruit], il garde à l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bénéfiques] au début, [kalyana|bénéfiques] au milieu et [kalyana|bénéfiques] à la fin, avec la signification et le phrasé corrects, révélant la [brahmacariya|vie brahmique] qui est entièrement complète et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus à l'esprit, récités oralement, examinés mentalement et bien intégrés dans ses [ditthi|vues]."
+    },
+    {
+      "pl": "pātimokkhaṃ kho panassa vitthārena svāgataṃ hoti suvibhattaṃ suppavattaṃ suvinicchitaṃ suttaso anubyañjanaso;",
+      "fr": "Il connaît le [patimokkha|Patimokkha] en détail, il l'a bien analysé, bien maîtrisé, bien déterminé en ce qui concerne les règles et leur explication."
+    },
+    {
+      "pl": "paṭibalo hoti gilānaṃ upaṭṭhātuṃ vā upaṭṭhāpetuṃ vā;",
+      "fr": "Il est capable de s'occuper d'un malade ou de trouver quelqu'un pour le faire."
+    },
+    {
+      "pl": "paṭibalo hoti anabhiratiṃ vūpakāsetuṃ vā vūpakāsāpetuṃ vā;",
+      "fr": "Il est capable de distraire de l'insatisfaction [avec la [brahmacariya|vie brahmique]] ou de trouver quelqu'un pour le faire."
+    },
+    {
+      "pl": "paṭibalo hoti uppannaṃ kukkuccaṃ dhammato vinodetuṃ;",
+      "fr": "Il est capable d'éliminer conformément au [dhamma|Dhamma] une préoccupation apparue [chez un apprenant]."
+    },
+    {
+      "pl": "paṭibalo hoti uppannaṃ diṭṭhigataṃ dhammato vivecetuṃ;",
+      "fr": "Il est capable d'extraire conformément au [dhamma|Dhamma] une [ditthi|spéculation] inutile et infondée apparue [chez un apprenant]."
+    },
+    {
+      "pl": "paṭibalo hoti adhisīle samādapetuṃ;",
+      "fr": "Il est capable d'exhorter [les apprenants] à la [adhisila|vertu supérieure]."
+    },
+    {
+      "pl": "paṭibalo hoti adhicitte samādapetuṃ;",
+      "fr": "Il est capable d'exhorter [les apprenants] à l'[adhicitta|esprit supérieur]."
+    },
+    {
+      "pl": "paṭibalo hoti adhipaññāya samādapetuṃ.",
+      "fr": "Il est capable d'exhorter [les apprenants] au [adhipanna|discernement supérieur]."
+    },
+    {
+      "pl": "imehi kho, upāli, dasahi dhammehi samannāgatena bhikkhunā upasampādetabban”ti.",
+      "fr": "Voici, Oupali, quelles sont ces dix [dhamma|qualités] dont un [bhikkhu|mendiant] devrait être pourvu pour conférer l'[upasampada|ordination complète].»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}
