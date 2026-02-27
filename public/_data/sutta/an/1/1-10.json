@@ -1,26 +1,18 @@
-{
-  "identifier": "AN 1.1-10",
+﻿{
+  "identifier": "AN 1.1 à 1.10",
   "plTitle": "Rūpādi Vagga",
   "frTitle": "Série commençant par la forme visible",
   "description": "Rien ne s'empare de plus l'esprit d'un homme ou d'une femme que ces cinq choses.",
-  "translator": "Bhikkhu Sekha",
-  "keywords": ["bhagava", "bhikkhu", "bhadante", "citta"],
   "body": [
-    {
-      "pl": "1. evaṃ me sutaṃ",
-      "fr": "1. Ainsi ai-je entendu:"
-    },
+    { "pl": "1. evaṃ me sutaṃ:", "fr": "1. Ainsi ai-je entendu:" },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    {
-      "pl": "“bhikkhavo”ti.",
-      "fr": "«[bhikkhu|Mendiants]!»"
-    },
+    { "pl": "“bhikkhavo”ti.", "fr": "— «[bhikkhu|Mendiants]!»" },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
-      "fr": "«[bhadante|Bhadanté]», lui répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] leur dit alors:"
+      "fr": "— «[bhadante|Bhadanté]», lui répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] leur dit alors:"
     },
     {
       "pl": "“nāhaṃ, bhikkhave, aññaṃ ekarūpampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthirūpaṃ. itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī”ti.",
@@ -62,5 +54,6 @@
       "pl": "10. “nāhaṃ, bhikkhave, aññaṃ ekaphoṭṭhabbampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisaphoṭṭhabbo. purisaphoṭṭhabbo, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī”ti.",
       "fr": "10. [bhikkhu|Mendiants], je ne vois aucun autre toucher qui s'empare de l'[citta|esprit] d'une femme autant que le toucher d'un homme. Le toucher d'un homme, [bhikkhu|mendiants], s'empare de l'[citta|esprit] d'une femme.»"
     }
-  ]
+  ],
+  "translator": "Bhikkhu Sekha"
 }
