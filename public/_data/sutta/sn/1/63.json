@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "SN 1.63",
+  "plTitle": "Taṇhā Sutta",
+  "frTitle": "La Soif",
+  "description": "Qu'est-ce qui mène le monde? Quelle est cette chose qui a tout sous son contrôle?",
+  "body": [
+    {
+      "pl": "[Devatā:][@v][i]“kenassu nīyati loko,[@v]kenassu parikassati,[@v]kissassu ekadhammassa,[@v]sabbeva vasamanvagū”ti.",
+      "fr": "[Déva:][@v][i]Par quoi le [loka|monde] est-il mené?[@v]Qu'est-ce qui le tire de ci, de là?[@v]Quelle est cette [dhamma|chose][@v]Qui a tout sous son contrôle?"
+    },
+    {
+      "pl": "[Bhagavā:][@v][i]“taṇhāya nīyati loko,[@v]taṇhāya parikassati.[@v]taṇhāya ekadhammassa,[@v]sabbeva vasamanvagū”ti.",
+      "fr": "[Le [bhagava|Fortuné]:][@v][i] C'est la [tanha|Soif] qui mène le [loka|monde],[@v]C'est la [tanha|Soif] qui le tire de ci, de là,[@v]La [tanha|Soif] est cette [dhamma|chose][@v]Qui a tout sous son contrôle.[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

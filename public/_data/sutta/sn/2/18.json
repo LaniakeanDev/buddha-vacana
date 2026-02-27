@@ -1,0 +1,43 @@
+﻿{
+  "identifier": "SN 2.18",
+  "plTitle": "Kakudha Sutta",
+  "frTitle": "La visite de Kakoudha",
+  "description": "Un déva vient s'enquérir de l'état d'esprit du Bouddha.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye. atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ añjanavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho kakudho devaputto bhagavantaṃ etadavoca —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Sakéta, au bois d'Añjana, dans le parc aux daims. Cette nuit-là, alors qu'elle était bien avancée, Kakoudha l'enfant des [deva|dévas] illumina presque tout le bois d'Añjana de son éclat superbe, vint voir le [bhagava|Fortuné], lui rendit hommage, puis se tint debout d'un côté et s'adressa à lui:"
+    },
+    { "pl": "“nandasi, samaṇā””ti?", "fr": "«Es-tu allègre, [samana|renonçant] ?" },
+    { "pl": "“kiṃ laddhā, āvuso””ti?", "fr": "—Après avoir gagné quoi, mon ami?" },
+    { "pl": "“tena hi, samaṇa, socasī””ti?", "fr": "— Dans ce cas, [samana|renonçant], es-tu triste?" },
+    { "pl": "“kiṃ jīyittha, āvuso””ti?", "fr": "—Après avoir perdu quoi, mon ami?" },
+    {
+      "pl": "“tena hi, samaṇa, neva nandasi na ca socasī””ti?",
+      "fr": "—Dans ce cas, [samana|renonçant], es-tu ni allègre ni triste?"
+    },
+    { "pl": "“evamāvuso””ti.", "fr": "—C'est cela, mon ami.»" },
+    {
+      "pl": "“kacci tvaṃ anagho bhikkhu, [@v]kacci nandī na vijjati. [@v]kacci taṃ ekamāsīnaṃ, [@v]aratī nābhikīratī””ti.",
+      "fr": "[bhikkhu|Mendiant], j'espère que tu n'es pas perturbé,[@v]J'espère qu'il n'y a pas de complaisance [en toi],[@v]J'espère que lorsque tu es assis en solitude,[@v]Le mécontentement ne t'envahit pas."
+    },
+    {
+      "pl": "“anagho ve ahaṃ yakkha, [@v]atho nandī na vijjati. [@v]atho maṃ ekamāsīnaṃ, [@v]aratī nābhikīratī””ti.",
+      "fr": "Esprit, je ne suis pas perturbé,[@v]Et il n'y a pas de complaisance [en moi].[@v]Lorsque je suis assis en solitude,[@v]Le mécontentement ne m'envahit pas."
+    },
+    {
+      "pl": "“kathaṃ tvaṃ anagho bhikkhu, [@v]kathaṃ nandī na vijjati. [@v]kathaṃ taṃ ekamāsīnaṃ, [@v]aratī nābhikīratī””ti.",
+      "fr": "[bhikkhu|Mendiant], comment n'es-tu pas perturbé,[@v]Comment n'y a-t-il pas de complaisance [en toi],[@v]Comment, lorsque tu es assis en solitude,[@v]Le mécontentement ne t'envahit-il pas?"
+    },
+    {
+      "pl": "“aghajātassa ve nandī, [@v]nandījātassa ve aghaṃ. [@v]anandī anagho bhikkhu, [@v]evaṃ jānāhi āvuso””ti.",
+      "fr": "La complaisance est l'apanage de celui qui est perturbé,[@v]Et la perturbation est l'apanage de celui qui se complaît.[@v]Un [bhikkhu|mendiant] qui ne se complaît pas et n'est pas perturbé:[@v]Voici comment tu devrais me connaître, l'ami."
+    },
+    {
+      "pl": "“cirassaṃ vata passāmi, [@v]brāhmaṇaṃ parinibbutaṃ. [@v]anandiṃ anaghaṃ bhikkhuṃ, [@v]tiṇṇaṃ loke visattikan””ti.",
+      "fr": "Enfin, après très longtemps, je vois[@v]Un [arahant|Méritant] ayant atteint l'[parinibbana|Extinction complète],[@v]Un [bhikkhu|mendiant] qui ne se complaît pas et n'est pas perturbé,[@v]Qui a traversé l'attachement au monde. "
+    }
+  ],
+  "translator": "Sekha."
+}

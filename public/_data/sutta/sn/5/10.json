@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 5.10",
+  "plTitle": "Vajirā Sutta",
+  "frTitle": "La mendiante Vajira",
+  "description": "Mara tente de désarçonner la mendiante Vajira avec des questions métaphysiques.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "atha kho vajirā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā vajirāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena vajirā bhikkhunī tenupasaṅkami; upasaṅkamitvā vajiraṃ bhikkhuniṃ gāthāya ajjhabhāsi",
+      "fr": "Ce matin-là, la [bhikkhuni|mendiante] Vajira s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Vajira, souhaitant la faire tomber de son [viveka|isolement], s'approcha d'elle et s'adressa à elle en vers:"
+    },
+    {
+      "pl": "“kenāyaṃ pakato satto, kuvaṃ sattassa kārako. kuvaṃ satto samuppanno, kuvaṃ satto nirujjhatī””ti. ",
+      "fr": "Qui a créé cet être?Où se trouve le créateur de l'être?Où l'être est-il apparu?Où l'être cesse-t-il?"
+    },
+    {
+      "pl": "atha kho vajirāya bhikkhuniyā etadahosi — “ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī””ti? atha kho vajirāya bhikkhuniyā etadahosi — “māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī””ti. atha kho vajirā bhikkhunī “māro ayaṃ pāpimā” iti viditvā, māraṃ pāpimantaṃ gāthāhi paccabhāsi",
+      "fr": "Alors la [bhikkhuni|mendiante] Vajira se dit: [i]“Qui est-ce donc qui a prononcé ces vers, un être humain ou un être non-humain?”[/i] Puis elle se dit: [i]“C'est [mara|Mara] le Malin qui a prononcé ces vers, souhaitant susciter en moi peur, panique et chair de poule, souhaitant me faire tomber de mon [viveka|isolement].”[/i] Alors la [bhikkhuni|mendiante] Vajira, ayant compris qu'il s'agissait de [mara|Mara] le Malin, lui répondit en vers:"
+    },
+    {
+      "pl": "“kiṃ nu sattoti paccesi, māra diṭṭhigataṃ nu te. suddhasaṅkhārapuñjoyaṃ, nayidha sattupalabbhati. ",
+      "fr": "Pourquoi présumes-tu [i]“un être”[/i]?Mara, as-tu recours aux [ditthi|spéculations]?Ceci n'est qu'un tas de [sankhara|constructions],Aucun être ne se trouve ici."
+    },
+    {
+      "pl": "“yathā hi aṅgasambhārā, hoti saddo ratho iti. evaṃ khandhesu santesu, hoti sattoti sammuti. ",
+      "fr": "Comme un assemblage de constituantsEst appelé un char,De même là où il y a des [khandha|accumulations],Il y a la convention [i]“un être”[/i]."
+    },
+    {
+      "pl": "“dukkhameva hi sambhoti, dukkhaṃ tiṭṭhati veti ca. nāññatra dukkhā sambhoti, nāññaṃ dukkhā nirujjhatī””ti. ",
+      "fr": "Il n'y a que le [dukkha|mal-être] qui apparaisse,Le [dukkha|mal-être] qui se maintienne et qui disparaisse.Rien d'autre que le [dukkha|mal-être] n'apparaît,Rien d'autre que le [dukkha|mal-être] ne cesse."
+    },
+    {
+      "pl": "atha kho māro pāpimā “jānāti maṃ vajirā bhikkhunī””ti dukkhī dummano tatthevantaradhāyīti.",
+      "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Vajira me connaît,”[/i] disparut sur-le-champ."
+    }
+  ],
+  "translator": "Sekha"
+}

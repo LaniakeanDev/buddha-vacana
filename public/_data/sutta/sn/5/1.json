@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 5.1",
+  "plTitle": "Āḷavikā Sutta",
+  "frTitle": "La mendiante Alavika",
+  "description": "Mara suggère à la mendiante Alavika que l'isolement et la méditation sont inutiles et qu'il vaut mieux jouir des plaisirs sensuels pour ne pas gaspiller son temps.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika."
+    },
+    {
+      "pl": "atha kho āḷavikā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami vivekatthinī. atha kho māro pāpimā āḷavikāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo yena āḷavikā bhikkhunī tenupasaṅkami; upasaṅkamitvā āḷavikaṃ bhikkhuniṃ gāthāya ajjhabhāsi",
+      "fr": "Ce matin-là, la [bhikkhuni|mendiante] Alavika s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles dans le but de s'isoler. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Alavika, souhaitant la faire tomber de son [viveka|isolement], s'approcha d'elle et s'adressa à elle en vers:"
+    },
+    {
+      "pl": "“natthi nissaraṇaṃ loke, kiṃ vivekena kāhasi. bhuñjassu kāmaratiyo, māhu pacchānutāpinī””ti. ",
+      "fr": "Il n'y a pas d'[nissarana|émancipation] vis-à-vis du monde.Que fais-tu avec ton [viveka|isolement]?Jouis des [kama|plaisirs sensuels],Ne regrette pas plus tard [d'avoir perdu ton temps]."
+    },
+    {
+      "pl": "atha kho āḷavikāya bhikkhuniyā etadahosi — “ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī””ti? atha kho āḷavikāya bhikkhuniyā etadahosi — “māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo vivekamhā cāvetukāmo gāthaṃ bhāsatī””ti. atha kho āḷavikā bhikkhunī “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi",
+      "fr": "Alors la [bhikkhuni|mendiante] Alavika se dit: [i]“Qui est-ce donc qui a prononcé ces vers, un être humain ou un être non-humain?”[/i] Puis elle se dit: [i]“C'est [mara|Mara] le Malin qui a prononcé ces vers, souhaitant susciter en moi peur, panique et chair de poule, souhaitant me faire tomber de mon [viveka|isolement].”[/i] Alors la [bhikkhuni|mendiante] Alavika, ayant compris qu'il s'agissait de [mara|Mara] le Malin, lui répondit en vers:"
+    },
+    {
+      "pl": "“atthi nissaraṇaṃ loke, paññāya me suphussitaṃ. pamattabandhu pāpima, na tvaṃ jānāsi taṃ padaṃ. ",
+      "fr": "Il y a une [nissarana|émancipation] vis-à-vis du monde,Que j'ai bien touchée avec [panna|discernement].Toi qui restes lié à la [pamada|négligence], Malin,Tu ne discernes pas cet état."
+    },
+    {
+      "pl": "“sattisūlūpamā kāmā, khandhāsaṃ adhikuṭṭanā. yaṃ tvaṃ kāmaratiṃ brūsi, arati mayha sā ahū””ti.",
+      "fr": "Les [kama|plaisirs sensuels] sont comparables à la pointe d'une lance,Les [khandha|accumulations][d'attachement] à des tables de bourreau.Ce que tu appelles jouissance des [kama|plaisirs sensuels]Est pour moi repoussant."
+    },
+    {
+      "pl": "atha kho māro pāpimā “jānāti maṃ āḷavikā bhikkhunī””ti dukkhī dummano tatthevantaradhāyīti.",
+      "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Alavika me connaît,”[/i] disparut sur-le-champ."
+    }
+  ],
+  "translator": "Sekha"
+}

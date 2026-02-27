@@ -1,0 +1,54 @@
+﻿{
+  "identifier": "SN 6.2",
+  "plTitle": "Gārava Sutta ",
+  "frTitle": "Le respect",
+  "description": "Juste après son éveil, le Bouddha passe le monde en revue, à la recherche d'un être qui pourrait être son instructeur.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “dukkhaṃ kho agāravo viharati appatisso. kaṃ nu khvāhaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyan”ti?",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. Ce jour-là, tandis qu'il était en [patisallana|isolement] dans un endroit retiré, la réflexion suivante apparut dans son [citta|esprit]: [i]“Celui qui est sans respect, sans déférence, vit dans le [dukkha|mal-être]. En dépendance vis-à-vis de quel [samana|renonçant] ou [brahmana|brahmane] devrais-je vivre en l'honorant et le révérant?”[/i]"
+    },
+    {
+      "pl": "atha kho bhagavato etadahosi: “aparipuṇṇassa kho sīlakkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā sīlasampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "Alors le [bhagava|Fortuné] se dit: [i]“Ce serait pour parfaire une [khandha|accumulation] de [sila|vertu] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [sila|vertu], et En dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa kho samādhikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā samādhisampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [samadhi|concentration] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [samadhi|concentration], et En dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa paññākkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā paññāsampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [panna|discernement] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [panna|discernement], et En dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa kho vimuttikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā vimuttisampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [vimutti|libération] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [vimutti|libération], et En dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa kho vimuttiñāṇadassanakkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā vimuttiñāṇadassanasampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [nanadassana|connaissance & vision] de la [vimutti|libération] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [nanadassana|connaissance & vision] de la [vimutti|libération], et En dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "yaṃnūnāhaṃ yvāyaṃ dhammo mayā abhisambuddho tameva dhammaṃ sakkatvā garuṃ katvā upanissāya vihareyyan”ti.",
+      "fr": "[i]“Je n'ai qu'à vivre En dépendance vis-à-vis de ce [dhamma|Dhamma] auquel je me suis éveillé, en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "atha kho brahmā sahampati bhagavato cetasā cetoparivitakkamaññāya, seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya evameva brahmaloke antarahito bhagavato purato pāturahosi. atha kho brahmā sahampati ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca:",
+      "fr": "Alors [brahma|Brahma] Sahampati, ayant appréhendé avec son [citta|esprit] les réflexions [qui se faisaient] dans l'[citta|esprit] du [bhagava|Fortuné], tout comme un homme en bonne santé pourrait étendre son bras replié ou replier son bras étendu, disparut du [loka|monde] [brahma|brahmique] et apparut devant le [bhagava|Fortuné]. Il ajusta son vêtement du haut sur une épaule, leva les mains en une salutation respectueuse en direction du [bhagava|Fortuné] et lui dit:"
+    },
+    {
+      "pl": "“evametaṃ, bhagavā, evametaṃ, sugata! yepi te, bhante, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, tepi bhagavanto dhammaññeva sakkatvā garuṃ katvā upanissāya vihariṃsu; yepi te, bhante, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā tepi bhagavanto dhammaññeva sakkatvā garuṃ katvā upanissāya viharissanti. bhagavāpi, bhante, etarahi arahaṃ sammāsambuddho dhammaññeva sakkatvā garuṃ katvā upanissāya viharatū”ti.",
+      "fr": "—Il en est ainsi, ô [bhagava|Fortuné], il en est ainsi, ô Sublime! [bhante|Bhanté], ceux qui étaient des [arahant|Méritants], des [sammasambuddha|Bouddhas pleinement réalisés] dans les temps passés, ces [bhagava|Fortunés] ont vécu en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant; [bhante|Bhanté], ceux qui seront des [arahant|Méritants], des [sammasambuddha|Bouddhas pleinement réalisés] dans les temps futurs, ces [bhagava|Fortunés] vivront en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant. Que le [bhagava|Fortuné] lui aussi, [bhante|Bhanté], vive à présent en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant."
+    },
+    {
+      "pl": "idamavoca brahmā sahampati, idaṃ vatvā athāparaṃ etadavoca:",
+      "fr": "Ainsi parla [brahma|Brahma] Sahampati. Ayant dit cela, il ajouta:"
+    },
+    {
+      "pl": "[i]“ye ca atītā sambuddhā, ye ca buddhā anāgatā,yo cetarahi sambuddho, bahūnaṃ sokanāsano.“sabbe saddhammagaruno, vihaṃsu viharanti ca.tathāpi viharissanti, esā buddhāna dhammatā.“tasmā hi attakāmena, mahattamabhikaṅkhatā.saddhammo garukātabbo, saraṃ buddhāna sāsanan”ti. [/i]",
+      "fr": "[i]Les [buddha|Bouddhas] du passé,Les [buddha|Bouddhas] du futur,Et le [buddha|Bouddha] du présent,Détruisant le [soka|chagrin] de beaucoupTous ont vécus, vivent et vivrontEn révérant le [saddhamma|Dhamma authentique]Car pour les [buddha|Bouddhas]C'est une loi de la nature.C'est pourquoi celui qui désire son propre [bonheur]Qui souhaite [atteindre] la grandeur,Devrait révérer le [saddhamma|Dhamma authentique],Se remémorant l'enseignement du [buddha|Bouddha].[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

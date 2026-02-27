@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "SN 9.9",
+  "plTitle": "Vajjiputta Sutta",
+  "frTitle": "Un enfant vajji",
+  "description": "Un mendiant vajji est déconcentré par un festival nocturne à Vessali.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ aññataro vajjiputtako bhikkhu vesāliyaṃ viharati aññatarasmiṃ vanasaṇḍe. tena kho pana samayena vesāliyaṃ vajjiputtako sabbaratticāro hoti. atha kho so bhikkhu vesāliyā tūriya-tāḷita-vādita-nigghosasaddaṃ sutvā paridevamāno tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi — ",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] vajji séjournait près de Vessali, dans un certain maquis forestier. Ce jour-là, un festival des vajjis avait lieu durant toute la nuit à Vessali. Alors ce [bhikkhu|mendiant], en entendant le son des instruments, des percussions, de la musique et des éclats de voix, en cette occasion-là, prononça ces vers:"
+    },
+    {
+      "pl": "“ekakā mayaṃ araññe viharāma, apaviddhaṃva vanasmiṃ dārukaṃ. etādisikāya rattiyā, ko su nāmamhehi pāpiyo””ti. ",
+      "fr": "Nous séjournons seuls dans la forêtComme une bûche rejetée dans les bois En une telle nuit,Qui se trouve moins bien que nous?"
+    },
+    {
+      "pl": "atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi —",
+      "fr": "Alors le [deva|déva] qui vivait dans ce maquis forestier, par compassion pour ce [bhikkhu|mendiant], voulant son bien, souhaitant susciter chez lui le [samvega|sens de la motivation], s'approcha et s'adressa à lui en vers:"
+    },
+    {
+      "pl": "“ekakova tvaṃ araññe viharasi, apaviddhaṃva vanasmiṃ dārukaṃ. tassa te bahukā pihayanti, nerayikā viya saggagāminan””ti. ",
+      "fr": "Tu séjournes seul en forêtComme une bûche rejetée dans les boisNombreux sont ceux qui t'envientComme les êtres des enfers envient ceux qui vont au paradis."
+    },
+    {
+      "pl": "atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+      "fr": "Alors ce [bhikkhu|mendiant], rappelé à l'ordre par le [deva|déva], acquit le [samvega|sens de la motivation]."
+    }
+  ],
+  "translator": "Sekha"
+}

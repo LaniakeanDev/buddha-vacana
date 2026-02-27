@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 3.7",
+  "plTitle": "Aḍḍakaraṇa Sutta",
+  "frTitle": "Le tribunal",
+  "description": "Le roi Passénadi est dégoûté par l'immoralité de ses sujets opulents.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca —",
+      "fr": "Une fois assis d'un côté, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idhāhaṃ, bhante, aḍḍakaraṇe nisinno passāmi khattiyamahāsālepi brāhmaṇamahāsālepi gahapatimahāsālepi aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate pahūtavittūpakaraṇe pahūtadhanadhaññe kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ sampajānamusā bhāsante. tassa mayhaṃ, bhante, etadahosi — ‘alaṃ dāni me aḍḍakaraṇena, bhadramukho dāni aḍḍakaraṇena paññāyissatī’””ti.",
+      "fr": "«[bhante|Bhanté], lorsque je suis assis au tribunal, je vois des aristocrates aisés, des brahmanes aisés, des chefs de foyer aisés, opulents, possédant de grandes fortunes, de grandes richesses, d'abondantes quantités d'or et d'argent, de grandes quantités de biens et de possessions, de grandes quantités de richesses et de grains, qui disent des mensonges délibérés avec les[kama|plaisirs sensuels] pour [hetu|cause], avec les[kama|plaisirs sensuels] pour [nidana|raison], avec les[kama|plaisirs sensuels] pour origine. Alors je me suis dit: [i]“J'en ai assez de ce tribunal! À partir de maintenant, ce sera Bhadramoukha qui sera connu pour ses jugements.”[/i]"
+    },
+    {
+      "pl": "“evametaṃ, mahārāja, evametaṃ mahārāja! yepi te, mahārāja, khattiyamahāsālā brāhmaṇamahāsālā gahapatimahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā pahūtavittūpakaraṇā pahūtadhanadhaññā kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ sampajānamusā bhāsanti; tesaṃ taṃ bhavissati dīgharattaṃ ahitāya dukkhāyā””ti.",
+      "fr": "— Il en est ainsi, Maharaja, il en est ainsi!Les aristocrates aisés, les brahmanes aisés, les chefs de foyer aisés, opulents, possédant de grandes fortunes, de grandes richesses, d'abondantes quantités d'or et d'argent, de grandes quantités de biens et de possessions, de grandes quantités de richesses et de grains, disent des mensonges délibérés avec les[kama|plaisirs sensuels] pour [hetu|cause], avec les[kama|plaisirs sensuels] pour [nidana|raison], avec les[kama|plaisirs sensuels] pour origine. Cela leur portera préjudice et mènera à leur [dukkha|mal-être] pour longtemps.»"
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "“sārattā kāmabhogesu, [@v]giddhā kāmesu mucchitā. [@v]atisāraṃ na bujjhanti,[@v]macchā khippaṃva oḍḍitaṃ. [@v]pacchāsaṃ kaṭukaṃ hoti,[@v]vipāko hissa pāpako””ti.",
+      "fr": "Obsédés par les[kama|plaisirs] et les richesses[@v]Avides de [kama|plaisirs sensuels], cupides[@v]Ils ne comprennent pas qu'ils vont trop loin[@v]Tels des poissons dans un filet déployé.[@v]Plus tard c'est amer [@v]Car pour sûr la [vipaka|conséquence] en sera mauvaise."
+    }
+  ],
+  "translator": "Sekha"
+}

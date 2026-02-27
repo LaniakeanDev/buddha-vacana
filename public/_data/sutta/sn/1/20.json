@@ -1,0 +1,19 @@
+﻿{
+  "identifier": "SN 1.20",
+  "plTitle": "Samiddhi Sutta",
+  "frTitle": "Le vénérable Samiddhi",
+  "description": "Un déva essaie de persuader le vénérable Samiddhi, mais ce dernier a de la répartie.",
+  "body": [
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "Daharo tvaṃ bhikkhu, pabbajito susu kāḷakeso, bhadrena yobbanena samannāgato, paṭhamena vayasā, anikkīḷitāvī kāmesu. Bhuñja, bhikkhu, mānusake kāme. Mā sandiṭṭhikaṃ hitvā kālikaṃ anudhāvī ti.",
+      "fr": "— [bhikkhu|Mendiant], tu as [pabbajja|quitté le foyer] jeune, comme un jeune homme aux cheveux noirs, pourvu des bienfaits de la jeunesse, dans le premier stade de la vie, sans t'être amusé dans les [kama|plaisirs sensuels]. Jouis, [bhikkhu|mendiant], des [kama|plaisirs sensuels] humains. Ne sacrifie pas ce qui est [sanditthika|visible directement] pour poursuivre ce qui prend du temps [à obtenir]."
+    },
+    {
+      "pl": "Na khvāhaṃ, āvuso, sandiṭṭhikaṃ hitvā kālikaṃ anudhāvāmi. Kālikañca khvāhaṃ, āvuso, hitvā sandiṭṭhikaṃ anudhāvāmi. Kālikā hi, āvuso, kāmā vuttā bhagavatā bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Sandiṭṭhiko ayaṃ dhammo akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī ti.",
+      "fr": "— Ami, je ne sacrifie pas ce qui est [sanditthika|visible directement] pour poursuivre ce qui prend du temps [à obtenir]. Je sacrifie ce qui prend du temps [à obtenir] pour poursuivre ce qui est [sanditthika|visible directement]. Ami, le [bhagava|Fortuné] a déclaré que les [kama|plaisirs sensuels] prennent du temps [à obtenir], qu'ils [procurent] beaucoup de [dukkha|mal-être], beaucoup de [upayasa|détresse], et ont des [adinava|désavantages] encore pires. Cet [dhamma|Enseignement], quant à lui, est [@f_anussati#anussati-2|visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, et il est à être expérimenté individuellement par les sages.]"
+    },
+    { "pl": "...", "fr": "..." }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 5.5",
+  "plTitle": "Uppalavaṇṇā Sutta",
+  "frTitle": "La mendiante Ouppalavanna",
+  "description": "Mara tente de susciter la peur chez Ouppalavanna, mais il n'a pas compris qu'elle a plus d'un tour dans son sac.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "atha kho uppalavaṇṇā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ supupphitasālarukkhamūle aṭṭhāsi. atha kho māro pāpimā uppalavaṇṇāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena uppalavaṇṇā bhikkhunī tenupasaṅkami; upasaṅkamitvā uppalavaṇṇaṃ bhikkhuniṃ gāthāya ajjhabhāsi",
+      "fr": "Ce matin-là, la [bhikkhuni|mendiante] Ouppalavanna s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle se tint debout au pied d'un certain sal qui était en fleurs. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Ouppalavanna, souhaitant la faire tomber de son [viveka|isolement], s'approcha d'elle et s'adressa à elle en vers:"
+    },
+    {
+      "pl": "“supupphitaggaṃ upagamma bhikkhuni, ekā tuvaṃ tiṭṭhasi sālamūle. na catthi te dutiyā vaṇṇadhātu, bāle na tvaṃ bhāyasi dhuttakānan””ti. ",
+      "fr": "[bhikkhuni|Mendiante], tu t'es rendue sous une ramure en fleurs,Et tu te tiens debout au pied d'un salAlors que ta beauté n'a pas d'égal.Sotte, n'as-tu pas peur des brigands?"
+    },
+    {
+      "pl": "atha kho uppalavaṇṇāya bhikkhuniyā etadahosi — “ko nu khvāyaṃ manusso vā amanusso vā gāthaṃ bhāsatī””ti? atha kho uppalavaṇṇāya bhikkhuniyā etadahosi — “māro kho ayaṃ pāpimā mama bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo gāthaṃ bhāsatī””ti. atha kho uppalavaṇṇā bhikkhunī “māro ayaṃ pāpimā” iti viditvā māraṃ pāpimantaṃ gāthāhi paccabhāsi",
+      "fr": "Alors la [bhikkhuni|mendiante] Ouppalavanna se dit: [i]“Qui est-ce donc qui a prononcé ces vers, un être humain ou un être non-humain?”[/i] Puis elle se dit: [i]“C'est [mara|Mara] le Malin qui a prononcé ces vers, souhaitant susciter en moi peur, panique et chair de poule, souhaitant me faire tomber de mon [viveka|isolement].”[/i] Alors la [bhikkhuni|mendiante] Ouppalavanna, ayant compris qu'il s'agissait de [mara|Mara] le Malin, lui répondit en vers:"
+    },
+    {
+      "pl": "“sataṃ sahassānipi dhuttakānaṃ, idhāgatā tādisakā bhaveyyuṃ. lomaṃ na iñjāmi na santasāmi, na māra bhāyāmi tamekikāpi. ",
+      "fr": "Même si cent mille banditsComme toi venaient ici,Mes poils ne se hérisseraient pas, je ne serais pas inquiétéeJe n'ai pas peur de toi, même en étant seule."
+    },
+    {
+      "pl": "“esā antaradhāyāmi, kucchiṃ vā pavisāmi te. pakhumantarikāyampi, tiṭṭhantiṃ maṃ na dakkhasi. ",
+      "fr": "Je peux disparaîtreOu entrer dans ton ventreJe pourrais me placer entre tes sourcilsEt tu ne me verrais pas."
+    },
+    {
+      "pl": "“cittasmiṃ vasībhūtāmhi, iddhipādā subhāvitā. sabbabandhanamuttāmhi, na taṃ bhāyāmi āvuso””ti.",
+      "fr": "Je suis devenue maître de mon [citta|esprit],J'ai bien développé les [iddhipada|chemins du pouvoir psychique],Je suis libérée de toutes les chaînesEt je n'ai pas peur de toi, mon ami."
+    },
+    {
+      "pl": "atha kho māro pāpimā “jānāti maṃ vijayā bhikkhunī””ti dukkhī dummano tatthevantaradhāyīti.",
+      "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Ouppalavanna me connaît,”[/i] disparut sur-le-champ."
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,46 @@
+﻿{
+  "identifier": "SN 3.13",
+  "plTitle": "Doṇapāka Sutta",
+  "frTitle": "Une grande quantité de nourriture",
+  "description": "Le roi mange excessivement. Le Bouddha lui offre une strophe à méditer, qui ne tombe pas dans l'oreille d'un sourd.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "tena kho pana samayena rājā pasenadi kosalo doṇapākakuraṃ bhuñjati. atha kho rājā pasenadi kosalo bhuttāvī mahassāsī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.",
+      "fr": "Ce jour-là, le roi Passénadi du Kossala mangea une grande quantité de nourriture, puis alla voir le [bhagava|Fortuné] le ventre plein, en respirant lourdement, lui rendit hommage et s'assit d'un côté."
+    },
+    {
+      "pl": "atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ bhuttāviṃ mahassāsiṃ viditvā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi",
+      "fr": "Le [bhagava|Fortuné], comprenant que le roi Passénadi du Kossala avait le ventre plein et respirait lourdement, prononça ces vers:"
+    },
+    {
+      "pl": "“manujassa sadā satīmato, [@v]mattaṃ jānato laddhabhojane. [@v]tanukassa bhavanti vedanā, [@v]saṇikaṃ jīrati āyupālayan””ti.",
+      "fr": "Un homme toujours [sati|présent d'esprit][@v]Connaît la [bonne] mesure avec la nourriture.[@v]Il a peu de [mauvais] [vedana|ressentis],[@v]Il vieillit lentement et préserve sa longévité."
+    },
+    {
+      "pl": "tena kho pana samayena sudassano māṇavo rañño pasenadissa kosalassa piṭṭhito ṭhito hoti. atha kho rājā pasenadi kosalo sudassanaṃ māṇavaṃ āmantesi —",
+      "fr": "À ce moment-là, le jeune [brahmana|brahmane] Soudassana se tenait debout derrière le roi. Celui-ci s'adressa au jeune [brahmana|brahmane]:"
+    },
+    {
+      "pl": "“ehi tvaṃ, tāta sudassana, bhagavato santike imaṃ gāthaṃ pariyāpuṇitvā mama bhattābhihāre (bhattābhihāre) bhāsa. ahañca te devasikaṃ kahāpaṇasataṃ (kahāpaṇasataṃ) niccaṃ bhikkhaṃ pavattayissāmī””ti.",
+      "fr": "«Allez, mon cher Soudassana. Apprends par cœur cette strophe de la part du [bhagava|Fortuné] et récite-la moi lorsqu'on m'apporte ma nourriture, et je te paierai à vie cent sous par jour."
+    },
+    {
+      "pl": "“evaṃ devā””ti kho sudassano māṇavo rañño pasenadissa kosalassa paṭissutvā bhagavato santike imaṃ gāthaṃ pariyāpuṇitvā rañño pasenadissa kosalassa bhattābhihāre sudaṃ bhāsati",
+      "fr": "—Oui, Sire», répondit le jeune [brahmana|brahmane] Soudassana. Il apprit donc par cœur cette strophe de la part du [bhagava|Fortuné] et la récita au roi Passénadi du Kossala à chaque repas:"
+    },
+    {
+      "pl": "“manujassa sadā satīmato, [@v]mattaṃ jānato laddhabhojane. [@v]tanukassa bhavanti vedanā, [@v]saṇikaṃ jīrati āyupālayan””ti.",
+      "fr": "Un homme toujours [sati|présent d'esprit][@v]Connaît la [bonne] mesure avec la nourriture.[@v]Il a peu de [mauvais] [vedana|ressentis],[@v]Il vieillit lentement et préserve sa longévité."
+    },
+    {
+      "pl": "atha kho rājā pasenadi kosalo anupubbena nāḷikodanaparamatāya saṇṭhāsi. atha kho rājā pasenadi kosalo aparena samayena susallikhitagatto pāṇinā gattāni anumajjanto tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Ainsi, le roi Passénadi se restreignit progressivement à un bol de nourriture. Un peu plus tard, le roi Passénadi, ayant perdu du poids, passa sa main sur son ventre et exclama cette [udana|exclamation] inspirée:"
+    },
+    {
+      "pl": "“ubhayena vata maṃ so bhagavā atthena anukampi — diṭṭhadhammikena ceva atthena samparāyikena cā””ti.",
+      "fr": "«Le [bhagava|Fortuné] a fait preuve de compassion pour mon bien à deux niveaux: pour mon bien dans le monde visible aussi bien que dans l'autre monde.»"
+    }
+  ],
+  "translator": "Sekha"
+}

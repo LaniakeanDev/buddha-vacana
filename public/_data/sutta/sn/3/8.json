@@ -1,0 +1,42 @@
+﻿{
+  "identifier": "SN 3.8",
+  "plTitle": "Mallikā Sutta",
+  "frTitle": "La reine Mallika",
+  "description": "Le roi Passénadi demande à sa reine Mallika qui lui est le plus cher et reçoit une réponse sincère.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "tena kho pana samayena rājā pasenadi kosalo mallikāya deviyā saddhiṃ uparipāsādavaragato hoti. atha kho rājā pasenadi kosalo mallikaṃ deviṃ etadavoca",
+      "fr": "Ce jour-là, le roi Passénadi du Kossala se trouvait sur la terrasse au sommet de son palais avec la reine Mallika et lui dit:"
+    },
+    {
+      "pl": "“atthi nu kho te, mallike, kocañño attanā piyataro””ti?",
+      "fr": "«Mallika, y a-t-il quelqu'un qui te soit plus cher que toi-même?"
+    },
+    {
+      "pl": "“natthi kho me, mahārāja, kocañño attanā piyataro. tuyhaṃ pana, mahārāja, atthañño koci attanā piyataro””ti?",
+      "fr": "—Non, Maharaja, il n'y a personne qui me soit plus cher que moi-même. Et vous, Maharaja, y a-t-il quelqu'un qui vous soit plus cher que vous-même?"
+    },
+    {
+      "pl": "“mayhampi kho, mallike, natthañño koci attanā piyataro””ti.",
+      "fr": "—Moi non plus, Mallika, je n'ai personne qui me soit plus cher que moi-même.»"
+    },
+    {
+      "pl": "atha kho rājā pasenadi kosalo pāsādā orohitvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca —",
+      "fr": "Alors le roi Passénadi du Kossala descendit du palais puis alla voir le [bhagava|Fortuné], lui rendit hommage, s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“idhāhaṃ, bhante, mallikāya deviyā saddhiṃ uparipāsādavaragato mallikaṃ deviṃ etadavocaṃ — ‘atthi nu kho te, mallike, kocañño attanā piyataro’’ti? evaṃ vutte, bhante, mallikā devī maṃ etadavoca — ‘natthi kho me, mahārāja, kocañño attanā piyataro. tuyhaṃ pana, mahārāja, atthañño koci attanā piyataro’’ti? evaṃ vuttāhaṃ, bhante, mallikaṃ deviṃ etadavocaṃ — ‘mayhampi kho, mallike, natthañño koci attanā piyataro””ti.",
+      "fr": "«[bhante|Bhanté], je me trouvais tout juste sur la terrasse au sommet de mon palais avec la reine Mallika lorsque je lui ai dit: [i]“Mallika, y a-t-il quelqu'un qui te soit plus cher que toi-même?”[/i] La reine Mallika m'a alors répondu: [i]“Non, Maharaja, il n'y a personne qui me soit plus cher que moi-même. Et vous, Maharaja, y a-t-il quelqu'un qui vous soit plus cher que vous-même?”[/i] Et je lui ai répondu: [i]“Moi non plus, Mallika, je n'ai personne qui me soit plus cher que moi-même.”[/i]»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi",
+      "fr": "Le [bhagava|Fortuné], ayant compris ce que cela signifiait, prononça ces vers:"
+    },
+    {
+      "pl": "“sabbā disā anuparigamma cetasā, [@v]nevajjhagā piyataramattanā kvaci. [@v]evaṃ piyo puthu attā paresaṃ, [@v]tasmā na hiṃse paramattakāmo””ti.",
+      "fr": "En explorant mentalement toutes les directions,[@v]On ne trouve personne plus cher que soi-même.[@v]Ainsi, chacun est plus cher à lui-même qu'à autrui[@v]Par conséquent, que celui qui s'aime ne fasse pas de mal à autrui."
+    }
+  ],
+  "translator": "Sekha"
+}

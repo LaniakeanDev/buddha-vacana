@@ -1,0 +1,106 @@
+﻿{
+  "identifier": "SN 3.24",
+  "plTitle": "Issattha Sutta",
+  "frTitle": "Archerie",
+  "description": "L'allégorie des jeunes guerriers pour expliquer au roi où ce qui est donné porte d'excellents fruits.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
+      "fr": "Alors qu'il était assis d'un côté, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "Kattha nukho, bhante dānaṃ dātabban ti?",
+      "fr": "— Où est-ce donc, [bhante|Bhanté], qu'une [dana|donation] devrait être donnée?"
+    },
+    {
+      "pl": "Yattha kho, mahārāja, cittaṃ pasīdatī ti.",
+      "fr": "— Là, Maharaja, où cela rend l'[citta|esprit] serein."
+    },
+    {
+      "pl": "— Kattha pana, bhante dinnaṃ mahapphalan ti?",
+      "fr": "— Et où est-ce, [bhante|Bhanté], que ce qui est donné porte d'excellents fruits?"
+    },
+    {
+      "pl": "Aññaṃ kho etaṃ, mahārāja, kattha dānaṃ dātabbaṃ, aññaṃ panetaṃ kattha dinnaṃ mahapphalanti? Sīlavato kho, mahārāja, dinnaṃ mahapphalaṃ, no tathā dussīle. Tena hi, mahārāja, taññevettha paṭipucchissāmi. Yathā te khameyya, tathā naṃ byākareyyāsi. Taṃ kiṃ maññasi, mahārāja, idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho. Atha āgaccheyya khattiyakumāro asikkhito akatahattho akatayoggo akatūpāsano bhīru chambhī utrāsī palāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— C'est une chose, Maharaja, que [de demander:] [i]“Où est-ce qu'une [dana|donation] devrait être donnée?”[/i], et c'en est une autre que [de demander:] [i]“Où est-ce que ce qui est donné porte d'excellents fruits?”[/i] Ce qui est donné à un individu [sila|vertu]eux, Maharaja, porte d'excellents fruits, mais pas ce qui est donné à un individu qui manque de [sila|vertu]. Pour cela, Maharaja, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous, Maharaja: [imaginez] que vous soyez en guerre et qu'une bataille soit imminente. Se présenterait alors un jeune [khattiya|aristocrate] sans entraînement, inexpérimenté, incompétent, malhabile à l'archerie, effrayé, terrifié, terrorisé, rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Nāhaṃ, bhante bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā ti.",
+      "fr": "— Je ne subviendrais pas aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme ne pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya brāhmaṇakumāro asikkhito akatahattho akatayoggo akatūpāsano bhīru chambhī utrāsī palāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune [brahmana|brahmane] sans entraînement, inexpérimenté, incompétent, malhabile à l'archerie, effrayé, terrifié, terrorisé, rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Nāhaṃ, bhante bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā ti.",
+      "fr": "— Je ne subviendrais pas aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme ne pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya vessakumāro asikkhito akatahattho akatayoggo akatūpāsano bhīru chambhī utrāsī palāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune vessa sans entraînement, inexpérimenté, incompétent, malhabile à l'archerie, effrayé, terrifié, terrorisé, rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Nāhaṃ, bhante bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā ti.",
+      "fr": "— Je ne subviendrais pas aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme ne pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya suddakumāro asikkhito akatahattho akatayoggo akatūpāsano bhīru chambhī utrāsī palāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune soudda sans entraînement, inexpérimenté, incompétent, malhabile à l'archerie, effrayé, terrifié, terrorisé, rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Nāhaṃ, bhante bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā ti.",
+      "fr": "— Je ne subviendrais pas aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme ne pourrait m'être utile."
+    },
+    {
+      "pl": "Taṃ kiṃ maññasi, mahārāja, idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho; atha āgaccheyya khattiyakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Qu'en pensez-vous, Maharaja: [imaginez] que vous soyez en guerre et qu'une bataille soit imminente. Se présenterait alors un jeune [khattiya|aristocrate] bien entraîné, expérimenté, compétent, habile à l'archerie, sans peur, sans effroi, sans terreur, n'étant pas rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Bhareyyāhaṃ, bhante taṃ purisaṃ, attho ca me tādisena purisenā ti.",
+      "fr": "— Je subviendrais aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya brāhmaṇakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune [brahmana|brahmane] bien entraîné, expérimenté, compétent, habile à l'archerie, sans peur, sans effroi, sans terreur, n'étant pas rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Bhareyyāhaṃ, bhante taṃ purisaṃ, attho ca me tādisena purisenā ti.",
+      "fr": "— Je subviendrais aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya vessakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune vessa bien entraîné, expérimenté, compétent, habile à l'archerie, sans peur, sans effroi, sans terreur, n'étant pas rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Bhareyyāhaṃ, bhante taṃ purisaṃ, attho ca me tādisena purisenā ti.",
+      "fr": "— Je subviendrais aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme pourrait m'être utile."
+    },
+    {
+      "pl": "Atha āgaccheyya suddakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī; bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā ti?",
+      "fr": "— Se présenterait ensuite un jeune soudda bien entraîné, expérimenté, compétent, habile à l'archerie, sans peur, sans effroi, sans terreur, n'étant pas rapide à fuir. Est-ce que subviendriez aux besoins d'un tel homme, et est-ce qu'un tel homme pourrait vous être utile?"
+    },
+    {
+      "pl": "Bhareyyāhaṃ, bhante taṃ purisaṃ, attho ca me tādisena purisenā ti.",
+      "fr": "— Je subviendrais aux besoins d'un tel homme, [bhante|Bhanté], et un tel homme pourrait m'être utile."
+    },
+    {
+      "pl": "Evameva kho, mahārāja, yasmā yasmā cepi kulā agārasmā anagāriyaṃ pabbajito hoti, so ca hoti pañcaṅgavippahīno pañcaṅgasamannāgato, tasmiṃ dinnaṃ mahapphalaṃ hoti.",
+      "fr": "— De la même manière, Maharaja, quel que soit le [type de] famille venant de laquelle un individu a [pabbaja|quitté la vie de foyer] pour le [anagariya|sans-foyer], s'il a abandonné cinq facteurs et qu'il est pourvu de cinq [autres] facteurs, ce qui lui est donné porte d'excellents fruits."
+    },
+    {
+      "pl": "Katamāni pañcaṅgāni pahīnāni honti? Kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṃ pahīnaṃ hoti, uddhaccakukkuccaṃ pahīnaṃ hoti, vicikicchā pahīnā hoti. Imāni pañcaṅgāni pahīnāni honti.",
+      "fr": "— Quels sont les cinq facteurs qui ont été abandonnés? Le [kamacchanda|désir sensuel] a été abandonné, la [byapada|malveillance] a été abandonnée, la [thinamiddha|torpeur & somnolence] a été abandonnée, l'[uddhaccakukkucca|agitation mentale & préoccupation] a été abandonnée, et le [vicikiccha|doute] a été abandonné. Ces cinq facteurs ont été abandonnés."
+    },
+    {
+      "pl": "Katamehi pañcahaṅgehi samannāgato hoti? Asekkhena sīla-kkhandhena samannāgato hoti, asekkhena samādhi-kkhandhena samannāgato hoti, asekkhena paññā-kkhandhena samannāgato hoti, asekkhena vimutti-kkhandhena samannāgato hoti, asekkhena vimutti-ñāṇa·dassana-kkhandhena samannāgato hoti. Imehi pañcahaṅgehi samannāgato hoti.",
+      "fr": "Quels sont les cinq facteurs dont il est pourvu? Il est pourvu de l'[khandha|accumulation] de [sila|vertu] d'un [asekha|individu au-delà de l'entraînement], il est pourvu de l'[khandha|accumulation] de [samadhi|concentration] d'un [asekha|individu au-delà de l'entraînement], il est pourvu de l'[khandha|accumulation] de [panna|discernement] d'un [asekha|individu au-delà de l'entraînement], il est pourvu de l'[khandha|accumulation] de [vimutti|libération] d'un [asekha|individu au-delà de l'entraînement], il est pourvu de l'[khandha|accumulation] de [nanadassana|connaissance & vision] d'un [asekha|individu au-delà de l'entraînement]."
+    },
+    {
+      "pl": "Iti pañcaṅga-vippahīne pañcaṅga-samannāgate dinnaṃ mahapphalan ti.",
+      "fr": "Ayant ainsi abandonné cinq facteurs et étant pourvu de cinq facteurs, ce qui lui est donné porte d'excellents fruits."
+    }
+  ],
+  "translator": "Rémy"
+}

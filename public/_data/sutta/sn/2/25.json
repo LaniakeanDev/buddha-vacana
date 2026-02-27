@@ -1,0 +1,34 @@
+﻿{
+  "identifier": "SN 2.25",
+  "plTitle": "Jantu Sutta",
+  "frTitle": "La réprimande de Jantou",
+  "description": "Jantou l'enfant de dévas réprimande des mendiants dissipés.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.",
+      "fr": "Un jour, un grand nombre de [bhikkhu|mendiants] séjournaient dans le Kossala, sur les pentes de l'Himalaya, dans des huttes forestières. Ils étaient agités, insolents, instables, bavards, jacasseurs, étourdis d'esprit, sans [sampajanna|discernement attentif], dé·[samahita|concentrés], d'[citta|esprit] confus, avec des [indriya|facultés] incontrôlées."
+    },
+    {
+      "pl": "atha kho jantu devaputto tadahuposathe pannarase yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi",
+      "fr": "Alors pendant l'[uposatha|Ouposatha] du quinzième jour, Jantou l'enfant de [deva|dévas] vint voir ces [bhikkhu|mendiants] et s'adressa à eux en vers:"
+    },
+    {
+      "pl": "“sukhajīvino pure āsuṃ, [@v]bhikkhū gotamasāvakā. [@v]anicchā piṇḍamesanā, [@v]anicchā sayanāsanaṃ. [@v]loke aniccataṃ ñatvā, [@v]dukkhassantaṃ akaṃsu te.",
+      "fr": "Autrefois, ils vivaient dans le [sukha|bien-être],[@v]Les [bhikkhu|mendiants] disciples de Gotama.[@v]Sans désir ils cherchaient leurs aumônes,[@v]Sans désir ils utilisaient les sièges et les lits.[@v]Ayant connu l'[anicca|impermanence] dans le monde,[@v]Ils mettaient fin au [dukkha|mal-être]."
+    },
+    {
+      "pl": "“dupposaṃ katvā attānaṃ, [@v]gāme gāmaṇikā viya. [@v]bhutvā bhutvā nipajjanti, [@v]parāgāresu mucchitā.",
+      "fr": "Ils se sont rendus difficiles à nourrir,[@v]Comme des chefs de village dans leur village.[@v]Ayant trop mangé, ils s'allongent[@v]Passionnés par les maisons des autres."
+    },
+    {
+      "pl": "“saṅghassa añjaliṃ katvā, [@v]idhekacce vadāmahaṃ. [@v]apaviddhā anāthā te, [@v]yathā petā tatheva te.",
+      "fr": "Ayant salué la [sangha|Communauté] avec respect,[@v]Je ne parle ici que de certains[@v]Qui sont rejetés, sans protection,[@v]Comme des [peta|esprits affligés]."
+    },
+    {
+      "pl": "“ye kho pamattā viharanti, [@v]te me sandhāya bhāsitaṃ. [@v]ye appamattā viharanti, [@v]namo tesaṃ karomahan””ti. [@v]",
+      "fr": "C'est à ceux qui restent [pamada|négligents][@v]Que ma déclaration s'adresse.[@v]Ceux qui restent [appamada|assidus],[@v]À ceux-là je rends hommage."
+    }
+  ],
+  "translator": "Sekha."
+}

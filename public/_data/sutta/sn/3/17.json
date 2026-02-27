@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "SN 3.17",
+  "plTitle": "Appamāda Sutta",
+  "frTitle": "L'assiduité",
+  "description": "Y a-t-il une simple chose qui assure des bénéfices dans cette vie et dans les vies à venir?",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
+      "fr": "Tandis qu'il était assis là, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“atthi nu kho, bhante, eko dhammo yo ubho atthe samadhiggayha tiṭṭhati: diṭṭhadhammikañceva atthaṃ samparāyikañcā”ti?",
+      "fr": "—[bhante|Bhanté], y a-t-il une simple [dhamma|chose] qui, si elle est entreprise, assure les deux [types de] bénéfices: le bénéfice [ditthadhamma|dans ce monde visible] et dans l'autre monde?"
+    },
+    {
+      "pl": "“atthi kho, mahārāja, eko dhammo yo ubho atthe samadhiggayha tiṭṭhati: diṭṭhadhammikañceva atthaṃ samparāyikañcā”ti.",
+      "fr": "—Il y a, Maharaja, une simple [dhamma|chose] qui, si elle est entreprise, assure les deux [types de] bénéfices: le bénéfice [ditthadhamma|dans ce monde visible] et dans l'autre monde."
+    },
+    {
+      "pl": "“katamo pana, bhante, eko dhammo, yo ubho atthe samadhiggayha tiṭṭhati: diṭṭhadhammikañceva atthaṃ samparāyikañcā”ti?",
+      "fr": "—Et quelle est cette simple [dhamma|chose], [bhante|Bhanté], qui, si elle est entreprise, assure les deux [types de] bénéfices: le bénéfice [ditthadhamma|dans ce monde visible] et dans l'autre monde?"
+    },
+    {
+      "pl": "“appamādo kho, mahārāja, eko dhammo, yo ubho atthe samadhiggayha tiṭṭhati: diṭṭhadhammikañceva atthaṃ samparāyikañcāti. seyyathāpi, mahārāja, yāni kānici jaṅgalānaṃ pāṇānaṃ padajātāni, sabbāni tāni hatthipade samodhānaṃ gacchanti, hatthipadaṃ tesaṃ aggamakkhāyati, yadidaṃ mahantattena; evameva kho, mahārāja, appamādo eko dhammo, yo ubho atthe samadhiggayha tiṭṭhati: diṭṭhadhammikañceva atthaṃ samparāyikañcā”ti.",
+      "fr": "—L'[appamada|assiduité], Maharaja, est cette simple [dhamma|chose] qui, si elle est entreprise, assure les deux [types de] bénéfices: le bénéfice [ditthadhamma|dans ce monde visible] et dans l'autre monde. Tout comme toutes les empreintes laissées par les êtres vivant sur la terre ferme seraient contenues dans une empreinte d'éléphant, et l'empreinte d'éléphant est considérée comme la plus éminente d'entre elles en ce qui concerne la taille, de la même manière, Maharaja, l'[appamada|assiduité] est cette simple [dhamma|chose] qui, si elle est entreprise, assure les deux [types de] bénéfices: le bénéfice [ditthadhamma|dans ce monde visible] et dans l'autre monde."
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "[i]“āyuṃ arogiyaṃ vaṇṇaṃ, saggaṃ uccākulīnataṃ,ratiyo patthayantena, uḷārā aparāparā,appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā.appamatto ubho atthe, adhiggaṇhāti paṇḍitodiṭṭhe dhamme ca yo attho, yo cattho samparāyiko.atthābhisamayā dhīro, paṇḍitoti pavuccatī”ti. [/i]",
+      "fr": "[i]Pour celui qui aspire à une longue vie,À la santé, à la beauté, au [sagga|paradis],À [une naissance dans] une haute famille,À des délices élevés les uns après les autres,Les [pandita|sages] recommandent l'[appamada|assiduité]Dans la réalisation d'[punna|actes méritoires].Le [pandita|sage] assidu S'assure les deux bénéfices,Le bénéfice [ditthadhamma|dans ce monde visible]Et le bénéfice dans l'autre monde.Celui qui est persistant atteint les bénéfices,Et on dit de lui qu'il est un [pandita|sage].[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "SN 1.59",
+  "plTitle": "Dutiya Sutta",
+  "frTitle": "Le partenaire",
+  "description": "Quel et le partenaire d'un homme? Qu'est-ce qui l'instruit? Comment se délivrer du mal-être?",
+  "body": [
+    {
+      "pl": "[Devatā:][@v][i]“kiṃsu dutiyā purisassa hoti,kiṃsu cenaṃ pasāsati.kissa cābhirato macco, sabbadukkhā pamuccatī”ti.",
+      "fr": "[Déva:][i]Quel est le partenaire d'un homme?Qu'est-ce donc qui l'instruit?En se plaisant à quoi un mortelSe délivre-t-il de tout [dukkha|mal-être]?[/i]"
+    },
+    {
+      "pl": "[Bhagavā:][i]“saddhā dutiyā purisassa hoti,paññā cenaṃ pasāsati.nibbānābhirato macco,sabbadukkhā pamuccatī”ti..",
+      "fr": "[Le [bhagava|Fortuné]:][i] La [saddha|conviction] est le partenaire d'un homme Et c'est le [panna|discernement] qui l'instruit.C'est en se plaisant à l'[nibbana|Extinction] qu'un mortelSe délivre de tout [dukkha|mal-être].[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

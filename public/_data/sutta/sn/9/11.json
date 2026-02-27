@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "SN 9.11",
+  "plTitle": "Akusalavitakka Sutta",
+  "frTitle": "Des pensées désavantageuses",
+  "description": "Un mendiant est dévoré par ses pensées malsaines. Un déva vient à son secours.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi, seyyathidaṃ kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ. atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi:",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] séjournait dans le Kosala, dans un certain maquis forestier. Ce jour-là, ce [bhikkhu|mendiant], faisant sa session de la journée, pensait des [vitakka|pensées] [papaka|mauvaises] et [akusala|désavantageuses], c'est-à-dire des [vitakka|pensées] de [kama|sensualité], des [vitakka|pensées] de [byapada|malveillance] et des [vitakka|pensées] de [vihimsa|non-inoffensivité]. Alors le [deva|déva] qui vivait dans ce maquis forestier, par compassion pour ce [bhikkhu|mendiant], voulant son bien, souhaitant susciter chez lui le [samvega|sens de la motivation], s'approcha et s'adressa à lui en vers:"
+    },
+    {
+      "pl": "[i]“ayoniso manasikārā, so vitakkehi khajjasi.ayoniso paṭinissajja, yoniso anucintaya.“satthāraṃ dhammamārabbha, saṅghaṃ sīlāni attano.adhigacchasi pāmojjaṃ, pītisukhamasaṃsayaṃ.tato pāmojjabahulo, dukkhassantaṃ karissasī”ti. [/i]",
+      "fr": "[i]Celui qui [aymk|porte son attention inadéquatement]Est dévoré par les [vitakka|pensées].Abandonne ce qui est à mauvais escientEt réfléchis à bon escient.En te basant sur l'Enseignant, le [dhamma|Dhamma]La [sangha|Communauté] et tes propres [sila|vertus],Tu obtiendras certainement [pamojja|joie], [piti|Exaltation] et [sukha|bien-être].Et rempli de cette [pamojja|joie],Tu mettras fin au [dukkha|mal-être].[/i]"
+    },
+    {
+      "pl": "atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+      "fr": "Alors ce [bhikkhu|mendiant], rappelé à l'ordre par le [deva|déva], acquit le [samvega|sens de la motivation]."
+    }
+  ],
+  "translator": "Rémy"
+}
