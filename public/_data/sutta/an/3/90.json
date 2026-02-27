@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "AN 3.90",
+  "plTitle": "Sikkhattaya Sutta",
+  "frTitle": "Les trois entraînements",
+  "description": "Une définition de chacun des trois entraînements, avec une variation sur le dernier par rapport au soutta immédiatement précédent.",
+  "body": [
+    {
+      "pl": "Tisso imā bhikkhave sikkhā. Katamā tisso? Adhisīla-sikkhā adhicitta-sikkhā adhipaññā-sikkhā.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces trois [sikkha|entraînements]. Quels sont ces trois? L'[adhisilasikkha|entraînement à la vertu supérieure], l'[adhicittasikkha|entraînement à l'esprit supérieur] et l'[adhipannasikkha|entraînement au discernement supérieur]."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, adhisīla-sikkhā? Idha bhikkhave bhikkhu sīlavā hoti pātimokkha-saṃvara-saṃvuto viharati ācāra-gocara-sampanno anumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesu. Ayaṃ vuccati bhikkhave adhisīla-sikkhā.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[adhisilasikkha|entraînement à la vertu supérieure]? À cet égard, [@f_sila|un mendiant est vertueux, il demeure restreint par la restreinte du Patimokkha, accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les règles de l'entraînement et s'y entraîne.] Voici, [bhikkhu|mendiants], ce qu'on appelle l'[adhisilasikkha|entraînement à la vertu supérieure]."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, adhicitta-sikkhā? Idha bhikkhave bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati; vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati; pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati; sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati bhikkhave adhicitta-sikkhā.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[adhicittasikkha|entraînement à l'esprit supérieur]? À cet égard, [@f_4jhana#1-cl|un mendiant, séparé des plaisirs sensuels, séparé des états mentaux désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.] [@f_4jhana#2-cl|Avec l'apaisement des pensées actives et passives, il entre et demeure dans le deuxième jhāna, avec tranquillisation intérieure et unification de l'esprit, sans pensées actives ni passives, avec exaltation et bien-être engendrés par la concentration.] [@f_4jhana#3-cl|Avec la disparition de l'exaltation, il demeure équanime, présent d'esprit et doué d'un discernement attentif, il entre et demeure dans le troisième jhāna et ressent dans le corps le bien-être que les êtres nobles décrivent: “équanime et présent d'esprit, il séjourne dans le bien-être”.] [@f_4jhana#4-cl|Abandonnant le bien-être et abandonnant le mal-être, la plaisance et la déplaisance mentales ayant auparavant disparu, il entre et demeure dans le quatrième jhāna, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité.] Voici, [bhikkhu|mendiants], ce qu'on appelle l'[adhicittasikkha|entraînement à l'esprit supérieur]."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, adhipaññā-sikkhā? Idha, bhikkhave, bhikkhu āsavānaṃ khayā an-āsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Ayaṃ vuccati bhikkhave adhipaññā-sikkhā.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[adhipannasikkha|entraînement au discernement supérieur]? À cet égard, un mendiant, avec l'élimination complète des [asava|impuretés mentales], entre et demeure [@m_ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté mentale] et la [pannavimutti|libération par le discernement], en les ayant réalisées pour lui-même par [abhinna|connaissance directe]. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[adhipannasikkha|entraînement au discernement supérieur]."
+    },
+    {
+      "pl": "Imā kho bhikkhave tisso sikkhā ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces trois [sikkha|entraînements]."
+    }
+  ],
+  "translator": "Rémy"
+}

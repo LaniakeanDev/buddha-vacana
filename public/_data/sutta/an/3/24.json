@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 3.24",
+  "plTitle": "Bahukāra Sutta",
+  "frTitle": "Des personnes qui en font beaucoup",
+  "description": "Voici trois personnes qui aident énormément un autre, tellement qu'il ne peut que très difficilement leur retourner la faveur.",
+  "body": [
+    {
+      "pl": "“tayome, bhikkhave, puggalā puggalassa bahukārā. katame tayo? ",
+      "fr": "[bhikkhu|Mendiants], ces trois personnes en font beaucoup pour une [autre] personne. Quelles sont ces trois?"
+    },
+    {
+      "pl": "yaṃ, bhikkhave, puggalaṃ āgamma puggalo buddhaṃ saraṇaṃ gato hoti, dhammaṃ saraṇaṃ gato hoti, saṅghaṃ saraṇaṃ gato hoti; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro.",
+      "fr": "La personne par laquelle une [autre] personne va en refuge au [buddha|Bouddha], va en refuge au [dhamma|Dhamma] et va en refuge à la [sangha|Communauté], cette personne, [bhikkhu|mendiants], en fait beaucoup pour une [autre] personne."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, yaṃ puggalaṃ āgamma puggalo ‘idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro.",
+      "fr": "En outre, la personne par laquelle une [autre] personne discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i], par laquelle elle discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|origine du mal-être]”[/i], par laquelle elle discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i], par laquelle elle discerne, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i], cette personne, [bhikkhu|mendiants], en fait beaucoup pour une [autre] personne."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhave, yaṃ puggalaṃ āgamma puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro.",
+      "fr": "En outre, la personne par laquelle une [autre] personne, avec la destruction des [asava|impuretés mentales], entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour elle-même par [abhinna|connaissance directe], cette personne, [bhikkhu|mendiants], en fait beaucoup pour une [autre] personne."
+    },
+    {
+      "pl": "ime kho, bhikkhave, tayo puggalā puggalassa bahukārā.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces trois personnes qui en font beaucoup pour une [autre] personne."
+    },
+    {
+      "pl": "“imehi ca pana, bhikkhave, tīhi puggalehi imassa puggalassa natthañño puggalo bahukāroti vadāmi. imesaṃ pana, bhikkhave, tiṇṇaṃ puggalānaṃ iminā puggalena na suppatikāraṃ vadāmi, yadidaṃ abhivādana-paccuṭṭhān-āñjalikamma-sāmīcikamma-cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārān-uppadānenā”ti.",
+      "fr": "[bhikkhu|Mendiants], je déclare qu'il n'y a pas d'autre personne qui en fasse plus pour une [autre] personne que ces trois personnes. Et de plus, il n'est pas facile à cette [autre] personne de retourner la faveur à ces trois personnes, c'est-à-dire par des salutations respectueuses, en se levant [par respect lorsqu'il arrive], en le saluant avec les mains jointes, en lui montrant du respect, en lui donnant des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] et des provisions pour les malades."
+    }
+  ],
+  "translator": "Rémy"
+}

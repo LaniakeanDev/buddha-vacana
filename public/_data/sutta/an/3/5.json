@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 3.5",
+  "plTitle": "Ayoniso Sutta",
+  "frTitle": "De manière inappropriée",
+  "description": "Trois caractéristiques d'un sot. Si elles se révèlent présentes, il est sans doute temps de passer votre chemin.",
+  "body": [
+    {
+      "pl": "“tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? ayoniso pañhaṃ kattā hoti, ayoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi nābbhanumoditā hoti. imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|traits] est à reconnaître comme étant un [baala|sot]. Quels sont ces trois? Il formule une question de manière inappropriée, il répond à une question de manière inappropriée, et lorsque celui répond à une question de manière appropriée avec des mots et des phrases bien choisis et cohérents, il ne l'approuve pas. [bhikkhu|Mendiants], celui qui est pourvu de ces trois [dhamma|traits] est à reconnaître comme étant un [baala|sot]."
+    },
+    {
+      "pl": "“tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. katamehi tīhi? yoniso pañhaṃ kattā hoti, yoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi abbhanumoditā hoti. imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|traits] est à reconnaître comme étant un [pandita|sage]. Quels sont ces trois? Il formule une question de manière appropriée, il répond à une question de manière appropriée, et lorsque celui répond à une question de manière appropriée avec des mots et des phrases bien choisis et cohérents, il l'approuve. [bhikkhu|Mendiants], celui qui est pourvu de ces trois [dhamma|traits] est à reconnaître comme étant un [pandita|sage]."
+    },
+    {
+      "pl": "“tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous nous déferons des trois [dhamma|états] pourvu desquels on est reconnu comme un [baala|sot], et nous entreprendrons et observerons les[dhamma|états] pourvu desquels on est reconnu comme un [pandita|sage].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

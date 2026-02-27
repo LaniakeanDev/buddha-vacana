@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 3.136",
+  "plTitle": "Uppāda Sutta",
+  "frTitle": "Apparu dans le monde",
+  "description": "Qu'un Bouddha soit ou non présent dans le monde, il y a trois propriétés immuables qui restent toujours vraies.",
+  "body": [
+    {
+      "pl": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā: sabbe saṅkhārā aniccā. Taṃ tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti: ‘sabbe saṅkhārā aniccā’ ti. ",
+      "fr": "[bhikkhu|Mendiants], qu'un [tathagata|Tathagata] soit apparu [dans le monde] ou qu'aucun [tathagata|Tathagata] ne soit apparu [dans le monde], cette loi, cette stabilité du [dhamma|Dhamma], cette fixité du [dhamma|Dhamma] restent immuables: tous les [sankhara|phénomènes construits] sont [anicca|impermanents]. Un [tathagata|Tathagata] s'y éveille et le comprend pleinement. S'y étant éveillé et l'ayant compris pleinement, il l'explique, l'enseigne, le décrit, l'établit, le met en évidence, l'explique en détail, et le clarifie: [i]“Tous les [sankhara|phénomènes construits] sont [anicca|impermanents]”.[/i]"
+    },
+    {
+      "pl": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā: sabbe saṅkhārā dukkhā. Taṃ tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti: ‘sabbe saṅkhārā dukkhā’ti.",
+      "fr": "[bhikkhu|Mendiants], qu'un [tathagata|Tathagata] soit apparu [dans le monde] ou qu'aucun [tathagata|Tathagata] ne soit apparu [dans le monde], cette loi, cette stabilité du [dhamma|Dhamma], cette fixité du [dhamma|Dhamma] restent immuables: tous les [sankhara|phénomènes construits] sont [dukkha|insatisfaisants]. Un [tathagata|Tathagata] s'y éveille et le comprend pleinement. S'y étant éveillé et l'ayant compris pleinement, il l'explique, l'enseigne, le préconise, l'établit, le met en évidence, l'explique en détail, et le clarifie: [i]“Tous les [sankhara|phénomènes construits] sont [dukkha|insatisfaisants]”.[/i]"
+    },
+    {
+      "pl": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā: sabbe dhammā anattā. Taṃ tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti paṭṭhapeti vivarati vibhajati uttānīkaroti: ‘sabbe dhammā anattā’ ti.",
+      "fr": "[bhikkhu|Mendiants], qu'un [tathagata|Tathagata] soit apparu [dans le monde] ou qu'aucun [tathagata|Tathagata] ne soit apparu [dans le monde], cette loi, cette stabilité du [dhamma|Dhamma], cette fixité du [dhamma|Dhamma] restent immuables: tous les [dhamma|phénomènes] sont [anatta|sans auteur/témoin/possesseur]. Un [tathagata|Tathagata] s'y éveille et le comprend pleinement. S'y étant éveillé et l'ayant compris pleinement, il l'explique, l'enseigne, le préconise, l'établit, le met en évidence, l'explique en détail, et le clarifie: [i]“Tous les [dhamma|phénomènes] sont [anatta|sans auteur/témoin/possesseur]”.[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "AN 3.120",
+  "plTitle": "Soceyya Sutta",
+  "frTitle": "Puretés",
+  "description": "Brièvement, les trois types de pureté.",
+  "body": [
+    {
+      "pl": "“tīṇimāni, bhikkhave, soceyyāni. katamāni tīṇi? kāyasoceyyaṃ, vacīsoceyyaṃ, manosoceyyaṃ. ",
+      "fr": "Il y a, [bhikkhu|mendiants], ces trois puretés. Quelles sont ces trois? La pureté corporelle, la pureté verbale et la pureté mentale."
+    },
+    {
+      "pl": "katamañca, bhikkhave, kāyasoceyyaṃ? idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti. idaṃ vuccati, bhikkhave, kāyasoceyyaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la pureté corporelle? À cet égard, un certain individu s'abstient de [panatipata|détruire la vie], s'abstient de [adinnadana|s'approprier ce qui n'a pas été donné], et s'abstient de se [kamesumicchacara|méconduire en raison des plaisirs sensuels]. Voici, [bhikkhu|mendiants], ce qu'on appelle la pureté corporelle."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, vacīsoceyyaṃ? idha, bhikkhave, ekacco musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti. idaṃ vuccati bhikkhave, vacīsoceyyaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la pureté verbale? À cet égard, un certain individu s'abstient de dire des [musavada|paroles fausses], s'abstient de dire des [pisunavaca|paroles médisantes], s'abstient de dire des [pharusavaca|paroles acerbes], et s'abstient de s'engager dans des [samphappalapa|bavardages infructueux]. Voici, [bhikkhu|mendiants], ce qu'on appelle la pureté verbale."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, manosoceyyaṃ? idha, bhikkhave, ekacco anabhijjhālu hoti abyāpannacitto sammādiṭṭhiko. idaṃ vuccati, bhikkhave, manosoceyyaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la pureté mentale? À cet égard, un certain individu n'est pas [abhijjha|envieux] et n'a pas un [citta|esprit] de [byapada|malveillance]. Voici, [bhikkhu|mendiants], ce qu'on appelle la pureté mentale."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, tīṇi soceyyānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces trois puretés."
+    }
+  ],
+  "translator": "Rémy"
+}

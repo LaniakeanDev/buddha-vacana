@@ -1,0 +1,97 @@
+﻿{
+  "identifier": "AN 3.71",
+  "plTitle": "Channa Sutta",
+  "frTitle": "La question de Tchanna",
+  "description": "Tchanna demande à Ananda quels sont les désavantages liés aux trois racines de ce qui est désavantageux (avidité, aversion et délusion) à cause desquels il recommande leur abandon.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho channo paribbājako yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho channo paribbājako āyasmantaṃ ānandaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [paribajja|vagabond spirituel] Tchanna vint voir le [ayasma|vénérable] Ananda et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [paribajja|vagabond spirituel] Tchanna dit au [ayasma|vénérable] Ananda:"
+    },
+    {
+      "pl": "Tumhepi, āvuso ānanda, rāgassa pahānaṃ paññāpetha, dosassa pahānaṃ paññāpetha, mohassa pahānaṃ paññāpethāti.",
+      "fr": "«Est-ce que vous aussi, [avuso|ami] Ananda, vous préconisez l'abandon de l'[raga|avidité], l'abandon de l'[dosa|aversion], et l'abandon de la [moha|délusion]?"
+    },
+    {
+      "pl": "Mayaṃ kho, āvuso, rāgassa pahānaṃ paññāpema, dosassa pahānaṃ paññāpema, mohassa pahānaṃ paññapemā ti.",
+      "fr": "— En effet, [avuso|ami], je préconise l'abandon de l'[raga|avidité], je préconise l'abandon de l'[dosa|aversion], je préconise l'abandon de la [moha|délusion]."
+    },
+    {
+      "pl": "Kiṃ pana tumhe, āvuso, rāge ādīnavaṃ disvā rāgassa pahānaṃ paññāpetha, kiṃ dose ādīnavaṃ disvā dosassa pahānaṃ paññāpetha, kiṃ mohe ādīnavaṃ disvā mohassa pahānaṃ paññāpethā ti?",
+      "fr": "— Mais, [avuso|ami], au vu de quel [adinava|désavantage] de l'[raga|avidité] est-ce que vous préconisez l'abandon de l'[raga|avidité], au vu de quel [adinava|désavantage] de l'[dosa|aversion] est-ce que vous préconisez l'abandon de l'[dosa|aversion], au vu de quel [adinava|désavantage] de la [moha|délusion] est-ce que vous préconisez l'abandon de la [moha|délusion]?"
+    },
+    {
+      "pl": "Ratto kho, āvuso, rāgena abhibhūto pariyādinnacitto attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti, cetasikampi dukkhaṃ domanassaṃ paṭisaṃvedeti; rāge pahīne nevattabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti, na cetasikaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "— Ami, celui qui est en proie à l'[raga|avidité], dont l'[citta|esprit]est dominé, sous l'emprise de l'[raga|avidité], vise à son propre préjudice, vise au préjudice des autres, vise au préjudice des deux, et il ressent du [dukkha|mal-être] mental et de la [domanassa|déplaisance mentale]. Lorsqu'il a abandonné l'[raga|avidité], il ne vise pas à son propre préjudice, il ne vise pas au préjudice des autres, il ne vise pas au préjudice des deux, et il ne ressent pas de [dukkha|mal-être] mental ni de [domanassa|déplaisance mentale]."
+    },
+    {
+      "pl": "Ratto kho, āvuso, rāgena abhibhūto pariyādinnacitto kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati; rāge pahīne neva kāyena duccaritaṃ carati, na vācāya duccaritaṃ carati, na manasā duccaritaṃ carati.",
+      "fr": "Celui qui est en proie à l'[raga|avidité], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de l'[raga|avidité],s'engage dans la[duccarita|méconduite] corporelle, s'engage dans la[duccarita|méconduite] verbale, s'engage dans la[duccarita|méconduite] mentale. Lorsqu'il a abandonné l'[raga|avidité], il ne s'engage pas dans la[duccarita|méconduite] corporelle, il ne s'engage pas dans la[duccarita|méconduite] verbale, il ne s'engage pas dans la[duccarita|méconduite] mentale."
+    },
+    {
+      "pl": "Ratto kho, āvuso, rāgena abhibhūto pariyādinnacitto attatthampi yathā·bhūtaṃ nappajānāti, paratthampi yathā·bhūtaṃ nappajānāti, ubhayatthampi yathā·bhūtaṃ nappajānāti; rāge pahīne attatthampi yathā·bhūtaṃ pajānāti, paratthampi yathā·bhūtaṃ pajānāti, ubhayatthampi yathā·bhūtaṃ pajānāti.",
+      "fr": "Celui qui est en proie à l'[raga|avidité], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de l'[raga|avidité], ne discerne pas [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux. Lorsqu'il a abandonné l'[raga|avidité], il discerne [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux."
+    },
+    {
+      "pl": "Rāgo kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko.",
+      "fr": "L'[raga|avidité], [avuso|ami], rend aveugle et sans vision, elle rend ignorant, elle fait cesser le [panna|discernement], elle participe aux contrariétés, et elle mène à la non-[nibbana|Extinction]."
+    },
+    {
+      "pl": "Duṭṭho kho āvuso dosena abhibhūto pariyādinnacitto attavyābādhāya'pi ceteti, paravyābādhāya'pi ceteti,ubhayabyābādhāyapi ceteti, cetasikampi dukkhaṃ domanassaṃ paṭisaṃvedeti; dose pahīṇe nevattavyābādhāya'pi ceteti, na paravyābādhāya'pi ceteti, na ubhayavyābādhāya'pi ceteti, na cetasikaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Ami, celui qui est en proie à l'[dosa|aversion], dont l'[citta|esprit]est dominé, sous l'emprise de l'[dosa|aversion], vise à son propre préjudice, vise au préjudice des autres, vise au préjudice des deux, et il ressent du [dukkha|mal-être] mental et de la [domanassa|déplaisance mentale]. Lorsqu'il a abandonné l'[dosa|aversion], il ne vise pas à son propre préjudice, il ne vise pas au préjudice des autres, il ne vise pas au préjudice des deux, et il ne ressent pas de [dukkha|mal-être] mental ni de [domanassa|déplaisance mentale]."
+    },
+    {
+      "pl": "Duṭṭho kho āvuso dosena abhibhūto pariyādinnacitto kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati; dose pahīṇe neva kāyena duccaritaṃ carati, na vācāya duccaritaṃ carati, na manasā duccaritaṃ carati.",
+      "fr": "Celui qui est en proie à l'[dosa|aversion], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de l'[dosa|aversion],s'engage dans la[duccarita|méconduite] corporelle, s'engage dans la[duccarita|méconduite] verbale, s'engage dans la[duccarita|méconduite] mentale. Lorsqu'il a abandonné l'[dosa|aversion], il ne s'engage pas dans la[duccarita|méconduite] corporelle, il ne s'engage pas dans la[duccarita|méconduite] verbale, il ne s'engage pas dans la[duccarita|méconduite] mentale."
+    },
+    {
+      "pl": "Duṭṭho kho āvuso dosena abhibhūto pariyādinnacitto attatthampi yathā·bhūtaṃ nappajānāti, paratthampi yathā·bhūtaṃ nappajānāti, ubhayatthampi yathā·bhūtaṃ nappajānāti; dose pahīṇe attatthampi yathā·bhūtaṃ pajānāti, paratthampi yathā·bhūtaṃ pajānāti, ubhayatthampi yathā·bhūtaṃ pajānāti.",
+      "fr": "Celui qui est en proie à l'[dosa|aversion], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de l'[dosa|aversion], ne discerne pas [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux. Lorsqu'il a abandonné l'[dosa|aversion], il discerne [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux."
+    },
+    {
+      "pl": "Doso kho āvuso andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbāṇasaṃvattaniko.",
+      "fr": "L'[dosa|aversion], [avuso|ami], rend aveugle et sans vision, elle rend ignorant, elle fait cesser le [panna|discernement], elle participe aux contrariétés, et elle mène à la non-[nibbana|Extinction]."
+    },
+    {
+      "pl": "Mūḷho kho, āvuso, mohena abhibhūto pariyādinnacitto attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti, cetasikampi dukkhaṃ domanassaṃ paṭisaṃvedeti; mohe pahīne nevattabyābādhāyapi ceteti, na parabyābādhāyapi ceteti, na ubhayabyābādhāyapi ceteti, na cetasikaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Ami, celui qui est en proie à la [moha|délusion], dont l'[citta|esprit]est dominé, sous l'emprise de la [moha|délusion], vise à son propre préjudice, vise au préjudice des autres, vise au préjudice des deux, et il ressent du [dukkha|mal-être] mental et de la [domanassa|déplaisance mentale]. Lorsqu'il a abandonné la [moha|délusion], il ne vise pas à son propre préjudice, il ne vise pas au préjudice des autres, il ne vise pas au préjudice des deux, et il ne ressent pas de [dukkha|mal-être] mental ni de [domanassa|déplaisance mentale]."
+    },
+    {
+      "pl": "Mūḷho kho, āvuso, mohena abhibhūto pariyādinnacitto kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati; mohe pahīne neva kāyena duccaritaṃ carati, na vācāya duccaritaṃ carati, na manasā duccaritaṃ carati.",
+      "fr": "Celui qui est en proie à la [moha|délusion], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de la [moha|délusion],s'engage dans la[duccarita|méconduite] corporelle, s'engage dans la[duccarita|méconduite] verbale, s'engage dans la[duccarita|méconduite] mentale. Lorsqu'il a abandonné la [moha|délusion], il ne s'engage pas dans la[duccarita|méconduite] corporelle, il ne s'engage pas dans la[duccarita|méconduite] verbale, il ne s'engage pas dans la[duccarita|méconduite] mentale."
+    },
+    {
+      "pl": "Mūḷho kho, āvuso, mohena abhibhūto pariyādinnacitto attatthampi yathā·bhūtaṃ nappajānāti, paratthampi yathā·bhūtaṃ nappajānāti, ubhayatthampi yathā·bhūtaṃ nappajānāti; mohe pahīne attatthampi yathā·bhūtaṃ pajānāti, paratthampi yathā·bhūtaṃ pajānāti, ubhayatthampi yathā·bhūtaṃ pajānāti.",
+      "fr": "Celui qui est en proie à la [moha|délusion], [avuso|ami], dont l'[citta|esprit]est dominé, sous l'emprise de la [moha|délusion], ne discerne pas [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il ne discerne pas [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux. Lorsqu'il a abandonné la [moha|délusion], il discerne [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux autres, il discerne [yathabhutam|tel que c'est réellement] ce qui est bénéfique aux deux."
+    },
+    {
+      "pl": "Moho kho, āvuso, andhakaraṇo acakkhukaraṇo aññāṇakaraṇo paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko.",
+      "fr": "La [moha|délusion], [avuso|ami], rend aveugle et sans vision, elle rend ignorant, elle fait cesser le [panna|discernement], elle participe aux contrariétés, et elle mène à la non-[nibbana|Extinction]."
+    },
+    {
+      "pl": "Idaṃ kho mayaṃ, āvuso, rāge ādīnavaṃ disvā rāgassa pahānaṃ paññāpema. Idaṃ dose ādīnavaṃ disvā dosassa pahānaṃ paññāpema. Idaṃ mohe ādīnavaṃ disvā mohassa pahānaṃ paññāpemā ti.",
+      "fr": "Ami, c'est au vu de ce [adinava|désavantage] de l'[raga|avidité] que nous préconisons l'abandon de l'[raga|avidité]. C'est au vu de ce [adinava|désavantage] de l'[dosa|aversion] que nous préconisons l'abandon de l'[dosa|aversion]. C'est au vu de ce [adinava|désavantage] de la [moha|délusion] que nous préconisons l'abandon de la [moha|délusion]."
+    },
+    {
+      "pl": "Atthi panāvuso, maggo atthi paṭipadā etassa rāgassa dosassa mohassa pahānāyā ti?",
+      "fr": "— Mais y a-t-il une [magga|voie], [avuso|ami], y a-t-il un [patipada|sentier] pour l'abandon de cette [raga|avidité], de cette [dosa|aversion], de cette [moha|délusion]?"
+    },
+    {
+      "pl": "Atthāvuso, maggo atthi paṭipadā etassa rāgassa dosassa mohassa pahānāyā ti.",
+      "fr": "— Il y a, [avuso|ami], une [magga|voie], il y a un [patipada|sentier] pour l'abandon de cette [raga|avidité], de cette [dosa|aversion], de cette [moha|délusion]."
+    },
+    {
+      "pl": "Katamo panāvuso, maggo katamā paṭipadā etassa rāgassa dosassa mohassa pahānāyā ti?",
+      "fr": "— Et quelle est, [avuso|ami], la [magga|voie], quel est le [patipada|sentier] pour l'abandon de cette [raga|avidité], de cette [dosa|aversion], de cette [moha|délusion]?"
+    },
+    {
+      "pl": "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ sammādiṭṭhi sammāsaṃkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho, āvuso, maggo ayaṃ paṭipadā etassa rāgassa dosassa mohassa pahānāyā ti.",
+      "fr": "— C'est cette [aam|noble [magga|voie] à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'[citta|esprit] correcte] et la [sammasamadhi|concentration correcte]. Voici, [avuso|ami], quelle est la [magga|voie], voici quel est le [patipada|sentier] pour l'abandon de cette [raga|avidité], de cette [dosa|aversion], de cette [moha|délusion]."
+    },
+    {
+      "pl": "Bhaddako kho, āvuso, maggo bhaddikā paṭipadā etassa rāgassa dosassa mohassa pahānāya. Alañca panāvuso ānanda, appamādāyā ti.",
+      "fr": "— Ami, la [magga|voie] est excellente, le [patipada|sentier] est excellent pour l'abandon de cette [raga|avidité], de cette [dosa|aversion], de cette [moha|délusion]. Et c'est suffisant, ami Ananda, pour l'[appamada|assiduité].»"
+    }
+  ],
+  "translator": "Rémy"
+}

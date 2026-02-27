@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "AN 3.84",
+  "plTitle": "Vajjiputta Sutta",
+  "frTitle": "L'enfant des Vajjis",
+  "description": "Un mendiant va voir le Bouddha pour lui dire que les règles du Vinaya sont trop nombreuses pour lui. Celui-ci lui explique qu'elles ne sont pas forcément une nécessité.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. atha kho aññataro vajjiputtako bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so vajjiputtako bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Ce jour-là, un certain [bhikkhu|mendiant] enfant des Vajjis alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, ce [bhikkhu|mendiant] enfant des Vajjis dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“sādhikamidaṃ, bhante, diyaḍḍhasikkhāpadasataṃ anvaddhamāsaṃ uddesaṃ āgacchati. nāhaṃ, bhante, ettha sakkomi sikkhitun”ti.",
+      "fr": "«[bhante|Bhanté], il y a plus de cent cinquante [sikkhapada|règles de l'entraînement] qui viennent en récitation chaque quinzaine. [bhante|Bhanté], je suis incapable de m'entraîner avec elles."
+    },
+    {
+      "pl": "“sakkissasi pana tvaṃ, bhikkhu, tīsu sikkhāsu sikkhituṃ: adhisīlasikkhāya, adhicittasikkhāya adhipaññāsikkhāyā”ti?",
+      "fr": "—Mendiant, est-ce que tu pourrais pourtant t'entraîner avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]?"
+    },
+    {
+      "pl": "“sakkomahaṃ, bhante, tīsu sikkhāsu sikkhituṃ: adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāyā”ti.",
+      "fr": "—[bhante|Bhanté], je peux m'entraîner avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]."
+    },
+    {
+      "pl": "“tasmātiha tvaṃ, bhikkhu, tīsu sikkhāsu sikkhassu: adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya. yato kho tvaṃ, bhikkhu, adhisīlampi sikkhissasi, adhicittampi sikkhissasi, adhipaññampi sikkhissasi, tassa tuyhaṃ bhikkhu adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyissati, doso pahīyissati, moho pahīyissati. so tvaṃ rāgassa pahānā dosassa pahānā mohassa pahānā yaṃ akusalaṃ na taṃ karissasi, yaṃ pāpaṃ na taṃ sevissasī”ti.",
+      "fr": "—Dans ce cas, [bhikkhu|mendiant], entraîne-toi avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]. Lorsque tu t'[ass|entraîneras à la vertu supérieure], que tu t'[acs|entraîneras à l'esprit supérieur], que tu t'[aps|entraîneras au discernement supérieur], en t'[ass|entraînant à la vertu supérieure], en t'[acs|entraînant à l'esprit supérieur], en t'[aps|entraînant au discernement supérieur], l'[raga|avidité] sera abandonnée, l'[dosa|aversion] sera abandonnée et a [moha|délusion] sera abandonnée. Ayant abandonné l'[raga|avidité], ayant abandonné l'[dosa|aversion], ayant abandonné a [moha|délusion], tu ne feras pas ce qui est [akusala|désavantageux] et tu n'auras pas recours à quoi que ce soit de [papaka|mauvais].»"
+    },
+    {
+      "pl": "atha kho so bhikkhu aparena samayena adhisīlampi sikkhi, adhicittampi sikkhi, adhipaññampi sikkhi. tassa adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyi, doso pahīyi, moho pahīyi. so rāgassa pahānā dosassa pahānā mohassa pahānā yaṃ akusalaṃ taṃ nākāsi, yaṃ pāpaṃ taṃ na sevīti.",
+      "fr": "Alors plus tard, ce [bhikkhu|mendiant] s'entraîna à la vertu supérieure, s'entraîna à l'esprit supérieur, s'entraîna au discernement supérieur. En s'entraînant à la vertu supérieure, en s'entraînant à l'esprit supérieur, en s'entraînant au discernement supérieur, l'[raga|avidité] fut abandonnée, l'[dosa|aversion] fut abandonnée et a [moha|délusion] fut abandonnée. Ayant abandonné l'[raga|avidité], ayant abandonné l'[dosa|aversion], ayant abandonné a [moha|délusion], il ne fit pas ce qui était [akusala|désavantageux] et il n'eut pas recours à quoi que ce soit de [papaka|mauvais]."
+    }
+  ],
+  "translator": "Rémy"
+}

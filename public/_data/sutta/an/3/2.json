@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 3.2",
+  "plTitle": "Lakkhaṇa Sutta",
+  "frTitle": "Caractérisés",
+  "description": "Nous sommes caractérisés par nos actions.",
+  "body": [
+    {
+      "pl": "“kammalakkhaṇo, bhikkhave, bālo, kammalakkhaṇo paṇḍito, apadānasobhanī paññāti. ",
+      "fr": "[bhikkhu|Mendiants], un [baala|sot] est caractérisé par ses [kamma|actions], un [pandita|sage] est caractérisé par ses [kamma|actions], et le [panna|discernement] brille dans sa manifestation."
+    },
+    {
+      "pl": "tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? kāyaduccaritena, vacīduccaritena, manoduccaritena. imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|habitudes] est à reconnaître comme un [baala|sot]. Quelles sont ces trois? La [duccarita|méconduite] corporelle, la [duccarita|méconduite] verbale et la [duccarita|méconduite] mentale. Voici, [bhikkhu|mendiants], quelles sont ces trois [dhamma|habitudes] pourvu desquelles [un individu] est à reconnaître comme un [baala|sot]."
+    },
+    {
+      "pl": "“tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. katamehi tīhi? kāyasucaritena, vacīsucaritena, manosucaritena. imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|habitudes] est à reconnaître comme un [pandita|sage]. Quelles sont ces trois? La [sucarita|bonne conduite] corporelle, la [sucarita|bonne conduite] verbale et la [sucarita|bonne conduite] mentale. Voici, [bhikkhu|mendiants], quelles sont ces trois [dhamma|habitudes] pourvu desquelles [un individu] est à reconnaître comme un [pandita|sage]."
+    },
+    {
+      "pl": "“tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous nous déferons des trois [dhamma|habitudes] pourvu desquelles on est reconnu comme un [baala|sot], et nous entreprendrons et observerons les[dhamma|habitudes] pourvu desquelles on est reconnu comme un [pandita|sage].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "translator": "Rémy"
+}

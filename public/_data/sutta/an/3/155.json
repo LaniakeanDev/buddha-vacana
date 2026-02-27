@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 3.155",
+  "plTitle": "Pubbaṇha Sutta",
+  "frTitle": "Le matin",
+  "description": "Voici comment passer une 'bonne' matinée, un 'bon' après-midi et une 'bonne' soirée.",
+  "body": [
+    {
+      "pl": "ye, bhikkhave, sattā pubbaṇhasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, supubbaṇho, bhikkhave, tesaṃ sattānaṃ. ",
+      "fr": "[bhikkhu|Mendiants], les [satta|êtres vivants] qui le matin venu s'engagent dans la [sucarita|bonne conduite] corporelle, s'engagent dans la [sucarita|bonne conduite] verbale, et s'engagent dans la [sucarita|bonne conduite] mentale, ces [satta|êtres]-là passent une “bonne” matinée."
+    },
+    {
+      "pl": "“ye, bhikkhave, sattā majjhanhikasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, sumajjhanhiko, bhikkhave, tesaṃ sattānaṃ.",
+      "fr": "[bhikkhu|Mendiants], les [satta|êtres vivants] qui l'après-midi venu s'engagent dans la [sucarita|bonne conduite] corporelle, s'engagent dans la [sucarita|bonne conduite] verbale, et s'engagent dans la [sucarita|bonne conduite] mentale, ces [satta|êtres]-là passent un “bon” après-midi."
+    },
+    {
+      "pl": "“ye, bhikkhave, sattā sāyanhasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, susāyanho, bhikkhave, tesaṃ sattānan”ti.",
+      "fr": "[bhikkhu|Mendiants], les [satta|êtres vivants] qui le soir venu s'engagent dans la [sucarita|bonne conduite] corporelle, s'engagent dans la [sucarita|bonne conduite] verbale, et s'engagent dans la [sucarita|bonne conduite] mentale, ces [satta|êtres]-là passent une “bonne” soirée."
+    }
+  ],
+  "translator": "Rémy"
+}

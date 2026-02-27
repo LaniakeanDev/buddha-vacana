@@ -17,3 +17,7 @@ Uses custom configuration - Instead of the default tsconfig.json, it uses tsconf
 The -p flag tells TypeScript to treat tsconfig.scripts.json as a project file
 
 2. Generates the real data. Maybe only this step is useful now
+
+# urls replaced in json sutta data
+
+https://fr.wikipedia.org/wiki/Ja%C3%AFnisme > url_jainism
