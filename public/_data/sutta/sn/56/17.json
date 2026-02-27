@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "SN 56.17",
+  "plTitle": "Avijjā Sutta",
+  "frTitle": "Ignorance",
+  "description": "Une définition de l'ignorance (avijjā).",
+  "body": [
+    {
+      "pl": "ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca: ",
+      "fr": "Une fois assis, le [bhikkhu|mendiant] dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘avijjā, avijjā’ti bhante, vuccati. katamā nu kho, bhante, avijjā; kittāvatā ca avijjāgato hotī”ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“[avijja|ignorance], [avijja|ignorance]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que l'[avijja|ignorance], et dans quelle mesure est-on ignorant?"
+    },
+    {
+      "pl": "“yaṃ kho, bhikkhu, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ. ayaṃ vuccati, bhikkhu, avijjā; ettāvatā ca avijjāgato hotī”ti.",
+      "fr": "—La non-[nana|connaissance] du [dukkha|mal-être], [bhikkhu|mendiant], la non-[nana|connaissance] de l'[dukkhasamudaya|origine du mal-être], la non-[nana|connaissance] de la [dukkhanirodha|cessation du mal-être] et la non-[nana|connaissance] de la [dngp|voie menant à la cessation du mal-être], voici ce qu'on appelle l'[avijja|ignorance], et voici dans quelle mesure on est ignorant."
+    },
+    {
+      "pl": "tasmātiha, bhikkhu, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiant],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "translator": "Rémy"
+}

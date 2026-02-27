@@ -1,0 +1,103 @@
+﻿{
+  "identifier": "SN 55.27",
+  "plTitle": "Anāthapiṇḍika Sutta",
+  "frTitle": "Anathapindika malade",
+  "description": "Anathapindika est malade et demande à voir Ananda, qui lui explique quatre raisons d'avoir peur ou non de la mort.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "tena kho pana samayena anāthapiṇḍiko gahapati ābādhiko hoti dukkhito bāḷhagilāno. atha kho anāthapiṇḍiko gahapati aññataraṃ purisaṃ āmantesi:",
+      "fr": "Ce jour-là, l'homme de foyer Anathapindika était en proie à la maladie, souffrant, gravement malade. Alors il s'adressa à une certaine personne:"
+    },
+    {
+      "pl": "“ehi tvaṃ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vanda: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. so āyasmato ānandassa pāde sirasā vandatī’ti. evañca vadehi: ‘sādhu kira, bhante, āyasmā ānando yena anāthapiṇḍikassa gahapatissa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.",
+      "fr": "«Va, mon cher, va voir le [ayasma|vénérable] Ananda et rends-lui hommage en mon nom en mettant ta tête à ses pieds, [et dis-lui]: [i]“[bhante|Bhanté], l'homme de foyer Anathapindika est en proie à la maladie, souffrant, gravement malade. Il rend hommage au [ayasma|vénérable] Ananda avec la tête à ses pieds.”[/i] Ensuite, dis-lui: [i]“Il serait vraiment profitable à l'homme de foyer Anathapindika, [bhante|Bhanté], que le [ayasma|vénérable] Ananda aille le visiter dans sa maison, par compassion.”[/i]"
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho so puriso anāthapiṇḍikassa gahapatissa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so puriso āyasmantaṃ ānandaṃ etadavoca:",
+      "fr": "—Bien, [bhante|Bhanté],» répondit la personne à l'homme de foyer Anathapindika, avant d'aller voir le [ayasma|vénérable] Ananda, de lui rendre hommage, puis de s'asseoir d'un côté. Une fois assis là, il dit au [ayasma|vénérable] Ananda:"
+    },
+    {
+      "pl": "“anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. so āyasmato ānandassa pāde sirasā vandati.",
+      "fr": "«[bhante|Bhanté], l'homme de foyer Anathapindika est en proie à la maladie, souffrant, gravement malade. Il rend hommage au [ayasma|vénérable] Ananda avec la tête à ses pieds.»"
+    },
+    { "pl": "evañca vadati:", "fr": "Il dit ensuite:" },
+    {
+      "pl": "‘sādhu kira, bhante, āyasmā ānando yena anāthapiṇḍikassa gahapatissa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.",
+      "fr": "«Il serait vraiment profitable à l'homme de foyer Anathapindika, [bhante|Bhanté], que le [ayasma|vénérable] Ananda aille le visiter dans sa maison, par compassion.»"
+    },
+    {
+      "pl": "adhivāsesi kho āyasmā ānando tuṇhībhāvenaadhivāsesi kho āyasmā ānando tuṇhībhāvena.",
+      "fr": "Le [ayasma|vénérable] Ananda acquiessa en silence."
+    },
+    {
+      "pl": "atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena anāthapiṇḍikassa gahapatissa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. nisajja kho āyasmā ānando anāthapiṇḍikaṃ gahapatiṃ etadavoca:",
+      "fr": "Alors le [ayasma|vénérable] Ananda s'habilla, emporta son [patta|bol] et ses [civara|robes], se rendit à la maison de l'homme de foyer Anathapindika, et s'assit sur le siège préparé. S'étant assis, il dit à l'homme de foyer Anathapindika:"
+    },
+    {
+      "pl": "“kacci te, gahapati, khamanīyaṃ, kacci yāpanīyaṃ? kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṃ paññāyati, no abhikkamo”ti?",
+      "fr": "«Est-ce que c'est supportable, homme de foyer, est-ce que tu te maintiens? Est-ce que les douleurs s'amenuisent plutôt que de s'intensifier, est-ce que c'est leur dissipation que tu discernes, plutôt que leur intensification?"
+    },
+    {
+      "pl": "“na me, bhante, khamanīyaṃ na yāpanīyaṃ. bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṃ paññāyati, no paṭikkamo”ti.",
+      "fr": "—Non, [bhante|Bhanté], ce n'est pas supportable et je ne me maintiens pas. Les douleurs sont puissantes et s'intensifient plutôt que de s'amenuiser, c'est leur intensification que je discerne, pas leur dissipation."
+    },
+    {
+      "pl": "“catūhi kho, gahapati, dhammehi samannāgatassa assutavato puthujjanassa hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ. katamehi catūhi?",
+      "fr": "—Homme de foyer, un [puthujjana|individu ordinaire] [assutava|sans instruction] pourvu de quatre [dhamma|états] est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde. Quels sont ces quatre?"
+    },
+    {
+      "pl": "idha, gahapati, assutavā puthujjano buddhe appasādena samannāgato hoti. tañca panassa buddhe appasādaṃ attani samanupassato hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "À cet égard, un [puthujjana|individu ordinaire] [assutava|sans instruction] est pourvu de méfiance envers le [buddha|Bouddha], et voyant en lui-même cette méfiance envers le [buddha|Bouddha], il est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde."
+    },
+    {
+      "pl": "puna caparaṃ, gahapati, assutavā puthujjano dhamme appasādena samannāgato hoti. tañca panassa dhamme appasādaṃ attani samanupassato hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [puthujjana|individu ordinaire] [assutava|sans instruction] est pourvu de méfiance envers le [dhamma|Dhamma], et voyant en lui-même cette méfiance envers le [dhamma|Dhamma], il est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde."
+    },
+    {
+      "pl": "“puna caparaṃ, gahapati, assutavā puthujjano saṅghe appasādena samannāgato hoti. tañca panassa saṅghe appasādaṃ attani samanupassato hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [puthujjana|individu ordinaire] [assutava|sans instruction] est pourvu de méfiance envers la [sangha|Communauté], et voyant en lui-même cette méfiance envers la [sangha|Communauté], il est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde."
+    },
+    {
+      "pl": "“puna caparaṃ, gahapati, assutavā puthujjano dussīlyena samannāgato hoti. tañca panassa dussīlyaṃ attani samanupassato hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [puthujjana|individu ordinaire] [assutava|sans instruction] manque de [sila|vertu], et voyant en lui-même ce manque de [sila|vertu], il est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde."
+    },
+    {
+      "pl": "imehi kho, gahapati, catūhi dhammehi samannāgatassa assutavato puthujjanassa hoti uttāso, hoti chambhitattaṃ, hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "Voici, homme de foyer, quels sont ces quatre [dhamma|états] pourvu desquelsun [puthujjana|individu ordinaire] [assutava|sans instruction] est effrayé, pris de panique, et a peur de la [marana|mort] et de l'autre monde."
+    },
+    {
+      "pl": "“catūhi kho, gahapati, dhammehi samannāgatassa sutavato ariyasāvakassa na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayaṃ. katamehi catūhi?",
+      "fr": "Homme de foyer, un [ariyasavaka|noble disciple] [sutava|instruit] pourvu de quatre [dhamma|états] n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde. Quels sont ces quatre?"
+    },
+    {
+      "pl": "idha, gahapati, sutavā ariyasāvako buddhe aveccappasādena samannāgato hoti: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. tañca panassa buddhe aveccappasādaṃ attani samanupassato na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "À cet égard, homme de foyer, un [ariyasavaka|noble disciple] [sutava|instruit] possède une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i] Et voyant en lui-même cette [buddheaveccappasada|confiance vérifiée dans le Bouddha], il n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde."
+    },
+    {
+      "pl": "“puna caparaṃ, gahapati, sutavā ariyasāvako dhamme aveccappasāda samannāgato hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti. tañca panassa dhamme aveccappasādaṃ attani samanupassato na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [ariyasavaka|noble disciple] [sutava|instruit] est pourvu d'une [dhammeaveccappasada|confiance vérifiée dans le Dhamma]: [i][@f_anussati#anussati-2|“Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.”][/i] Et voyant en lui-même cette [dhammeaveccappasada|confiance vérifiée dans le Dhamma], il n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde."
+    },
+    {
+      "pl": "“puna caparaṃ, gahapati, sutavā ariyasāvako saṅghe aveccappasāda samannāgato hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. tañca panassa saṅghe aveccappasādaṃ attani samanupassato na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [ariyasavaka|noble disciple] [sutava|instruit] est pourvu d'une [sangheaveccappasada|confiance vérifiée dans la Communauté]: [i][@f_anussati#anussati-3-cl|“La Communauté des disciples du Fortuné qui a bien pratiqué, la Communauté des disciples du Fortuné qui a pratiqué droitement, la Communauté des disciples du Fortuné qui a pratiqué méthodiquement, la Communauté des disciples du Fortuné qui a pratiqué adéquatement, c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.”][/i] Et voyant en lui-même cette [sangheaveccappasada|confiance vérifiée dans la Communauté], il n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde."
+    },
+    {
+      "pl": "“puna caparaṃ, gahapati, sutavā ariyasāvako ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehiviññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi’. tāni ca panassa ariyakantāni sīlāni attani samanupassato na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayaṃ.",
+      "fr": "En outre, homme de foyer, un [ariyasavaka|noble disciple] [sutava|instruit] possède des [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles], [@f_anussati#anussati-4|sans rupture, sans faille, sans tache, sans défaut, libératrices, louées par les sages, sans fanatisme, menant à la concentration.] Et voyant en lui-même ces [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles], il n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde."
+    },
+    {
+      "pl": "imehi kho, gahapati, catūhi dhammehi samannāgatassa sutavato ariyasāvakassa na hoti uttāso, na hoti chambhitattaṃ, na hoti samparāyikaṃ maraṇabhayan”ti.",
+      "fr": "Voici, homme de foyer, quels sont ces quatre [dhamma|états] pourvu desquelsun [ariyasavaka|noble disciple] [sutava|instruit] n'est pas effrayé ni pris de panique, et n'a pas peur de la [marana|mort] ni de l'autre monde."
+    },
+    {
+      "pl": "“nāhaṃ, bhante ānanda, bhāyāmi. kyāhaṃ bhāyissāmi! ahañhi, bhante, buddhe aveccappasādena samannāgato homi: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. dhamme aveccappasādena samannāgato homi: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti. saṅghe aveccappasādena samannāgato homi: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. yāni cimāni, bhante, bhagavatā gihisāmīcikāni sikkhāpadāni desitāni, nāhaṃ tesaṃ kiñci attani khaṇḍaṃ samanupassāmī”ti.",
+      "fr": "—[bhante|Bhanté] Ananda, je n'ai pas peur. Pourquoi aurais-je peur? [bhante|Bhanté], je suis pourvu d'une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i] Je suis pourvu d'une [dhammeaveccappasada|confiance vérifiée dans le Dhamma]: [i][@f_anussati#anussati-2|“Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.”][/i] Je suis pourvu d'une [sangheaveccappasada|confiance vérifiée dans la Communauté]: [i][@f_anussati#anussati-3-cl|“La Communauté des disciples du Fortuné qui a bien pratiqué, la Communauté des disciples du Fortuné qui a pratiqué droitement, la Communauté des disciples du Fortuné qui a pratiqué méthodiquement, la Communauté des disciples du Fortuné qui a pratiqué adéquatement, c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.”][/i] Et en ce qui concerne les [sikkhapada|règles de l'entraînement] professées par le [bhagava|Fortuné] pour les maîtres de foyer, je ne vois en moi aucune rupture."
+    },
+    {
+      "pl": "“lābhā te, gahapati, suladdhaṃ te, gahapati! sotāpattiphalaṃ tayā, gahapati, byākatan”ti.",
+      "fr": "—Vraiment, c'est un gain pour toi, homme de foyer! Vraiment, c'est un bénéfice pour toi. Homme de foyer, tu viens de déclarer le fruit de l'[sotapatti|entrée dans le courant]!»"
+    }
+  ],
+  "translator": "Rémy"
+}

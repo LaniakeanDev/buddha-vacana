@@ -1,0 +1,63 @@
+﻿{
+  "identifier": "SN 54.6",
+  "plTitle": "Ariṭṭha Sutta ",
+  "frTitle": "Le vénérable Arittha",
+  "description": "Arittha explique sa manière personnelle de pratiquer la présence de l'esprit sur la respiration, et le Bouddha lui explique comment la pratique est complétée en détail.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    { "pl": "tatra kho bhagavā ... etadavoca:", "fr": "Là (…) le [bhagava|Fortuné] dit:" },
+    {
+      "pl": "“bhāvetha no tumhe bhikkhave, ānāpānassatin”ti?",
+      "fr": "«[bhikkhu|Mendiants], est-ce que vous cultivez la [anapanassati|présence de l'esprit sur la respiration]?»"
+    },
+    {
+      "pl": "evaṃ vutte āyasmā ariṭṭho bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le [ayasma|vénérable] Arittha dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“ahaṃ kho, bhante, bhāvemi ānāpānassatin”ti.",
+      "fr": "«[bhante|Bhanté], je cultive la [anapanassati|présence de l'esprit sur la respiration]."
+    },
+    {
+      "pl": "“yathā kathaṃ pana tvaṃ, ariṭṭha, bhāvesi ānāpānassatin”ti?",
+      "fr": "—Et comment, Arittha, cultives-tu la [anapanassati|présence de l'esprit sur la respiration]?"
+    },
+    {
+      "pl": "“atītesu me, bhante, kāmesu kāmacchando pahīno, anāgatesu me kāmesu kāmacchando vigato, ajjhattabahiddhā ca me dhammesu paṭighasaññā suppaṭivinītā, so satova assasissāmi, satova passasissāmi. evaṃ khvāhaṃ, bhante, bhāvemi ānāpānassatin”ti.",
+      "fr": "—[bhante|Bhanté], ayant abandonné le [kamacchanda|désir sensuel] envers les [kama|plaisirs sensuels] appartenant au passé, ayant supprimé le [kamacchanda|désir sensuel] envers les [kama|plaisirs sensuels] appartenant au futur, et avec la [sanna|perception] d'[patigha|aversion] envers les [dhamma|phénomènes] intérieurs & extérieurs entièrement dissipée, j'inspire en étant [sati|présent d'esprit], j'expire en étant [sati|présent d'esprit]. Voici, [bhante|Bhanté], comment je cultive la [anapanassati|présence de l'esprit sur la respiration]."
+    },
+    {
+      "pl": "“‘atthesā, ariṭṭha, ānāpānassati, nesā natthī’ti vadāmi. api ca, ariṭṭha, yathā ānāpānassati vitthārena paripuṇṇā hoti taṃ suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+      "fr": "—C'est bien la [anapanassati|présence de l'esprit sur la respiration], Arittha, je ne dis pas que ça ne l'est pas. Mais en ce qui concerne la manière dont la [anapanassati|présence de l'esprit sur la respiration] est complétée en détail, écoute cela et fais bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho āyasmā ariṭṭho bhagavato paccassosi. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté]», répondit le [ayasma|vénérable] Arittha. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“kathañca, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hoti? idha, ariṭṭha, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+      "fr": "«Et comment, Arittha, la [anapanassati|présence de l'esprit sur la respiration] est-elle complétée en détail? À cet égard, Arittha, un [bhikkhu|mendiant], [@f_anapana#1-cl|s'étant rendu dans la forêt, au pied d'un arbre ou dans un local vide, s'assoit jambes croisées, maintenant [son] corps droit, et mettant en place [sa] présence d'esprit entre le nez et la bouche.]"
+    },
+    {
+      "pl": "so satova assasati, satova passasati. dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti; rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti; ‘sabbakāyappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#2-cl|Étant ainsi présent d'esprit, il inspire, étant ainsi présent d'esprit, il expire; lorsqu'il inspire profondément, il discerne: [i]«j'inspire profondément»;[/i] lorsqu'il expire profondément, il discerne: [i]«j'expire profondément»;[/i] lorsqu'il inspire superficiellement, il discerne: [i]«j'inspire superficiellement»;[/i] lorsqu'il expire superficiellement, il discerne: [i]«j'expire superficiellement».[/i]] [@f_anapana#3-cl|Il s'entraîne: [i]«je vais inspirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions corporelles»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions corporelles».[/i]]"
+    },
+    {
+      "pl": "‘pītippaṭisaṃvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṃvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṃvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ cittasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ cittasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#4-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions de l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘cittappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṃvedī passasissāmī’ti sikkhati; ‘abhippamodayaṃ cittaṃ assasissāmī’ti sikkhati, ‘abhippamodayaṃ cittaṃ passasissāmī’ti sikkhati; ‘samādahaṃ cittaṃ assasissāmī’ti sikkhati, ‘samādahaṃ cittaṃ passasissāmī’ti sikkhati; ‘vimocayaṃ cittaṃ assasissāmī’ti sikkhati, ‘vimocayaṃ cittaṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#5-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en délivrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en délivrant l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘aniccānupassī assasissāmī’ti sikkhati, ‘aniccānupassī passasissāmī’ti sikkhati; ‘virāgānupassī assasissāmī’ti sikkhati, ‘virāgānupassī passasissāmī’ti sikkhati; ‘nirodhānupassī assasissāmī’ti sikkhati, ‘nirodhānupassī passasissāmī’ti sikkhati; ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.",
+      "fr": "[@f_anapana#6-cl|Il s'entraîne: [i]«je vais inspirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais expirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais expirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la renonciation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la renonciation».[/i]] Voici, Ānanda, ce qu'on appelle la [anapanassati|présence de l'esprit sur la respiration]."
+    },
+    {
+      "pl": "evaṃ kho, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hotī”ti.",
+      "fr": "Voici, Arittha, comment la [anapanassati|présence de l'esprit sur la respiration] est complétée en détail.»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

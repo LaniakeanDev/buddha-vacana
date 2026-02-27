@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "SN 52.10",
+  "plTitle": "Bāḷhagilāna Sutta ",
+  "frTitle": "Gravement malade",
+  "description": "Anourouddha explique brièvement comment il fait pour ne pas laisser les douleurs dues à sa maladie envahir et obséder son esprit.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ āyasmā anuruddho sāvatthiyaṃ viharati andhavanasmiṃ ābādhiko dukkhito bāḷhagilāno. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ anuruddhaṃ etadavocuṃ:",
+      "fr": "Un jour, le [ayasma|vénérable] Anourouddha séjournait près de Savatthi, dans le bois sombre, en proie à la maladie, souffrant, gravement malade. Ce jour-là, un certain nombre de [bhikkhu|mendiants] vinrent le voir; s'étant approchés, ils lui dirent:"
+    },
+    {
+      "pl": "Katamenāyasmato anuruddhassa vihārena viharato uppannā sārīrikā dukkhā vedanā cittaṃ na pariyādāya tiṭṭhantī ti?",
+      "fr": "— Dans quel séjour [de l'esprit] le [ayasma|vénérable] Anourouddha réside-t-il afin que les [vedana|ressentis] corporels [dukkha|douloureux] ayant fait surface n'envahissent pas son [citta|esprit] et ne s'y installent pas?"
+    },
+    {
+      "pl": "Catūsu kho me, āvuso, satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṃ na pariyādāya tiṭṭhanti. Katamesu catūsu?",
+      "fr": "— Amis, c'est parce que je reste avec mon [citta|esprit] bien établi dans les quatre [satipatthana|mises en place de la présence d'esprit] que les [vedana|ressentis] corporels [dukkha|douloureux] ayant fait surface n'envahissent pas mon [citta|esprit] et ne s'y installent pas. Quels sont ces quatre?"
+    },
+    {
+      "pl": "Idhāhaṃ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+      "fr": "À cet égard, amis, [@f_stp#kaya|je reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana|je reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta|je reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma|je reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "Imesu kho me, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṃ na pariyādāya tiṭṭhantī ti.",
+      "fr": "C'est parce que je reste avec mon [citta|esprit] bien établi dans ces quatre [satipatthana|mises en place de la présence d'esprit] que les [vedana|ressentis] corporels [dukkha|douloureux] ayant fait surface n'envahissent pas mon [citta|esprit] et ne s'y installent pas."
+    }
+  ],
+  "translator": "Rémy"
+}

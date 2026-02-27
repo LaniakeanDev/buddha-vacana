@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "SN 56.18",
+  "plTitle": "Vijjā Sutta",
+  "frTitle": "Connaissance correcte",
+  "description": "Une définition de la connaissance véritable (vijjā).",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca: ",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, ce [bhikkhu|mendiant] dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘vijjā, vijjā’ti, bhante, vuccati. katamā nu kho, bhante, vijjā; kittāvatā ca vijjāgato hotī”ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“[vijja|connaissance véritable], [vijja|connaissance véritable]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que la [avijja|connaissance véritable], et dans quelle mesure est-on arrivé à la [vijja|connaissance véritable]?"
+    },
+    {
+      "pl": "“yaṃ kho, bhikkhu, dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ. ayaṃ vuccati, bhikkhu, vijjā; ettāvatā ca vijjāgato hotī”ti.",
+      "fr": "—La [nana|connaissance] du [dukkha|mal-être], [bhikkhu|mendiant], la [nana|connaissance] de l'[dukkhasamudaya|origine du mal-être], la [nana|connaissance] de la [dukkhanirodha|cessation du mal-être] et la [nana|connaissance] de la [dngp|voie menant à la cessation du mal-être], voici ce qu'on appelle la [vijja|connaissance véritable], et voici dans quelle mesure on est arrivé à la [vijja|connaissance véritable]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhu, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiant],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "translator": "Rémy"
+}

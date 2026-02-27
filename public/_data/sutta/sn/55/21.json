@@ -1,0 +1,34 @@
+﻿{
+  "identifier": "SN 55.21",
+  "plTitle": "Mahānāma Sutta",
+  "frTitle": "Mahānamā le Sakya",
+  "description": "Le Bouddha délivre un message rassurant à l'un de ses disciples, et lui explique qu'au moment de la mort, c'est l'état d'esprit qui a été cultivé tout au long de la vie qui constitue la force directrice, et non l'état de confusion qui peut éventuellement la précéder.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Sakyas, près de Kapilavatthou, dans le parc de Nigrodha. Ce jour-là, Mahanama le Sakya vint voir [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idaṃ, bhante, kapilavatthu iddhañceva phītañca bāhujaññaṃ ākiṇṇamanussaṃ sambādhabyūhaṃ. so khvāhaṃ, bhante, bhagavantaṃ vā payirupāsitvā manobhāvanīye vā bhikkhū sāyanhasamayaṃ kapilavatthuṃ pavisanto; bhantenapi hatthinā samāgacchāmi; bhantenapi assena samāgacchāmi; bhantenapi rathena samāgacchāmi; bhantenapi sakaṭena samāgacchāmi; bhantenapi purisena samāgacchāmi. tassa mayhaṃ, bhante, tasmiṃ samaye mussateva bhagavantaṃ ārabbha sati, mussati dhammaṃ ārabbha sati, mussati saṅghaṃ ārabbha sati. tassa mayhaṃ, bhante, evaṃ hoti — ‘imamhi cāhaṃ samaye kālaṃ kareyyaṃ, kā mayhaṃ gati, ko abhisamparāyo’”ti?",
+      "fr": "«Cette ville de Kapilavatthou, [bhante|Bhanté], est riche et prospère, peuplée et remplie de gens, et ses rues sont encombrées. Parfois, [bhante|Bhanté], lorsque j'y entre le soir, après être allé visiter le [bhagava|Fortuné], ou des [bhikkhu|mendiants] dignes de respect, je croise un éléphant qui fait une embardée, ou bien je croise un cheval qui fait une embardée, ou une charrette qui fait une embardée, ou un chariot qui fait une embardée, ou bien je croise une personne qui fait une embardée. En ces moments-là, [bhante|Bhanté], ma [sati|présence d'esprit] envers le [bhagava|Fortuné] est oubliée, ma [sati|présence d'esprit] envers le [dhamma|Dhamma] est oubliée et ma [sati|présence d'esprit] envers la [sangha|Communauté] est oubliée. Alors, [bhante|Bhanté], je me dis: [i]“Si je devais trépasser maintenant, quelle serait ma destination, quelle serait ma condition future?”[/i]"
+    },
+    {
+      "pl": "“mā bhāyi, mahānāma, mā bhāyi, mahānāma! apāpakaṃ te maraṇaṃ bhavissati apāpikā kālaṃkiriyā. yassa kassaci, mahānāma, dīgharattaṃ saddhāparibhāvitaṃ cittaṃ sīlaparibhāvitaṃ cittaṃ sutaparibhāvitaṃ cittaṃ cāgaparibhāvitaṃ cittaṃ paññāparibhāvitaṃ cittaṃ, tassa yo hi khvāyaṃ kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādana-parimaddana-bhedana-viddhaṃsana-dhammo, taṃ idheva kākā vā khādanti gijjhā vā khādanti kulalā vā khādanti sunakhā vā khādanti siṅgālā vā khādanti vividhā vā pāṇakajātā khādanti; yañca khvassa cittaṃ dīgharattaṃ saddhāparibhāvitaṃ cittaṃ sīlaparibhāvitaṃ cittaṃ sutaparibhāvitaṃ cittaṃ cāgaparibhāvitaṃ cittaṃ paññāparibhāvitaṃ taṃ uddhagāmi hoti visesagāmi.",
+      "fr": "—N'aie crainte, Mahānāma, n'aie crainte. Ta [marana|mort] ne sera pas [papaka|mauvaise], ton trépas ne sera pas [papaka|mauvais]. Lorsque pendant longtemps l'esprit a été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement], alors ce corps, qui est est physique, composé des quatre grands éléments, produit par mère et père, qui se nourrit de riz et de gruau, qui est par nature sujet à l'[anicca|impermanence], à l'abrasion, au frottement, au démembrement, à la destruction, est dévoré par les corbeaux, par les vautours, par les charognards, par les chiens, par les chacals et par diverses autres créatures, mais l'esprit qui a pendant longtemps été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement] s'élève et atteint la distinction."
+    },
+    {
+      "pl": "“seyyathāpi, mahānāma, puriso sappikumbhaṃ vā telakumbhaṃ vā gambhīraṃ udakarahadaṃ ogāhitvā bhindeyya: tatra yā assa sakkharā vā kaṭhalā vā sā adhogāmī assa, yañca khvassa tatra sappi vā telaṃ vā taṃ uddhagāmi assa visesagāmi.",
+      "fr": "C'est tout comme, Mahanama, si un homme jetait une jarre contenant du ghee (beurre clarifié) ou une jarre contenant de l'huile dans une étendue d'eau profonde puis la brisait: les tessons ou morceaux couleraient, tandis que le ghee ou l'huile s'élèveraient et atteindraient la surface."
+    },
+    {
+      "pl": "evameva kho, mahānāma, yassa kassaci dīgharattaṃ saddhāparibhāvitaṃ cittaṃ sīlaparibhāvitaṃ cittaṃ sutaparibhāvitaṃ cittaṃ cāgaparibhāvitaṃ cittaṃ paññāparibhāvitaṃ cittaṃ tassa yo hi khvāyaṃ kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādana-parimaddana-bhedana-viddhaṃsana-dhammo taṃ idheva kākā vā khādanti gijjhā vā khādanti kulalā vā khādanti sunakhā vā khādanti siṅgālā vā khādanti vividhā vā pāṇakajātā khādanti; yañca khvassa cittaṃ dīgharattaṃ saddhāparibhāvitaṃ cittaṃ sīlaparibhāvitaṃ cittaṃ sutaparibhāvitaṃ cittaṃ cāgaparibhāvitaṃ cittaṃ paññāparibhāvitaṃ taṃ uddhagāmi hoti visesagāmi.",
+      "fr": "De la même manière, Mahanama, lorsque pendant longtemps l'esprit a été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement], alors ce corps, qui est est physique, composé des quatre grands éléments, produit par mère et père, qui se nourrit de riz et de gruau, qui est par nature sujet à l'[anicca|impermanence], à l'abrasion, au frottement, au démembrement, à la destruction, est dévoré par les corbeaux, par les vautours, par les charognards, par les chiens, par les chacals et par diverses autres créatures, mais l'esprit qui a pendant longtemps été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement] s'élève et atteint la distinction."
+    },
+    {
+      "pl": "tuyhaṃ kho pana, mahānāma, dīgharattaṃ saddhāparibhāvitaṃ cittaṃ sīlaparibhāvitaṃ cittaṃ sutaparibhāvitaṃ cittaṃ cāgaparibhāvitaṃ cittaṃ paññāparibhāvitaṃ cittaṃ. mā bhāyi, mahānāma, mā bhāyi, mahānāma! apāpakaṃ te maraṇaṃ bhavissati, apāpikā kālaṃkiriyā”ti.",
+      "fr": "Mahanama, ton esprit a pendant longtemps été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement]. N'aie crainte, Mahānāma, n'aie crainte. Ta [marana|mort] ne sera pas [papaka|mauvaise], ton trépas ne sera pas [papaka|mauvais].»"
+    }
+  ],
+  "translator": "Rémy"
+}

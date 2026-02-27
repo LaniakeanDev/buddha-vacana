@@ -1,0 +1,70 @@
+﻿{
+  "identifier": "SN 51.15",
+  "plTitle": "Uṇṇābhabrāhmaṇa Sutta ",
+  "frTitle": "La question du brahmane Ounnabha",
+  "description": "Le brahmane Ounnabha demande à Ananda quel est le but de la vie brahmique enseignée par le Bouddha. La conversation dérive ensuite sur la possibilité d'utiliser le désir pour mettre fin au désir.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. atha kho uṇṇābho brāhmaṇo yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho uṇṇābho brāhmaṇo āyasmantaṃ ānandaṃ etadavoca:",
+      "fr": "Un jour, le [ayasma|vénérable] Ananda séjournait près de Kossambi, dans le parc de Ghosita. Ce jour-là, le [brahmana|brahmane] Ounnabha alla voir le [ayasma|vénérable] Ananda et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Une fois assis là, il dit au [ayasma|vénérable] Ananda:"
+    },
+    {
+      "pl": "— “kimatthiyaṃ nu kho, bho ānanda, samaṇe gotame brahmacariyaṃ vussatī”ti?",
+      "fr": "—Dans quel but, [bho|Honorable] Ananda, la [brahmacariya|vie brahmique] est-elle vécue sous [l'autorité du] [samana|renonçant] Gotama?"
+    },
+    {
+      "pl": "“chandappahānatthaṃ kho, brāhmaṇa, bhagavati brahmacariyaṃ vussatī”ti.",
+      "fr": "—C'est dans le but d'abandonner le [chanda|désir], [brahmana|brahmane], que la [brahmacariya|vie brahmique] est vécue sous [l'autorité du][samana|renonçant] Gotama."
+    },
+    {
+      "pl": "“atthi pana, bho ānanda, maggo atthi paṭipadā etassa chandassa pahānāyā”ti?",
+      "fr": "—Mais y a-t-il une [magga|voie], [bho|Honorable] Ananda, y a-t-il un [patipada|sentier] pour l'abandon de ce [chanda|désir]?"
+    },
+    {
+      "pl": "“atthi kho, brāhmaṇa, maggo atthi paṭipadā etassa chandassa pahānāyā”ti.",
+      "fr": "—Il y a, [brahmana|brahmane], une [magga|voie], il y a un [patipada|sentier] pour l'abandon de ce [chanda|désir]."
+    },
+    {
+      "pl": "“katamo pana, bho ānanda, maggo katamā paṭipadā etassa chandassa pahānāyā”ti?",
+      "fr": "—Et quelle est, [bho|Honorable] Ananda, la [magga|voie], quel est le [patipada|sentier] pour l'abandon de ce [chanda|désir]?"
+    },
+    {
+      "pl": "“idha, brāhmaṇa, bhikkhu chanda·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, vīriya·samādhi-ppadhāna·saṅkhāra-samannāgataṃiddhipādaṃ bhāveti, citta·samādhi-ppadhāna·saṅkhāra-samannāgataṃiddhipādaṃ bhāveti, vīmaṃsā·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti. ayaṃ kho, brāhmaṇa, maggo ayaṃ paṭipadā etassa chandassa pahānāyā”ti.",
+      "fr": "—À cet égard, [brahmana|brahmane], un mendiant développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due au[chanda|désir] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'[viriya|énergie] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'[citta|esprit] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'investigation et aux [sankhara|constructions] d'[padhana|effort]. Voici, [brahmana|brahmane], quelle est la [magga|voie], voici quel est le [patipada|sentier] pour l'abandon de ce [chanda|désir]."
+    },
+    {
+      "pl": "“evaṃ sante, bho ānanda, anantakaṃ hoti no santakaṃ. chandeneva chandaṃ pajahissatīti, netaṃ ṭhānaṃ vijjati”.",
+      "fr": "—S'il en est ainsi, [bho|Honorable] Ananda, alors c'est sans fin, cela n'a pas de fin. Il est impossible d'abandonner le [chanda|désir] au moyen du [chanda|désir]."
+    },
+    {
+      "pl": "“tena hi, brāhmaṇa, taññevettha paṭipucchissāmi. yathā te khameyya tathā taṃ byākareyyāsi. taṃ kiṃ maññasi, brāhmaṇa, ahosi te pubbe chando ‘ārāmaṃ gamissāmī’ti? tassa te ārāmagatassa yo tajjo chando so paṭippassaddho”ti?",
+      "fr": "—Pour cela, [brahmana|brahmane], je vais vous questionner en retour. Répondez comme bon vous semble. Qu'en pensez-vous: avez-vous eu auparavant le [chanda|désir] de vous rendre au monastère? Et lorsque vous êtes arrivé au monastère, ce [chanda|désir] n'a-t-il pas disparu?"
+    },
+    { "pl": "“evaṃ, bho”.", "fr": "—En effet, [bho|Honorable]." },
+    {
+      "pl": "“ahosi te pubbe vīriyaṃ ‘ārāmaṃ gamissāmī’ti? tassa te ārāmagatassa yaṃ tajjaṃ vīriyaṃ taṃ paṭippassaddhan”ti?",
+      "fr": "—Avez-vous eu auparavant l'[viriya|énergie] pour vous rendre au monastère? Et lorsque vous êtes arrivé au monastère, cette [viriya|énergie] n'a-t-elle pas disparu?"
+    },
+    { "pl": "“evaṃ, bho”.", "fr": "—En effet, [bho|Honorable]." },
+    {
+      "pl": "“ahosi te pubbe cittaṃ ‘ārāmaṃ gamissāmī’ti? tassa te ārāmagatassa yaṃ tajjaṃ cittaṃ taṃ paṭippassaddhan”ti?",
+      "fr": "—Avez-vous eu auparavant l'[état d'][citta|esprit] pour vous rendre au monastère? Et lorsque vous êtes arrivé au monastère, cet [état d'][citta|esprit] n'a-t-il pas disparu?"
+    },
+    { "pl": "“evaṃ, bho”.", "fr": "—En effet, [bho|Honorable]." },
+    {
+      "pl": "“ahosi te pubbe vīmaṃsā ‘ārāmaṃ gamissāmī’ti? tassa te ārāmagatassa yā tajjā vīmaṃsā sā paṭippassaddhā”ti?",
+      "fr": "—Avez-vous fait auparavant une investigation [du chemin] pour vous rendre au monastère? Et lorsque vous êtes arrivé au monastère, cette investigation n'a-t-elle pas disparu?"
+    },
+    { "pl": "“evaṃ, bho”.", "fr": "—En effet, [bho|Honorable]." },
+    {
+      "pl": "“evameva kho, brāhmaṇa, yo so bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto, tassa yo pubbe chando ahosi arahattappattiyā, arahattappatte yo tajjo chando so paṭippassaddho; yaṃ pubbe vīriyaṃ ahosi arahattappattiyā, arahattappatte yaṃ tajjaṃ vīriyaṃ taṃ paṭippassaddhaṃ; yaṃ pubbe cittaṃ ahosi arahattappattiyā, arahattappatte yaṃ tajjaṃ cittaṃ taṃ paṭippassaddhaṃ; yā pubbe vīmaṃsā ahosi arahattappattiyā, arahattappatte yā tajjā vīmaṃsā sā paṭippassaddhā. taṃ kiṃ maññasi, brāhmaṇa, iti evaṃ sante, santakaṃ vā hoti no asantakaṃ vā”ti?",
+      "fr": "—De la même manière, [brahmana|brahmane], chez un [bhikkhu|mendiant] qui est un [arahant|Méritant], qui a complètement éliminé les [asava|impuretés mentales], qui est accompli, qui a fait ce qui devait l'être, qui a déposé le fardeau, qui a atteint l'objectif, qui a complètement épuisé les [samyojana|entraves spirituelles] de l'[bhava|existence], et qui est délivré par connaissance correcte, le [chanda|désir] qu'il a eu auparavant de devenir un [arahant|Méritant] a disparu lorsqu'il est devenu un [arahant|Méritant]; l'[viriya|énergie] qu'il a eu auparavant pour devenir un [arahant|Méritant] a disparu lorsqu'il est devenu un [arahant|Méritant]; l'[état d'][citta|esprit] qu'il a eu auparavant pour devenir un [arahant|Méritant] a disparu lorsqu'il est devenu un [arahant|Méritant]; l'investigation [du chemin] qu'il a menée auparavant pour devenir un [arahant|Méritant] a disparu lorsqu'il est devenu un [arahant|Méritant]. Qu'en pensez-vous, [brahmana|brahmane], puisqu'il en est ainsi, est-ce que cela a une fin, ou est-ce que cela est sans fin?"
+    },
+    {
+      "pl": "“addhā, bho ānanda, evaṃ sante, santakaṃ hoti no asantakaṃ. abhikkantaṃ, bho ānanda, abhikkantaṃ, bho ānanda! seyyathāpi, bho ānanda, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya cakkhumanto rūpāni dakkhantīti; evamevaṃ bhotā ānandena anekapariyāyena dhammo pakāsito. esāhaṃ, bho ānanda, taṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhavaṃ ānando dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "—Certainement, [bho|Honorable] Ananda, s'il en est ainsi, cela a une fin, ce n'est pas sans fin. C'est excellent, [bho|Honorable] Ananda, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou bien on montrerait le chemin à quelqu'un qui se serait perdu, ou bien on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Ananda a expliqué le [dhamma|Dhamma] de diverses façons. Je vais en refuge au vénérable Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le vénérable Ananda me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

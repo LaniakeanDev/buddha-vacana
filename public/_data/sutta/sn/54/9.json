@@ -1,0 +1,86 @@
+﻿{
+  "identifier": "SN 54.9",
+  "plTitle": "Vesālī Sutta ",
+  "frTitle": "À Vessali",
+  "description": "Dans ce soutta, les mendiants de Vessali reçoivent un enseignement sur la pratique du répugnant (asubha), et tandis que le Bouddha s'est isolé, ils cherchent à mourir.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. tena kho pana samayena bhagavā bhikkhūnaṃ anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsati. atha kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Ce jour-là, il parla de diverses manières aux [bhikkhu|mendiants] au sujet du [asubha|répugnant], il fit l'éloge du [asubha|répugnant], il fit l'éloge de la pratique du [asubha|répugnant]. Ensuite, il s'adressa aux [bhikkhu|mendiants] ainsi:"
+    },
+    {
+      "pl": "“icchāmahaṃ, bhikkhave, aḍḍhamāsaṃ paṭisallīyituṃ. nāmhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.",
+      "fr": "«Mendiants, je souhaite m'isoler pendant quinze jours. Que personne ne vienne me voir, mis à part celui qui m'apportera de la [pindapata|nourriture d'aumônes]."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissutvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena.",
+      "fr": "—Oui, [bhante|Bhanté]», répondirent les [bhikkhu|mendiants], et personne n'alla voir le [bhagava|Fortuné], mis à part celui qui lui apportait de la [pindapata|nourriture d'aumônes]."
+    },
+    {
+      "pl": "atha kho te bhikkhū: “bhagavā anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsatī”ti anekākāravokāraṃ asubhabhāvanānuyogamanuyuttā viharanti. te iminā kāyena aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṃ pariyesanti. dasapi bhikkhū ekāhena satthaṃ āharanti, vīsampi bhikkhū ekāhena satthaṃ āharanti, tiṃsampi bhikkhū ekāhena satthaṃ āharanti.",
+      "fr": "Alors ces [bhikkhu|mendiants] se dirent: [i]«Le [bhagava|Fortuné] a parlé de diverses manières au sujet du [asubha|répugnant], il a fait l'éloge du [asubha|répugnant], il a fait l'éloge de la pratique du [asubha|répugnant]»[/i], et ils demeurèrent voués à la pratique du [asubha|répugnant] de diverses manières mélangées. Se trouvant affligés par ce [kaya|corps], honteux, dégoûtés, ils se mirent en quête de quelqu'un armé d'un couteau. En un jour, dix [bhikkhu|mendiants] firent usage du couteau; en un jour, vingt [bhikkhu|mendiants] firent usage du couteau; en un jour, trente [bhikkhu|mendiants] firent usage du couteau."
+    },
+    {
+      "pl": "atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito āyasmantaṃ ānandaṃ āmantesi:",
+      "fr": "À la fin de ces quinze jours, le [bhagava|Fortuné] sortit de l'[patisallana|isolement] et s'adressa au [ayasma|vénérable] Ananda:"
+    },
+    {
+      "pl": "“kiṃ nu kho, ānanda, tanubhūto viya bhikkhusaṅgho”ti?",
+      "fr": "«Ananda, pourquoi la [sangha|communauté] des [bhikkhu|mendiants] est-elle si diminuée?"
+    },
+    {
+      "pl": "“tathā hi pana, bhante, ‘bhagavā bhikkhūnaṃ anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsatī’ti anekākāravokāraṃ asubhabhāvanānuyogamanuyuttā viharanti. te iminā kāyena aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṃ pariyesanti. dasapi bhikkhū ekāhena satthaṃ āharanti, vīsampi bhikkhū ekāhena satthaṃ āharanti, tiṃsampi bhikkhū ekāhena satthaṃ āharanti. sādhu, bhante, bhagavā aññaṃ pariyāyaṃ ācikkhatu yathāyaṃ bhikkhusaṅgho aññāya saṇṭhaheyyā”ti.",
+      "fr": "—[bhante|Bhanté], ils se sont dit: [i]“Le [bhagava|Fortuné] a parlé aux [bhikkhu|mendiants] de diverses manières au sujet du [asubha|répugnant], il a fait l'éloge du [asubha|répugnant], il a fait l'éloge de la pratique du [asubha|répugnant]”[/i], et ils sont restés voués à la pratique du [asubha|répugnant] de diverses manières mélangées. Se trouvant affligés par ce [kaya|corps], honteux, dégoûtés, ils se sont mis en quête de quelqu'un armé d'un couteau. En un jour, dix [bhikkhu|mendiants] on fait usage du couteau; en un jour, vingt [bhikkhu|mendiants] on fait usage du couteau; en un jour, trente [bhikkhu|mendiants] on fait usage du couteau. Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] fasse un autre exposé grâce auquel la communauté des [bhikkhu|mendiants] s'établirait dans la [anna|connaissance finale]."
+    },
+    {
+      "pl": "“tenahānanda, yāvatikā bhikkhū vesāliṃ upanissāya viharanti te sabbe upaṭṭhānasālāyaṃ sannipātehī”ti.",
+      "fr": "—Dans ce cas, Ananda, réunis tous les [bhikkhu|mendiants] qui vivent en dépendance vis-à-vis de Vessali dans la salle d'assemblée."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho āyasmā ānando bhagavato paṭissutvā yāvatikā bhikkhū vesāliṃ upanissāya viharanti te sabbe upaṭṭhānasālāyaṃ sannipātetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté]», répondit le [ayasma|vénérable] Ananda au [bhagava|Fortuné]. Puis, ayant réuni tous les [bhikkhu|mendiants] qui vivaient en dépendance vis-à-vis de Vessali dans la salle d'assemblée, il vint voir le [bhagava|Fortuné], et lui dit:"
+    },
+    {
+      "pl": "“sannipatito, bhante, bhikkhusaṅgho. yassa dāni, bhante, bhagavā kālaṃ maññatī”ti.",
+      "fr": "«[bhante|Bhanté], la [sangha|communauté] des [bhikkhu|mendiants] est rassemblée. Il est maintenant temps de faire comme vous le souhaitez, [bhante|Bhanté].»"
+    },
+    {
+      "pl": "atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. nisajja kho bhagavā bhikkhū āmantesi:",
+      "fr": "Alors le [bhagava|Fortuné] se rendit à la salle d'assemblée, s'assit sur le siège préparé et s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti”.",
+      "fr": "«[bhikkhu|Mendiants], cette [samadhi|concentration] au moyen de la [anapanassati|présence de l'esprit sur la respiration], lorsqu'elle est développée et cultivée abondamment, est paisible, sublime, satisfaisante, c'est un séjour [sukha|agréable], elle dissipe et fait disparaître les [dhamma|états] [akusala|désavantageux] et [papaka|malsains] lorsqu'ils apparaissent."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, gimhānaṃ pacchime māse ūhataṃ rajojallaṃ, tamenaṃ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti; evameva kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti. kathaṃ bhāvito ca, bhikkhave, ānāpānassatisamādhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti?",
+      "fr": "Tout comme, [bhikkhu|mendiants], durant le dernier mois d'été, un grand nuage de pluie hors saison dissipe et fait disparaître [un nuage de] poussière soulevée, de la même manière, cette [samadhi|concentration] au moyen de la [anapanassati|présence de l'esprit sur la respiration], lorsqu'elle est développée et cultivée abondamment, est paisible, sublime, satisfaisante, c'est un séjour [sukha|agréable], elle dissipe et fait disparaître les [dhamma|états] [akusala|désavantageux] et [papaka|malsains] lorsqu'ils apparaissent. Et comment, [bhikkhu|mendiants], la [samadhi|concentration] au moyen de la [anapanassati|présence de l'esprit sur la respiration] est-elle développée et cultivée abondamment de manière à être paisible, sublime, satisfaisante, à être un séjour [sukha|agréable], à dissiper et faire disparaître les [dhamma|états] [akusala|désavantageux] et [papaka|malsains] lorsqu'ils apparaissent?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+      "fr": "À cet égard, un [bhikkhu|mendiant], [@f_anapana#1-cl|s'étant rendu dans la forêt, au pied d'un arbre ou dans un local vide, s'assoit jambes croisées, maintenant [son] corps droit, et mettant en place [sa] présence d'esprit entre le nez et la bouche.]"
+    },
+    {
+      "pl": "so satova assasati, satova passasati. dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti; rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti; ‘sabbakāyappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#2-cl|Étant ainsi présent d'esprit, il inspire, étant ainsi présent d'esprit, il expire; lorsqu'il inspire profondément, il discerne: [i]«j'inspire profondément»;[/i] lorsqu'il expire profondément, il discerne: [i]«j'expire profondément»;[/i] lorsqu'il inspire superficiellement, il discerne: [i]«j'inspire superficiellement»;[/i] lorsqu'il expire superficiellement, il discerne: [i]«j'expire superficiellement».[/i]] [@f_anapana#3-cl|Il s'entraîne: [i]«je vais inspirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions corporelles»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions corporelles».[/i]]"
+    },
+    {
+      "pl": "‘pītippaṭisaṃvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṃvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṃvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ cittasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ cittasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#4-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions de l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘cittappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṃvedī passasissāmī’ti sikkhati; ‘abhippamodayaṃ cittaṃ assasissāmī’ti sikkhati, ‘abhippamodayaṃ cittaṃ passasissāmī’ti sikkhati; ‘samādahaṃ cittaṃ assasissāmī’ti sikkhati, ‘samādahaṃ cittaṃ passasissāmī’ti sikkhati; ‘vimocayaṃ cittaṃ assasissāmī’ti sikkhati, ‘vimocayaṃ cittaṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#5-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en délivrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en délivrant l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘aniccānupassī assasissāmī’ti sikkhati, ‘aniccānupassī passasissāmī’ti sikkhati; ‘virāgānupassī assasissāmī’ti sikkhati, ‘virāgānupassī passasissāmī’ti sikkhati; ‘nirodhānupassī assasissāmī’ti sikkhati, ‘nirodhānupassī passasissāmī’ti sikkhati; ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.",
+      "fr": "[@f_anapana#6-cl|Il s'entraîne: [i]«je vais inspirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais expirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais expirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la renonciation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la renonciation».[/i]] Voici, Ānanda, ce qu'on appelle la [anapanassati|présence de l'esprit sur la respiration]."
+    },
+    {
+      "pl": "evaṃ bhāvito kho, bhikkhave, ānāpānassatisamādhi evaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], comment la [anapanassati|présence de l'esprit sur la respiration] est développée et cultivée abondamment de manière à être paisible, sublime, satisfaisante, à être un séjour [sukha|agréable], à dissiper et faire disparaître les [dhamma|états] [akusala|désavantageux] et [papaka|malsains] lorsqu'ils apparaissent.»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

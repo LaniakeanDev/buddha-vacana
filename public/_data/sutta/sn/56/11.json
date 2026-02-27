@@ -1,0 +1,85 @@
+﻿{
+  "identifier": "SN 56.11",
+  "plTitle": "Dhammacakkappavattana Sutta",
+  "frTitle": "La mise en mouvement de la roue du Dhamma",
+  "description": "Le tout premier discours donné par le Bouddha. Il s'adresse à ses cinq anciens compagnons ascétiques. Il y formule succinctement l'essence de son enseignement.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Bénarès, à Isipitana, dans le parc aux daims. Là, le [bhagava|Fortuné] s'adressa au groupe de cinq [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“dveme, bhikkhave, antā pabbajitena na sevitabbā. katame dve? yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito. ete kho, bhikkhave, ubho ante anupagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati”.",
+      "fr": "«[bhikkhu|Mendiants], ces deux extrêmes ne devraient pas être poursuivis par ceux qui ont [pabbajja|quitté le foyer]. Quels sont ces deux? La poursuite du [sukha|bien-être] sensuel dans la [kama|sensualité], qui est inférieure, vulgaire, qui est typique des [puthujjana|gens ordinaires], ig·[ariya|noble] et non [@m_atthasamhita|profitable], et la poursuite de la mortification de [atta|soi], qui est [dukkha|douloureuse], ig·[ariya|noble] et non [@m_atthasamhita|profitable]. Évitant ces deux extrêmes, [bhikkhu|mendiants], la [majjhimapatipada|voie médiane] à laquelle le [tathagata|Tathagata] s'est pleinement éveillé, qui apporte la [cakkhu|vision] et la [nana|connaissance], mène à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], et à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“katamā ca sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati? ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. ayaṃ kho sā, bhikkhave, majjhimā paṭipadā tathāgatena abhisambuddhā cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], cette [majjhimapatipada|voie médiane] à laquelle le [tathagata|Tathagata] s'est pleinement éveillé, qui apporte la [cakkhu|vision] et la [nana|connaissance], et mène à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]? C'est cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte], et la [sammasamadhi|concentration correcte]. Voici, [bhikkhu|mendiants], quelle est cette [majjhimapatipada|voie médiane] à laquelle le [tathagata|Tathagata] s'est pleinement éveillé, qui apporte la [cakkhu|vision] et la [nana|connaissance], et mène à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“idaṃ kho pana, bhikkhave, dukkhaṃ ariyasaccaṃ: jātipi dukkhā, jarāpi dukkhā, byādhipi dukkho, maraṇampi dukkhaṃ, appiyehi sampayogo dukkho, piyehi vippayogo dukkho, yampicchaṃ na labhati tampi dukkhaṃ, saṃkhittena pañcupādānakkhandhā dukkhā.",
+      "fr": "De plus, [bhikkhu|mendiants], voici la [ariyasacca|noble vérité] du [dukkha|mal-être]: la naissance est [dukkha|mal-être], le vieillissement est [dukkha|mal-être], la maladie est [dukkha|mal-être], la mort est [dukkha|mal-être], l'association à ce qui est désagréable est [dukkha|mal-être], la séparation d'avec ce qui est agréable est [dukkha|mal-être], ne pas obtenir ce qu'on désire est [dukkha|mal-être]; en bref, les cinq [upadanakkhandha|accumulations d'attachement] sont [dukkha|mal-être]."
+    },
+    {
+      "pl": "idaṃ kho pana, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ: yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ kāmataṇhā, bhavataṇhā, vibhavataṇhā.",
+      "fr": "De plus, [bhikkhu|mendiants], voici la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être]: c'est cette[tanha|Soif] menant à la continuation de l'[bhava|existence], liée à la complaisance et l'[raga|avidité], se complaisant ici et là, c'est-à-dire la [kamatanha|Soif de sensualité], la [bhavatanha|Soif d'existence], la [vibhavatanha|Soif de non-existence]."
+    },
+    {
+      "pl": "idaṃ kho pana, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ: yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.",
+      "fr": "De plus, [bhikkhu|mendiants], voici la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être]: c'est la [viraga|disparition] complète & [nirodha|cessation] de cette même[tanha|Soif], son renoncement, la renonciation à son égard, ainsi que la délivrance et le détachement par rapport à elle."
+    },
+    {
+      "pl": "idaṃ kho pana, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ: ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.",
+      "fr": "De plus, [bhikkhu|mendiants], voici la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]: c'est cette [aam|noble voie à huit composantes], c'est-à-direla [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte], et la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "“‘idaṃ dukkhaṃ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññeyyan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhaṃ ariyasaccaṃ pariññātan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.",
+      "fr": "[bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Voici la [ariyasacca|noble vérité] du [dukkha|mal-être].”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] du [dukkha|mal-être] est à comprendre pleinement.”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] du [dukkha|mal-être] a été pleinement comprise.”[/i]"
+    },
+    {
+      "pl": "“‘idaṃ dukkhasamudayaṃ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahātabban’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhasamudayaṃ ariyasaccaṃ pahīnan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.",
+      "fr": "[bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Voici la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être].”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être] est à abandonner.”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être] a été abandonnée.”[/i]"
+    },
+    {
+      "pl": "“‘idaṃ dukkhanirodhaṃ ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikātabban’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhanirodhaṃ ariyasaccaṃ sacchikatan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.",
+      "fr": "[bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Voici la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être].”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être] est à atteindre.”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être] a été atteinte.”[/i]"
+    },
+    {
+      "pl": "“‘idaṃ dukkhanirodhagāminī paṭipadā ariyasaccan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvetabban’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘taṃ kho panidaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ bhāvitan’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.",
+      "fr": "[bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Voici la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être].”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être] est à cultiver.”[/i] [bhikkhu|Mendiants], en rapport à des choses non apprises auparavant, la [cakkhu|vision] apparut, la [nana|connaissance] apparut, le [panna|discernement] apparut, la [vijja|véritable connaissance] apparut, la [aloka|lumière] apparut en moi: [i]“Cette [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être] a été cultivée.”[/i]"
+    },
+    {
+      "pl": "“yāvakīvañca me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ na suvisuddhaṃ ahosi, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ.",
+      "fr": "[bhikkhu|Mendiants], aussi longtemps que ma [nanadassana|connaissance & vision] de ces quatre [ariyasacca|nobles vérités] [yathabhutam|telles qu'elles sont réellement] dans leurs trois phases et leurs douze aspects n'était pas bien purifiée de cette manière, je n'ai pas déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]."
+    },
+    {
+      "pl": "“yato ca kho me, bhikkhave, imesu catūsu ariyasaccesu evaṃ tiparivaṭṭaṃ dvādasākāraṃ yathābhūtaṃ ñāṇadassanaṃ suvisuddhaṃ ahosi, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. ñāṇañca pana me dassanaṃ udapādi: ‘akuppā me vimutti, ayamantimā jāti, natthidāni punabbhavo’”ti.",
+      "fr": "Mais lorsque, [bhikkhu|mendiants], ma [nanadassana|connaissance & vision] de ces quatre [ariyasacca|nobles vérités] [yathabhutam|telles qu'elles sont réellement] dans leurs trois phases et leurs douze aspects était bien purifiée de cette manière, j'ai déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]. La [nanadassana|connaissance & vision] apparut en moi: [i]“La [vimutti|libération de mon esprit] est inébranlable, ceci est ma dernière [jati|naissance], maintenant il n'y aura plus d'[bhava|existence] supplémentaire.”[/i]»"
+    },
+    {
+      "pl": "idamavoca bhagavā. attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ravi, le groupe de cinq [bhikkhu|mendiants] approuva les paroles du [bhagava|Fortuné]."
+    },
+    {
+      "pl": "imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi: “yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhamman”ti.",
+      "fr": "Et pendant que cet exposé avait été prononcé, l'[dhammacakkhu|œil du Dhamma], immaculé et sans tache, apparut chez le [ayasma|vénérable] Koṇḍañña: [i]“Tout ce qui est [dhamma|par nature sujet] à l'apparition est [dhamma|par nature voué] à la [nirodha|cessation].”[/i]"
+    },
+    {
+      "pl": "pavattite ca pana bhagavatā dhammacakke bhummā devā... cātumahārājikā devā... tāvatiṃsā devā ...yāmā devā ...tusitā devā ... nimmānaratī devā ... paranimmitavasavattī devā ... brahmakāyikā devā saddamanussāvesuṃ: “etaṃ bhagavatā bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmin”ti. itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchi. ayañca dasasahassilokadhātu saṅkampi sampakampi sampavedhi, appamāṇo ca uḷāro obhāso loke pāturahosi atikkamma devānaṃ devānubhāvanti.",
+      "fr": "Et lorsque la roue du [dhamma|Dhamma] fut mise en mouvement par le [bhagava|Fortuné], les [deva|dévas] terrestres (…) les [deva|dévas] des [catumaharajika|quatre Mahārājas] (…) de [tavatimsa|Tavatimsa] (…) de [yaama|Yama] (…) de [tusita|Toussita] (…) les [deva|dévas] [nimmanarati|qui se plaisent à créer] (…) [parinimmitavasavatti|qui contrôlent les créations des autres] (…) [brahmakayika|de l'entourage de Brahma] firent entendre la clameur: [i]“Près de Bénarès à Isipatana dans le parc au daims, cette suprême roue du [dhamma|Dhamma] a été mise en mouvement par le [bhagava|Fortuné], et elle ne peut être arrêtée par aucun [samana|renonçant] ni [brahmana|brahmane] ni [deva|déva] ni [mara|Mara] ni [brahma|Brahma], ni qui que ce soit dans le [loka|monde].”[/i] Ainsi, à ce moment-là, à cet instant-là, la clameur atteignit le [loka|monde] de [brahma|Brahma]. Et cet ensemble-[loka|monde] de dix mille systèmes vibra, trembla, frémit, et une sublime lueur surpassant la majesté des [deva|dévas] apparut dans le [loka|monde]."
+    },
+    {
+      "pl": "atha kho bhagavā imaṃ udānaṃ udānesi:",
+      "fr": "Alors le [bhagava|Fortuné] exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“aññāsi vata, bho, koṇḍañño, aññāsi vata, bho, koṇḍañño”ti!",
+      "fr": "«Koṇḍañña a compris! Koṇḍañña a compris!»"
+    },
+    {
+      "pl": "iti hidaṃ āyasmato koṇḍaññassa ‘aññāsikoṇḍañño’ tveva nāmaṃ ahosīti.",
+      "fr": "C'est ainsi que le [ayasma|vénérable] Koṇḍañña en vint à être appelé [i]“Koṇḍañña qui a compris.”[/i]"
+    }
+  ],
+  "translator": "Rémy"
+}

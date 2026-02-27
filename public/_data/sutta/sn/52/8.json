@@ -1,0 +1,36 @@
+﻿{
+  "identifier": "SN 52.8",
+  "plTitle": "Salaḷāgāra Sutta ",
+  "frTitle": "Discours à Salalagara",
+  "description": "Voici pourquoi il est impossible de faire fléchir certains mendiants en espérant les faire retourner à la vie ordinaire.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā anuruddho sāvatthiyaṃ viharati salaḷāgāre. tatra kho āyasmā anuruddho bhikkhū āmantesi:",
+      "fr": "Un jour, le [ayasma|vénérable] Anourouddha séjournait près de Savatthi, à Salalagara. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“āvuso bhikkhavo”ti.", "fr": "— [avuso|Amis] [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso”ti kho te bhikkhū āyasmato anuruddhassa paccassosuṃ. āyasmā anuruddho etadavoca:",
+      "fr": "— [avuso|Ami], répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Anourouddha. Ce dernier leur dit:"
+    },
+    {
+      "pl": "— “seyyathāpi, āvuso, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. atha mahājanakāyo āgaccheyya kuddālapiṭakaṃ ādāya: ‘mayaṃ imaṃ gaṅgānadiṃ pacchāninnaṃ karissāma pacchāpoṇaṃ pacchāpabbhāran’ti. taṃ kiṃ maññathāvuso, api nu so mahājanakāyo gaṅgānadiṃ pacchāninnaṃ kareyya pacchāpoṇaṃ pacchāpabbhāran”ti?",
+      "fr": "— [avuso|Amis], c'est tout comme le fleuve Gange, qui s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Imaginez qu'une grande foule arrive en apportant des pelles et des paniers [et en disant]: [i]“Nous allons faire s'incliner ce fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest.”[/i] Qu'en pensez-vous, mes [avuso|amis]: est-ce que cette grande foule parviendrait à faire s'incliner le fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“gaṅgā, bhante, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. sā na sukarā pacchāninnaṃ kātuṃ pacchāpoṇaṃ pacchāpabbhāraṃ. yāvadeva pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti.",
+      "fr": "—[bhante|Bhanté], le fleuve Gange s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Il n'est pas facile de le faire s'incliner vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest. Cette grande foule ne rencontrerait que fatigue et contrariété."
+    },
+    {
+      "pl": "“evameva kho, āvuso, bhikkhuṃ cattāro satipaṭṭhāne bhāventaṃ cattāro satipaṭṭhāne bahulīkarontaṃ rājāno vā rājamahāmattā vā mittā vā amaccā vā ñātī vā sālohitā vā bhogehi abhihaṭṭhuṃ pavāreyyuṃ: ‘ehambho purisa, kiṃ te ime kāsāvā anudahanti? kiṃ muṇḍo kapālamanusañcarasi? ehi hīnāyāvattitvā bhoge ca bhuñjassu puññāni ca karohī’”ti. “so vata, āvuso, bhikkhu cattāro satipaṭṭhāne bhāvento cattāro satipaṭṭhāne bahulīkaronto sikkhaṃ paccakkhāya hīnāyāvattissatīti netaṃ ṭhānaṃ vijjati. taṃ kissa hetu? yañhi taṃ, āvuso, cittaṃ dīgharattaṃ vivekaninnaṃ vivekapoṇaṃ vivekapabbhāraṃ taṃ vata hīnāyāvattissatīti netaṃ ṭhānaṃ vijjati.",
+      "fr": "— De la même manière, mes [avuso|amis], lorsqu'un mendiant développe les quatre [satipatthana|mises en place de la présence d'esprit], qu'il cultive les quatre [satipatthana|mises en place de la présence d'esprit], même si les rois ou leurs ministres, ses amis ou ses collègues, ses proches ou ses parents apportent des richesses et l'invitent: [i]“Venez, mon cher, pourquoi laisser ces robes vous consumer? Pourquoi errer le crâne rasé avec un bol d'aumônes? Venez, retournez à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]!”[/i] vraiment, mes [avuso|amis], il est impossible qu'un mendiant développant les quatre [satipatthana|mises en place de la présence d'esprit], cultivant les quatre [satipatthana|mises en place de la présence d'esprit], abandonne l'[sikkha|entraînement] et retourne à la vie inférieure. Et quelle en est la raison? Parce que lorsque son [citta|esprit] est incliné à la [viveka|solitude], infléchi vers la [viveka|solitude], tendant à la [viveka|solitude] depuis longtemps, il est impossible qu'il abandonne l'[sikkha|entraînement] et retourne à la vie inférieure."
+    },
+    {
+      "pl": "kathañcāvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotīti? idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. evaṃ kho, āvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotī”ti.",
+      "fr": "Et comment, mes [avuso|amis], un mendiant développe-t-il les quatre [satipatthana|mises en place de la présence d'esprit], cultive-t-il les quatre [satipatthana|mises en place de la présence d'esprit]? À cet égard, mes [avuso|amis], [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Voici, mes [avuso|amis], comment un [bhikkhu|mendiant] développe les quatre [satipatthana|mises en place de la présence d'esprit], comment il cultive les quatre [satipatthana|mises en place de la présence d'esprit]."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}
