@@ -1,0 +1,71 @@
+﻿{
+  "identifier": "SN 24.7",
+  "plTitle": "Hetu Sutta",
+  "frTitle": "La cause",
+  "description": "L'origine du déni des causes des actions dans les cinq accumulations d'attachement.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati — ‘natthi hetu, natthi paccayo sattānaṃ saṃkilesāya. ahetū appaccayā sattā saṃkilissanti. natthi hetu, natthi paccayo sattānaṃ visuddhiyā. ahetū appaccayā sattā visujjhanti. natthi balaṃ natthi vīriyaṃ natthi purisathāmo natthi purisaparakkamo. sabbe sattā sabbe pāṇā sabbe bhūtā sabbe jīvā avasā abalā avīriyā niyatisaṅgatibhāvapariṇatā chasvevābhijātīsu sukhadukkhaṃ paṭisaṃvedentī’””ti?",
+      "fr": "«[bhikkhu|Mendiants], qu'est-ce qui, quand c'est présent et qu'on s'y attache, qu'on y adhère, une telle vue apparaît: [i]“Il n'y a aucune cause, aucune condition nécessaire, pour souiller les êtres. Les êtres sont souillés sans cause, sans condition nécessaire. Il n'y a ni cause, ni condition nécessaire, pour la purification des êtres. Les êtres sont purifiés sans cause, sans condition nécessaire. Il n'y a ni force, ni effort, ni énergie humaine, ni entreprise humaine. Tous les êtres vivants, toute la vie, tous les êtres, toutes les âmes sont impuissants, privés de force, dépourvus d'effort.”[/i]?"
+    },
+    {
+      "pl": "bhagavaṃmūlakā no, bhante, dhammā … pe …",
+      "fr": "—Pour nous, [bhante|Bhanté], le [dhamma|Dhamma] est enraciné dans le [bhagava|Fortuné], il est guidé par le [bhagava|Fortuné], il est protégé par le [bhagava|Fortuné]. Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront (…)"
+    },
+    {
+      "pl": "“rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati — ‘natthi hetu … pe … paṭisaṃvedentī’’ti. vedanāya sati … pe … saññāya sati . saṅkhāresu sati. viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati — ‘natthi hetu … pe … paṭisaṃvedentī’””ti.",
+      "fr": "—[bhikkhu|Mendiants], c'est lorsque la [rupa|Forme] est présente, et qu'on s'attache à la [rupa|Forme], qu'on adhère à la [rupa|Forme], qu'une telle vue apparaît: [i]“Il n'y a aucune cause (…) dépourvus d'effort.”[/i]. C'est lorsque le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience] est présente, et qu'on s'attache à la [vinnana|Conscience], qu'on adhère à la [vinnana|Conscience], qu'une telle vue apparaît: [i]“Il n'y a aucune cause (…) dépourvus d'effort.”[/i]"
+    },
+    {
+      "pl": "“taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā””ti?",
+      "fr": "Qu'en pensez-vous, [bhikkhu|mendiants]: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
+    },
+    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi hetu … pe … paṭisaṃvedentī’””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a aucune cause (…) dépourvus d'effort.”[/i]?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“vedanā … pe … saññā … pe … saṅkhārā … pe … viññāṇaṃ niccaṃ vā aniccaṃ vā””ti?",
+      "fr": "—Le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
+    },
+    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi hetu … pe … paṭisaṃvedentī’””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a aucune cause (…) dépourvus d'effort.”[/i]?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā””ti?",
+      "fr": "—Ce qui est vu, entendu, senti, appréhendé, atteint, recherché, ou pensé par le [mana|mental], est-ce permanent ou [anicca|impermanent]?"
+    },
+    { "pl": "“aniccaṃ, bhante”.", "fr": "—C'est impermanent, [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi hetu … pe … paṭisaṃvedentī’””ti?",
+      "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a aucune cause (…) dépourvus d'effort.”[/i]?"
+    },
+    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti — ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.",
+      "fr": "—[bhikkhu|Mendiants], lorsqu'un [ariyasavaka|noble disciple] a abandonné les doutes par rapport à ces six thèmes, qu'il a abandonné les doutes par rapport au [dukkha|mal-être], qu'il a abandonné les doutes par rapport à l'[dukkhasamudaya|origine du mal-être],qu'il a abandonné les doutes par rapport à la [dukkhanirodha|cessation du mal-être],qu'il a abandonné les doutes par rapport à la [dngp|voie menant à la cessation du mal-être], on dit de lui qu'il est un [ariyasavaka|noble disciple] [sotapanna|parvenu-au-courant], délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil].»"
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "SN 22.39",
+  "plTitle": "Anudhamma Sutta",
+  "frTitle": "Au niveau des phénomènes",
+  "description": "Ce soutta explique ce que signifie l'expression 'pratiquer l'Enseignement au niveau des phénomènes' que l'on retrouve dans la description des facteurs d'entrée dans le courant (sotāpatti).",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“dhammānudhammappaṭipannassa, bhikkhave, bhikkhuno ayamanudhammo hoti: yaṃ rūpe nibbidābahulo vihareyya, vedanāya nibbidābahulo vihareyya, saññā nibbidābahulo vihareyya, saṅkhāresu nibbidābahulo vihareyya, viññāṇe nibbidābahulo vihareyya.",
+      "fr": "[bhikkhu|Mendiants], pour un [bhikkhu|mendiant] [dadp|pratiquant l'Enseignement au niveau des phénomènes], voici ce qui est au niveau des [dhamma|phénomènes]: il devrait rester avec un intense [nibbida|désenchantement] envers la [rupa|Forme], avec un intense [nibbida|désenchantement] envers le [vedana|Ressenti], avec un intense [nibbida|désenchantement] envers la [sanna|Perception], avec un intense [nibbida|désenchantement] envers les [sankhara|Constructions], avec un intense [nibbida|désenchantement] envers la [vinnana|Conscience]."
+    },
+    {
+      "pl": "yo rūpe nibbidābahulo viharanto, vedanāya nibbidābahulo viharanto, saññāya nibbidābahulo viharanto, saṅkhāresu nibbidābahulo viharanto, viññāṇe nibbidābahulo viharanto rūpaṃ parijānāti, vedanaṃ parijānāti, saññaṃ parijānāti, saṅkhāre parijānāti, viññāṇaṃ parijānāti.",
+      "fr": "Celui qui reste avec un intense [nibbida|désenchantement] envers la [rupa|Forme], avec un intense [nibbida|désenchantement] envers le [vedana|Ressenti], avec un intense [nibbida|désenchantement] envers la [sanna|Perception], avec un intense [nibbida|désenchantement] envers les [sankhara|Constructions], avec un intense [nibbida|désenchantement] envers la [vinnana|Conscience] comprend complètement la [rupa|Forme], comprend complètement le [vedana|Ressenti], comprend complètement la [sanna|Perception], comprend complètement les [sankhara|Constructions], comprend complètement la [vinnana|Conscience]."
+    },
+    {
+      "pl": "so rūpaṃ parijānaṃ, vedanaṃ parijānaṃ, saññaṃ parijānaṃ, saṅkhāre parijānaṃ, viññāṇaṃ parijānaṃ parimuccati rūpamhā, parimuccati vedanā, parimuccati saññāya, parimuccati saṅkhārehi, parimuccati viññāṇamhā, parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccati dukkhasmāti vadāmī”ti.",
+      "fr": "Celui qui comprend complètement la [rupa|Forme], qui comprend complètement le [vedana|Ressenti], qui comprend complètement la [sanna|Perception], qui comprend complètement les [sankhara|Constructions], qui comprend complètement la [vinnana|Conscience] est complètement délivré de la [rupa|Forme], est complètement délivré du [vedana|Ressenti], est complètement délivré de la [sanna|Perception], est complètement délivré des [sankhara|Constructions], est complètement délivré de la [vinnana|Conscience], il est complètement délivré de la [jati|naissance], du [jaramarana|vieillissement-et-mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse], et je déclare qu'il est complètement délivré du [dukkha|mal-être]."
+    }
+  ],
+  "translator": "Rémy"
+}

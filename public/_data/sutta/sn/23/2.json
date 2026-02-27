@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 23.2",
+  "plTitle": "Satta Sutta",
+  "frTitle": "Un être",
+  "description": "Radha demande au Bouddha ce qu'est un être (satto) et comme c'est souvent le cas, celui-ci propose une définition basée sur un jeu de mot, ici avec satto en tant que participe passé du verbe sajjati (être attaché).",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Radha alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“‘satto, satto’’ti, bhante, vuccati. kittāvatā nu kho, bhante, sattoti vuccatī””ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“Un [satta|être], un [satta|être]”[/i]. Dans quelle mesure, [bhante|Bhanté], parle-t-on d'un [satta|être]?"
+    },
+    {
+      "pl": "“rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā sattoti vuccati. vedanāya. saññāya. saṅkhāresu. viññāṇe yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā sattoti vuccati”.",
+      "fr": "—Radha, il est pris [satto], épris [visatto] par le [chanda|désir], l'[raga|avidité], la jouissance et la [tanha|Soif] de [rupa|Forme], c'est pourquoi on l'appelle un [satta|être] [satto]. Il est pris, épris par le [chanda|désir], l'[raga|avidité], la jouissance et la [tanha|Soif] de [vedana|Ressenti] (…) de [sanna|Perception] (…) de [sankhara|Constructions] (…) de [vinnana|Conscience], c'est pourquoi on l'appelle un [satta|être]."
+    },
+    {
+      "pl": "“seyyathāpi, rādha, kumārakā vā kumārikāyo vā paṃsvāgārakehi kīḷanti. yāvakīvañca tesu paṃsvāgārakesu avigatarāgā honti avigatacchandā avigatapemā avigatapipāsā avigatapariḷāhā avigatataṇhā, tāva tāni paṃsvāgārakāni allīyanti keḷāyanti dhanāyanti mamāyanti. yato ca kho, rādha, kumārakā vā kumārikāyo vā tesu paṃsvāgārakesu vigatarāgā honti vigatacchandā vigatapemā vigatapipāsā vigatapariḷāhā vigatataṇhā, atha kho tāni paṃsvāgārakāni hatthehi ca pādehi ca vikiranti vidhamanti viddhaṃsenti vikīḷaniyaṃ karonti.",
+      "fr": "C'est tout comme les jeunes garçons ou les jeunes filles qui s'amusent avec des maisons miniatures en terre. Tant que leur [raga|avidité], leur [chanda|désir], leur emballement, leur engouement, leur enthousiasme, leur [tanha|Soif] envers ces maisons miniatures en terre n'a pas disparu, ils les affectionnent, ils s'en éprennent, ils les estiment et ils les chérissent. Mais lorsque leur [raga|avidité], leur [chanda|désir], leur emballement, leur engouement, leur enthousiasme, leur [tanha|Soif] envers ces maisons miniatures en terre a disparu, alors ils les démolissent avec les mains et les pieds, les détruisent, les abattent et s'en débarrassent."
+    },
+    {
+      "pl": "evameva kho, rādha, tumhepi rūpaṃ vikiratha vidhamatha viddhaṃsetha vikīḷaniyaṃ karotha taṇhākkhayāya paṭipajjatha. vedanaṃ vikiratha vidhamatha viddhaṃsetha vikīḷaniyaṃ karotha taṇhākkhayāya paṭipajjatha. saññaṃ. saṅkhāre vikiratha vidhamatha viddhaṃsetha vikīḷaniyaṃ karotha taṇhākkhayāya paṭipajjatha. viññāṇaṃ vikiratha vidhamatha viddhaṃsetha vikīḷaniyaṃ karotha taṇhākkhayāya paṭipajjatha. taṇhākkhayo hi, rādha, nibbānan””ti.",
+      "fr": "De la même manière, Radha, toi aussi démolis, détruis, abats et débarrasse-toi de la[rupa|Forme] et pratique la destruction de la [tanha|Soif]. Démolis, détruis, abats et débarrasse-toi du [vedana|Ressenti] (…) de la [sanna|Perception] (…) des [sankhara|Constructions] (…) de la [vinnana|Conscience] et pratique la destruction de la [tanha|Soif]. Radha, la destruction de la [tanha|Soif], c'est l'[nibbana|Extinction].»"
+    }
+  ],
+  "translator": "Sekha"
+}

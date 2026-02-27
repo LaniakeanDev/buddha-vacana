@@ -1,0 +1,51 @@
+﻿{
+  "identifier": "SN 21.4",
+  "plTitle": "Nava Sutta",
+  "frTitle": "Le Nouveau",
+  "description": "Un groupe de [bhikkhu|mendiants] va se plaindre au Bouddha parce qu'un nouveau reste dans son coin et ne les aide pas. La réponse du Bouddha n'est probablement pas celle qu'ils attendaient.",
+  "body": [
+    { "pl": "sāvatthiyaṃ viharati.", "fr": "À Savatthi." },
+    {
+      "pl": "tena kho pana samayena aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati; na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye. atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ",
+      "fr": "Ce jour-là, un certain nouveau mendiant, de retour de sa [pindapata|quête de nourriture d'aumônes], après son repas, entrait dans son logement et y demeurait tranquille dans son coin, silencieux, si bien qu'il ne rendait pas service aux [bhikkhu|mendiants] au moment de fabriquer des [civara|robes]. Alors un certain nombre de [bhikkhu|mendiants] approchèrent le [bhagava|Fortuné]. S'étant approchés, ayant salué le [bhagava|Fortuné] respectueusement, ils s'assirent d'un côté. Une fois assis d'un côté, ces [bhikkhu|mendiants] dirent au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idha, bhante aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati, na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye”ti.",
+      "fr": "— [bhante|Bhanté], il y a un certain nouveau mendiant qui, de retour de sa [pindapata|quête de nourriture d'aumônes], après son repas, entre dans son logement et y demeure tranquille dans son coin, silencieux, si bien qu'il ne rend pas service aux [bhikkhu|mendiants] au moment de fabriquer des [civara|robes]."
+    },
+    {
+      "pl": "atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi:",
+      "fr": "Alors le [bhagava|Fortuné] s'adressa à un certain bhikkhu:"
+    },
+    {
+      "pl": "“ehi tvaṃ, bhikkhu. mama vacanena taṃ bhikkhuṃ āmantehi ‘satthā taṃ, āvuso, āmantetī’”ti.",
+      "fr": "— Viens, mendiant. Vas dire en mon nom à ce mendiant: 'Mon ami, l'Enseignant t'appelle.'"
+    },
+    {
+      "pl": "“evaṃ bhante”ti kho so bhikkhu bhagavato paṭissutvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté], répondit le mendiant, et il approcha le mendiant en question. S'étant approché, il lui dit:"
+    },
+    { "pl": "“satthā taṃ, āvuso, āmantetī”ti.", "fr": "— Mon ami, l'Enseignant t'appelle." },
+    {
+      "pl": "“evamāvuso”ti kho so bhikkhu tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho taṃ bhikkhuṃ bhagavā etadavoca:",
+      "fr": "— Bien, mon ami, lui répondit le mendiant, et il vint voir le [bhagava|Fortuné]; s'étant approché, ayant salué le [bhagava|Fortuné] respectueusement, il s'assit d'un côté. Une fois assis d'un côté, le [bhagava|Fortuné] lui dit:"
+    },
+    {
+      "pl": "“saccaṃ kira tvaṃ, bhikkhu, pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyasi, na bhikkhūnaṃ veyyāvaccaṃ karosi cīvarakārasamaye”ti?",
+      "fr": "— Est-ce vrai, mendiant, que de retour de sa [pindapata|quête de nourriture d'aumônes], après ton repas, tu entres dans ton logement et y demeures tranquille dans ton coin, silencieux, si bien que tu ne rends pas service aux [bhikkhu|mendiants] au moment de fabriquer des [civara|robes]?"
+    },
+    {
+      "pl": "“ahampikho, bhante sakaṃ kiccaṃ karomī”ti.",
+      "fr": "— [bhante|Bhanté], je ne fais que mon propre devoir."
+    },
+    {
+      "pl": "atha kho bhagavā tassa bhikkhuno cetasā ceto-parivitakka-maññāya bhikkhū āmantesi:",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris avec son propre esprit la réflexion qui prenait place dans l'esprit de ce mendiant, s'adressa aux autres:"
+    },
+    {
+      "pl": "“mā kho tumhe, bhikkhave, etassa bhikkhuno ujjhāyittha. eso kho, bhikkhave, bhikkhu catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī akicchalābhī akasiralābhī; yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti.",
+      "fr": "— mendiants, ne vous offensez pas de ce mendiant. [bhikkhu|Mendiants], ce mendiant obtient à volonté, facilement et sans difficulté les quatre [jhana|jhānas], , états d'[citta|esprit] élevés qui fournissent un séjour [sukha|agréable] [ditthadhamma|dans le monde visible]; et, en le réalisant pour lui-même par [abhinna|connaissance directe], il entre et demeure [ditthevadhamme|ici et maintenant] dans l'objectif suprême de la [brahmacariya|vie brahmique], pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "identifier": "SN 22.14",
+  "plTitle": "Anatta Sutta",
+  "frTitle": "Sans-propriétaire",
+  "description": "Les cinq accumulations d'attachement sont sans-propriétaire.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“rūpaṃ, bhikkhave, anattā, vedanā anattā, saññā anattā, saṅkhārā anattā, viññāṇaṃ anattā. evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+      "fr": "[bhikkhu|Mendiants], la [rupa|Forme] est [anatta|sans-propriétaire], le [vedana|Ressenti] est [anatta|sans-propriétaire], la [sanna|Perception] est [anatta|sans-propriétaire], les [sankhara|Constructions] sont [anatta|sans-propriétaire], la [vinnana|Conscience] est [anatta|sans-propriétaire]. En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience].Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    }
+  ],
+  "translator": "Sekha"
+}

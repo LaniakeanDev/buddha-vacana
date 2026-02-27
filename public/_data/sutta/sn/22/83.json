@@ -1,0 +1,130 @@
+﻿{
+  "identifier": "SN 22.83",
+  "plTitle": "Ananda Sutta",
+  "frTitle": "Ananda 'parvient au courant'",
+  "description": "Le vénérable Ananda répète l'enseignement qui lui a permis de parvenir au courant. ",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Tatra kho āyasmā ānando bhikkhū āmantesi:",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Ananda s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "Āvuso, bhikkhave ti.", "fr": "— Amis, [bhikkhu|mendiants]!" },
+    {
+      "pl": "Āvuso ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. Āyasmā ānando etadavoca:",
+      "fr": "— Ami, répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Ananda. Le [ayasma|vénérable] Ananda dit alors:"
+    },
+    {
+      "pl": "Puṇṇo nāma, āvuso, āyasmā mantāniputto amhākaṃ navakānaṃ sataṃ bahūpakāro hoti. So amhe iminā ovādena ovadati: ‘upādāya, āvuso ānanda, asmīti hoti, no anupādāya. Kiñca upādāya asmīti hoti, no anupādāya? Rūpaṃ upādāya asmīti hoti, no anupādāya. Vedanaṃ upādāya asmīti hoti, no anupādāya. Saññaṃ upādāya asmīti hoti, no anupādāya. Saṅkhāre upādāya asmīti hoti, no anupādāya. Viññāṇaṃ upādāya asmīti hoti, no anupādāya.",
+      "fr": "— Amis, le [ayasma|vénérable] du nom de Pounna Mantanipoutta en a fait beaucoup pour moi lorsque j'étais un nouveau. Il m'exhortait avec cette exhortation: [i]“Ami Ananda, , c'est par l'[upadana|attachement] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]. Et par [upadana|attachement] à quoi est-ce qu'il y a [la notion]: “Je suis”, et non pas sans [upadana|attachement]? C'est par l'[upadana|attachement] à la [rupa|Forme] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] au [vedana|Ressenti] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] à la [sanna|Perception] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] aux [sankhara|Constructions] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] à la [vinnana|Conscience] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement].”[/i]"
+    },
+    {
+      "pl": "Seyyathāpi, āvuso ānanda, itthī vā puriso vā daharo yuvā maṇḍanakajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṃ mukhanimittaṃ paccavekkhamāno, upādāya passeyya, no anupādāya; evameva kho, āvuso ānanda, rūpaṃ upādāya asmīti hoti, no anupādāya. Vedanaṃ upādāya asmīti hoti, no anupādāya. Saññaṃ upādāya asmīti hoti, no anupādāya. Saṅkhāre upādāya asmīti hoti, no anupādāya. Viññāṇaṃ upādāya asmīti hoti, no anupādāya.",
+      "fr": "Tout comme, ami Ananda, une femme ou un homme, jeune, peu avancé en âge, qui aime les parures, et qui contemple son reflet dans un miroir ou dans un récipient d'eau pure, propre et claire, le voit avec [upadana|attachement], pas sans [upadana|attachement], de la même manière, ami Ananda, c'est par l'[upadana|attachement] à la [rupa|Forme] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] au [vedana|Ressenti] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] à la [sanna|Perception] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] aux [sankhara|Constructions] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]; c'est par l'[upadana|attachement] à la [vinnana|Conscience] qu'il y a [la notion]: “Je suis”, pas sans [upadana|attachement]."
+    },
+    {
+      "pl": "Taṃ kiṃ maññasi, āvuso ānanda: ‘rūpaṃ niccaṃ vā aniccaṃ vā’ti?",
+      "fr": "Qu'en penses-tu, ami Ananda: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
+    },
+    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "Vedanaṃ niccaṃ vā aniccaṃ vā ti?",
+      "fr": "— Le [vedana|Ressenti] est-il permanent ou [anicca|impermanent]?"
+    },
+    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanent], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "Saññā niccaṃ vā aniccaṃ vā ti?",
+      "fr": "— La [sanna|Perception] est-elle permanente ou [anicca|impermanente]?"
+    },
+    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "Saṅkhārā nicce vā anicce vā ti?",
+      "fr": "— Les [sankhara|Constructions] sont-elles permanentes ou [anicca|impermanentes]?"
+    },
+    { "pl": "Anicce, āvuso.", "fr": "— [anicca|Impermanentes], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "Viññāṇaṃ niccaṃ vā aniccaṃ vā ti?",
+      "fr": "— La [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
+    },
+    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
+    },
+    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
+      "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
+    },
+    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "Tasmātihāvuso, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "— C'est pourquoi, ami, toute [rupa|Forme], qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou superbe, éloignée ou proche, devrait être vue [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yā kāci vedanā atītānāgatapaccuppannā ajjhattaṃ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yaṃ dūrāya santikāya vā, sabbā vedanā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "Quelque [vedana|Ressenti] que ce soit, qu'il soit passé, futur ou présent, interne ou externe, grossier ou subtil, inférieur ou sublime, éloigné ou proche, tout [vedana|Ressenti] devrait être vu [yathabhutam|tel qu'il est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yā kāci saññā atītānāgatapaccuppannā ajjhattaṃ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yaṃ dūrāya santikāya vā, sabbā saññā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "Quelque [sanna|Perception] que ce soit, qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou sublime, éloignée ou proche, toute [sanna|Perception] devrait être vue [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṃ vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yaṃ dūresu santikesu vā, sabbe saṅkhārā ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbā.",
+      "fr": "Quelque [sankhara|Constructions] que ce soient, qu'elles soient passées, futures ou présentes, internes ou externes, grossières ou subtiles, inférieures ou sublimes, éloignées ou proches, toutes [sankhara|Constructions] devraient être vues [yathabhutam|telles qu'elles sont réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ: ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "fr": "Quelque [vinnana|Conscience] que ce soit, qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou sublime, éloignée ou proche, toute [vinnana|Conscience] devrait être vue [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
+    },
+    {
+      "pl": "Evaṃ passaṃ, āvuso ānanda, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. Nibbindaṃ virajjati. virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+      "fr": "En voyant ainsi, ami Ananda, un [ariyasavaka|noble disciple] [sutava|instruit] est désenchanté vis-à-vis de la [rupa|Forme], désenchanté vis-à-vis du [vedana|Ressenti], désenchanté vis-à-vis de la [sanna|Perception], désenchanté vis-à-vis des [sankhara|Constructions], désenchanté vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    },
+    {
+      "pl": "Puṇṇo nāma āvuso āyasmā mantāṇiputto amhākaṃ navakānaṃ sataṃ bahūpakāro hoti. So amhe iminā ovādena ovadati. Idañca pana me āyasmato puṇṇassa mantāṇiputtassa dhammadesanaṃ sutvā dhammo me abhisametoti.",
+      "fr": "Amis, le [ayasma|vénérable] du nom de Pounna Mantanipoutta en a fait beaucoup pour moi lorsque j'étais un nouveau. Il m'exhortait avec cette exhortation. Et lorsque j'ai entendu cet enseignement du [dhamma|Dhamma] de la part du [ayasma|vénérable] Pounna Mantanipoutta, j'ai compris le [dhamma|Dhamma] complètement."
+    }
+  ],
+  "translator": "Rémy"
+}

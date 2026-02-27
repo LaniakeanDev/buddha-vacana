@@ -1,0 +1,18 @@
+﻿{
+  "identifier": "SN 27.1",
+  "plTitle": "Cakkhu Sutta",
+  "frTitle": "L'œil",
+  "description": "Le désir et l'avidité envers les organes des sens sont des impuretés auxquelles il faut renoncer.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Yo, bhikkhave, cakkhusmiṃ chanda·rāgo, cittasseso upakkileso. Yo sotasmiṃ chanda·rāgo, cittasseso upakkileso. Yo ghānasmiṃ chanda·rāgo, cittasseso upakkileso. Yo jivhāya chanda·rāgo, cittasseso upakkileso. Yo kāyasmiṃ chanda·rāgo, cittasseso upakkileso. Yo manasmiṃ chanda·rāgo, cittasseso upakkileso.",
+      "fr": "Le [chanda|désir] [raga|avide] envers l'œil, [bhikkhu|mendiants], est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers l'oreille est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le nez est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la langue est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le corps est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers Le [mana|mental] est une [upakkilesa|souillure] de l'[citta|esprit]."
+    },
+    {
+      "pl": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhamma·ninnañcassa cittaṃ hoti. Nekkhamma·paribhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū ti.",
+      "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
+    }
+  ],
+  "translator": "Rémy"
+}

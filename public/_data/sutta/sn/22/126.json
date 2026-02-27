@@ -1,0 +1,74 @@
+﻿{
+  "identifier": "SN 22.126",
+  "plTitle": "Samudayadhamma Sutta",
+  "frTitle": "L'ignorance et la véritable connaissance",
+  "description": "Qu'est-ce que l'ignorance (avijjā)? Qu'est-ce que la véritable connaissance (vijjā)?",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “‘avijjā avijjā’ti, bhante, vuccati. katamā nu kho, bhante, avijjā, kittāvatā ca avijjāgato hotī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“[avijja|ignorance], [avijja|ignorance]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que l'[avijja|ignorance], et de quelle manière est-on ignorant?"
+    },
+    {
+      "pl": "“idha, bhikkhu, assutavā puthujjano samudayadhammaṃ rūpaṃ ‘samudayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti; vayadhammaṃ rūpaṃ ‘vayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ rūpaṃ ‘samudayavayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti.",
+      "fr": "—À cet égard, [bhikkhu|mendiant], un [puthujjana|individu ordinaire] [assutava|sans instruction] ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition], il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à la disparition comme une [rupa|Forme] [dhamma|par nature sujette] à la disparition, et il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ vedanaṃ ‘samudayadhammā vedanā’ti yathābhūtaṃ nappajānāti; vayadhammaṃ vedanaṃ ‘vayadhammā vedanā’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ vedanaṃ ‘samudayavayadhammā vedanā’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Il ne [panna|discerne] pas [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] comme un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition], il ne [panna|discerne] pas [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à la disparition comme un [vedana|Ressenti] [dhamma|par nature sujet] à la disparition, et il ne [panna|discerne] pas [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] & disparition comme un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ saññaṃ ‘samudayadhammā saññā’ti yathābhūtaṃ nappajānāti; vayadhammaṃ saññaṃ ‘vayadhammā saññā’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ saññaṃ ‘samudayavayadhammā saññā’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition], il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à la disparition comme une [sanna|Perception] [dhamma|par nature sujette] à la disparition, et il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhamme saṅkhāre ‘samudayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti; vayadhamme saṅkhāre ‘vayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti; samudayavayadhamme saṅkhāre ‘samudayavayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Il ne [panna|discerne] pas [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] comme des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition], il ne [panna|discerne] pas [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à la disparition comme des [sankhara|Constructions] [dhamma|par nature sujettes] à la disparition, et il ne [panna|discerne] pas [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] & disparition comme des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ viññāṇaṃ ‘samudayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti; vayadhammaṃ viññāṇaṃ ‘vayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ viññāṇaṃ ‘samudayavayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition], il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à la disparition comme une [vinnana|Conscience] [dhamma|par nature sujette] à la disparition, et il ne [panna|discerne] pas [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "ayaṃ vuccati, bhikkhu, avijjā. ettāvatā ca avijjāgato hotī”ti.",
+      "fr": "Voici, [bhikkhu|mendiant], ce qu'on appelle l'[avijja|ignorance], et voici de quelle manière on est ignorant."
+    },
+    {
+      "pl": "evaṃ vutte, so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, ce [bhikkhu|mendiant] dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “‘vijjā vijjā’ti, bhante, vuccati. katamā nu kho, bhante, vijjā, kittāvatā ca vijjāgato hotī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“[vijja|véritable connaissance], [vijja|véritable connaissance]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que la [vijja|véritable connaissance], et de quelle manière connaît-on correctement?"
+    },
+    {
+      "pl": "“idha, bhikkhu, sutavā ariyasāvako samudayadhammaṃ rūpaṃ ‘samudayadhammaṃ rūpan’ti yathābhūtaṃ pajānāti; vayadhammaṃ rūpaṃ ‘vayadhammaṃ rūpan’ti yathābhūtaṃ pajānāti; samudayavayadhammaṃ rūpaṃ ‘samudayavayadhammaṃ rūpan’ti yathābhūtaṃ pajānāti.",
+      "fr": "—À cet égard, [bhikkhu|mendiant], un [ariyasavaka|noble disciple] [sutava|instruit] [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition], il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à la disparition comme une [rupa|Forme] [dhamma|par nature sujette] à la disparition, et il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [rupa|Forme] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ vedanaṃ ‘samudayadhammā vedanā’ti yathābhūtaṃ pajānāti; vayadhammaṃ vedanaṃ ‘vayadhammā vedanā’ti yathābhūtaṃ pajānāti; samudayavayadhammaṃ vedanaṃ ‘samudayavayadhammā vedanā’ti yathābhūtaṃ pajānāti.",
+      "fr": "Il [panna|discerne] [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] comme un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition], il [panna|discerne] [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à la disparition comme un [vedana|Ressenti] [dhamma|par nature sujet] à la disparition, et il [panna|discerne] [yathabhutam|tel qu'il est réellement] un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] & disparition comme un [vedana|Ressenti] [dhamma|par nature sujet] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ saññaṃ ‘samudayadhammā saññā’ti yathābhūtaṃ pajānāti; vayadhammaṃ saññaṃ ‘vayadhammā saññā’ti yathābhūtaṃ pajānāti; samudayavayadhammaṃ saññaṃ ‘samudayavayadhammā saññā’ti yathābhūtaṃ pajānāti.",
+      "fr": "Il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition], il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à la disparition comme une [sanna|Perception] [dhamma|par nature sujette] à la disparition, et il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [sanna|Perception] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhamme saṅkhāre ‘samudayadhammā saṅkhārā’ti yathābhūtaṃ pajānāti; vayadhamme saṅkhāre ‘vayadhammā saṅkhārā’ti yathābhūtaṃ pajānāti; samudayavayadhamme saṅkhāre ‘samudayavayadhammā saṅkhārā’ti yathābhūtaṃ pajānāti.",
+      "fr": "Il [panna|discerne] [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] comme des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition], il [panna|discerne] [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à la disparition comme des [sankhara|Constructions] [dhamma|par nature sujettes] à la disparition, et il [panna|discerne] [yathabhutam|telles qu'elles sont réellement] des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] & disparition comme des [sankhara|Constructions] [dhamma|par nature sujettes] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "samudayadhammaṃ viññāṇaṃ ‘samudayadhammaṃ viññāṇan’ti yathābhūtaṃ pajānāti; vayadhammaṃ viññāṇaṃ ‘vayadhammaṃ viññāṇan’ti yathābhūtaṃ pajānāti; samudayavayadhammaṃ viññāṇaṃ ‘samudayavayadhammaṃ viññāṇan’ti yathābhūtaṃ pajānāti.",
+      "fr": "Il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] comme une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition], il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à la disparition comme une [vinnana|Conscience] [dhamma|par nature sujette] à la disparition, et il [panna|discerne] [yathabhutam|telle qu'elle est réellement] une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition comme une [vinnana|Conscience] [dhamma|par nature sujette] à l'[samudaya|apparition] & disparition."
+    },
+    {
+      "pl": "ayaṃ vuccati, bhikkhu, vijjā; ettāvatā ca vijjāgato hotī”ti.",
+      "fr": "Voici, [bhikkhu|mendiant], ce qu'on appelle la [vijja|véritable connaissance], et voici de quelle manière on connaît correctement."
+    }
+  ],
+  "translator": "Rémy"
+}

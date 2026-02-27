@@ -1,0 +1,14 @@
+﻿{
+  "identifier": "SN 29.1",
+  "plTitle": "Suddhika Sutta",
+  "frTitle": "Version simple",
+  "description": "Quatre types de nagas selon leur type de naissance.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Catasso imā, bhikkhave, nāgayoniyo. Katamā catasso? Aṇḍajā nāgā, jalābujā nāgā, saṃsedajā nāgā, opapātikā nāgā. Imā kho, bhikkhave, catasso nāgayoniyo ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre types de [naga|nagas], selon la manière dont ils viennent au monde. Quels sont ces quatre? Les [naga|nagas] ovipares, les [naga|nagas] vivipares, les [naga|nagas] nés dans l'humidité, et les [naga|nagas] apparaissant spontanément. Voici, [bhikkhu|mendiants], quels sont les quatre types de [naga|nagas], selon la manière dont ils viennent au monde."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,70 @@
+﻿{
+  "identifier": "SN 22.6",
+  "plTitle": "Paṭisallāṇa Sutta",
+  "frTitle": "L'isolement",
+  "description": "Après avoir rappelé le rôle primordial joué par l'isolement, le Bouddha applique la loi d'apparition conditionnée aux cinq accumulations d'attachement et définit ce que sont leur origine et leur cessation.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ", "fr": "À Savatthi." },
+    {
+      "pl": "“paṭisallāṇe, bhikkhave, yogamāpajjatha. paṭisallīṇo, bhikkhave, bhikkhu yathābhūtaṃ pajānāti. kiñca yathābhūtaṃ pajānāti? rūpassa samudayañca atthaṅgamañca, vedanāya samudayañca atthaṅgamañca, saññāya samudayañca atthaṅgamañca, saṅkhārānaṃ samudayañca atthaṅgamañca, viññāṇassa samudayañca atthaṅgamañca”.",
+      "fr": "«[bhikkhu|Mendiants], exercez-vous dans l'[patisallana|isolement]. Un [bhikkhu|mendiant] en [patisallana|isolement] discerne[yathabhutam|tel que c'est réellement]. Et que discerne-t-il[yathabhutam|tel que c'est réellement]? L'[samudaya|apparition] et la disparition de la [rupa|Forme], l'[samudaya|apparition] et la disparition du [vedana|Ressenti], l'[samudaya|apparition] et la disparition de la [sanna|Perception], l'[samudaya|apparition] et la disparition des [sankhara|Constructions], l'[samudaya|apparition] et la disparition de la [vinnana|Conscience]."
+    },
+    {
+      "pl": "“ko ca, bhikkhave, rūpassa samudayo, ko vedanāya samudayo, ko saññāya samudayo, ko saṅkhārānaṃ samudayo, ko viññāṇassa samudayo? idha, bhikkhave, bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. kiñca abhinandati abhivadati ajjhosāya tiṭṭhati?",
+      "fr": "Et qu'est-ce, mendiants, que l'[samudaya|apparition]de la [rupa|Forme], qu'est-ce que l'[samudaya|apparition] du [vedana|Ressenti], qu'est-ce que l'[samudaya|apparition] de la [sanna|Perception], qu'est-ce que l'[samudaya|apparition] des [sankhara|Constructions], qu'est-ce que l'[samudaya|apparition] de la [vinnana|Conscience]? À cet égard, un [bhikkhu|mendiant] en jouit, il les accueille, et y adhère. Et de quoi jouit-il, qu'accueille-t-il, à quoi adhère-t-il?"
+    },
+    {
+      "pl": "“rūpaṃ abhinandati abhivadati ajjhosāya tiṭṭhati. tassa rūpaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. yā rūpe nandī tadupādānaṃ. tassupādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+      "fr": "Il jouit de la [rupa|Forme], l'accueille et y adhère. Comme il en jouit, qu'il l'accueille et y adhère, la jouissance apparaît. La jouissance envers la [rupa|Forme] constitue l'attachement envers elle. À cause de l'[upadana|attachement], il y a l'[bhava|existence]; à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“vedanaṃ abhinandati ... pe ...",
+      "fr": "Il jouit du [vedana|Ressenti], l'accueille et y adhère. Comme il en jouit, qu'il l'accueille et y adhère, la jouissance apparaît. La jouissance envers le [vedana|Ressenti] constitue l'attachement envers lui. À cause de l'[upadana|attachement], il y a l'[bhava|existence]; à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "saññaṃ abhinandati...",
+      "fr": "Il jouit de la [sanna|Perception], l'accueille et y adhère. Comme il en jouit, qu'il l'accueille et y adhère, la jouissance apparaît. La jouissance envers la [sanna|Perception] constitue l'attachement envers elle. À cause de l'[upadana|attachement], il y a l'[bhava|existence]; à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "saṅkhāre abhinandati...",
+      "fr": "Il jouit des [sankhara|Constructions], les accueille et y adhère. Comme il en jouit, qu'il les accueille et y adhère, la jouissance apparaît. La jouissance envers les [sankhara|Constructions] constitue l'attachement envers elles. À cause de l'[upadana|attachement], il y a l'[bhava|existence]; à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "viññāṇaṃ abhinandati abhivadati ajjhosāya tiṭṭhati. tassa viññāṇaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. yā viññāṇe nandī tadupādānaṃ. tassupādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā ... pe ... evametassa kevalassa dukkhakkhandhassa samudayo hoti.",
+      "fr": "Il jouit de la [vinnana|Conscience], l'accueille et y adhère. Comme il en jouit, qu'il l'accueille et y adhère, la jouissance apparaît. La jouissance envers la [vinnana|Conscience] constitue l'attachement envers elle. À cause de l'[upadana|attachement], il y a l'[bhava|existence]; à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“ayaṃ, bhikkhave, rūpassa samudayo; ayaṃ vedanāya samudayo; ayaṃ saññāya samudayo; ayaṃ saṅkhārānaṃ samudayo; ayaṃ viññāṇassa samudayo.",
+      "fr": "Voici, mendiants, quelles sont l'[samudaya|apparition] de la [rupa|Forme], l'[samudaya|apparition] du [vedana|Ressenti], l'[samudaya|apparition] de la [sanna|Perception], l'[samudaya|apparition] des [sankhara|Constructions], et l'[samudaya|apparition] de la [vinnana|Conscience]."
+    },
+    {
+      "pl": "“ko ca, bhikkhave, rūpassa atthaṅgamo, ko vedanāya... ko saññāya... ko saṅkhārānaṃ... ko viññāṇassa atthaṅgamo? idha, bhikkhave, nābhinandati nābhivadati nājjhosāya tiṭṭhati. kiñca nābhinandati nābhivadati nājjhosāya tiṭṭhati?",
+      "fr": "Et qu'est-ce, mendiants, que la disparitionde la [rupa|Forme], qu'est-ce que la disparition du [vedana|Ressenti], qu'est-ce que la disparition de la [sanna|Perception], qu'est-ce que la disparition des [sankhara|Constructions], qu'est-ce que la disparition de la [vinnana|Conscience]? À cet égard, un [bhikkhu|mendiant] n'en jouit pas, ne les accueille pas, et n'y adhère pas. Et de quoi ne jouit-il pas, que n'accueille-t-il pas, à quoi n'adhère-t-il pas?"
+    },
+    {
+      "pl": "“rūpaṃ nābhinandati nābhivadati nājjhosāya tiṭṭhati. tassa rūpaṃ anabhinandato anabhivadato anajjhosāya tiṭṭhato yā rūpe nandī sā nirujjhati. tassa nandīnirodhā upādānanirodho; upādānanirodhā bhavanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+      "fr": "Il ne jouit pas de la [rupa|Forme], ne l'accueille pas et n'y adhère pas. Comme il n'en jouit pas, qu'il ne l'accueille pas et n'y adhère pas, la jouissance envers la [rupa|Forme] cesse. La cessation de la jouissance constitue la [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“vedanaṃ nābhinandati nābhivadati nājjhosāya tiṭṭhati. tassa vedanaṃ anabhinandato anabhivadato anajjhosā tiṭṭhato yā vedanāya nandī sā nirujjhati. tassa nandīnirodhā upādānanirodho; upādānanirodhā bhavanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+      "fr": "Il ne jouit pas du [vedana|Ressenti], ne l'accueille pas et n'y adhère pas. Comme il n'en jouit pas, qu'il ne l'accueille pas et n'y adhère pas, la jouissance envers le [vedana|Ressenti] cesse. La cessation de la jouissance constitue la [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“saññaṃ nābhinandati ... pe ...",
+      "fr": "Il ne jouit pas de la [sanna|Perception], ne l'accueille pas et n'y adhère pas. Comme il n'en jouit pas, qu'il ne l'accueille pas et n'y adhère pas, la jouissance envers la [sanna|Perception] cesse. La cessation de la jouissance constitue la [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "saṅkhāre nābhinandati nābhivadati nājjhosāya tiṭṭhati. tassa saṅkhāre anabhinandato anabhivadato anajjhosāya tiṭṭhato yā saṅkhāresu nandī sā nirujjhati. tassa nandīnirodhā upādānanirodho; upādānanirodhā bhavanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+      "fr": "Il ne jouit pas des [sankhara|Constructions], ne les accueille pas et n'y adhère pas. Comme il n'en jouit pas, qu'il ne les accueille pas et n'y adhère pas, la jouissance envers les [sankhara|Constructions] cesse. La cessation de la jouissance constitue la [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“viññāṇaṃ nābhinandati nābhivadati nājjhosāya tiṭṭhati. tassa viññāṇaṃ anabhinandato anabhivadato anajjhosāya tiṭṭhato yā viññāṇe nandī sā nirujjhati. tassa nandīnirodhā upādānanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+      "fr": "Il ne jouit pas de la [vinnana|Conscience], ne l'accueille pas et n'y adhère pas. Comme il n'en jouit pas, qu'il ne l'accueille pas et n'y adhère pas, la jouissance envers la [vinnana|Conscience] cesse. La cessation de la jouissance constitue la [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
+    },
+    {
+      "pl": "“ayaṃ, bhikkhave, rūpassa atthaṅgamo, ayaṃ vedanāya atthaṅgamo, ayaṃ saññāya atthaṅgamo, ayaṃ saṅkhārānaṃ atthaṅgamo, ayaṃ viññāṇassa atthaṅgamo”ti.",
+      "fr": "Voici, mendiants, quelles sont la [nirodha|cessation] de la [rupa|Forme], la [nirodha|cessation] du [vedana|Ressenti], la [nirodha|cessation] de la [sanna|Perception], la [nirodha|cessation] des [sankhara|Constructions], et la [nirodha|cessation] de la [vinnana|Conscience]."
+    }
+  ],
+  "translator": "Sekha"
+}

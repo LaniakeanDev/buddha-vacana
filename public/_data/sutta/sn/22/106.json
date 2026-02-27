@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 22.106",
+  "plTitle": "Pariññeyya Sutta",
+  "frTitle": "À comprendre complètement",
+  "description": "Les phénomènes qui devraient être compris complètement, ce qu'est la compréhension complète, et quel est l'individu qui a compris complètement.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca pariññātāviñca puggalaṃ. taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner les [dhamma|phénomènes] qui devraient être compris complètement, ce qu'est la compréhension complète, et quel est l'individu qui a compris complètement. Écoutez cela."
+    },
+    {
+      "pl": "katame ca, bhikkhave, pariññeyyā dhammā? rūpaṃ, bhikkhave, pariññeyyo dhammo. vedanā … pe … saññā. saṅkhārā. viññāṇaṃ pariññeyyo dhammo. ime vuccanti, bhikkhave, pariññeyyā dhammā.",
+      "fr": "Et quels sont, [bhikkhu|mendiants], les [dhamma|phénomènes] qui devraient être compris complètement? La [rupa|Forme] est un [dhamma|phénomène] qui devrait être compris complètement. Le [vedana|Ressenti] (…) La [sanna|Perception] (…) Les [sankhara|Constructions] (…) La [vinnana|Conscience] est un [dhamma|phénomène] qui devrait être compris complètement. Voici, [bhikkhu|mendiants], ce qu'on appelle les [dhamma|phénomènes] qui devraient être compris complètement."
+    },
+    {
+      "pl": "katamā ca, bhikkhave, pariññā? rāgakkhayo, dosakkhayo, mohakkhayo — ayaṃ vuccati, bhikkhave, pariññā.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la compréhension complète? C'est la destruction de l'[raga|avidité], la destruction de l'[dosa|aversion] et la destruction de la [moha|délusion]. Voici, [bhikkhu|mendiants], ce qu'on appelle la compréhension complète."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, pariññātāvī puggalo? arahātissa vacanīyaṃ. yvāyaṃ āyasmā evaṃnāmo evaṃgotto — ayaṃ vuccati, bhikkhave, pariññātāvī puggalo””ti.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui a compris complètement? Un [arahant|Méritant], devrait-on dire. Tel [ayasma|vénérable] portant tel nom, issu de tel clan. Voici, [bhikkhu|mendiants], quel est l'individu qui a compris complètement."
+    }
+  ],
+  "translator": "Sekha"
+}

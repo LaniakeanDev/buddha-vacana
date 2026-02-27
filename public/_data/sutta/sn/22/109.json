@@ -1,0 +1,14 @@
+﻿{
+  "identifier": "SN 22.109",
+  "plTitle": "Sotāpanna Sutta",
+  "frTitle": "Parvenu au courant",
+  "description": "Une définition de l'entrée dans le courant (sotāpatti) basée sur la compréhension des cinq accumulations d'attachement.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“pañcime, bhikkhave, upādāna-kkhandhā. katame pañca? seyyathidaṃ rūp-upādāna-kkhandho, vedan-upādāna-kkhandho, saññ-upādāna-kkhandho, saṅkhār-upādāna-kkhandho, viññāṇ-upādāna-kkhandho. yato kho, bhikkhave, ariyasāvako imesaṃ pañcannaṃ upādāna-kkhandhānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti, ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [upadanakkhandha|accumulations d'attachement]. Quelles sont ces cinq? L'[upadanakkhandha|accumulation d'attachement] de la [rupa|Forme], l'[upadanakkhandha|accumulation d'attachement] du [vedana|Ressenti], l'[upadanakkhandha|accumulation d'attachement] de la [sanna|Perception], l'[upadanakkhandha|accumulation d'attachement] des [sankhara|Constructions],et l'[upadanakkhandha|accumulation d'attachement] de la [vinnana|Conscience].Lorsqu'un [ariyasavaka|noble disciple] discerne [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage], et l'[nissarana|émancipation] par rapport à ces cinq [upadanakkhandha|accumulations d'attachement], on dit de lui qu'il est un [ariyasavaka|noble disciple] [sotapanna|parvenu-au-courant], délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
+    }
+  ],
+  "translator": "Rémy"
+}

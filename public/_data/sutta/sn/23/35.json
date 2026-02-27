@@ -1,0 +1,18 @@
+﻿{
+  "identifier": "SN 23.35",
+  "plTitle": "Māra Sutta",
+  "frTitle": "Le Tueur",
+  "description": "Le Bouddha offre à Radha une exhortation spontannée.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca",
+      "fr": "Tandis qu'il était assis d'un côté, le [bhagava|Fortuné] dit au [ayasma|vénérable] Radha:"
+    },
+    {
+      "pl": "“yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. ko ca, rādha, māro? rūpaṃ kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. vedanā māro; tatra te chando pahātabbo ... pe ... saññā māro; tatra te chando pahātabbo ... pe ... saṅkhārā māro; tatra te chando pahātabbo ... pe ... viññāṇaṃ māro; tatra te chando pahātabbo ... pe ... yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.",
+      "fr": "«Radha, tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers le Tueur. Et qu'est-ce, Radha, que le Tueur? La [rupa|Forme], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle. Le [vedana|Ressenti](…) La [sanna|Perception] (…) Les [sankhara|Constructions] (…) La [vinnana|Conscience], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle.»"
+    }
+  ],
+  "translator": "Sekha"
+}

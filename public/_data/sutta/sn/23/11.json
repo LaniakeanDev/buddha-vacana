@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 23.11",
+  "plTitle": "Māra Sutta",
+  "frTitle": "Le Tueur",
+  "description": "Le Bouddha définit le Tueur (Māra) comme les cinq accumulations d'attachement.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
+      "fr": "Assis d'un côté, le [ayasma|vénérable] Radha dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘māro, māro’’ti, bhante, vuccati. katamo nu kho, bhante, māro””ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“Le [mara|Tueur], le [mara|Tueur]”[/i]. Qu'est-ce, [bhante|Bhanté], que le [mara|Tueur]?"
+    },
+    {
+      "pl": "“rūpaṃ kho, rādha, māro, vedanā māro, saññā māro, saṅkhārā māro, viññāṇaṃ māro.",
+      "fr": "—Radha, la [rupa|Forme] est le [mara|Tueur], le [vedana|Ressenti] est le [mara|Tueur], la [sanna|Perception] est le [mara|Tueur], les [sankhara|Constructions] sont le [mara|Tueur], la [vinnana|Conscience] est le [mara|Tueur]."
+    },
+    {
+      "pl": "evaṃ passaṃ, rādha, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’’ti pajānātī””ti.",
+      "fr": "En voyant ainsi, Radha, un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    }
+  ],
+  "translator": "Sekha"
+}

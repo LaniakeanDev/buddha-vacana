@@ -1,0 +1,18 @@
+﻿{
+  "identifier": "SN 27.4",
+  "plTitle": "Samphassa Sutta",
+  "frTitle": "Le contact",
+  "description": "Le désir et l'avidité envers les contacts sensoriels sont des impuretés auxquelles il faut renoncer.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Yo, bhikkhave, cakkhu·samphassasmiṃ chanda·rāgo, cittasseso upakkileso. Yo sota·samphassasmiṃ chanda·rāgo, cittasseso upakkileso. Yo ghāna·samphassasmiṃ chanda·rāgo, cittasseso upakkileso. Yo jivhā·samphassasmiṃ chanda·rāgo, cittasseso upakkileso. Yo kāya·samphassasmiṃ chanda·rāgo, cittasseso upakkileso. Yo mano·samphassasmiṃ chanda·rāgo, cittasseso upakkileso.",
+      "fr": "Le [chanda|désir] [raga|avide] envers le [phassa|contact] oculaire, [bhikkhu|mendiants], sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le [phassa|contact] auditif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le [phassa|contact] olfactif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le [phassa|contact] gustatif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le [phassa|contact] corporel sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers le [phassa|contact] mental sont une [upakkilesa|souillure] de l'[citta|esprit]."
+    },
+    {
+      "pl": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhamma·ninnañcassa cittaṃ hoti. Nekkhamma·paribhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū ti.",
+      "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
+    }
+  ],
+  "translator": "Rémy"
+}

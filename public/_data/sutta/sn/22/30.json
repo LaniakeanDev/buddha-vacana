@@ -1,0 +1,18 @@
+﻿{
+  "identifier": "SN 22.30",
+  "plTitle": "Uppāda Sutta",
+  "frTitle": "L'apparition",
+  "description": "Les accumulations d'attachement sont synonymes de mal-être.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "“yo, bhikkhave, rūpassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo. yo vedanāya ... pe ... yo saññāya ... pe ... yo saṅkhārānaṃ ... pe ... yo viññāṇassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo.",
+      "fr": "[bhikkhu|Mendiants], l'apparition, le maintien, la production et la manifestation de la [rupa|Forme] est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation du [vedana|Ressenti] est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation de la [sanna|Perception] est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation des [sankhara|Constructions] est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation de la [vinnana|Conscience] est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]."
+    },
+    {
+      "pl": "yo ca kho, bhikkhave, rūpassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṃ vūpasamo jarāmaraṇassa atthaṅgamo. yo vedanāya ... pe ... yo saññāya... yo saṅkhārānaṃ... yo viññāṇassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṃ vūpasamo jarāmaraṇassa atthaṅgamo”ti.",
+      "fr": "Mais, [bhikkhu|mendiants], la [nirodha|cessation], l'apaisement et la disparition de la [rupa|Forme] est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition du [vedana|Ressenti] est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition de la [sanna|Perception] est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition des [sankhara|Constructions] est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition de la [vinnana|Conscience] est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort]."
+    }
+  ],
+  "translator": "Sekha"
+}
