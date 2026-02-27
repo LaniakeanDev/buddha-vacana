@@ -1,0 +1,28 @@
+﻿{
+  "identifier": "MN 76",
+  "plTitle": "Sandaka Sutta {extraits}",
+  "frTitle": "Conseils donnés à Sandaka",
+  "description": "Dans ces extraits, Ānanda explique que des enseignants qui se basent sur la tradition ou sur le raisonnment devraient être perçus comme peu fiables. L'observation, bien évidemment, ne se limite pas à ceux qui enseignent autre chose que le Dhamma.",
+  "body": [
+    { "pl": "...", "fr": "... [[i]Ānanda fait un exposé àSandaka:[/i]]" },
+    {
+      "pl": "idhekacco satthā anussaviko hoti anussavasacco. so anussavena itihitihaparamparāya piṭakasampadāya dhammaṃ deseti. anussavikassa kho pana, sandaka, satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti.",
+      "fr": "Un certain enseignant est un traditionaliste, considérant sa tradition comme la vérité. Il professe un [dhamma|enseignement] conforme à ce qu'il a entendu, au moyen de ce qui a été transmis dogmatiquement, de ce qui a été transmis dans une collection de textes. Mais lorsqu'un enseignant est un traditionaliste, Sandaka, qu'il considère sa tradition comme la vérité, certaines choses ont été bien transmises, d'autres ont été mal transmises, certaines sont vraies et d'autres sont autrement."
+    },
+    {
+      "pl": "tatra, sandaka, viññū puriso iti paṭisañcikkhati: ‘ayaṃ kho bhavaṃ satthā anussaviko anussavasacco so anussavena itihitihaparamparāya piṭakasampadāya dhammaṃ deseti. anussavikassa kho pana satthuno anussavasaccassa sussutampi hoti dussutampi hoti tathāpi hoti aññathāpi hoti’. so ‘anassāsikaṃ idaṃ brahmacariyan’ti iti viditvā tasmā brahmacariyā nibbijja pakkamati.",
+      "fr": "Voyant cela, Sandaka, un homme perspicace considère ceci: [i]“Ce vénérable enseignantest un traditionaliste, il considère sa tradition comme la vérité. Il professe un [dhamma|enseignement] conforme à ce qu'il a entendu, au moyen de ce qui a été transmis dogmatiquement, de ce qui a été transmis dans une collection de textes. Mais lorsqu'un enseignant est un traditionaliste qu'il considère sa tradition comme la vérité, certaines choses ont été bien transmises, d'autres ont été mal transmises, certaines sont vraies et d'autres sont autrement.”[/i] Comprenant que cette [brahmacariya|vie brahmique] n'offre pas de réconfort, désenchanté vis-à-vis d'elle, il l'abandonne."
+    },
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "idhekacco satthā takkī hoti vīmaṃsī. so takkapariyāhataṃ vīmaṃsānucaritaṃ sayaṃpaṭibhānaṃ dhammaṃ deseti. takkissa kho pana, sandaka, satthuno vīmaṃsissa sutakkitampi hoti duttakkitampi hoti tathāpi hoti aññathāpi hoti.",
+      "fr": "Un certain enseignant est un raisonneur, un dialecticien. Il professe un [dhamma|enseignement] martelé au moyen de raisonnements, poursuivant sa dialectique et ses conceptions personnelles. Mais lorsqu'un enseignant est un raisonneur, Sandaka, un dialecticien, certaines choses sont bien raisonnées, d'autres sont mal raisonnées, certaines sont vraies et d'autres sont autrement."
+    },
+    {
+      "pl": "tatra, sandaka, viññū puriso iti paṭisañcikkhati: ‘ayaṃ kho bhavaṃ satthā takkī vīmaṃsī. so takkapariyāhataṃ vīmaṃsānucaritaṃ sayaṃpaṭibhānaṃ dhammaṃ deseti. takkissa kho pana satthuno vīmaṃsissa sutakkitampi hoti duttakkitampi hoti tathāpi hoti aññathāpi hoti’. so ‘anassāsikaṃ idaṃ brahmacariyan’ti. iti viditvā tasmā brahmacariyā nibbijja pakkamati.",
+      "fr": "Voyant cela, Sandaka, un homme perspicace considère ceci: [i]“Ce vénérable enseignantest raisonneur, un dialecticien. Il professe un [dhamma|enseignement] martelé au moyen de raisonnements, poursuivant sa dialectique et ses conceptions personnelles. Mais lorsqu'un enseignant est un raisonneur, un dialecticien, certaines choses sont bien raisonnées, d'autres sont mal raisonnées, certaines sont vraies et d'autres sont autrement.”[/i] Comprenant que cette [brahmacariya|vie brahmique] n'offre pas de réconfort, désenchanté vis-à-vis d'elle, il l'abandonne."
+    },
+    { "pl": "...", "fr": "..." }
+  ],
+  "translator": "Rémy"
+}

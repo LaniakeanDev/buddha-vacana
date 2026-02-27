@@ -1,0 +1,27 @@
+﻿{
+  "identifier": "MN 7",
+  "plTitle": "Vattha Sutta",
+  "frTitle": "Le vêtement",
+  "description": "Dans ce court extrait, il nous est expliqué le lien psychologique entre la disparition des souillures de l'esprit (upakkilesa) et trois des facteurs de l'entrée dans le courant.",
+  "body": [
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "Yathodhi kho panassa cattaṃ hoti vantaṃ muttaṃ pahīnaṃ paṭinissaṭṭhaṃ, so ‘buddhe aveccappasādena samannāgatomhī’ti labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ; pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+      "fr": "Lorqu'il a en partie délaissé, rejeté, désavoué, abandonné et laissé derrière lui [les souillures de l'esprit], [il considère]: [i]“Je suis doué d'une [buddheaveccappasada|confiance confirmée dans le Bouddha]!”[/i], il acquiert de l'enthousiasme pour l'objectif, il acquiert de l'enthousiasme pour le [dhamma|Dhamma], il acquiert une [pamojja|joie] liée au [dhamma|Dhamma]; étant sereinement joyeux, l'[piti|exaltation] prend naissance; étant exalté, le [kaya|corps] se calme; son [kaya|corps] étant calme, il ressent du [sukha|bien-être]; et l'[citta|esprit] de celui qui est dans le [sukha|bien-être] [samadhi|se concentre]."
+    },
+    {
+      "pl": "‘Dhamme aveccappasādena samannāgatomhī’ti labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ; pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+      "fr": "[Il considère]: [i]“Je suis doué d'une [dhammeaveccappasada|confiance confirmée dans le Dhamma]!”[/i], il acquiert de l'enthousiasme pour l'objectif, il acquiert de l'enthousiasme pour le [dhamma|Dhamma], il acquiert une [pamojja|joie] liée au [dhamma|Dhamma]. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre."
+    },
+    {
+      "pl": "‘Saṅghe aveccappasādena samannāgatomhī’ti labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ; pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+      "fr": "[Il considère]: [i]“Je suis doué d'une [sangheaveccappasada|confiance confirmée dans le Sangha]!”[/i], il acquiert une [pamojja|joie] liée au [dhamma|Dhamma]; étant sereinement joyeux, l'[piti|exaltation] prend naissance; étant exalté, le [kaya|corps] se calme; son [kaya|corps] étant calme, il ressent du [sukha|bien-être]; et l'[citta|esprit] de celui qui est dans le [sukha|bien-être] [samadhi|se concentre]."
+    },
+    {
+      "pl": "‘Yathodhi kho pana me cattaṃ vantaṃ muttaṃ pahīnaṃ paṭinissaṭṭha’nti labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. Pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+      "fr": "[Il considère]: [i]“J'ai en partie délaissé, rejeté, désavoué, abandonné et laissé derrière moi [les souillures de l'esprit]!”[/i], il acquiert une [pamojja|joie] liée au [dhamma|Dhamma]; étant sereinement joyeux, l'[piti|exaltation] prend naissance; étant exalté, le [kaya|corps] se calme; son [kaya|corps] étant calme, il ressent du [sukha|bien-être]; et l'[citta|esprit] de celui qui est dans le [sukha|bien-être] [samadhi|se concentre]."
+    },
+    { "pl": "...", "fr": "..." }
+  ],
+  "translator": "Rémy"
+}

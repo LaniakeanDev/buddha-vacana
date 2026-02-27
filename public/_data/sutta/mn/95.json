@@ -1,0 +1,122 @@
+﻿{
+  "identifier": "MN 95",
+  "plTitle": "Caṅkī Sutta",
+  "frTitle": "Chez Caṅkī",
+  "description": "Un échange très intéressant entre le Bouddha et un jeune [brahmana|brahmane] au sujet de ce qui peut être tenu avec certitude pour vrai. De quoi faire réfléchir les adhérents à toutes les religions et philosophies du monde (y compris les bouddhistes).",
+  "body": [
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "atha kho kāpaṭiko māṇavo bhagavantaṃ etadavoca:",
+      "fr": "Alors le jeune [brahmana|brahmane] Kāpaṭika dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“yadidaṃ, bho gotama, brāhmaṇānaṃ porāṇaṃ mantapadaṃ itihitihaparamparāya piṭakasampadāya, tattha ca brāhmaṇā ekaṃsena niṭṭhaṃ gacchanti: ‘idameva saccaṃ, moghamaññan’ti. idha bhavaṃ gotamo kimāhā”ti?",
+      "fr": "— [bho|Honorable] Gotama, en ce qui concerne les anciens hymnes des brahmanes, qui ont été transmis par répétition, préservés dans leur collection de textes, les brahmanes tirent avec certitude la conclusion suivante: “Ceci seulement est la vérité, toute le reste est sans valeur.” Qu'est-ce que [bho|Honorable] Gotama dit de cela?"
+    },
+    {
+      "pl": "“kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti?",
+      "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les brahmanes ne serait-ce qu'un seul [brahmana|brahmane] qui dise: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
+    },
+    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha — ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti?",
+      "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les brahmanes ne serait-ce qu'un seul enseignant, ou bien un seul enseignant d'enseignant en remontant jusqu'à sept générations, qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
+    },
+    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“kiṃ pana, bhāradvāja, yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’”ti?",
+      "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les anciens sages brahmanes, les créateurs des hymnes, les compositeurs des hymnes — de ces anciens hymnes qui étaient autrefois chantés, récités et rassemblés, que les brahmanes chantent et répètent encore, répétant ce qui était alors dit, répétant ce qui était alors récité — c'est-à-dire Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa et Bhagu, y a-t-il l'un d'eux qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
+    },
+    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“iti kira, bhāradvāja, natthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’ti. natthi koci brāhmaṇānaṃ ekācariyopi ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’ti; yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’ti.",
+      "fr": "— Donc, Bhāradvāja, il semble qu'il n'y ait parmi les brahmanes pas même un seul qui dise: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.” Et qu'il n'y ait parmi les brahmanes ne serait-ce qu'un seul enseignant, ou bien un seul enseignant d'enseignant en remontant jusqu'à sept générations, qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.” Et qu'il n'y ait parmi les anciens sages brahmanes, les créateurs des hymnes, les compositeurs des hymnes — de ces anciens hymnes qui étaient autrefois chantés, récités et rassemblés, que les brahmanes chantent et répètent encore, répétant ce qui était alors dit, répétant ce qui était alors récité — c'est-à-dire Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa et Bhagu, qu'il n'y ait aucun d'eux qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
+    },
+    {
+      "pl": "“seyyathāpi, bhāradvāja, andhaveṇi paramparāsaṃsattā purimopi na passati majjhimopi na passati pacchimopi na passati; evameva kho, bhāradvāja, andhaveṇūpamaṃ maññe brāhmaṇānaṃ bhāsitaṃ sampajjati: purimopi na passati majjhimopi na passati pacchimopi na passati. taṃ kiṃ maññasi, bhāradvāja, nanu evaṃ sante brāhmaṇānaṃ amūlikā saddhā sampajjatī”ti?",
+      "fr": "Imagine, Bhāradvāja, qu'il y ait une file d'aveugles, se tenant chacun au précédent: le premier ne voit pas, ceux du milieu ne voient pas, et le dernier ne voit pas. De la même manière, Bhāradvāja, en ce qui concerne leur affirmation, les brahmanes se révèlent être semblables à une file d'aveugles: le premier ne voit pas, ceux du milieu ne voient pas, et le dernier ne voit pas. Alors qu'en penses-tu, Bhāradvāja, puisqu'il en est ainsi, la [saddha|foi] des brahmanes ne se révèle-t-elle pas être infondée?"
+    },
+    {
+      "pl": "“na khvettha, bho gotama, brāhmaṇā saddhāyeva payirupāsanti, anussavāpettha brāhmaṇā payirupāsantī”ti.",
+      "fr": "— Ce n'est pas seulement par [saddha|foi], [bho|Honorable] Gotama, que les brahmanes vénèrent cela, ils le vénèrent également comme une [anussava|tradition]."
+    },
+    {
+      "pl": "“pubbeva kho tvaṃ, bhāradvāja, saddhaṃ agamāsi, anussavaṃ idāni vadesi. pañca kho ime, bhāradvāja, dhammā diṭṭheva dhamme dvedhā vipākā. katame pañca? saddhā, ruci, anussavo, ākāraparivitakko, diṭṭhinijjhānakkhanti. ime kho, bhāradvāja, pañca dhammā diṭṭheva dhamme dvedhā vipākā.",
+      "fr": "— Bhāradvāja, tu as d'abord fait appel à la [saddha|foi], et maintenant tu parles de [anussava|tradition]. Il y a cinq choses, Bhāradvāja, qui peuvent avoir l'une de deux [vipaka|conséquences] [ditthevadhamme|visibles immédiatement]. Quelles sont ces cinq? La [saddha|foi], la préférence personnelle, [anussava|ce qu'on a appris], la réflexion profonde, et [dnk|l'acceptation d'une opinion après l'avoir méditée]. Voici, Bhāradvāja, quelles sont les cinq choses qui peuvent avoir l'une de deux [vipaka|conséquences] [ditthevadhamme|visibles immédiatement]."
+    },
+    {
+      "pl": "api ca, bhāradvāja, susaddahitaṃyeva hoti, tañca hoti rittaṃ tucchaṃ musā; no cepi susaddahitaṃ hoti, tañca hoti bhūtaṃ tacchaṃ anaññathā.",
+      "fr": "En effet, Bhāradvāja, certaines choses peuvent être acceptées par [saddha|foi], et se révéler pourtant vides, creuses et fallacieuses, tandis que d'autres peuvent ne pas être acceptées par [saddha|foi], et se révéler pourtant factuelles, correctes et sans erreur."
+    },
+    {
+      "pl": "api ca surucitaṃyeva hoti, tañca hoti rittaṃ tucchaṃ musā; no cepi surucitaṃyeva hoti, tañca hoti bhūtaṃ tacchaṃ anaññathā.",
+      "fr": "Certaines choses peuvent être acceptées par préférence personnelle, et se révéler pourtant vides, creuses et fallacieuses, tandis que d'autres peuvent ne pas être acceptées par préférence personnelle, et se révéler pourtant factuelles, correctes et sans erreur."
+    },
+    {
+      "pl": "api ca svānussutaṃyeva hoti, tañca hoti rittaṃ tucchaṃ musā; no cepi svānussutaṃyeva hoti, tañca hoti bhūtaṃ tacchaṃ anaññathā.",
+      "fr": "Certaines choses peuvent avoir été bien [anussava|apprises], et se révéler pourtant vides, creuses et fallacieuses, tandis que d'autres peuvent ne pas avoir été bien [anussava|apprises], et se révéler pourtant factuelles, correctes et sans erreur."
+    },
+    {
+      "pl": "api ca suparivitakkitaṃyeva hoti, tañca hoti rittaṃ tucchaṃ musā; no cepi suparivitakkitaṃyeva hoti, tañca hoti bhūtaṃ tacchaṃ anaññathā.",
+      "fr": "Certaines choses peuvent avoir été acceptées après réflexion profonde, et se révéler pourtant vides, creuses et fallacieuses, tandis que d'autres peuvent ne pas avoir été acceptées après réflexion profonde, et se révéler pourtant factuelles, correctes et sans erreur."
+    },
+    {
+      "pl": "api ca sunijjhāyitaṃyeva hoti, tañca hoti rittaṃ tucchaṃ musā; no cepi sunijjhāyitaṃyeva hoti, tañca hoti bhūtaṃ tacchaṃ anaññathā.",
+      "fr": "Certaines choses peuvent avoir été acceptées après avoir été méditées, et se révéler pourtant vides, creuses et fallacieuses, tandis que d'autres peuvent ne pas avoir été acceptées après avoir été méditées, et se révéler pourtant factuelles, correctes et sans erreur."
+    },
+    {
+      "pl": "saccamanurakkhatā, bhāradvāja, viññunā purisena nālamettha ekaṃsena niṭṭhaṃ gantuṃ: ‘idameva saccaṃ, moghamaññan’”ti.",
+      "fr": "Dans ces conditions, Bhāradvāja, il n'est pas correct pour un homme sage entendant préserver la vérité de tirer avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.”"
+    },
+    {
+      "pl": "“kittāvatā pana, bho gotama, saccānurakkhaṇā hoti, kittāvatā saccamanurakkhati? saccānurakkhaṇaṃ mayaṃ bhavantaṃ gotamaṃ pucchāmā”ti.",
+      "fr": "— Mais alors, [bho|Honorable] Gotama, comment y a-t-il préservation de la vérité, comment préserve-t-on la vérité? Nous questionnons [bho|Honorable] Gotama à propos de la préservation de la vérité."
+    },
+    {
+      "pl": "“saddhā cepi, bhāradvāja, purisassa hoti; ‘evaṃ me saddhā’ti.iti vadaṃ saccamanurakkhati, natveva tāva ekaṃsena niṭṭhaṃ gacchati: ‘idameva saccaṃ, moghamaññan’ti. ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ paññapema; na tveva tāva saccānubodho hotī”ti.",
+      "fr": "— Si un individu a une [saddha|foi], Bhāradvāja, il préserve la vérité en disant: “Ceci est ma [saddha|foi];” mais il ne tire pas encore avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.” C'est ainsi, Bhāradvāja, qu'il y a préservation de la vérité, qu'on préserve la vérité, c'est ainsi que je définis la préservation de la vérité. Mais ce n'est pas encore un [bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "ruci cepi, bhāradvāja, purisassa hoti; ‘evaṃ me rucī’ti.iti vadaṃ saccamanurakkhati, natveva tāva ekaṃsena niṭṭhaṃ gacchati: ‘idameva saccaṃ, moghamaññan’ti. ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ paññapema; na tveva tāva saccānubodho hotī”ti.",
+      "fr": "Si un individu a une préférence, Bhāradvāja, il préserve la vérité en disant: “Ceci est ma préférence;” mais il ne tire pas encore avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.” C'est ainsi, Bhāradvāja, qu'il y a préservation de la vérité, qu'on préserve la vérité, c'est ainsi que je définis la préservation de la vérité. Mais ce n'est pas encore un [bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "anussavo cepi, bhāradvāja, purisassa hoti; ‘evaṃ me anussavo’ti. iti vadaṃ saccamanurakkhati, natveva tāva ekaṃsena niṭṭhaṃ gacchati: ‘idameva saccaṃ, moghamaññan’ti. ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ paññapema; na tveva tāva saccānubodho hotī”ti.",
+      "fr": "Si un individu [accepte] une [anussava|tradition], Bhāradvāja, il préserve la vérité en disant: “Ceci est ma [anussava|tradition];” mais il ne tire pas encore avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.” C'est ainsi, Bhāradvāja, qu'il y a préservation de la vérité, qu'on préserve la vérité, c'est ainsi que je définis la préservation de la vérité. Mais ce n'est pas encore un [bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "ākāraparivitakko cepi, bhāradvāja, purisassa hoti; ‘evaṃ me ākāraparivitakko’ti. iti vadaṃ saccamanurakkhati, natveva tāva ekaṃsena niṭṭhaṃ gacchati: ‘idameva saccaṃ, moghamaññan’ti. ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ paññapema; na tveva tāva saccānubodho hotī”ti.",
+      "fr": "Si un individu [accepte quelque chose après] réflexion profonde, Bhāradvāja, il préserve la vérité en disant: “J'accepte ceci après réflexion profonde;” mais il ne tire pas encore avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.” C'est ainsi, Bhāradvāja, qu'il y a préservation de la vérité, qu'on préserve la vérité, c'est ainsi que je définis la préservation de la vérité. Mais ce n'est pas encore un [bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "diṭṭhinijjhānakkhanti cepi, bhāradvāja, purisassa hoti; ‘evaṃ me diṭṭhinijjhānakkhantī’ti. iti vadaṃ saccamanurakkhati, natveva tāva ekaṃsena niṭṭhaṃ gacchati: ‘idameva saccaṃ, moghamaññan’ti. ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ paññapema; na tveva tāva saccānubodho hotī”ti.",
+      "fr": "Si un individu [dnk|accepte une croyance après l'avoir méditée], Bhāradvāja, il préserve la vérité en disant: “J'[dnk|accepte cette croyance après l'avoir méditée];” mais il ne tire pas encore avec certitude la conclusion: “Ceci seulement est la vérité, toute le reste est sans valeur.” C'est ainsi, Bhāradvāja, qu'il y a préservation de la vérité, qu'on préserve la vérité, c'est ainsi que je définis la préservation de la vérité. Mais ce n'est pas encore un [bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "“ettāvatā, bho gotama, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṃ saccānurakkhaṇaṃ pekkhāma. kittāvatā pana, bho gotama, saccānubodho hoti, kittāvatā saccamanubujjhati? saccānubodhaṃ mayaṃ bhavantaṃ gotamaṃ pucchāmā”ti.",
+      "fr": "— De cette manière, [bho|Honorable] Gotama, il y a préservation de la vérité, de cette manière on préserve la vérité, c'est ainsi que nous voyons la préservation de la vérité. Mais alors, [bho|Honorable] Gotama, comment y a-t-il [bodhi|éveil] à la vérité, comment s'éveille-t-on à la vérité? Nous questionnons [bho|Honorable] Gotama à propos de l'[bodhi|éveil] à la vérité."
+    },
+    {
+      "pl": "“idha, bhāradvāja, bhikkhu aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati. tamenaṃ gahapati vā gahapatiputto vā upasaṅkamitvā tīsu dhammesu samannesati: lobhanīyesu dhammesu, dosanīyesu dhammesu, mohanīyesu dhammesu. atthi nu kho imassāyasmato tathārūpā lobhanīyā dhammā yathārūpehi lobhanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāyāti?",
+      "fr": "— À cet égard, Bhāradvāja, un mendiant vit en dépendance vis-àvis d'un certain village ou à une certaine ville. Alors un chef de foyer ou le fils d'un chef de foyer va le voir et l'observe par rapport à trois [dhamma|états mentaux]: par rapport aux [dhamma|états mentaux] basés sur l'[lobha|avidité], par rapport aux [dhamma|états mentaux] basés sur l'[dosa|aversion], par rapport aux [dhamma|états mentaux] basés sur la [moha|délusion]: “Y a-t-il chez ce [ayasma|vénérable] des [dhamma|états mentaux] basés sur l'[lobha|avidité], tels qu'avec un [citta|esprit] en proie à ces états, il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps?”"
+    },
+    {
+      "pl": "tamenaṃ samannesamāno evaṃ jānāti: ‘natthi kho imassāyasmato tathārūpā lobhanīyā dhammā yathārūpehi lobhanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāya. tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṃ aluddhassa. yaṃ kho pana ayamāyasmā dhammaṃ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo luddhenā’”ti.",
+      "fr": "En l'observant, il en vient à savoir: “Il n'y a chez ce [ayasma|vénérable] aucun [dhamma|état mental] basé sur l'[lobha|avidité], tel qu'avec un [citta|esprit] en proie à cet [dhamma|état mental] basé sur l'[lobha|avidité], il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps. La conduite corporelle et la conduite verbale de ce [ayasma|vénérable] sont celles de quelqu'un qui n'est pas affecté par l'[lobha|avidité]. Et le [dhamma|Dhamma] que ce [ayasma|vénérable] enseigne est profond, difficile à voir, il est difficile de s'y éveiller, il est paisible, sublime, au-delà du simple raisonnement, subtil, et à être vérifié par les sages. Ce [dhamma|Dhamma] ne peut être bien enseigné par quelqu'un qui est affecté par l'[lobha|avidité]."
+    },
+    {
+      "pl": "“yato naṃ samannesamāno visuddhaṃ lobhanīyehi dhammehi samanupassati tato naṃ uttari samannesati dosanīyesu dhammesu. atthi nu kho imassāyasmato tathārūpā dosanīyā dhammā yathārūpehi dosanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāyāti? tamenaṃ samannesamāno evaṃ jānāti: ‘natthi kho imassāyasmato tathārūpā dosanīyā dhammā yathārūpehi dosanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāya. tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṃ aduṭṭhassa. yaṃ kho pana ayamāyasmā dhammaṃ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo duṭṭhenā’”ti.",
+      "fr": "Lorsqu'il l'a observé et a vu qu'il est purifié des [dhamma|états mentaux] basés sur l'[lobha|avidité], il l'observe ensuite par rapport aux [dhamma|états mentaux] basés sur l'[dosa|aversion]: “Y a-t-il chez ce [ayasma|vénérable] des [dhamma|états mentaux] basés sur l'[dosa|aversion], tels qu'avec un [citta|esprit] en proie à ces [dhamma|états mentaux] basés sur l'[dosa|aversion], il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps?” En l'observant, il en vient à savoir: “Il n'y a chez ce [ayasma|vénérable] aucun [dhamma|état mental] basé sur l'[dosa|aversion], tel qu'avec un [citta|esprit] en proie à cet [dhamma|état mental] basé sur l'[dosa|aversion], il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps. La conduite corporelle et la conduite verbale de ce [ayasma|vénérable] sont celles de quelqu'un qui n'est pas affecté par l'[dosa|aversion]. Et le [dhamma|Dhamma] que ce [ayasma|vénérable] enseigne est profond, difficile à voir, difficile à saisir, tranquille, sublime, au-delà du simple raisonnement, subtil, à être vérifié par les sages. Ce [dhamma|Dhamma] ne peut être bien enseigné par quelqu'un qui est affecté par l'[dosa|aversion]."
+    },
+    {
+      "pl": "“yato naṃ samannesamāno visuddhaṃ dosanīyehi dhammehi samanupassati, tato naṃ uttari samannesati mohanīyesu dhammesu. atthi nu kho imassāyasmato tathārūpā mohanīyā dhammā yathārūpehi mohanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāyāti? tamenaṃ samannesamāno evaṃ jānāti: ‘natthi kho imassāyasmato tathārūpā mohanīyā dhammā yathārūpehi mohanīyehi dhammehi pariyādinnacitto ajānaṃ vā vadeyya jānāmīti, apassaṃ vā vadeyya passāmīti, paraṃ vā tadatthāya samādapeyya yaṃ paresaṃ assa dīgharattaṃ ahitāya dukkhāya. tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṃ amūḷhassa. yaṃ kho pana ayamāyasmā dhammaṃ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo mūḷhenā’”ti.",
+      "fr": "Lorsqu'il l'a observé et a vu qu'il est purifié des [dhamma|états mentaux] basés sur l'[dosa|aversion], il l'observe ensuite par rapport aux [dhamma|états mentaux] basés sur la [moha|délusion]: “Y a-t-il chez ce [ayasma|vénérable] des [dhamma|états mentaux] basés sur la [moha|délusion], tels qu'avec un [citta|esprit] en proie à ces [dhamma|états mentaux] basés sur la [moha|délusion], il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps?” En l'observant, il en vient à savoir: “Il n'y a chez ce [ayasma|vénérable] aucun [dhamma|état mental] basé sur la [moha|délusion], tel qu'avec un [citta|esprit] en proie à cet [dhamma|état mental] basé sur la [moha|délusion], il puisse dire 'Je sais' alors qu'il ne sait pas, ou qu'il puisse dire 'Je vois' alors qu'il ne voit pas, ou qu'il puisse inciter un autre à agir d'une manière qui le mènerait à son malheur et son [dukkha|mal-être] pendant longtemps. La conduite corporelle et la conduite verbale de ce [ayasma|vénérable] sont celles de quelqu'un qui n'est pas affecté par la [moha|délusion]. Et le [dhamma|Dhamma] que ce [ayasma|vénérable] enseigne est profond, difficile à voir, difficile à saisir, tranquille, sublime, au-delà du simple raisonnement, subtil, à être vérifié par les sages. Ce [dhamma|Dhamma] ne peut être bien enseigné par quelqu'un qui est affecté par la [moha|délusion]."
+    },
+    {
+      "pl": "“yato naṃ samannesamāno visuddhaṃ mohanīyehi dhammehi samanupassati; atha tamhi saddhaṃ niveseti. saddhājāto upasaṅkamati, upasaṅkamanto payirupāsati, payirupāsanto sotaṃ odahati, ohitasoto dhammaṃ suṇāti, sutvā dhammaṃ dhāreti, dhatānaṃ dhammānaṃ atthaṃ upaparikkhati, atthaṃ upaparikkhato dhammā nijjhānaṃ khamanti, dhammanijjhānakkhantiyā sati chando jāyati, chandajāto ussahati, ussahitvā tuleti, tulayitvā padahati, pahitatto samāno kāyena ceva paramasaccaṃ sacchikaroti paññāya ca naṃ ativijjha passati. ettāvatā kho, bhāradvāja, saccānubodho hoti, ettāvatā saccamanubujjhati, ettāvatā ca mayaṃ saccānubodhaṃ paññapema.",
+      "fr": "Lorsqu'il l'a observé et a vu qu'il est purifié des [dhamma|états mentaux] basés sur la [moha|délusion], il place sa [saddha|conviction] en lui. Rempli de [saddha|conviction], il vient lui rendre visite. Étant venu lui rendre visite, il s'assoit près de lui. Étant assis près de lui, il prête l'oreille. Ayant prêté l'oreille, il entend le [dhamma|Dhamma]. Ayant entendu le [dhamma|Dhamma], il le retient à l'esprit. Ayant retenu le [dhamma|Dhamma] à l'esprit, il examine sa [attha|signification]. Ayant examiné sa [attha|signification], il l'accepte après avoir médité sur les [dhamma|phénomènes]. L'ayant accepté après avoir médité sur les [dhamma|phénomènes], le [chanda|zèle] apparaît [en lui]. Le [chanda|zèle] étant apparu, il s'exerce. S'étant exercé, il investigue. Ayant investigué, il s'efforce. En s'efforçant, il fait l'expérience dans son [kaya|corps] de la vérité ultime et la voit en la pénétrant avec [panna|discernement]. Voici, Bhāradvāja, comment il y a [bodhi|éveil] à la vérité, comment on s'éveille à la vérité, c'est ainsi que je définis l'[bodhi|éveil] à la vérité."
+    },
+    { "pl": "...", "fr": "..." }
+  ],
+  "translator": "Rémy"
+}

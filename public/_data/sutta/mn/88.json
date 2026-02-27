@@ -1,0 +1,267 @@
+﻿{
+  "identifier": "MN 88",
+  "plTitle": "Bāhitikā Sutta",
+  "frTitle": "Le manteau",
+  "description": "Le roi Passénadi du Kossala veut comprendre ce qui est recommandé ou pas par les [samana|renonçants] et [brahmana|brahmanes] qui sont sages, et il pose à Ānanda des séries de questions qui nous permettent de mieux comprendre le sens des mots kusala (avantageux) et akusala (désavantageux).",
+  "body": [
+    { "pl": "...", "fr": "..." },
+    {
+      "pl": "Katamo pana, bhante ānanda, kāya·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] Ānanda, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro akusalo.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui est [akusala|désavantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro akusalo?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] est [akusala|désavantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro sāvajjo.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui est [savajja|condamnable]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro sāvajjo?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] est [savajja|condamnable]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro sabyāpajjho.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui est perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro sabyāpajjho?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] est perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro dukkha·vipāko.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui a pour [vipaka|résultat] le [dukkha|mal-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro dukkha·vipāko?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] a pour [vipaka|résultat] le [dukkha|mal-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro atta·byābādhāya·pi saṃvattati, para·byābādhāya·pi saṃvattati, ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti: evarūpo kho, mahārāja, kāya·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui mène à son propre préjudice, mène au préjudice des autres, mène au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] augmentent et les [dhamma|états] [kusala|avantageux] diminuent: une telle conduite corporelle, Maharaja, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Katamo pana, bhante ānanda, vacī·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] Ānanda, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro akusalo.",
+      "fr": "— Toute conduite verbale, Maharaja, qui est [akusala|désavantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro akusalo?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] est [akusala|désavantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro sāvajjo.",
+      "fr": "— Toute conduite verbale, Maharaja, qui est [savajja|condamnable]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro sāvajjo?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] est [savajja|condamnable]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro sabyāpajjho.",
+      "fr": "— Toute conduite verbale, Maharaja, qui est perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro sabyāpajjho?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] est perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro dukkha·vipāko.",
+      "fr": "— Toute conduite verbale, Maharaja, qui a pour [vipaka|résultat] le [dukkha|mal-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro dukkha·vipāko?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] a pour [vipaka|résultat] le [dukkha|mal-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro atta·byābādhāya·pi saṃvattati, para·byābādhāya·pi saṃvattati, ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti: evarūpo kho, mahārāja, vacī·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite verbale, Maharaja, qui mène à son propre préjudice, mène au préjudice des autres, mène au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] augmentent et les [dhamma|états] [kusala|avantageux] diminuent: une telle conduite verbale, Maharaja, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Katamo pana, bhante ānanda, mano·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] Ānanda, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro akusalo.",
+      "fr": "— Toute conduite mentale, Maharaja, qui est [akusala|désavantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro akusalo?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] est [akusala|désavantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro sāvajjo.",
+      "fr": "— Toute conduite mentale, Maharaja, qui est [savajja|condamnable]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro sāvajjo?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] est [savajja|condamnable]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro sabyāpajjho.",
+      "fr": "— Toute conduite mentale, Maharaja, qui est perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro sabyāpajjho?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] est perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro dukkha·vipāko.",
+      "fr": "— Toute conduite mentale, Maharaja, qui a pour [vipaka|résultat] le [dukkha|mal-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro dukkha·vipāko?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] a pour [vipaka|résultat] le [dukkha|mal-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro atta·byābādhāya·pi saṃvattati, para·byābādhāya·pi saṃvattati, ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti: evarūpo kho, mahārāja, mano·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite mentale, Maharaja, qui mène à son propre préjudice, mène au préjudice des autres, mène au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] augmentent et les [dhamma|états] [kusala|avantageux] diminuent: une telle conduite mentale, Maharaja, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Kiṃ nu kho, bhante ānanda, so bhagavā sabbesaṃyeva akusalānaṃ dhammānaṃ pahānaṃ vaṇṇetī·ti?",
+      "fr": "— Est-ce, [bhante|Bhanté] Ānanda, que le Bhagavā recommande l'abandon de tous ces [dhamma|états] [akusala|désavantageux]?"
+    },
+    {
+      "pl": "Sabb·ākusala·dhamma·pahīno kho, mahārāja, tathāgato kusala·dhamma·samannāgato·ti.",
+      "fr": "— Le [tathagata|Tathagata], Maharaja, a abandonné tous les [dhamma|états] [akusala|désavantageux], et n'est doué que d'[dhamma|états] [kusala|avantageux]."
+    },
+    {
+      "pl": "Katamo pana, bhante ānanda, kāya·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] Ānanda, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro kusalo.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui est [kusala|avantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro kusalo?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] est [kusala|avantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro anavajjo.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui est [anavajja|sans reproche]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro anavajjo?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] est [anavajja|sans reproche]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro abyābajjho.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui n'est pas perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro abyābajjho?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] n'est pas perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro sukha·vipāko.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui a pour [vipaka|résultat] le [sukha|bien-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante kāya·samācāro sukha·vipāko?",
+      "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] a pour [vipaka|résultat] le [sukha|bien-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, kāya·samācāro nev·atta·byābādhāya·pi saṃvattati, na para·byābādhāya·pi saṃvattati, na ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti; evarūpo kho, mahārāja, kāya·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite corporelle, Maharaja, qui ne mène ni à son propre préjudice, ni au préjudice des autres, ni au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] diminuent et les [dhamma|états] [kusala|avantageux] augmentent: une telle conduite corporelle, Maharaja, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Katamo pana, bhante ānanda, vacī·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] Ānanda, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro kusalo.",
+      "fr": "— Toute conduite verbale, Maharaja, qui est [kusala|avantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro kusalo?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] est [kusala|avantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro anavajjo.",
+      "fr": "— Toute conduite verbale, Maharaja, qui est [anavajja|sans reproche]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro anavajjo?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] est [anavajja|sans reproche]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro abyābajjho.",
+      "fr": "— Toute conduite verbale, Maharaja, qui n'est pas perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro abyābajjho?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] n'est pas perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro sukha·vipāko.",
+      "fr": "— Toute conduite verbale, Maharaja, qui a pour [vipaka|résultat] le [sukha|bien-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante vacī·samācāro sukha·vipāko?",
+      "fr": "— Et quel type de conduite verbale, [bhante|Bhanté] a pour [vipaka|résultat] le [sukha|bien-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, vacī·samācāro nev·atta·byābādhāya·pi saṃvattati, na para·byābādhāya·pi saṃvattati, na ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti; evarūpo kho, mahārāja, vacī·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite verbale, Maharaja, qui ne mène ni à son propre préjudice, ni au préjudice des autres, ni au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] diminuent et les [dhamma|états] [kusala|avantageux] augmentent: une telle conduite verbale, Maharaja, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Katamo pana, bhante ānanda, mano·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] Ānanda, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro kusalo.",
+      "fr": "— Toute conduite mentale, Maharaja, qui est [kusala|avantageuse]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro kusalo?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] est [kusala|avantageuse]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro anavajjo.",
+      "fr": "— Toute conduite mentale, Maharaja, qui est [anavajja|sans reproche]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro anavajjo?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] est [anavajja|sans reproche]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro abyābajjho.",
+      "fr": "— Toute conduite mentale, Maharaja, qui n'est pas perturbatrice."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro abyābajjho?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] n'est pas perturbatrice?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro sukha·vipāko.",
+      "fr": "— Toute conduite mentale, Maharaja, qui a pour [vipaka|résultat] le [sukha|bien-être]."
+    },
+    {
+      "pl": "Katamo pana, bhante mano·samācāro sukha·vipāko?",
+      "fr": "— Et quel type de conduite mentale, [bhante|Bhanté] a pour [vipaka|résultat] le [sukha|bien-être]?"
+    },
+    {
+      "pl": "Yo kho, mahārāja, mano·samācāro nev·atta·byābādhāya·pi saṃvattati, na para·byābādhāya·pi saṃvattati, na ubhaya·byābādhāya·pi saṃvattati tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti; evarūpo kho, mahārāja, mano·samācāro anopārambho samaṇehi brāhmaṇehi viññūhī·ti.",
+      "fr": "— Toute conduite mentale, Maharaja, qui ne mène ni à son propre préjudice, ni au préjudice des autres, ni au préjudice des deux, et en raison de laquelle les [dhamma|états] [akusala|désavantageux] diminuent et les [dhamma|états] [kusala|avantageux] augmentent: une telle conduite mentale, Maharaja, n'est pas réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages."
+    },
+    {
+      "pl": "Kiṃ pana, bhante ānanda, so bhagavā sabbesaṃyeva kusalānaṃ dhammānaṃ upasampadaṃ vaṇṇetī·ti?",
+      "fr": "— Est-ce, [bhante|Bhanté] Ānanda, que le Bhagavā recommande la poursuite de tous ces [dhamma|états] [kusala|avantageux]?"
+    },
+    {
+      "pl": "Sabb·ākusala·dhamma·pahīno kho, mahārāja, tathāgato kusala·dhamma·samannāgato·ti.",
+      "fr": "— Le [tathagata|Tathagata], Maharaja, a abandonné tous les [dhamma|états] [akusala|désavantageux], et n'est doué que d'[dhamma|états] [kusala|avantageux]."
+    },
+    { "pl": "...", "fr": "..." }
+  ],
+  "translator": "Rémy"
+}
