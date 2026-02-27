@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "SN 47.42",
+  "plTitle": "Samudaya Sutta",
+  "frTitle": "L'apparition",
+  "description": "L'apparition et la disparition des quatre objets des mises en place de la présence d'esprit.",
+  "body": [
+    {
+      "pl": "“catunnaṃ, bhikkhave, satipaṭṭhānānaṃ samudayañca atthaṅgamañca desessāmi. taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner l'[samudaya|apparition] et la disparition des quatre [objets des] [satipatthana|mises en place de la présence d'esprit]. Écoutez cela."
+    },
+    {
+      "pl": "ko ca, bhikkhave, kāyassa samudayo? āhārasamudayā kāyassa samudayo; āhāranirodhā kāyassa atthaṅgamo.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], l'[samudaya|apparition] du [kaya|corps]? À cause de l'[samudaya|apparition] de la [ahara|nourriture], il y a l'[samudaya|apparition] du [kaya|corps]. À cause de la [nirodha|cessation] de la [ahara|nourriture], il y a la disparition du [kaya|corps]."
+    },
+    {
+      "pl": "phassasamudayā vedanānaṃ samudayo; phassanirodhā vedanānaṃ atthaṅgamo.",
+      "fr": "À cause de l'[samudaya|apparition] du [phassa|contact], il y a l'[samudaya|apparition] des [vedana|ressentis]. À cause de la [nirodha|cessation] du [phassa|contact], il y a la disparition des [vedana|ressentis]."
+    },
+    {
+      "pl": "nāmarūpasamudayā cittassa samudayo; nāmarūpanirodhā cittassa atthaṅgamo.",
+      "fr": "À cause de l'[samudaya|apparition] du [namarupa|Nom-et-Forme], il y a l'[samudaya|apparition] de l'[citta|esprit]. À cause de la [nirodha|cessation] du [namarupa|Nom-et-Forme], il y a la disparition de l'[citta|esprit]."
+    },
+    {
+      "pl": "manasikārasamudayā dhammānaṃ samudayo; manasikāranirodhā dhammānaṃ atthaṅgamo”ti.",
+      "fr": "À cause de l'[samudaya|apparition] de l'[manasikara|attention], il y a l'[samudaya|apparition] des [dhamma|phénomènes]. À cause de la [nirodha|cessation] de l'[manasikara|attention], il y a la disparition des [dhamma|phénomènes]."
+    }
+  ],
+  "translator": "Sekha."
+}

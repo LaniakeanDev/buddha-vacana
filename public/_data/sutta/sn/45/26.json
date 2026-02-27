@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 45.26",
+  "plTitle": "Sappurisa Sutta",
+  "frTitle": "Une bonne personne",
+  "description": "Une définition de ce qu'est une bonne ou une mauvaise personne (a/sappurisa) par rapport à la noble voie.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi:" },
+    {
+      "pl": "“asappurisañca vo, bhikkhave, desessāmi, asappurisena asappurisatarañca. sappurisañca vo, bhikkhave, desessāmi sappurisena sappurisatarañca. taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'estune [asappurisa|mauvaise personne] et une personne pire qu'une [asappurisa|mauvaise personne]. Je vais vous enseigner ce qu'est une [sappurisa|bonne personne] et une personne meilleure qu'une [sappurisa|bonne personne]. Écoutez cela."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, asappuriso? idha, bhikkhave, ekacco micchādiṭṭhiko hoti, micchāsaṅkappo, micchāvāco, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi. ayaṃ vuccati, bhikkhave, asappuriso”.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une [asappurisa|mauvaise personne]? À cet égard, un certain individu a une [micchaditthi|vue erronée], une [sankappa|aspiration] erronée, des [vaca|paroles] erronées, des actions erronées, un moyen de subsistance erroné, un [vayama|effort] erroné, une [sati|présence d'esprit] erronée, et une [samadhi|concentration] erronée. Voici, [bhikkhu|mendiants], ce qu'on appelle une [asappurisa|mauvaise personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, asappurisena asappurisataro? idha, bhikkhave, ekacco micchādiṭṭhiko hoti, micchāsaṅkappo, micchāvāco, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇī, micchāvimutti. ayaṃ vuccati, bhikkhave, asappurisena asappurisataro.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une personne pire qu'une [asappurisa|mauvaise personne]? À cet égard, un certain individu a une [micchaditthi|vue erronée], une [sankappa|aspiration] erronée, des [vaca|paroles] erronées, des actions erronées, un moyen de subsistance erroné, un [vayama|effort] erroné, une [sati|présence d'esprit] erronée, une [samadhi|concentration] erronée, une [nana|connaissance] erronée et une [vimutti|libération] erronée. Voici, [bhikkhu|mendiants], ce qu'on appelle une personne pire qu'une [asappurisa|mauvaise personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, sappuriso? idha, bhikkhave, ekacco sammādiṭṭhiko hoti, sammāsaṅkappo, sammāvāco, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi. ayaṃ vuccati, bhikkhave, sappuriso.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une [sappurisa|bonne personne]? À cet égard, un certain individu a une vue correcte, une [sammasankappa|aspiration correcte], des [sammavaca|paroles correctes], des [sammakammanta|actions correctes], des [sammaajiva|moyens de subsistance corrects], un [sammavayama|effort correct], une [sati|présence d'esprit correcte], et une [samadhi|concentration correcte]. Voici, [bhikkhu|mendiants], ce qu'on appelle une [sappurisa|bonne personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, sappurisena sappurisataro? idha, bhikkhave, ekacco sammādiṭṭhiko hoti, sammāsaṅkappo, sammāvāco, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇī, sammāvimutti. ayaṃ vuccati, bhikkhave, sappurisena sappurisataro”ti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une personne meilleure qu'une [sappurisa|bonne personne]? À cet égard, un certain individu a une vue correcte, une [sammasankappa|aspiration correcte], des [sammavaca|paroles correctes], des [sammakammanta|actions correctes], des [sammaajiva|moyens de subsistance corrects], un [sammavayama|effort correct], une [sati|présence d'esprit correcte], une [samadhi|concentration correcte], une [nana|connaissance] correcte et une [vimutti|libération] correcte. Voici, [bhikkhu|mendiants], ce qu'on appelle une personne meilleure qu'une [sappurisa|bonne personne]."
+    }
+  ],
+  "translator": "Rémy"
+}

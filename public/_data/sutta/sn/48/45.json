@@ -1,0 +1,34 @@
+﻿{
+  "identifier": "SN 48.45",
+  "plTitle": "Pubbārāma Sutta",
+  "frTitle": "L'ermitage de l'Est",
+  "description": "Cette série de soutta constitue un bon exemple où le Bouddha donne différentes réponses à la même question, montrant ainsi que le Dhamma peut être expliqué de manières différentes.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde.tatra kho bhagavā bhikkhū āmantesi",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans l'ermitage de l'est, le manoir de la mère de Migara.Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“katinaṃ nu kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī”ti?",
+      "fr": "«[bhikkhu|Mendiants], par le développement et la cultivation abondante de combien de [indriya|facultés spirituelles] un [bhikkhu|mendiant] ayant détruit les [asava|impuretés mentales] déclare-t-il [avoir atteint] la connaissance finale: [i]“je discerne: c'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence”[/i]?"
+    },
+    {
+      "pl": "bhagavaṃmūlakā no, bhante, dhammā bhagavannettikā bhagavampaṭisaraṇā. sādhu, bhante, bhagavantaññeva paṭibhātu etassa bhāsitassa attho. bhagavato sutvā bhikkhū dhāressantī”ti.",
+      "fr": "—Pour nous, [bhante|Bhanté], le [dhamma|Dhamma] est enraciné dans le [bhagava|Fortuné], il est guidé par le [bhagava|Fortuné], il est protégé par le [bhagava|Fortuné]. Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront."
+    },
+    {
+      "pl": "“tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
+      "fr": "—Alors écoutez cela, [bhikkhu|mendiants], et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“ekassa kho, bhikkhave, indriyassa bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. katamassa ekassa? paññindriyassa paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṃ vīriyaṃ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhāti. imassa kho, bhikkhave, ekassa indriyassa bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti — ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī”ti.",
+      "fr": "«[bhikkhu|Mendiants], c'est par le développement et la cultivation abondante d'une seule [indriya|faculté spirituelle] qu'un [bhikkhu|mendiant] ayant détruit les [asava|impuretés mentales] déclare [avoir atteint] la connaissance finale: [i]“je discerne: c'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence”[/i]. Quelle est cette [indriya|faculté spirituelle]? La [indriya|faculté] de [panna|discernement]. Chez un [ariyasavaka|noble disciple] pourvu de [panna|discernement], la [indriya|faculté] de [saddha|conviction] qui en résulte s'affermit, la [indriya|faculté] d'[viriya|énergie] qui en résulte s'affermit, la [indriya|faculté] de [sati|présence d'esprit] qui en résulte s'affermit, et la [indriya|faculté] de [samadhi|concentration] qui en résulte s'affermit. [bhikkhu|Mendiants], c'est par le développement et la cultivation abondante de cette unique [indriya|faculté spirituelle] qu'un [bhikkhu|mendiant] ayant détruit les [asava|impuretés mentales] déclare [avoir atteint] la connaissance finale: [i]“je discerne: c'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence”[/i].»"
+    }
+  ],
+  "translator": "Sekha"
+}

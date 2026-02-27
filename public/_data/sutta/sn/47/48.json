@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "SN 47.48",
+  "plTitle": "Mitta Sutta",
+  "frTitle": "Les amis",
+  "description": "Vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu'ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents,dans le développement de ces quatre choses.",
+  "body": [
+    {
+      "pl": "“ye, bhikkhave, anukampeyyātha, ye ca kho sotabbaṃ maññeyyuṃ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, catunnaṃ satipaṭṭhānānaṃ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[bhikkhu|Mendiants], vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu'ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents,dans le développement des quatre [satipatthana|mises en place de l'attention]."
+    },
+    {
+      "pl": "“katamesaṃ, catunnaṃ? idha tvaṃ, bhikkhu, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharāhiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Et quelles sont ces quatre? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "ye, bhikkhave, anukampeyyātha, ye ca sotabbaṃ maññeyyuṃ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, imesaṃ catunnaṃ satipaṭṭhānānaṃ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti.",
+      "fr": "[bhikkhu|Mendiants], ceux envers qui vous éprouvez de la sympathie, qui pensent qu'ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents, vous devriez les exhorter, les installer, les établir dans le développement de ces quatre [satipatthana|mises en place de l'attention]. "
+    }
+  ],
+  "translator": "Sekha"
+}

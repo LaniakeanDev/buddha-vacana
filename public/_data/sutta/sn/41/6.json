@@ -1,0 +1,123 @@
+﻿{
+  "identifier": "SN 41.6",
+  "plTitle": "Kāmabhū Sutta",
+  "frTitle": "Questions pour Kamabhou",
+  "description": "Tchitta pose une série de questions au vénérable Kamabhou, au sujet des Constructions, puis de la cessation de la perception et du ressenti.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane. atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho citto gahapati āyasmantaṃ kāmabhuṃ etadavoca",
+      "fr": "Un jour, le [ayasma|vénérable] Kamabhou séjournait près de Macchikassanda, dans la mangueraie. Ce jour-là, Tchitta le chef de foyer vint voir le [ayasma|vénérable] Kamabhou, s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“kati nu kho, bhante, saṅkhārā”ti?",
+      "fr": "«[bhante|Bhanté], combien y a-t-il de [types de] [sankhara|Constructions]?"
+    },
+    {
+      "pl": "“tayo kho, gahapati, saṅkhārā — kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.",
+      "fr": "—Chef de foyer, il y a trois [types de] [sankhara|Constructions]: la [sankhara|Construction] corporelle, la [sankhara|Construction] verbale et la [sankhara|Construction] mentale."
+    },
+    { "pl": "“sādhu, bhante”ti", "fr": "—Excellent, [bhante|Bhanté].»" },
+    {
+      "pl": "kho citto gahapati āyasmato kāmabhussa bhāsitaṃ abhinanditvā anumoditvā āyasmantaṃ kāmabhuṃ uttariṃ pañhaṃ apucchi",
+      "fr": "Ayant approuvé les paroles du [ayasma|vénérable] Kamabhou et s'en étant réjoui, Tchitta le chef de foyer lui posa une question supplémentaire:"
+    },
+    {
+      "pl": "“katamo pana, bhante, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?",
+      "fr": "«Mais [bhante|Bhanté], qu'est-ce que la [sankhara|Construction] corporelle, qu'est-ce que la [sankhara|Construction] verbale, qu'est-ce que la [sankhara|Construction] mentale?"
+    },
+    {
+      "pl": "“assāsapassāsā kho, gahapati, kāyasaṅkhāro, vitakkavicārā vacīsaṅkhāro, saññā ca vedanā ca cittasaṅkhāro”ti.",
+      "fr": "—Chef de foyer, l'inspiration et l'expiration constituent la [sankhara|Construction] corporelle, les [vitakka|pensées actives] et [vicara|passives] constituent la [sankhara|Construction] verbale, la [sanna|perception] et le [vedana|ressenti] constituent la [sankhara|Construction] mentale."
+    },
+    { "pl": "“sādhu, bhante”ti", "fr": "—Excellent, [bhante|Bhanté].»" },
+    {
+      "pl": "kho citto gahapati āyasmato kāmabhussa bhāsitaṃ abhinanditvā anumoditvā āyasmantaṃ kāmabhuṃ uttariṃ pañhaṃ apucchi",
+      "fr": "Ayant approuvé les paroles du [ayasma|vénérable] Kamabhou et s'en étant réjoui, Tchitta le chef de foyer lui posa une question supplémentaire:"
+    },
+    {
+      "pl": "“kasmā pana, bhante, assāsapassāsā kāyasaṅkhāro, kasmā vitakkavicārā vacīsaṅkhāro, kasmā saññā ca vedanā ca cittasaṅkhāro”ti?",
+      "fr": "«Mais pourquoi, [bhante|Bhanté], l'inspiration et l'expiration constituent-elles la [sankhara|Construction] corporelle, pourquoi les [vitakka|pensées actives] et [vicara|passives] constituent-elles la [sankhara|Construction] verbale, pourquoi la [sanna|perception] et le [vedana|ressenti] constituent-ils la [sankhara|Construction] mentale?"
+    },
+    {
+      "pl": "“assāsapassāsā kho, gahapati, kāyikā. ete dhammā kāyappaṭibaddhā, tasmā assāsapassāsā kāyasaṅkhāro. pubbe kho, gahapati, vitakketvā vicāretvā pacchā vācaṃ bhindati, tasmā vitakkavicārā vacīsaṅkhāro. saññā ca vedanā ca cetasikā. ete dhammā cittappaṭibaddhā, tasmā saññā ca vedanā ca cittasaṅkhāro”ti.",
+      "fr": "—L'inspiration et l'expiration sont corporelles. Ces [dhamma|phénomènes] sont liés au corps, c'est pourquoi l'inspiration et l'expiration constituent la [sankhara|Construction] corporelle. D'abord on pense activement et passivement, et ensuite on se met à parler, c'est pourquoi les [vitakka|pensées actives] et [vicara|passives] constituent la [sankhara|Construction] verbale. Les [sanna|perceptions] et les [vedana|ressentis] sont mentaux. Ces [dhamma|phénomènes] sont liés à l'esprit, c'est pourquoi la [sanna|perception] et le [vedana|ressenti] constituent la [sankhara|Construction] mentale."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“kathaṃ pana, bhante, saññāvedayitanirodhasamāpatti hotī”ti?",
+      "fr": "«Et qu'est-ce, [bhante|Bhanté], que l'atteinte de la [sannavedayitanirodha|cessation de la perception et du ressenti]?"
+    },
+    {
+      "pl": "“na kho, gahapati, saññāvedayitanirodhaṃ samāpajjantassa bhikkhuno evaṃ hoti — ‘ahaṃ saññāvedayitanirodhaṃ samāpajjissan’ti vā ‘ahaṃ saññāvedayitanirodhaṃ samāpajjāmī’ti vā ‘ahaṃ saññāvedayitanirodhaṃ samāpanno’ti vā. atha khvassa pubbeva tathā cittaṃ bhāvitaṃ hoti yaṃ taṃ tathattāya upanetī”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] atteint la [sannavedayitanirodha|cessation de la perception et du ressenti], il ne se dit pas: [i]“je vais atteindre la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i], ni [i]“je suis en train d'atteindre la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i], ni [i]“j'ai atteint la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i]. Simplement, son esprit a été développé d'une telle manière qu'il atteint cet état."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“saññāvedayitanirodhaṃ samāpajjantassa pana, bhante, bhikkhuno katame dhammā paṭhamaṃ nirujjhanti, yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?",
+      "fr": "«[bhante|Bhanté], lorsqu'un [bhikkhu|mendiant] atteint la [sannavedayitanirodha|cessation de la perception et du ressenti], quels sont les Constructions qui cessent en premier: la [sankhara|Construction] corporelle, la [sankhara|Construction] verbale, ou la [sankhara|Construction] mentale?"
+    },
+    {
+      "pl": "“saññāvedayitanirodhaṃ samāpajjantassa kho, gahapati, bhikkhuno vacīsaṅkhāro paṭhamaṃ nirujjhati, tato kāyasaṅkhāro, tato cittasaṅkhāro”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] atteint la [sannavedayitanirodha|cessation de la perception et du ressenti], la [sankhara|Construction] verbale cesse en premier, ensuite la [sankhara|Construction] corporelle, et enfin la [sankhara|Construction] mentale."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“yvāyaṃ, bhante, mato kālaṅkato, yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno, imesaṃ kiṃ nānākaraṇan”ti?",
+      "fr": "«[bhante|Bhanté], quelle est la différence entre celui qui est mort, décédé, et un [bhikkhu|mendiant] ayant atteint la [sannavedayitanirodha|cessation de la perception et du ressenti]?"
+    },
+    {
+      "pl": "“yvāyaṃ gahapati, mato kālaṅkato tassa kāyasaṅkhāro niruddho paṭippassaddho, vacīsaṅkhāro niruddho paṭippassaddho, cittasaṅkhāro niruddho paṭippassaddho, āyu parikkhīṇo, usmā vūpasantā, indriyāni viparibhinnāni. yo ca khvāyaṃ, gahapati, bhikkhu saññāvedayitanirodhaṃ samāpanno, tassapi kāyasaṅkhāro niruddho paṭippassaddho, vacīsaṅkhāro niruddho paṭippassaddho, cittasaṅkhāro niruddho paṭippassaddho, āyu aparikkhīṇo, usmā avūpasantā, indriyāni vippasannāni. yvāyaṃ, gahapati, mato kālaṅkato, yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno, idaṃ nesaṃ nānākaraṇan”ti.",
+      "fr": "—Chez celui qui est mort, décédé, la [sankhara|Construction] corporelle s'est arrêtée et a cessé, la [sankhara|Construction] verbale s'est arrêtée et a cessé, la [sankhara|Construction] mentale s'est arrêtée et a cessé, son temps de vie est épuisé, sa chaleur [corporelle] s'est éteinte, et ses [indriya|facultés] sont détruites. Chez un [bhikkhu|mendiant] ayant atteint la [sannavedayitanirodha|cessation de la perception et du ressenti], la [sankhara|Construction] corporelle s'est également arrêtée et a cessé, la [sankhara|Construction] verbale s'est arrêtée et a cessé, la [sankhara|Construction] mentale s'est arrêtée et a cessé, mais son temps de vie n'est pas épuisé, sa chaleur [corporelle] ne s'est pas éteinte, et ses [indriya|facultés] sont lucides. Voici, chef de foyer, quelle est la différence entre celui qui est mort, décédé, et un [bhikkhu|mendiant] ayant atteint la [sannavedayitanirodha|cessation de la perception et du ressenti]."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“kathaṃ pana, bhante, saññāvedayitanirodhasamāpattiyā vuṭṭhānaṃ hotī”ti?",
+      "fr": "«[bhante|Bhanté], comment émerge-t-on de la [sannavedayitanirodha|cessation de la perception et du ressenti]?"
+    },
+    {
+      "pl": "“na kho, gahapati, saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa bhikkhuno evaṃ hoti — ‘ahaṃ saññāvedayitanirodhasamāpattiyā vuṭṭhahissan’ti vā ‘ahaṃ saññāvedayitanirodhasamāpattiyā vuṭṭhahāmī’ti vā ‘ahaṃ saññāvedayitanirodhasamāpattiyā vuṭṭhito’ti vā. atha khvassa pubbeva tathā cittaṃ bhāvitaṃ hoti, yaṃ taṃ tathattāya upanetī”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] émerge de la [sannavedayitanirodha|cessation de la perception et du ressenti], il ne se dit pas: [i]“je vais émerger de la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i], ni [i]“je suis en train d'émerger de la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i], ni [i]“j'ai émergé de la [sannavedayitanirodha|cessation de la perception et du ressenti]”[/i]. Simplement, son esprit a été développé d'une telle manière qu'il atteint cet état."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa pana, bhante, bhikkhuno katame dhammā paṭhamaṃ uppajjanti, yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?",
+      "fr": "«[bhante|Bhanté], lorsqu'un [bhikkhu|mendiant] émerge de la [sannavedayitanirodha|cessation de la perception et du ressenti], quels phénomènes apparaissent en premier: est-ce que c'est la [sankhara|Construction] corporelle, la [sankhara|Construction] verbale ou la [sankhara|Construction] mentale?"
+    },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa, gahapati, bhikkhuno cittasaṅkhāro paṭhamaṃ uppajjati, tato kāyasaṅkhāro, tato vacīsaṅkhāro”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] émerge de la [sannavedayitanirodha|cessation de la perception et du ressenti], la [sankhara|Construction] mentale apparaît en premier, ensuite c'est la [sankhara|Construction] corporelle, et enfin la [sankhara|Construction] verbale."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhitaṃ pana, bhante, bhikkhuṃ kati phassā phusanti”?",
+      "fr": "«[bhante|Bhanté], lorsqu'un [bhikkhu|mendiant] a émergé de la [sannavedayitanirodha|cessation de la perception et du ressenti], combien de [phassa|contacts] le touchent?"
+    },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhitaṃ kho, gahapati, bhikkhuṃ tayo phassā phusanti — suññato phasso, animitto phasso, appaṇihito phasso”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] a émergé de la [sannavedayitanirodha|cessation de la perception et du ressenti], trois [phassa|contacts] le touchent: le [phassa|contact] vide, le [phassa|contact] sans objet et le [phassa|contact] sans direction."
+    },
+    { "pl": "sādhu ... pe ... uttariṃ pañhaṃ apucchi", "fr": "—Excellent, [bhante|Bhanté].»(…)" },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhitassa pana, bhante, bhikkhuno kiṃninnaṃ cittaṃ hoti, kiṃpoṇaṃ, kiṃpabbhāran”ti?",
+      "fr": "«[bhante|Bhanté], lorsqu'un [bhikkhu|mendiant] a émergé de la [sannavedayitanirodha|cessation de la perception et du ressenti], vers quoi s'incline son [citta|esprit], vers quoi s'infléchit son [citta|esprit], vers quoi tend son [citta|esprit]?"
+    },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā vuṭṭhitassa kho, gahapati, bhikkhuno vivekaninnaṃ cittaṃ hoti vivekapoṇaṃ vivekapabbhāran”ti.",
+      "fr": "—Lorsqu'un [bhikkhu|mendiant] a émergé de la [sannavedayitanirodha|cessation de la perception et du ressenti], son [citta|esprit] s'incline vers l'[viveka|isolement], s'infléchit vers l'[viveka|isolement], tend vers l'[viveka|isolement]."
+    },
+    { "pl": "“sādhu, bhante”ti", "fr": "—Excellent, [bhante|Bhanté].»" },
+    {
+      "pl": "kho citto gahapati āyasmato kāmabhussa bhāsitaṃ abhinanditvā anumoditvā āyasmantaṃ kāmabhuṃ uttariṃ pañhaṃ apucchi",
+      "fr": "Ayant approuvé les paroles du [ayasma|vénérable] Kamabhou et s'en étant réjoui, Tchitta le chef de foyer lui posa une question supplémentaire:"
+    },
+    {
+      "pl": "“saññāvedayitanirodhasamāpattiyā pana, bhante, kati dhammā bahūpakārā”ti?",
+      "fr": "«[bhante|Bhanté], combien de [dhamma|choses] sont utiles pour atteindre la [sannavedayitanirodha|cessation de la perception et du ressenti]?"
+    },
+    {
+      "pl": "“addhā kho tvaṃ, gahapati, yaṃ paṭhamaṃ pucchitabbaṃ taṃ pucchasi. api ca tyāhaṃ byākarissāmi. saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā — samatho ca vipassanā cā”ti.",
+      "fr": "—Assurément, chef de foyer, tu demandes [maintenant] ce qui aurait dû être demandé en premier. Mais je vais te répondre. Pour atteindre la [sannavedayitanirodha|cessation de la perception et du ressenti], deux [dhamma|choses] sont utiles: la [samatha|Tranquillité] et la [vipassana|Vision Discernante].»"
+    }
+  ],
+  "translator": "Sekha"
+}

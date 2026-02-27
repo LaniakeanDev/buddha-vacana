@@ -1,0 +1,37 @@
+﻿{
+  "identifier": "SN 48.8",
+  "plTitle": "Daṭṭhabba Sutta",
+  "frTitle": "À être vues",
+  "description": "Chacune des cinq facultés spirituelles est décrite comme devant être vue dans un phénomène à quatre composantes.",
+  "body": [
+    {
+      "pl": "Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [indriya|facultés]. Quelles sont ces cinq? La [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration] et la [indriya|faculté] de [panna|discernement]."
+    },
+    {
+      "pl": "Kattha ca, bhikkhave, saddh·indriyaṃ daṭṭhabbaṃ? Catūsu sotāpatti·y·aṅgesu: ettha saddh·indriyaṃ daṭṭhabbaṃ.",
+      "fr": "Et où est-ce, [bhikkhu|mendiants], que la [indriya|faculté] de [saddha|conviction] est à voir? Dans les quatre [sotapattiyanga|facteurs d'entrée dans le courant]: c'est ici que la [indriya|faculté] de [saddha|conviction] est à voir."
+    },
+    {
+      "pl": "Kattha ca, bhikkhave, vīriy·indriyaṃ daṭṭhabbaṃ? Catūsu samma·p·padhānesu: ettha vīriy·indriyaṃ daṭṭhabbaṃ.",
+      "fr": "Et où est-ce, [bhikkhu|mendiants], que la [indriya|faculté] d'[viriya|énergie] est à voir? Dans les quatre [sammappadhana|efforts corrects]: c'est ici que la [indriya|faculté] d'[viriya|énergie] est à voir."
+    },
+    {
+      "pl": "Kattha ca, bhikkhave, sat·indriyaṃ daṭṭhabbaṃ? Catūsu satipaṭṭhānesu: ettha sat·indriyaṃ daṭṭhabbaṃ.",
+      "fr": "Et où est-ce, [bhikkhu|mendiants], que la [indriya|faculté] de [sati|présence d'esprit] est à voir? Dans les quatre [satipatthana|mises en place de la présence d'esprit]: c'est ici que la [indriya|faculté] de [sati|présence d'esprit] est à voir."
+    },
+    {
+      "pl": "Kattha ca, bhikkhave, samādh·indriyaṃ daṭṭhabbaṃ? Catūsu jhānesu: ettha samādh·indriyaṃ daṭṭhabbaṃ.",
+      "fr": "Et où est-ce, [bhikkhu|mendiants], que la [indriya|faculté] de [samadhi|concentration] est à voir? Dans les quatre [jhana|jhānas]: c'est ici que la [indriya|faculté] de [samadhi|concentration] est à voir."
+    },
+    {
+      "pl": "Kattha ca, bhikkhave, paññ·indriyaṃ daṭṭhabbaṃ? Catūsu ariya·saccesu: ettha paññ·indriyaṃ daṭṭhabbaṃ.",
+      "fr": "Et où est-ce, [bhikkhu|mendiants], que la [indriya|faculté] de [panna|discernement] est à voir? Dans les quatre [ariyasacca|noble vérités]: c'est ici que la [indriya|faculté] de [panna|discernement] est à voir."
+    },
+    {
+      "pl": "Imāni kho, bhikkhave, pañc·indriyānī ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq [indriya|facultés]."
+    }
+  ],
+  "translator": "Rémy"
+}

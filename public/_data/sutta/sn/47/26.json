@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "SN 47.26",
+  "plTitle": "Padesa Sutta",
+  "frTitle": "En partie",
+  "description": "Deux souttas dans lesquels Saripoutta demande à Anourouddha dans quelle mesure on est un 'apprenant' (sekha) ou 'au-delà de l'entraînement' (asekha).",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca anuruddho sākete viharanti kaṇḍakīvane. atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṃ paṭisallānā vuṭṭhitā yenāyasmā aniruddho tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṃ sammodiṃsu. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ anuruddhaṃ etadavoca:",
+      "fr": "Un jour, les [ayasma|vénérables] Saripoutta, Mahamoggallana et Anourouddha séjournaient près de Sakéta, dans le bois de Tikandaki. Le soir venu, les [ayasma|vénérables] Saripoutta et Mahamoggallana sortirent de l'[patisallana|isolement], allèrent voir le [ayasma|vénérable] Anourouddha et échangèrent des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, ils s'assirent d'un côté et le [ayasma|vénérable] Saripoutta dit au [ayasma|vénérable] Anourouddha:"
+    },
+    {
+      "pl": "‘sekho, sekho’ti, āvuso anuruddha, vuccati. kittāvatā nu kho, āvuso, sekho hotī”ti?",
+      "fr": "«Ami Anourouddha, on entend dire: [i]“un [sekha|apprenant], un [sekha|apprenant]”[/i]. Dans quelle mesure, [avuso|ami], est on un [sekha|apprenant]?"
+    },
+    {
+      "pl": "“catunnaṃ kho, āvuso, satipaṭṭhānānaṃ padesaṃ bhāvitattā sekho hoti”.",
+      "fr": "—Ami, c'est parce qu'on n'a développé les quatre [satipatthana|mises en place de la présence d'esprit] qu'en partie qu'on est un [sekha|apprenant]."
+    },
+    {
+      "pl": "“katamesaṃ catunnaṃ? idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Quelles sont ces quatre? À cet égard, amis, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "imesaṃ kho, āvuso, catunnaṃ satipaṭṭhānānaṃ padesaṃ bhāvitattā sekho hotī”ti.",
+      "fr": "Ami, c'est parce qu'on n'a développé ces quatre [satipatthana|mises en place de la présence d'esprit] qu'en partie qu'on est un [sekha|apprenant].»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

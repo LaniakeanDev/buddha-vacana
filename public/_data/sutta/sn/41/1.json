@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 41.1",
+  "plTitle": "Saṃyojana Sutta",
+  "frTitle": "Les entraves",
+  "description": "Tchitta explique ici que ce ne sont pas les objets des sens qui enchaînent les organes des sens, mais que c'est le désir et l'avidité engendrés par ceux-ci qui sont à l'œuvre.",
+  "body": [
+    { "pl": "(…)", "fr": "(…)" },
+    {
+      "pl": "seyyathāpi, bhante, kāḷo ca balībaddo odāto ca balībaddo ekena dāmena vā yottena vā saṃyuttā assu. yo nu kho evaṃ vadeyya — ‘kāḷo balībaddo odātassa balībaddassa saṃyojanaṃ, odāto balībaddo kāḷassa balībaddassa saṃyojanan’ti, sammā nu kho so vadamāno vadeyyā”ti?",
+      "fr": "[Tchitta:] «Imaginez, [bhante|Bhanté], un bœuf noir et un bœuf blanc qui seraient [samyojana|entravés/attelés] par un unique harnais ou joug. Serait-il correct de dire que le bœuf noir est l'[samyojana|entrave] du bœuf blanc ou que le bœuf blanc est l'[samyojana|entrave] du bœuf noir?"
+    },
+    {
+      "pl": "“no hetaṃ, gahapati! na kho, gahapati, kāḷo balībaddo odātassa balībaddassa saṃyojanaṃ, napi odāto balībaddo kāḷassa baḷībaddassa saṃyojanaṃ; yena kho te ekena dāmena vā yottena vā saṃyuttā taṃ tattha saṃyojanan”ti.",
+      "fr": "—Non, chef de foyer, le bœuf noir n'est pas l'[samyojana|entrave] du bœuf blanc et le bœuf blanc n'est pas l'[samyojana|entrave] du bœuf noir. C'est l'unique harnais ou joug par lequel ils sont [samyojana|entravés/attelés] qui constitue l'[samyojana|entrave] dans ce cas."
+    },
+    {
+      "pl": "“evameva kho, bhante, na cakkhu rūpānaṃ saṃyojanaṃ, na rūpā cakkhussa saṃyojanaṃ; yañca tattha tadubhayaṃ paṭicca uppajjati chandarāgo taṃ tattha saṃyojanaṃ. na sotaṃ saddānaṃ... na ghānaṃ gandhānaṃ... na jivhā rasānaṃ... na kāyo phoṭṭhabbānaṃ saṃyojanaṃ, na phoṭṭhabbā kāyassa saṃyojanaṃ; yañca tattha tadubhayaṃ paṭicca uppajjati chandarāgo taṃ tattha saṃyojanaṃ. na mano dhammānaṃ saṃyojanaṃ, na dhammā manassa saṃyojanaṃ; yañca tattha tadubhayaṃ paṭicca uppajjati chandarāgo taṃ tattha saṃyojanan”ti.",
+      "fr": "—De la même manière, [bhante|Bhanté], l'œil n'est pas l'[samyojana|entrave] des formes visibles et les formes visibles ne sont pas l'[samyojana|entrave] de l'œil, mais c'est le [chanda|désir] et l'[raga|avidité] qui apparaissent à cause des deux qui constitue ici l'[samyojana|entrave]. L'oreille n'est pas l'[samyojana|entrave] des sons et les sons ne sont pas l'[samyojana|entrave] de l'oreille (…) le nez n'est pas l'[samyojana|entrave] des odeurs et les odeurs ne sont pas l'[samyojana|entrave] du nez (…) la langue n'est pas l'[samyojana|entrave] des saveurs et les saveurs ne sont pas l'[samyojana|entrave] de la langue (…) le corps n'est pas l'[samyojana|entrave] des sensations corporelles et les sensations corporelles ne sont pas l'[samyojana|entrave] du corps (…) l'esprit n'est pas l'[samyojana|entrave] des [dhamma|phénomènes mentaux] et les [dhamma|phénomènes mentaux] ne sont pas l'entrave de l'esprit, mais c'est le [chanda|désir] et l'[raga|avidité] qui apparaissent à cause des deux qui constitue ici l'[samyojana|entrave]."
+    },
+    {
+      "pl": "“lābhā te, gahapati, suladdhaṃ te, gahapati, yassa te gambhīre buddhavacane paññācakkhu kamatī”ti.",
+      "fr": "—C'est un gain pour vous, chef de foyer, c'est un bon gain pour vous que votre œil de [panna|discernement] pénètre la profonde parole du Bouddha.»"
+    }
+  ],
+  "translator": "Sekha"
+}

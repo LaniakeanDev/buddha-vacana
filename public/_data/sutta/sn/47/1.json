@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 47.1",
+  "plTitle": "Ambapāli Sutta",
+  "frTitle": "Dans la mangueraie",
+  "description": "Voici l'exposé succinct standard des quatre mises en place de la présence d'esprit (satipaṭṭhāna).",
+  "body": [
+    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati ambapālivane. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans la mangueraie. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "Bhikkhavo ti.[@nl]— Bhadante ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhikkhu|Mendiants]![@nl]— [bhadante|Badhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], voici la [ekayanomaggo|voie à sens unique] pour la purification des êtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-être] & [domanassa|déplaisance mentale], pour l'acquisition de la bonne méthode, et pour l'accomplissement de l'[nibbana|Extinction], c'est-à-dire les quatre [satipatthana|mises en place de la présence d'esprit]. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+      "fr": "À cet égard, [bhikkhu|mendiants], [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā”ti.",
+      "fr": "[bhikkhu|Mendiants], voici la [ekayanomaggo|voie à sens unique] pour la purification des êtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-être] & [domanassa|déplaisance mentale], pour l'acquisition de la bonne méthode, et pour l'accomplissement de l'[nibbana|Extinction], c'est-à-dire les quatre [satipatthana|mises en place de la présence d'esprit]."
+    }
+  ],
+  "translator": "Rémy"
+}

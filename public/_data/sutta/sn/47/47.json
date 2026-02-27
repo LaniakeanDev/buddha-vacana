@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "SN 47.47",
+  "plTitle": "Duccarita Sutta",
+  "frTitle": "La méconduite",
+  "description": "Un mendiant vient voir le Bouddha pour lui demander des instructions grâce auxquelles il devient un arahant. Contrairement au soutta précédent, le Bouddha lui répond sans parler du Patimokkha.",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.",
+      "fr": "«Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'effort."
+    },
+    {
+      "pl": "“tasmātiha tvaṃ, bhikkhu, ādimeva visodhehi kusalesu dhammesu. ko cādi kusalānaṃ dhammānaṃ? idha tvaṃ, bhikkhu, kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāvessasi. vacīduccaritaṃ pahāya vacīsucaritaṃ bhāvessasi. manoduccaritaṃ pahāya manosucaritaṃ bhāvessasi. yato kho tvaṃ, bhikkhu, kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāvessasi, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāvessasi, manoduccaritaṃ pahāya manosucaritaṃ bhāvessasi, tato tvaṃ, bhikkhu, sīlaṃ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi”.",
+      "fr": "—Dans ce cas, [bhikkhu|mendiant], purifie le prélude des [dhamma|états mentaux] [kusala|avantageux]. Et quel est le prélude des [dhamma|états mentaux] [kusala|avantageux]? À cet égard, mendiant, abandonne la [duccarita|méconduite] corporelle et développe la [sucarita|bonne conduite] corporelle, abandonne la [duccarita|méconduite] verbale et développe la [sucarita|bonne conduite] verbale, et abandonne la [duccarita|méconduite] mentale et développe la [sucarita|bonne conduite] mentale. Lorsque tu abandonneras la [duccarita|méconduite] corporelle (…) et développeras la [sucarita|bonne conduite] mentale, alors à l'aide de la [sila|vertu], en t'appuyant sur la [sila|vertu], tu développeras les quatre [satipatthana|mises en place de l'attention]."
+    },
+    {
+      "pl": "“katame cattāro? idha tvaṃ, bhikkhu, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharāhiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Et quelles sont ces quatre? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "yato kho tvaṃ, bhikkhu, sīlaṃ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṃ bhāvessasi, tato tuyhaṃ, bhikkhu, yā ratti vā divaso vā āgamissati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihānī”ti.",
+      "fr": "Mendiant, lorsqu'à l'aide de la [sila|vertu], en t'appuyant sur la [sila|vertu], tu développeras ainsi les quatre [satipatthana|mises en place de l'attention], alors que vienne la nuit ou le jour, tu pourras attendre un développement dans les [dhamma|états mentaux] [kusala|avantageux], pas un déclin.»"
+    },
+    {
+      "pl": "atha kho so bhikkhu bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. aññataro ca pana so bhikkhu arahataṃ ahosīti.",
+      "fr": "Alors ce [bhikkhu|mendiant], ayant approuvé les paroles du [bhagava|Fortuné], le salua, puis s'étant levé de son siège et ayant rendu hommage au [bhagava|Fortuné] en le tenant sur sa droite, s'en alla. Alors ce [bhikkhu|mendiant], demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Ainsi, ce [bhikkhu|mendiant] devint l'un des [arahant|Méritants]."
+    }
+  ],
+  "translator": "Sekha"
+}

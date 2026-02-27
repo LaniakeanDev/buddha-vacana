@@ -1,0 +1,74 @@
+﻿{
+  "identifier": "SN 45.11",
+  "plTitle": "Paṭhamavihāra Sutta",
+  "frTitle": "Le séjour",
+  "description": "Le Bouddha part s'isoler pendant un demi-mois, retourne en partie à son premier état d'éveil et revient avec une déclaration par laquelle il tente de nous faire comprendre ce qu'il a vu.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“icchāmahaṃ, bhikkhave, aḍḍhamāsaṃ paṭisalliyituṃ. namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.",
+      "fr": "—[bhikkhu|Mendiants], je souhaite m'[patisallana|isoler] pendant un demi-mois. Que personne d'autre ne vienne me voir que celui qui m'apportera de la [pindapata|nourriture d'aumônes]."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paṭissutvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena.",
+      "fr": "—Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné], et personne d'autre n'vint voir le [bhagava|Fortuné] que celui qui lui apportait de la[pindapata|nourriture d'aumônes]."
+    },
+    {
+      "pl": "atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito bhikkhū āmantesi:",
+      "fr": "À la fin de ce demi-mois, le [bhagava|Fortuné] sortit de l'[patisallana|isolement] et s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "— “yena svāhaṃ, bhikkhave, vihārena paṭhamābhisambuddho viharāmi, tassa padesena vihāsiṃ. so evaṃ pajānāmi:",
+      "fr": "—[bhikkhu|Mendiants], j'ai séjourné en partie dans le séjour dans lequel j'ai séjourné juste après mon [sambodhi|éveil]. J'ai discerné:"
+    },
+    {
+      "pl": "‘micchādiṭṭhipaccayāpi vedayitaṃ; sammādiṭṭhipaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur la [micchaditthi|vue erronée], il y a le [vedana|ressenti] basé sur la [sammaditthi|vue correcte],"
+    },
+    {
+      "pl": "micchāsaṅkappapaccayāpi vedayitaṃ; sammāsaṅkappapaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur l'[sankappa|aspiration] erronée, il y a le [vedana|ressenti] basé sur l'[sammasankappa|aspiration correcte]."
+    },
+    {
+      "pl": "micchāvācāpaccayāpi vedayitaṃ; sammāvācāpaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur la parole erronée, il y a le [vedana|ressenti] basé sur la [sammavaca|parole correcte]."
+    },
+    {
+      "pl": "micchākammantapaccayāpi vedayitaṃ; sammākammantapaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur l'action erronée, il y a le [vedana|ressenti] basé sur l'[sammakammanta|action correcte]."
+    },
+    {
+      "pl": "micchāājīvapaccayāpi vedayitaṃ; sammāājīvapaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur les moyens de subsistance erronés, il y a le [vedana|ressenti] basé sur les [sammaajiva|moyens de subsistance corrects]."
+    },
+    {
+      "pl": "micchāvāyāmapaccayāpi vedayitaṃ; sammāvāyāmapaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur l'effort erroné, il y a le [vedana|ressenti] basé sur l'[sammavayama|effort correct]."
+    },
+    {
+      "pl": "micchāsatipaccayāpi vedayitaṃ; sammāsatipaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur la [sati|présence d'esprit] erronée, il y a le [vedana|ressenti] basé sur la [sammasati|présence d'esprit correcte]."
+    },
+    {
+      "pl": "micchāsamādhipaccayāpi vedayitaṃ; sammāsamādhipaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur la [samadhi|concentration] erronée, il y a le [vedana|ressenti] basé sur la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "chandapaccayāpi vedayitaṃ; vitakkapaccayāpi vedayitaṃ; saññāpaccayāpi vedayitaṃ.",
+      "fr": "Il y a le [vedana|ressenti] basé sur le [chanda|désir], il y a le [vedana|ressenti] basé sur la [vitakka|pensée], il y a le [vedana|ressenti] basé sur la [sanna|perception]."
+    },
+    {
+      "pl": "chando ca avūpasanto hoti, vitakko ca avūpasanto hoti, saññā ca avūpasantā hoti, tappaccayāpi vedayitaṃ.",
+      "fr": "Lorsque le [chanda|désir] n'est pas [upasama|apaisé], que la [vitakka|pensée] n'est pas [upasama|apaisée], que la [sanna|perception] n'est pas [upasama|apaisée], il y a le [vedana|ressenti] basé sur cela."
+    },
+    {
+      "pl": "chando ca vūpasanto hoti, vitakko ca vūpasanto hoti, saññā ca vūpasantā hoti, tappaccayāpi vedayitaṃ.",
+      "fr": "Lorsque le [chanda|désir] est apaisé, que la [vitakka|pensée] est apaisée, que la [sanna|perception] est apaisée, il y a le [vedana|ressenti] basé sur cela."
+    },
+    {
+      "pl": "appattassa pattiyā atthi vāyāmaṃ, tasmimpi ṭhāne anuppatte tappaccayāpi vedayitan’”ti.",
+      "fr": "Il y a l'effort pour l'accomplissement de ce qui n'a pas été accompli. Lorsque cela a été accompli, il y a un [vedana|ressenti] basé sur cela."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,96 @@
+﻿{
+  "identifier": "SN 46.56",
+  "plTitle": "Abhaya Sutta",
+  "frTitle": "Conversation avec le prince Abhaya",
+  "description": "Le prince Abhaya va voir le Bouddha au Pic des Vautours pour lui demander son avis à propos des causes et des raisons pour l'absence ou la présence de la connaissance et de la vision (ñāṇa·dassana). ",
+  "body": [
+    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. atha kho abhayo rājakumāro yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho abhayo rājakumāro bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri au Pic des Vautours. Ce jour-là, le prince Abhaya alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “pūraṇo, bhante, kassapo evamāha: ‘natthi hetu, natthi paccayo aññāṇāya adassanāya. ahetu, appaccayo aññāṇaṃ adassanaṃ hoti. natthi hetu, natthi paccayo ñāṇāya dassanāya. ahetu, appaccayo ñāṇaṃ dassanaṃ hotī’ti. idha bhagavā kimāhā”ti?",
+      "fr": "—[bhante|Bhanté], Pourana Kassapa déclare: [i]“Il n'y a pas de [hetu|cause], il n'y a pas de [paccaya|raison] pour l'absence de connaissance et l'absence de vision. L'absence de connaissance et l'absence de vision sont sans [hetu|cause] ni [paccaya|raison]. Il n'y a pas de [hetu|cause], il n'y a pas de [paccaya|raison] pour la connaissance et la vision. La connaissance et la vision sont sans [hetu|cause] ni [paccaya|raison].”[/i] Qu'en dit le [bhagava|Fortuné]?"
+    },
+    {
+      "pl": "“atthi, rājakumāra, hetu, atthi paccayo aññāṇāya adassanāya. sahetu, sappaccayo aññāṇaṃ adassanaṃ hoti. atthi, rājakumāra, hetu, atthi paccayo ñāṇāya dassanāya. sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "—Prince, il y a une [hetu|cause], il y a une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. L'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]. Il y a une [hetu|cause], il y a une [paccaya|raison] pour la connaissance et la vision. La connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“katamo pana, bhante, hetu, katamo paccayo aññāṇāya adassanāya? kathaṃ sahetu, sappaccayo aññāṇaṃ adassanaṃ hotī”ti?",
+      "fr": "Mais, [bhante|Bhanté], quelle est la [hetu|cause], quelle est la [paccaya|raison] pour l'absence de connaissance et l'absence de vision? Comment l'absence de connaissance et l'absence de vision ont-elles une [hetu|cause] et une [paccaya|raison]?"
+    },
+    {
+      "pl": "“yasmiṃ kho, rājakumāra, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hoti.",
+      "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise de l'[kamaraga|avidité de plaisirs sensuels], accablé par l'[kamaraga|avidité de plaisirs sensuels], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport à l'[kamaraga|avidité de plaisirs sensuels], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, yasmiṃ samaye byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena, uppannāya ca byāpādassa nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hotī”ti.",
+      "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise de la [byapada|malveillance], accablé par la [byapada|malveillance], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport à la [byapada|malveillance], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, yasmiṃ samaye thinamiddha-pariyuṭṭhitena cetasā viharati thinamiddha-pariyuṭṭhitena cetasā viharati thinamiddhaparetena, uppannassa ca thinamiddhassa nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hotī”ti.",
+      "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise de la [thinamiddha|torpeur & somnolence], accablé par la [thinamiddha|torpeur & somnolence], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport à la [thinamiddha|torpeur & somnolence], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, yasmiṃ samaye uddhaccakukkucca-pariyuṭṭhitena cetasā viharati uddhaccakukkucca-paretena, uppannāya ca uddhaccakukkuccassa nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hotī”ti.",
+      "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise de l'[uddhaccakukkucca|agitation mentale & préoccupation], accablé par l'[uddhaccakukkucca|agitation mentale & préoccupation], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport à l'[uddhaccakukkucca|agitation mentale & préoccupation], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, yasmiṃ samaye vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hotī”ti.",
+      "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise du [vicikiccha|doute], accablé par le [vicikiccha|doute], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport au [vicikiccha|doute], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“ko nāmāyaṃ, bhante, dhammapariyāyo”ti?",
+      "fr": "—[bhante|Bhanté], quel est le nom de cet exposé du [dhamma|Dhamma]?"
+    },
+    { "pl": "“nīvaraṇā nāmete, rājakumārā”ti.", "fr": "—Prince, on les appelle les [nivarana|obstructions]." },
+    {
+      "pl": "“taggha, bhagavā, nīvaraṇā; taggha, sugata, nīvaraṇā! ekamekenapi kho, bhante, nīvaraṇena abhibhūto yathābhūtaṃ na jāneyya na passeyya, ko pana vādo pañcahi nīvaraṇehi!",
+      "fr": "—Vraiment, [bhante|Bhanté], ce sont des [nivarana|obstructions]! Vraiment, Sublime, ce sont des [nivarana|obstructions]! [bhante|Bhanté], en étant dominé par une seule de ces [nivarana|obstructions], on ne connaîtrait pas, on ne verrait pas [les phénomènes] [yathabhutam|tels qu'ils sont réellement], alors que dire de ces cinq [nivarana|obstructions] [ensemble]!"
+    },
+    {
+      "pl": "“katamo pana, bhante, hetu, katamo paccayo ñāṇāya dassanāya? kathaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti?",
+      "fr": "[bhante|Bhanté], quelle est donc la [hetu|cause], quelle est la [paccaya|raison] pour la connaissance et la vision? Comment la connaissance et la vision ont-elles une [hetu|cause] et une [paccaya|raison]?"
+    },
+    {
+      "pl": "“idha, rājakumāra, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so satisambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evampi sahetu, sappaccayo ñāṇaṃ dassanaṃ hoti.",
+      "fr": "—À cet égard, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] de [sati|présence d'esprit] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] de [sati|présence d'esprit], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu dhammavicayasambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so dhammavicayasambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu vīriyasambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so vīriyasambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu pītisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so pītisambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu passaddhibojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so passaddhisambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu samādhisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so samādhisambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“puna caparaṃ, rājakumāra, bhikkhu upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. so upekkhāsambojjhaṅgaṃ bhāvitena cittena yathābhūtaṃ jānāti passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo ñāṇāya dassanāya. evaṃ sahetu, sappaccayo ñāṇaṃ dassanaṃ hotī”ti.",
+      "fr": "En outre, Prince, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Lorsqu'avec un [citta|esprit] ayant cultivé le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité], il connaît et voit [les phénomènes] [yathabhutam|tels qu'ils sont réellement], c'est une [hetu|cause], c'est une [paccaya|raison] pour la connaissance et la vision. Voici comment la connaissance et la vision ont une [hetu|cause] et une [paccaya|raison]."
+    },
+    {
+      "pl": "“ko nāmāyaṃ, bhante, dhammapariyāyo”ti?",
+      "fr": "—[bhante|Bhanté], quel est le nom de cet exposé du [dhamma|Dhamma]?"
+    },
+    { "pl": "“bojjhaṅgā nāmete, rājakumārā”ti.", "fr": "—Prince, on les appelle les [sambojjhanga|facteurs d'Éveil]." },
+    {
+      "pl": "“taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgā! ekamekenapi kho, bhante, bojjhaṅgena samannāgato yathābhūtaṃ jāneyya passeyya, ko pana vādo sattahi bojjhaṅgehi? yopi me, bhante, gijjhakūṭaṃ pabbataṃ ārohantassa kāyakilamatho cittakilamatho, sopi me paṭippassaddho, dhammo ca me abhisamito”ti.",
+      "fr": "—Vraiment, [bhante|Bhanté], ce sont des [sambojjhanga|facteurs d'Éveil]! Vraiment, Sublime, ce sont des [sambojjhanga|facteurs d'Éveil]! [bhante|Bhanté], en étant pourvu d'un seul de ces [sambojjhanga|facteurs d'Éveil], on connaîtrait, on verrait [les phénomènes] [yathabhutam|tels qu'ils sont réellement], alors que dire de ces sept [sambojjhanga|facteurs d'Éveil] [ensemble]! [bhante|Bhanté], toute la fatigue physique et mentale due à l'ascension du Pic des Vautours s'est évaporée, et j'ai complètement compris le [dhamma|Dhamma]!"
+    }
+  ],
+  "translator": "Rémy"
+}

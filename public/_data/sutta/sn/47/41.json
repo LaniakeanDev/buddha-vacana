@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "SN 47.41",
+  "plTitle": "Amata Sutta",
+  "frTitle": "Le Sans-mort",
+  "description": "Ne laissez pas le Sans-mort vous échapper.",
+  "body": [
+    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“catūsu, bhikkhave, satipaṭṭhānesu suppatiṭṭhitacittā viharatha. mā vo amataṃ panassa. katamesu catūsu?",
+      "fr": "[bhikkhu|Mendiants], restez avec un [citta|esprit] bien établi dans les quatre [satipatthana|mises en place de la présence d'esprit]. Ne laissez pas le [amata|Sans-mort] vous échapper.Quelles sont ces quatre?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ.",
+      "fr": "À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] [@f_stp#vedana-cl|Il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] [@f_stp#citta-cl|Il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.][@f_stp#dhamma-cl|Il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "imesu, bhikkhave, catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharatha. mā vo amataṃ panassā”ti.",
+      "fr": "[bhikkhu|Mendiants], restez avec un [citta|esprit] bien établi dans les quatre [satipatthana|mises en place de la présence d'esprit]. Ne laissez pas le [amata|Sans-mort] vous échapper."
+    }
+  ],
+  "translator": "Sekha"
+}

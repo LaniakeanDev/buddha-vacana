@@ -1,0 +1,66 @@
+﻿{
+  "identifier": "SN 48.50",
+  "plTitle": "Āpaṇa Sutta",
+  "frTitle": "À Apana",
+  "description": "Le Bouddha demande à Saripoutta si un de ses nobles disciples entetient encore du doute par rapport à lui ou à son enseignement.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā aṅgesu viharati āpaṇaṃ nāma aṅgānaṃ nigamo. tatra kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Angans, dans un de leurs villages appelé Apana. Là, il s'adressa au [ayasma|vénérable] Saripoutta:"
+    },
+    {
+      "pl": "“yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā”ti?",
+      "fr": "«Saripoutta, est-ce qu'un [ariyasavaka|noble disciple] qui s'en remet complètement au [tathagata|Tathagata], qui trouve en lui sa sérénité, entretient une incertitude ou un doute envers le [tathagata|Tathagata] ou son enseignement?"
+    },
+    {
+      "pl": "“yo so, bhante, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā.",
+      "fr": "—[bhante|Bhanté], un [ariyasavaka|noble disciple] qui s'en remet complètement au [tathagata|Tathagata], qui trouve en lui sa sérénité, n'entretient pas d'incertitude ni de doute envers le [tathagata|Tathagata] ou son enseignement."
+    },
+    {
+      "pl": "saddhassa hi, bhante, ariyasāvakassa evaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati — akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. yaṃ hissa, bhante, vīriyaṃ tadassa vīriyindriyaṃ.",
+      "fr": "En effet, un peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction] demeure avec son [araddhaviriya|énergie activée] pour l'abandon des [dhamma|états] [akusala|désavantageux] et l'acquisition des [dhamma|états] [kusala|avantageux], à ce qu'il soit tenace, ferme dans son effort, et qu'il ne manque pas à la responsabilité de cultiver les [dhamma|états] [kusala|avantageux]. Cette [viriya|énergie] constitue sa [indriya|faculté] d'[viriya|énergie]."
+    },
+    {
+      "pl": "“saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. yā hissa, bhante, sati tadassa satindriyaṃ.",
+      "fr": "De plus, [bhante|Bhanté], on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction] et ayant son [araddhaviriya|énergie activée] soit [satima|présent d'esprit], possédant une excellente [sati|présence d'esprit] & minutie, qu'il se souvienne et se remémore ce qui a été fait et dit il y a longtemps. Cette [sati|présence d'esprit] constitue sa [indriya|faculté] de [sati|présence d'esprit]."
+    },
+    {
+      "pl": "“saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. yo hissa, bhante, samādhi tadassa samādhindriyaṃ.",
+      "fr": "De plus, [bhante|Bhanté], on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction], ayant son [araddhaviriya|énergie activée] et ayant mis en place sa [sati|présence d'esprit], ayant fait du lâcher-prise sa fondation, atteigne la [samadhi|concentration], atteigne l'[ekaggata|unification] de l'[citta|esprit]. Cette [samadhi|concentration] constitue sa [indriya|faculté] de [samadhi|concentration]."
+    },
+    {
+      "pl": "“saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati — anamataggo kho saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ — sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ. yā hissa, bhante, paññā tadassa paññindriyaṃ.",
+      "fr": "De plus, [bhante|Bhanté], on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction], ayant son [araddhaviriya|énergie activée], ayant mis en place sa [sati|présence d'esprit], et ayant l'esprit [samadhi|concentré], discerne: [i]“ce [samsara|cycle de renaissances] est sans commencement connu, on ne discerne pas de commencement à l'errance, à la transmigration des êtres obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité]. Mais avec la [viraga|disparition] complète & [nirodha|cessation] de l'[avijja|ignorance], de la masse d'obscurité, ceci est un état paisible, ceci est un état exquis: la [samatha|tranquillisation] des tous les [sankhara|phénomènes composés], la renonciation de toutes les acquisitions, l'élimination complète de la [tanha|Soif], le [viraga|désintéressement], la [nirodha|cessation], l'[nibbana|Extinction].”[/i] Ce [panna|discernement] constitue sa [indriya|faculté] de [panna|discernement]."
+    },
+    {
+      "pl": "“saddho so, bhante, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati — ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. yā hissa, bhante, saddhā tadassa saddhindriyan”ti.",
+      "fr": "[bhante|Bhanté], un tel [ariyasavaka|noble disciple] doué de [saddha|conviction], s'étant ainsi efforcé, ayant ainsi été présent d'esprit, s'étant ainsi concentré, ayant ainsi discerné, est ainsi convaincu: “maintenant, je touche avec le [kaya|corps] ces états dont auparavant je n'avais fait qu'entendre parler, et je vois à travers eux avec [panna|discernement].” Cette [saddha|conviction] constitue sa [indriya|faculté] de [saddha|conviction]."
+    },
+    {
+      "pl": "“sādhu sādhu, sāriputta! yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā.",
+      "fr": "—Excellent, Saripoutta, excellent! Un [ariyasavaka|noble disciple] qui s'en remet complètement au [tathagata|Tathagata], qui trouve en lui sa sérénité, n'entretient pas d'incertitude ni de doute envers le [tathagata|Tathagata] ou son enseignement."
+    },
+    {
+      "pl": "saddhassa hi, sāriputta, ariyasāvakassa etaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati — akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. yaṃ hissa, sāriputta, vīriyaṃ tadassa vīriyindriyaṃ.",
+      "fr": "En effet, un peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction] demeure avec son [araddhaviriya|énergie activée] pour l'abandon des [dhamma|états] [akusala|désavantageux] et l'acquisition des [dhamma|états] [kusala|avantageux], à ce qu'il soit tenace, ferme dans son effort, et qu'il ne manque pas à la responsabilité de cultiver les [dhamma|états] [kusala|avantageux]. Cette [viriya|énergie] constitue sa [indriya|faculté] d'[viriya|énergie]."
+    },
+    {
+      "pl": "“saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. yā hissa, sāriputta, sati tadassa satindriyaṃ.",
+      "fr": "De plus, Saripoutta, on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction] et ayant son [araddhaviriya|énergie activée] soit [satima|présent d'esprit], possédant une excellente [sati|présence d'esprit] & minutie, qu'il se souvienne et se remémore ce qui a été fait et dit il y a longtemps. Cette [sati|présence d'esprit] constitue sa [indriya|faculté] de [sati|présence d'esprit]."
+    },
+    {
+      "pl": "“saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. yo hissa, sāriputta, samādhi tadassa samādhindriyaṃ.",
+      "fr": "De plus, Saripoutta, on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction], ayant son [araddhaviriya|énergie activée] et ayant mis en place sa [sati|présence d'esprit], ayant fait du lâcher-prise sa fondation, atteigne la [samadhi|concentration], atteigne l'[ekaggata|unification] de l'[citta|esprit]. Cette [samadhi|concentration] constitue sa [indriya|faculté] de [samadhi|concentration]."
+    },
+    {
+      "pl": "“saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati — anamataggo kho saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ — sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ. yā hissa, sāriputta, paññā tadassa paññindriyaṃ.",
+      "fr": "De plus, Saripoutta, on peut s'attendre à ce qu'un [ariyasavaka|noble disciple] doué de [saddha|conviction], ayant son [araddhaviriya|énergie activée], ayant mis en place sa [sati|présence d'esprit], et ayant l'esprit [samadhi|concentré], discerne: [i]“ce [samsara|cycle de renaissances] est sans commencement connu, on ne discerne pas de commencement à l'errance, à la transmigration des êtres obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité]. Mais avec la [viraga|disparition] complète & [nirodha|cessation] de l'[avijja|ignorance], de la masse d'obscurité, ceci est un état paisible, ceci est un état exquis: la [samatha|tranquillisation] des tous les [sankhara|phénomènes composés], la renonciation de toutes les acquisitions, l'élimination complète de la [tanha|Soif], le [viraga|désintéressement], la [nirodha|cessation], l'[nibbana|Extinction].”[/i] Ce [panna|discernement] constitue sa [indriya|faculté] de [panna|discernement]."
+    },
+    {
+      "pl": "“saddho so, sāriputta, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati — ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. yā hissa, sāriputta, saddhā tadassa saddhindriyan”ti.",
+      "fr": "Saripoutta, un tel [ariyasavaka|noble disciple] doué de [saddha|conviction], s'étant ainsi efforcé, ayant ainsi été présent d'esprit, s'étant ainsi concentré, ayant ainsi discerné, est ainsi convaincu: “maintenant, je touche avec le [kaya|corps] ces états dont auparavant je n'avais fait qu'entendre parler, et je vois à travers eux avec [panna|discernement].” Cette [saddha|conviction] constitue sa [indriya|faculté] de [saddha|conviction]."
+    }
+  ],
+  "translator": "Sekha"
+}

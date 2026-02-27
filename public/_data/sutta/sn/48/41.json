@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "SN 48.41",
+  "plTitle": "Jarādhamma Sutta",
+  "frTitle": "Par nature voué au vieillissement",
+  "description": "Ananda remarque que le Bouddha a vieilli, et ce dernier lui rappelle que c'est la nature des choses.",
+  "body": [
+    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. tena kho pana samayena bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito pacchātape nisinno hoti piṭṭhiṃ otāpayamāno.atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā bhagavato gattāni pāṇinā anomajjanto bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le manoir de la mère de Migara, dans le parc de l'est. Le soir venu, le [bhagava|Fortuné] était sorti de l'[patisallana|isolement] et était assis, réchauffant son dos avec les derniers rayons du soleil. Alors le [ayasma|vénérable] Ananda vint voir le [bhagava|Fortuné], lui rendit hommage, et lui dit, en massant ses membres de la main:"
+    },
+    {
+      "pl": "“acchariyaṃ, bhante, abbhutaṃ, bhante! na cevaṃ dāni, bhante, bhagavato tāva parisuddho chavivaṇṇo pariyodāto, sithilāni ca gattāni sabbāni valiyajātāni, purato pabbhāro ca kāyo, dissati ca indriyānaṃ aññathattaṃ, cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa kāyindriyassā”ti.",
+      "fr": "C'est formidable, [bhante|Bhanté], inouï, que la couleur de peau du [bhagava|Fortuné] n'est plus unie et intacte, que ses membres sont devenus flasques et tous ridés, que son [kaya|corps] s'est voûté et qu'on peut voir un changement dans ses [indriya|faculté]s: la [indriya|faculté] de vue, la [indriya|faculté] d'audition, la [indriya|faculté] d'olfaction, la [indriya|faculté] du goût et la [indriya|faculté] de proprioception."
+    },
+    {
+      "pl": "“evañhetaṃ, ānanda, hoti. jarādhammo yobbaññe, byādhidhammo ārogye, maraṇadhammo jīvite. na ceva tāva parisuddho hoti chavivaṇṇo pariyodāto, sithilāni ca honti gattāni sabbāni valiyajātāni, purato pabbhāro ca kāyo, dissati ca indriyānaṃ aññathattaṃ, cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa kāyindriyassā”ti.",
+      "fr": "Il en va ainsi, Ananda. Dans la jeunesse on est par nature voué à la vieillesse, dans la bonne santé on est par nature voué à la maladie, dans la vie on est par nature voué à la mort. La couleur de notre peau n'est plus unie et intacte, nos membres deviennent flasques et tous ridés, notre [kaya|corps] se voûte et on peut voir un changement dans nos [indriya|faculté]s: la [indriya|faculté] de vue, la [indriya|faculté] d'audition, la [indriya|faculté] d'olfaction, la [indriya|faculté] du goût et la [indriya|faculté] de proprioception."
+    },
+    {
+      "pl": "“idamavoca bhagavā. idaṃ vatvā ca sugato athāparaṃ etadavoca satthā:",
+      "fr": "Voici ce que dit le [bhagava|Fortuné].Et ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "[i]“dhī taṃ jammi jare atthu, [@v]dubbaṇṇakaraṇī jare.[@v]tāva manoramaṃ bimbaṃ, [@v]jarāya abhimadditaṃ.[@v]“yopi vassasataṃ jīve, [@v]sopi maccuparāyaṇo.[@v]na kiñci parivajjeti, [@v]sabbamevābhimaddatī”ti.[/i]",
+      "fr": "[i]C'est une calamité que ce misérable vieillissement,[@v]Ce vieillissement qui rend laid.[@v]Ce charmant pantin a été tellement[@v]Écrasé par le vieillissement.[@v]Même celui qui vit un siècle[@v]Est destiné à la mort,[@v]Qui n'épargne personne[@v]Et écrase tout.[/i]"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

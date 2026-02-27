@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "SN 47.35",
+  "plTitle": "Sati Sutta",
+  "frTitle": "Présence d'esprit",
+  "description": "Le Bouddha nous exhorte à être présents d'esprit et doués de discernement attentif, et nous explique ce qu'il entend par là.",
+  "body": [
+    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṃ vo amhākaṃ anusāsanī.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait demeurer [sato|présent d'esprit] et [sampajana|doué d'un discernement attentif]. Voici quelle est mon instruction pour vous."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. Evaṃ kho, bhikkhave, bhikkhu sato hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant] est-il [sato|présent d'esprit]? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] est [sato|présent d'esprit]."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhuno viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Viditā saññā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. Evaṃ kho, bhikkhave, bhikkhu sampajāno hoti.",
+      "fr": "Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant] est-il [sampajana|doué d'un discernement attentif]? À cet égard, [bhikkhu|mendiants], chez un [bhikkhu|mendiant] les [vedana|ressentis] sont distingués lorsqu'ils apparaissent, distingués lorsqu'ils restent présents, distingués lorsqu'ils cessent. Les [vitakka|pensées] sont distinguées lorsqu'elles apparaissent, distinguées lorsqu'elles restent présentes, distinguées lorsqu'elles cessent. Les [sanna|perceptions] sont distinguées lorsqu'elles apparaissent, distinguées lorsqu'elles restent présentes, distinguées lorsqu'elles cessent. Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant] est [sampajana|doué d'un discernement attentif]."
+    },
+    {
+      "pl": "Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṃ vo amhākaṃ anusāsanī ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait demeurer [sato|présent d'esprit] et [sampajana|doué d'un discernement attentif]. Voici notre instruction pour vous."
+    }
+  ],
+  "translator": "Rémy"
+}

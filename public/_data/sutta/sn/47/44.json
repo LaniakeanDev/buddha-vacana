@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "SN 47.44",
+  "plTitle": "Sati Sutta",
+  "frTitle": "Présent d'esprit",
+  "description": "Le Bouddha encourage les mendiants à rester présents d'esprit et explique ce qu'il entend par là.",
+  "body": [
+    {
+      "pl": "“sato, bhikkhave, bhikkhu vihareyya. ayaṃ vo amhākaṃ anusāsanī. kathañca, bhikkhave, bhikkhu sato hoti?",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait rester [sati|présent d'esprit]. Ceci est notre instruction pour vous. Et comment un [bhikkhu|mendiant] est-il [sati|présent d'esprit]?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ;vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "evaṃ kho, bhikkhave, bhikkhu sato hoti. sato, bhikkhave, bhikkhu vihareyya. ayaṃ vo amhākaṃ anusāsanī”ti.",
+      "fr": "Voici comment un [bhikkhu|mendiant] est [sati|présent d'esprit]. [bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait rester [sati|présent d'esprit]. Ceci est notre instruction pour vous."
+    }
+  ],
+  "translator": "Sekha"
+}

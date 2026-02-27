@@ -1,0 +1,50 @@
+﻿{
+  "identifier": "SN 48.43",
+  "plTitle": "Sāketa Sutta",
+  "frTitle": "À Sakéta",
+  "description": "Le Bouddha explique ici qu'il n'y a pas vraiment de différence entre les puissances (balas) et les facultés spirituelles (indriyas), qu'il s'agit juste de deux méthodes d'exposition parallèles.",
+  "body": [
+    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Sakéta, au bois d'Añjana, dans le parc aux daims. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“atthi nu kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni hontī”ti?",
+      "fr": "«[bhikkhu|Mendiants], y a-t-il une méthode d'exposition au moyen de laquelle les cinq [indriya|facultés] deviennent les cinq [bala|forces] et les cinq [bala|forces] deviennent les cinq [indriya|faculté]s?"
+    },
+    {
+      "pl": "“bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. bhagavato sutvā bhikkhū dhāressantī”ti.",
+      "fr": "—Pour nous, [bhante|Bhanté], le [dhamma|Dhamma] est enraciné dans le [bhagava|Fortuné], il est guidé par le [bhagava|Fortuné], il est protégé par le [bhagava|Fortuné]. Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront."
+    },
+    {
+      "pl": "“atthi, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni honti”.",
+      "fr": "—«[bhikkhu|Mendiants], il y a [bien] une méthode d'exposition au moyen de laquelle les cinq [indriya|facultés] deviennent les cinq [bala|forces] et les cinq [bala|forces] deviennent les cinq [indriya|faculté]s."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni honti? yaṃ, bhikkhave, saddhindriyaṃ taṃ saddhābalaṃ, yaṃ saddhābalaṃ taṃ saddhindriyaṃ; yaṃ vīriyindriyaṃ taṃ vīriyabalaṃ, yaṃ vīriyabalaṃ taṃ vīriyindriyaṃ; yaṃ satindriyaṃ taṃ satibalaṃ, yaṃ satibalaṃ taṃ satindriyaṃ; yaṃ samādhindriyaṃ taṃ samādhibalaṃ, yaṃ samādhibalaṃ taṃ samādhindriyaṃ; yaṃ paññindriyaṃ taṃ paññābalaṃ, yaṃ paññābalaṃ taṃ paññindriyaṃ.",
+      "fr": "Et quelle est donc cette méthode d'exposition? Mendiants, la [indriya|faculté] de [saddha|conviction] est la [bala|force] de [saddha|conviction] et la [bala|force] de [saddha|conviction] est la [indriya|faculté] de [saddha|conviction]; la [indriya|faculté] d'[viriya|énergie] est la [bala|force] d'[viriya|énergie] et la [bala|force] d'[viriya|énergie] est la [indriya|faculté] d'[viriya|énergie]; la [indriya|faculté] de [sati|présence d'esprit] est la [bala|force] de [sati|présence d'esprit] et la [bala|force] de [sati|présence d'esprit] est la [indriya|faculté] de [sati|présence d'esprit]; la [indriya|faculté] de [samadhi|concentration] est la [bala|force] de [samadhi|concentration] et la [bala|force] de [samadhi|concentration] est la [indriya|faculté] de [samadhi|concentration]; la [indriya|faculté] de [panna|discernement] est la [bala|force] de [panna|discernement] et la [bala|force] de [panna|discernement] est la [indriya|faculté] de [panna|discernement]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā, tassa majjhe dīpo. atthi, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati. atthi pana, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti.",
+      "fr": "Imaginez, [bhikkhu|mendiants], un fleuve qui s'incline vers l'est, s'infléchit vers l'est et tend vers l'est, avec une île en son milieu. Il y a une méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant un seul courant, et il y a une méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant deux courants."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati? yañca, bhikkhave, tassa dīpassa puratthimante udakaṃ, yañca pacchimante udakaṃ: ayaṃ kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati.",
+      "fr": "Et quelle est la méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant un seul courant? [En considérant] l'eau qui se trouve à l'est de l'île et l'eau qui se trouve à l'ouest: voici quelle est la méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant un seul courant."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti? yañca, bhikkhave, tassa dīpassa uttarante udakaṃ, yañca dakkhiṇante udakaṃ: ayaṃ kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti.",
+      "fr": "Et quelle est la méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant deux courants? [En considérant] l'eau qui se trouve au nord de l'île et l'eau qui se trouve au sud: voici quelle est la méthode d'exposition au moyen de laquelle ce fleuve est considéré comme ayant un seul courant."
+    },
+    {
+      "pl": "evameva kho, bhikkhave, yaṃ saddhindriyaṃ taṃ saddhābalaṃ, yaṃ saddhābalaṃ taṃ saddhindriyaṃ; yaṃ vīriyindriyaṃ taṃ vīriyabalaṃ, yaṃ vīriyabalaṃ taṃ vīriyindriyaṃ; yaṃ satindriyaṃ taṃ satibalaṃ, yaṃ satibalaṃ taṃ satindriyaṃ; yaṃ samādhindriyaṃ taṃ samādhibalaṃ, yaṃ samādhibalaṃ taṃ samādhindriyaṃ; yaṃ paññindriyaṃ taṃ paññābalaṃ, yaṃ paññābalaṃ taṃ paññindriyaṃ.",
+      "fr": "De la même manière, [bhikkhu|mendiants], la [indriya|faculté] de [saddha|conviction] est la [bala|force] de [saddha|conviction] et la [bala|force] de [saddha|conviction] est la [indriya|faculté] de [saddha|conviction]; la [indriya|faculté] d'[viriya|énergie] est la [bala|force] d'[viriya|énergie] et la [bala|force] d'[viriya|énergie] est la [indriya|faculté] d'[viriya|énergie]; la [indriya|faculté] de [sati|présence d'esprit] est la [bala|force] de [sati|présence d'esprit] et la [bala|force] de [sati|présence d'esprit] est la [indriya|faculté] de [sati|présence d'esprit]; la [indriya|faculté] de [samadhi|concentration] est la [bala|force] de [samadhi|concentration] et la [bala|force] de [samadhi|concentration] est la [indriya|faculté] de [samadhi|concentration]; la [indriya|faculté] de [panna|discernement] est la [bala|force] de [panna|discernement] et la [bala|force] de [panna|discernement] est la [indriya|faculté] de [panna|discernement]."
+    },
+    {
+      "pl": "pañcannaṃ, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī”ti.",
+      "fr": "Mendiants, c'est grâce au développement et à la culture abondante des cinq [indriya|facultés] qu'un mendiant, avec la destruction des [asava|impuretés mentales], entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

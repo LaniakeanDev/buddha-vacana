@@ -1,0 +1,22 @@
+﻿{
+  "identifier": "SN 45.27",
+  "plTitle": "Kumbha Sutta",
+  "frTitle": "La voie",
+  "description": "Voici comment l'esprit a besoin d'un socle, tout comme une jarre. Quel socle?",
+  "body": [
+    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "“seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti; evameva kho, bhikkhave, cittaṃ anādhāraṃ suppavattiyaṃ hoti, sādhāraṃ duppavattiyaṃ hoti. ko ca, bhikkhave, cittassa ādhāro?",
+      "fr": "[bhikkhu|Mendiants], tout comme une jarre sans socle est facilement renversée, mais avec un socle elle est difficile à renverser, de la même manière, un [citta|esprit] sans socle est facilement renversé, mais avec un socle, il est difficile à renverser. Et qu'est-ce, mendiants, que le socle de l'[citta|esprit]?"
+    },
+    {
+      "pl": "ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.",
+      "fr": "C'est cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti; evameva kho, bhikkhave, cittaṃ anādhāraṃ suppavattiyaṃ hoti, sādhāraṃ duppavattiyaṃ hotī”ti.",
+      "fr": "[bhikkhu|Mendiants], tout comme une jarre sans socle est facilement renversée, mais avec un socle elle est difficile à renverser, de la même manière, un [citta|esprit] sans socle est facilement renversé, mais avec un socle, il est difficile à renverser."
+    }
+  ],
+  "translator": "Rémy"
+}
