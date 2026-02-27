@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "Ud 1.1",
+  "plTitle": "Bodhi Sutta",
+  "frTitle": "L'éveil",
+  "description": "Après avoir atteint l'éveil, le Bouddha se concentre sur la chaîne d'apparition conditionnée dans l'ordre direct.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī . atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā paṭhamaṃ yāmaṃ paṭiccasamuppādaṃ anulomaṃ sādhukaṃ manasākāsi —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied de l'arbre de l'Eveil, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, ayant émergé de cette [samadhi|concentration], pendant la première partie de la nuit, le [bhagava|Fortuné] porta méticuleusement son attention à l'[paticcasamuppada|apparition conditionnée] dans l'ordre direct:"
+    },
+    {
+      "pl": "“iti imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati, yadidaṃ — avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hotī””ti.",
+      "fr": "[i]“Ainsi, lorsqu'il y a ceci, cela vient à être, avec l'apparition de ceci, cela vient à apparaître, c'est-à-dire:l'[avijja|ignorance] est la condition [de l'apparition] des [sankhara|constructions];les [sankhara|constructions] sont la condition [de l'apparition] de la [vinnana|conscience];la [vinnana|conscience] est la condition [de l'apparition] du [namarupa|Nom-et-Forme];le [namarupa|Nom-et-Forme] est la condition [de l'apparition] des [salayatana|organes des sens];les [salayatana|organes des sens] sont la condition [de l'apparition] du [phassa|contact];le [phassa|contact] est la condition [de l'apparition] du [vedana|ressenti];le [vedana|ressenti] est la condition [de l'apparition] de la [tanha|Soif];la [tanha|Soif] est la condition [de l'apparition] de l'[upadana|attachement];l'[upadana|attachement] est la condition [de l'apparition] de l'[bhava|existence];l'[bhava|existence] est la condition [de l'apparition] de la [jati|naissance];la [jati|naissance] est la condition [de l'apparition] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Telle est l'apparition de toute cette [khandha|accumulation] de [dukkha|mal-être].”[/i]"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“yadā have pātubhavanti dhammā,[@v]ātāpino jhāyato brāhmaṇassa.[@v]athassa kaṅkhā vapayanti sabbā,[@v]yato pajānāti sahetudhamman””ti.",
+      "fr": "Lorsque les [dhamma|phénomènes] deviennent manifestes[@v]Au [brahmana|brahmane] méditant ardemment[@v]Alors tous les doutes disparaissent[@v]Puisqu'il comprend la [dhamma|loi] des [hetu|causes]."
+    }
+  ],
+  "translator": "Sekha"
+}

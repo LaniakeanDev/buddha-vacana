@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "Iti 25",
+  "plTitle": "Musāvāda Sutta",
+  "frTitle": "Une parole mensongère",
+  "description": "Il n'y a pas de limites pour un menteur.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "“ekadhammaṃ atītassa, bhikkhave, purisapuggalassa nāhaṃ tassa kiñci pāpakammaṃ akaraṇīyanti vadāmi. katamaṃ ekadhammaṃ? yathayidaṃ bhikkhave, sampajānamusāvādo”ti.",
+      "fr": "D'un homme qui transgresse une [dhamma|chose], [bhikkhu|mendiants], je déclare qu'il n'y a aucune [papaka|mauvaise] [kamma|action] qu'il ne ferait pas. Et quelle est cette [dhamma|chose]? Ceci: une [musavada|parole mensongère] délibérée."
+    }
+  ],
+  "translator": "Rémy"
+}

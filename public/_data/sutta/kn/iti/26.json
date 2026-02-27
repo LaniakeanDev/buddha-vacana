@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "Iti 26",
+  "plTitle": "Dāna Sutta",
+  "frTitle": "Le Don",
+  "description": "Ce paragraphe fait brièvement l'éloge du don et de la générosité.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Evañce, bhikkhave, sattā jāneyyuṃ dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, na adatvā bhuñjeyyuṃ, na ca nesaṃ maccheramalaṃ cittaṃ pariyādāya tiṭṭheyya. Yopi nesaṃ assa carimo ālopo carimaṃ kabaḷaṃ, tatopi na asaṃvibhajitvā bhuñjeyyuṃ, sace nesaṃ paṭiggāhakā assu. Yasmā ca kho, bhikkhave, sattā na evaṃ jānanti dānasaṃvibhāgassa vipākaṃ yathāhaṃ jānāmi, tasmā adatvā bhuñjanti, maccheramalañca nesaṃ cittaṃ pariyādāya tiṭṭhatī ti.",
+      "fr": "Si les êtres connaissaient, comme je connais, les résultats du don et du partage, ils ne mangeraient pas sans avoir donné, et la souillure de l'avarice ne s'emparerait pas leur esprit. Même si c'était leur dernier morceau, leur dernière bouchée, ils ne mangeraient pas sans [l']avoir partagée, s'il y avait quelqu'un pour recevoir leur don. Mais parce que les êtres ne connaissent pas, comme je connais, les résultats du don et du partage, ils mangent sans avoir donné. La souillure de l'avarice s'empare de leur esprit."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Evaṃ ce sattā jāneyyuṃ,[@v] Yathāvuttaṃ mahesinā[@v]Vipākaṃ saṃvibhāgassa,[@v] Yathā hoti mahapphalaṃ,[@v]Vineyya maccheramalaṃ,[@v] Vippasannena cetasā;[@v]Dajjuṃ kālena ariyesu,[@v] Yattha dinnaṃ mahapphalaṃ.[@v]Annañca datvā bahuno,[@v] Dakkhiṇeyyesu dakkhiṇaṃ,[@v]Ito cutā manussattā,[@v] Saggaṃ gacchanti dāyakā;[@v]Te ca saggagatā tattha,[@v] Modanti kāmakāmino;[@v]Vipākaṃ saṃvibhāgassa,[@v] Anubhonti amaccharā ti.[/i]",
+      "fr": "[i]Si les êtres savaient[@v] Ce que le Grand Sage a dit[@v]Comment les résultats du partage[@v] Portent tant de fruits,[@v]Abandonnant la souillure de l'avarice,[@v] Avec un esprit pur,[@v]Ils donneraient à temps aux êtres nobles,[@v]Là où le don porte d'excellents fruits.[@v]Ayant donné une nourriture abondante,[@v] Offrant à ceux qui sont dignes d'offrandes,[@v]Lorsqu'ils trépassent d'ici, de l'état humain,[@v] Les donneurs se rendent dans une heureuse destination;[@v]S'étant rendu dans une heureuse destination,[@v] Ils se réjouissent, jouissant des plaisirs sensuels;[@v]Les résultats du partage, [@v]Ils en font l'expérience, étant sans avarice.[/i]"
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}

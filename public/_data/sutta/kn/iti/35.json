@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "Iti 35",
+  "plTitle": "Nakuhana Sutta",
+  "frTitle": "Pas pour tromper",
+  "description": "Un petit rappel au sujet de pourquoi on devient un mendiant.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“nayidaṃ, bhikkhave, brahmacariyaṃ vussati janakuhanatthaṃ, na janalapanatthaṃ, na lābhasakkārasilokānisaṃsatthaṃ, na ‘iti maṃ jano jānātū’’ti. atha kho idaṃ, bhikkhave, brahmacariyaṃ vussati saṃvaratthañceva pahānatthañcā””ti.",
+      "fr": "«[bhikkhu|Mendiants], cette [brahmacariya|vie brahmique] n'est pas vécue pour tromper les gens, ni pour les flatter, ni pour [obtenir] [lss|acquisitions, honneurs et renommée], ni [en pensant:] [i]“Que les gens sachent que je suis ainsi!”[/i] Mais cette [brahmacariya|vie brahmique], [bhikkhu|mendiants], est vécue pour la [samvara|restreinte] et pour l'abandon.»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“saṃvaratthaṃ pahānatthaṃ,[@v]brahmacariyaṃ anītihaṃ.[@v]adesayi so bhagavā,[@v]nibbānogadhagāminaṃ.",
+      "fr": "C'est pour la [samvara|restreinte], pour l'abandon,[@v]Et non par tradition[@v]Que le [bhagava|Fortuné] a professé la [brahmacariya|vie brahmique],[@v]Qui plonge dans et mène vers l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“esa maggo mahattehi, anuyāto mahesibhi.[@v]ye ye taṃ paṭipajjanti,[@v]yathā buddhena desitaṃ.[@v]dukkhassantaṃ karissanti,[@v]satthusāsanakārino””ti.",
+      "fr": "Cette voie est suivie[@v]Par les grands, par les sages.[@v]Ceux qui la suivent[@v]Comme enseigné par le Bouddha[@v]Mettent fin au [dukkha|mal-être][@v]En suivant les instructions de l'Enseignant."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "Ud 2.9",
+  "plTitle": "Visākhā Sutta",
+  "frTitle": "Avec Vissakha",
+  "description": "Vissakha, une riche disciple du Bouddha, est mêlée à une affaire tranchée par le roi Passénadi.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. tena kho pana samayena visākhāya migāramātuyā kocideva attho raññe pasenadimhi kosale paṭibaddho hoti. taṃ rājā pasenadi kosalo na yathādhippāyaṃ tīreti. atha kho visākhā migāramātā divā divassa yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho visākhaṃ migāramātaraṃ bhagavā etadavoca —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le manoir de la mère de Migara, dans le parc de l'est. Ce jour-là, Vissakha la mère de Migara était prise dans une affaire avec le roi Passénadi du Kossala, et ce dernier n'avait pas tranché en sa faveur. Alors Vissakha la mère de Migara vint voir le [bhagava|Fortuné] au milieu de la journée, lui rendit hommage, puis s'assit d'un côté. Tandis qu'elle était assise là, le [bhagava|Fortuné] lui dit:"
+    },
+    {
+      "pl": "“handa kuto nu tvaṃ, visākhe, āgacchasi divā divassā””ti?",
+      "fr": "«Hé bien, Vissakha, d'où viens-tu ainsi au milieu de la journée?"
+    },
+    {
+      "pl": "“idha me, bhante, kocideva attho raññe pasenadimhi kosale paṭibaddho; taṃ rājā pasenadi kosalo na yathādhippāyaṃ tīretī””ti.",
+      "fr": "—[bhante|Bhanté], je suis prise dans une affaire avec le roi Passénadi du Kossala, et ce dernier n'a pas tranché en ma faveur.»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“sabbaṃ paravasaṃ dukkhaṃ, sabbaṃ issariyaṃ sukhaṃ.sādhāraṇe vihaññanti, yogā hi duratikkamā”ti.",
+      "fr": "Tout ce qui est sous le contrôle d'un autre produit du [dukkha|mal-être]Tout ce qui est sous notre contrôle produit du [sukha|bien-être].Ce qui est partagé est source de frustrationCar il est difficile de se sortir des jougs."
+    }
+  ],
+  "translator": "Sekha"
+}

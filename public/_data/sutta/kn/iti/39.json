@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "Iti 39",
+  "plTitle": "Desanā Sutta",
+  "frTitle": "Enseignement",
+  "description": "Deux méthodes utilisées par le Bouddha pour professer son enseignement.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“tathāgatassa, bhikkhave, arahato sammāsambuddhassa dve dhammadesanā pariyāyena bhavanti. katamā dve? ‘pāpaṃ pāpakato passathā’’ti — ayaṃ paṭhamā dhammadesanā; ‘pāpaṃ pāpakato disvā tattha nibbindatha virajjatha vimuccathā’’ti — ayaṃ dutiyā dhammadesanā. tathāgatassa, bhikkhave, arahato sammāsambuddhassa imā dve dhammadesanā pariyāyena bhavantī””ti.",
+      "fr": "«[bhikkhu|Mendiants], pour le [tathagata|Tathagata], le [arahant|Méritant] [sammasambuddho|véritablement éveillé], il y a deux méthodes d'enseignement du [dhamma|Dhamma]. Quelles sont ces deux? La première manière d'enseigner le [dhamma|Dhamma] est: [i]“Voyez ce qui est [papa|malsain] comme étant [papa|malsain]”[/i]. La deuxième manière d'enseigner le [dhamma|Dhamma] est: [i]“Ayant vu ce qui est [papa|malsain] comme étant [papa|malsain], soyez-en [nibbida|désenchantés], devenez-en [viraga|détachés], [vimutti|libérez]-vous en”[/i]. Voici, [bhikkhu|mendiants], quelles sont ces deux méthodes d'enseignement du [dhamma|Dhamma] pour le [tathagata|Tathagata], le [arahant|Méritant] [sammasambuddho|véritablement éveillé].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“tathāgatassa buddhassa, sabbabhūtānukampino. pariyāyavacanaṃ passa, dve ca dhammā pakāsitā. ",
+      "fr": "Voyez les méthodes d'expressionEt les deux enseignements professés Par le [tathagata|Tathagata], le Bouddha,Rempli de sollicitude pour tous les êtres:"
+    },
+    {
+      "pl": "“pāpakaṃ passatha cekaṃ, tattha cāpi virajjatha. tato virattacittāse, dukkhassantaṃ karissathā””ti. ",
+      "fr": "D'abord voyez ce qui est [papa|malsain]Et ensuite devenez-en [viraga|détachés].Ensuite, avec un [citta|esprit][viraga|détaché],Vous mettrez fin au [dukkha|mal-être]."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Sekha"
+}

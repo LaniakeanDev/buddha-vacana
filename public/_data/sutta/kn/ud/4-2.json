@@ -1,0 +1,30 @@
+﻿{
+  "identifier": "Ud 4.2",
+  "plTitle": "Uddhata Sutta",
+  "frTitle": "Agités",
+  "description": "Le Bouddha voit des mendiants déconcentrés.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā kusinārāyaṃ viharati upavattane mallānaṃ sālavane. tena kho pana samayena sambahulā bhikkhū bhagavato avidūre araññakuṭikāyaṃ viharanti uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Koushinagar, dans le bois de sals des Mallas nommé Oupavattana. À ce moment-là, un grand nombre de [bhikkhu|mendiants] séjournaient non loin du [bhagava|Fortuné], dans des huttes forestières, agités, insolents, instables, bavards, jacasseurs, étourdis d'esprit, sans [sampajanna|discernement attentif], dé·[samahita|concentrés], d'[citta|esprit] confus, avec des [indriya|facultés] incontrôlées."
+    },
+    {
+      "pl": "addasā kho bhagavā te sambahule bhikkhū avidūre araññakuṭikāyaṃ viharante uddhate unnaḷe capale mukhare vikiṇṇavāce muṭṭhassatino asampajāne asamāhite vibbhantacitte pākatindriye.",
+      "fr": "Le [bhagava|Fortuné] vit ce grand nombre de [bhikkhu|mendiants] qui séjournaient non loin de là dans des huttes forestières, agités, insolents, instables, bavards, jacasseurs, étourdis d'esprit, sans [sampajanna|discernement attentif], dé·[samahita|concentrés], d'[citta|esprit] confus, avec des [indriya|facultés] incontrôlées."
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“arakkhitena kāyena, micchādiṭṭhihatena ca. thinamiddhābhibhūtena, vasaṃ mārassa gacchati. ",
+      "fr": "Celui qui n'est pas protégé en corps,Détruit par la [micchaditthi|vue erronée],Sous l'emprise de la [thinamiddha|torpeur & somnolence],Se met sous l'influence du [mara|Tueur]."
+    },
+    {
+      "pl": "“tasmā rakkhitacittassa, sammāsaṅkappagocaro. sammādiṭṭhipurekkhāro, ñatvāna udayabbayaṃ. thīnamiddhābhibhū bhikkhu, sabbā duggatiyo jahe””ti.",
+      "fr": "C'est pourquoi pour celui qui est protégé en [citta|esprit],Celui qui se repaît d'[sammasankappa|aspiration correcte]Qui se voue à la [sammaditthi|vue correcte],Ayant compris l'apparition et la disparition,Un [bhikkhu|mendiant] ayant vaincu la [thinamiddha|torpeur & somnolence]A abandonné toutes les [duggati|mauvaises destinations]."
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,38 @@
+﻿{
+  "identifier": "Ud 2.7",
+  "plTitle": "Ekaputtaka Sutta",
+  "frTitle": "Un fils unique",
+  "description": "Un disciple dont le fils unique est décédé vient voir le Bouddha avec ses proches.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena aññatarassa upāsakassa ekaputtako piyo manāpo kālaṅkato hoti. atha kho sambahulā upāsakā allavatthā allakesā divā divassa yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinne kho te upāsake bhagavā etadavoca —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le fils unique, cher et tendre d'un certain [upasaka|disciple laïc] était décédé. Alors un grand nombre de disciples laïcs portant des vêtements mouillés et avec les cheveux mouillés vinrent voir le [bhagava|Fortuné] au milieu de la journée, lui rendirent hommage, puis s'assirent d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] leur dit:"
+    },
+    {
+      "pl": "“kiṃ nu kho tumhe, upāsakā, allavatthā allakesā idhūpasaṅkamantā divā divassā””ti?",
+      "fr": "«[upasaka|Disciples], pourquoi êtes-vous venus ici au milieu de la journée en portant des vêtements mouillés et avec les cheveux mouillés?»"
+    },
+    {
+      "pl": "evaṃ vutte, so upāsako bhagavantaṃ etadavoca —",
+      "fr": "Lorsque cela fut dit, le disciple en question dit au Fortuné:"
+    },
+    {
+      "pl": "“mayhaṃ kho, bhante, ekaputtako piyo manāpo kālaṅkato. tena mayaṃ allavatthā allakesā idhūpasaṅkamantā divā divassā””ti.",
+      "fr": "«[bhante|Bhanté], mon fils unique, cher et tendre, est décédé. C'est pour cela que nous sommes venus ici au milieu de la journée en portant des vêtements mouillés et avec les cheveux mouillés.»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“piyarūpassādagadhitāse, devakāyā puthu manussā ca. aghāvino parijunnā, maccurājassa vasaṃ gacchanti. ",
+      "fr": "Les classes de [deva|dévas] et la plupart des humainsSont attachés à la jouissance de ce qui est attrayant.Malheureux, flétris,Ils tombent sous l'influence du roi de la mort."
+    },
+    {
+      "pl": "“ye ve divā ca ratto ca, appamattā jahanti piyarūpaṃ. te ve khaṇanti aghamūlaṃ, maccuno āmisaṃ durativattan””ti. ",
+      "fr": "Mais ceux qui, de jour comme de nuit,[appamada|Assidus], abandonnent ce qui est attrayant,Ceux-là déterrent la racine du malheur,L'appât de la mort, si difficile à transcender."
+    }
+  ],
+  "translator": "Sekha"
+}

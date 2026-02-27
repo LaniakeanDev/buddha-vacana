@@ -1,0 +1,34 @@
+﻿{
+  "identifier": "Ud 1.5",
+  "plTitle": "Brāhmaṇa Sutta",
+  "frTitle": "Un brahmane",
+  "description": "Le Bouddha utilise le mot brahmane de manière particulière, ce qui pousse un mendiant issu d'une famille de brahmanes à demander ce qu'il entend par là.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca mahākassapo āyasmā ca mahākaccāno āyasmā ca mahākoṭṭhiko āyasmā ca mahākappino āyasmā ca mahācundo āyasmā ca anuruddho āyasmā ca revato āyasmā ca nando yena bhagavā tenupasaṅkamiṃsu. addasā kho bhagavā te āyasmante dūratova āgacchante; disvāna bhikkhū āmantesi",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, les [ayasma|vénérables] Saripoutta, Moggalana le grand, Kassapa le grand, Kotthika le grand, Kappina le grand, Tchounda le grand, Anourouddha, Révata et Nanda vinrent voir le [bhagava|Fortuné]. En voyant ces [ayasma|vénérables] arriver de loin, le [bhagava|Fortuné] s'adressa aux mendiants:"
+    },
+    {
+      "pl": "“ete, bhikkhave, brāhmaṇā āgacchanti; ete, bhikkhave, brāhmaṇā āgacchantī””ti.",
+      "fr": "«Ces brahmanes arrivent, [bhikkhu|mendiants], ces brahmanes arrivent!»"
+    },
+    {
+      "pl": "evaṃ vutte, aññataro brāhmaṇajātiko bhikkhu bhagavantaṃ etadavoca —",
+      "fr": "Lorsque cela fut dit, un certain [bhikkhu|mendiant] qui était issu d'une famille de brahmanes s'adressa au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“kittāvatā nu kho, bhante, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā dhammā””ti?",
+      "fr": "«[bhante|Bhanté], dans quelle mesure est-on un brahmane, et quelles sont les [dhamma|caractéristiques] qui font de quelqu'un un brahmane?»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“bāhitvā pāpake dhamme, ye caranti sadā satā.khīṇasaṃyojanā buddhā, te ve lokasmi brāhmaṇā””ti.",
+      "fr": "Ceux qui évitent les [dhamma|états] [papa|malsains]Et se comportent toujours avec [sati|présence d'esprit],Les éveillés qui ont détruit les [samyojana|impuretés mentales]Ceux-ci sont dans le monde les véritables brahmanes."
+    }
+  ],
+  "translator": "Sekha"
+}

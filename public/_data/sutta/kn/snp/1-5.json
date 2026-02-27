@@ -1,0 +1,41 @@
+﻿{
+  "identifier": "Snp 1.5",
+  "plTitle": "Cunda Sutta",
+  "frTitle": "La question de Tchounda",
+  "description": "Ayant apparemment été confronté à des mendiants corrompus, Tchounda demande au Bouddha quels sont les différents types de renonçants.",
+  "body": [
+    {
+      "pl": "[Cunda:]“pucchāmi muniṃ pahūtapaññaṃ,buddhaṃ dhammassāmiṃ vītataṇhaṃ.dvipaduttamaṃ sārathīnaṃ pavaraṃ, kati loke samaṇā tadiṅgha brūhi”.",
+      "fr": "[Tchounda:]Je demande au sage rempli de [panna|discernement]Au Bouddha, au maître du [dhamma|Dhamma] qui est sans [tanha|Soif],Le premier des bipèdes, le suprême meneur,Dites-moi s'il vous plaît: combien de types de renonçants y a-t-il dans le monde?"
+    },
+    {
+      "pl": "[Bhagavā:]“caturo samaṇā na pañcamatthi,te te āvikaromi sakkhipuṭṭho.maggajino maggadesako ca, magge jīvati yo ca maggadūsī”.",
+      "fr": "[Le Fortuné:]Il y a quatre types de renonçants, et pas de cinquième,Ayant été pris pour témoin, je vais les expliquer.Il y a le vainqueur de la [magga|voie], l'instructeur de la [magga|voie],Celui qui vit de la [magga|voie] et celui qui détourne la [magga|voie]."
+    },
+    {
+      "pl": "[Cunda:]“kaṃ maggajinaṃ vadanti buddhā,maggakkhāyī kathaṃ atulyo hoti.magge jīvati me brūhi puṭṭho, atha me āvikarohi maggadūsiṃ”.",
+      "fr": "[Tchounda:]Quel est le vainqueur de la [magga|voie] dont parlent les Bouddhas?Comment est celui qui montre la bonne [magga|voie] incomparablement?Dites-moi quel est celui qui vit de la [magga|voie],Et veuillez m'expliquer celui qui détourne la [magga|voie]."
+    },
+    {
+      "pl": "[Bhagavā:]“yo tiṇṇakathaṃkatho visallo, nibbānābhirato anānugiddho.lokassa sadevakassa netā, tādiṃ maggajinaṃ vadanti buddhā.",
+      "fr": "[Le Fortuné:]Celui qui a traversé au-delà de la perplexité, qui a retiré la flèche [qui le blessait],Se plaisant à l'[nibbana|Extinction], sans envie,Guide du monde avec ses [deva|dévas],Les Bouddhas l'appellent le vainqueur de la [magga|voie]."
+    },
+    {
+      "pl": "“paramaṃ paramanti yodha ñatvā, akkhāti vibhajate idheva dhammaṃtaṃ kaṅkhachidaṃ muniṃ anejaṃ, dutiyaṃ bhikkhunamāhu maggadesiṃ.",
+      "fr": "Celui qui connaît ici le supérieur comme étant supérieurQui énonce et analyse le [dhamma|Dhamma] ici même,Un sage sans désir ayant détruit le doute,Le deuxième type de [bhikkhu|mendiant] est appelé l'instructeur de la [magga|voie]."
+    },
+    {
+      "pl": "“yo dhammapade sudesite, magge jīvati saññato satīmā.anavajjapadāni sevamāno, tatiyaṃ bhikkhunamāhu maggajīviṃ.",
+      "fr": "Restreint, [satima|présent d'esprit], il vit de la [magga|voie],Des principes du [dhamma|Dhamma] ayant été bien exposés.Pratiquant les principes [anavajja|irréprochables],Le troisième type de [bhikkhu|mendiant] est appelé celui qui vit de la [magga|voie]."
+    },
+    {
+      "pl": "“chadanaṃ katvāna subbatānaṃ, pakkhandī kuladūsako pagabbho.māyāvī asaññato palāpo, patirūpena caraṃ sa maggadūsī.",
+      "fr": "Se faisant une contrefaçon de ceux qui ont de bons préceptesArrogant, corrupteur des familles, intrusif,Trompeur, sans restreinte, parlant pour ne rien dire,Marchant déguisé, il est celui qui détourne la [magga|voie]."
+    },
+    {
+      "pl": "“ete ca paṭivijjhi yo gahaṭṭho, sutavā ariyasāvako sapañño.sabbe netādisāti ñatvā, iti disvā na hāpeti tassa saddhā.kathaṃ hi duṭṭhena asampaduṭṭhaṃ, suddhaṃ asuddhena samaṃ kareyyā”ti.",
+      "fr": "Tout homme de maison les ayant reconnusEst un [ariyasavaka|noble disciple] [sutava|instruit] doué de [panna|discernement].Sachant qu'ils ne sont pas tous semblables,Voyant ainsi, sa [saddha|conviction] n'est pas ébranlée.Car comment peut-on considérer comme équivalentsLe perverti et le consciencieux, le pur et l'impur?"
+    }
+  ],
+  "translator": "Rémy"
+}

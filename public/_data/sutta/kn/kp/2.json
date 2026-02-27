@@ -1,0 +1,49 @@
+﻿{
+  "identifier": "Kp 2",
+  "plTitle": "Dasasikkhāpada",
+  "frTitle": "Les dix règles de l'entraînement",
+  "description": "Voici les dix règles de l'entraînement qui s'adressent aux mendiants novices.",
+  "body": [
+    {
+      "pl": "1. pāṇātipātā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "1. J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de détruire la vie (tuer)."
+    },
+    {
+      "pl": "2. adinnādānā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "2. J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de prendre ce qui n'a pas été donné (voler)."
+    },
+    {
+      "pl": "3. abrahmacariyā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "3.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de [abrahmacariya|ce qui est contraire à la vie brahmique] (toute activité sexuelle)."
+    },
+    {
+      "pl": "4. musāvādā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "4.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir des [musavada|paroles mensongères] (de mentir)."
+    },
+    {
+      "pl": "5. surāmerayamajjapamādaṭṭhānā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "5.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir des [suramerayamajjapamadatthana|liqueurs, boissons fermentées et intoxicants qui engendrent la négligence]."
+    },
+    {
+      "pl": "6. vikālabhojanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "6.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de manger au mauvais moment (après midi solaire)."
+    },
+    {
+      "pl": "7. nacca-gīta-vādita-visūkadassanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "7.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de chanter, danser, [écouter] de la musique et des divertissements."
+    },
+    {
+      "pl": "8. mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "8.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir de porter des guirlandes, parfums, cosmétiques, parures et moyens de s'embellir."
+    },
+    {
+      "pl": "9. uccāsayana-mahāsayanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "9.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir d'utiliser des sièges ou des lits élevés ou luxueux."
+    },
+    {
+      "pl": "10. jātarūpa-rajatapaṭiggahaṇā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+      "fr": "10.J'entreprends la [sikkhapada|règle de l'entraînement] qui consiste à m'abstenir d'accepter l'or et l'argent."
+    }
+  ],
+  "translator": "Sekha"
+}

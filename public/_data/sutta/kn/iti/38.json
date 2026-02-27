@@ -1,0 +1,41 @@
+﻿{
+  "identifier": "Iti 38",
+  "plTitle": "Vitakka Sutta",
+  "frTitle": "Deux pensées",
+  "description": "Voici deux pensées qui venaient régulièrement au Bouddha.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“tathāgataṃ, bhikkhave, arahantaṃ sammāsambuddhaṃ dve vitakkā bahulaṃ samudācaranti — khemo ca vitakko, paviveko ca.",
+      "fr": "«[bhikkhu|Mendiants], il y a deux [vitakka|pensée]s qui viennent souvent au [tathagata|Tathagata], au [arahant|Méritant] [sammasambuddha|véritablement éveillé]: la [vitakka|pensée] de paix et celle de l'[viveka|isolement]."
+    },
+    {
+      "pl": "abyāpajjhārāmo, bhikkhave, tathāgato abyāpajjharato. tamenaṃ, bhikkhave, tathāgataṃ abyāpajjhārāmaṃ abyāpajjharataṃ eseva vitakko bahulaṃ samudācarati — ‘imāyāhaṃ iriyāya na kiñci byābādhemi tasaṃ vā thāvaraṃ vā’’ti.",
+      "fr": "[bhikkhu|Mendiants], le [tathagata|Tathagata] se plaît à la bienveillance, se voue à la bienveillance. Puisque le [tathagata|Tathagata] se plaît à la bienveillance, se voue à la bienveillance, la [vitakka|pensée] suivante lui vient souvent: [i]“Par ce comportement, je ne fais de mal à personne, faible ou fort.”[/i]"
+    },
+    {
+      "pl": "“pavivekārāmo, bhikkhave, tathāgato pavivekarato. tamenaṃ, bhikkhave, tathāgataṃ pavivekārāmaṃ pavivekarataṃ eseva vitakko bahulaṃ samudācarati — ‘yaṃ akusalaṃ taṃ pahīnan’’ti.",
+      "fr": "[bhikkhu|Mendiants], le [tathagata|Tathagata] se plaît à l'[viveka|isolement], se voue à l'[viveka|isolement]. Puisque le [tathagata|Tathagata] se plaît à l'[viveka|isolement], se voue à l'[viveka|isolement], la [vitakka|pensée] suivante lui vient souvent: [i]“Ce qui est [akusala|désavantageux] a été abandonné.”[/i]"
+    },
+    {
+      "pl": "“tasmātiha, bhikkhave, tumhepi abyāpajjhārāmā viharatha abyāpajjharatā. tesaṃ vo, bhikkhave, tumhākaṃ abyāpajjhārāmānaṃ viharataṃ abyāpajjharatānaṃ eseva vitakko bahulaṃ samudācarissati — ‘imāya mayaṃ iriyāya na kiñci byābādhema tasaṃ vā thāvaraṃ vā’’ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], restez également à vous plaire à la bienveillance, à vous vouer à la bienveillance. Lorsque vous vous plairez à la bienveillance, que vous vous vouerez à la bienveillance, la [vitakka|pensée] suivante vous viendra souvent: [i]“Par ce comportement, nous ne faisons de mal à personne, faible ou fort.”[/i]"
+    },
+    {
+      "pl": "“pavivekārāmā, bhikkhave, viharatha pavivekaratā. tesaṃ vo, bhikkhave, tumhākaṃ pavivekārāmānaṃ viharataṃ pavivekaratānaṃ eseva vitakko bahulaṃ samudācarissati — ‘kiṃ akusalaṃ, kiṃ appahīnaṃ, kiṃ pajahāmā’””ti.",
+      "fr": "Restez à vous plaire à l'[viveka|isolement], à vous vouer à l'[viveka|isolement]. Lorsque vous vous plairez à l'[viveka|isolement], que vous vous vouerez à l'[viveka|isolement], la [vitakka|pensée] suivante vous viendra souvent: [i]“Qu'est-ce qui est [akusala|désavantageux]? Qu'est-ce qui n'a pas a été abandonné? Que devrions-nous abandonner?”[/i]»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Sekha"
+}

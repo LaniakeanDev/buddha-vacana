@@ -1,0 +1,62 @@
+﻿{
+  "identifier": "Kp 5",
+  "plTitle": "Maṅgala Sutta",
+  "frTitle": "Les bienfaits",
+  "description": "Un soutta très fréquemment récité où un déva demande au Bouddha quel est le plus haut bienfait et reçoit une liste en réponse.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Cette nuit-là, alors qu'elle était bien avancée, un certain [deva|déva] illumina presque tout le bois de Jeta de son éclat superbe, vint voir le [bhagava|Fortuné], lui rendit hommage, puis se tint debout d'un côté et s'adressa à lui en vers:"
+    },
+    {
+      "pl": "“bahū devā manussā ca, [@v]maṅgalāni acintayuṃ. [@v]ākaṅkhamānā sotthānaṃ, [@v]brūhi maṅgalamuttamaṃ”. ",
+      "fr": "Beaucoup de [deva|dévas] et d'êtres humains[@v]Ont réfléchi à ce qui est bénéfique,[@v]Souhaitant le bienfait.[@v]Dis quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“asevanā ca bālānaṃ, [@v]paṇḍitānañca sevanā. [@v]pūjā ca pūjaneyyānaṃ, [@v]etaṃ maṅgalamuttamaṃ. ",
+      "fr": "Ne pas s'associer aux [baala|sots][@v]S'associer aux [pandita|sages][@v]Et rendre hommage à ceux qui le méritent:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“patirūpadesavāso ca, [@v]pubbe ca katapuññatā. [@v]attasammāpaṇidhi ca, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Habiter dans une région adéquate,[@v]Avoir fait du [punna|mérite] dans le passé[@v]Et avoir des aspirations correctes pour soi-même:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“bāhusaccañca sippañca, [@v]vinayo ca susikkhito. [@v]subhāsitā ca yā vācā, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Être très instruit et compétent[@v][vinaya|Discipliné] et bien [sikkha|entraîné][@v]Et avoir des paroles bien dites:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“mātāpitu upaṭṭhānaṃ, [@v]puttadārassa saṅgaho. [@v]anākulā ca kammantā, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Rendre service à mère et père[@v]Gentillesse envers enfants et femme[@v]Avoir des activités saines:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“dānañca dhammacariyā ca, [@v]ñātakānañca saṅgaho. [@v]anavajjāni kammāni, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Le don, un comportement respectueux du [dhamma|Dhamma][@v]Gentillesse envers les proches[@v]Des actions irréprochables:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“āratī viratī pāpā, [@v]majjapānā ca saṃyamo. [@v]appamādo ca dhammesu, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "S'abstenir, éviter ce qui est mauvais[@v]Se passer de prendre des intoxicants[@v]Et être assidu dans les [dhamma|bonnes qualités]:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“gāravo ca nivāto ca, [@v]santuṭṭhi ca kataññutā. [@v]kālena dhammassavanaṃ, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Respect et humilité[@v]Contentement et gratitude[@v]Écouter l'[dhamma|Enseignement] régulièrement:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“khantī ca sovacassatā, [@v]samaṇānañca dassanaṃ. [@v]kālena dhammasākacchā, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Patience et docilité,[@v]Aller voir les [samana|renonçants][@v]Avoir des conversations régulières au sujet de l'[dhamma|Enseignement]:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“tapo ca brahmacariyañca, [@v]ariyasaccāna dassanaṃ. [@v]nibbānasacchikiriyā ca, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Ascèse et [brahmacariya|vie brahmique][@v]Vision des [ariyasacca|nobles vérités][@v]Et réalisation de l'[nibbana|Extinction]:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“phuṭṭhassa lokadhammehi, [@v]cittaṃ yassa na kampati. [@v]asokaṃ virajaṃ khemaṃ, [@v]etaṃ maṅgalamuttamaṃ.",
+      "fr": "Touché par les choses du monde[@v]L'[citta|esprit] n'est pas troublé[@v]Sans chagrin, sans souillure, tranquille:[@v]Voici quel est le plus haut bienfait."
+    },
+    {
+      "pl": "“etādisāni katvāna, [@v]sabbatthamaparājitā. [@v]sabbattha sotthiṃ gacchanti, [@v]taṃ tesaṃ maṅgalamuttaman””ti.",
+      "fr": "Ayant fait tout cela[@v]Partout sans défaite[@v]Partout ils vont en sécurité:[@v]Voici quel est le plus haut bienfait."
+    }
+  ],
+  "translator": "Sekha"
+}

@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "Iti 53",
+  "plTitle": "Vedanā Sutta",
+  "frTitle": "Les ressentis",
+  "description": "Il est expliqué ici comment les trois types de senstions devraient être perçus afin d'atteindre le plus haut bienfait.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhā, bhikkhave, vedanā dukkhato daṭṭhabbā, dukkhā vedanā sallato daṭṭhabbā, adukkhamasukhā vedanā aniccato daṭṭhabbā. Yato kho, bhikkhave, bhikkhuno sukhā vedanā dukkhato diṭṭhā hoti, dukkhā vedanā sallato diṭṭhā hoti, adukkhamasukhā vedanā aniccato diṭṭhā hoti; ayaṃ vuccati, bhikkhave, ‘bhikkhu ariyo, sammaddaso, acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’ ti.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces trois [types de] [vedana|ressentis]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis ni agréables ni désagréables]. Les [sukhavedana|ressentis agréables], [bhikkhu|mendiants], devraient être vus comme étant [dukkha|insatisfaisants], les [dukkhavedana|ressentis désagréables] devraient être vus comme un dard, les [adukkhamasukhavedana|ressentis ni agréables ni désagréables] devraient être vus comme étant [anicca|impermanents]. [bhikkhu|Mendiants], un mendiant qui a vu les [sukhavedana|ressentis agréables] comme étant [dukkha|insatisfaisants], qui a vu les [dukkhavedana|ressentis désagréables] comme un dard, et qui a vu les [adukkhamasukhavedana|ressentis ni agréables ni désagréables] comme étant [anicca|impermanents], c'est ce qu'on appelle, [bhikkhu|mendiants], 'un mendiant qui est [ariya|noble], qui a vu correctement, qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves], et qui par la compréhension correcte de la [maana|prétention], a mis fin au [dukkha|mal-être]."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici quelle est la signification de ce qu'a dit le [bhagava|Fortuné]. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Yo sukhaṃ dukkhato adda, [@v]Sukkhamaddakkhi sallato,[@v]Adukkhamasukhaṃ santaṃ, [@v]Adakkhi naṃ aniccato,[@v]Sa ve sammaddaso bhikkhu, [@v]Yato tattha vimuccati;[@v]Abhiññāvosito santo, [@v]Sa ve yogātigo munī ti.[/i]",
+      "fr": "[i]Celui qui voit le bien-être comme un mal-être,[@v]Qui voit la douleur comme un dard,[@v]Qui voit la paisible neutralité[@v]Comme impermanente,[@v]Est un mendiant qui a vu correctement,[@v]Et par cela il est délivré;[@v]Perfectionné en connaissance directe, paisible,[@v]Il est un sage qui s'est rendu au-delà des attachements.[/i]"
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}

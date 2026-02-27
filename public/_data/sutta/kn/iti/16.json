@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "Iti 16",
+  "plTitle": "Sekha Sutta",
+  "frTitle": "L'apprenant",
+  "description": "Aucune autre qualité intérieure n'en fait autant pour celui qui s'entraîne.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Sekhassa, bhikkhave, bhikkhuno appattamānasassa anuttaraṃ yogakkhemaṃ patthayamānassa viharato ajjhattikaṃ aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ bahūpakāraṃ yathayidaṃ, bhikkhave, yoniso manasikāro. Yoniso, bhikkhave, bhikkhu manasi karonto akusalaṃ pajahati, kusalaṃ bhāvetī ti.",
+      "fr": "Mendiants, pour un mendiant [sekha|en entraînement], qui n'a pas encore atteint son but et qui aspirent au suprême soulagement du joug, je ne vois aucune qualité interne qui en fasse autant que cette qualité, je veux parler, [bhikkhu|mendiants], de l'[yonisomanasikara|intellection judicieuse]. [bhikkhu|Mendiants], un mendiant qui [yonisomanasikara|conçoit judicieusement] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux]."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Yoniso manasikāro,[@v]Dhammo sekhassa bhikkhuno;[@v]Natthañño evaṃ bahukāro, [@v]Uttamatthassa pattiyā;[@v]Yoniso padahaṃ bhikkhu,[@v]Khayaṃ dukkhassa pāpuṇe ti.[/i]",
+      "fr": "[i]L'intellection judicieuse[@v]Est un état mental pour un mendiant en entraînement;[@v]Il n'y a rien d'autre qui en fasse autant [@v]Pour l'obtention de l'objectif suprême;[@v]Un bhikkhu s'efforçant judicieusement [@v]Atteint la destruction du mal-être.[/i]"
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "Iti 18",
+  "plTitle": "Saṅghabheda Sutta",
+  "frTitle": "La division du Sangha",
+  "description": "Une chose qui apporte beaucoup d'infortune dans le monde.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Ekadhammo, bhikkhave, loke uppajjamāno uppajjati bahujanāhitāya bahujanādukkhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Katamo ekadhammo? Saṅghabhedo. Saṅghe kho pana, bhikkhave, bhinne aññamaññaṃ bhaṇḍanāni ceva honti, aññamaññaṃ paribhāsā ca honti, aññamaññaṃ parikkhepā ca honti, aññamaññaṃ pariccajanā ca honti. Tattha appasannā ceva nappasīdanti, pasannānañca ekaccānaṃ aññathattaṃ hotī ti.",
+      "fr": "Il y a une chose, [bhikkhu|mendiants], qui lorsqu'elle apparaît dans le monde, apparaît au détriment de beaucoup de gens, pour le malheur de beaucoup de gens, pour le préjudice, le détriment et le [dukkha|mal-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]. Quelle est cette chose? La division de la [sangha|Communauté]. Lorsque, [bhikkhu|mendiants], la [sangha|Communauté] est divisée, il y a des disputes entres les uns et les autres, il y a des blâmes lancés des uns aux autres, il y a ségrégation entre les uns et les autres, il y a rejet des uns par les autres. Alors ceux qui ont peu de confiance perdent leur confiance et ceux qui ont confiance deviennent autres."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Āpāyiko nerayiko,[@v]Kappaṭṭho saṅghabhedako;[@v]Vaggārāmo adhammaṭṭho, [@v]Yogakkhemā padhaṃsati;[@v]Saṅghaṃ samaggaṃ bhetvāna, [@v]Kappaṃ nirayamhi paccatī ti.[/i]",
+      "fr": "[i]Dans un [/i][apaya|état de malheur][i], en [/i][niraya|enfer][i],[@v]Pendant un [/i][kappa|éon][i] demeure celui qui divise le [/i][sangha|Sangha][i],[@v]Se plaisant au factionalisme, tout à fait hors du [/i][dhamma|Dhamma][i][@v]La délivrance des attachements lui est inaccessible;[@v]Ayant divisé un [/i][sangha|Sangha][i] en concorde,[@v]Il souffre en [/i][niraya|enfer][i] pendant un [/i][kappa|éon][i].[/i]"
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}

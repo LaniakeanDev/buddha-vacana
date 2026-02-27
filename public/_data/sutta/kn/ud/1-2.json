@@ -1,0 +1,26 @@
+﻿{
+  "identifier": "Ud 1.2",
+  "plTitle": "Bodhi Sutta",
+  "frTitle": "L'éveil",
+  "description": "Après avoir atteint l'éveil, le Bouddha se concentre sur la chaîne d'apparition conditionnée dans l'ordre indirect.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī . atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā paṭhamaṃ yāmaṃ paṭiccasamuppādaṃ anulomaṃ sādhukaṃ manasākāsi —",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied de l'arbre de l'Eveil, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, ayant émergé de cette [samadhi|concentration], pendant la partie du milieu de la nuit, le [bhagava|Fortuné] porta méticuleusement son attention à l'[paticcasamuppada|apparition conditionnée] dans l'ordre indirect:"
+    },
+    {
+      "pl": "“iti imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati, yadidaṃ — avijjānirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti. evametassa kevalassa dukkhakkhandhassa nirodho hotī””ti.",
+      "fr": "[i]“Ainsi, lorsqu'il n'y a pas ceci, cela ne vient pas à être, tant que ceci ne cesse pas, cela ne cesse pas, c'est-à-dire:la [nirodha|cessation] de l'[avijja|ignorance] amène la [nirodha|cessation] des [sankhara|constructions];la [nirodha|cessation] des [sankhara|constructions] amène la [nirodha|cessation] de la [vinnana|conscience];la [nirodha|cessation] de la [vinnana|conscience] amène la [nirodha|cessation] du [namarupa|Nom-et-Forme];la [nirodha|cessation] du [namarupa|Nom-et-Forme] amène la [nirodha|cessation] des [salayatana|organes des sens];la [nirodha|cessation] des [salayatana|organes des sens] amène la [nirodha|cessation] du [phassa|contact];la [nirodha|cessation] du [phassa|contact] amène la [nirodha|cessation] du [vedana|ressenti];la [nirodha|cessation] du [vedana|ressenti] amène la [nirodha|cessation] de la [tanha|Soif];la [nirodha|cessation] de la [tanha|Soif] amène la [nirodha|cessation] de l'[upadana|attachement];la [nirodha|cessation] de l'[upadana|attachement] amène la [nirodha|cessation] de l'[bhava|existence];la [nirodha|cessation] de l'[bhava|existence] amène la [nirodha|cessation] de la [jati|naissance];la [nirodha|cessation] de la [jati|naissance] amène la [nirodha|cessation] du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Telle est la [nirodha|cessation] de toute cette [khandha|accumulation] de [dukkha|mal-être].”[/i]"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“yadā have pātubhavanti dhammā,[@v]ātāpino jhāyato brāhmaṇassa.[@v]athassa kaṅkhā vapayanti sabbā,[@v]yato khayaṃ paccayānaṃ avedī””ti.",
+      "fr": "Lorsque les [dhamma|phénomènes] deviennent manifestes[@v]Au [brahmana|brahmane] méditant ardemment[@v]Alors tous les doutes disparaissent[@v]Puisqu'il a compris la disparition des [paccaya|conditions]."
+    }
+  ],
+  "translator": "Sekha"
+}

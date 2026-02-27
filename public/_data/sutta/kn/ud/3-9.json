@@ -1,0 +1,46 @@
+﻿{
+  "identifier": "Ud 3.9",
+  "plTitle": "Sippa Sutta",
+  "frTitle": "Métiers",
+  "description": "Des mendiants se lancent dans une conversation sur les métiers, ce qui ne plaît pas au Bouddha.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena sambahulānaṃ bhikkhūnaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ maṇḍalamāḷe sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi — “ko nu kho, āvuso, sippaṃ jānāti? ko kiṃ sippaṃ sikkhi? kataraṃ sippaṃ sippānaṃ aggan””ti?",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, un grand nombre de [bhikkhu|mendiants], après leur repas, de retour des aumônes de nourriture, étaient réunis, assis ensemble dans le pavillon circulaire, et cette discussion apparut entre eux: [i]“Amis, qui d'entre vous connaît un métier? Qui s'est entraîné à quel métier? Quel est le plus élevé des métiers?”[/i]"
+    },
+    {
+      "pl": "tatthekacce evamāhaṃsu — “hatthisippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “assasippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “rathasippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “dhanusippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “tharusippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “muddāsippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “gaṇanāsippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “saṅkhānasippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “lekhāsippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “kāveyyasippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “lokāyatasippaṃ sippānaṃ aggan””ti. ekacce evamāhaṃsu — “khattavijjāsippaṃ sippānaṃ aggan””ti. ayañcarahi tesaṃ bhikkhūnaṃ antarākathā hoti vippakatā.",
+      "fr": "Certains répondirent: [i]“Le métier avec les éléphants est le plus élevé des métiers”[/i]. D'autres dirent: [i]“Le métier avec les chevaux est le plus élevé des métiers”[/i]. D'autres dirent: [i]“Le métier avec les chars est le plus élevé des métiers”[/i]. D'autres dirent: [i]“L'archerie est le plus élevé des métiers”[/i]. D'autres dirent: [i]“L'escrime est le plus élevé des métiers”[/i]. D'autres dirent: [i]“L'arithmétique est le plus élevé des métiers”[/i]. D'autres dirent: [i]“La comptabilité est le plus élevé des métiers”[/i]. D'autres dirent: [i]“L'algèbre est le plus élevé des métiers”[/i]. D'autres dirent: [i]“L'écriture est le plus élevé des métiers”[/i]. D'autres dirent: [i]“La poésie est le plus élevé des métiers”[/i]. D'autres dirent: [i]“La politique est le plus élevé des métiers”[/i]. Mais cette conversation entre ces mendiants n'en venait pas à sa conclusion."
+    },
+    {
+      "pl": "atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena maṇḍalamāḷo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. nisajja kho bhagavā bhikkhū āmantesi —",
+      "fr": "Le soir venu, le [bhagava|Fortuné] sortit de l'[patisallana|isolement], se rendit au pavillon circulaire, s'assit sur le siège préparé et dit aux mendiants:"
+    },
+    {
+      "pl": "“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā””ti?",
+      "fr": "«[bhikkhu|Mendiants], pour quelle conversation vous tenez-vous maintenant assis réunis, et quelle était cette discussion qui n'en venait pas à sa conclusion?"
+    },
+    {
+      "pl": "“idha, bhante, amhākaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ maṇḍalamāḷe sannisinnānaṃ ayamantarākathā udapādi — ‘ko nu kho, āvuso, sippaṃ jānāti? ko kiṃ sippaṃ sikkhi? kataraṃ sippaṃ sippānaṃ aggan’’ti?",
+      "fr": "—[bhante|Bhanté], après leur repas, de retour des aumônes de nourriture, nous nous sommes réunis, assis ensemble dans le pavillon circulaire, et cette discussion est apparue entre nous: [i]“Amis, qui d'entre vous connaît un métier? Qui s'est entraîné à quel métier? Quel est le plus élevé des métiers?”[/i]"
+    },
+    {
+      "pl": "“tatthekacce evamāhaṃsu — ‘hatthisippaṃ sippānaṃ aggan’ti. ekacce evamāhaṃsu — ‘assasippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘rathasippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘dhanusippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘tharusippaṃ sippānaṃ aggan’ti, ekacce evamāhaṃsu — ‘muddāsippaṃ sippānaṃ aggan’ti ekacce evamāhaṃsu — ‘gaṇanāsippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘saṅkhānasippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘lekhāsippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘kāveyyasippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘lokāyatasippaṃ sippānaṃ aggan’ti; ekacce evamāhaṃsu — ‘khattavijjāsippaṃ sippānaṃ aggan’ti. ayaṃ kho no, bhante, antarākathā hoti vippakatā, atha bhagavā anuppatto”ti.",
+      "fr": "Certains ont répondu: [i]“Le métier avec les éléphants est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“Le métier avec les chevaux est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“Le métier avec les chars est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“L'archerie est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“L'escrime est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“L'arithmétique est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“La comptabilité est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“L'algèbre est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“L'écriture est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“La poésie est le plus élevé des métiers”[/i]. D'autres ont dit: [i]“La politique est le plus élevé des métiers”[/i]. Mais cette conversation entre nous n'en venait pas à sa conclusion, et ensuite le [bhagava|Fortuné] nous a rejoint."
+    },
+    {
+      "pl": "“na khvetaṃ, bhikkhave, tumhākaṃ patirūpaṃ kulaputtānaṃ saddhā agārasmā anagāriyaṃ pabbajitānaṃ yaṃ tumhe evarūpiṃ kathaṃ katheyyātha. sannipatitānaṃ vo, bhikkhave, dvayaṃ karaṇīyaṃ — dhammī vā kathā ariyo vā tuṇhībhāvo””ti.",
+      "fr": "—Il n'est pas convenable pour vous, gentilhommes ayant [pabbaja|quitté la vie de foyer] pour le [anagariya|sans-foyer] par [saddha|conviction], que vous ayez ce genre de conversation.Lorsque vous vous réunissez, [bhikkhu|mendiants], vous devriez faire l'une des deux choses suivantes: des conversations à propos du [dhamma|Dhamma], ou le noble silence.»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“asippajīvī lahu atthakāmo, yatindriyo sabbadhi vippamutto. anokasārī amamo nirāso, hitvā mānaṃ ekacaro sa bhikkhū””ti.",
+      "fr": "Celui qui vit sans métier, léger, souhaitant le bienfait,Les [indriya|facultés] restreintes, délivré de tout,Vivant sans foyer, sans égoïsme, sans désir,Ayant détruit l'[maana|amour-propre], solitaire: celui-là est un [bhikkhu|mendiant]."
+    }
+  ],
+  "translator": "Sekha"
+}

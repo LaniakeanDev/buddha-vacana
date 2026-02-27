@@ -1,0 +1,33 @@
+﻿{
+  "identifier": "Iti 100",
+  "plTitle": "Brāhmaṇadhammayāga Sutta",
+  "frTitle": "Un [brahmana|brahmane] altruiste dans le Dhamma",
+  "description": "La générosité est toujours une bonne chose, mais il y a un type de générosité qui n'est pas comme les autres.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "“ahamasmi, bhikkhave, brāhmaṇo yācayogo sadā payatapāṇi antimadehadharo anuttaro bhisakko sallakatto. tassa me tumhe puttā orasā mukhato jātā dhammajā dhammanimmitā dhammadāyādā, no āmisadāyādā.",
+      "fr": "Je suis un brahmane, [bhikkhu|mendiants], accessible aux requêtes, ayant toujours la main offerte, portant son dernier corps, le suprême médecin, le chirurgien. Vous êtes mes enfants légitimes, nés de ma bouche, engendrés par le [dhamma|Dhamma], construits par le [dhamma|Dhamma], héritiers dans le [dhamma|Dhamma], et non héritiers dans les choses matérielles."
+    },
+    {
+      "pl": "“dvemāni, bhikkhave, dānāni: āmisadānañca dhammadānañca. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ dānānaṃ yadidaṃ dhammadānaṃ.",
+      "fr": "Il y a ces deux sortes de [dana|don]: le [dana|don] de choses matérielles et le [dana|don] du [dhamma|Dhamma]. De ces deux sortes de [dana|don], le plus élevé est le [dana|don] du [dhamma|Dhamma]."
+    },
+    {
+      "pl": "“dveme, bhikkhave, saṃvibhāgā: āmisasaṃvibhāgo ca dhammasaṃvibhāgo ca. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ saṃvibhāgānaṃ yadidaṃ dhammasaṃvibhāgo.",
+      "fr": "Il y a ces deux sortes de partage: le partage de choses matérielles et le partage du [dhamma|Dhamma]. De ces deux sortes de partage, le plus élevé est le partage du [dhamma|Dhamma]."
+    },
+    {
+      "pl": "“dveme, bhikkhave, anuggahā: āmisānuggaho ca dhammānuggaho ca. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ anuggahānaṃ yadidaṃ dhammānuggaho.",
+      "fr": "Il y a ces deux sortes d'aide: l'aide dans les choses matérielles et l'aide dans le [dhamma|Dhamma]. De ces deux sortes d'aide, la plus élevée est l'aide dans le [dhamma|Dhamma]."
+    },
+    {
+      "pl": "“dveme, bhikkhave, yāgā: āmisayāgo ca dhammayāgo ca. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ yāgānaṃ yadidaṃ dhammayāgo”ti.",
+      "fr": "Il y a ces deux sortes d'altruisme: l'altruisme en rapport aux choses matérielles et l'altruisme en rapport au [dhamma|Dhamma]. De ces deux sortes d'altruisme, le plus élevé est l'altruisme en rapport au [dhamma|Dhamma]."
+    }
+  ],
+  "translator": "Rémy"
+}

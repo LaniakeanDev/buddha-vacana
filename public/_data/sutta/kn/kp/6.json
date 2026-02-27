@@ -1,0 +1,78 @@
+﻿{
+  "identifier": "Kp 6",
+  "plTitle": "Ratana Sutta",
+  "frTitle": "Les trésors",
+  "description": "Un autre soutta très couramment récité sur les trésors que sont le Bouddha, le Dhamma et la Communauté.",
+  "body": [
+    { "pl": "", "fr": "" },
+    {
+      "pl": "yānīdha bhūtāni samāgatāni, [@v]bhummāni vā yāni va antalikkhe. [@v]sabbeva bhūtā sumanā bhavantu, [@v]athopi sakkacca suṇantu bhāsitaṃ. [@v]",
+      "fr": "Les êtres vivants rassemblés ici[@v]Qu'ils soient de la terre ou du ciel,[@v]Que tous ces êtres soient heureux[@v]Et qu'ils écoutent attentivement ce qui est dit."
+    },
+    {
+      "pl": "tasmā hi bhūtā nisāmetha sabbe, [@v]mettaṃ karotha mānusiyā pajāya. [@v]divā ca ratto ca haranti ye baliṃ, [@v]tasmā hi ne rakkhatha appamattā. [@v]",
+      "fr": "Donc écoutez bien, tous les êtres,[@v]Et soyez bienveillants envers les humains[@v]Jour et nuit ils apportent des offrandes[@v]Donc protégez-les assidûment."
+    },
+    {
+      "pl": "yaṃ kiñci vittaṃ idha vā huraṃ vā, [@v]saggesu vā yaṃ ratanaṃ paṇītaṃ. [@v]na no samaṃ atthi tathāgatena, [@v]idampi buddhe ratanaṃ paṇītaṃ[@v]etena saccena suvatthi hotu.[@v]",
+      "fr": "Toute richesse, dans ce monde ou dans l'autre[@v]Ou dans les paradis, les trésors exquis[@v]N'égale pas le Tathagata,[@v]Ce trésor exquis dans le Bouddha.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "khayaṃ virāgaṃ amataṃ paṇītaṃ, [@v]yadajjhagā sakyamunī samāhito. [@v]na tena dhammena samatthi kiñci, [@v]idampi dhamme ratanaṃ paṇītaṃ. [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "L'élimination, la disparition, le Sans-mort, l'exquis[@v]Obtenus par le sage sakyan en concentration[@v]Rien n'égale cette qualité,[@v]Ce trésor exquis dans le Dhamma.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, [@v]samādhimānantarikaññamāhu. [@v]samādhinā tena samo na vijjati, [@v]idampi dhamme ratanaṃ paṇītaṃ. [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "La pureté promue par l'excellent Bouddha[@v]La connaissance dont on dit qu'elle apparaît avec la concentration[@v]Il n'y a pas d'égal à cette concentration,[@v]Ce trésor exquis dans le Dhamma.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "ye puggalā aṭṭha sataṃ pasatthā, [@v]cattāri etāni yugāni honti. [@v]te dakkhiṇeyyā sugatassa sāvakā, [@v]etesu dinnāni mahapphalāni. [@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "Les huit [types d']individus félicités par les bons[@v]Ceux qui constituent les quatre paires[@v]Sont les disciples du Sublime dignes d'offrandes[@v]Les dons qui leurs sont faits portent beaucoup de fruits.[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "ye suppayuttā manasā daḷhena, [@v]nikkāmino gotamasāsanamhi. [@v]te pattipattā amataṃ vigayha, [@v]laddhā mudhā nibbutiṃ bhuñjamānā. [@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "Ceux qui ont un esprit résolu et sont dédiés[@v]À l'enseignement de Gotama, sans désir sensuel,[@v]Ont accompli l'accomplissement, sont entrés dans le Sans-mort[@v]Et bénéficient autant qu'ils veulent de la Paix qu'ils ont obtenue:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "yathindakhīlo pathavissito siyā, [@v]catubbhi vātehi asampakampiyo.[@v]tathūpamaṃ sappurisaṃ vadāmi, [@v]yo ariyasaccāni avecca passati.[@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu.[@v]",
+      "fr": "Comme un pilier enfoncé dans la terre[@v]Que les quatre vents ne peuvent ébranler[@v]Je déclare que l'homme de bien est tel cette allégorie,[@v]Celui qui voit parfaitement les nobles vérités:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "ye ariyasaccāni vibhāvayanti, [@v]gambhīrapaññena sudesitāni.[@v]kiñcāpi te honti bhusaṃ pamattā, [@v]na te bhavaṃ aṭṭhamamādiyanti.[@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu.[@v]",
+      "fr": "Ceux qui comprennent clairement les nobles vérités,[@v]Bien exposées par celui qui a un profond discernement,[@v]Même s'ils devenaient très négligents[@v]Ne prendront pas une huitième existence:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "sahāvassa dassanasampadāya, [@v]tayassu dhammā jahitā bhavanti.[@v]sakkāyadiṭṭhī vicikicchitañca, [@v]sīlabbataṃ vāpi yadatthi kiñci.[@v]catūhapāyehi ca vippamutto, [@v]chaccābhiṭhānāni abhabba kātuṃ.[@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu.[@v]",
+      "fr": "Lorsqu'ils atteignent la vision,[@v]Trois choses sont abandonnées:[@v]La croyance en l'existence du soi, le doute[@v]Et les rites et préceptes.[@v]Délivrés des quatre existences infortunées,[@v]Il est impossible qu'ils commettent l'un des six grands crimes:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "kiñcāpi so kamma karoti pāpakaṃ, [@v]kāyena vācā uda cetasā vā. [@v]abhabba so tassa paṭicchadāya, [@v]abhabbatā diṭṭhapadassa vuttā. [@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "Même s'ils réalisent une mauvaise action,[@v]En corps, en parole ou en esprit,[@v]Il est impossible qu'il la cache[@v]On dit que c'est impossible pour celui qui a vu la voie:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "vanappagumbe yatha phussitagge, [@v]gimhānamāse paṭhamasmiṃ gimhe. [@v]tathūpamaṃ dhammavaraṃ adesayi, [@v]nibbānagāmiṃ paramaṃ hitāya. [@v]idampi buddhe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "Comme un arbre forestier en fleurs,[@v]Dans la première chaleur de l'été[@v]Tel est l'excellent enseignement professé,[@v]Menant à l'Extinction, le plus grand bénéfice:[@v]C'est le trésor exquis dans le Bouddha.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "varo varaññū varado varāharo, [@v]anuttaro dhammavaraṃ adesayi. [@v]idampi buddhe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "L'excellent, qui sait ce qui est excellent, donne et amène ce qui est excellent[@v]A professé le suprême enseignement excellent:[@v]C'est le trésor exquis dans le Bouddha.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "khīṇaṃ purāṇaṃ nava natthi sambhavaṃ, [@v]virattacittāyatike bhavasmiṃ. [@v]te khīṇabījā avirūḷhichandā, [@v]nibbanti dhīrā yathāyaṃ padīpo. [@v]idampi saṅghe ratanaṃ paṇītaṃ, [@v]etena saccena suvatthi hotu. [@v]",
+      "fr": "Ce qui est ancien est éliminé, rien de nouveau n'est produit[@v]L'esprit désintéressé par l'existence future[@v]Ils ont éliminé la graine, et ne désirent pas la croissance[@v]Les sages s'éteignent comme cette lampe:[@v]C'est le trésor exquis dans la Communauté.[@v]En vertu de cette vérité, soyez heureux."
+    },
+    {
+      "pl": "yānīdha bhūtāni samāgatāni, [@v]bhummāni vā yāni va antalikkhe. [@v]tathāgataṃ devamanussapūjitaṃ, [@v]buddhaṃ namassāma suvatthi hotu. [@v]",
+      "fr": "Les êtres vivants rassemblés ici[@v]Qu'ils soient de la terre ou du ciel,[@v]Le Tathagata est révéré par les dévas et les humains[@v]Nous rendons hommage au Bouddha, soyez heureux."
+    },
+    {
+      "pl": "yānīdha bhūtāni samāgatāni, [@v]bhummāni vā yāni va antalikkhe. [@v]tathāgataṃ devamanussapūjitaṃ, [@v]dhammaṃ namassāma suvatthi hotu. [@v]",
+      "fr": "Les êtres vivants rassemblés ici[@v]Qu'ils soient de la terre ou du ciel,[@v]Le Tathagata est révéré par les dévas et les humains[@v]Nous rendons hommage au Dhamma, soyez heureux."
+    },
+    {
+      "pl": "yānīdha bhūtāni samāgatāni, [@v]bhummāni vā yāni va antalikkhe. [@v]tathāgataṃ devamanussapūjitaṃ, [@v]saṅghaṃ namassāma suvatthi hotūti. [@v]",
+      "fr": "Les êtres vivants rassemblés ici[@v]Qu'ils soient de la terre ou du ciel,[@v]Le Tathagata est révéré par les dévas et les humains[@v]Nous rendons hommage à la Communauté, soyez heureux."
+    }
+  ],
+  "translator": "Sekha"
+}

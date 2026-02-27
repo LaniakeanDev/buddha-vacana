@@ -1,0 +1,29 @@
+﻿{
+  "identifier": "Iti 23",
+  "plTitle": "Ubhayattha Sutta",
+  "frTitle": "Les deux bienfaits",
+  "description": "Il y a une chose qui, lorsqu'elle est cultivée, garantit le bienfait dans cette vie et dans la vie future.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“ekadhammo, bhikkhave, bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati — diṭṭhadhammikañceva atthaṃ samparāyikañca. katamo ekadhammo? appamādo kusalesu dhammesu. ayaṃ kho, bhikkhave, ekadhammo bhāvito bahulīkato ubho atthe samadhigayha tiṭṭhati — diṭṭhadhammikañceva atthaṃ samparāyikañcā””ti.",
+      "fr": "[bhikkhu|Mendiants], il y a une [dhamma|chose] qui, lorsqu'elle est développée et cultivée abondamment, garantit les deux bienfaits: le bienfait dans ce monde visible ainsi que le bienfait dans l'autre monde. Quelle est cette chose? C'est l'[appamada|assiduité] dans les [dhamma|états] [kusala|avantageux]. Voici, [bhikkhu|mendiants], quelle est cette [dhamma|chose] qui, lorsqu'elle est développée et cultivée abondamment, garantit les deux bienfaits: le bienfait dans ce monde visible ainsi que le bienfait dans l'autre monde."
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“appamādaṃ pasaṃsanti,[@v]puññakiriyāsu paṇḍitā.[@v]appamatto ubho atthe,[@v]adhigaṇhāti paṇḍito.[@v]“diṭṭhe dhamme ca yo attho,[@v]yo cattho samparāyiko.[@v]atthābhisamayā dhīro,[@v]paṇḍitoti pavuccatī””ti.",
+      "fr": "Les [pandita|sages] recommandent[@v]L'[appamada|assiduité] et faire du [punna|mérite].[@v]Assidu, le [pandita|sage] atteint[@v]Les deux types de bienfaits:[@v]Les bienfaits dans ce monde visible[@v]Et les bienfaits dans l'autre monde.[@v]Le persévérant ayant atteint ces bienfaits[@v]Est appelé un [pandita|sage]."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}

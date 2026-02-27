@@ -1,0 +1,41 @@
+﻿{
+  "identifier": "Iti 29",
+  "plTitle": "Sukhavihāra Sutta",
+  "frTitle": "Une vie agréable",
+  "description": "Deux choses qui, à elles seules, rendent la vie d'un mendiant agréable et paisible.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Dvīhi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ; kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā. Katamehi dvīhi? Indriyesu guttadvāratāya ca, bhojane mattaññutāya ca.",
+      "fr": "Doué de ces deux choses, [bhikkhu|mendiants], un mendiant vit agréablement dans la vie présente, sans contrariété, sans contrariété ni adversité ni fièvre; lors de la dissolution du corps, après la mort, il peut s'attendre à une [sugati|bonne destination]. Quels sont ces deux? La [indriyesuguttadvarata|protection à l'entrée des facultés sensorielles] et la [bhojanemattannuta|modération en mangeant]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, dvīhi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ; kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā ti.",
+      "fr": "Doué de ces deux choses, [bhikkhu|mendiants], un mendiant vit agréablement dans la vie présente, sans contrariété, sans contrariété ni adversité ni fièvre; lors de la dissolution du corps, après la mort, il peut s'attendre à une [sugati|bonne destination]."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Cakkhu sotañca ghānañca, [@v]Jivhā kāyo tathā mano;[@v]Etāni yassa dvārāni, [@v]Suguttānidha bhikkhuno.[/i]",
+      "fr": "[i]L'œil, l'oreille, le nez,[@v]La langue, le corps et l'esprit;[@v]Voici quelles sont les portes[@v]Qu'un mendiant garde bien.[/i]"
+    },
+    {
+      "pl": "[i]Bhojanamhi ca mattaññū, [@v]Indriyesu ca saṃvuto;[@v]Kāyasukhaṃ cetosukhaṃ, [@v]Sukhaṃ so adhigacchati.[/i]",
+      "fr": "[i]Étant modéré avec la nourriture,[@v]Restreint dans les [/i][indriya|facultés sensorielles][i],[@v]De [i][sukha|bien-être][/i] corporel, de [/i][sukha|bien-être][i] mental,[@v]Il devient possédé de [/i][sukha|bien-être][i].[/i]"
+    },
+    {
+      "pl": "[i]Aḍayhamānena kāyena, [@v]Aḍayhamānena cetasā;[@v]Divā vā yadi vā rattiṃ, [@v]Sukhaṃ viharati tādiso ti.[/i]",
+      "fr": "[i]Ne brûlant pas dans le corps,[@v]Ne brûlant pas dans l'esprit,[@v]Que ce soit de jour ou de nuit,[@v]Il vit dans le[/i] [sukha|bien-être]."
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "translator": "Rémy"
+}
