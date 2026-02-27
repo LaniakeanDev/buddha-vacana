@@ -1,0 +1,61 @@
+﻿{
+  "identifier": "AN 2.64 à 2.76",
+  "plTitle": "Sukha Vagga",
+  "frTitle": "Bien-être",
+  "description": "Différents types de bien-être, menant ou non à la délivrance.",
+  "body": [
+    {
+      "pl": "64. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Gihisukhañca pabbajitasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukha.",
+      "fr": "64. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] de l'homme de foyer et le [sukha|bien-être] du [pabbajja|sans-foyer]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] du [pabbajja|sans-foyer]."
+    },
+    {
+      "pl": "65. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Kāmasukhañca nekkhammasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nekkhammasukha.",
+      "fr": "65. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] de la [kama|sensualité] et le [sukha|bien-être] du [nekkhamma|renoncement]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] du [nekkhamma|renoncement]."
+    },
+    {
+      "pl": "66. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Upadhisukhañca nirupadhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nirupadhisukha.",
+      "fr": "66. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] du aux [upadhi|acquisitions] et le [sukha|bien-être] sans acquisitions. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] sans acquisitions."
+    },
+    {
+      "pl": "67. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sāsavasukhañca anāsavasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ anāsavasukha.",
+      "fr": "67. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] accompagné d'[asava|impuretés mentales] et le [sukha|bien-être] sans [asava|impuretés mentales]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] sans [asava|impuretés mentales]."
+    },
+    {
+      "pl": "68. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sāmisañca sukhaṃ nirāmisañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nirāmisaṃ sukha.",
+      "fr": "68. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] [samisa|attaché à la chair] et le [sukha|bien-être] [niramisa|détaché de la chair]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] [niramisa|détaché de la chair]."
+    },
+    {
+      "pl": "69. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Ariyasukhañca anariyasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ ariyasukha.",
+      "fr": "69. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] [ariya|noble] et le [sukha|bien-être] ig·[ariya|noble]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] [ariya|noble]."
+    },
+    {
+      "pl": "70. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Kāyikañca sukhaṃ cetasikañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ cetasikaṃ sukha.",
+      "fr": "70. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] corporel et le [sukha|bien-être] mental. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] mental."
+    },
+    {
+      "pl": "71. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sappītikañca sukhaṃ nippītikañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nippītikaṃ sukha.",
+      "fr": "71. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] accompagné d'[piti|exaltation] et le [sukha|bien-être] sans [piti|exaltation]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] sans [piti|exaltation]."
+    },
+    {
+      "pl": "72. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sātasukhañca upekkhāsukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ upekkhāsukha.",
+      "fr": "72. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] agréable et le [sukha|bien-être] d'[upekkha|équanimité]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] d'[upekkha|équanimité]."
+    },
+    {
+      "pl": "73. Dvemāni, bhikkhave, sukhāni. Katamāni dve? Samādhisukhañca asamādhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ samādhisukha.",
+      "fr": "73. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] de la [samadhi|concentration] et le [sukha|bien-être] sans [samadhi|concentration]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] de la [samadhi|concentration]."
+    },
+    {
+      "pl": "74. Dvemāni, bhikkhave, sukhāni. katamāni dve? sappītikārammaṇañca sukhaṃ nippītikārammaṇañca sukhaṃ. imāni kho, bhikkhave, dve sukhāni. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nippītikārammaṇaṃ sukhaṃ.",
+      "fr": "74. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] fondé sur la présence de l'[piti|exaltation] et le [sukha|bien-être] fondé sur l'absence d'[piti|exaltation]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] fondé sur l'absence d'[piti|exaltation]."
+    },
+    {
+      "pl": "75. Dvemāni, bhikkhave, sukhāni. katamāni dve? sātārammaṇañca sukhaṃ upekkhārammaṇañca sukhaṃ. imāni kho, bhikkhave, dve sukhāni. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ upekkhārammaṇaṃ sukhaṃ.",
+      "fr": "75. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] fondé sur ce qui est agréable et le [sukha|bien-être] fondé sur l'[upekkha|équanimité]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] fondé sur l'[upekkha|équanimité]."
+    },
+    {
+      "pl": "76. Dvemāni, bhikkhave, sukhāni. katamāni dve? rūpārammaṇañca sukhaṃ arūpārammaṇañca sukhaṃ. imāni kho, bhikkhave, dve sukhāni. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ arūpārammaṇaṃ sukhaṃ.",
+      "fr": "76. Il y a, [bhikkhu|mendiants], ces deux [types de] [sukha|bien-être]. Quels sont ces deux? Le [sukha|bien-être] fondé sur la [rupa|Forme] et le [sukha|bien-être] fondé sur le [arupa|sans-Forme]. Voici quels sont ces deux [types de] [sukha|bien-être]. De ces deux [types de] [sukha|bien-être], le plus élevé est le [sukha|bien-être] fondé sur le [arupa|sans-Forme]."
+    }
+  ],
+  "translator": "Rémy"
+}

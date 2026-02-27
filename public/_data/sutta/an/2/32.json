@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 2.32",
+  "plTitle": "Asappurisabhūmi Sutta",
+  "frTitle": "L'attitude du sot",
+  "description": "Deux caractéristiques qui font la différence entre un homme de bien et un sot.",
+  "body": [
+    {
+      "pl": "Asappurisabhūmiñca vo, bhikkhave, desessāmi sappurisabhūmiñca. Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī ti.",
+      "fr": "«Je vais vous enseigner, [bhikkhu|mendiants], l'attitude du [asappurisa|sot] et l'attitude de l'[sappurisa|homme de bien]. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "Evaṃ, bhante ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, asappurisabhūmi? Asappuriso, bhikkhave, akataññū hoti akatavedī. Asabbhi hetaṃ, bhikkhave, upaññātaṃ yadidaṃ akataññutā akataveditā. Kevalā esā, bhikkhave, asappurisabhūmi yadidaṃ akataññutā akataveditā.",
+      "fr": "— Et qu'est-ce, [bhikkhu|mendiants], que l'attitude du [asappurisa|sot]? Le [asappurisa|sot], [bhikkhu|mendiants], est ingrat et manque de reconnaissance. Car l'ingratitude et le manque de reconnaissance sont préconisés par les goujats. Tout ce qui a trait à cette attitude, [bhikkhu|mendiants], relève du sot: l'ingratitude et le manque de reconnaissance."
+    },
+    {
+      "pl": "Sappuriso ca kho, bhikkhave, kataññū hoti katavedī. Sabbhi hetaṃ, bhikkhave, upaññātaṃ yadidaṃ kataññutā kataveditā. Kevalā esā, bhikkhave, sappurisabhūmi yadidaṃ kataññutā kataveditā.",
+      "fr": "L'[sappurisa|homme de bien], [bhikkhu|mendiants], quant à lui se sent obligé et reconnaissant. Car la gratitude et la reconnaissance sont préconisées par les courtois. Tout ce qui a trait à cette attitude, [bhikkhu|mendiants], relève de l'[sappurisa|homme de bien]:la gratitude et la reconnaissance.»"
+    }
+  ],
+  "translator": "Rémy"
+}

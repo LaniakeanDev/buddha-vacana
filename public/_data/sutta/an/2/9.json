@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 2.9",
+  "plTitle": "Cariya Sutta",
+  "frTitle": "Conduite",
+  "description": "Qu'est-ce, finalement, qui garantit l'harmonie, la politesse, l'honnêteté, la fraternité, en un mot la paix dans une société donnée? Le Bouddha explique ici quels sont les deux protecteurs du [loka|monde].",
+  "body": [
+    {
+      "pl": "Dveme, bhikkhave, dhammā sukkā lokaṃ pālenti. Katame dve? Hirī ca ottappañca.",
+      "fr": "[bhikkhu|Mendiants], ces deux [dhamma|états] lumineux protègent le [loka|monde]. Quels sont ces deux? La [hiri|honte morale] et la [ottappa|crainte morale]."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, dve sukkā dhammā lokaṃ na pāleyyuṃ, nayidha paññāyetha mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā. Sambhedaṃ loko agamissa, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā. Yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṃ pālenti tasmā paññāyati mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā ti.",
+      "fr": "Si ces deux [dhamma|états] lumineux ne protégeaient pas le [loka|monde], on ne pratiquerait pas ici [de restreinte par rapport à] la mère, la sœur de la mère, la femme de l'oncle, la femme de l'enseignant, et la femme du maître. Le [loka|monde] serait plongé dans la promiscuité, comme les chèvres et les moutons, les poules et les cochons, les chiens et les chacals. Mais c'est parce que ces deux [dhamma|états] lumineux protègent le [loka|monde] qu'on pratique ici[la restreinte par rapport à] la mère, la sœur de la mère, la femme de l'oncle, la femme de l'enseignant, et la femme du maître."
+    }
+  ],
+  "translator": "Sekha"
+}

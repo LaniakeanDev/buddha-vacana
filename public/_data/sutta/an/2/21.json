@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 2.21",
+  "plTitle": "Bālapaṇḍita Sutta",
+  "frTitle": "Sots et sages",
+  "description": "Ce que signifie être un sot ou un sage en rapport à la confession des transgressions (pour les mendiants).",
+  "body": [
+    {
+      "pl": "Dveme, bhikkhave, bālā. Katame dve? Yo ca accayaṃ accayato na passati, yo ca accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. Ime kho, bhikkhave, dve bālā ti. ",
+      "fr": "Ces deux [individus], [bhikkhu|mendiants], sont des [baala|sots]. Quels sont ces deux? Celui qui ne voit pas sa transgression comme étant une transgression, et celui qui n'accpete pas, en accord avec le [dhamma|Dhamma], la transgression de celui qui la confesse. Voici, [bhikkhu|mendiants], quels sont ces deux [baala|sots]."
+    },
+    {
+      "pl": "Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca accayaṃ accayato passati, yo ca accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti. Ime kho, bhikkhave, dve paṇḍitā ti.",
+      "fr": "Ces deux [individus], [bhikkhu|mendiants], sont des [pandita|sages]. Quels sont ces deux? Celui qui voit sa transgression comme étant une transgression, et celui qui accepte, en accord avec le [dhamma|Dhamma], la transgression de celui qui la confesse. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    }
+  ],
+  "translator": "Rémy"
+}

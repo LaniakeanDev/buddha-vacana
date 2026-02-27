@@ -1,0 +1,47 @@
+﻿{
+  "identifier": "AN 2.1",
+  "plTitle": "Vajja Sutta",
+  "frTitle": "Les fautes",
+  "description": "Les fautes qui portent à conséquence dans ce monde visible, et celles qui portent à conséquence dans l'autre monde.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“dvemāni, bhikkhave, vajjāni. katamāni dve? diṭṭhadhammikañca vajjaṃ samparāyikañca vajjaṃ.",
+      "fr": "«Il y a, [bhikkhu|mendiants], ces deux [types de] fautes. Quels sont ces deux? La faute [qui porte à conséquence] dans ce monde visible, et la faute [qui porte à conséquence] dans l'autre monde."
+    },
+    {
+      "pl": "katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ? idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārente; kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, palālapīṭhakampi karonte, tattenapi telena osiñcante, sunakhehipi khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la faute [qui porte à conséquence] dans ce monde visible? À cet égard, [bhikkhu|mendiants], un certain individu voit que lorsque les rois ont saisi un voleur, un criminel, ils lui font subir divers supplices: ils le font flageller, rouer de coups de cannes, rouer de coups de bâtons, ils lui font couper les mains, couper les pieds, couper les mains et les pieds, couper les oreilles, couper le nez, couper les oreilles et le nez; ils lui font subir [i]«la marmite à gruau»[/i], [i]«le rasoir à conque»[/i], [i]«la bouche de Rahou»[/i], [i]«la guirlande de feu»[/i], [i]«les mains-torches»[/i], [i]«la traînée derrière un cheval»[/i], [i]«la hache d'écorce»[/i], [i]«l'antilope»[/i], [i]«les crochets à viande»[/i], [i]«les pièces de monnaie»[/i], [i]«la vraie soude»[/i], [i]«le tour de barre»[/i], [i]«le fauteuil de paille»[/i], ils le font arroser d'huile brûlante, ils le font dévorer par des chiens, ils le font empaler vivant sur des pieux, ils lui font couper la tête avec une épée."
+    },
+    {
+      "pl": "“tassa evaṃ hoti: ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā vividhā kammakāraṇā kārenti, kasāhipi tāḷenti ... asināpi sīsaṃ chindanti. ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā vividhā kammakāraṇā kāreyyuṃ, kasāhipi tāḷeyyuṃ, vettehipi tāḷeyyuṃ, addhadaṇḍakehipi tāḷeyyuṃ, hatthampi chindeyyuṃ, pādampi chindeyyuṃ, hatthapādampi chindeyyuṃ, kaṇṇampi chindeyyuṃ, nāsampi chindeyyuṃ, kaṇṇanāsampi chindeyyuṃ, bilaṅgathālikampi kareyyuṃ, saṅkhamuṇḍikampi kareyyuṃ; rāhumukhampi kareyyuṃ, jotimālikampi kareyyuṃ, hatthapajjotikampi kareyyuṃ, erakavattikampi kareyyuṃ, cīrakavāsikampi kareyyuṃ, eṇeyyakampi kareyyuṃ, balisamaṃsikampi kareyyuṃ, kahāpaṇakampi kareyyuṃ, khārāpatacchikampi kareyyuṃ, palighaparivattikampi kareyyuṃ, palālapīṭhakampi kareyyuṃ, tattenapi telena osiñceyyuṃ, sunakhehipi khādāpeyyuṃ, jīvantampi sūle uttāseyyuṃ, asināpi sīsaṃ chindeyyun’ti.",
+      "fr": "Il se dit: [i]«À cause de telles [papaka|mauvaises] [kamma|actions], lorsque les rois ont saisi un voleur, un criminel, ils lui font subir divers supplices: ils le font flageller (…) lui font couper la tête avec une épée. Si je devais agir d'une manière aussi [papaka|mauvais]e, lorsque les rois me saisiraient, ils me feraient à moi aussi subir de tels supplices divers: ils me feraient flageller, rouer de coups de cannes, rouer de coups de bâtons, ils me feraient couper les mains, couper les pieds, couper les mains et les pieds, couper les oreilles, couper le nez, couper les oreilles et le nez; ils me feraient subir “la marmite à gruau”, “le rasoir à conque”, “la bouche de Rāhu”, “la guirlande de feu”, “les mains-torches”, “la traînée derrière un cheval”, “la hache d'écorce”, “l'antilope”, “les crochets à viande”, “les pièces de monnaie”, “la vraie soude”, “le tour de barre”, “le fauteuil de paille”, ils me feraient arroser d'huile brûlante, ils me feraient dévorer par des chiens, ils me feraient empaler vivant sur des pieux, ils me feraient couper la tête avec une épée.»[/i]"
+    },
+    {
+      "pl": "so diṭṭhadhammikassa vajjassa bhīto na paresaṃ pābhataṃ vilumpanto carati. idaṃ vuccati, bhikkhave, diṭṭhadhammikaṃ vajjaṃ.",
+      "fr": "Effrayé par la faute [qui porte à conséquence] dans ce monde visible, il ne vole pas les biens d'autrui. Voici, [bhikkhu|mendiants], ce qu'on appelle la faute [qui porte à conséquence] dans ce monde visible."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, samparāyikaṃ vajjaṃ? idha, bhikkhave, ekacco iti paṭisañcikkhati: ‘kāyaduccaritassa kho pana pāpako dukkho vipāko abhisamparāyaṃ, vacīduccaritassa pāpako dukkho vipāko abhisamparāyaṃ, manoduccaritassa pāpako dukkho vipāko abhisamparāyaṃ. ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, manasā duccaritaṃ careyyaṃ. kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyan’ti.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la faute [qui porte à conséquence] dans l'autre monde? À cet égard, un certain individu considère ceci: [i]«La [duccarita|méconduite] corporelle produit un [vipaka|résultat] [papaka|mauvais] et [dukkha|déplaisant] dans les existences à venir, la [duccarita|méconduite] verbale produit un [vipaka|résultat] [papaka|mauvais] et [dukkha|déplaisant] dans les existences à venir, la [duccarita|méconduite] mentale produit un [vipaka|résultat] [papaka|mauvais] et [dukkha|déplaisant] dans les existences à venir. Si je m'engageais dans la [duccarita|méconduite] corporelle, dans la [duccarita|méconduite] verbale, dans la [duccarita|méconduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrais dans une [apaya|existence infortunée], une [duggati|[papaka|mauvais]e destination], un [vinipata|monde inférieur], ou en [niraya|enfer].»[/i]"
+    },
+    {
+      "pl": "so samparāyikassa vajjassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. idaṃ vuccati, bhikkhave, samparāyikaṃ vajjaṃ. “",
+      "fr": "Effrayé par la faute [qui porte à conséquence] dans l'autre monde, il abandonne la [duccarita|méconduite] corporelle et développe la [sucarita|bonne conduite] corporelle, il abandonne la [duccarita|méconduite] verbale et développe la [sucarita|bonne conduite] verbale, et il abandonne la [duccarita|méconduite] mentale et développe la [sucarita|bonne conduite] mentale, et il se maintient pur. Voici, [bhikkhu|mendiants], ce qu'on appelle la faute [qui porte à conséquence] dans l'autre monde."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, dve vajjāni. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘diṭṭhadhammikassa vajjassa bhāyissāma, samparāyikassa vajjassa bhāyissāma, vajjabhīruno bhavissāma vajjabhayadassāvino’ti. evañhi vo, bhikkhave, sikkhitabbaṃ. vajjabhīruno, bhikkhave, vajjabhayadassāvino etaṃ pāṭikaṅkhaṃ yaṃ parimuccissati sabbavajjehī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces deux [types de] fautes. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]«Nous craindrons la faute [qui porte à conséquence] dans ce monde visible, nous craindrons la faute [qui porte à conséquence] dans l'autre monde, nous serons effrayés par les fautes, nous verrons le danger dans les fautes.»[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner. On peut attendre ce celui qui est effrayé par les fautes, qui voit le danger dans les fautes, qu'il sera délivré de toutes les fautes.»"
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

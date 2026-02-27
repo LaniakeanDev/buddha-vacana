@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 2.40",
+  "plTitle": "Micchāpaṭipatti Sutta",
+  "frTitle": "La pratique erronée",
+  "description": "Que l'on soit ou non un mendiant, le plus important est la manière dont on pratique.",
+  "body": [
+    {
+      "pl": "“dvinnāhaṃ, bhikkhave, micchāpaṭipattiṃ na vaṇṇemi, gihissa vā pabbajitassa vā. gihī vā, bhikkhave, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu na ārādhako hoti ñāyaṃ dhammaṃ kusalaṃ.",
+      "fr": "[bhikkhu|Mendiants], je ne fais l'éloge d'aucune de ces deux pratiques erronées: celle de l'homme de foyer et celle du [pabbajja|sans-foyer]. Celui qui pratique de manière erronée, qu'il vive au foyer ou qu'il ait quitté le foyer, à cause de sa pratique erronée, n'atteint pas l'accomplissement dans la méthode, dans l'[dhamma|enseignement] [kusala|avantageux]."
+    },
+    {
+      "pl": "“dvinnāhaṃ, bhikkhave, sammāpaṭipattiṃ vaṇṇemi, gihissa vā pabbajitassa vā. gihī vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṃ dhammaṃ kusalan”ti.",
+      "fr": "[bhikkhu|Mendiants], je fais l'éloge de ces deux pratiques correctes: celle de l'homme de foyer et celle du [pabbajja|sans-foyer]. Celui qui pratique de manière correcte, qu'il vive au foyer ou qu'il ait quitté le foyer, grâce à sa pratique correcte, atteint l'accomplissement dans la méthode, dans l'[dhamma|enseignement] [kusala|avantageux]."
+    }
+  ],
+  "translator": "Rémy"
+}

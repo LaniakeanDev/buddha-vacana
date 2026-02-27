@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 2.20",
+  "plTitle": "Antaradhāna Suttāni",
+  "frTitle": "Déclin",
+  "description": "Outre un rappel très important à l'exacte conformité que les enseignements doivent avoir avec les discours du Bouddha, ce soutta explique également l'obsession de perfection dans la prononciation du Pāḷi dans le Théravada. A l'époque du Bouddha, puisque l'écriture n'était pas encore utilisée, il fallait maintenir la tradition orale de manière très consciencieuse.",
+  "body": [
+    {
+      "pl": "“dveme, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṃvattanti. katame dve? dunnikkhittañca padabyañjanaṃ attho ca dunnīto. dunnikkhittassa, bhikkhave, padabyañjanassa atthopi dunnayo hoti. ime kho, bhikkhave, dve dhammā saddhammassa sammosāya antaradhānāya saṃvattantī”ti.",
+      "fr": "Ces deux [dhamma|choses], [bhikkhu|mendiants], mènent à la dissipation et la disparition du [saddhamma|Dhamma authentique]. Quelles sont ces deux? Les mots et les phrases mal posés, ainsi que les significations mal interprétées. Lorsque les mots et les phrases sont mal posés, [bhikkhu|mendiants], leur signification est mal interprétée. Voici, [bhikkhu|mendiants], quelles sont les deux [dhamma|choses] qui mènent à la dissipation et la disparition du [saddhamma|Dhamma authentique]."
+    },
+    {
+      "pl": "“dveme, bhikkhave, dhammā saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattanti. katame dve? sunikkhittañca padabyañjanaṃ attho ca sunīto. sunikkhittassa, bhikkhave, padabyañjanassa atthopi sunayo hoti. ime kho, bhikkhave, dve dhammā saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattantī”ti.",
+      "fr": "Ces deux [dhamma|choses], [bhikkhu|mendiants], mènent au maintien, à la non-dissipation et la non-disparition du [saddhamma|Dhamma authentique]. Quelles sont ces deux? Les mots et les phrases bien posés, ainsi que les significations bien interprétées. Lorsque les mots et les phrases sont bien posés, [bhikkhu|mendiants], leur signification est bien interprétée. Voici, [bhikkhu|mendiants], quelles sont les deux [dhamma|choses] qui mènent au maintien, à la non-dissipation et la non-disparition du [saddhamma|Dhamma authentique]."
+    }
+  ],
+  "translator": "Rémy"
+}

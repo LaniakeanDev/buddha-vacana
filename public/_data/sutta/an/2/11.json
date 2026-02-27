@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 2.11",
+  "plTitle": "Bala Sutta",
+  "frTitle": "Deux forces",
+  "description": "Un premier exposé sur la force de la réflexion (paṭisaṅkhāna), et la force du développement (bhāvanā).",
+  "body": [
+    {
+      "pl": "“dvemāni, bhikkhave, balāni. katamāni dve? paṭisaṅkhānabalañca bhāvanābalañca. ",
+      "fr": "Il y a, [bhikkhu|mendiants], ces deux [bala|forces]. Quelles sont ces deux? La [bala|force] de la réflexion et la [bala|force] du [bhavana|développement]."
+    },
+    {
+      "pl": "katamañca, bhikkhave, paṭisaṅkhānabalaṃ? idha, bhikkhave, ekacco iti paṭisañcikkhati: ‘kāyaduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, vacīduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, manoduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ti. so iti paṭisaṅkhāya kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati. idaṃ vuccati, bhikkhave, paṭisaṅkhānabalaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [bala|force] de la réflexion? À cet égard, un certain individu considère ceci: [i]“La [duccarita|méconduite] corporelle produit un [papaka|mauvais] [vipaka|résultat] [ditthevadhamme|dans ce monde visible] et dans les existences à venir, la [duccarita|méconduite] verbale produit un [papaka|mauvais] [vipaka|résultat] [ditthevadhamme|dans ce monde visible] et dans les existences à venir, la [duccarita|méconduite] mentale produit un [papaka|mauvais] [vipaka|résultat] [ditthevadhamme|dans ce monde visible] et dans les existences à venir.”[/i] Ayant considéré cela,il abandonne la [duccarita|méconduite] corporelle et cultive la [sucarita|bonne conduite] corporelle, il abandonne la [duccarita|méconduite] verbale et cultive la [sucarita|bonne conduite] verbale, il abandonne la [duccarita|méconduite] mentale et cultive la [sucarita|bonne conduite] mentale, et il se maintient pur. Voici, [bhikkhu|mendiants], ce qu'on appelle la [bala|force] de la réflexion."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, bhāvanābalaṃ. tatra, bhikkhave, yamidaṃ bhāvanābalaṃ sekhānametaṃ balaṃ. sekhañhi so, bhikkhave, balaṃ āgamma rāgaṃ pajahati, dosaṃ pajahati, mohaṃ pajahati. rāgaṃ pahāya, dosaṃ pahāya, mohaṃ pahāya yaṃ akusalaṃ na taṃ karoti, yaṃ pāpaṃ na taṃ sevati. idaṃ vuccati, bhikkhave, bhāvanābalaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [bala|force] du [bhavana|développement]? À cet égard, la [bala|force] du [bhavana|développement] est la [bala|force] des [sekha|apprenants]. Grâce à la [bala|force] de l'[sekha|apprenant], on abandonne l'[raga|avidité], on abandonne l'[dosa|aversion], et on abandonne la [moha|délusion]. Ayant abandonné l'[raga|avidité], l'[dosa|aversion] et la [moha|délusion], on ne fait pas ce qui est [akusala|désavantageux] et on ne recherche pas ce qui est [papa|mauvais]. Voici, [bhikkhu|mendiants], ce qu'on appelle la [bala|force] du [bhavana|développement]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, dve balānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces deux [bala|forces]."
+    }
+  ],
+  "translator": "Sekha"
+}

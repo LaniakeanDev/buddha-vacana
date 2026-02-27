@@ -1,0 +1,58 @@
+﻿{
+  "identifier": "AN 2.37",
+  "plTitle": "Vivadanta Sutta",
+  "frTitle": "Les querelles",
+  "description": "Mahakatchana explique à un [brahmana|brahmane] pourquoi les gens ordinaires se querellent, et ce qui fait que les renonçants, qui consacrent leur vie à la recherche spirituelle, se querellent eux aussi.",
+  "body": [
+    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "ekaṃ samayaṃ āyasmā mahākaccāno varaṇāyaṃ viharati bhaddasāritīre. atha kho ārāmadaṇḍo brāhmaṇo yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho ārāmadaṇḍo brāhmaṇo āyasmantaṃ mahākaccānaṃ etadavoca:",
+      "fr": "Un jour, le [ayasma|vénérable] Mahakatchana séjournait près de Varana, sur les berges du lac Kaddama. Ce jour-là, le [brahmana|brahmane] Aramadanda vint voir le [ayasma|vénérable] Mahakatchana et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [brahmana|brahmane] Aramadanda dit au [ayasma|vénérable] Mahakatchana:"
+    },
+    {
+      "pl": "“ko nu kho, bho kaccāna, hetu ko paccayo yena khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatikāpi gahapatikehi vivadantī”ti?",
+      "fr": "«[bho|Honorable] Katchana, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle les [khattiya|aristocrates] se querellent avec les [khattiya|aristocrates], les brahmanes se querellent avec les brahmanes et les maîtres de maison se querellent avec les maîtres de maison?"
+    },
+    {
+      "pl": "“kāmarāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosāna-hetu kho, brāhmaṇa, khattiyāpi khattiyehi vivadanti, brāhmaṇāpi brāhmaṇehi vivadanti, gahapatikāpi gahapatikehi vivadantī”ti.",
+      "fr": "—C'est à [hetu|cause] de l'attachement, la fixation, l'obsession, l'enchaînement et l'attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], brahmane, que les [khattiya|aristocrates] se querellent avec les [khattiya|aristocrates], que les brahmanes se querellent avec les brahmanes et que les maîtres de maison se querellent avec les maîtres de maison."
+    },
+    {
+      "pl": "“ko pana, bho kaccāna, hetu ko paccayo yena samaṇāpi samaṇehi vivadantī”ti?",
+      "fr": "—Mais, [bho|Honorable] Katchana, quelle est alors la [hetu|cause], quelle est la [paccaya|raison] pour laquelle les [samana|renonçants] se querellent avec les [samana|renonçants]?"
+    },
+    {
+      "pl": "“diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosāna-hetu kho, brāhmaṇa, samaṇāpi samaṇehi vivadantī”ti.",
+      "fr": "—C'est à [hetu|cause] de l'attachement, la fixation, l'obsession, l'enchaînement et l'attachement à l'[raga|avidité] envers les [ditthi|vues], brahmane, que les [samana|renonçants] se querellent avec les [samana|renonçants]."
+    },
+    {
+      "pl": "“atthi pana, bho kaccāna, koci lokasmiṃ yo imañceva kāma-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto, imañca diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto”ti?",
+      "fr": "—Y a-t-il donc, [bho|Honorable] Katchana, quelqu'un dans le [loka|monde] qui ait surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], et qui ait surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [ditthi|vues]?"
+    },
+    {
+      "pl": "“atthi, brāhmaṇa, lokasmiṃ yo imañceva kāma-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto, imañca diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto”ti.",
+      "fr": "—Il y a, brahmane, quelqu'un dans le [loka|monde] qui a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], et qui a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [ditthi|vues]."
+    },
+    {
+      "pl": "“ko pana so, bho kaccāna, lokasmiṃ yo imañceva kāma-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto, imañca diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto”ti?",
+      "fr": "—Et qui est donc, [bho|Honorable] Katchana, celui dans le [loka|monde] qui a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], et qui a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [ditthi|vues]?"
+    },
+    {
+      "pl": "“atthi, brāhmaṇa, puratthimesu janapadesu sāvatthī nāma nagaraṃ. tattha so bhagavā etarahi viharati arahaṃ sammāsambuddho. so hi, brāhmaṇa, bhagavā imañceva kāma-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto, imañca diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto”ti.",
+      "fr": "—Il y a dans le pays de l'est une ville du nom de Sāvatthī. Un [bhagava|Fortuné], un [arahant|Méritant] [sammasambuddha|véritablement éveillé] y séjourne en ce moment. Ce [bhagava|Fortuné], brahmane, a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], et a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [ditthi|vues].»"
+    },
+    {
+      "pl": "evaṃ vutte ārāmadaṇḍo brāhmaṇo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇaṃ jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yena bhagavā tenañjaliṃ paṇāmetvā tikkhattuṃ udānaṃ udānesi:",
+      "fr": "En entendant cela, le [brahmana|brahmane] Aramadanda se leva de son siège, arrangea sa robe du haut sur une épaule, posa son genou droit sur le sol, leva les mains en une salutation respectueuse et exclama cette [udana|exclamation] trois fois:"
+    },
+    {
+      "pl": "“namo tassa bhagavato arahato sammāsambuddhassa, namo tassa bhagavato arahato sammāsambuddhassa, namo tassa bhagavato arahato sammāsambuddhassa. yo hi so bhagavā imañceva kāma-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto, imañca diṭṭhi-rāg-ābhinivesa-vinibandha-paligedha-pariyuṭṭhān-ajjhosānaṃ samatikkanto”ti.",
+      "fr": "«Hommage au [bhagava|Fortuné], au [arahant|Méritant], à [sammasambuddha|celui qui est véritablement éveillé]! Hommage au [bhagava|Fortuné], au [arahant|Méritant], à [sammasambuddha|celui qui est véritablement éveillé]! Hommage au [bhagava|Fortuné], au [arahant|Méritant], à [sammasambuddha|celui qui est véritablement éveillé]!Ce [bhagava|Fortuné] a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [kama|plaisirs sensuels], et a surmonté cet attachement, fixation, obsession, enchaînement et attachement à l'[raga|avidité] envers les [ditthi|vues]."
+    },
+    {
+      "pl": "“abhikkantaṃ, bho kaccāna, abhikkantaṃ, bho kaccāna! seyyathāpi, bho kaccāna, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti, evamevaṃ bhotā kaccānena anekapariyāyena dhammo pakāsito. esāhaṃ, bho kaccāna, taṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhavaṃ kaccāno dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "C'est excellent, [bho|Honorable] Katchana, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Katchana a expliqué le [dhamma|Dhamma] de diverses façons. [bho|Honorable] Katchana, je vais en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que l'[bho|Honorable] Katchana me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie.»"
+    }
+  ],
+  "translator": "Rémy"
+}

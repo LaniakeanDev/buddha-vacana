@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 2.3",
+  "plTitle": "Tapanīya Sutta",
+  "frTitle": "Mortifiantes",
+  "description": "Deux choses qui sont mortifiantes pour celui qui a une mauvaise conduite.",
+  "body": [
+    {
+      "pl": "dveme, bhikkhave, dhammā tapanīyā. katame dve? ",
+      "fr": "[bhikkhu|Mendiants], ces deux [dhamma|choses] sont mortifiantes. Quelles sont ces deux choses?"
+    },
+    {
+      "pl": "idha, bhikkhave, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti kāyasucaritaṃ; vacīduccaritaṃ kataṃ hoti; akataṃ hoti vacīsucaritaṃ; manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ.",
+      "fr": "À cet égard, quelqu'un s'est engagé dans la [duccarita|méconduite] corporelle et n'a pas réalisé de [sucarita|bonne conduite] corporelle; il s'est engagé dans la méconduite verbale et n'a pas réalisé de [sucarita|bonne conduite] verbale; il s'est engagé dans la [duccarita|méconduite] mentale et n'a pas réalisé de [sucarita|bonne conduite] mentale."
+    },
+    {
+      "pl": "so ‘kāyaduccaritaṃ me katan’ti tappati, ‘akataṃ me kāyasucaritan’ti tappati; ‘vacīduccaritaṃ me katan’ti tappati, ‘akataṃ me vacīsucaritan’ti tappati; ‘manoduccaritaṃ me katan’ti tappati, ‘akataṃ me manosucaritan’ti tappati.",
+      "fr": "Il est mortifié [en se disant:] [i]“Je me suis engagé dans la [duccarita|méconduite] corporelle”[/i]. Il est mortifié: [i]“Je n'ai pas réalisé de [sucarita|bonne conduite] corporelle”[/i]. Il est mortifié: [i]“Je me suis engagé dans la [duccarita|méconduite] verbale”[/i]. Il est mortifié: [i]“Je n'ai pas réalisé de [sucarita|bonne conduite] verbale”[/i]. Il est mortifié: [i]“Je me suis engagé dans la [duccarita|méconduite] mentale”[/i]. Il est mortifié: [i]“Je n'ai pas réalisé de [sucarita|bonne conduite] mentale”[/i]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, dve dhammā tapanīyā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces deux [dhamma|choses] mortifiantes."
+    }
+  ],
+  "translator": "Sekha"
+}

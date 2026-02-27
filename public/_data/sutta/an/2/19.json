@@ -1,0 +1,25 @@
+﻿{
+  "identifier": "AN 2.19",
+  "plTitle": "Akusala Sutta",
+  "frTitle": "Ce qui est désavantageux",
+  "description": "Abandonner ce qui est désavantageux et développer ce qui est avantageux.",
+  "body": [
+    {
+      "pl": "“akusalaṃ, bhikkhave, pajahatha. sakkā, bhikkhave, akusalaṃ pajahituṃ. no cedaṃ, bhikkhave, sakkā abhavissa akusalaṃ pajahituṃ, nāhaṃ evaṃ vadeyyaṃ — ‘akusalaṃ, bhikkhave, pajahathā’ti. yasmā ca kho, bhikkhave, sakkā akusalaṃ pajahituṃ tasmāhaṃ evaṃ vadāmi — ‘akusalaṃ, bhikkhave, pajahathā’ti. ",
+      "fr": "[bhikkhu|Mendiants], abandonnez ce qui est [akusala|désavantageux]. Il est possible d'abandonner ce qui est [akusala|désavantageux]. S'il n'était pas possible d'abandonner ce qui est [akusala|désavantageux], je ne vous dirais pas [i]“[bhikkhu|Mendiants], abandonnez ce qui est [akusala|désavantageux]”[/i]. Mais c'est parce qu'il est possible d'abandonner ce qui est [akusala|désavantageux] que je vous dis [i]“[bhikkhu|Mendiants], abandonnez ce qui est [akusala|désavantageux]”[/i]."
+    },
+    {
+      "pl": "akusalañca hidaṃ, bhikkhave, pahīnaṃ ahitāya dukkhāya saṃvatteyya nāhaṃ evaṃ vadeyyaṃ — ‘akusalaṃ, bhikkhave, pajahathā’ti. yasmā ca kho, bhikkhave, akusalaṃ pahīnaṃ hitāya sukhāya saṃvattati tasmāhaṃ evaṃ vadāmi — ‘akusalaṃ, bhikkhave, pajahathā’”ti.",
+      "fr": "Si abandonner ce qui est [akusala|désavantageux] menait au détriment et au [dukkha|mal-être], je ne vous dirais pas [i]“[bhikkhu|Mendiants], abandonnez ce qui est [akusala|désavantageux]”[/i]. Mais c'est parce qu'abandonner ce qui est [akusala|désavantageux] mène au bénéfice et au [sukha|bien-être] que je vous dis [i]“[bhikkhu|Mendiants], abandonnez ce qui est [akusala|désavantageux]”[/i]."
+    },
+    {
+      "pl": "“kusalaṃ, bhikkhave, bhāvetha. sakkā, bhikkhave, kusalaṃ bhāvetuṃ. no cedaṃ, bhikkhave, sakkā abhavissa kusalaṃ bhāvetuṃ, nāhaṃ evaṃ vadeyyaṃ — ‘kusalaṃ, bhikkhave, bhāvethā’ti. yasmā ca kho, bhikkhave, sakkā kusalaṃ bhāvetuṃ tasmāhaṃ evaṃ vadāmi — ‘kusalaṃ, bhikkhave, bhāvethā’ti.",
+      "fr": "[bhikkhu|Mendiants], développez ce qui est [kusala|avantageux]. Il est possible de développer ce qui est [kusala|avantageux]. S'il n'était pas possible de développer ce qui est [kusala|avantageux], je ne vous dirais pas [i]“[bhikkhu|Mendiants], développez ce qui est [kusala|avantageux]”[/i]. Mais c'est parce qu'il est possible de développer ce qui est [kusala|avantageux] que je vous dis [i]“[bhikkhu|Mendiants], développez ce qui est [kusala|avantageux]”[/i]."
+    },
+    {
+      "pl": "kusalañca hidaṃ, bhikkhave, bhāvitaṃ ahitāya dukkhāya saṃvatteyya, nāhaṃ evaṃ vadeyyaṃ — ‘kusalaṃ, bhikkhave, bhāvethā’ti. yasmā ca kho, bhikkhave, kusalaṃ bhāvitaṃ hitāya sukhāya saṃvattati tasmāhaṃ evaṃ vadāmi — ‘kusalaṃ, bhikkhave, bhāvethā’”ti.",
+      "fr": "Si développer ce qui est [kusala|avantageux] menait au détriment et au [dukkha|mal-être], je ne vous dirais pas [i]“[bhikkhu|Mendiants], développez ce qui est [kusala|avantageux]”[/i]. Mais c'est parce que développer ce qui est [kusala|avantageux] mène au bénéfice et au [sukha|bien-être] que je vous dis [i]“[bhikkhu|Mendiants], développez ce qui est [kusala|avantageux]”[/i]. "
+    }
+  ],
+  "translator": "Sekha"
+}
