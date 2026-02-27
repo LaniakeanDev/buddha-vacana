@@ -1,0 +1,17 @@
+﻿{
+  "identifier": "AN 8.79",
+  "plTitle": "Parihāna Sutta",
+  "frTitle": "La détérioration",
+  "description": "Le Bouddha explique quelles sont les huit choses qui mènent à la détérioration d'un mendiant en entraînement, ainsi que celles qui le sauvegardent contre cette détérioration.",
+  "body": [
+    {
+      "pl": "Aṭṭhime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame aṭṭha? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, saṃsaggārāmatā, papañcārāmatā: ime kho, bhikkhave, aṭṭha dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+      "fr": "Ces huit [dhamma|choses], [bhikkhu|mendiants], mènent à la détérioration d'un mendiant en entraînement. Quelles sont ces huit? La complaisance dans les activités, la complaisance dans les conversations, la complaisance dans le sommeil, la complaisance dans la socialisation, l'absence de [igdt|protection à l'entrée des facultés sensorielles],  l'absence de [bmt|connaissance de la [bonne] mesure avec la nourriture],  la complaisance dans l'[@m_samsagga|association [avec les autres]] et la complaisance dans la [papanca|prolifération mentale]. Voici, [bhikkhu|mendiants], quelles sont les huit [dhamma|choses] qui mènent à la détérioration d'un mendiant en entraînement."
+    },
+    {
+      "pl": "Aṭṭhime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti. Katame aṭṭha? Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, asaṃsaggārāmatā, nippapañcārāmatā. ime kho, bhikkhave, aṭṭha dhammā sekhassa bhikkhuno aparihānāya saṃvattantī ti.",
+      "fr": "Ces huit [dhamma|choses], [bhikkhu|mendiants], mènent à la non-détérioration d'un mendiant en entraînement. Quelles sont ces huit? La non-complaisance dans les activités, la non-complaisance dans les conversations, la non-complaisance dans le sommeil, la non-complaisance dans la socialisation, la [igdt|protection à l'entrée des facultés sensorielles],  la [bmt|connaissance de la [bonne] mesure avec la nourriture],  la non-complaisance dans l'[@m_samsagga|association [avec les autres]] et la non-complaisance dans la [papanca|prolifération mentale]. Voici, [bhikkhu|mendiants], quelles sont les huit [dhamma|choses] qui mènent à la non-détérioration d'un mendiant en entraînement."
+    }
+  ],
+  "translator": "Rémy"
+}

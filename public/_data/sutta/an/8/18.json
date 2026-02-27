@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 8.18",
+  "plTitle": "Bandhana Sutta",
+  "frTitle": "Capture",
+  "description": "Huit moyens par lesquels une femme capture un homme ou un homme capture une femme.",
+  "body": [
+    {
+      "pl": "“aṭṭhahi, bhikkhave, ākārehi puriso itthiṃ bandhati. katamehi aṭṭhahi?",
+      "fr": "[bhikkhu|Mendiants], un homme capture une femme par huit moyens. Quels sont ces huit?"
+    },
+    {
+      "pl": "ruṇṇena, bhikkhave, puriso itthiṃ bandhati; hasitena, bhikkhave, puriso itthiṃ bandhati; bhaṇitena, bhikkhave, puriso itthiṃ bandhati; ākappena, bhikkhave, puriso itthiṃ bandhati; vanabhaṅgena, bhikkhave, puriso itthiṃ bandhati; gandhena, bhikkhave, puriso itthiṃ bandhati; rasena, bhikkhave, puriso itthiṃ bandhati; phassena, bhikkhave, puriso itthiṃ bandhati.",
+      "fr": "Un homme capture une femme par ses pleurs; un homme capture une femme par son rire; un homme capture une femme par son verbe; un homme capture une femme par sa tenue; un homme capture une femme par un cadeau cueilli dans la forêt; un homme capture une femme par son odeur; un homme capture une femme par son goût; un homme capture une femme par son toucher."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, aṭṭhahākārehi puriso itthiṃ bandhati. te, bhikkhave, sattā subaddhā, ye phassena baddhā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont les huit moyens par lesquels un homme capture une femme. Les êtres sont fermement capturés lorsqu'ils sont capturés par le toucher."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}

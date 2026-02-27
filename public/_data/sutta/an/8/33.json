@@ -1,0 +1,21 @@
+﻿{
+  "identifier": "AN 8.33",
+  "plTitle": "Dānavatthu Sutta",
+  "frTitle": "Les raisons de faire un don",
+  "description": "Huit raisons pour lesquelles on fait un don.",
+  "body": [
+    {
+      "pl": "“aṭṭhimāni, bhikkhave, dānavatthūni. katamāni aṭṭha? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces huit raisons de faire un [dana|don]. Quelles sont ces huit raisons?"
+    },
+    {
+      "pl": "chandā dānaṃ deti, dosā dānaṃ deti, mohā dānaṃ deti, bhayā dānaṃ deti, ‘dinnapubbaṃ katapubbaṃ pitupitāmahehi, nārahāmi porāṇaṃ kulavaṃsaṃ hāpetun’ti dānaṃ deti, ‘imāhaṃ dānaṃ datvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti dānaṃ deti, ‘imaṃ me dānaṃ dadato cittaṃ pasīdati, attamanatā somanassaṃ upajāyatī’ti dānaṃ deti, cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti.",
+      "fr": "On fait un [dana|don] par désir; on fait un [dana|don] par peur; on fait un [dana|don] [en se disant:] [i]“Mon père et mon grand-père ont pratiqué le [dana|don] dans le passé; jene serais pas digne de l'ancienne tradition de ma famille si je négligeais de le faire”[/i]; on fait un [dana|don] [en se disant:] [i]“ayant fait ce [dana|don], lors de la dissolution de mon [kaya|corps], après ma mort, je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]”[/i]; on fait un [dana|don] [en se disant:] [i]“quand je fais ce [dana|don], mon [citta|esprit] devient serein, je suis rempli de ravissement et de [somanassa|plaisance mentale].”[/i]; on fait un [dana|don] dans le but d'orner et garnir l'[citta|esprit]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, aṭṭha dānavatthūnī”ti.",
+      "fr": "Voici, mendiants, quelles sont ces huit raisons de faire un [dana|don]."
+    }
+  ],
+  "translator": "Sekha"
+}

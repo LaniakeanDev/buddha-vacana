@@ -1,0 +1,69 @@
+﻿{
+  "identifier": "AN 8.63",
+  "plTitle": "Saṃkhitta Sutta",
+  "frTitle": "En bref",
+  "description": "Un mendiant demande au Bouddha de lui enseigner le Dhamma en bref afin qu'il puisse s'isoler pour devenir un arahant.",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami ... pe ... ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca — ",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.",
+      "fr": "«Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'effort."
+    },
+    {
+      "pl": "“evamevaṃ panidhekacce moghapurisā mamaññeva ajjhesanti. dhamme ca bhāsite mamaññeva anubandhitabbaṃ maññantī”ti.",
+      "fr": "—De la même manière, certains hommes sans valeur me font cette requête, mais après que je leur ai parlé du [dhamma|Dhamma], ils décident en fait de me suivre."
+    },
+    {
+      "pl": "“desetu me, bhante, bhagavā saṃkhittena dhammaṃ, desetu sugato saṃkhittena dhammaṃ. appeva nāmāhaṃ bhagavato bhāsitassa atthaṃ ājāneyyaṃ, appeva nāmāhaṃ bhagavato bhāsitassa dāyādo assan”ti.",
+      "fr": "—[bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, que le Sublime m'enseigne le [dhamma|Dhamma] en bref. Peut-être que je comprendrai le sens de la parole du [bhagava|Fortuné], peut-être que je deviendrai l'héritier de la parole du [bhagava|Fortuné]."
+    },
+    {
+      "pl": "“tasmātiha te, bhikkhu evaṃ sikkhitabbaṃ — ‘ajjhattaṃ me cittaṃ ṭhitaṃ bhavissati susaṇṭhitaṃ, na ca uppannā pāpakā akusalā dhammā cittaṃ pariyādāya ṭhassantī’ti. evañhi te, bhikkhu, sikkhitabbaṃ”.",
+      "fr": "—Dans ce cas, [bhikkhu|mendiant], tu devrais t'entraîner ainsi: [i]“Mon [citta|esprit] sera intérieurement persistant et déterminé, et les [dhamma|états] [papaka|malsains] et [akusala|désavantageux] ayant fait surface ne s'en empareront pas.”[/i] Voici, [bhikkhu|mendiant], comment tu devrais t'entraîner."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ajjhattaṃ cittaṃ ṭhitaṃ hoti susaṇṭhitaṃ, na ca uppannā pāpakā akusalā dhammā cittaṃ pariyādāya tiṭṭhanti, tato te, bhikkhu, evaṃ sikkhitabbaṃ — ‘mettā me cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. evañhi te, bhikkhu, sikkhitabbaṃ.",
+      "fr": "Lorsque ton [citta|esprit] est intérieurement persistant et déterminé, et que les [dhamma|états] [papaka|malsains] et [akusala|désavantageux] ayant fait surface ne s'en emparent pas, tu devrais t'entraîner ainsi: [i]“Je développerai et cultiverai la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], j'en ferai mon véhicule, mon territoire, je la maintiendrai, l'accumulerai et la perfectionnerai.”[/i] Voici, [bhikkhu|mendiant], comment tu devrais t'entraîner."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti bahulīkato, tato tvaṃ, bhikkhu, imaṃ samādhiṃ savitakkampi savicāraṃ bhāveyyāsi, avitakkampi vicāramattaṃ bhāveyyāsi, avitakkampi avicāraṃ bhāveyyāsi, sappītikampi bhāveyyāsi, nippītikampi bhāveyyāsi, sātasahagatampi bhāveyyāsi, upekkhāsahagatampi bhāveyyāsi.",
+      "fr": "Une fois que tu auras développé et cultivé cette [samadhi|concentration], tu la développeras avec [vitakka|pensées actives] et [vicara|passives], tu la développeras sans [vitakka|pensées actives], avec un reste de [vicara|pensées passives], tu la développeras sans [vitakka|pensées actives] ni [vicara|passives], tu la développeras avec [piti|exaltation], tu la développeras sans [piti|exaltation], tu la développeras avec confort, et tu la développeras avec [upekkha|équanimité]."
+    },
+    {
+      "pl": "“yato kho, te bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti subhāvito, tato te, bhikkhu, evaṃ sikkhitabbaṃ — ‘karuṇā me cetovimutti... muditā me cetovimutti... upekkhā me cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. evañhi te, bhikkhu, sikkhitabbaṃ.",
+      "fr": "Une fois que tu auras développé, bien développé, cette [samadhi|concentration], tu devrais t'entraîner ainsi: [i]“Je développerai et cultiverai la [cetovimutti|libération de l'esprit] par la [karuna|compassion] (…) la [mudita|joie altruiste] (…) l'[upekkha|équanimité], j'en ferai mon véhicule, mon territoire, je la maintiendrai, l'accumulerai et la perfectionnerai.”[/i] Voici, [bhikkhu|mendiant], comment tu devrais t'entraîner."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti bahulīkato, tato tvaṃ, bhikkhu, imaṃ samādhiṃ savitakkampi savicāraṃ bhāveyyāsi, avitakkampi vicāramattaṃ bhāveyyāsi, avitakkampi avicāraṃ bhāveyyāsi, sappītikampi bhāveyyāsi, nippītikampi bhāveyyāsi, sātasahagatampi bhāveyyāsi, upekkhāsahagatampi bhāveyyāsi.",
+      "fr": "Une fois que tu auras développé et cultivé cette [samadhi|concentration], tu la développeras avec [vitakka|pensées actives] et [vicara|passives], tu la développeras sans [vitakka|pensées actives], avec un reste de [vicara|pensées passives], tu la développeras sans [vitakka|pensées actives] ni [vicara|passives], tu la développeras avec [piti|exaltation], tu la développeras sans [piti|exaltation], tu la développeras avec confort, et tu la développeras avec [upekkha|équanimité]."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti subhāvito, tato te, bhikkhu, evaṃ sikkhitabbaṃ — ‘kāye kāyānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan’ti. evañhi te, bhikkhu, sikkhitabbaṃ.",
+      "fr": "Une fois que tu auras développé, bien développé, cette [samadhi|concentration], tu devrais t'entraîner ainsi: [i]“Je [@f_stp#kaya-cl|resterai à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde].”[/i] Voici, [bhikkhu|mendiant], comment tu devrais t'entraîner."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti bahulīkato, tato tvaṃ, bhikkhu, imaṃ samādhiṃ savitakkampi savicāraṃ bhāveyyāsi, avitakkampi vicāramattaṃ bhāveyyāsi, avitakkampi avicāraṃ bhāveyyāsi, sappītikampi bhāveyyāsi, nippītikampi bhāveyyāsi, sātasahagatampi bhāveyyāsi, upekkhāsahagatampi bhāveyyāsi.",
+      "fr": "Une fois que tu auras développé et cultivé cette [samadhi|concentration], tu la développeras avec [vitakka|pensées actives] et [vicara|passives], tu la développeras sans [vitakka|pensées actives], avec un reste de [vicara|pensées passives], tu la développeras sans [vitakka|pensées actives] ni [vicara|passives], tu la développeras avec [piti|exaltation], tu la développeras sans [piti|exaltation], tu la développeras avec confort, et tu la développeras avec [upekkha|équanimité]."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti subhāvito, tato te, bhikkhu, evaṃ sikkhitabbaṃ — ‘vedanāsu vedanānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan’ti; citte cittānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan’ti; dhammesu dhammānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan’ti. evañhi te, bhikkhu, sikkhitabbaṃ.",
+      "fr": "Une fois que tu auras développé, bien développé, cette [samadhi|concentration], tu devrais t'entraîner ainsi: [i]“Je [@f_stp#vedana-cl|resterai à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde].”[/i] (…)[i]“Je [@f_stp#citta-cl|resterai à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde].”[/i] (…)[i]“Je [@f_stp#dhamma-cl|resterai à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde].”[/i] Voici, [bhikkhu|mendiant], comment tu devrais t'entraîner."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti bahulīkato, tato tvaṃ, bhikkhu, imaṃ samādhiṃ savitakkampi savicāraṃ bhāveyyāsi, avitakkampi vicāramattaṃ bhāveyyāsi, avitakkampi avicāraṃ bhāveyyāsi, sappītikampi bhāveyyāsi, nippītikampi bhāveyyāsi, sātasahagatampi bhāveyyāsi, upekkhāsahagatampi bhāveyyāsi.",
+      "fr": "Une fois que tu auras développé et cultivé cette [samadhi|concentration], tu la développeras avec [vitakka|pensées actives] et [vicara|passives], tu la développeras sans [vitakka|pensées actives], avec un reste de [vicara|pensées passives], tu la développeras sans [vitakka|pensées actives] ni [vicara|passives], tu la développeras avec [piti|exaltation], tu la développeras sans [piti|exaltation], tu la développeras avec confort, et tu la développeras avec [upekkha|équanimité]."
+    },
+    {
+      "pl": "“yato kho te, bhikkhu, ayaṃ samādhi evaṃ bhāvito hoti subhāvito, tato tvaṃ, bhikkhu, yena yeneva gagghasi phāsuṃyeva gagghasi, yattha yattha ṭhassasi phāsuṃyeva ṭhassasi, yattha yattha nisīdissasi phāsuṃyeva nisīdissasi, yattha yattha seyyaṃ kappessasi phāsuṃyeva seyyaṃ kappessasī”ti.",
+      "fr": "Une fois que tu auras développé, bien développé, cette [samadhi|concentration], lorsque tu marcheras, tu marcheras toujours dans le confort, lorsque tu te tiendras debout, tu te tiendras toujours debout dans le confort, lorsque tu te tiendras assis, tu te tiendras toujours assis dans le confort, lorsque tu t'allongeras, tu t'allongeras toujours dans le confort.»"
+    },
+    {
+      "pl": "atha kho so bhikkhu bhagavatā iminā ovādena ovadito uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva — yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ — brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. aññataro ca pana so bhikkhu arahataṃ ahosīti.",
+      "fr": "Alors ce [bhikkhu|mendiant], exhorté par cette exhortation du [bhagava|Fortuné], s'étant levé de son siège et ayant rendu hommage au [bhagava|Fortuné] en le tenant sur sa droite, s'en alla. Puis ce [bhikkhu|mendiant], demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Ainsi, ce [bhikkhu|mendiant] devint l'un des [arahant|Méritants]. "
+    }
+  ],
+  "translator": "Sekha"
+}

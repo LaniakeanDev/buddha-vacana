@@ -1,0 +1,86 @@
+﻿{
+  "identifier": "AN 8.13",
+  "plTitle": "Assājānīya Sutta",
+  "frTitle": "Un pur-sang",
+  "description": "Huit points communs entre un cheval pur-sang royal et un mendiant qui réussit.",
+  "body": [
+    {
+      "pl": "“aṭṭhahi, bhikkhave, aṅgehi samannāgato rañño bhaddo assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati. katamehi aṭṭhahi?",
+      "fr": "[bhikkhu|Mendiants], un cheval pur-sang royal bien entraîné et doué de huit qualités est digne d'un roi, indispensable à un roi, et il est considéré comme une caractéristique de la royauté. Quelles sont ces huit?"
+    },
+    {
+      "pl": "idha, bhikkhave, rañño bhaddo assājānīyo ubhato sujāto hoti: mātito ca pitito ca. yassaṃ disāyaṃ aññepi bhaddā assājānīyā jāyanti, tassaṃ disāyaṃ jāto hoti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un cheval pur-sang royal bien entraîné (1) est bien né des deux côtés, de celui de la mère comme celui du père, et il est né dans la même région que les autres chevaux pur-sang bien entraînés."
+    },
+    {
+      "pl": "yaṃ kho panassa bhojanaṃ denti, allaṃ vā sukkhaṃ vā, taṃ sakkaccaṃyeva paribhuñjati avikiranto.",
+      "fr": "(2) De plus, quelle que soit la nourriture qu'on lui donne, qu'elle soit mouillée ou sèche, il la mange délicatement sans l'éparpiller."
+    },
+    {
+      "pl": "jegucchī hoti uccāraṃ vā passāvaṃ vā abhinisīdituṃ vā abhinipajjituṃ vā.",
+      "fr": "(3) Il est dégoûté par le fait de s'asseoir ou se coucher dans l'urine ou les excréments."
+    },
+    {
+      "pl": "sorato hoti sukhasaṃvāso, na ca aññe asse ubbejetā.",
+      "fr": "(4) Il est gentil, sa compagnie est agréable, et il ne dérange pas les autres chevaux."
+    },
+    {
+      "pl": "yāni kho panassa honti sāṭheyyāni kūṭeyyāni jimheyyāni vaṅkeyyāni, tāni yathābhūtaṃ sārathissa āvikattā hoti tesamassa sārathi abhinimmadanāya vāyamati.",
+      "fr": "(5) Il révèle telles qu'elles sont réellement à son conducteur ses ruses, ses tromperies, ses feintes et ses duperies, de telle manière que son conducteur puisse s'efforcer de les soumettre."
+    },
+    {
+      "pl": "vāhī kho pana hoti ‘kāmaññe assā vahantu vā mā vā, ahamettha vahissāmī’ti cittaṃ uppādeti.",
+      "fr": "(6) Il est laborieux et fixe son [citta|esprit]: [i]«Que les autres chevaux portent ou non [la charge], je [la] porterai.»[/i]"
+    },
+    { "pl": "gacchanto kho pana ujumaggeneva gacchati.", "fr": "(7) Lorsqu'il avance, il avance sur une voie droite." },
+    {
+      "pl": "thāmavā hoti yāva jīvitamaraṇapariyādānā thāmaṃ upadaṃsetā.",
+      "fr": "(8) Il est tenace et le reste toute sa vie jusqu'à la mort."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, aṭṭhahi aṅgehi samannāgato rañño bhaddo assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati.",
+      "fr": "[bhikkhu|Mendiants], un cheval pur-sang royal bien entraîné et doué de ces huit qualités est digne d'un roi, indispensable à un roi, et il est considéré comme une caractéristique de la royauté."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa. katamehi aṭṭhahi?",
+      "fr": "De la même manière, un [bhikkhu|mendiant] doué de huit [dhamma|qualités] est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est un incomparable champ de [punna|mérite] pour le monde. Quelles sont ces huit?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu.",
+      "fr": "À cet égard, (1) [@f_sila|un mendiant est vertueux, il demeure restreint par la restreinte du Patimokkha, accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les règles de l'entraînement et s'y entraîne.]"
+    },
+    {
+      "pl": "yaṃ kho panassa bhojanaṃ denti, lūkhaṃ vā paṇītaṃ vā, taṃ sakkaccaṃyeva paribhuñjati avihaññamāno.",
+      "fr": "(2) De plus, quelle que soit la nourriture qu'on lui donne, qu'elle soit médiocre ou exquise, il la mange délicatement, sans se contrarier."
+    },
+    {
+      "pl": "jegucchī hoti kāyaduccaritena vacīduccaritena manoduccaritena; jegucchī hoti anekavihitānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā.",
+      "fr": "(3) Il est dégoûté par la [duccarita|méconduite] corporelle, la [duccarita|méconduite] verbale et la [duccarita|méconduite] mentale; il est dégoûté par l'entrée dans les divers [dhamma|états] [akusala|désavantageux] et [papaka|malsains]."
+    },
+    {
+      "pl": "sorato hoti sukhasaṃvāso, na aññe bhikkhū ubbejetā.",
+      "fr": "(4) Il est gentil, sa compagnie est agréable, et il ne dérange pas les autres [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "yāni kho panassa honti sāṭheyyāni kūṭeyyāni jimheyyāni vaṅkeyyāni, tāni yathābhūtaṃ āvikattā hoti satthari vā viññūsu vā sabrahmacārīsu, tesamassa satthā vā viññū vā sabrahmacārī abhinimmadanāya vāyamati.",
+      "fr": "(5) Il révèle telles qu'elles sont réellement à son instructeur ou à ses perspicaces compagnons dans la [brahmacariya|vie brahmique] ses ruses, ses tromperies, ses feintes et ses duperies, de telle manière que son instructeur ou ses perspicaces compagnons dans la [brahmacariya|vie brahmique] puissent s'efforcer de les soumettre."
+    },
+    {
+      "pl": "sikkhitā kho pana hoti, ‘kāmaññe bhikkhū sikkhantu vā mā vā, ahamettha sikkhissāmī’ti cittaṃ uppādeti.",
+      "fr": "(6) Il est laborieux, et fixe son [citta|esprit]: [i]«Que les autres [bhikkhu|mendiants] suivent ou non l'[sikkha|entraînement], je le suivrai.»[/i]"
+    },
+    {
+      "pl": "gacchanto kho pana ujumaggeneva gacchati; tatrāyaṃ ujumaggo, seyyathidaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.",
+      "fr": "(7) Lorsqu'il avance, il avance sur une voie droite, c'est-à-dire la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "āraddhavīriyo viharati: ‘kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ; yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ, na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti.",
+      "fr": "(8) Il maintient son [viriya|énergie] activée: [i]«Volontiers, qu'il ne me reste que la peau, les tendons et les os, que la chair et le sang s'assèchent dans mon corps, mais je ne relâcherai pas mon [viriya|énergie] sans avoir atteint ce qui est à atteindre par ténacité personnelle, par [viriya|énergie] personnelle, par effort personnel.»[/i]"
+    },
+    {
+      "pl": "imehi kho, bhikkhave, aṭṭhahi dhammehi samannāgato bhikkhu āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā”ti.",
+      "fr": "Un [bhikkhu|mendiant] doué de ces huit [dhamma|qualités] est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est un incomparable champ de [punna|mérite] pour le monde."
+    }
+  ],
+  "translator": "Bhikkhu Sekha"
+}
