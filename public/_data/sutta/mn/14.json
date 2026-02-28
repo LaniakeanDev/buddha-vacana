@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 14",
   "plTitle": "Cūḷa Dukkhakkhandha Sutta",
   "frTitle": "Le moindre discours sur l'accumulation de mal-être ",
   "description": "Mahānāma demande pourquoi, bien qu'il ait correctement compris l'essence du message du Bouddha, son esprit est toujours sujet à des états désavantageux. Le Bouddha lui explique pourquoi il en est ainsi et quels sont les inconvénients des plaisirs sensuels.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] résidait parmi les Sakyas, à Kapilavatthou, dans le parc aux ficus banians. Ce jour-là, Mahanama le Sakya alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -70,5 +73,51 @@
       "fr": "De plus, Mahānāma, c'est avec la [kama|sensualité] pour [hetu|cause], avec la [kama|sensualité] pour [nidana|raison], avec la [kama|sensualité] pour origine, c'est un produit [kama|des plaisirs sensuels], la [hetu|cause] étant juste [kama|[les plaisirs sensuels], qu'ils s'engagent dans la [duccarita|méconduite] corporelle, dans la [duccarita|méconduite] verbale, dans la [duccarita|méconduite] mentale. S'étant engagés dans la [duccarita|méconduite] corporelle, dans la [duccarita|méconduite] verbale, dans la [duccarita|méconduite] mentale, lors de la rupture du [kaya|corps], après la [marana|mort], ils réapparaissent dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]. Voici, Mahānāma, un [adinava|désavantage] [kama|des plaisirs sensuels] qui concerne l'autre monde, une [khandha|accumulation] de [dukkha|mal-être] qui a la [kama|sensualité] pour [hetu|cause], qui a la [kama|sensualité] pour [nidana|raison], qui a la [kama|sensualité] pour origine, qui est un produit [kama|des plaisirs sensuels], la [hetu|cause] étant juste [kama|[les plaisirs sensuels]."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "i]“L'[lobha",
+    "upakkilesa",
+    "citta",
+    "dosa",
+    "moha",
+    "/i] Mais bien que je comprenne l'[dhamma",
+    "lobha",
+    "i]“Quelle est donc la [dhamma",
+    "kama",
+    "ariyasavaka",
+    "yathabhutam",
+    "panna",
+    "assada",
+    "dukkha",
+    "upayasa",
+    "adinava",
+    "piti",
+    "sukha",
+    "akusala",
+    "sambodhi",
+    "bodhisatta",
+    "sambuddha",
+    "raga",
+    "somanassa",
+    "sanditthika",
+    "khandha",
+    "hetu",
+    "nidana",
+    "i]“Mon activité est stérile, mes efforts sont infructueux!”[/i] Voici, Mahānāma, un [adinava",
+    "domanassa",
+    "i]“Comment faire pour que les rois n'emportent pas mes richesses, que les voleurs ne l'emportent pas, que le feu ne les brûle pas, que les eaux ne l'emporte pas, que des héritiers désagréables ne l'emportent pas?”[/i] Mais bien qu'il les protège et les garde ainsi, les rois emportent ses richesses, ou des voleurs les emportent, ou bien le feu les brûle, ou bien les eaux l'emporte, ou encore des héritiers désagréables les emportent. Alors il est abattu, il est affligé, il se lamente, il se frappe la poitrine, il pleure et est en proie à la [moha",
+    "i]“Ce qui était mien n'est plus!”[/i] Voici, Mahānāma, un [adinava",
+    "khattiya",
+    "marana",
+    "i]“marmite à gruau”[/i], le [i]“rasoir à conque”[/i], la [i]“bouche de Rāhu”[/i], la [i]“guirlande de feu”[/i], les [i]“mains-torches”[/i], la [i]“traînée derrière un cheval”[/i], la [i]“hache d'écorce”[/i], l'[i]“antilope”[/i], les [i]“crochets à viande”[/i], [i]“les pièces de monnaie”[/i], [i]“la vraie soude”[/i], le [i]“tour de barre”[/i], le [i]“fauteuil de paille”[/i], ils les font arroser d'huile brûlante, ils les font dévorer par des chiens, ils les font empaler vivants sur un pieu, ils leur coupent la tête avec une épée, et à cause de cela, ils subissent la [marana",
+    "duccarita",
+    "kaya",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya"
+  ]
 }

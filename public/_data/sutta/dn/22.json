@@ -1,15 +1,21 @@
-﻿{
+{
   "identifier": "DN 22",
   "plTitle": "Mahāsatipaṭṭhāna Sutta",
   "frTitle": "Le grand discours sur l'établissement de l'attention",
   "description": "Le Mahāsatipaṭṭhāna Sutta est une référence fondamentaledans l'enseignement du Bouddha, car il expose en détail ce qu'il décrivait comme la voie la plus directe menant à [nibbana|Nibbāna]. Ce long discours décrit les instructions relatives aux différentes pratiques de méditations recommandées par le Bouddha, et contient également une explication détaillée des quatre nobles vérités.",
   "body": [
-    { "pl": "[evammesutam|Evaṃ me sutaṃ]:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "[evammesutam|Evaṃ me sutaṃ]:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma kurūnaṃ nigamo. tatra kho bhagavā bhikkhū āmantesi, [@nl] ‘Bhikkhavo’ ti.‘[@nl] Bhaddante’ ti te bhikkhū bhagavato paccassosuṃ. [@nl] bhagavā etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Kurus, à Kammāsadhamma, une ville marchande des Kurus. Ce jour-là, le [bhagava|Fortuné] s’adressa aux [bhikkhu|mendiants] ainsi: [@nl]— [bhikkhu|Mendiants]! et ils répondirent: [@nl]— Bhaddante. [@nl]Alors le [bhagava|Fortuné] s’exprima en ces termes:"
     },
-    { "pl": "Uddeso", "fr": "Introduction" },
+    {
+      "pl": "Uddeso",
+      "fr": "Introduction"
+    },
     {
       "pl": "Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya, dukkhadomanassānaṃ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā.",
       "fr": "Voici le seul et unique moyen, [bhikkhu|mendiants], pour la purification des êtres, pour vaincre le chagrin et les lamentations, pour mettre fin au mal-être et à la douleur, pour marcher sur le sentier de la vérité, pour la réalisation de [nibbana|Nibbāna] : c'est-à-dire les quatre [satipatthana|satipaṭṭhānas]."
@@ -18,8 +24,14 @@
       "pl": "Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Vedanāsu vedanānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Citte cittānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Dhammesu dhammānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. ",
       "fr": "Et quels sont ces quatre? À cet égard, un [bhikkhu|mendiant] demeure ardent, attentif, et [sampajana|sampajāno], observant le corps dans le corps, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant les sensations dans les sensations, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant l’esprit dans l’esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno],observant les phénomènes mentaux dans les phénomènes mentaux, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde."
     },
-    { "pl": "I. Kāyānupassanā", "fr": "I. Observation du corps" },
-    { "pl": "A. Ānāpānapabbaṃ", "fr": "A. La respiration" },
+    {
+      "pl": "I. Kāyānupassanā",
+      "fr": "I. Observation du corps"
+    },
+    {
+      "pl": "A. Ānāpānapabbaṃ",
+      "fr": "A. La respiration"
+    },
     {
       "pl": "kathaṃ ca pana, bhikkhave, bhikkhu kāye kāyānupassī viharati?",
       "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant le corps dans le corps?"
@@ -36,7 +48,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāyaanissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "Ainsi, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "B. Iriyāpathapabbaṃ", "fr": "B. Les postures" },
+    {
+      "pl": "B. Iriyāpathapabbaṃ",
+      "fr": "B. Les postures"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ ti pajānāti, ṭhito vā ‘ṭhitomhī’ ti pajānāti, nisinno vā ‘nisinnomhī’ ti pajānāti, sayāno vā ‘sayānomhī’ ti pajānāti. Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti.",
       "fr": "Lorsqu’un [bhikkhu|mendiant] marche, il comprend justement: “Je suis en train de marcher.” Lorsqu’il se tient debout, il comprend justement: “Je suisdebout”. Lorsqu’il est assis, il comprend justement: “Je suis assis”. Lorsqu’il est couché, il comprend justement: “Je suis couché”. Quelle que soit la position dans laquelle il dispose son corps, il la comprend avec justesse."
@@ -45,7 +60,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "C. Sampajānapabbaṃ", "fr": "C. Sampajañña" },
+    {
+      "pl": "C. Sampajānapabbaṃ",
+      "fr": "C. Sampajañña"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.",
       "fr": "Lorsqu’il va ou qu'il vient, un [bhikkhu|mendiant] le fait avec [sampajanna|sampajañña]. Qu’il pose le regard ou qu'il détourne le regard, il le fait avec [sampajanna|sampajañña]. Lorsqu’il se penche ou s’étire, il le fait avec [sampajanna|sampajañña]. Lorsqu’il porte ses robes ou son bol, il le fait avec [sampajanna|sampajañña]. Lorsqu'il est en train de manger, de boire, de mâcher ou de savourer, il le fait avec [sampajanna|sampajañña]. Lorsqu’il répond aux appels de la nature (urination/défécation), il le fait avec [sampajanna|sampajañña]. Qu’il soit en train de marcher, qu’il soit debout, assis, en train de dormir ou éveillé, en train de parler ou en silence, il le fait avec [sampajanna|sampajañña]."
@@ -54,7 +72,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "D. Paṭikūlamanasikārapabbaṃ", "fr": "D. La réflexion à propos de la répugnance du corps" },
+    {
+      "pl": "D. Paṭikūlamanasikārapabbaṃ",
+      "fr": "D. La réflexion à propos de la répugnance du corps"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ, uddhaṃ pādatalā adho kesamatthakā, tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘Atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṃ’ ti.",
       "fr": "Un [bhikkhu|mendiant] réfléchit à propos de ce corps, qui est recouvert d’une peau et rempli d’impuretés de toutes sortes en partant de la plante des pieds vers le haut, et en partant des cheveux vers le bas, considérant ceci : “Dans ce corps, il y a des cheveux, des poils, des ongles, des dents, une peau, de la chair, des tendons, des os, de la moelle, des reins, un cœur, un foie, des poumons, des intestins, le mésentère, l’estomac et son contenu, des fèces, de la bile, de la flegme, du pus, du sang, de la graisse, des larmes, du gras, de la salive, du mucus nasal, du fluide synovial et de l’urine.”"
@@ -67,7 +88,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "E. Dhātumanasikārapabbaṃ", "fr": "E. Les réflexions à propos des éléments matériels" },
+    {
+      "pl": "E. Dhātumanasikārapabbaṃ",
+      "fr": "E. Les réflexions à propos des éléments matériels"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘Atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ ti.",
       "fr": "Un [bhikkhu|mendiant] réfléchit sur ce corps, quelle que soit la manière dont il est placé ou disposé, en le considérant par rapport aux caractéristiques de chaque élément : “Dans ce corps, il y a l’élément Terre, il y a l’élément Eau, il y a l’élément Feu, et il y a l’élément Air.”"
@@ -80,7 +104,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "F. Navasivathikapabbaṃ", "fr": "F. Les neuf observations de charniers" },
+    {
+      "pl": "F. Navasivathikapabbaṃ",
+      "fr": "F. Les neuf observations de charniers"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
       "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre qui a été jeté dans un charnier, mort depuis un, deux ou trois jours, gonflé, bleu et suppurant, considérant son propre corps, il pense ainsi : “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
@@ -153,7 +180,10 @@
       "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
       "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
     },
-    { "pl": "II. Vedanānupassanā", "fr": "II. Observation des sensations" },
+    {
+      "pl": "II. Vedanānupassanā",
+      "fr": "II. Observation des sensations"
+    },
     {
       "pl": "kathaṃ ca pana, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati?",
       "fr": "Comment un [bhikkhu|mendiant] demeure-t-il observant les sensations dans les sensations?"
@@ -166,7 +196,10 @@
       "pl": "Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati, samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati, ‘atthi vedanā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, [bhikkhu|mendiant] vedanāsu vedanānupassī viharati.",
       "fr": "Ainsi il demeure en observant les sensations dans les sensations intérieurement, ou il demeure observant les sensations dans les sensations extérieurement, ou il demeure observant les sensations dans les sensations à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les sensations, il demeure en observant le phénomène d’extinction dans les sensations, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les sensations. Maintenant son attention est établie: “Voici les sensations!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], ceci est la manière dont un [bhikkhu|mendiant] demeure observant les sensations dans les sensations."
     },
-    { "pl": "III. Cittānupassanā", "fr": "III. Observation de l’esprit" },
+    {
+      "pl": "III. Cittānupassanā",
+      "fr": "III. Observation de l’esprit"
+    },
     {
       "pl": "kathaṃ ca pana, bhikkhave, bhikkhu citte cittānupassī viharati?",
       "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il observant l’esprit dans l’esprit?"
@@ -179,8 +212,14 @@
       "pl": "Iti ajjhattaṃ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati, samudayadhammānupassī vā cittasmiṃ viharati, vayadhammānupassī vā cittasmiṃ viharati, samudayavayadhammānupassī vā cittasmiṃ viharati, ‘atthi cittaṃ’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, [bhikkhu|mendiant] citte cittānupassī viharati.",
       "fr": "Ainsi il demeure en observant l’esprit dans l’esprit intérieurement, ou il demeure observant l’esprit dans l’esprit extérieurement, ou il demeure observant l’esprit dans l’esprit à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans l’esprit, il demeure en observant le phénomène d’extinction dans l’esprit, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans l’esprit. Maintenant son attention est établie : “Voici l’esprit!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant l’esprit dans l’esprit."
     },
-    { "pl": "IV. Dhammānupassanā", "fr": "IV. Observation des phénomènes mentaux" },
-    { "pl": "A. Nīvaraṇapabbaṃ", "fr": "A. Les entraves" },
+    {
+      "pl": "IV. Dhammānupassanā",
+      "fr": "IV. Observation des phénomènes mentaux"
+    },
+    {
+      "pl": "A. Nīvaraṇapabbaṃ",
+      "fr": "A. Les entraves"
+    },
     {
       "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati?",
       "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il observant les phénomènes mentaux dans les phénomènes mentaux?"
@@ -217,7 +256,10 @@
       "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.",
       "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq entraves."
     },
-    { "pl": "B. Khandhapabbaṃ", "fr": "B. Les khandhas" },
+    {
+      "pl": "B. Khandhapabbaṃ",
+      "fr": "B. Les khandhas"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
       "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq [upadanakkhandha|upādānakkhandhas]."
@@ -234,7 +276,10 @@
       "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
       "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq [khandha|khandhas]."
     },
-    { "pl": "C. Āyatanapabbaṃ", "fr": "C. Les sphères des sens" },
+    {
+      "pl": "C. Āyatanapabbaṃ",
+      "fr": "C. Les sphères des sens"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
       "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux six sphères sensorielles internes et externes."
@@ -271,7 +316,10 @@
       "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
       "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux sphères des sens."
     },
-    { "pl": "D. Bojjhaṅgapabbaṃ", "fr": "D. Les facteurs de l’Eveil" },
+    {
+      "pl": "D. Bojjhaṅgapabbaṃ",
+      "fr": "D. Les facteurs de l’Eveil"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
       "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux sept facteurs de l’Eveil."
@@ -312,7 +360,10 @@
       "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
       "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux facteurs de l'Eveil."
     },
-    { "pl": "E. Saccapabbaṃ", "fr": "E. Les nobles vérités" },
+    {
+      "pl": "E. Saccapabbaṃ",
+      "fr": "E. Les nobles vérités"
+    },
     {
       "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
       "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux quatre nobles vérités."
@@ -325,7 +376,10 @@
       "pl": "Idha bhikkhave, bhikkhu ‘idaṃ dukkhaṃ’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·samudayo’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·nirodho’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti.",
       "fr": "Un [bhikkhu|mendiant] comprend avec justesse, telle qu’elle est: “Voici le mal-être”; il comprend avec justesse, telle qu’elle est: “Voici l'origine du mal-être”; il comprend avec justesse, telle qu’elle est: “Voici la cessation du mal-être”; il comprend avec justesse, telle qu’elle est: “Voici la voie menant à la cessation du mal-être."
     },
-    { "pl": "Dukkhasaccaniddeso", "fr": "La vérité du mal-être" },
+    {
+      "pl": "Dukkhasaccaniddeso",
+      "fr": "La vérité du mal-être"
+    },
     {
       "pl": "Katamaṃ ca, bhikkhave, dukkhaṃ ariyasaccaṃ? ",
       "fr": "Et qu’est-ce que la noble vérité du mal-être, [bhikkhu|mendiants]?"
@@ -402,7 +456,10 @@
       "pl": "Idaṃ vuccati, bhikkhave, dukkhaṃ ariyasaccaṃ.",
       "fr": "Et ceci, [bhikkhu|mendiants], est la Noble Vérité de la Souffrance."
     },
-    { "pl": "Samudayasaccaniddeso", "fr": "La Vérité de la Cause de la Souffrance" },
+    {
+      "pl": "Samudayasaccaniddeso",
+      "fr": "La Vérité de la Cause de la Souffrance"
+    },
     {
       "pl": "Katamaṃ ca, bhikkhave, dukkha·samudayaṃ ariyasaccaṃ?",
       "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Noble Vérité de la Cause de la Souffrance?"
@@ -463,7 +520,10 @@
       "pl": "Idaṃ vuccati, bhikkhave, dukkha·samudayaṃ ariyasaccaṃ.",
       "fr": "Ceci, [bhikkhu|mendiants], est la Noble Vérité de la Cause de la Souffrance."
     },
-    { "pl": "Nirodhasaccaniddeso", "fr": "La Vérité de la Cessation de la Souffrance" },
+    {
+      "pl": "Nirodhasaccaniddeso",
+      "fr": "La Vérité de la Cessation de la Souffrance"
+    },
     {
       "pl": "Katamaṃ ca, bhikkhave, dukkha·nirodhaṃ ariyasaccaṃ?",
       "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Noble Vérité de la Cessation de la Souffrance?"
@@ -516,7 +576,10 @@
       "pl": "Idaṃ vuccati, bhikkhave, dukkha·nirodhaṃ ariyasaccaṃ.",
       "fr": "Ceci, [bhikkhu|mendiants], est la Noble Vérité de la Cessation de la Souffrance."
     },
-    { "pl": "Maggasaccaniddeso", "fr": "La Vérité du Sentier" },
+    {
+      "pl": "Maggasaccaniddeso",
+      "fr": "La Vérité du Sentier"
+    },
     {
       "pl": "Katamaṃ ca, bhikkhave, [dngp|dukkha·nirodha·gāminī paṭipadā] ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ, [sammaditthi|sammādiṭṭhi], sammāsaṅkappo, [sammavaca|sammāvācā], sammākammanto, sammā-ājīvo, sammāvāyāmo, [sammasati|sammāsati], [sammasamadhi|sammāsamādhi].",
       "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Vérité du Sentier menant à la Cessation de la Souffrance? C'est l'Octuple Noble Sentier, c'est-à-dire:compréhension juste, pensée juste, parole juste, action juste, moyens de subsistance justes, effort juste, attention juste et concentration juste."
@@ -561,7 +624,10 @@
       "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
       "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les contenus de l’esprit dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux quatre nobles vérités."
     },
-    { "pl": "Satipaṭṭhānabhāvanānisaṃso", "fr": "Les résultats de l'établissement de l'attention" },
+    {
+      "pl": "Satipaṭṭhānabhāvanānisaṃso",
+      "fr": "Les résultats de l'établissement de l'attention"
+    },
     {
       "pl": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattavassāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, [sati|sati] vā upādisese anāgāmitā.",
       "fr": "En vérité, [bhikkhu|mendiants], quiconque pratique ce quadruple établissement de l'attention de cette manière pendant sept ans, peut s'attendre à l'un des deux résultats suivants : [ditthevadhamme|dans le monde visible] la sagesse la plus haute ou, si un substrat d'agrégats subsiste, le stade d'anāgāmi."
@@ -591,5 +657,47 @@
       "fr": "Ainsi parla l'Eveillé. Heureux, les [bhikkhu|mendiants] accueillirent les mots de l'Eveillé."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "@nl]— [bhikkhu",
+    "@nl]— Bhaddante. [@nl]Alors le [bhagava",
+    "nibbana",
+    "satipatthana",
+    "sampajana",
+    "sampajanna",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "khandha",
+    "bojjhanga",
+    "encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga",
+    "piti",
+    "encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment l'[piti",
+    "de leurs dents], lorsqu'ils deviennent gris et ridés, la consomption de leur temps de vie,la détérioration de leurs facultés sensorielles &mdash voici, [bhikkhu",
+    "domanassa",
+    "tanha",
+    "vitakka",
+    "encore] apparus, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté d'éradiquer les états d'esprit malsains ayant fait surface en lui, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté de développer les états d'esprits sains qui ne sont pas [encore] apparus en lui, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté de maintenir les états d'esprit sains ayant fait surface en lui, pour ne pas les laisser disparaître, pour les multiplier, les mener à leur pleine maturité et leur plein développement, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Ceci, [bhikkhu",
+    "jhana",
+    "sukha",
+    "upekkhako",
+    "ditthevadhamme",
+    "@nl]Laissez tomber les cinq ans, [bhikkhu",
+    "@nl]Laissez tomber les quatre ans, [bhikkhu",
+    "@nl]Laissez tomber les trois ans, [bhikkhu",
+    "@nl]Laissez tomber les deux ans, [bhikkhu",
+    "@nl]Laissez tomber l'année, [bhikkhu",
+    "@nl]Laissez tomber les six mois, [bhikkhu",
+    "@nl]Laissez tomber les cinq mois, [bhikkhu",
+    "@nl]Laissez tomber les quatre mois, [bhikkhu",
+    "@nl]Laissez tomber les trois mois, [bhikkhu",
+    "@nl]Laissez tomber les deux mois, [bhikkhu",
+    "@nl]Laissez tomber un mois, [bhikkhu",
+    "@nl]Laissez tomber le demi-mois, [bhikkhu"
+  ]
 }

@@ -1,15 +1,21 @@
-﻿{
+{
   "identifier": "MN 17",
   "plTitle": "Vanapatha Sutta",
   "frTitle": "Coins de forêt isolés",
   "description": "Voici comment choisir un endroit où séjourner pour la pratique, ou un enseignant. En définitive, il n'y a qu'un seul critère de choix.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "—Mendiants!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "—Mendiants!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "—[bhaddante|Bhadanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
@@ -75,5 +81,23 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Les [bhikkhu|mendiants] se réjouirent et approuvèrent la parole du [bhagava|Fortuné]."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhaddante",
+    "bhante",
+    "sati",
+    "samadhi",
+    "asava",
+    "pabbajja",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "pabbaja",
+    "anagariya",
+    "i]“Je vis en dépendance vis-à-vis de ce coin de forêt isolé, et alors que je vis ainsi en dépendance vis-à-vis de ce coin de forêt isolé, ma [sati",
+    "/i] Alors, [bhikkhu"
+  ]
 }

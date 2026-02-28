@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 104",
   "plTitle": "Sāmagāma Sutta",
   "frTitle": "Discours donné à Sāmagāma",
   "description": "Dans cet extrait, le Bouddha fait remarquer à Ānanda qu'il enseigne de telle manière que le cœur de son enseignement n'est pas l'objet de disputes dans le Sangha. Il explique ensuite ce qu'il considère comme une dispute vraiment grave.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "Taṃ kiṃ maññasi, ānanda, ye vo mayā dhammā abhiññā desitā - seyyathidaṃ cattāro satipaṭṭhānā cattāro sammappadhānā cattāro iddhipādā pañcindriyāni pañca balāni satta bojjhaṅgā ariyo aṭṭhaṅgiko maggo - passasi no tvaṃ, ānanda, imesu dhammesu dvepi bhikkhū nānāvāde’’ti?",
       "fr": "Qu'en penses-tu, Ānanda: en ce qui concerne les [dhamma|enseignements] que j'ai enseignés après les avoir [abhinna|réalisés directement], c'est-à-dire les quatre [satipatthana|mises en place de la présence d'esprit], les quatre [sammappadhana|efforts corrects], les quatre [iddhipada|chemins du pouvoir psychique], les cinq [indriya|facultés], les cinq [bala|forces], les sept [bojjhanga|facteurs d'Éveil], et la [ariyaatthangikamagga|noble voie à huit composantes], vois-tu, Ānanda, ne serait-ce que deux [bhikkhu|mendiants] ayant des opinions divergentes en ce qui concerne ces [dhamma|enseignements]?"
@@ -17,7 +20,31 @@
       "pl": "Appamattako so, ānanda, vivādo yadidaṃ ajjhājīve vā adhipātimokkhe vā. Magge vā hi, ānanda, paṭipadāya vā saṅghe vivādo uppajjamāno uppajjeyya; svāssa vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
       "fr": "Ānanda, une dispute au sujet d'un mode de vie et d'un [patimokkha|Pātimokkha] rigoureux ne serait pas grand chose. Mais qu'une dispute, Ānanda, survienne dans la [sangha|Communauté] au sujet de la [magga|voie] ou du [patipada|sentier;] une telle dispute serait au détriment de beaucoup de gens, pour le malheur de beaucoup de gens,pour le préjudice, le détriment et le [dukkha|mal-être] de nombreux [deva|dévas] et [manussa|êtres humains]."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "dhamma",
+    "abhinna",
+    "satipatthana",
+    "sammappadhana",
+    "iddhipada",
+    "indriya",
+    "bala",
+    "bojjhanga",
+    "ariyaatthangikamagga",
+    "bhikkhu",
+    "bhante",
+    "fortuné",
+    "sangha",
+    "patimokkha",
+    "dukkha",
+    "deva",
+    "manussa",
+    "magga",
+    "patipada"
+  ]
 }

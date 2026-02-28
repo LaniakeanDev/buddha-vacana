@@ -1,15 +1,21 @@
-﻿{
+{
   "identifier": "MN 117",
   "plTitle": "Mahācattārīsaka Sutta",
   "frTitle": "Les Quarante Grands",
   "description": "Ce discours a manifestement subi des retouches. Ce qui est proposé ici est une collection d'extraits qui omettent les passages douteux et s'en tiennent à ceux qui sont communs avec la version chinoise de ce soutta. Le Bouddha explique ici comment les différents facteurs du noble sentier forment un groupe cohérent et de quelle manière ils interagissent pour soutenir la concentration.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "— [bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -139,5 +145,74 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "ariya",
+    "sammasamadhi",
+    "@m_upanisa",
+    "@m_parikkhara",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "samma-ajiva",
+    "sammavayama",
+    "sammasati",
+    "ekaggata",
+    "citta",
+    "@nl]En ceci, [bhikkhu",
+    "micchaditthi",
+    "i]“Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de résultats aux [kamma",
+    "loka",
+    "opapatika",
+    "samana",
+    "brahmana",
+    "abhinna",
+    "/i] Voici, [bhikkhu",
+    "i]“Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des résultats aux [kamma",
+    "sata",
+    "dhamma",
+    "sankappa",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "musavadaveramani",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "panatipataveramani",
+    "adinnadanaveramani",
+    "ou] tout [autre] support de vie selon l'enseignement, mais par des moyens contraires à l'enseignement. Voici, [bhikkhu",
+    "ariyasavaka",
+    "@nl] En ceci, [bhikkhu",
+    "sammaajiva",
+    "nana",
+    "vimutti",
+    "sekha",
+    "arahant",
+    "papaka",
+    "akusala",
+    "kisala",
+    "bhavana",
+    "sati",
+    "samadhi",
+    "kusala",
+    "facteurs] a été mis en mouvement, et il ne peut être arrêté par aucun [samana",
+    "deva",
+    "mara",
+    "brahma",
+    "facteurs] devrait être désapprouvé et rejeté, il y a dix conséquences [dhamma",
+    "ditthevadhamme",
+    "facteurs] devrait être désapprouvé et rejeté, il y a ces dix conséquences [dhamma"
+  ]
 }

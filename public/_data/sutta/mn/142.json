@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 142",
   "plTitle": "Dakkhiṇāvibhaṅga Sutta",
   "frTitle": "Explication des offrandes",
   "description": "Le Bouddha explique et hiérarchise les différents types d'offrandes faites à des individus ou au Sangha, et comment une offrande est purifiée.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. atha kho mahāpajāpati gotamī navaṃ dussayugaṃ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnā kho mahāpajāpati gotamī bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Sakyas, à Kapilavatthu, dans le parc de Nigrodha. Ce jour-là, Mahāpajāpati Gotamī, ayant pris un nouvel ensemble de tissus, approcha le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assise là, elle lui dit:"
@@ -190,5 +193,52 @@
       "fr": "Si un individusans [raga|avidité] fait à un individu sans [raga|avidité] un [dana|don]Obtenu droitement, avec un esprit confiant,Convaincu que le résultat de [cette] action sera supérieur,Alors ce [dana|don] est le plus élevé des [dana|dons] de choses matérielles."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "sangha",
+    "ayasma",
+    "dhamma",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "musavada",
+    "smmp",
+    "buddheaveccappasada",
+    "dhammeaveccappasada",
+    "sangheaveccappasada",
+    "sila",
+    "riya",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "par respect lorsqu'il arrive], en le saluant avec les mains jointes, en lui montrant du respect, en lui donnant des [civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "dana",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "paccekabuddha",
+    "anagami",
+    "anagamita",
+    "sakadagami",
+    "sakadagamita",
+    "sotapanna",
+    "sotapatti",
+    "raga",
+    "kama",
+    "puthujjana",
+    "parinibbana",
+    "bhikkhu",
+    "bhikkhuni",
+    "en disant:] 'Fournissez tant de [bhikkhu",
+    "en disant:] 'Fournissez tant de [bhikkhuni",
+    "visuddhi",
+    "cette] action sera supérieur,Alors je dis que ce [dana",
+    "cette] action sera supérieur,Alors ce [dana"
+  ]
 }

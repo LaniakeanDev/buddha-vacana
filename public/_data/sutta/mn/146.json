@@ -1,16 +1,25 @@
-﻿{
+{
   "identifier": "MN 146",
   "plTitle": "Nandakovāda Sutta",
   "frTitle": "L'exhortation de Nandaka",
   "description": "Nandaka donne aux mendiantes une série d'allégories éclairantes pour expliquer l'illusion de la constance des phénomènes, ainsi que ce que signifie le détachement.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "“seyyathāpi, bhaginiyo, telappadīpassa jhāyato: telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā, ābhāpi aniccā vipariṇāmadhammā. yo nu kho, bhaginiyo, evaṃ vadeyya: ‘amussa telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; yā ca khvāssa ābhā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?",
       "fr": "Imaginez, sœurs, une lampe à huile allumée: l'huile est [anicca|impermanente] et sujette au [viparinama|changement], la mèche est [anicca|impermanente] et sujette au [viparinama|changement], la flamme est [anicca|impermanente] et sujette au [viparinama|changement], la lueur est [anicca|impermanente] et sujette au [viparinama|changement]. Celui qui dirait: [i]“Dans cette lampe à huile allumée,l'huile est [anicca|impermanente] et sujette au [viparinama|changement], la mèche est [anicca|impermanente] et sujette au [viparinama|changement], la flamme est [anicca|impermanente] et sujette au [viparinama|changement], mais sa lueur est constante, permanente, éternelle, elle n'est pas sujette au [viparinama|changement]”[/i], parlerait-il correctement?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "— Pourquoi cela?"
+    },
     {
       "pl": "“amussa hi, bhante telappadīpassa jhāyato telampi aniccaṃ vipariṇāmadhammaṃ, vaṭṭipi aniccā vipariṇāmadhammā, accipi aniccā vipariṇāmadhammā; pagevassa ābhā aniccā vipariṇāmadhammā”ti.",
       "fr": "— [bhante|Bhanté], dans cette lampe à huile allumée,l'huile est [anicca|impermanente] et sujette au [viparinama|changement], la mèche est [anicca|impermanente] et sujette au [viparinama|changement], la flamme est [anicca|impermanente] et sujette au [viparinama|changement], donc a fortiori sa lueur est aussi [anicca|impermanente] et sujette au [viparinama|changement]."
@@ -19,8 +28,14 @@
       "pl": "“evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: ‘cha khome ajjhattikā āyatanā aniccā; yañca kho cha ajjhattike āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?",
       "fr": "— De la même manière, sœurs, celui qui dirait: [i]“Ces six médias internes sont [anicca|impermanents], mais ce qui est [vedana|ressenti] à [paccaya|cause] des six médias internes comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre] est constant, permanent, éternel, et n'est pas sujet au [viparinama|changement]”[/i], parlerait-il correctement?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "— Pourquoi cela?"
+    },
     {
       "pl": "“tajjaṃ tajjaṃ, bhante paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti.",
       "fr": "— [bhante|Bhanté], les [vedana|ressentis] apparaissent en étant conditionnés par la [paccaya|cause] correspondante. Les [vedana|ressentis] cessent avec la [nirodha|cessation] de la [paccaya|cause] correspondante."
@@ -33,8 +48,14 @@
       "pl": "“seyyathāpi, bhaginiyo, mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, chāyāpi aniccā vipariṇāmadhammā. yo nu kho, bhaginiyo, evaṃ vadeyya: ‘amussa mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ, yā ca khvāssa chāyā sā niccā dhuvā sassatā avipariṇāmadhammā’ti; sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?",
       "fr": "— Imaginez, sœurs, qu'il y ait un grand arbre possédant du bois de cœur: les racines sont [anicca|impermanentes] et sujettes au [viparinama|changement], le tronc est [anicca|impermanent] et sujet au [viparinama|changement], les branches et les feuilles sont [anicca|impermanentes] et sujettes au [viparinama|changement], et son ombre est [anicca|impermanente] et sujette au [viparinama|changement]. Celui qui dirait: [i]“Dans ce grand arbre possédant du bois de cœur, les racines sont [anicca|impermanentes] et sujettes au [viparinama|changement], le tronc est [anicca|impermanent] et sujet au [viparinama|changement], les branches et les feuilles sont [anicca|impermanentes] et sujettes au [viparinama|changement], mais son ombre est permanente, elle n'est pas sujette au [viparinama|changement]”[/i], parlerait-il correctement?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "— Pourquoi cela?"
+    },
     {
       "pl": "“amussa hi, bhante mahato rukkhassa tiṭṭhato sāravato mūlampi aniccaṃ vipariṇāmadhammaṃ, khandhopi anicco vipariṇāmadhammo, sākhāpalāsampi aniccaṃ vipariṇāmadhammaṃ; pagevassa chāyā aniccā vipariṇāmadhammā”ti.",
       "fr": "— [bhante|Bhanté], dans ce grand arbre possédant du bois de cœur, les racines sont [anicca|impermanentes] et sujettes au [viparinama|changement], le tronc est [anicca|impermanent] et sujet au [viparinama|changement], les branches et les feuilles sont [anicca|impermanentes] et sujettes au [viparinama|changement], donc a fortiori son ombre est aussi [anicca|impermanente] et sujette au [viparinama|changement]."
@@ -43,8 +64,14 @@
       "pl": "“evameva kho, bhaginiyo, yo nu kho evaṃ vadeyya: ‘cha khome bāhirā āyatanā aniccā, yañca kho cha bāhire āyatane paṭicca paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā taṃ niccaṃ dhuvaṃ sassataṃ avipariṇāmadhamman’ti; sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?",
       "fr": "— De la même manière, sœurs, celui qui dirait: [i]“Ces six médias externes sont [anicca|impermanents], mais ce qui est [vedana|ressenti] à [paccaya|cause] des six médias externes comme [sukha|agréable], [dukkha|désagréable] ou [adas|neutre] est constant, permanent, éternel, et n'est pas sujet au [viparinama|changement]”[/i], parlerait-il correctement?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "— Pourquoi cela?"
+    },
     {
       "pl": "“tajjaṃ tajjaṃ, bhante paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti. tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhantī”ti.",
       "fr": "— [bhante|Bhanté], les [vedana|ressentis] apparaissent en étant conditionnés par la [paccaya|cause] correspondante. Les [vedana|ressentis] cessent avec la [nirodha|cessation] de la [paccaya|cause] correspondante."
@@ -57,8 +84,14 @@
       "pl": "“seyyathāpi, bhaginiyo, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā evaṃ vadeyya: ‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti. sammā nu kho so, bhaginiyo, vadamāno vadeyyā”ti?",
       "fr": "— Imaginez, sœurs, qu'un boucher expérimenté ou l'apprenti d'un boucher tue une vache et avec un couteau de boucher bien aiguisé la coupe sans endommager l'ensemble de chair à l'intérieur ni endommager l'ensemble du cuir à l'extérieur. Avec son couteau de boucher bien aiguisé, il trancherait, couperait, sectionnerait et découperait entre les chairs affleurantes, entre les tendons et entre les ligaments. Ayant tranché, coupé, sectionné, découpé et retiré l'ensemble du cuir à l'extérieur, il recouvrirait la vache avec ce cuir et dirait: [i]“De cette manière, la vache est attachée au cuir”[/i]. Parlerait-il correctement?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "— Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "— Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "— Pourquoi cela?"
+    },
     {
       "pl": "“amu hi, bhante dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā tiṇhena govikantanena gāviṃ saṅkanteyya anupahacca antaraṃ maṃsakāyaṃ anupahacca bāhiraṃ cammakāyaṃ. yaṃ yadeva tattha antarā vilimaṃsaṃ antarā nhāru antarā bandhanaṃ taṃ tadeva tiṇhena govikantanena sañchindeyya saṅkanteyya sampakanteyya samparikanteyya. sañchinditvā saṅkantitvā sampakantitvā samparikantitvā vidhunitvā bāhiraṃ cammakāyaṃ teneva cammena taṃ gāviṃ paṭicchādetvā kiñcāpi so evaṃ vadeyya: ‘tathevāyaṃ gāvī saṃyuttā imināva cammenā’ti. atha kho sā gāvī visaṃyuttā teneva cammenā”ti.",
       "fr": "— Dans le cas, [bhante|Bhanté], où un boucher expérimenté ou l'apprenti d'un boucher tuerait une vache et avec un couteau de boucher bien aiguisé la coupe sans endommager l'ensemble de chair à l'intérieur ni endommager l'ensemble du cuir à l'extérieur; avec son couteau de boucher bien aiguisé, il trancherait, couperait, sectionnerait et découperait l'épiderme interne interposé, les tendons interposés et les ligaments interposés; même si, ayant tranché, coupé, sectionné, découpé et retiré l'ensemble du cuir à l'extérieur, il recouvrait la vache avec ce cuir et disait: [i]“De cette manière, la vache est attachée au cuir”[/i], la vache serait tout de même détachée du cuir."
@@ -67,7 +100,33 @@
       "pl": "“upamā kho me ayaṃ, bhaginiyo, katā atthassa viññāpanāya. ayamevettha attho: ‘antarā maṃsakāyo’ti kho, bhaginiyo, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ; ‘bāhiro cammakāyo’ti kho bhaginiyo, channetaṃ bāhirānaṃ āyatanānaṃ adhivacanaṃ; ‘antarā vilimaṃsaṃ, antarā nhāru, antarā bandhanan’ti kho, bhaginiyo, nandīrāgassetaṃ adhivacanaṃ; ‘tiṇhaṃ govikantanan’ti kho, bhaginiyo, ariyāyetaṃ paññāya adhivacanaṃ, yāyaṃ ariyā paññā antarā kilesaṃ antarā saṃyojanaṃ antarā bandhanaṃ sañchindati saṅkantati sampakantati samparikantati.",
       "fr": "— J'ai fait une allégorie, sœurs, pour faire passer un message. Voici quel est son sens: [i]“l'ensemble de chair à l'intérieur' [/i] est une allégorie pour les six médias internes; [i]“l'ensemble du cuir à l'extérieur”[/i] est une allégorie pour les six médias externes; [i]“l'épiderme interne interposé, les tendons interposés, les ligaments interposés”[/i] constituent une allégorie pour la complaisance et l'[raga|avidité]; [i]“un couteau de boucher bien aiguisé”[/i] est une allégorie pour le [ariya|noble] [panna|discernement], le [ariya|noble] [panna|discernement] qui tranche, coupe, sectionne et découpe les [kilesa|souillures de l'esprit] interposées, les [samyojana|entraves spirituelles] interposées, les chaînes [emprisonnantes] interposées."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "anicca",
+    "viparinama",
+    "i]“Dans cette lampe à huile allumée,l'huile est [anicca",
+    "bhante",
+    "i]“Ces six médias internes sont [anicca",
+    "vedana",
+    "paccaya",
+    "sukha",
+    "dukkha",
+    "adas",
+    "nirodha",
+    "ariyasavaka",
+    "yathabhutam",
+    "panna",
+    "i]“Dans ce grand arbre possédant du bois de cœur, les racines sont [anicca",
+    "i]“Ces six médias externes sont [anicca",
+    "i]“l'ensemble de chair à l'intérieur' [/i] est une allégorie pour les six médias internes; [i]“l'ensemble du cuir à l'extérieur”[/i] est une allégorie pour les six médias externes; [i]“l'épiderme interne interposé, les tendons interposés, les ligaments interposés”[/i] constituent une allégorie pour la complaisance et l'[raga",
+    "i]“un couteau de boucher bien aiguisé”[/i] est une allégorie pour le [ariya",
+    "ariya",
+    "kilesa",
+    "samyojana"
+  ]
 }

@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 152",
   "plTitle": "Indriyabhāvanā Sutta",
   "frTitle": "Le développement des facultés",
   "description": "Un discours sur la maîtrise des facultés sensorielles, qui peut être considéré comme des instructions détaillées pour pratiquer la vigilance aux portes des sens. ",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā gajaṅgalāyaṃ viharati veḷuvane. Atha kho uttaro māṇavo pārāsiviyantevāsī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho uttaraṃ māṇavaṃ pārāsiviyantevāsiṃ bhagavā etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Gajaṅgalā dans une bambouseraie. Ce jour-là, le jeune [brahmana|brahmane] Uttara, un disciple de Pārāsiviya, alla trouver le [bhagava|Fortuné] et, à son arrivée, échangea avec lui des salutations amicales et courtoises. Après cet échange de salutations courtoises, il s'assit d'un côté. Alors qu'il était assis là, le [bhagava|Fortuné] lui dit:"
@@ -130,5 +133,28 @@
       "fr": "Ainsi parla le [bhagava|Fortuné]. Satisfait, le [ayasma|vénérable] Ananda se réjouit des paroles du [bhagava|Fortuné]."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "brahmana",
+    "savaka",
+    "indriya",
+    "bho",
+    "ayasma",
+    "vinaya",
+    "ariya",
+    "sugata",
+    "bhikkhu",
+    "bhante",
+    "i]“Ce qui est plaisant est apparu, ce qui est déplaisant est apparu, ou ce qui est plaisant et déplaisant est apparu en moi. Et cela est [sankhata",
+    "upekkha",
+    "/i] Avec cela, la chose plaisante qui était apparue, la chose déplaisante qui était apparue, ou la chose plaisante et déplaisante qui était apparue cesse et l'[upekkha",
+    "/i] Avec cela, la chose plaisante qui était apparue, la chose déplaisante qui était apparue, ou la chose plaisante et déplaisante qui était apparue cesse, et l'[upekkha",
+    "/i] Avec cela, la chose plaisante qui était apparue, la chose déplaisante qui était apparue, la chose plaisante et déplaisante qui était apparue cesse, et l'[upekkha",
+    "patipada",
+    "sekha",
+    "sato",
+    "sampajana",
+    "jhana"
+  ]
 }

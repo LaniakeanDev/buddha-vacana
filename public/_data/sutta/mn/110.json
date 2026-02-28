@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 110",
   "plTitle": "Cūḷa Puṇṇama Sutta",
   "frTitle": "Le moindre discours de la pleine lune",
   "description": "Ici, le Bouddha explique en détail à quoi on peut reconnaître une mauvaise personne et un homme de bien.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti. atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le manoir de la mère de Migāra, dans le monastère de l'est. Ce jour-là, la nuit de pleine lune de l'[uposatha|Ouposatha] du quinzième jour, le [bhagava|Fortuné] était assis à ciel ouvert, entouré de la [sangha|communauté] des [bhikkhu|mendiants]. Alors, ayant balayé du regard la [sangha|communauté] des [bhikkhu|mendiants], qui se tenait très silencieuse, le [bhagava|Fortuné] s'adressa à eux:"
@@ -13,12 +16,18 @@
       "pl": "“jāneyya nu kho, bhikkhave, asappuriso asappurisaṃ: ‘asappuriso ayaṃ bhavan’”ti?",
       "fr": "—[bhikkhu|Mendiants], est-ce qu'une [asappurisa|mauvaise personne] saurait d'une [autre] [asappurisa|mauvaise personne]: [i]“Cet individu est une [asappurisa|mauvaise personne]”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sādhu, bhikkhave; aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ asappuriso asappurisaṃ jāneyya: ‘asappuriso ayaṃ bhavan’ti. jāneyya pana, bhikkhave, asappuriso sappurisaṃ: ‘sappuriso ayaṃ bhavan’”ti?",
       "fr": "—Très bien, [bhikkhu|mendiants]. Il est impossible, il n'y a aucune chance qu'une [asappurisa|mauvaise personne] sache d'une [autre] [asappurisa|mauvaise personne]: [i]“Cet individu est une [asappurisa|mauvaise personne]”[/i]. Et est-ce qu'une [asappurisa|mauvaise personne] saurait d'un [sappurisa|homme de bien]: [i]“Cet individu est un [sappurisa|homme de bien]”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sādhu, bhikkhave; etampi kho, bhikkhave, aṭṭhānaṃ anavakāso yaṃ asappuriso sappurisaṃ jāneyya: ‘sappuriso ayaṃ bhavan’ti. asappuriso, bhikkhave, assaddhammasamannāgato hoti, asappurisabhatti hoti, asappurisacintī hoti, asappurisamantī hoti, asappurisavāco hoti, asappurisakammanto hoti, asappurisadiṭṭhi hoti; asappurisadānaṃ deti”.",
       "fr": "—Très bien, [bhikkhu|mendiants]. Il est impossible, il n'y a aucune chance qu'une [asappurisa|mauvaise personne] sache d'un [sappurisa|homme de bien]: [i]“Cet individu est un [sappurisa|homme de bien]”[/i]. Une [asappurisa|mauvaise personne], [bhikkhu|mendiants], est pourvue de mauvaises [dhamma|qualités], elle a les amitiés d'une [asappurisa|mauvaise personne], elle a les desseins d'une [asappurisa|mauvaise personne], elle conseille comme une [asappurisa|mauvaise personne], elle parle comme une [asappurisa|mauvaise personne], elle agit comme une [asappurisa|mauvaise personne], elle a les [ditthi|vues] d'une [asappurisa|mauvaise personne], et elle donne des [dana|dons] comme une [asappurisa|mauvaise personne]."
@@ -63,12 +72,18 @@
       "pl": "“jāneyya nu kho, bhikkhave, sappuriso sappurisaṃ‘sappuriso ayaṃ bhavan’”ti?",
       "fr": "[bhikkhu|Mendiants], est-ce qu'un [sappurisa|homme de bien] saurait d'un [autre] [sappurisa|homme de bien]: [i]“Cet individu est un [sappurisa|homme de bien]”[/i]?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“sādhu, bhikkhave; ṭhānametaṃ, bhikkhave, vijjati yaṃ sappuriso sappurisaṃ jāneyya: ‘sappuriso ayaṃ bhavan’ti. jāneyya pana, bhikkhave, sappuriso asappurisaṃ: ‘asappuriso ayaṃ bhavan’”ti?",
       "fr": "—Très bien, [bhikkhu|mendiants]. Il est possible, cela arrive qu'un [sappurisa|homme de bien] sache d'un [autre] [sappurisa|homme de bien]: [i]“Cet individu est un [sappurisa|homme de bien]”[/i]. Et est-ce qu'un [sappurisa|homme de bien] saurait d'une [asappurisa|mauvaise personne]: [i]“Cet individu est une [asappurisa|mauvaise personne]”[/i]?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“sādhu, bhikkhave; etampi kho, bhikkhave, ṭhānaṃ vijjati yaṃ sappuriso asappurisaṃ jāneyya: ‘asappuriso ayaṃ bhavan’ti. sappuriso, bhikkhave, saddhammasamannāgato hoti, sappurisabhatti hoti, sappurisacintī hoti, sappurisamantī hoti, sappurisavāco hoti, sappurisakammanto hoti, sappurisadiṭṭhi hoti; sappurisadānaṃ deti”.",
       "fr": "—Très bien, [bhikkhu|mendiants]. Il est possible, cela arrive qu'un [sappurisa|homme de bien] sache d'une [asappurisa|mauvaise personne]: [i]“Cet individu est une [asappurisa|mauvaise personne]”[/i]. Un [sappurisa|homme de bien], [bhikkhu|mendiants], est pourvu de [saddhamma|bonnes qualités], il a les amitiés d'un [sappurisa|homme de bien], il a les desseins d'un [sappurisa|homme de bien], il conseille comme un [sappurisa|homme de bien], il parle comme un [sappurisa|homme de bien], il agit comme un [sappurisa|homme de bien], il a les [ditthi|vues] d'un [sappurisa|homme de bien], et il donne des [dana|dons] comme un [sappurisa|homme de bien]."
@@ -114,5 +129,54 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les mendiants apprécièrent ses paroles."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "uposatha",
+    "sangha",
+    "bhikkhu",
+    "asappurisa",
+    "autre] [asappurisa",
+    "i]“Cet individu est une [asappurisa",
+    "bhante",
+    "/i]. Et est-ce qu'une [asappurisa",
+    "sappurisa",
+    "i]“Cet individu est un [sappurisa",
+    "/i]. Une [asappurisa",
+    "dhamma",
+    "ditthi",
+    "dana",
+    "saddha",
+    "hiri",
+    "ottappa",
+    "panna",
+    "samana",
+    "brahmana",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "i]“Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de résultats aux actions bonnes ou mauvaises, il n'y a pas ce [loka",
+    "loka",
+    "opapatika",
+    "abhinna",
+    "/i] Voici, [bhikkhu",
+    "kaya",
+    "marana",
+    "gati",
+    "niraya",
+    "tiracchanayoni",
+    "autre] [sappurisa",
+    "/i]. Et est-ce qu'un [sappurisa",
+    "/i]. Un [sappurisa",
+    "saddhamma",
+    "@m_bahussuta",
+    "araddhaviriya",
+    "sati",
+    "i]“Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des résultats aux actions bonnes ou mauvaises, il y a ce [loka",
+    "deva"
+  ]
 }

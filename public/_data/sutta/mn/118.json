@@ -1,10 +1,13 @@
-﻿{
+{
   "identifier": "MN 118",
   "plTitle": "Ānāpānasati Sutta",
   "frTitle": "L'attention portée à la respiration",
   "description": "Voici le célèbre discours sur la pratique d'ānāpānasati où le Bouddha explique comment la présence de l'esprit sur la respiration permet de développer les mises en place de la présence d'esprit et les facteurs d'Éveil.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde sambahulehi abhiññātehi abhiññātehi therehi sāvakehi saddhiṃ: āyasmatā ca sāriputtena āyasmatā ca mahāmoggallānena āyasmatā ca mahākassapena āyasmatā ca mahākaccāyanena āyasmatā ca mahākoṭṭhikena āyasmatā ca mahākappinena āyasmatā ca mahācundena āyasmatā ca anuruddhena āyasmatā ca revatena āyasmatā ca ānandena, aññehi ca abhiññātehi abhiññātehi therehi sāvakehi saddhiṃ.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Savatthi, dans le parc de l'Est, au manoir de la mère de Migara, avec un certain nombre de [savaka|disciples] anciens bien connus: le [ayasma|vénérable] Saripoutta, le [ayasma|vénérable] Mahamoggallana, le [ayasma|vénérable] Mahakassapa, le [ayasma|vénérable] Mahakatchayana, le [ayasma|vénérable] Mahakotthika, le [ayasma|vénérable] Mahakappina, le [ayasma|vénérable] Mahatchounda, le [ayasma|vénérable] Anourouddha, le [ayasma|vénérable] Révata, le [ayasma|vénérable] Ananda, ainsi que d'autres [savaka|disciples] anciens bien connus."
@@ -129,7 +132,10 @@
       "pl": "Evaṃ bhāvitā kho, bhikkhave, ānāpānassati evaṃ bahulīkatā maha·p·phalā hoti mah·ānisaṃsā.",
       "fr": "Ainsi développée ainsi cultivée, la [anapanassati|présence de l'esprit sur la respiration] porte porte d'excellents fruits, apporte de grands bienfaits."
     },
-    { "pl": "(Satipaṭṭhānānaṃ pāripūrī)", "fr": "(Complétude des mises en place de la présence d'esprit)" },
+    {
+      "pl": "(Satipaṭṭhānānaṃ pāripūrī)",
+      "fr": "(Complétude des mises en place de la présence d'esprit)"
+    },
     {
       "pl": "kathaṃ bhāvitā ca, bhikkhave, ānāpānassati kathaṃ bahulīkatā cattāro satipaṭṭhāne paripūreti?",
       "fr": "Et comment la [anapanassati|présence de l'esprit sur la respiration] est-elle développée, comment est-elle cultivée afin de porter les quatre [satipatthana|mises en place de la présence d'esprit] à leur complétude?"
@@ -170,12 +176,18 @@
       "pl": "Evaṃ bhāvitā kho, bhikkhave, ānāpānassati evaṃ bahulīkatā cattāro satipaṭṭhāne paripūreti.",
       "fr": "Ainsi développée ainsi cultivée, la [anapanassati|présence de l'esprit sur la respiration] porte les quatre [satipatthana|mises en place de la présence d'esprit] à leur complétude."
     },
-    { "pl": "(Bojjhaṅgānaṃ pāripūrī)", "fr": "(Complétude des facteurs d'Éveil)" },
+    {
+      "pl": "(Bojjhaṅgānaṃ pāripūrī)",
+      "fr": "(Complétude des facteurs d'Éveil)"
+    },
     {
       "pl": "kathaṃ bhāvitā ca, bhikkhave, cattāro satipaṭṭhānā kathaṃ bahulīkatā satta bojjhaṅge paripūrenti?",
       "fr": "Et comment les quatre [satipatthana|mises en place de la présence d'esprit] sont-elles développées, comment sont-elles cultivées afin de porter les sept [bojjhanga|facteurs d'Éveil] à leur complétude?"
     },
-    { "pl": "(1. Kāyānupassanādi)", "fr": "(1. A partir de l'observation du corps)" },
+    {
+      "pl": "(1. Kāyānupassanādi)",
+      "fr": "(1. A partir de l'observation du corps)"
+    },
     {
       "pl": "Yasmiṃ samaye, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ, upaṭṭhitāssa tasmiṃ samaye sati hoti a·sammuṭṭhā. Yasmiṃ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti a·sammuṭṭhā, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Sati·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Lorsque [@f_stp#kaya|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], à ce moment-là sa [sati|présence d'esprit] est mise en place, sans distraction. Lorsque chez un mendiant la [sati|présence d'esprit] est mise en place, sans distraction, à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit], à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] va à la complétude de son [bhavana|développement] chez ce mendiant."
@@ -204,7 +216,10 @@
       "pl": "So tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. Yasmiṃ samaye, bhikkhave, bhikkhu tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Upekkhā·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Il observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré. Lorsque chez un mendiant observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré, à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité], à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] va à la complétude de son [bhavana|développement] chez ce mendiant."
     },
-    { "pl": "(2. Vedanānupassanādi)", "fr": "(2. A partir de l'observation des ressentis)" },
+    {
+      "pl": "(2. Vedanānupassanādi)",
+      "fr": "(2. A partir de l'observation des ressentis)"
+    },
     {
       "pl": "Yasmiṃ samaye, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ, upaṭṭhitāssa tasmiṃ samaye sati hoti a·sammuṭṭhā. Yasmiṃ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti a·sammuṭṭhā, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Sati·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Lorsque [@f_stp#vedana|un mendiant reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], à ce moment-là sa [sati|présence d'esprit] est mise en place, sans distraction. Lorsque chez un mendiant la [sati|présence d'esprit] est mise en place, sans distraction, à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit], à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] va à la complétude de son [bhavana|développement] chez ce mendiant."
@@ -233,7 +248,10 @@
       "pl": "So tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. Yasmiṃ samaye, bhikkhave, bhikkhu tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Upekkhā·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Il observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré. Lorsque chez un mendiant observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré, à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité], à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] va à la complétude de son [bhavana|développement] chez ce mendiant."
     },
-    { "pl": "(3. Cittānupassanādi)", "fr": "(3. A partir de l'observation de l'esprit)" },
+    {
+      "pl": "(3. Cittānupassanādi)",
+      "fr": "(3. A partir de l'observation de l'esprit)"
+    },
     {
       "pl": "Yasmiṃ samaye, bhikkhave, bhikkhu citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ, upaṭṭhitāssa tasmiṃ samaye sati hoti a·sammuṭṭhā. Yasmiṃ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti a·sammuṭṭhā, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Sati·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Lorsque [@f_stp#citta|un mendiant reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], à ce moment-là sa [sati|présence d'esprit] est mise en place, sans distraction. Lorsque chez un mendiant la [sati|présence d'esprit] est mise en place, sans distraction, à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit], à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] va à la complétude de son [bhavana|développement] chez ce mendiant."
@@ -262,7 +280,10 @@
       "pl": "So tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti. Yasmiṃ samaye, bhikkhave, bhikkhu tathā·samāhitaṃ cittaṃ sādhukaṃ ajjhupekkhitā hoti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Upekkhā·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, upekkhā·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Il observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré. Lorsque chez un mendiant observe minutieusement avec[upekkha|équanimité] l'esprit qui est ainsi concentré, à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité], à ce moment-là le [bojjhanga|facteur d'Éveil] d'[upekkha|équanimité] va à la complétude de son [bhavana|développement] chez ce mendiant."
     },
-    { "pl": "(4. Dhammānupassanādi)", "fr": "(4. A partir de l'observation des phénomènes)" },
+    {
+      "pl": "(4. Dhammānupassanādi)",
+      "fr": "(4. A partir de l'observation des phénomènes)"
+    },
     {
       "pl": "Yasmiṃ samaye, bhikkhave, bhikkhu dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ, upaṭṭhitāssa tasmiṃ samaye sati hoti a·sammuṭṭhā. Yasmiṃ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti a·sammuṭṭhā, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno āraddho hoti. Sati·sambojjhaṅgaṃ tasmiṃ samaye bhikkhu bhāveti, sati·sambojjhaṅgo tasmiṃ samaye bhikkhuno bhāvanā·pāripūriṃ gacchati.",
       "fr": "Lorsque [@f_stp#dhamma|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], à ce moment-là sa [sati|présence d'esprit] est mise en place, sans distraction. Lorsque chez un mendiant la [sati|présence d'esprit] est mise en place, sans distraction, à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] est tonifié chez ce mendiant. À ce moment-là, le mendiant cultive le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit], à ce moment-là le [bojjhanga|facteur d'Éveil] de [sati|présence d'esprit] va à la complétude de son [bhavana|développement] chez ce mendiant."
@@ -295,7 +316,10 @@
       "pl": "Evaṃ bhāvitā kho, bhikkhave, cattāro satipaṭṭhānā evaṃ bahulīkatā satta sambojjhaṅge paripūrenti.",
       "fr": "Ainsi développées ainsi cultivées, les quatre [satipatthana|mises en place de la présence d'esprit] portent les septs [bojjhanga|facteurs d'Éveil] à leur complétude."
     },
-    { "pl": "(Vijjāvimutti)", "fr": "(Connaissance correcte et libération)" },
+    {
+      "pl": "(Vijjāvimutti)",
+      "fr": "(Connaissance correcte et libération)"
+    },
     {
       "pl": "kathaṃ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṃ bahulīkatā vijjā·vimuttiṃ paripūrenti?",
       "fr": "Et comment les sept [bojjhanga|facteurs d'Éveil] sont-ils développés, comment sont-ils cultivés afin de porter la [vijja|véritable connaissance] et la [vimutti|libération] à leur complétude?"
@@ -313,5 +337,80 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Satisfaits, les [bhikkhu|mendiants] se réjouirent des paroles du [bhagava|Fortuné]."
     }
   ],
-  "translator": "Rémy"
+  "translator": "Rémy",
+  "keywords": [
+    "bhagava",
+    "savaka",
+    "ayasma",
+    "bhikkhu",
+    "uposatha",
+    "sangha",
+    "patipada",
+    "viriya",
+    "i]“Le [bhagava",
+    "/i]. Les [bhikkhu",
+    "punna",
+    "yojana",
+    "arahant",
+    "asava",
+    "samyojana",
+    "bhava",
+    "dans les Pures Demeures] et y atteindront l'[parinibbana",
+    "loka",
+    "raga",
+    "dosa",
+    "moha",
+    "sakadagami",
+    "dukkha",
+    "sotapanna",
+    "vinipata",
+    "au sort] fixé, destiné à l'[sambodhi",
+    "satipatthana",
+    "sammappadhana",
+    "iddhipada",
+    "indriya",
+    "spirituelles]: il y a de tels [bhikkhu",
+    "bala",
+    "bojjhanga",
+    "ariyaatthangikamagga",
+    "metta",
+    "karuna",
+    "mudita",
+    "upekkha",
+    "de la méditation sur] le [asubha",
+    "sanna",
+    "anicca",
+    "anapanassati",
+    "vijja",
+    "vimutti",
+    "@f_vivitta",
+    "@f_anapana#2-cl",
+    "/i]; lorsqu'il expire profondément, il discerne: [i]“j'expire profondément”[/i]; lorsqu'il inspire superficiellement, il discerne: [i]“j'inspire superficiellement”[/i]; lorsqu'il expire superficiellement, il discerne: [i]“j'expire superficiellement”[/i].] [@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl",
+    "@f_anapana#3-cl",
+    "@f_stp#kaya",
+    "@f_stp#vedana",
+    "vedana",
+    "@f_stp#citta",
+    "sati",
+    "sampajanna",
+    "@f_stp#dhamma",
+    "abhijjha",
+    "domanassa",
+    "panna",
+    "bhavana",
+    "sato",
+    "dhamma",
+    "dhammavicaya",
+    "piti",
+    "niramisa",
+    "passaddhi",
+    "sukha",
+    "samadhi",
+    "viveka",
+    "viraga",
+    "nirodha"
+  ]
 }

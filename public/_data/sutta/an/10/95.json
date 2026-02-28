@@ -2,120 +2,120 @@
   "identifier": "AN 10.95",
   "plTitle": "Uttiya Sutta",
   "frTitle": "Les questions d'Outtiya",
-  "description": "Outtiya pose au Bouddha des questions métaphysiques, que celui-ci met systématiquement de côté. Lorsqu'il explique à Outtiya ce qu'il déclare vraiment, ce dernier continue son questionnement métaphysique. Voyant que le Bouddha ne répond plus, Ananda explique la situation à Outtiya à l'aide d'une allégorie.",
+  "description": "Outtiya pose au Bouddha des questions mÃ©taphysiques, que celui-ci met systÃ©matiquement de cÃ´tÃ©. Lorsqu'il explique Ã  Outtiya ce qu'il dÃ©clare vraiment, ce dernier continue son questionnement mÃ©taphysique. Voyant que le Bouddha ne rÃ©pond plus, Ananda explique la situation Ã  Outtiya Ã  l'aide d'une allÃ©gorie.",
   "body": [
     {
-      "pl": "atha kho uttiyo paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho uttiyo paribbājako bhagavantaṃ etadavoca — ",
-      "fr": "Un jour, Outtiya le [paribbajaka|vagabond spirituel] vint voir le le [bhagava|Fortuné] et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, Outtiya le [paribbajaka|vagabond spirituel] dit au [bhagava|Fortuné]:"
+      "pl": "atha kho uttiyo paribbÄjako yena bhagavÄ tenupasaá¹…kami; upasaá¹…kamitvÄ bhagavatÄ saddhiá¹ƒ sammodi. sammodanÄ«yaá¹ƒ kathaá¹ƒ sÄraá¹‡Ä«yaá¹ƒ vÄ«tisÄretvÄ ekamantaá¹ƒ nisÄ«di. ekamantaá¹ƒ nisinno kho uttiyo paribbÄjako bhagavantaá¹ƒ etadavoca â€” ",
+      "fr": "Un jour, Outtiya le [paribbajaka|vagabond spirituel] vint voir le le [bhagava|FortunÃ©] et Ã©changea des courtoisies avec lui. AprÃ¨s cet Ã©change de courtoisies et de salutations amicales, il s'assit d'un cÃ´tÃ©. Tandis qu'il Ã©tait assis lÃ , Outtiya le [paribbajaka|vagabond spirituel] dit au [bhagava|FortunÃ©]:"
     },
     {
-      "pl": "“kiṃ nu kho, bho gotama, sassato loko, idameva saccaṃ moghamaññan”ti?",
-      "fr": "—«Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il éternel, est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "â€œkiá¹ƒ nu kho, bho gotama, sassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€ti?",
+      "fr": "â€”Â«Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il Ã©ternel, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "“abyākataṃ kho etaṃ, uttiya, mayā — ‘sassato loko, idameva saccaṃ moghamaññan’”ti.",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [loka|monde] est éternel, c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "pl": "â€œabyÄkataá¹ƒ kho etaá¹ƒ, uttiya, mayÄ â€” â€˜sassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™â€ti.",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [loka|monde] est Ã©ternel, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "“kiṃ pana, bho gotama, asassato loko, idameva saccaṃ moghamaññan”ti?",
-      "fr": "—Alors qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il temporaire, est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "â€œkiá¹ƒ pana, bho gotama, asassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€ti?",
+      "fr": "â€”Alors qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il temporaire, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "“etampi kho, uttiya, abyākataṃ mayā — ‘asassato loko, idameva saccaṃ moghamaññan’”ti.",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [loka|monde] est temporaire, c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "pl": "â€œetampi kho, uttiya, abyÄkataá¹ƒ mayÄ â€” â€˜asassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™â€ti.",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [loka|monde] est temporaire, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "“kiṃ nu kho, bho gotama, antavā loko ...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] a-t-il une extrémité, est-ce la seule vérité, toute autre chose étant erronée?"
-    },
-    {
-      "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [loka|monde] a une extrémité, c'est la seule vérité, toute autre chose est erronée.”[/i]"
-    },
-    {
-      "pl": "anantavā loko...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il sans extrémité, est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "â€œkiá¹ƒ nu kho, bho gotama, antavÄ loko ...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] a-t-il une extrÃ©mitÃ©, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
       "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [loka|monde] est sans extrémité, c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [loka|monde] a une extrÃ©mitÃ©, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "taṃ jīvaṃ taṃ sarīraṃ...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, l'âme et le corps ne font-ils qu'un, est-ce la seule vérité, toute autre chose étant erronée?"
-    },
-    {
-      "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“L'âme et le corps ne font qu'un, c'est la seule vérité, toute autre chose est erronée.”[/i]"
-    },
-    {
-      "pl": "aññaṃ jīvaṃ aññaṃ sarīraṃ...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, l'âme et le corps sont-ils différents, est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "anantavÄ loko...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, le [loka|monde] est-il sans extrÃ©mitÃ©, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
       "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“L'âme et le corps sont différents, c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [loka|monde] est sans extrÃ©mitÃ©, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "hoti tathāgato paraṃ maraṇā ...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, le [tathagata|Tathagata] existe-t-il après la [marana|mort], est-ce la seule vérité, toute autre chose étant erronée?"
-    },
-    {
-      "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [tathagata|Tathagata] existe après la [marana|mort], c'est la seule vérité, toute autre chose est erronée.”[/i]"
-    },
-    {
-      "pl": "na hoti tathāgato paraṃ maraṇā...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] n'existe pas après la [marana|mort], est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "taá¹ƒ jÄ«vaá¹ƒ taá¹ƒ sarÄ«raá¹ƒ...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, l'Ã¢me et le corps ne font-ils qu'un, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
       "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [tathagata|Tathagata] n'existe pas après la [marana|mort], c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œL'Ã¢me et le corps ne font qu'un, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "hoti ca na ca hoti tathāgato paraṃ maraṇā...",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] existe et n'existe pas après la [marana|mort], est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "aÃ±Ã±aá¹ƒ jÄ«vaá¹ƒ aÃ±Ã±aá¹ƒ sarÄ«raá¹ƒ...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, l'Ã¢me et le corps sont-ils diffÃ©rents, est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
       "pl": "... pe ...",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [tathagata|Tathagata] existe et n'existe pas après la [marana|mort], c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œL'Ã¢me et le corps sont diffÃ©rents, c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan”ti?",
-      "fr": "—Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort], est-ce la seule vérité, toute autre chose étant erronée?"
+      "pl": "hoti tathÄgato paraá¹ƒ maraá¹‡Ä ...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, le [tathagata|Tathagata] existe-t-il aprÃ¨s la [marana|mort], est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "“etampi kho, uttiya, abyākataṃ mayā — ‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’”ti.",
-      "fr": "—Outtiya, je n'ai pas déclaré: [i]“Le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort], c'est la seule vérité, toute autre chose est erronée.”[/i]"
+      "pl": "... pe ...",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [tathagata|Tathagata] existe aprÃ¨s la [marana|mort], c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "“‘kiṃ nu kho, bho gotama, sassato loko, idameva saccaṃ moghamaññan’ti, iti puṭṭho samāno ‘abyākataṃ kho etaṃ, uttiya, mayā — sassato loko, idameva saccaṃ moghamaññan’ti vadesi. “‘kiṃ pana, bho gotama, asassato loko, idameva saccaṃ moghamaññan’ti, iti puṭṭho samāno — ‘etampi kho, uttiya, abyākataṃ mayā asassato loko, idameva saccaṃ moghamaññan’ti vadesi. “‘kiṃ nu kho, bho gotama, antavā loko ... pe ... anantavā loko... taṃ jīvaṃ taṃ sarīraṃ... aññaṃ jīvaṃ aññaṃ sarīraṃ... hoti tathāgato paraṃ maraṇā... na hoti tathāgato paraṃ maraṇā... hoti ca na ca hoti tathāgato paraṃ maraṇā... neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti, iti puṭṭho samāno — ‘etampi kho, uttiya, abyākataṃ mayā — ‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññan’ti vadesi. atha kiñcarahi bhotā gotamena byākatan”ti?",
-      "fr": "—[bho|Honorable] Gotama, lorsqu'on vous demande si le [loka|monde] est éternel, et si cela est la seule vérité, toute autre chose étant erronée, vous dites que vous n'avez pas déclaré cela. Lorsqu'on vous demande si le [loka|monde] est temporaire (…) le [loka|monde] a une extrémité(…) le [loka|monde] est sans extrémité (…) l'âme et le corps ne font qu'un(…) l'âme et le corps sont différents(…) le [tathagata|Tathagata] existe après la [marana|mort](…) le [tathagata|Tathagata] n'existe pas après la [marana|mort] (…) le [tathagata|Tathagata] existe et n'existe pas après la [marana|mort] (…) le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort], et si cela est la seule vérité, toute autre chose étant erronée, vous dites que vous n'avez pas déclaré cela. Qu'est-ce donc que l'[bho|Honorable] Gotama déclare?"
+      "pl": "na hoti tathÄgato paraá¹ƒ maraá¹‡Ä...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] n'existe pas aprÃ¨s la [marana|mort], est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "“abhiññāya kho ahaṃ, uttiya, sāvakānaṃ dhammaṃ desemi sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāyā”ti.",
-      "fr": "—Outtiya, j'expose la [dhamma|Loi de la Nature] pour la [abhinna|connaissance directe], pour la purification des êtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-être] & [domanassa|déplaisance mentale], pour l'acquisition de la bonne méthode, et pour l'accomplissement de l'[nibbana|Extinction]."
+      "pl": "... pe ...",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [tathagata|Tathagata] n'existe pas aprÃ¨s la [marana|mort], c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "“yaṃ panetaṃ bhavaṃ gotamo abhiññāya sāvakānaṃ dhammaṃ desesi sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, sabbo vā tena loko nīyati upaḍḍho vā tibhāgo vā”ti?",
-      "fr": "—Mais alors, lorsque l'[bho|Honorable] Gotama expose la [dhamma|Loi de la Nature] pour la [abhinna|connaissance directe], pour la purification des êtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-être] & [domanassa|déplaisance mentale], pour l'acquisition de la bonne méthode, et pour l'accomplissement de l'[nibbana|Extinction], est-ce que tous sont sauvés par cela, ou bien seulement la moitié, ou seulement un tiers?»"
-    },
-    { "pl": "evaṃ vutte bhagavā tuṇhī ahosi.", "fr": "Lorsqu'il eut dit cela, le Fortuné resta silencieux." },
-    {
-      "pl": "atha kho āyasmato ānandassa etadahosi — “mā hevaṃ kho uttiyo paribbājako pāpakaṃ diṭṭhigataṃ paṭilabhi — ‘sabbasāmukkaṃsikaṃ vata me samaṇo gotamo pañhaṃ puṭṭho saṃsādeti, no vissajjeti, na nūna visahatī’ti. tadassa uttiyassa paribbājakassa dīgharattaṃ ahitāya dukkhāyā”ti.",
-      "fr": "Alors le [ayasma|vénérable] Ananda se dit: [i]“Qu'Outtiya le [paribbajaka|vagabond spirituel] n'acquière pas la [ditthi|vue] malsaine suivante: ‘Lorsque je pose au renonçant Gotama la plus élevée de toutes les questions, il la laisse de côté, il n'y répond pas; c'est certainement parce qu'il n'en est pas capable.’ Car cela lui porterait préjudice et mènerait à son [dukkha|mal-être] pour longtemps.”[/i]"
+      "pl": "hoti ca na ca hoti tathÄgato paraá¹ƒ maraá¹‡Ä...",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] existe et n'existe pas aprÃ¨s la [marana|mort], est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "atha kho āyasmā ānando uttiyaṃ paribbājakaṃ etadavoca —",
-      "fr": "Alors le [ayasma|vénérable] Ananda dit à Outtiya le [paribbajaka|vagabond spirituel]:"
+      "pl": "... pe ...",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [tathagata|Tathagata] existe et n'existe pas aprÃ¨s la [marana|mort], c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
     },
     {
-      "pl": "“tenahāvuso uttiya, upamaṃ te karissāmi. upamāya midhekacce viññū purisā bhāsitassa atthaṃ ājānanti. seyyathāpi, āvuso uttiya, rañño paccantimaṃ nagaraṃ daḷhuddhāpaṃ daḷhapākāratoraṇaṃ ekadvāraṃ. tatrassa dovāriko paṇḍito byatto medhāvī aññātānaṃ nivāretā ñātānaṃ pavesetā. so tassa nagarassa samantā anupariyāyapathaṃ anukkamati. anupariyāyapathaṃ anukkamamāno na passeyya pākārasandhiṃ vā pākāravivaraṃ vā, antamaso biḷāranikkhamanamattampi. no ca khvassa evaṃ ñāṇaṃ hoti — ‘ettakā pāṇā imaṃ nagaraṃ pavisanti vā nikkhamanti vā’ti. atha khvassa evamettha hoti — ‘ye kho keci oḷārikā pāṇā imaṃ nagaraṃ pavisanti vā nikkhamanti vā, sabbe te iminā dvārena pavisanti vā nikkhamanti vā’ti.",
-      "fr": "«Ami Outtiya, je vais te proposer une allégorie. Certaines personnes perspicaces comprennent le sens de la parole au moyen d'une allégorie. Imagine, ami Outtiya, une forteresse royale de frontière, entourée d'un puissant rempart, avec une seule porte. Un gardien [pandita|sage], compétent et intelligent, refoulerait les inconnus et laisserait entrer ceux qui sont connus. Il suivrait un chemin faisant le tour de la citadelle. En suivant ce chemin, il ne verrait pas d'ouverture ni de brèche dans les remparts, pas même suffisamment grande pour qu'un chat puisse passer au travers. Il ne saurait pas combien d'êtres vivants entrent et sortent de la citadelle, mais il saurait que tous les êtres vivants d'une certaine taille qui entrent et sortent de la citadelle, entrent et sortent tous en passant par cette porte."
+      "pl": "neva hoti na na hoti tathÄgato paraá¹ƒ maraá¹‡Ä, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€ti?",
+      "fr": "â€”Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [tathagata|Tathagata] ni n'existe ni n'existe pas aprÃ¨s la [marana|mort], est-ce la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e?"
     },
     {
-      "pl": "“evamevaṃ kho, āvuso uttiya, na tathāgatassa evaṃ ussukkaṃ hoti — ‘sabbo vā tena loko nīyati, upaḍḍho vā, tibhāgo vā’ti. atha kho evamettha tathāgatassa hoti — ‘ye kho keci lokamhā nīyiṃsu vā nīyanti vā nīyissanti vā, sabbe te pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṃ bhāvetvā. evamete lokamhā nīyiṃsu vā nīyanti vā nīyissanti vā’ti. yadeva kho tvaṃ, āvuso uttiya, bhagavantaṃ pañhaṃ apucchi tadevetaṃ pañhaṃ bhagavantaṃ aññena pariyāyena apucchi. tasmā te taṃ bhagavā na byākāsī”ti.",
-      "fr": "De la même manière, ami Outtiya, le [tathagata|Tathagata] ne se fixe pas d'objectif tel que de sauver tout le [loka|monde], ou seulement la moitié ou le tiers. Mais il sait que tous ceux qui se sont sauvés du [loka|monde], qui s'en sauvent ou qui s'en sauveront, le font tous en abandonnant les cinq [nivarana|obstructions], souillures de l'esprit qui affaiblissent le [panna|discernement], en mettant bien en place les quatre [satipatthana|mises en place de la présence d'esprit], et en développant tels qu'ils sont réellement les sept [bojjhanga|facteurs d'Éveil]. Voici quels sont ceux qui se sont sauvés du [loka|monde], qui s'en sauvent ou qui s'en sauveront. Ami Outtiya, vous avez posé au [bhagava|Fortuné] la même question que précédemment, d'une autre manière. Voici pourquoi le [bhagava|Fortuné] n'a pas répondu.»"
+      "pl": "â€œetampi kho, uttiya, abyÄkataá¹ƒ mayÄ â€” â€˜neva hoti na na hoti tathÄgato paraá¹ƒ maraá¹‡Ä, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™â€ti.",
+      "fr": "â€”Outtiya, je n'ai pas dÃ©clarÃ©: [i]â€œLe [tathagata|Tathagata] ni n'existe ni n'existe pas aprÃ¨s la [marana|mort], c'est la seule vÃ©ritÃ©, toute autre chose est erronÃ©e.â€[/i]"
+    },
+    {
+      "pl": "â€œâ€˜kiá¹ƒ nu kho, bho gotama, sassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™ti, iti puá¹­á¹­ho samÄno â€˜abyÄkataá¹ƒ kho etaá¹ƒ, uttiya, mayÄ â€” sassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™ti vadesi. â€œâ€˜kiá¹ƒ pana, bho gotama, asassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™ti, iti puá¹­á¹­ho samÄno â€” â€˜etampi kho, uttiya, abyÄkataá¹ƒ mayÄ asassato loko, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™ti vadesi. â€œâ€˜kiá¹ƒ nu kho, bho gotama, antavÄ loko ... pe ... anantavÄ loko... taá¹ƒ jÄ«vaá¹ƒ taá¹ƒ sarÄ«raá¹ƒ... aÃ±Ã±aá¹ƒ jÄ«vaá¹ƒ aÃ±Ã±aá¹ƒ sarÄ«raá¹ƒ... hoti tathÄgato paraá¹ƒ maraá¹‡Ä... na hoti tathÄgato paraá¹ƒ maraá¹‡Ä... hoti ca na ca hoti tathÄgato paraá¹ƒ maraá¹‡Ä... neva hoti na na hoti tathÄgato paraá¹ƒ maraá¹‡Ä, idameva saccaá¹ƒ moghamaÃ±Ã±anti, iti puá¹­á¹­ho samÄno â€” â€˜etampi kho, uttiya, abyÄkataá¹ƒ mayÄ â€” â€˜neva hoti na na hoti tathÄgato paraá¹ƒ maraá¹‡Ä, idameva saccaá¹ƒ moghamaÃ±Ã±anâ€™ti vadesi. atha kiÃ±carahi bhotÄ gotamena byÄkatanâ€ti?",
+      "fr": "â€”[bho|Honorable] Gotama, lorsqu'on vous demande si le [loka|monde] est Ã©ternel, et si cela est la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e, vous dites que vous n'avez pas dÃ©clarÃ© cela. Lorsqu'on vous demande si le [loka|monde] est temporaire (â€¦) le [loka|monde] a une extrÃ©mitÃ©(â€¦) le [loka|monde] est sans extrÃ©mitÃ© (â€¦) l'Ã¢me et le corps ne font qu'un(â€¦) l'Ã¢me et le corps sont diffÃ©rents(â€¦) le [tathagata|Tathagata] existe aprÃ¨s la [marana|mort](â€¦) le [tathagata|Tathagata] n'existe pas aprÃ¨s la [marana|mort] (â€¦) le [tathagata|Tathagata] existe et n'existe pas aprÃ¨s la [marana|mort] (â€¦) le [tathagata|Tathagata] ni n'existe ni n'existe pas aprÃ¨s la [marana|mort], et si cela est la seule vÃ©ritÃ©, toute autre chose Ã©tant erronÃ©e, vous dites que vous n'avez pas dÃ©clarÃ© cela. Qu'est-ce donc que l'[bho|Honorable] Gotama dÃ©clare?"
+    },
+    {
+      "pl": "â€œabhiÃ±Ã±Äya kho ahaá¹ƒ, uttiya, sÄvakÄnaá¹ƒ dhammaá¹ƒ desemi sattÄnaá¹ƒ visuddhiyÄ sokaparidevÄnaá¹ƒ samatikkamÄya dukkhadomanassÄnaá¹ƒ atthaá¹…gamÄya Ã±Äyassa adhigamÄya nibbÄnassa sacchikiriyÄyÄâ€ti.",
+      "fr": "â€”Outtiya, j'expose la [dhamma|Loi de la Nature] pour la [abhinna|connaissance directe], pour la purification des Ãªtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-Ãªtre] & [domanassa|dÃ©plaisance mentale], pour l'acquisition de la bonne mÃ©thode, et pour l'accomplissement de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "â€œyaá¹ƒ panetaá¹ƒ bhavaá¹ƒ gotamo abhiÃ±Ã±Äya sÄvakÄnaá¹ƒ dhammaá¹ƒ desesi sattÄnaá¹ƒ visuddhiyÄ sokaparidevÄnaá¹ƒ samatikkamÄya dukkhadomanassÄnaá¹ƒ atthaá¹…gamÄya Ã±Äyassa adhigamÄya nibbÄnassa sacchikiriyÄya, sabbo vÄ tena loko nÄ«yati upaá¸á¸ho vÄ tibhÄgo vÄâ€ti?",
+      "fr": "â€”Mais alors, lorsque l'[bho|Honorable] Gotama expose la [dhamma|Loi de la Nature] pour la [abhinna|connaissance directe], pour la purification des Ãªtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-Ãªtre] & [domanassa|dÃ©plaisance mentale], pour l'acquisition de la bonne mÃ©thode, et pour l'accomplissement de l'[nibbana|Extinction], est-ce que tous sont sauvÃ©s par cela, ou bien seulement la moitiÃ©, ou seulement un tiers?Â»"
+    },
+    { "pl": "evaá¹ƒ vutte bhagavÄ tuá¹‡hÄ« ahosi.", "fr": "Lorsqu'il eut dit cela, le FortunÃ© resta silencieux." },
+    {
+      "pl": "atha kho Äyasmato Änandassa etadahosi â€” â€œmÄ hevaá¹ƒ kho uttiyo paribbÄjako pÄpakaá¹ƒ diá¹­á¹­higataá¹ƒ paá¹­ilabhi â€” â€˜sabbasÄmukkaá¹ƒsikaá¹ƒ vata me samaá¹‡o gotamo paÃ±haá¹ƒ puá¹­á¹­ho saá¹ƒsÄdeti, no vissajjeti, na nÅ«na visahatÄ«â€™ti. tadassa uttiyassa paribbÄjakassa dÄ«gharattaá¹ƒ ahitÄya dukkhÄyÄâ€ti.",
+      "fr": "Alors le [ayasma|vÃ©nÃ©rable] Ananda se dit: [i]â€œQu'Outtiya le [paribbajaka|vagabond spirituel] n'acquiÃ¨re pas la [ditthi|vue] malsaine suivante: â€˜Lorsque je pose au renonÃ§ant Gotama la plus Ã©levÃ©e de toutes les questions, il la laisse de cÃ´tÃ©, il n'y rÃ©pond pas; c'est certainement parce qu'il n'en est pas capable.â€™ Car cela lui porterait prÃ©judice et mÃ¨nerait Ã  son [dukkha|mal-Ãªtre] pour longtemps.â€[/i]"
+    },
+    {
+      "pl": "atha kho ÄyasmÄ Änando uttiyaá¹ƒ paribbÄjakaá¹ƒ etadavoca â€”",
+      "fr": "Alors le [ayasma|vÃ©nÃ©rable] Ananda dit Ã  Outtiya le [paribbajaka|vagabond spirituel]:"
+    },
+    {
+      "pl": "â€œtenahÄvuso uttiya, upamaá¹ƒ te karissÄmi. upamÄya midhekacce viÃ±Ã±Å« purisÄ bhÄsitassa atthaá¹ƒ ÄjÄnanti. seyyathÄpi, Ävuso uttiya, raÃ±Ã±o paccantimaá¹ƒ nagaraá¹ƒ daá¸·huddhÄpaá¹ƒ daá¸·hapÄkÄratoraá¹‡aá¹ƒ ekadvÄraá¹ƒ. tatrassa dovÄriko paá¹‡á¸ito byatto medhÄvÄ« aÃ±Ã±ÄtÄnaá¹ƒ nivÄretÄ Ã±ÄtÄnaá¹ƒ pavesetÄ. so tassa nagarassa samantÄ anupariyÄyapathaá¹ƒ anukkamati. anupariyÄyapathaá¹ƒ anukkamamÄno na passeyya pÄkÄrasandhiá¹ƒ vÄ pÄkÄravivaraá¹ƒ vÄ, antamaso biá¸·Äranikkhamanamattampi. no ca khvassa evaá¹ƒ Ã±Äá¹‡aá¹ƒ hoti â€” â€˜ettakÄ pÄá¹‡Ä imaá¹ƒ nagaraá¹ƒ pavisanti vÄ nikkhamanti vÄâ€™ti. atha khvassa evamettha hoti â€” â€˜ye kho keci oá¸·ÄrikÄ pÄá¹‡Ä imaá¹ƒ nagaraá¹ƒ pavisanti vÄ nikkhamanti vÄ, sabbe te iminÄ dvÄrena pavisanti vÄ nikkhamanti vÄâ€™ti.",
+      "fr": "Â«Ami Outtiya, je vais te proposer une allÃ©gorie. Certaines personnes perspicaces comprennent le sens de la parole au moyen d'une allÃ©gorie. Imagine, ami Outtiya, une forteresse royale de frontiÃ¨re, entourÃ©e d'un puissant rempart, avec une seule porte. Un gardien [pandita|sage], compÃ©tent et intelligent, refoulerait les inconnus et laisserait entrer ceux qui sont connus. Il suivrait un chemin faisant le tour de la citadelle. En suivant ce chemin, il ne verrait pas d'ouverture ni de brÃ¨che dans les remparts, pas mÃªme suffisamment grande pour qu'un chat puisse passer au travers. Il ne saurait pas combien d'Ãªtres vivants entrent et sortent de la citadelle, mais il saurait que tous les Ãªtres vivants d'une certaine taille qui entrent et sortent de la citadelle, entrent et sortent tous en passant par cette porte."
+    },
+    {
+      "pl": "â€œevamevaá¹ƒ kho, Ävuso uttiya, na tathÄgatassa evaá¹ƒ ussukkaá¹ƒ hoti â€” â€˜sabbo vÄ tena loko nÄ«yati, upaá¸á¸ho vÄ, tibhÄgo vÄâ€™ti. atha kho evamettha tathÄgatassa hoti â€” â€˜ye kho keci lokamhÄ nÄ«yiá¹ƒsu vÄ nÄ«yanti vÄ nÄ«yissanti vÄ, sabbe te paÃ±ca nÄ«varaá¹‡e pahÄya cetaso upakkilese paÃ±Ã±Äya dubbalÄ«karaá¹‡e, catÅ«su satipaá¹­á¹­hÄnesu suppatiá¹­á¹­hitacittÄ, satta bojjhaá¹…ge yathÄbhÅ«taá¹ƒ bhÄvetvÄ. evamete lokamhÄ nÄ«yiá¹ƒsu vÄ nÄ«yanti vÄ nÄ«yissanti vÄâ€™ti. yadeva kho tvaá¹ƒ, Ävuso uttiya, bhagavantaá¹ƒ paÃ±haá¹ƒ apucchi tadevetaá¹ƒ paÃ±haá¹ƒ bhagavantaá¹ƒ aÃ±Ã±ena pariyÄyena apucchi. tasmÄ te taá¹ƒ bhagavÄ na byÄkÄsÄ«â€ti.",
+      "fr": "De la mÃªme maniÃ¨re, ami Outtiya, le [tathagata|Tathagata] ne se fixe pas d'objectif tel que de sauver tout le [loka|monde], ou seulement la moitiÃ© ou le tiers. Mais il sait que tous ceux qui se sont sauvÃ©s du [loka|monde], qui s'en sauvent ou qui s'en sauveront, le font tous en abandonnant les cinq [nivarana|obstructions], souillures de l'esprit qui affaiblissent le [panna|discernement], en mettant bien en place les quatre [satipatthana|mises en place de la prÃ©sence d'esprit], et en dÃ©veloppant tels qu'ils sont rÃ©ellement les sept [bojjhanga|facteurs d'Ã‰veil]. Voici quels sont ceux qui se sont sauvÃ©s du [loka|monde], qui s'en sauvent ou qui s'en sauveront. Ami Outtiya, vous avez posÃ© au [bhagava|FortunÃ©] la mÃªme question que prÃ©cÃ©demment, d'une autre maniÃ¨re. Voici pourquoi le [bhagava|FortunÃ©] n'a pas rÃ©pondu.Â»"
     }
   ],
   "translator": "Sekha"

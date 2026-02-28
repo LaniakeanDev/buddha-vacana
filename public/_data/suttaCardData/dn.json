@@ -1,13 +1,22 @@
 [
   {
-    "identifier": "DN 1",
-    "plTitle": "Brahmajāla Sutta",
-    "frTitle": "Le filet contenant toutes les opinions",
-    "description": "Dans le but de montrer les raisons non triviales de faire l'éloge du Bouddha, celui-ci formule un long discours qui catégorise en 62 types toutes les croyances que les hommes pourront jamais formuler à propos de la nature de l'existence.",
-    "translator": "Remy",
-    "keywords": ["jour", "Fortuné", "nombreux", "environ"],
+    "identifier": "DN 2",
+    "plTitle": "Sāmaññaphala Sutta",
+    "frTitle": "Les fruits de la vie de renoncement",
+    "description": "Le Bouddha explique au roi Ajatassattou quels sont les fruits du renoncement.",
+    "translator": " Rémy",
     "nikaya": "dn",
-    "id": "1",
-    "readingTime": 0
+    "id": "2",
+    "readingTime": 98
+  },
+  {
+    "identifier": "DN 22",
+    "plTitle": "Mahāsatipaṭṭhāna Sutta",
+    "frTitle": "Le grand discours sur l'établissement de l'attention",
+    "description": "Le Mahāsatipaṭṭhāna Sutta est une référence fondamentaledans l'enseignement du Bouddha, car il expose en détail ce qu'il décrivait comme la voie la plus directe menant à [nibbana|Nibbāna]. Ce long discours décrit les instructions relatives aux différentes pratiques de méditations recommandées par le Bouddha, et contient également une explication détaillée des quatre nobles vérités.",
+    "translator": "Rémy",
+    "nikaya": "dn",
+    "id": "22",
+    "readingTime": 73
   }
 ]
