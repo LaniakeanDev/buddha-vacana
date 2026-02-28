@@ -82,6 +82,7 @@ async function extractSuttaCardMetadataFromFolder(folderPath, nikaya) {
   const extractedSuttaCardMetadata = [];
   for (const file of files) {
     const filePath = path_1.default.join(folderPath, file);
+    console.log(`parsing ${filePath}`);
     const content = await promises_1.default.readFile(filePath, 'utf8');
     const suttaData = JSON.parse(content);
     if (!(0, typeguards_1.isISuttaData)(suttaData)) {

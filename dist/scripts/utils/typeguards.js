@@ -5,6 +5,7 @@ exports.isCorrectKNSuttaId = exports.isKNBook = exports.isToolCardDataArray = vo
 exports.isIDisplaySuttaCardDataArray = isIDisplaySuttaCardDataArray;
 exports.isISuttaData = isISuttaData;
 exports.isISuttaDataArray = isISuttaDataArray;
+exports.isIGlossEntryBodyParagsSection = isIGlossEntryBodyParagsSection;
 exports.isIGlossEntryData = isIGlossEntryData;
 const hasRequiredProperties = (obj, keys) => {
   return keys.every((key) => key in obj);
@@ -189,13 +190,52 @@ function isISuttaDataArray(data) {
   }
   return data.every((item) => isISuttaData(item));
 }
+function isISuttaBlock(data) {
+  const potentialISuttaBlock = data;
+  if (typeof potentialISuttaBlock.pl !== 'string' || typeof potentialISuttaBlock.fr !== 'string') return false;
+  return true;
+}
+function isIGlossEntryBodyParagsSection(data) {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyParagsSection = data;
+  if (!Array.isArray(potentialGlossEntryBodyParagsSection.parags)) {
+    return false;
+  }
+  const parags = potentialGlossEntryBodyParagsSection.parags;
+  return parags.every((parag) => typeof parag == 'string');
+}
+function isIGlossEntryBodyQuoteSection(data) {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyQuoteSection = data;
+  if (!potentialGlossEntryBodyQuoteSection.quote) return false;
+  const potentialGlossEntryBodyQuoteSectionQuote = potentialGlossEntryBodyQuoteSection.quote;
+  if (typeof potentialGlossEntryBodyQuoteSectionQuote.source !== 'string') return false;
+  if (!Array.isArray(potentialGlossEntryBodyQuoteSectionQuote.parags)) {
+    return false;
+  }
+  return potentialGlossEntryBodyQuoteSectionQuote.parags.every((section) => isISuttaBlock(section));
+}
 function isIGlossEntryData(data) {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
   const potentialGlossEntry = data;
-  if (typeof potentialGlossEntry.id !== 'string' || typeof potentialGlossEntry.content !== 'string') {
+  if (typeof potentialGlossEntry.id !== 'string') {
     return false;
   }
-  return true;
+  if (!potentialGlossEntry.content) return false;
+  const potentialGlossContent = potentialGlossEntry.content;
+  if (typeof potentialGlossContent.title !== 'string' || typeof potentialGlossContent.translation !== 'string')
+    return false;
+  const potentialGlossContentBody = potentialGlossContent.body;
+  if (!Array.isArray(potentialGlossContentBody)) {
+    return false;
+  }
+  return potentialGlossContentBody.every(
+    (block) => isIGlossEntryBodyParagsSection(block) || isIGlossEntryBodyQuoteSection(block),
+  );
 }

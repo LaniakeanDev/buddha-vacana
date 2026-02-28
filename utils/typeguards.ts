@@ -155,7 +155,8 @@ export function isISuttaData(data: unknown): data is ISuttaData {
     typeof potentialSutta.identifier !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
-    typeof potentialSutta.description !== 'string'
+    typeof potentialSutta.description !== 'string' ||
+    typeof potentialSutta.translation !== 'string'
   ) {
     return false;
   }
@@ -175,10 +176,10 @@ export function isISuttaData(data: unknown): data is ISuttaData {
     }
   }
 
-  if (!Array.isArray(potentialSutta.keywords)) return false;
-  for (const keyword of potentialSutta.keywords) {
-    if (typeof keyword !== 'string') return false;
-  }
+  // if (!Array.isArray(potentialSutta.keywords)) return false;
+  // for (const keyword of potentialSutta.keywords) {
+  //   if (typeof keyword !== 'string') return false;
+  // }
 
   return true;
 }

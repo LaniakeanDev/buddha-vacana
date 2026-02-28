@@ -91,8 +91,10 @@ async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: st
   const extractedSuttaCardMetadata: SuttaMetadata[] = [];
   for (const file of files) {
     const filePath = path.join(folderPath, file);
+    console.log(`parsing ${filePath}`);
     const content = await fs.readFile(filePath, 'utf8');
-    const suttaData = JSON.parse(content);
+    const utf8Content = content.replace(/^\uFEFF/, '');
+    const suttaData = JSON.parse(utf8Content);
     if (!isISuttaData(suttaData)) {
       console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
     }
