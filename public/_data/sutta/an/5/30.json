@@ -4,7 +4,10 @@
   "frTitle": "À Naguita",
   "description": "Des brahmanes venus apporter des offrandes font du vacarme. Le Bouddha en profite pour donner une leçon de renoncement à son intendant du moment, Naguita.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe. assosuṃ kho icchānaṅgalakā brāhmaṇagahapatikā:",
       "fr": "Un jour, en voyageant à pied à travers le Kosala avec un grand groupe de [bhikkhu|mendiants], le [bhagava|Fortuné] arriva à un village de [brahmana|brahmanes] du Kosala qui s'appelait Itchanangala. Le [bhagava|Fortuné] séjourna alors près d'Itchanangala, dans le maquis forestier d'Itchanangala. Les [brahmana|brahmanes] maîtres de maison d'Itchanangala entendirent:"
@@ -46,6 +49,42 @@
       "fr": "Naguita, ce qui est mangé, bu, consommé & goûté, [se transforme] en excréments & urine: c'est leur résultat. Naguita, avec le changement et l'altération des choses qui sont chères, le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] apparaissent: c'est leur résultat. Naguita, chez celui qui se dédie à la pratique [d'observation] des [nimitta|objets] [asubha|répugnants], un dégoût envers les [nimitta|objets] [subha|agréables] s'installe: c'est son résultat. Naguita, chez celui qui reste à observer l'[anicca|impermanence] dans les six [ayatana|sphères] de [phassa|contact], un dégoût envers le [phassa|contact] s'installe: c'est son résultat. Naguita, chez celui qui reste à observer l'apparition et l'extinction dans les cinq [upadanakkhandha|accumulations d'attachement], un dégoût envers l'[upadana|attachement] s'installe: c'est son résultat."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "brahmana",
+    "samana",
+    "@f_anussati#anussati-1-cl",
+    "deva",
+    "mara",
+    "brahma",
+    "abhinna",
+    "dhamma",
+    "brahmacariya",
+    "arahant",
+    "ayasma",
+    "bhante",
+    "sangha",
+    "sukha",
+    "nekkhamma",
+    "paviveka",
+    "upasama",
+    "sambodhi",
+    "lss",
+    "sugata",
+    "sila",
+    "panna",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "nimitta",
+    "asubha",
+    "subha",
+    "anicca",
+    "ayatana",
+    "phassa",
+    "upadanakkhandha",
+    "upadana"
+  ],
   "translator": "Rémy"
 }

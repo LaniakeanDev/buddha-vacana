@@ -4,7 +4,10 @@
   "frTitle": "Conversation avec le prince Abhaya",
   "description": "Le prince Abhaya va voir le Bouddha au Pic des Vautours pour lui demander son avis à propos des causes et des raisons pour l'absence ou la présence de la connaissance et de la vision (ñāṇa·dassana). ",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. atha kho abhayo rājakumāro yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho abhayo rājakumāro bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri au Pic des Vautours. Ce jour-là, le prince Abhaya alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -45,7 +48,10 @@
       "pl": "“ko nāmāyaṃ, bhante, dhammapariyāyo”ti?",
       "fr": "—[bhante|Bhanté], quel est le nom de cet exposé du [dhamma|Dhamma]?"
     },
-    { "pl": "“nīvaraṇā nāmete, rājakumārā”ti.", "fr": "—Prince, on les appelle les [nivarana|obstructions]." },
+    {
+      "pl": "“nīvaraṇā nāmete, rājakumārā”ti.",
+      "fr": "—Prince, on les appelle les [nivarana|obstructions]."
+    },
     {
       "pl": "“taggha, bhagavā, nīvaraṇā; taggha, sugata, nīvaraṇā! ekamekenapi kho, bhante, nīvaraṇena abhibhūto yathābhūtaṃ na jāneyya na passeyya, ko pana vādo pañcahi nīvaraṇehi!",
       "fr": "—Vraiment, [bhante|Bhanté], ce sont des [nivarana|obstructions]! Vraiment, Sublime, ce sont des [nivarana|obstructions]! [bhante|Bhanté], en étant dominé par une seule de ces [nivarana|obstructions], on ne connaîtrait pas, on ne verrait pas [les phénomènes] [yathabhutam|tels qu'ils sont réellement], alors que dire de ces cinq [nivarana|obstructions] [ensemble]!"
@@ -86,12 +92,42 @@
       "pl": "“ko nāmāyaṃ, bhante, dhammapariyāyo”ti?",
       "fr": "—[bhante|Bhanté], quel est le nom de cet exposé du [dhamma|Dhamma]?"
     },
-    { "pl": "“bojjhaṅgā nāmete, rājakumārā”ti.", "fr": "—Prince, on les appelle les [sambojjhanga|facteurs d'Éveil]." },
+    {
+      "pl": "“bojjhaṅgā nāmete, rājakumārā”ti.",
+      "fr": "—Prince, on les appelle les [sambojjhanga|facteurs d'Éveil]."
+    },
     {
       "pl": "“taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgā! ekamekenapi kho, bhante, bojjhaṅgena samannāgato yathābhūtaṃ jāneyya passeyya, ko pana vādo sattahi bojjhaṅgehi? yopi me, bhante, gijjhakūṭaṃ pabbataṃ ārohantassa kāyakilamatho cittakilamatho, sopi me paṭippassaddho, dhammo ca me abhisamito”ti.",
       "fr": "—Vraiment, [bhante|Bhanté], ce sont des [sambojjhanga|facteurs d'Éveil]! Vraiment, Sublime, ce sont des [sambojjhanga|facteurs d'Éveil]! [bhante|Bhanté], en étant pourvu d'un seul de ces [sambojjhanga|facteurs d'Éveil], on connaîtrait, on verrait [les phénomènes] [yathabhutam|tels qu'ils sont réellement], alors que dire de ces sept [sambojjhanga|facteurs d'Éveil] [ensemble]! [bhante|Bhanté], toute la fatigue physique et mentale due à l'ascension du Pic des Vautours s'est évaporée, et j'ai complètement compris le [dhamma|Dhamma]!"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "hetu",
+    "paccaya",
+    "citta",
+    "kamaraga",
+    "yathabhutam",
+    "nissarana",
+    "byapada",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "vicikiccha",
+    "dhamma",
+    "nivarana",
+    "bhikkhu",
+    "sambojjhanga",
+    "sati",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha"
+  ],
   "translator": "Rémy"
 }

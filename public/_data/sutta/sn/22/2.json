@@ -4,7 +4,10 @@
   "frTitle": "Au Lac divin",
   "description": "Un groupe de mendiants s'apprête à partir dans des contrées où l'enseignement du Bouddha est moins connu. Avant de partir, le Bouddha les encourage à consulter Saripoutta, qui leur donne des conseils pour répondre aux questions qui leur seront posées.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati devadahaṃ nāma sakyānaṃ nigamo. atha kho sambahulā pacchābhūmagamikā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Sakyans près d'un village des Sakyans appelé le Lac divin. Ce jour-là, un grand nombre de [bhikkhu|mendiants] en partance pour les contrées orientales vinrent voir le [bhagava|Fortuné], lui rendirent hommage, s'assirent d'un côté et lui dirent:"
@@ -13,7 +16,10 @@
       "pl": "“icchāma mayaṃ, bhante, pacchābhūmaṃ janapadaṃ gantuṃ, pacchābhūme janapade nivāsaṃ kappetun”ti.",
       "fr": "«[bhante|Bhanté], nous souhaitons nous rendre dans le pays situé dans les contrées orientales, afin d'y prendre résidence."
     },
-    { "pl": "“apalokito pana vo, bhikkhave, sāriputto”ti?", "fr": "—Mendiants, avez-vous consulté Saripoutta?" },
+    {
+      "pl": "“apalokito pana vo, bhikkhave, sāriputto”ti?",
+      "fr": "—Mendiants, avez-vous consulté Saripoutta?"
+    },
     {
       "pl": "“na kho no, bhante, apalokito āyasmā sāriputto”ti.",
       "fr": "—Non, [bhante|Bhanté], nous n'avons pas consulté le [ayasma|vénérable] Saripoutta."
@@ -79,6 +85,36 @@
       "fr": "Voici ce que dit le [ayasma|vénérable] Saripoutta. Ravis, ces [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhante",
+    "ayasma",
+    "pandita",
+    "brahmacariya",
+    "khattiya",
+    "brahmana",
+    "samana",
+    "panna",
+    "dhamma",
+    "chanda",
+    "raga",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "adinava",
+    "tanha",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "anisamsa",
+    "akusala",
+    "kaya",
+    "marana",
+    "sugati",
+    "kusala"
+  ],
   "translator": "Sekha"
 }

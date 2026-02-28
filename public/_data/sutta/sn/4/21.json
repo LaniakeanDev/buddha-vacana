@@ -4,7 +4,10 @@
   "frTitle": "Un grand nombre",
   "description": "Mara tente de provoquer la confusion chez de jeunes mendiants en prenant la forme d'un vieux brahmane.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati silāvatiyaṃ. tena kho pana samayena sambahulā bhikkhū bhagavato avidūre appamattā ātāpino pahitattā viharanti. atha kho māro pāpimā brāhmaṇavaṇṇaṃ abhinimminitvā mahantena jaṭaṇḍuvena ajinakkhipanivattho jiṇṇo gopānasivaṅko ghurughurupassāsī udumbaradaṇḍaṃ gahetvā yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] résidait parmi les Sakyas, près de Silavati. Ce jour-là, un grand nombre de [bhikkhu|mendiants] séjournaient non loin du [bhagava|Fortuné], [appamada|assidus], [atapi|ardents] et voués à l'[padhana|effort]. Alors [mara|Mara] le Malin adopta l'apparence d'un [brahmana|brahmane], les cheveux tressés en longues nattes, portant une peau de guépard, vieux, l'échine courbée, respirant difficilement, puis saisit une canne en bois de ficus, alla voir ces [bhikkhu|mendiants] et leur dit:"
@@ -38,6 +41,20 @@
       "fr": "Une personne qui a vu d'où vient le [dukkha|mal-être],[@v]Comment pourrait-elle être encline aux [kama|plaisirs sensuels]?[@v]Ayant vu l'attachement comme des chaînes dans le monde[@v]Cette personne devrait s'entraîner pour l'éliminer."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "appamada",
+    "atapi",
+    "padhana",
+    "mara",
+    "brahmana",
+    "kama",
+    "sanditthika",
+    "dukkha",
+    "upayasa",
+    "adinava",
+    "dhamma"
+  ],
   "translator": "Sekha"
 }

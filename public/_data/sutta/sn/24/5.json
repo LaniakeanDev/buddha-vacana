@@ -4,7 +4,10 @@
   "frTitle": "Il n'y a pas ce qui est donné",
   "description": "L'origine de la croyance nihiliste dans les cinq accumulations d'attachement.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati — ‘natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko; natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā; natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedenti. cātumahābhūtiko ayaṃ puriso yadā kālaṅkaroti pathavī pathavīkāyaṃ anupeti anupagacchati, āpo āpokāyaṃ anupeti anupagacchati, tejo tejokāyaṃ anupeti anupagacchati, vāyo vāyokāyaṃ anupeti anupagacchati. ākāsaṃ indriyāni saṅkamanti. āsandipañcamā purisā mataṃ ādāya gacchanti. yāva āḷāhanā padāni paññāyanti. kāpotakāni aṭṭhīni bhavanti. bhassantā āhutiyo. dattupaññattaṃ yadidaṃ dānaṃ. tesaṃ tucchaṃ musā vilāpo ye keci atthikavādaṃ vadanti. bāle ca paṇḍite ca kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’””ti?",
       "fr": "«[bhikkhu|Mendiants], qu'est-ce qui, quand c'est présent et qu'on s'y attache, qu'on y adhère, une telle vue apparaît: [i]“Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de résultats aux actions bonnes ou mauvaises, il n'y a pas ce [loka|monde], il n'y a pas d'autre [loka|monde], il n'y a pas de mère, pas de père, pas d'êtres [opapatika|nés spontanément], il n'y a pas dans le [loka|monde] de [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui fassent connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]. Chez cet homme composé des quatre grands éléments, lorsqu'il a fait son temps, la Terre retourne à la Terre, l'Eau retourne à l'Eau, le Feu retourne au Feu, le Vent retourne au Vent, les facultés rejoignent l'espace, quatre hommes (et la bière comme cinquième) emmènent le corps, les belles paroles ne font entendre que jusqu'au cimetière, les os deviennent gris. Les offrandes finissent par tomber [de là où on les a mises], le don est l'idéologie des idiots. Les paroles de ceux qui professent le bien sont vides, mensongères et absurdes. Les sots comme les sages, lors de la rupture du [kaya|corps], après la [marana|mort], sont annihilés, détruits et n'existent plus.”[/i]?"
@@ -21,52 +24,109 @@
       "pl": "“taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā””ti?",
       "fr": "Qu'en pensez-vous, [bhikkhu|mendiants]: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi dinnaṃ… pe … paraṃ maraṇā’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a pas ce qui est donné (…) par [abhinna|connaissance directe].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“vedanā … pe … saññā … pe … saṅkhārā … pe … viññāṇaṃ niccaṃ vā aniccaṃ vā””ti?",
       "fr": "—Le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi dinnaṃ… pe … paraṃ maraṇā’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a pas ce qui est donné (…) par [abhinna|connaissance directe].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā””ti?",
       "fr": "—Ce qui est vu, entendu, senti, appréhendé, atteint, recherché, ou pensé par le [mana|mental], est-ce permanent ou [anicca|impermanent]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—C'est impermanent, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—C'est impermanent, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘natthi dinnaṃ… pe … paraṃ maraṇā’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“Il n'y a pas ce qui est donné (…) par [abhinna|connaissance directe].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti — ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.",
       "fr": "—[bhikkhu|Mendiants], lorsqu'un [ariyasavaka|noble disciple] a abandonné les doutes par rapport à ces six thèmes, qu'il a abandonné les doutes par rapport au [dukkha|mal-être], qu'il a abandonné les doutes par rapport à l'[dukkhasamudaya|origine du mal-être],qu'il a abandonné les doutes par rapport à la [dukkhanirodha|cessation du mal-être],qu'il a abandonné les doutes par rapport à la [dngp|voie menant à la cessation du mal-être], on dit de lui qu'il est un [ariyasavaka|noble disciple] [sotapanna|parvenu-au-courant], délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "opapatika",
+    "samana",
+    "brahmana",
+    "abhinna",
+    "kaya",
+    "marana",
+    "bhante",
+    "dhamma",
+    "bhagava",
+    "@m_attha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "anicca",
+    "sukha",
+    "dukkha",
+    "viparinama",
+    "mana",
+    "ariyasavaka",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Sekha"
 }

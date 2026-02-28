@@ -4,7 +4,10 @@
   "frTitle": "Un brahmane",
   "description": "Le Bouddha utilise le mot brahmane de manière particulière, ce qui pousse un mendiant issu d'une famille de brahmanes à demander ce qu'il entend par là.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca mahākassapo āyasmā ca mahākaccāno āyasmā ca mahākoṭṭhiko āyasmā ca mahākappino āyasmā ca mahācundo āyasmā ca anuruddho āyasmā ca revato āyasmā ca nando yena bhagavā tenupasaṅkamiṃsu. addasā kho bhagavā te āyasmante dūratova āgacchante; disvāna bhikkhū āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, les [ayasma|vénérables] Saripoutta, Moggalana le grand, Kassapa le grand, Kotthika le grand, Kappina le grand, Tchounda le grand, Anourouddha, Révata et Nanda vinrent voir le [bhagava|Fortuné]. En voyant ces [ayasma|vénérables] arriver de loin, le [bhagava|Fortuné] s'adressa aux mendiants:"
@@ -30,6 +33,6 @@
       "fr": "Ceux qui évitent les [dhamma|états] [papa|malsains]Et se comportent toujours avec [sati|présence d'esprit],Les éveillés qui ont détruit les [samyojana|impuretés mentales]Ceux-ci sont dans le monde les véritables brahmanes."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayasma", "bhikkhu", "bhante", "dhamma", "udana", "papa", "sati", "samyojana"],
   "translator": "Sekha"
 }

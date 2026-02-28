@@ -4,7 +4,10 @@
   "frTitle": "La voie",
   "description": "Le Bouddha ne recommande pas la voie erronée, car elle empêche d'atteindre le but.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“gihino vāhaṃ, bhikkhave, pabbajitassa vā micchāpaṭipadaṃ na vaṇṇemi. gihi vā, bhikkhave, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu nārādhako hoti ñāyaṃ dhammaṃ kusalaṃ”.",
       "fr": "[bhikkhu|Mendiants], que ce soit pour un chef de foyer ou pour un [pabbajja|sans-foyer], je ne recommande pas la [micchapatipada|voie erronée]. [bhikkhu|Mendiants], un chef de foyer ou un [pabbajja|sans-foyer] qui suit la [micchapatipada|voie erronée], à cause du fait d'avoir suivi la [micchapatipada|voie erronée], n'accomplit pas la méthode, le [dhamma|Dhamma] [kusala|avantageux]."
@@ -22,6 +25,28 @@
       "fr": "Et qu'est-ce, mendiants, que la [sammapatipada|voie correcte]? C'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]. C'est ce qu'on appelle, mendiants, la [sammapatipada|voie correcte]. [bhikkhu|Mendiants], que ce soit pour un chef de foyer ou pour un [pabbajja|sans-foyer], je recommande la [sammapatipada|voie correcte]. [bhikkhu|Mendiants], un chef de foyer ou un [pabbajja|sans-foyer] qui suit la [sammapatipada|voie correcte], à cause du fait d'avoir suivi la [sammapatipada|voie correcte], accomplit la méthode, le [dhamma|Dhamma] [kusala|avantageux]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "pabbajja",
+    "micchapatipada",
+    "dhamma",
+    "kusala",
+    "ditthi",
+    "sankappa",
+    "vaca",
+    "ajiva",
+    "vayama",
+    "sati",
+    "samadhi",
+    "sammapatipada",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

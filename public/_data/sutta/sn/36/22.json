@@ -41,6 +41,25 @@
       "fr": "Voici, [bhikkhu|mendiants], quel est l'exposé du [dhamma|Dhamma] au sujet de la manière d'exposer en cent huit [catégories]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "vedana",
+    "kaya",
+    "citta",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "sukhindriya",
+    "dukkhindriya",
+    "somanassindriya",
+    "domanassindriya",
+    "upekkhindriya",
+    "phassa",
+    "somanassa",
+    "domanassa",
+    "upekkha",
+    "nekkhamma"
+  ],
   "translator": "Rémy"
 }

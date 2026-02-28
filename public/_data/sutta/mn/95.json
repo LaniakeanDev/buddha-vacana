@@ -4,7 +4,10 @@
   "frTitle": "Chez Caṅkī",
   "description": "Un échange très intéressant entre le Bouddha et un jeune [brahmana|brahmane] au sujet de ce qui peut être tenu avec certitude pour vrai. De quoi faire réfléchir les adhérents à toutes les religions et philosophies du monde (y compris les bouddhistes).",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "atha kho kāpaṭiko māṇavo bhagavantaṃ etadavoca:",
       "fr": "Alors le jeune [brahmana|brahmane] Kāpaṭika dit au [bhagava|Fortuné]:"
@@ -17,17 +20,26 @@
       "pl": "“kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti?",
       "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les brahmanes ne serait-ce qu'un seul [brahmana|brahmane] qui dise: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
     },
-    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“no hidaṃ, bho gotama”.",
+      "fr": "— Non, [bho|Honorable] Gotama."
+    },
     {
       "pl": "“kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha — ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’”ti?",
       "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les brahmanes ne serait-ce qu'un seul enseignant, ou bien un seul enseignant d'enseignant en remontant jusqu'à sept générations, qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
     },
-    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“no hidaṃ, bho gotama”.",
+      "fr": "— Non, [bho|Honorable] Gotama."
+    },
     {
       "pl": "“kiṃ pana, bhāradvāja, yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’”ti?",
       "fr": "— Mais alors, Bhāradvāja, y a-t-il parmi les anciens sages brahmanes, les créateurs des hymnes, les compositeurs des hymnes — de ces anciens hymnes qui étaient autrefois chantés, récités et rassemblés, que les brahmanes chantent et répètent encore, répétant ce qui était alors dit, répétant ce qui était alors récité — c'est-à-dire Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa et Bhagu, y a-t-il l'un d'eux qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
     },
-    { "pl": "“no hidaṃ, bho gotama”.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "“no hidaṃ, bho gotama”.",
+      "fr": "— Non, [bho|Honorable] Gotama."
+    },
     {
       "pl": "“iti kira, bhāradvāja, natthi koci brāhmaṇānaṃ ekabrāhmaṇopi yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’ti. natthi koci brāhmaṇānaṃ ekācariyopi ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṃ jānāmi, ahametaṃ passāmi. idameva saccaṃ, moghamaññan’ti; yepi te brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro yesamidaṃ etarahi brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṃ aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu: ‘mayametaṃ jānāma, mayametaṃ passāma. idameva saccaṃ, moghamaññan’ti.",
       "fr": "— Donc, Bhāradvāja, il semble qu'il n'y ait parmi les brahmanes pas même un seul qui dise: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.” Et qu'il n'y ait parmi les brahmanes ne serait-ce qu'un seul enseignant, ou bien un seul enseignant d'enseignant en remontant jusqu'à sept générations, qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.” Et qu'il n'y ait parmi les anciens sages brahmanes, les créateurs des hymnes, les compositeurs des hymnes — de ces anciens hymnes qui étaient autrefois chantés, récités et rassemblés, que les brahmanes chantent et répètent encore, répétant ce qui était alors dit, répétant ce qui était alors récité — c'est-à-dire Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa et Bhagu, qu'il n'y ait aucun d'eux qui aie dit: “Je sais ceci, je vois ceci. Ceci seulement est la vérité, tout le reste est sans valeur.”"
@@ -116,8 +128,32 @@
       "pl": "“yato naṃ samannesamāno visuddhaṃ mohanīyehi dhammehi samanupassati; atha tamhi saddhaṃ niveseti. saddhājāto upasaṅkamati, upasaṅkamanto payirupāsati, payirupāsanto sotaṃ odahati, ohitasoto dhammaṃ suṇāti, sutvā dhammaṃ dhāreti, dhatānaṃ dhammānaṃ atthaṃ upaparikkhati, atthaṃ upaparikkhato dhammā nijjhānaṃ khamanti, dhammanijjhānakkhantiyā sati chando jāyati, chandajāto ussahati, ussahitvā tuleti, tulayitvā padahati, pahitatto samāno kāyena ceva paramasaccaṃ sacchikaroti paññāya ca naṃ ativijjha passati. ettāvatā kho, bhāradvāja, saccānubodho hoti, ettāvatā saccamanubujjhati, ettāvatā ca mayaṃ saccānubodhaṃ paññapema.",
       "fr": "Lorsqu'il l'a observé et a vu qu'il est purifié des [dhamma|états mentaux] basés sur la [moha|délusion], il place sa [saddha|conviction] en lui. Rempli de [saddha|conviction], il vient lui rendre visite. Étant venu lui rendre visite, il s'assoit près de lui. Étant assis près de lui, il prête l'oreille. Ayant prêté l'oreille, il entend le [dhamma|Dhamma]. Ayant entendu le [dhamma|Dhamma], il le retient à l'esprit. Ayant retenu le [dhamma|Dhamma] à l'esprit, il examine sa [attha|signification]. Ayant examiné sa [attha|signification], il l'accepte après avoir médité sur les [dhamma|phénomènes]. L'ayant accepté après avoir médité sur les [dhamma|phénomènes], le [chanda|zèle] apparaît [en lui]. Le [chanda|zèle] étant apparu, il s'exerce. S'étant exercé, il investigue. Ayant investigué, il s'efforce. En s'efforçant, il fait l'expérience dans son [kaya|corps] de la vérité ultime et la voit en la pénétrant avec [panna|discernement]. Voici, Bhāradvāja, comment il y a [bodhi|éveil] à la vérité, comment on s'éveille à la vérité, c'est ainsi que je définis l'[bodhi|éveil] à la vérité."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "brahmana",
+    "bhagava",
+    "bho",
+    "saddha",
+    "anussava",
+    "vipaka",
+    "ditthevadhamme",
+    "dnk",
+    "bodhi",
+    "dhamma",
+    "lobha",
+    "dosa",
+    "moha",
+    "ayasma",
+    "citta",
+    "dukkha",
+    "attha",
+    "chanda",
+    "kaya",
+    "panna"
+  ],
   "translator": "Rémy"
 }

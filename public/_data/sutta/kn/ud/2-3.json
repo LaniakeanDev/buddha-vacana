@@ -4,7 +4,10 @@
   "frTitle": "Un bâton",
   "description": "Le Bouddha commente l'action d'un groupe de jeunes qui attaquent un serpent avec un bâton.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena sambahulā kumārakā antarā ca sāvatthiṃ antarā ca jetavanaṃ ahiṃ daṇḍena hananti. atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. addasā kho bhagavā sambahule kumārake antarā ca sāvatthiṃ antarā ca jetavanaṃ ahiṃ daṇḍena hanante.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, un groupe de jeunes garçons se trouvaient sur le chemin entre Savatthi et le bois de Jéta à frapper un serpent avec un bâton. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Alors le [bhagava|Fortuné] vit le groupe de jeunes garçons se trouvant sur le chemin entre Savatthi et le bois de Jéta et frappant le serpent avec un bâton."
@@ -18,6 +21,6 @@
       "fr": "[i]Celui qui, aspirant au [sukha|bien-être],Attaque avec un bâtonLes êtres qui désirent le [sukha|bien-être]N'obtiendra pas le [sukha|bien-être] après la mort.Celui qui, aspirant au [sukha|bien-être],N'attaque pas avec un bâtonLes êtres qui désirent le [sukha|bien-être]Obtiendra le [sukha|bien-être] après la mort.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "patta", "civara", "udana", "sukha"],
   "translator": "Rémy"
 }

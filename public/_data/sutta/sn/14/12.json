@@ -4,7 +4,10 @@
   "frTitle": "Avec une cause",
   "description": "Voici comment les différents types de pensées avantageuses ou désavantageuses apparaissent, et comment les deux attitudes possibles sont comparées à la manière de s'occuper d'une torche enflammée.",
   "body": [
-    { "pl": "Sāvatthinidāna.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidāna.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Sanidānaṃ, bhikkhave, uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsā-vitakko, no anidānaṃ. Kathañca, bhikkhave, sanidānaṃ uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsā-vitakko, no anidānaṃ?",
       "fr": "Une [vitakka|pensée] de [kama|sensualité], [bhikkhu|mendiants], apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [byapada|malveillance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [vihimsa|nuisance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Et comment, [bhikkhu|mendiants], une [vitakka|pensée] de [kama|sensualité] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause? Comment] une [vitakka|pensée] de [byapada|malveillance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause? Comment ] une [vitakka|pensée] de [vihimsa|nuisance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause]?"
@@ -46,6 +49,37 @@
       "fr": "Tout comme, [bhikkhu|mendiants], si un homme faisait tomber une torche d'herbes enflammée dans un bois remplis d'herbes sèches et qu'il l'éteignait rapidement avec ses mains et ses pieds, les êtres vivant dans les herbes et le bois ne trouveraient pas leur malheur & infortune, de la même manière, [bhikkhu|mendiants], si un [samana|renonçant] ou un [brahmana|brahmane] abandonne rapidement une [sanna|perception] inappropriée apparue en lui, s'il la dissipe, s'il l'élimine, s'il la fait disparaître, il vit dans le [sukha|bien-être] [ditthevadhamme|dans ce monde visible], sans contrariétés ni adversité ni fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [sugati|bonne destination]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "vitakka",
+    "kama",
+    "bhikkhu",
+    "nidana",
+    "byapada",
+    "vihimsa",
+    "dhatu",
+    "sanna",
+    "sankappa",
+    "kamacchanda",
+    "@m_parilaha",
+    "puthujjana",
+    "assutava",
+    "kaya",
+    "vaca",
+    "mana",
+    "chanda",
+    "samana",
+    "brahmana",
+    "dukkha",
+    "ditthevadhamme",
+    "marana",
+    "duggati",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa",
+    "ariyasavaka",
+    "sutava",
+    "sukha",
+    "sugati"
+  ],
   "translator": "Rémy"
 }

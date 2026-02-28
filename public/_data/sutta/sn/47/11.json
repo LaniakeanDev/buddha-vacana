@@ -4,7 +4,10 @@
   "frTitle": "Un grand homme",
   "description": "Saripoutta demande au Bouddha ce qui définit un grand homme.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā sāriputto bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Saripoutta alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -38,6 +41,23 @@
       "fr": "Voici, Saripoutta, comment on est [cetovimutti|libéré en esprit]. Je dis de quelqu'un qui est [cetovimutti|libéré en esprit] que c'est un grand homme; je dis de quelqu'un qui n'est pas [cetovimutti|libéré en esprit] que ce n'est pas un grand homme."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "cetovimutti",
+    "@f_stp#kaya-cl",
+    "kaya",
+    "viraga",
+    "vimutti",
+    "asava",
+    "upadana",
+    "@f_stp#vedana-cl",
+    "vedana",
+    "@f_stp#citta-cl",
+    "citta",
+    "@f_stp#dhamma-cl",
+    "dhamma"
+  ],
   "translator": "Bhikkhu Sekha"
 }

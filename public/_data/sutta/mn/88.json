@@ -4,7 +4,10 @@
   "frTitle": "Le manteau",
   "description": "Le roi Passénadi du Kossala veut comprendre ce qui est recommandé ou pas par les [samana|renonçants] et [brahmana|brahmanes] qui sont sages, et il pose à Ānanda des séries de questions qui nous permettent de mieux comprendre le sens des mots kusala (avantageux) et akusala (désavantageux).",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "Katamo pana, bhante ānanda, kāya·samācāro opārambho samaṇehi brāhmaṇehi viññūhī·ti?",
       "fr": "— Et quel type de conduite corporelle, [bhante|Bhanté] Ānanda, est réprouvée par les [samana|renonçants] & [brahmana|brahmanes] qui sont sages?"
@@ -261,8 +264,24 @@
       "pl": "Sabb·ākusala·dhamma·pahīno kho, mahārāja, tathāgato kusala·dhamma·samannāgato·ti.",
       "fr": "— Le [tathagata|Tathagata], Maharaja, a abandonné tous les [dhamma|états] [akusala|désavantageux], et n'est doué que d'[dhamma|états] [kusala|avantageux]."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhante",
+    "samana",
+    "brahmana",
+    "akusala",
+    "savajja",
+    "vipaka",
+    "dukkha",
+    "dhamma",
+    "kusala",
+    "tathagata",
+    "anavajja",
+    "sukha"
+  ],
   "translator": "Rémy"
 }

@@ -145,8 +145,6 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "keywords": [],
-  "translator": "Rémy",
   "keywords": [
     "bhagava",
     "bhikkhu",
@@ -164,16 +162,13 @@
     "sammasati",
     "ekaggata",
     "citta",
-    "@nl]En ceci, [bhikkhu",
     "micchaditthi",
-    "i]“Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de résultats aux [kamma",
+    "kamma",
     "loka",
     "opapatika",
     "samana",
     "brahmana",
     "abhinna",
-    "/i] Voici, [bhikkhu",
-    "i]“Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des résultats aux [kamma",
     "sata",
     "dhamma",
     "sankappa",
@@ -193,9 +188,7 @@
     "kamesumicchacara",
     "panatipataveramani",
     "adinnadanaveramani",
-    "ou] tout [autre] support de vie selon l'enseignement, mais par des moyens contraires à l'enseignement. Voici, [bhikkhu",
     "ariyasavaka",
-    "@nl] En ceci, [bhikkhu",
     "sammaajiva",
     "nana",
     "vimutti",
@@ -208,12 +201,10 @@
     "sati",
     "samadhi",
     "kusala",
-    "facteurs] a été mis en mouvement, et il ne peut être arrêté par aucun [samana",
     "deva",
     "mara",
     "brahma",
-    "facteurs] devrait être désapprouvé et rejeté, il y a dix conséquences [dhamma",
-    "ditthevadhamme",
-    "facteurs] devrait être désapprouvé et rejeté, il y a ces dix conséquences [dhamma"
-  ]
+    "ditthevadhamme"
+  ],
+  "translator": "Rémy"
 }

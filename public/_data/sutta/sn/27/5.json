@@ -4,7 +4,10 @@
   "frTitle": "Engendré par le contact",
   "description": "Le désir et l'avidité envers les ressentis engendrés par les contacts sensoriels sont des impuretés auxquelles il faut renoncer.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Yo, bhikkhave, cakkhu·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso. Yo sota·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso. Yo ghāna·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso. Yo jivhā·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso. Yo kāya·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso. Yo mano·samphassajāya vedanāya chanda·rāgo, cittasseso upakkileso.",
       "fr": "Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] oculaire, [bhikkhu|mendiants], sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] auditif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] olfactif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] gustatif sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] dans le corps sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les [vedana|ressentis] engendrés par le [phassa|contact] mental sont une [upakkilesa|souillure] de l'[citta|esprit]."
@@ -14,6 +17,17 @@
       "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "chanda",
+    "raga",
+    "vedana",
+    "phassa",
+    "bhikkhu",
+    "upakkilesa",
+    "citta",
+    "nekkhamma",
+    "dhamma",
+    "abhinna"
+  ],
   "translator": "Rémy"
 }

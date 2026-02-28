@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "identifier": "SN 40.1",
+    "plTitle": "Paṭhamajhānapañhā Sutta",
+    "frTitle": "Question concernant le premier jhana",
+    "description": "Le grand Moggalāna raconte son effort pour maîtriser le premier jhana, et comment le Bouddha lui est venu en aide.",
+    "keywords": [
+      "ayasma",
+      "bhikkhu",
+      "patisallana",
+      "i]“On entend dire: “Premier [jhana",
+      "jhana",
+      "/i] Alors, mes amis, je me suis dit: [i]“À cet égard, un mendiant, [@f_4jhana#1-cl",
+      "/i] Alors, [@f_4jhana#1-cl",
+      "sanna",
+      "manasikara",
+      "kama",
+      "bhagava",
+      "iddhi",
+      "citta",
+      "@f_4jhana#1-cl",
+      "i]“Celui-là est un [savaka",
+      "abhinna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 40.2",
+    "plTitle": "Dutiyajhānapañhā Sutta",
+    "frTitle": "Question concernant le deuxième jhāna",
+    "description": "Le grand Moggalāna raconte son effort pour maîtriser le deuxième jhāna, et comment le Bouddha lui est venu en aide.",
+    "keywords": [
+      "ayasma",
+      "bhikkhu",
+      "patisallana",
+      "i]“On entend dire: “Deuxième [jhana",
+      "jhana",
+      "/i] Alors, mes amis, je me suis dit: [i]“À cet égard, un mendiant, [@f_4jhana#2-cl",
+      "/i] Alors, [@f_4jhana#2-cl",
+      "sanna",
+      "manasikara",
+      "vitakka",
+      "bhagava",
+      "iddhi",
+      "citta",
+      "@f_4jhana#2-cl",
+      "i]“Celui-là est un [savaka",
+      "abhinna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 2
+  }
+]

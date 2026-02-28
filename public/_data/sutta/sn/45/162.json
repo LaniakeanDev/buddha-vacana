@@ -4,7 +4,10 @@
   "frTitle": "Les orgueils",
   "description": "Les trois types d'orgueil, et comment la noble voie à huit composantes permet de les connaître directement, de les comprendre complètement, de les épuiser complètement, et de les abandonner.",
   "body": [
-    { "pl": "1. Abhiññā", "fr": "1. La connaissance directe" },
+    {
+      "pl": "1. Abhiññā",
+      "fr": "1. La connaissance directe"
+    },
     {
       "pl": "1.1“tisso imā, bhikkhave, vidhā. katamā tisso? ‘seyyohamasmī’ti vidhā, ‘sadisohamasmī’ti vidhā, ‘hīnohamasmī’ti vidhā. imā kho, bhikkhave, tisso vidhā. imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ abhiññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "1.1[bhikkhu|Mendiants], il y a ces trois [types d']orgueil. Quels sont ces trois? L'orgeuil: [i]“Je suis supérieur”[/i], l'orgeuil: [i]“Je suis égal”[/i], et l'orgeuil: [i]“Je suis inférieur”[/i]. Voici, [bhikkhu|mendiants], quels sont ces trois [types d']orgueil. [bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces trois [types d']orgueil, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -53,7 +56,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ abhiññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces trois [types d']orgueil, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "2. Pariññā", "fr": "2. La compréhension complète" },
+    {
+      "pl": "2. Pariññā",
+      "fr": "2. La compréhension complète"
+    },
     {
       "pl": "2.1“tisso imā, bhikkhave, vidhā. katamā tisso? ‘seyyohamasmī’ti vidhā, ‘sadisohamasmī’ti vidhā, ‘hīnohamasmī’ti vidhā. imā kho, bhikkhave, tisso vidhā. imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "2.1[bhikkhu|Mendiants], il y a ces trois [types d']orgueil. Quels sont ces trois? L'orgeuil: [i]“Je suis supérieur”[/i], l'orgeuil: [i]“Je suis égal”[/i], et l'orgeuil: [i]“Je suis inférieur”[/i]. Voici, [bhikkhu|mendiants], quels sont ces trois [types d']orgueil. [bhikkhu|Mendiants], pour la compréhension complète de ces trois [types d']orgueil, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -102,7 +108,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ pariññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la compréhension complète de ces trois [types d']orgueil, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "3. Parikkhaya", "fr": "3. L'épuisement complet" },
+    {
+      "pl": "3. Parikkhaya",
+      "fr": "3. L'épuisement complet"
+    },
     {
       "pl": "3.1“tisso imā, bhikkhave, vidhā. katamā tisso? ‘seyyohamasmī’ti vidhā, ‘sadisohamasmī’ti vidhā, ‘hīnohamasmī’ti vidhā. imā kho, bhikkhave, tisso vidhā. imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ parikkhayāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "3.1[bhikkhu|Mendiants], il y a ces trois [types d']orgueil. Quels sont ces trois? L'orgeuil: [i]“Je suis supérieur”[/i], l'orgeuil: [i]“Je suis égal”[/i], et l'orgeuil: [i]“Je suis inférieur”[/i]. Voici, [bhikkhu|mendiants], quels sont ces trois [types d']orgueil. [bhikkhu|Mendiants], pour l'épuisement complet de ces trois [types d']orgueil, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -151,7 +160,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ parikkhayāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour l'épuisement complet de ces trois [types d']orgueil, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "4. Pahāna", "fr": "4. L'abandon" },
+    {
+      "pl": "4. Pahāna",
+      "fr": "4. L'abandon"
+    },
     {
       "pl": "4.1“tisso imā, bhikkhave, vidhā. katamā tisso? ‘seyyohamasmī’ti vidhā, ‘sadisohamasmī’ti vidhā, ‘hīnohamasmī’ti vidhā. imā kho, bhikkhave, tisso vidhā. imāsaṃ kho, bhikkhave, tissannaṃ vidhānaṃ pahānāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "4.1[bhikkhu|Mendiants], il y a ces trois [types d']orgueil. Quels sont ces trois? L'orgeuil: [i]“Je suis supérieur”[/i], l'orgeuil: [i]“Je suis égal”[/i], et l'orgeuil: [i]“Je suis inférieur”[/i]. Voici, [bhikkhu|mendiants], quels sont ces trois [types d']orgueil. [bhikkhu|Mendiants], pour l'abandon de ces trois [types d']orgueil, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -201,6 +213,27 @@
       "fr": "[bhikkhu|Mendiants], pour l'abandon de ces trois [types d']orgueil, cette [aam|noble voie à huit composantes] est à cultiver."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "abhinna",
+    "aam",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "vinaya",
+    "raga",
+    "dosa",
+    "moha",
+    "amata",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

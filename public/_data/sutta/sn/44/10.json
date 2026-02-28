@@ -12,7 +12,10 @@
       "pl": "“kiṃ nu kho, bho gotama, atthattā”ti?",
       "fr": "«Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [atta|Soi] existe?»"
     },
-    { "pl": "evaṃ vutte, bhagavā tuṇhī ahosi.", "fr": "Lorsque cela fut dit, le [bhagava|Fortuné] garda le silence." },
+    {
+      "pl": "evaṃ vutte, bhagavā tuṇhī ahosi.",
+      "fr": "Lorsque cela fut dit, le [bhagava|Fortuné] garda le silence."
+    },
     {
       "pl": "“kiṃ pana, bho gotama, natthattā”ti?",
       "fr": "«Qu'en est-il alors, [bho|Honorable] Gotama, est-ce que le [atta|Soi] n'existe pas?»"
@@ -33,12 +36,27 @@
       "pl": "“ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā sassatavādā tesametaṃ saddhiṃ abhavissa. ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā ucchedavādā tesametaṃ saddhiṃ abhavissa. ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, api nu me taṃ, ānanda, anulomaṃ abhavissa ñāṇassa uppādāya — ‘sabbe dhammā anattā’”ti?",
       "fr": "—Ananda, si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] existe?”[/i] en disant [i]“Le [atta|Soi] existe”[/i], j'aurais pris le parti des [samana|renonçants] & [brahmana|brahmanes] éternalistes. Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] n'existe pas?”[/i] en disant [i]“Le [atta|Soi] n'existe pas”[/i], j'aurais pris le parti des [samana|renonçants] & [brahmana|brahmanes] annihilationistes. Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] existe?”[/i] en disant [i]“Le [atta|Soi] existe”[/i], est-ce que cela aurait été cohérent de ma part avec l'apparition de la [nana|connaissance]: [i]“Tous les [dhamma|phénomènes] sont [anatta|dépourvus de propriétaire]”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ, sammūḷhassa, ānanda, vacchagottassa paribbājakassa bhiyyo sammohāya abhavissa — ‘ahuvā me nūna pubbe attā, so etarahi natthī’”ti.",
       "fr": "—Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] n'existe pas?”[/i] en disant [i]“Le [atta|Soi] n'existe pas”[/i], le [paribbajaka|sans-foyer] Vacchagotta, qui était déjà confus, serait devenu encore plus confus [en se disant]: [i]“Sûrement, le [atta|Moi] que j'avais auparavant a maintenant disparu.”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "paribbajaka",
+    "bhagava",
+    "bho",
+    "atta",
+    "ayasma",
+    "bhante",
+    "samana",
+    "brahmana",
+    "nana",
+    "dhamma",
+    "anatta"
+  ],
   "translator": "Sekha"
 }

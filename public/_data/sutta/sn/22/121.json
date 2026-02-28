@@ -4,7 +4,10 @@
   "frTitle": "Qui engendrent l'attachement",
   "description": "Voici cinq phénomènes qui engendrent l'attachement et ce en quoi consiste cet attachement envers eux. ",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“upādāniye ca, bhikkhave, dhamme desessāmi upādānañca. taṃ suṇātha.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner quels sont les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], ainsi que ce qu'est l'[upadana|attachement]. Écoutez cela."
@@ -18,6 +21,6 @@
       "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], voici ce qu'est l'[upadana|attachement]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "dhamma", "upadana", "rupa", "@m_chandaraga", "vedana", "sanna", "sankhara", "vinnana"],
   "translator": "Rémy"
 }

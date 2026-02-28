@@ -4,12 +4,18 @@
   "frTitle": "Ananda 'parvient au courant'",
   "description": "Le vénérable Ananda répète l'enseignement qui lui a permis de parvenir au courant. ",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Tatra kho āyasmā ānando bhikkhū āmantesi:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Ananda s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "Āvuso, bhikkhave ti.", "fr": "— Amis, [bhikkhu|mendiants]!" },
+    {
+      "pl": "Āvuso, bhikkhave ti.",
+      "fr": "— Amis, [bhikkhu|mendiants]!"
+    },
     {
       "pl": "Āvuso ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. Āyasmā ānando etadavoca:",
       "fr": "— Ami, répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Ananda. Le [ayasma|vénérable] Ananda dit alors:"
@@ -26,77 +32,122 @@
       "pl": "Taṃ kiṃ maññasi, āvuso ānanda: ‘rūpaṃ niccaṃ vā aniccaṃ vā’ti?",
       "fr": "Qu'en penses-tu, ami Ananda: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Aniccaṃ, āvuso.",
+      "fr": "— [anicca|Impermanente], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
       "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Dukkhaṃ, āvuso.",
+      "fr": "— [dukkha|Insatisfaisant], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
       "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "No hetaṃ, āvuso.",
+      "fr": "— Non, ami."
+    },
     {
       "pl": "Vedanaṃ niccaṃ vā aniccaṃ vā ti?",
       "fr": "— Le [vedana|Ressenti] est-il permanent ou [anicca|impermanent]?"
     },
-    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanent], ami." },
+    {
+      "pl": "Aniccaṃ, āvuso.",
+      "fr": "— [anicca|Impermanent], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
       "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Dukkhaṃ, āvuso.",
+      "fr": "— [dukkha|Insatisfaisant], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
       "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "No hetaṃ, āvuso.",
+      "fr": "— Non, ami."
+    },
     {
       "pl": "Saññā niccaṃ vā aniccaṃ vā ti?",
       "fr": "— La [sanna|Perception] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Aniccaṃ, āvuso.",
+      "fr": "— [anicca|Impermanente], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
       "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Dukkhaṃ, āvuso.",
+      "fr": "— [dukkha|Insatisfaisant], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
       "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "No hetaṃ, āvuso.",
+      "fr": "— Non, ami."
+    },
     {
       "pl": "Saṅkhārā nicce vā anicce vā ti?",
       "fr": "— Les [sankhara|Constructions] sont-elles permanentes ou [anicca|impermanentes]?"
     },
-    { "pl": "Anicce, āvuso.", "fr": "— [anicca|Impermanentes], ami." },
+    {
+      "pl": "Anicce, āvuso.",
+      "fr": "— [anicca|Impermanentes], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
       "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Dukkhaṃ, āvuso.",
+      "fr": "— [dukkha|Insatisfaisant], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
       "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "No hetaṃ, āvuso.",
+      "fr": "— Non, ami."
+    },
     {
       "pl": "Viññāṇaṃ niccaṃ vā aniccaṃ vā ti?",
       "fr": "— La [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "Aniccaṃ, āvuso.", "fr": "— [anicca|Impermanente], ami." },
+    {
+      "pl": "Aniccaṃ, āvuso.",
+      "fr": "— [anicca|Impermanente], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti?",
       "fr": "— Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "Dukkhaṃ, āvuso.", "fr": "— [dukkha|Insatisfaisant], ami." },
+    {
+      "pl": "Dukkhaṃ, āvuso.",
+      "fr": "— [dukkha|Insatisfaisant], ami."
+    },
     {
       "pl": "Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, esohamasmi, eso me attā’ti?",
       "fr": "— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "No hetaṃ, āvuso.", "fr": "— Non, ami." },
+    {
+      "pl": "No hetaṃ, āvuso.",
+      "fr": "— Non, ami."
+    },
     {
       "pl": "Tasmātihāvuso, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
       "fr": "— C'est pourquoi, ami, toute [rupa|Forme], qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou superbe, éloignée ou proche, devrait être vue [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, ce n'est pas [atta|Moi]”.[/i]"
@@ -126,6 +177,30 @@
       "fr": "Amis, le [ayasma|vénérable] du nom de Pounna Mantanipoutta en a fait beaucoup pour moi lorsque j'étais un nouveau. Il m'exhortait avec cette exhortation. Et lorsque j'ai entendu cet enseignement du [dhamma|Dhamma] de la part du [ayasma|vénérable] Pounna Mantanipoutta, j'ai compris le [dhamma|Dhamma] complètement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "upadana",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "anicca",
+    "sukha",
+    "dukkha",
+    "dhamma",
+    "viparinama",
+    "atta",
+    "yathabhutam",
+    "panna",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
   "translator": "Rémy"
 }

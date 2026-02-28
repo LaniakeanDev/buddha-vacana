@@ -16,7 +16,10 @@
       "pl": "“kāmadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?",
       "fr": "—Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] de la [kama|sensualité], est-ce qu'on discernerait l'[bhava|existence] dans [le domaine de] la [kama|sensualité]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
       "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que la [vinnana|Conscience] des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] inférieur. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
@@ -25,7 +28,10 @@
       "pl": "“rūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho rūpabhavo paññāyethā”ti?",
       "fr": "Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] de la [rupa|forme], est-ce qu'on discernerait l'[bhava|existence] dans [le domaine de] la [rupa|forme]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“iti kho ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ majjhimāya dhātuyā viññāṇaṃ patiṭṭhitaṃ. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
       "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que la [vinnana|Conscience] des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] intermédiaire. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
@@ -34,13 +40,35 @@
       "pl": "“arūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho arūpabhavo paññāyethā”ti?",
       "fr": "Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] du [arupa|sans-forme], est-ce qu'on discernerait l'[bhava|existence] dans le [domaine du] [arupa|sans-forme]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ paṇītāya dhātuyā viññāṇaṃ patiṭṭhitaṃ. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
       "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que la [vinnana|Conscience] des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] élevé. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
     },
-    { "pl": "evaṃ kho, ānanda, bhavo hotī”ti.", "fr": "Voici, Ananda, comment il y a [bhava|existence].» " }
+    {
+      "pl": "evaṃ kho, ānanda, bhavo hotī”ti.",
+      "fr": "Voici, Ananda, comment il y a [bhava|existence].» "
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "i]“[bhava",
+    "bhava",
+    "kamma",
+    "dhatu",
+    "kama",
+    "vinnana",
+    "tanha",
+    "nivarana",
+    "avijja",
+    "samyojana",
+    "rupa",
+    "arupa"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La mendiante Kissagotami",
   "description": "La mendiante Kissagotami, qui était devenue folle suite à la mort de son fils, est maintenant inébranlable.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho kisāgotamī bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā kisāgotamiyā bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena kisāgotamī bhikkhunī tenupasaṅkami; upasaṅkamitvā kisāgotamiṃ bhikkhuniṃ gāthāya ajjhabhāsi",
       "fr": "Ce matin-là, la [bhikkhuni|mendiante] Kissagotami s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Kissagotami, souhaitant la faire tomber de son [viveka|isolement], s'approcha d'elle et s'adressa à elle en vers:"
@@ -30,6 +33,6 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Kissagotami me connaît,”[/i] disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhuni", "patta", "civara", "pindapata", "mara", "viveka", "asava"],
   "translator": "Sekha"
 }

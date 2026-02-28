@@ -4,7 +4,10 @@
   "frTitle": "Un bol en or",
   "description": "Même un bol en or n'aurait pas attisé la convoitise de ce bhikkhu, et pourtant...",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
       "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
@@ -18,6 +21,6 @@
       "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "lss", "citta", "ayasma", "hetu"],
   "translator": "Rémy"
 }

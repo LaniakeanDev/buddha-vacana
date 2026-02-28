@@ -4,7 +4,10 @@
   "frTitle": "Considérations",
   "description": "Ce discours profond décrit comment la notion de Soi émerge de l'ignorance envers les cinq accumulations d'attachement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ attānaṃ samanupassamānā samanupassanti, sabbete pañcupādānakkhandhe samanupassanti, etesaṃ vā aññataraṃ. katame pañca? idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ attani vā rūpaṃ rūpasmiṃ vā attānaṃ;",
       "fr": "[bhikkhu|Mendiants], les [samana|renonçants] ou [brahmana|brahmanes] qui considèrent le [atta|Soi] de diverses manières, considèrent tous [comme Soi] les cinq [upadanakkhandha|accumulations d'attachement], ou l'une d'entre elles. Quelles sont ces cinq? À cet égard, [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction], qui ne [va] pas voir les [ariya|êtres nobles], qui n'est pas entraîné dans le [dhamma|Dhamma] des [ariya|êtres nobles], qui n'est pas discipliné dans le [dhamma|Dhamma] des [ariya|êtres nobles], qui ne [va] pas voir les [sappurisa|hommes de bien], qui n'est pas entraîné dans le [dhamma|Dhamma] des [sappurisa|hommes de bien], qui n'est pas discipliné dans le [dhamma|Dhamma] des [sappurisa|hommes de bien], considère la [rupa|Forme] comme le [atta|Soi], ou le [atta|Soi] comme possédant la [rupa|Forme], ou la [rupa|Forme] comme une partie du [atta|Soi], ou le [atta|Soi] comme une partie de la [rupa|Forme]."
@@ -34,6 +37,31 @@
       "fr": "Les cinq [indriya|facultés sensorielles] restent là où elles sont, mais un [ariyasavaka|noble disciple] [sutava|instruit] abandonne l'[avijja|ignorance] à leur encontre, et la [vijja|véritable connaissance] apparaît. Avec la disparition de l'[avijja|ignorance] et l'apparition de la [vijja|véritable connaissance], il ne se dit pas [i]“Je suis”[/i], ni [i]“Je suis cela”[/i], ni [i]“Je serai”[/i], ni [i]“Je ne serai pas”[/i], ni [i]“Je serai pourvu de [rupa|Forme]”[/i], ni [i]“Je serai sans [rupa|Forme]”[/i], ni [i]“Je serai pourvu de [sanna|Perception]”[/i], ni [i]“Je serai sans [sanna|Perception]”[/i], ni [i]“Je ne serai [nsnay|ni pourvu de Perception, ni sans Perception]”[/i]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "samana",
+    "brahmana",
+    "atta",
+    "upadanakkhandha",
+    "puthujjana",
+    "assutava",
+    "ariya",
+    "dhamma",
+    "sappurisa",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "indriya",
+    "mana",
+    "dhatu",
+    "avijja",
+    "phassa",
+    "nsnay",
+    "ariyasavaka",
+    "sutava",
+    "vijja"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La Soif de formes",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les avidités pour les six types d'objets des sens.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Rūpataṇhā, bhikkhave, aniccā vipariṇāmī aññathābhāvī; saddataṇhā aniccā vipariṇāmī aññathābhāvī; gandhataṇhā aniccā vipariṇāmī aññathābhāvī; rasataṇhā aniccā vipariṇāmī aññathābhāvī; phoṭṭhabbataṇhā aniccā vipariṇāmī aññathābhāvī; dhammataṇhā aniccā vipariṇāmī aññathābhāvī.",
       "fr": "La [tanha|Soif] de formes (visibles), [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable; la [tanha|Soif] de sons, [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable; la [tanha|Soif] d'odeurs, [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable; la [tanha|Soif] de saveurs, [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable; la [tanha|Soif] de sensations corporelles, [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable; la [tanha|Soif] de [dhamma|phénomènes mentaux], [bhikkhu|mendiants], est [anicca|impermanente], changeante, variable."
@@ -22,6 +25,25 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "tanha",
+    "bhikkhu",
+    "anicca",
+    "dhamma",
+    "saddha",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

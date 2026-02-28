@@ -4,7 +4,10 @@
   "frTitle": "À Migajāla",
   "description": "Migajāla cherche à savoir ce que signifie demeurer seul ou demeurer avec un compagnon. Le Bouddha lui offre une définition de haut vol.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā migajālo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā migajālo bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Migajāla alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -70,6 +73,20 @@
       "fr": "Si un [bhikkhu|mendiant] demeure ainsi, Migajāla, où qu'il séjourne, même s'il s'associe aux [bhikkhu|mendiants], aux [bhikkhu|mendiant]nis, aux disciples laïcs hommes et femmes, aux rois, aux ministres royaux, aux hétérodoxes et à leurs disciples, on dit qu'il demeure seul. Pourquoi cela? Parce qu'il a abandonné la [tanha|Soif], qui était son compagnon. Voilà pourquoi on dit qu'il demeure seul."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "kama",
+    "raga",
+    "bhikkhu",
+    "samyojana",
+    "kaya",
+    "dhamma",
+    "mana",
+    "senasana",
+    "patisallana",
+    "tanha"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Beaucoup dont faire l'expérience",
   "description": "Udāyi et Pañcakaṅga le charpentier sont en désaccord en ce qui concerne les types de ressentis enseignés par le Bouddha. Ce dernier explique comment une querelle peut apparaître à cause de deux manières différentes de dire la même chose. Il explique ensuite les divers types de bien-être accessibles aux êtres.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho pañcakaṅgo thapati yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā āyasmantaṃ udāyiṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Ce jour-là, Pañcakaṅga le charpentier vint voir [ayasma|le vénérable] Udāyi, lui rendit hommage, puis s'assit d'un côté. Alors qu'il était assis là, Pañcakaṅga le charpentier demanda au [ayasma|vénérable] Udāyi:"
@@ -130,6 +133,33 @@
       "fr": "Ainsi parla le Bhagavā. [ayasma|Āyasmā] Ānanda fut satisfait et se réjouit de la parole du Bhagavā."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "sukha",
+    "dhamma",
+    "kamaguna",
+    "kama",
+    "somanassa",
+    "@f_4jhana#1c",
+    "@f_4jhana#2c",
+    "@f_4jhana#3c",
+    "@f_4jhana#4c",
+    "@f_arupajjhana#5-cl",
+    "@f_arupajjhana#6-cl",
+    "@f_arupajjhana#7-cl",
+    "@f_arupajjhana#8-cl",
+    "@f_arupajjhana#9-cl",
+    "paribbajaka",
+    "samana",
+    "sanna",
+    "ressentis",
+    "tathagata"
+  ],
   "translator": "Rémy"
 }

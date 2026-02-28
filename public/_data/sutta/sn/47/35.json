@@ -4,7 +4,10 @@
   "frTitle": "Présence d'esprit",
   "description": "Le Bouddha nous exhorte à être présents d'esprit et doués de discernement attentif, et nous explique ce qu'il entend par là.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṃ vo amhākaṃ anusāsanī.",
       "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait demeurer [sato|présent d'esprit] et [sampajana|doué d'un discernement attentif]. Voici quelle est mon instruction pour vous."
@@ -22,6 +25,17 @@
       "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] devrait demeurer [sato|présent d'esprit] et [sampajana|doué d'un discernement attentif]. Voici notre instruction pour vous."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sato",
+    "sampajana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "vedana",
+    "vitakka",
+    "sanna"
+  ],
   "translator": "Rémy"
 }

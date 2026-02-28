@@ -33,6 +33,16 @@
       "fr": "Voici, [bhikkhu|mendiants], comment la [anapanassati|présence de l'esprit sur la respiration] est développée et cultivée abondamment de manière à porter beaucoup de fruits et apporter de grands [anisamsa|bienfaits]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "anapanassati",
+    "anisamsa",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

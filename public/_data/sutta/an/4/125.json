@@ -61,6 +61,27 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus qu'on trouve dans le [loka|monde]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "@f_appam#metta-cl",
+    "assada",
+    "deva",
+    "brahma",
+    "kappa",
+    "puthujjana",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "savaka",
+    "bhagava",
+    "parinibbana",
+    "ariyasavaka",
+    "sutava",
+    "assutava",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl"
+  ],
   "translator": "Rémy"
 }

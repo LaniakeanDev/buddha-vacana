@@ -16,7 +16,10 @@
       "pl": "“sādhu sādhu, bhikkhu! bhaddako kho te, bhikkhu, ummaggo, bhaddakaṃ paṭibhānaṃ, kalyāṇī paripucchā. evañhi tvaṃ, bhikkhu, pucchasi: ‘kena nu kho, bhante, loko nīyati, kena loko parikassati, kassa ca uppannassa vasaṃ gacchatī’”ti?",
       "fr": "—Excellent, [bhikkhu|mendiant], excellent! Ta perspicacité est excellente, [bhikkhu|mendiant], ta compréhension est excellente, ta question est bonne. [bhikkhu|Mendiant], tu as demandé: [i]“[bhante|Bhanté], par quoi est-ce que le [loka|monde] est mené, par quoi est-ce que le [loka|monde] est tiré, et qu'est-ce qui, étant apparu, le tient sous son contrôle?”[/i], [n'est-ce pas?]"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“cittena kho, bhikkhu, loko nīyati, cittena parikassati, cittassa uppannassa vasaṃ gacchatī”ti.",
       "fr": "—Mendiant, le [loka|monde] est mené par l'[citta|esprit], il est tiré par l'[citta|esprit], et c'est l'[citta|esprit] qui, étant apparu, le tient sous son contrôle."
@@ -33,7 +36,10 @@
       "pl": "“sādhu sādhu, bhikkhu! bhaddako kho te, bhikkhu ummaggo, bhaddakaṃ paṭibhānaṃ, kalyāṇī paripucchā. evañhi tvaṃ, bhikkhu, pucchasi: ‘bahussuto dhammadharo, bahussuto dhammadharoti, bhante, vuccati. kittāvatā nu kho, bhante, bahussuto dhammadharo hotī’”ti?",
       "fr": "—Excellent, [bhikkhu|mendiant], excellent! Ta perspicacité est excellente, [bhikkhu|mendiant], ta compréhension est excellente, ta question est bonne. [bhikkhu|Mendiant], tu as demandé: [i]“[bhante|Bhanté], on entend dire: “Quelqu'un de [@m_bahussuta|très instruit], qui connaît l'[dhamma|Enseignement] par cœur, quelqu'un de [@m_bahussuta|très instruit], qui connaît l'[dhamma|Enseignement] par cœur.” Qu'est-ce donc, [bhante|Bhanté], que quelqu'un de [@m_bahussuta|très instruit], qui connaît l'[dhamma|Enseignement] par cœur?”[/i], [n'est-ce pas?]"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“bahū kho, bhikkhu, mayā dhammā desitā: suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthā, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. catuppadāya cepi, bhikkhu, gāthāya atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti bahussuto dhammadharoti alaṃ vacanāyā”ti.",
       "fr": "—Mendiant, j'ai professé beaucoup d'[dhamma|enseignement]s: les souttas, les mélanges de prose et de versets, les explications, les versets, les exclamations, les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. [bhikkhu|Mendiant], si quiconque, en ayant compris le [attha|sens], le [attha|bienfait], la [attha|finalité], en ayant compris l'[dhamma|Enseignement] ne serait-ce que dans une stance de quatre vers, [dadp|pratique l'Enseignement au niveau des phénomènes], c'est suffisant pour dire de lui que c'est quelqu'un de [@m_bahussuta|très instruit], qui connaît l'[dhamma|Enseignement] par cœur."
@@ -50,7 +56,10 @@
       "pl": "“sādhu sādhu, bhikkhu! bhaddako kho te, bhikkhu ummaggo, bhaddakaṃ paṭibhānaṃ, kalyāṇī paripucchā. evañhi tvaṃ, bhikkhu, pucchasi: ‘sutavā nibbedhikapañño, sutavā nibbedhikapaññoti, bhante, vuccati. kittāvatā nu kho, bhante, sutavā nibbedhikapañño hotī’”ti?",
       "fr": "—Excellent, [bhikkhu|mendiant], excellent! Ta perspicacité est excellente, [bhikkhu|mendiant], ta compréhension est excellente, ta question est bonne. [bhikkhu|Mendiant], tu as demandé: [i]“[bhante|Bhanté], on entend dire: “Quelqu'un d'instruit qui a un [panna|discernement] pénétrant, quelqu'un d'instruit qui a un [panna|discernement] pénétrant.” Qu'est-ce donc, [bhante|Bhanté], que quelqu'un d'instruit qui a un [panna|discernement] pénétrant?”[/i], [n'est-ce pas?]"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“idha, bhikkhu, bhikkhuno ‘idaṃ dukkhan’ti sutaṃ hoti, paññāya cassa atthaṃ ativijjha passati; ‘ayaṃ dukkhasamudayo’ti sutaṃ hoti, paññāya cass atthaṃ ativijjha passati; ‘ayaṃ dukkhanirodho’ti sutaṃ hoti, paññāya cassa atthaṃ ativijjha passati; ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti sutaṃ hoti, paññāya cassa atthaṃ ativijjha passati. evaṃ kho, bhikkhu, sutavā nibbedhikapañño hotī”ti.",
       "fr": "—À cet égard, un [bhikkhu|mendiant] a entendu [i]“Voici le [dukkha|mal-être]”[/i], et il en voit la signification en l'ayant percée avec [panna|discernement]; il a entendu [i]“Voici l'[dukkhasamudaya|origine du mal-être]”[/i], et il en voit la signification en l'ayant percée avec [panna|discernement]; il a entendu [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i], et il en voit la signification en l'ayant percée avec [panna|discernement]; il a entendu [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i], et il en voit la signification en l'ayant percée avec [panna|discernement]. Voici, [bhikkhu|mendiant], comment on est quelqu'un d'instruit qui a un [panna|discernement] pénétrant."
@@ -67,12 +76,32 @@
       "pl": "“sādhu sādhu, bhikkhu! bhaddako kho te, bhikkhu ummaggo, bhaddakaṃ paṭibhānaṃ, kalyāṇī paripucchā. evañhi tvaṃ, bhikkhu, pucchasi: ‘paṇḍito mahāpañño, paṇḍito mahāpañño’ti, bhante, vuccati. kittāvatā nu kho, bhante, paṇḍito mahāpañño hotī”ti?",
       "fr": "—Excellent, [bhikkhu|mendiant], excellent! Ta perspicacité est excellente, [bhikkhu|mendiant], ta compréhension est excellente, ta question est bonne. [bhikkhu|Mendiant], tu as demandé: [i]“[bhante|Bhanté], on entend dire: “Un [pandita|sage] au grand [panna|discernement], un [pandita|sage] au grand [panna|discernement].” Qu'est-ce donc, [bhante|Bhanté], qu'un [pandita|sage] au grand [panna|discernement]?”[/i], [n'est-ce pas?]"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“idha, bhikkhu, paṇḍito mahāpañño nevattabyābādhāya ceteti na parabyābādhāya ceteti na ubhayabyābādhāya ceteti attahita-parahita-ubhayahita-sabba-loka-hitameva cintayamāno cinteti. evaṃ kho, bhikkhu, paṇḍito mahāpañño hotī”ti.",
       "fr": "À cet égard, [bhikkhu|mendiant], un [pandita|sage] au grand [panna|discernement] ne vise pas à son propre préjudice, il ne vise pas au préjudice des autres, il ne vise pas au préjudice des deux, et lorsqu'il pense, il pense à son propre avantage, à l'avantage des autres, à l'avantage des deux et à l'avantage du [loka|monde] entier. Voici, [bhikkhu|mendiant], comment on est un [pandita|sage] au grand [panna|discernement]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "loka",
+    "i]“[bhante",
+    "citta",
+    "@m_bahussuta",
+    "dhamma",
+    "attha",
+    "dadp",
+    "panna",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "pandita"
+  ],
   "translator": "Rémy"
 }

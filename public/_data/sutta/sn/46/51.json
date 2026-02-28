@@ -4,7 +4,10 @@
   "frTitle": "L'alimentation",
   "description": "L'alimentation et l'absence d'alimentation des cinq obstructions et aux sept facteurs d'Éveil.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Pañcannañca, bhikkhave, nīvaraṇānaṃ sattannañca bojjhaṅgānaṃ āhārañca anāhārañca desessāmi; taṃ suṇātha.",
       "fr": "Mendiants, je vais vous expliquer l'alimentation et l'absence d'alimentation pour les cinq [nivarana|obstructions] et les sept [bojjhanga|facteurs d'Éveil]. Écoutez cela."
@@ -106,6 +109,35 @@
       "fr": "Et quelle est, [bhikkhu|mendiants], l'absence d'alimentation pour l'apparition de l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil] qui n'est pas [encore] apparue, ou pour l'augmentation et l'abondance de l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil] qui est [déjà] apparue? Il y a, [bhikkhu|mendiants], des [dhamma|états mentaux] qui sont un support pour l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil]. Ne pas porter abondammentson [manasikara|attention] à leur égard: voici l'absence d'alimentation pour l'apparition de l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil] qui n'est pas [encore] apparue, ou pour l'augmentation et l'abondance de l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil] qui est [déjà] apparue."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "nivarana",
+    "bojjhanga",
+    "bhikkhu",
+    "kamacchanda",
+    "nimitta",
+    "subha",
+    "ayonisomanasikara",
+    "byapada",
+    "patigha",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "upasama",
+    "vicikiccha",
+    "dhamma",
+    "sati",
+    "yonisomanasikara",
+    "kusala",
+    "akusala",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "samatha",
+    "upekkha",
+    "asubha",
+    "cetovimutti",
+    "metta",
+    "manasikara"
+  ],
   "translator": "Rémy"
 }

@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "identifier": "SN 34.11",
+    "plTitle": "Samāpattimūlakaṭhiti Sutta",
+    "frTitle": "Atteindre et se maintenir",
+    "description": "Atteindre la concentration et s'y maintenir.",
+    "keywords": [
+      "bhikkhu",
+      "samadhi",
+      "types de] méditants, [bhikkhu",
+      "de ces choses], de la même manière, [bhikkhu",
+      "types de] méditants, celui qui est habile à atteindre la [samadhi"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "11",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.12 à 19",
+    "plTitle": "Samāpattimūlaka Suttāni",
+    "frTitle": "Par rapport à l'atteinte",
+    "description": "Une série de souttas qui compare diverses capacités liées à la concentration à l'habilité à atteindre cette dernière.",
+    "keywords": [
+      "bhikkhu",
+      "samadhi",
+      "types de] méditants, [bhikkhu",
+      "de ces choses], de la même manière, [bhikkhu",
+      "types de] méditants, celui qui est habile à atteindre la [samadhi"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "12",
+    "readingTime": 6
+  },
+  {
+    "identifier": "SN 34.20 à 27",
+    "plTitle": "Thitimūlaka Suttāni",
+    "frTitle": "Par rapport au maintien",
+    "description": "Une série de huit souttas qui compare diverses capacités liées à la concentration à l'habilité à maintenir cette dernière.",
+    "keywords": ["bhikkhu", "samadhi", "types de] méditants, [bhikkhu"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "20",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.28 à 34",
+    "plTitle": "Vuṭṭhānamūlaka Suttāni",
+    "frTitle": "Par rapport à l'émergence",
+    "description": "Une série de six souttas qui compare diverses capacités liées à la concentration à l'habilité à émerger de cette dernière.",
+    "keywords": ["bhikkhu", "samadhi", "types de] méditants, [bhikkhu"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "28",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.35 à 40",
+    "plTitle": "Kallitamūlaka Suttāni",
+    "frTitle": "Par rapport à la qualité",
+    "description": "Une série de six souttas qui compare diverses capacités liées à la concentration à l'habilité à la qualité de cette dernière.",
+    "keywords": ["bhikkhu", "samadhi", "types de] méditants, [bhikkhu"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "35",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.41 à 45",
+    "plTitle": "Ārammaṇamūlaka Suttāni",
+    "frTitle": "Par rapport au socle",
+    "description": "Une série de cinq souttas qui compare diverses capacités liées à la concentration à l'habilité au socle de cette dernière.",
+    "keywords": ["bhikkhu", "samadhi", "types de] méditants, [bhikkhu"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "41",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.46 à 49",
+    "plTitle": "Gocaramūlaka Suttāni",
+    "frTitle": "Par rapport au nourrissement",
+    "description": "Une série de quatre souttas qui compare diverses capacités liées à la concentration à l'habilité au nourrissement dans cette dernière.",
+    "keywords": ["bhikkhu", "samadhi"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "46",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.50 à 52",
+    "plTitle": "Abhinīhāramūlaka Suttāni",
+    "frTitle": "Par rapport à être résolu",
+    "description": "Une série de trois souttas qui compare diverses capacités liées à la concentration à l'habilité à être résolu dans cette dernière.",
+    "keywords": ["bhikkhu", "samadhi"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "50",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 34.53 & 54",
+    "plTitle": "Sakkaccamūlaka Suttāni",
+    "frTitle": "Par rapport à la minutie",
+    "description": "Deux souttas qui comparent l'habileté à la minutie et à ce qui est adéquat dans la concentration à l'habilité à la minutie dans cette dernière.",
+    "keywords": ["bhikkhu", "samadhi"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "53",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 34.55",
+    "plTitle": "Sātaccamūlakasappāyakārī Sutta",
+    "frTitle": "Par rapport à la minutie",
+    "description": "Ce soutta compare l'habileté à la persévérance dans la concentration à l'habilité à faire ce qui est adéquat dans cette dernière.",
+    "keywords": [
+      "bhikkhu",
+      "samadhi",
+      "types de] méditants, [bhikkhu",
+      "de ces choses], de la même manière, [bhikkhu",
+      "types de] méditants, celui qui est habile à la persévérance dans la [samadhi"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "55",
+    "readingTime": 1
+  }
+]

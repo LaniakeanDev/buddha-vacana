@@ -4,7 +4,10 @@
   "frTitle": "La diversité des perceptions",
   "description": "Ici le mot élément fait référence aux divers objets des sens, qui amènent diverses perceptions, aspirations, désirs, obsessions et quêtes.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ... pe ..", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ..",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "«[bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -30,6 +33,6 @@
       "fr": "Voici, [bhikkhu|mendiants], comment sur la base de la diversité des [dhatu|éléments] apparaît la diversité des[sanna|perceptions], sur la base de la diversité des[sanna|perceptions] apparaît la diversité des [sankappa|aspirations], sur la base de la diversité des [sankappa|aspirations] apparaît la diversité des [chanda|désirs], sur la base de la diversité des [chanda|désirs] apparaît la diversité des obsessions, et sur la base de la diversité des obsessions apparaît la diversité des quêtes.»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhadante", "bhikkhu", "dhatu", "sanna", "sankappa", "chanda", "dhamma"],
   "translator": "Sekha"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La question d'Atchéla Kassapa",
   "description": "Atchéla Kassapa interrompt le Bouddha au milieu de sa tournée d'aumônes pour lui poser des questions sur l'origine de l'insatisfaction.",
   "body": [
-    { "pl": "evaṃ me sutaṃ ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi. addasā kho acelo kassapo bhagavantaṃ dūratova āgacchantaṃ. disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho acelo kassapo bhagavantaṃ etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri, dans la bambouseraie, au refuge des écureuils. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Rajgiri pour ses aumônes de nourriture. Atchéla Kassapa vit le [bhagava|Fortuné] arriver de loin, s'approcha de lui et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il se tint debout d'un côté et lui dit:"
@@ -29,8 +32,14 @@
       "pl": "“akālo kho tāva, kassapa, pañhassa; antaragharaṃ paviṭṭhamhā””ti.",
       "fr": "—Kassapa, ce n'est pas le moment pour une question, nous sommes entrés au milieu des maisons.»"
     },
-    { "pl": "tatiyampi kho acelo kassapo … pe …", "fr": "Une troisième fois (…)" },
-    { "pl": "… antaragharaṃ paviṭṭhamhāti.", "fr": "«(…) nous sommes entrés au milieu des maisons.»" },
+    {
+      "pl": "tatiyampi kho acelo kassapo … pe …",
+      "fr": "Une troisième fois (…)"
+    },
+    {
+      "pl": "… antaragharaṃ paviṭṭhamhāti.",
+      "fr": "«(…) nous sommes entrés au milieu des maisons.»"
+    },
     {
       "pl": "evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca —",
       "fr": "Lorsque cela fut dit, Atchéla Kassapa dit au [bhagava|Fortuné]:"
@@ -39,7 +48,10 @@
       "pl": "“na kho pana mayaṃ bhavantaṃ gotamaṃ bahudeva pucchitukāmā””ti.",
       "fr": "«Nous ne souhaitons pas demander grand chose au [bho|Honorable] Gotama."
     },
-    { "pl": "“puccha, kassapa, yadākaṅkhasī””ti.", "fr": "—Alors demande ce que tu souhaites, Kassapa." },
+    {
+      "pl": "“puccha, kassapa, yadākaṅkhasī””ti.",
+      "fr": "—Alors demande ce que tu souhaites, Kassapa."
+    },
     {
       "pl": "“kiṃ nu kho, bho gotama, ‘sayaṃkataṃ dukkhan’’ti?",
       "fr": "—Qu'en est-il, [bho|Honorable] Gotama, est-ce que l'[dukkha|insatisfaction] est produite par soi-même?"
@@ -125,6 +137,47 @@
       "fr": "Alors Atchéla Kassapa obtint le [pabbajja|Départ du foyer] auprès du [bhagava|Fortuné], il obtint l'[upasampada|ordination complète]. Et peu de temps après son ordination, le [ayasma|vénérable] Kassapa, demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Kassapa devint l'un des [arahant|Méritants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "patta",
+    "civara",
+    "bho",
+    "dukkha",
+    "bhante",
+    "tathagata",
+    "dhamma",
+    "avijja",
+    "sankhara",
+    "vinnana",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "vedana",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "viraga",
+    "nirodha",
+    "sangha",
+    "bhikkhu",
+    "upasampada",
+    "vinaya",
+    "pabbajja",
+    "ayasma",
+    "appamada",
+    "atapi",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya",
+    "arahant"
+  ],
   "translator": "Sekha."
 }

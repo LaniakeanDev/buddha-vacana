@@ -4,7 +4,10 @@
   "frTitle": "Une explication détaillée",
   "description": "Une explication détaillée consistant en une définition de chacun des maillons de la chaîne d'apparition conditionnée (paṭicca samuppāda).",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati...", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati...",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“paṭiccasamuppādaṃ vo, bhikkhave, desessāmi vibhajissāmi. taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner et vous expliquer en détail l'[paticcasamuppada|apparition conditionnée]. Écoutez cela et faites bien attention, je vais parler."
@@ -86,6 +89,51 @@
       "fr": "Telle est la [nirodha|cessation] de toute cette [khandha|accumulation] de [dukkha|mal-être].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "paticcasamuppada",
+    "bhante",
+    "bhagava",
+    "avijja",
+    "sankhara",
+    "vinnana",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "vedana",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "indriya",
+    "kamabhava",
+    "rupabhava",
+    "arupabhava",
+    "ditthupadana",
+    "silabbatupadana",
+    "attavadupadana",
+    "rupa",
+    "photthabba",
+    "dhamma",
+    "sanna",
+    "cetana",
+    "manasikara",
+    "nama",
+    "mana",
+    "kaya",
+    "citta",
+    "nana",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "viraga",
+    "nirodha"
+  ],
   "translator": "Rémy"
 }

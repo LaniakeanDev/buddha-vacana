@@ -4,7 +4,10 @@
   "frTitle": "Le Tueur",
   "description": "Le Bouddha offre à Radha une exhortation spontannée.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca",
       "fr": "Tandis qu'il était assis d'un côté, le [bhagava|Fortuné] dit au [ayasma|vénérable] Radha:"
@@ -14,6 +17,6 @@
       "fr": "«Radha, tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers le Tueur. Et qu'est-ce, Radha, que le Tueur? La [rupa|Forme], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle. Le [vedana|Ressenti](…) La [sanna|Perception] (…) Les [sankhara|Constructions] (…) La [vinnana|Conscience], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle.»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayasma", "chanda", "raga", "rupa", "mara", "vedana", "sanna", "sankhara", "vinnana"],
   "translator": "Sekha"
 }

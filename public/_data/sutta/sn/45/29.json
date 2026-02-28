@@ -4,12 +4,29 @@
   "frTitle": "Les ressentis",
   "description": "Les trois types de ressentis et la méthode pour les comprendre complètement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. imā kho, bhikkhave, tisso vedanā. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo? seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], il y a ces trois [types de] [vedana|ressentis]: les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables], les [adukkhamasukhavedana|ressentis neutres]. [bhikkhu|Mendiants], pour la compréhension complète de ces trois [types de] [vedana|ressentis], la noble voie à huit composantes est à cultiver. Quelle [aam|noble voie à huit composantes]? C'est-à-dire la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. [bhikkhu|Mendiants], pour la compréhension complète de ces trois [types de] [vedana|ressentis], la noble voie à huit composantes est à cultiver."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati"
+  ],
   "translator": "Rémy"
 }

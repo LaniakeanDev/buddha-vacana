@@ -4,7 +4,10 @@
   "frTitle": "Attaché par une laisse",
   "description": "Voici comment chacun de nous est semblable à un chien attaché par une laisse à un poteau.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“anamataggoyaṃ, bhikkhave, saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. hoti so, bhikkhave, samayo yaṃ mahāsamuddo ussussati visussati na bhavati; na tvevāhaṃ, bhikkhave, avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ dukkhassa antakiriyaṃ vadāmi.",
       "fr": "Ce [samsara|cycle de renaissances], [bhikkhu|mendiants], est sans commencement connu. On ne discerne pas de commencement à la transmigration et l'errance des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif]. Il vient un temps, [bhikkhu|mendiants], où le grand océan s'assèche, s'évapore et n'existe plus, mais je dis qu'il n'y a pas de fin au mal-être pour les êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif]."
@@ -34,6 +37,30 @@
       "fr": "Il ne court pas et ne tourne pas autour de la [rupa|Forme], il ne court pas et ne tourne pas autour du [vedana|Ressenti], il ne court pas et ne tourne pas autour de la [sanna|Perception], il ne court pas et ne tourne pas autour des [sankhara|Constructions], il ne court pas et ne tourne pas autour de la [vinnana|Conscience]. Ne courant pas et ne tournant pas autour de la [rupa|Forme], ne courant pas et ne tournant pas autour du [vedana|Ressenti], ne courant pas et ne tournant pas autour de la [sanna|Perception], ne courant pas et ne tournant pas autour des [sankhara|Constructions], ne courant pas et ne tournant pas autour de la [vinnana|Conscience], il est délivré de la [rupa|Forme], il est délivré du [vedana|Ressenti], il est délivré de la [sanna|Perception], il est délivré des [sankhara|Constructions], il est délivré de la [vinnana|Conscience], il est délivré de la [jati|naissance], du [jaramarana|vieillissement et de la mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de l'adversité. Je dis qu'il est délivré du [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "samsara",
+    "bhikkhu",
+    "nivarana",
+    "avijja",
+    "samyojana",
+    "tanha",
+    "puthujjana",
+    "assutava",
+    "ariya",
+    "dhamma",
+    "sappurisa",
+    "rupa",
+    "atta",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "jati",
+    "jaramarana",
+    "dukkha",
+    "domanassa",
+    "ariyasavaka",
+    "sutava"
+  ],
   "translator": "Rémy"
 }

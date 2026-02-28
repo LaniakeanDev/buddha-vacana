@@ -4,7 +4,10 @@
   "frTitle": "Le Tout",
   "description": "Le Bouddha donne une définition du 'Tout'.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Sabbaṃ vo, bhikkhave, desessāmi. Taṃ suṇātha. Kiñca, bhikkhave, sabbaṃ? Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca. Idaṃ vuccati, bhikkhave, sabbaṃ.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'est le Tout. Écoutez cela. Et qu'est-ce, [bhikkhu|mendiants], que le Tout? C'est simplement l'œil et les formes visibles, l'oreille et les sons, le nez et les odeurs, la langue et les saveurs, le corps et les sensations corporelles, l'esprit et les phénomènes mentaux. Voici, [bhikkhu|mendiants], ce qu'on appelle le Tout."
@@ -14,6 +17,6 @@
       "fr": "Si quiconque, [bhikkhu|mendiants], disait: [i]“Rejetant ce Tout, je mettrai en évidence un autre Tout”[/i], ce ne serait de sa part qu'une affirmation sans fondement: si on lui demandait [sur quoi reposerait cette affirmation], il ne serait pas capable de s'expliquer, et de plus il s'en trouverait hautement embarrassé. Pourquoi cela? Parce que, [bhikkhu|mendiants], ce serait hors de sa portée."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu"],
   "translator": "Rémy"
 }

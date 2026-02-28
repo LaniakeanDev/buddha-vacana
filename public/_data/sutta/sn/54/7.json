@@ -4,7 +4,10 @@
   "frTitle": "Le vénérable Mahakappina",
   "description": "Le vénérable Mahakappina ne bouge pas d'un millimètre lorsqu'il est en méditation et le Bouddha explique comment on en arrive là.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena āyasmā mahākappino bhagavato avidūre nisinno hoti pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. addasā kho bhagavā āyasmantaṃ mahākappinaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. disvāna bhikkhū āmantesi",
       "fr": "Ce jour-là, le [ayasma|vénérable] Mahakappina était assis non loin du [bhagava|Fortuné], jambes croisées, maintenant [son] [kaya|corps] droit, et mettant en place [sa] [sati|présence d'esprit] entre le nez et la bouche. Le [bhagava|Fortuné] vit le [ayasma|vénérable] Mahakappina assis non loin de là, jambes croisées, maintenant [son] [kaya|corps] droit, et mettant en place [sa] [sati|présence d'esprit] entre le nez et la bouche. L'ayant vu, il s'adressa aux [bhikkhu|mendiants]:"
@@ -58,6 +61,23 @@
       "fr": "Voici, [bhikkhu|mendiants], comment la [samadhi|concentration] au moyen de la [anapanassati|présence de l'esprit sur la respiration] est développée et cultivée, de telle manière qu'il n'y ait pas de vacillement ou de tremblement dans le [kaya|corps], ni de vacillement ou de tremblement dans l'[citta|esprit].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "kaya",
+    "sati",
+    "bhikkhu",
+    "bhante",
+    "sangha",
+    "samadhi",
+    "citta",
+    "anapanassati",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

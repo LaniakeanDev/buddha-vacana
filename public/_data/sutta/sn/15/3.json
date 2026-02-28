@@ -4,7 +4,10 @@
   "frTitle": "Les larmes",
   "description": "Quel est le plus volumineux: les larmes versées ou les océans?",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati … pe …", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati … pe …",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“anamataggoyaṃ, bhikkhave, saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ.",
       "fr": "Ce [samsara|cycle de renaissances], [bhikkhu|mendiants], est sans commencement connu. On ne discerne pas de commencement à l'errance, à la transmigration des êtres obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité]."
@@ -30,6 +33,6 @@
       "fr": "Ceci est suffisant, [bhikkhu|mendiants], pour que vous vous désenchantiez, suffisant pour que vous vous dépassionniez, suffisant pour que vous vous délivriez de tous les [sankhara|phénomènes construits]."
     }
   ],
-  "keywords": [],
+  "keywords": ["samsara", "bhikkhu", "avijja", "tanha", "dukkha", "sankhara"],
   "translator": "Sekha."
 }

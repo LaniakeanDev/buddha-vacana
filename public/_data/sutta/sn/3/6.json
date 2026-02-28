@@ -4,7 +4,10 @@
   "frTitle": "Rares",
   "description": "Le roi Passénadi comprend les dangers de la richesse.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
       "fr": "Tandis qu'il était assis là, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
@@ -26,6 +29,6 @@
       "fr": "[i]Épris de leurs jouissances sensuelles, Voraces, emportés par les [kama|plaisirs sensuels],Ils ne s'aperçoivent pas qu'ils vont trop loin,Comme des daims vers le piège posé pour eux.Les conséquences en sont amères,Car le [vipaka|résultat] en est assurément [papaka|mauvais].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante", "patisallana", "citta", "satta", "loka", "kama", "vipaka", "papaka"],
   "translator": "Rémy"
 }

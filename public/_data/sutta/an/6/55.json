@@ -4,7 +4,10 @@
   "frTitle": "Conseils à Soṇa",
   "description": "Célèbre discours dans lequel le Bouddha explique l'équilibrage de l'effort au moyen d'une comparaison avec un instrument à cordes. Suit une description de l'état d'arahant par le vénérable Soṇa.",
   "body": [
-    { "pl": "evaṃ, me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ, me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. tena kho pana samayena āyasmā soṇo rājagahe viharati sītavanasmiṃ. atha kho āyasmato soṇassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “ye kho keci bhagavato sāvakā āraddhavīriyā viharanti, ahaṃ tesaṃ aññataro. atha ca pana me na anupādāya āsavehi cittaṃ vimuccati, saṃvijjanti kho pana me kule bhogā, sakkā bhogā ca bhuñjituṃ puññāni ca kātuṃ. yaṃnūnāhaṃ sikkhaṃ paccakkhāya hīnāyāvattitvā bhoge ca bhuñjeyyaṃ puññāni ca kareyyan”ti.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri au Pic des Vautours. Au même moment, le [ayasma|vénérable] Soṇa séjournait près de Rajgiri, dans le bois frais. Ce jour-là, le [ayasma|vénérable] Soṇa était en [patisallana|isolement] dans un endroit retiré, et la pensée suivante apparut dans son [citta|esprit]: [i]“Bien que je fasse partie des disciples du [bhagava|Fortuné] qui demeurent [araddhavirya|avec une [araddhaviriya|énergie activée]], mon [citta|esprit] n'est pas délivré des [asava|impuretés mentales] par non-[upadana|attachement]. Cependant, ma famille a beaucoup de richesses, et il est possible de jouir des richesses tout en faisant du [punna|mérite]. Pourquoi ne pas abandonner l'[sikkha|entraînement] et retourner à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]?”[/i]"
@@ -17,27 +20,42 @@
       "pl": "“nanu te, soṇa, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘ye kho keci bhagavato sāvakā āraddhavīriyā viharanti, ahaṃ tesaṃ aññataro. atha ca pana me na anupādāya āsavehi cittaṃ vimuccati, saṃvijjanti kho pana me kule bhogā, sakkā bhogā ca bhuñjituṃ puññāni ca kātuṃ. yaṃnūnāhaṃ sikkhaṃ paccakkhāya hīnāyāvattitvā bhoge ca bhuñjeyyaṃ puññāni ca kareyyan’”ti?",
       "fr": "—Soṇa, pendant que tu étais en [patisallana|isolement] dans un endroit retiré, la pensée suivante n'est-elle pas apparue dans ton [citta|esprit]: [i]“Bien que je fasse partie de disciples du [bhagava|Fortuné] qui demeurent [araddhavirya|avec une [araddhaviriya|énergie activée]], mon [citta|esprit] n'est pas délivré des [asava|impuretés mentales] par non-[upadana|attachement]. Cependant, ma famille a beaucoup de richesses, et il est possible de jouir des richesses tout en faisant du [punna|mérite]. Pourquoi ne pas abandonner l'[sikkha|entraînement] et retourner à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]?”[/i]?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññasi, soṇa, kusalo tvaṃ pubbe agāriyabhūto vīṇāya tantissare”ti?",
       "fr": "—Qu'en penses-tu, Soṇa, auparavant, lorsque tu vivais au foyer, est-ce que tu étais connaisseur en ce qui concerne le son [produit par] les cordes du vīṇa?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
       "fr": "—Qu'en penses-tu, Soṇa, lorsque les cordes du vīṇa sont trop tendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
       "fr": "—Qu'en penses-tu, Soṇa, lorsque les cordes du vīṇa sont trop détendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
       "fr": "—Et lorsque les cordes du vīṇa ne sont ni trop tendues ni trop détendues, qu'elles sont ajustées à une tonalité équilibrée, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“evamevaṃ kho, soṇa, accāraddhavīriyaṃ uddhaccāya saṃvattati, atisithilavīriyaṃ kosajjāya saṃvattati. tasmātiha tvaṃ, soṇa, vīriyasamataṃ adhiṭṭhahaṃ, indriyānañca samataṃ paṭivijjha, tattha ca nimittaṃ gaṇhāhī”ti.",
       "fr": "—De la même manière, Soṇa, une [viriya|énergie] trop active mène à l'[uddhacca|agitation], et une [viriya|énergie] trop détendue mène à la paresse. C'est pourquoi tu devrais déterminer une [viriya|énergie] équilibrée en prenant en compte l'équilibre des [indriya|facultés], et c'est là que tu devrais saisir ton [nimitta|objet]."
@@ -135,6 +153,44 @@
       "fr": "Même si de formidables phénomènes mentaux connaissables par l'[citta|esprit] entrent dans le champ d'objets de son [citta|esprit], ils ne s'emparent pas de son [citta|esprit] et son [citta|esprit] n'en est pas même affecté; il se maintient en ayant atteint l'imperturbabilité, et en contemplant l'extinction [des phénomènes]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "patisallana",
+    "citta",
+    "araddhavirya",
+    "asava",
+    "upadana",
+    "punna",
+    "sikkha",
+    "bhante",
+    "viriya",
+    "uddhacca",
+    "indriya",
+    "nimitta",
+    "appamada",
+    "atapi",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya",
+    "jati",
+    "arahant",
+    "bhikkhu",
+    "samyojana",
+    "bhava",
+    "nekkhamma",
+    "paviveka",
+    "tanha",
+    "moha",
+    "saddha",
+    "aaaaaaa",
+    "raga",
+    "dosa",
+    "lss",
+    "silabbataparamasa",
+    "cetovimutti"
+  ],
   "translator": "Rémy"
 }

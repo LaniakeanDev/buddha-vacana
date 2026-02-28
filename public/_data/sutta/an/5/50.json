@@ -124,7 +124,10 @@
       "pl": "imāni kho, mahārāja, pañca alabbhanīyāni ṭhānāni samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti.",
       "fr": "Voici, Maharaja, quels sont ces cinq [dhamma|états] qui ne peuvent être obtenus par aucun [samana|renonçant] ni [brahmana|brahmane], ni [deva|déva], ni [mara|Mara], ni [brahma|Brahma], ni qui que ce soit dans le [loka|monde]."
     },
-    { "pl": "...", "fr": "(Une récapitulation en vers n'a pas été traduite)" },
+    {
+      "pl": "...",
+      "fr": "(Une récapitulation en vers n'a pas été traduite)"
+    },
     {
       "pl": "evaṃ vutte muṇḍo rājā āyasmantaṃ nāradaṃ etadavoca:",
       "fr": "Lorsque cela fut dit, le roi Mounda dit au [ayasma|vénérable] Narada:"
@@ -150,6 +153,30 @@
       "fr": "—Dans ce cas, cher Piyaka, fais brûler le corps de la reine Bhadda et érige un mémorial. A partir d'aujourd'hui, je me laverai, je m'oindrai, je mangerai mes repas et je vaquerai à mes occupations."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "deva",
+    "samana",
+    "brahmana",
+    "dhamma",
+    "soka",
+    "pandita",
+    "@m_bahussuta",
+    "citta",
+    "arahant",
+    "bhante",
+    "mara",
+    "brahma",
+    "loka",
+    "jara",
+    "marana",
+    "puthujjana",
+    "assutava",
+    "satta",
+    "moha",
+    "ariyasavaka",
+    "sutava",
+    "parinibbana"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La moitié de la vie brahmique",
   "description": "Célèbre soutta dans lequel le Bouddha déclare à Ānanda que l'amitié bénéfique constitue en réalité la totalité de la vie brahmique.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sakyesu viharati nagarakaṃ nāma sakyānaṃ nigamo. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Sakyas, dans un village nommé Nagaraka. Ce jour-là, [ayasma|le vénérable] Ānanda vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, [ayasma|le vénérable] Ānanda dit au [bhagava|Fortuné]:"
@@ -58,6 +61,33 @@
       "fr": "Ānanda, on peut également comprendre comment l'[kalyanamittata|amitié bénéfique], la camaraderie [kalyana|bénéfique], le compagnonage [kalyana|bénéfique] constituent en fait la [brahmacariya|vie brahmique] toute entière de la manière suivante: c'est grâce à leur [kalyanamittata|amitié bénéfique] avec moi que des êtres [dhamma|par nature voués] à la [jati|naissance] sont délivrés de la [jati|naissance]; que des êtres [dhamma|par nature voués] au [jara|vieillissement] sont délivrés du [jara|vieillissement]; que des êtres [dhamma|par nature voués] à la [marana|mort] sont délivrés de la [marana|mort]; que des êtres [dhamma|par nature voués] au chagrin, aux lamentations, aux [dukkha|douleurs], aux [domanassa|déplaisances mentales] et à la [upayasa|détresse] sont délivrés du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Voici, Ānanda, la manière dont on peut également comprendre comment l'[kalyanamittata|amitié bénéfique], la camaraderie [kalyana|bénéfique], le compagnonage [kalyana|bénéfique] constituent en fait la [brahmacariya|vie brahmique] toute entière."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "brahmacariya",
+    "kalyanamittata",
+    "kalyana",
+    "bhikkhu",
+    "ariyaatthangikamagga",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "dhamma",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa"
+  ],
   "translator": "Rémy"
 }

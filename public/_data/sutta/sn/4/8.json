@@ -4,7 +4,10 @@
   "frTitle": "Se réjouissent",
   "description": "Le Bouddha réfute Māra au sujet de ce qui produit la jouissance.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato santike imaṃ gāthaṃ abhāsi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Ce jour-là, [mara|Mara] le Malin vint voir le [bhagava|Fortuné] et prononça ces vers en sa présence:"
@@ -22,6 +25,6 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“Le [bhagava|Fortuné] me connaît, le Sublime me connaît”[/i], disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "mara", "upadhi"],
   "translator": "Rémy"
 }

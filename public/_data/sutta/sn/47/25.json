@@ -4,7 +4,10 @@
   "frTitle": "Un certain brahmane",
   "description": "Un brahmane demande au Bouddha la raison pour laquelle le Dhamma perdure ou pas après que le Bouddha meurt.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so brāhmaṇo bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, un certain brahmane vint voir le [bhagava|Fortuné] et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté et lui dit:"
@@ -34,6 +37,22 @@
       "fr": "«C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Gotama a expliqué le [dhamma|Dhamma] de diverses façons. Je vais en refuge au vénérable Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le vénérable Gotama me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bho",
+    "hetu",
+    "saddhamma",
+    "tathagata",
+    "parinibbana",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "dhamma",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Bhikkhu Sekha"
 }

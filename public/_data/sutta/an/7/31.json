@@ -4,7 +4,10 @@
   "frTitle": "Ruine ou prospérité",
   "description": "Sept points qui mènent un disciple laïc à sa ruine ou à sa prospérité.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -18,6 +21,6 @@
       "fr": "Ces sept [dhamma|choses], [bhikkhu|mendiants], mènent à la prospérité d'un [upasaka|disciple laïc]. Quelles sont ces sept? Il ne néglige pas d'aller voir les [bhikkhu|mendiants], il ne néglige pas d'écouter le [saddhamma|Dhamma correct], il s'entraîne à la vertu supérieure, il est très satisfait avec les [bhikkhu|mendiants], qu'ils soient des aînés, ou bien nouvellement ordonnés ou de rang moyen, il écoute le [dhamma|Dhamma] sans avoir un [citta|esprit] adverse, sans chercher des prétextes de critique, il ne cherche pas un individu digne d'offrandes ailleurs, et il donne ici d'abord. Voici, [bhikkhu|mendiants], quelles sont les sept [dhamma|choses] qui mènent à la prospérité d'un [upasaka|disciple laïc]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "dhamma", "upasaka", "saddhamma", "citta"],
   "translator": "Rémy"
 }

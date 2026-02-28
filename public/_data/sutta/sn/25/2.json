@@ -4,7 +4,10 @@
   "frTitle": "Les formes visibles",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les objets des sens.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Rūpā, bhikkhave, aniccā vipariṇāmino aññathābhāvino; saddā aniccā vipariṇāmino aññathābhāvino; gandhā aniccā vipariṇāmino aññathābhāvino; rasā aniccā vipariṇāmino aññathābhāvino; phoṭṭhabbā aniccā vipariṇāmino aññathābhāvino; dhammā aniccā vipariṇāmino aññathābhāvino.",
       "fr": "[bhikkhu|Mendiants], les formes (visibles) sont [anicca|impermanentes], changeantes, variables; les sons sont [anicca|impermanents], changeants, variables; les odeurs sont [anicca|impermanentes], changeantes, variables; les saveurs sont [anicca|impermanentes], changeantes, variables; les sensations corporelles sont [anicca|impermanentes], changeantes, variables; les [dhamma|phénomènes mentaux] sont [anicca|impermanents], changeants, variables."
@@ -22,6 +25,24 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "anicca",
+    "dhamma",
+    "saddha",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

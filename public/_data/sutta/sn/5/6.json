@@ -4,7 +4,10 @@
   "frTitle": "La mendiante Tchala",
   "description": "On demande à Tchala de quoi elle désapprouve: c'est de le naissance. Mais pourquoi donc?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho cālā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā yena cālā bhikkhunī tenupasaṅkami; upasaṅkamitvā cālaṃ bhikkhuniṃ etadavoca",
       "fr": "Ce matin-là, la [bhikkhuni|mendiante] Tchala s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin s'approcha d'elle et lui dit:"
@@ -13,13 +16,22 @@
       "pl": "“kiṃ nu tvaṃ, bhikkhuni, na rocesī””ti? ",
       "fr": "«De quoi donc, [bhikkhuni|mendiante], désapprouves-tu?"
     },
-    { "pl": "“jātiṃ khvāhaṃ, āvuso, na rocemī””ti", "fr": "—C'est de la naissance, mon ami, dont je désapprouve.»" },
-    { "pl": "", "fr": "[Mara:]" },
+    {
+      "pl": "“jātiṃ khvāhaṃ, āvuso, na rocemī””ti",
+      "fr": "—C'est de la naissance, mon ami, dont je désapprouve.»"
+    },
+    {
+      "pl": "",
+      "fr": "[Mara:]"
+    },
     {
       "pl": "“kiṃ nu jātiṃ na rocesi, jāto kāmāni bhuñjati. ko nu taṃ idamādapayi, jātiṃ mā roca bhikkhunī””ti.",
       "fr": "Pourquoi donc est-ce que tu désapprouves de la naissance?Ce qui est né joui des [kama|plaisirs sensuels].Qui donc t'as convaincuDe désapprouver de la naissance, [bhikkhuni|mendiante]?"
     },
-    { "pl": "", "fr": "[Tchala:]" },
+    {
+      "pl": "",
+      "fr": "[Tchala:]"
+    },
     {
       "pl": "“jātassa maraṇaṃ hoti, jāto dukkhāni phussati . bandhaṃ vadhaṃ pariklesaṃ, tasmā jātiṃ na rocaye. ",
       "fr": "Pour celui qui est né, il y a la mort.Celui qui est né est touché par les [dukkha|mal-être]:Enchaînement, violences, épreuves.C'est pourquoi il faut désapprouver de la naissance."
@@ -37,6 +49,19 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Tchala me connaît,”[/i] disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhuni",
+    "patta",
+    "civara",
+    "pindapata",
+    "mara",
+    "kama",
+    "dukkha",
+    "dhamma",
+    "sacca",
+    "rupa",
+    "nirodha",
+    "bhava"
+  ],
   "translator": "Sekha"
 }

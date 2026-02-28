@@ -4,7 +4,10 @@
   "frTitle": "Un fils unique",
   "description": "Un disciple dont le fils unique est décédé vient voir le Bouddha avec ses proches.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena aññatarassa upāsakassa ekaputtako piyo manāpo kālaṅkato hoti. atha kho sambahulā upāsakā allavatthā allakesā divā divassa yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinne kho te upāsake bhagavā etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le fils unique, cher et tendre d'un certain [upasaka|disciple laïc] était décédé. Alors un grand nombre de disciples laïcs portant des vêtements mouillés et avec les cheveux mouillés vinrent voir le [bhagava|Fortuné] au milieu de la journée, lui rendirent hommage, puis s'assirent d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] leur dit:"
@@ -34,6 +37,6 @@
       "fr": "Mais ceux qui, de jour comme de nuit,[appamada|Assidus], abandonnent ce qui est attrayant,Ceux-là déterrent la racine du malheur,L'appât de la mort, si difficile à transcender."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "upasaka", "bhante", "udana", "deva", "appamada"],
   "translator": "Sekha"
 }

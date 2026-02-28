@@ -4,7 +4,10 @@
   "frTitle": "Le monde",
   "description": "Juste après son éveil, le Bouddha passe le monde en revue et voit tous les êtres tourmentés par l'avidité, l'aversion et la délusion.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī. atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā buddhacakkhunā lokaṃ volokesi. addasā kho bhagavā buddhacakkhunā volokento satte anekehi santāpehi santappamāne, anekehi ca pariḷāhehi pariḍayhamāne — rāgajehipi, dosajehipi, mohajehipi .",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied de l'arbre de l'Éveil, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, ayant émergé de cette [samadhi|concentration], il examina le monde avec l'œil d'un éveillé. En examinant avec l'œil d'un éveillé, le Fortuné vit des êtres subissant divers tourments, brûlés par diverses fièvres, dues à l'[raga|avidité], l'[dosa|aversion] et la [moha|délusion]."
@@ -34,6 +37,36 @@
       "fr": "À partir de la destruction de toutes les [tanha|Soifs],Il ya [viraga|disparition] complète & [nirodha|cessation], l'[nibbana|Extinction].Pour un [bhikkhu|mendiant] ayant atteint l'[nibbana|Extinction],Par l'absence d'[upadana|attachement], il n'y a pas d'[bhava|existence] supplémentaire.Il a vaincu le [mara|Tueur], victorieux dans la bataille,Et ainsi il a surmonté toutes les [bhava|existences]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "sambodhi",
+    "vimutti",
+    "samadhi",
+    "raga",
+    "dosa",
+    "moha",
+    "udana",
+    "phassa",
+    "atta",
+    "bhava",
+    "dukkha",
+    "brahmacariya",
+    "samana",
+    "brahmana",
+    "avijja",
+    "anicca",
+    "dhamma",
+    "viparinama",
+    "panna",
+    "yathabhutam",
+    "bhavatanha",
+    "tanha",
+    "viraga",
+    "nirodha",
+    "nibbana",
+    "bhikkhu",
+    "upadana",
+    "mara"
+  ],
   "translator": "Sekha"
 }

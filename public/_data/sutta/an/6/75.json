@@ -21,6 +21,24 @@
       "fr": "La [vitakka|pensée] de [nekkhamma|renoncement], la [vitakka|pensée] de [abyapada|bienveillance], la [vitakka|pensée] d'[avihimsa|inoffensivité], la [sanna|perception] de [nekkhamma|renoncement], la [sanna|perception] de [abyapada|bienveillance], et la [sanna|perception] d'[avihimsa|inoffensivité]. Un [bhikkhu|mendiant] pourvu de ces six [dhamma|états]vit dans le [sukha|bien-être] [ditthevadhamme|dans ce monde visible], sans contrariétés, sans adversité et sans fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [sugati|bonne destination]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "dukkha",
+    "ditthevadhamme",
+    "kaya",
+    "marana",
+    "duggati",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "sanna",
+    "sukha",
+    "sugati",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa"
+  ],
   "translator": "Bhikkhu Sekha"
 }

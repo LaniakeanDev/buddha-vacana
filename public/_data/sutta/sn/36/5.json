@@ -13,6 +13,17 @@
       "fr": "Un [bhikkhu|mendiant] chez qui les [sukhavedana|ressentis agréables] sont vus comme [dukkha|insatisfaisants], les [dukkhavedana|ressentis désagréables] sont vus comme une flèche, et les [adukkhamasukhavedana|ressentis neutres] sont vus comme [anicca|impermanents] est appelé un [bhikkhu|mendiant] voyant correctement, qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves] et qui, par la compréhension correcte et complète de la [maana|prétention], a mis fin au [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "dukkha",
+    "anicca",
+    "tanha",
+    "samyojana",
+    "maana"
+  ],
   "translator": "Rémy"
 }

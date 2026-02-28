@@ -4,7 +4,10 @@
   "frTitle": "Par rapport au maintien",
   "description": "Une série de huit souttas qui compare diverses capacités liées à la concentration à l'habilité à maintenir cette dernière.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
@@ -22,6 +25,6 @@
       "fr": "(21 à 27: Les sept souttas qui restent dans cette série suivent le modèle ci-dessus, en remplaçant «émerger» par les termes de la série précédente, de «qualité» à «ce qui est adéquat», comme dans SN 34.13 à 19.)"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "samadhi"],
   "translator": "Sekha"
 }

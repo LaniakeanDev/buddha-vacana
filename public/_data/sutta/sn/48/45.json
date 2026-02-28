@@ -4,7 +4,10 @@
   "frTitle": "L'ermitage de l'Est",
   "description": "Cette série de soutta constitue un bon exemple où le Bouddha donne différentes réponses à la même question, montrant ainsi que le Dhamma peut être expliqué de manières différentes.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde.tatra kho bhagavā bhikkhū āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans l'ermitage de l'est, le manoir de la mère de Migara.Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -30,6 +33,22 @@
       "fr": "«[bhikkhu|Mendiants], c'est par le développement et la cultivation abondante d'une seule [indriya|faculté spirituelle] qu'un [bhikkhu|mendiant] ayant détruit les [asava|impuretés mentales] déclare [avoir atteint] la connaissance finale: [i]“je discerne: c'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence”[/i]. Quelle est cette [indriya|faculté spirituelle]? La [indriya|faculté] de [panna|discernement]. Chez un [ariyasavaka|noble disciple] pourvu de [panna|discernement], la [indriya|faculté] de [saddha|conviction] qui en résulte s'affermit, la [indriya|faculté] d'[viriya|énergie] qui en résulte s'affermit, la [indriya|faculté] de [sati|présence d'esprit] qui en résulte s'affermit, et la [indriya|faculté] de [samadhi|concentration] qui en résulte s'affermit. [bhikkhu|Mendiants], c'est par le développement et la cultivation abondante de cette unique [indriya|faculté spirituelle] qu'un [bhikkhu|mendiant] ayant détruit les [asava|impuretés mentales] déclare [avoir atteint] la connaissance finale: [i]“je discerne: c'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence”[/i].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "indriya",
+    "asava",
+    "jati",
+    "brahmacariya",
+    "bhante",
+    "dhamma",
+    "@m_attha",
+    "panna",
+    "ariyasavaka",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi"
+  ],
   "translator": "Sekha"
 }

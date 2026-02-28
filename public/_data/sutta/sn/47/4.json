@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ bhagavā kosalesu viharati sālāya brāhmaṇagāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Kosalans, près de Sala, un village de [brahmana|brahmanes]. Là, le [bhagava|Fortuné] s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "— [bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -30,6 +33,30 @@
       "fr": "[bhikkhu|Mendiants], les [bhikkhu|mendiants] qui sont néophytes, [pabbaja|ayant quitté le foyer] depuis peu, qui sont récemment venus à cet [dhamma|Enseignement] & [vinaya|Discipline], vous devriez les exhorter, les installer, les établir dans le [bhavana|développement] de ces quatre [satipatthana|mises en place de la présence d'[citta|esprit]]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "brahmana",
+    "bhikkhu",
+    "bhadante",
+    "pabbaja",
+    "dhamma",
+    "vinaya",
+    "bhavana",
+    "satipatthana",
+    "avuso",
+    "kaya",
+    "atapi",
+    "sampajana",
+    "citta",
+    "samadhi",
+    "yathabhutam",
+    "vedana",
+    "sekha",
+    "parinna",
+    "arahant",
+    "asava",
+    "samyojana",
+    "bhava"
+  ],
   "translator": "Rémy"
 }

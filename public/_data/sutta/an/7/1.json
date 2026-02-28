@@ -4,7 +4,10 @@
   "frTitle": "Agréable",
   "description": "Sept traits de caractère qui font qu'un mendiant est agréable ou non à ses compagnons dans la vie de renoncement.",
   "body": [
-    { "pl": "1. evaṃ me sutaṃ: ", "fr": "1. Ainsi ai-je entendu:" },
+    {
+      "pl": "1. evaṃ me sutaṃ: ",
+      "fr": "1. Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -62,6 +65,17 @@
       "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces sept [dhamma|caractéristiques] est cher et bien-aimé par ses compagnons dans la [brahmacariya|vie brahmique], et il est honoré et révéré."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "dhamma",
+    "brahmacariya",
+    "hiri",
+    "ottappa",
+    "micchaditthi",
+    "appicchata",
+    "sammaditthi"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Dans quel but?",
   "description": "Dans quel but vit-on la vie brahmique auprès du renonçant Gotama (i.e. le Bouddha)?",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā appekacce bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ:",
       "fr": "Ce jour-là, un certain nombre de [bhikkhu|mendiants] allèrent voir le [bhagava|Fortuné], lui rendirent hommage, puis s'assirent d'un côté. Une fois assis là, ils dirent au [bhagava|Fortuné]:"
@@ -26,6 +29,28 @@
       "fr": "[bhikkhu|Mendiants], si des [paribbajaka|vagabonds spirituels] hétérodoxes vous questionnent ainsi, vous devriez leur répondre ainsi."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "paribbajaka",
+    "i]“[avuso",
+    "brahmacariya",
+    "samana",
+    "dukkha",
+    "dhamma",
+    "avuso",
+    "magga",
+    "patipada",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

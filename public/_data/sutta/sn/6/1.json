@@ -4,7 +4,10 @@
   "frTitle": "La requête deBrahmā",
   "description": "Juste après son éveil, Brahma Sahampati visite le Bouddha pour le convaincre d'enseigner aux hommes.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “adhigato kho myāyaṃ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. ālayarāmā kho panāyaṃ pajā ālayaratā ālayasammuditā. ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṃ idaṃ ṭhānaṃ yadidaṃ ida-ppaccayatā-paṭicca-samuppādo. idampi kho ṭhānaṃ duddasaṃ yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ. ahañceva kho pana dhammaṃ deseyyaṃ pare ca me na ājāneyyuṃ; so mamassa kilamatho, sā mamassa vihesā”ti. apissu bhagavantaṃ imā anacchariyā gāthāyo paṭibhaṃsu pubbe assutapubbā:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjarā, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. Ce jour-là, tandis qu'il était en [patisallana|isolement] dans un endroit retiré, la réflexion suivante apparut dans son esprit: [i]“Ce [dhamma|Dhamma] auquel je suis parvenu est profond, difficile à voir, il est difficile de s'y éveiller, il est paisible, sublime, au-delà du simple raisonnement, subtil, et à être vérifié par les sages. Mais cette population se plaît à l'attachement, elle se complaît dans l'attachement, elle jubile dans l'attachement. Et pour cette population qui se plaît à l'attachement, qui se complaît dans l'attachement, qui jubile dans l'attachement, il est difficile de voir cet état: la conditionnalité spécifique dans l'[paticcasamuppada|apparition conditionnée]. Il est également difficile de voir cet état: la [samatha|tranquillisation] de toutes les [sankhara|constructions], la renonciation de toutes les acquisitions, la destruction de la [tanha|Soif], le [viraga|désintéressement], la [nirodha|cessation], l'[nibbana|Extinction]. Si j'enseigne le [dhamma|Dhamma], les autres ne me comprendront pas. Ce sera fatiguant et frustrant.”[/i] Alors ces vers extraordinaires, qui n'avaient jamais été entendus auparavant, vinrent au [bhagava|Fortuné]:"
@@ -54,6 +57,35 @@
       "fr": "Alors [brahma|Brahmā] Sahampati, [se disant:] [i]“Grâce à moi, le [bhagava|Fortuné] a accepté d'enseigner le [dhamma|Dhamma]!”[/i], ayant rendu hommage au [bhagava|Fortuné] en le maintenant à sa droite, disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "sambodhi",
+    "patisallana",
+    "dhamma",
+    "paticcasamuppada",
+    "samatha",
+    "sankhara",
+    "tanha",
+    "viraga",
+    "nirodha",
+    "nibbana",
+    "raga",
+    "dosa",
+    "khandha",
+    "citta",
+    "brahma",
+    "loka",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "bhante",
+    "amata",
+    "soka",
+    "jati",
+    "jara",
+    "indriya",
+    "saddha",
+    "sanna"
+  ],
   "translator": "Rémy"
 }

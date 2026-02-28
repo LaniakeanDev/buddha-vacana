@@ -4,7 +4,10 @@
   "frTitle": "Mahānamā le Sakya",
   "description": "Le Bouddha délivre un message rassurant à l'un de ses disciples, et lui explique qu'au moment de la mort, c'est l'état d'esprit qui a été cultivé tout au long de la vie qui constitue la force directrice, et non l'état de confusion qui peut éventuellement la précéder.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Sakyas, près de Kapilavatthou, dans le parc de Nigrodha. Ce jour-là, Mahanama le Sakya vint voir [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -30,6 +33,20 @@
       "fr": "Mahanama, ton esprit a pendant longtemps été nourri de [saddha|conviction], de [sila|vertu], de connaissances, de [caga|générosité] et de [panna|discernement]. N'aie crainte, Mahānāma, n'aie crainte. Ta [marana|mort] ne sera pas [papaka|mauvaise], ton trépas ne sera pas [papaka|mauvais].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "bhikkhu",
+    "sati",
+    "dhamma",
+    "sangha",
+    "marana",
+    "papaka",
+    "saddha",
+    "sila",
+    "caga",
+    "panna",
+    "anicca"
+  ],
   "translator": "Rémy"
 }

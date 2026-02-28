@@ -4,7 +4,10 @@
   "frTitle": "Purifiées",
   "description": "Huit qualités qui n'apparaissent dans le monde que grâce à un Bouddha.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“aṭṭhime, bhikkhave, dhammā parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. katame aṭṭha?",
       "fr": "—[bhikkhu|Mendiants], lorsque ces huit [dhamma|qualités], purifiées, immaculées, sans tache, dénuées de souillure ne sont pas apparues, elles n'apparaissent que grâce à la manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé]. Quelles sont ces huit?"
@@ -18,6 +21,20 @@
       "fr": "[bhikkhu|Mendiants], lorsque ces huit [dhamma|qualités], purifiées, immaculées, sans tache, dénuées de souillure ne sont pas apparues, elles n'apparaissent que grâce à la manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

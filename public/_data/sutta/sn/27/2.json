@@ -4,7 +4,10 @@
   "frTitle": "Les formes",
   "description": "Le désir et l'avidité envers les objets des sens sont des impuretés auxquelles il faut renoncer.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Yo, bhikkhave, rūpesu chanda·rāgo, cittasseso upakkileso. Yo saddesu chanda·rāgo, cittasseso upakkileso. Yo gandhesu chanda·rāgo, cittasseso upakkileso. Yo rasesu chanda·rāgo, cittasseso upakkileso. Yo phoṭṭhabbesu chanda·rāgo, cittasseso upakkileso. Yo dhammesu chanda·rāgo, cittasseso upakkileso.",
       "fr": "Le [chanda|désir] [raga|avide] envers les formes (visibles), [bhikkhu|mendiants], est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les sons est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les odeurs est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les saveurs est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les sensations corporelles est une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers les phénomènes mentaux est une [upakkilesa|souillure] de l'[citta|esprit]."
@@ -14,6 +17,6 @@
       "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
     }
   ],
-  "keywords": [],
+  "keywords": ["chanda", "raga", "bhikkhu", "upakkilesa", "citta", "nekkhamma", "dhamma", "abhinna"],
   "translator": "Rémy"
 }

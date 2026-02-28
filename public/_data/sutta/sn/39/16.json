@@ -36,8 +36,11 @@
       "pl": "Kīvaciraṃ panāvuso, dhammānudhammappaṭipanno bhikkhu arahaṃ assā ti?",
       "fr": "— Pour celui qui [dhammanudhammappatipatti|pratique l'Enseignement au niveau des phénomènes], amis, combien de temps cela prend-il pour devenir un [arahant|Méritant]?"
     },
-    { "pl": "Naciraṃ, āvuso ti.", "fr": "— Pas longtemps, ami." }
+    {
+      "pl": "Naciraṃ, āvuso ti.",
+      "fr": "— Pas longtemps, ami."
+    }
   ],
-  "keywords": [],
+  "keywords": ["ayasma", "samana", "dhamma", "vinaya", "pabbajja", "dhammanudhammappatipatti", "arahant"],
   "translator": "Rémy"
 }

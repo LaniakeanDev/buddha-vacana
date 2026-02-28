@@ -4,7 +4,10 @@
   "frTitle": "Avec les dix cheminements d'action",
   "description": "Le tempérament est ici défini par les dix cheminements d'action et détermine les associations.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ... pe ..", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ..",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“dhātusova, bhikkhave, sattā saṃsandanti samenti. pāṇātipātino pāṇātipātīhi saddhiṃ saṃsandanti samenti; adinnādāyino … pe … kāmesumicchācārino. musāvādino. pisuṇavācā. pharusavācā. samphappalāpino samphappalāpīhi saddhiṃ saṃsandanti samenti; abhijjhāluno abhijjhālūhi saddhiṃ saṃsandanti samenti; byāpannacittā byāpannacittehi saddhiṃ saṃsandanti samenti; micchādiṭṭhikā micchādiṭṭhikehi saddhiṃ saṃsandanti samenti”",
       "fr": "[bhikkhu|Mendiants], les êtres s'associent et s'assemblent selon les [dhatu|éléments]. Ceux qui [panatipata|détruisent la vie] s'associent et s'assemblent avec ceux qui [panatipata|détruisent la vie], ceux qui [adinnadana|s’emparent de ce qui n'a pas été donné] s'associent et s'assemblent avec ceux qui s’emparent de ce qui n'a pas été donné,ceux qui se [kamesumicchacara|méconduisent en raison des plaisirs sensuels] s'associent et s'assemblent avec ceux qui se [kamesumicchacara|méconduisent en raison des plaisirs sensuels],ceux qui ont des [musavada|paroles fausses] s'associent et s'assemblent avec ceux qui ont des [musavada|paroles fausses],ceux qui ont des [pisunavaca|paroles médisantes] s'associent et s'assemblent avec ceux qui ont des [pisunavaca|paroles médisantes],ceux qui ont des [pharusavaca|paroles agressives] s'associent et s'assemblent avec ceux qui ont des [pharusavaca|paroles agressives],ceux qui font des bavardages infructueux s'associent et s'assemblent avec ceux qui font des bavardages infructueux,ceux qui sont [abhijjha|envieux] s'associent et s'assemblent avec ceux qui sont [abhijjha|envieux],ceux qui ont un esprit [byapada|malveillant] s'associent et s'assemblent avec ceux qui ont un esprit [byapada|malveillant], etceux qui ont des [micchaditthi|vues erronées] s'associent et s'assemblent avec ceux qui ont des [micchaditthi|vues erronées]."
@@ -14,6 +17,20 @@
       "fr": "Ceux qui s'abstiennent de [panatipata|détruire la vie] s'associent et s'assemblent avec ceux qui s'abstiennent de [panatipata|détruire la vie], ceux qui s'abstiennent de [adinnadana|s’emparer de ce qui n'a pas été donné] s'associent et s'assemblent avec ceux qui s'abstiennent de [adinnadana|s’emparer de ce qui n'a pas été donné],ceux qui s'abstiennent de se [kamesumicchacara|méconduire en raison des plaisirs sensuels] s'associent et s'assemblent avec ceux qui s'abstiennent de se [kamesumicchacara|méconduire en raison des plaisirs sensuels],ceux qui s'abstiennent d'avoir des [musavada|paroles fausses] s'associent et s'assemblent avec ceux qui s'abstiennent d'avoir des [musavada|paroles fausses],ceux qui s'abstiennent d'avoir des [pisunavaca|paroles médisantes] s'associent et s'assemblent avec ceux qui s'abstiennent d'avoir des [pisunavaca|paroles médisantes],ceux qui s'abstiennent d'avoir des [pharusavaca|paroles agressives] s'associent et s'assemblent avec ceux qui s'abstiennent d'avoir des [pharusavaca|paroles agressives],ceux qui s'abstiennent des bavardages infructueux s'associent et s'assemblent avec ceux qui s'abstiennent des bavardages infructueux,ceux qui ne sont pas [abhijjha|envieux] s'associent et s'assemblent avec ceux qui ne sont pas [abhijjha|envieux],ceux qui n'ont pas un esprit [byapada|malveillant] s'associent et s'assemblent avec ceux qui n'ont pas un esprit [byapada|malveillant], etceux qui ont des [sammaditthi|vues correctes] s'associent et s'assemblent avec ceux qui ont des [sammaditthi|vues correctes]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "dhatu",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "abhijjha",
+    "byapada",
+    "micchaditthi",
+    "sammaditthi"
+  ],
   "translator": "Sekha"
 }

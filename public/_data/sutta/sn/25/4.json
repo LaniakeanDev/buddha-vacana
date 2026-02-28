@@ -4,7 +4,10 @@
   "frTitle": "Le contact",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les contacts sensoriels.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Cakkhusamphasso, bhikkhave, anicco vipariṇāmī aññathābhāvī; sotasamphasso anicco vipariṇāmī aññathābhāvī; ghānasamphasso anicco vipariṇāmī aññathābhāvī; jivhāsamphasso anicco vipariṇāmī aññathābhāvī; kāyasamphasso anicco vipariṇāmī aññathābhāvī; manosamphasso anicco vipariṇāmī aññathābhāvī.",
       "fr": "[bhikkhu|Mendiants], le [phassa|contact] oculaire est [anicca|impermanent], changeant, variable; le [phassa|contact] auditif est [anicca|impermanent], changeant, variable; le [phassa|contact] olfactif est [anicca|impermanent], changeant, variable; le [phassa|contact] gustatif est [anicca|impermanent], changeant, variable; le [phassa|contact] corporel est [anicca|impermanent], changeant, variable; le [phassa|contact] mental est [anicca|impermanent], changeant, variable."
@@ -22,6 +25,25 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "phassa",
+    "anicca",
+    "saddha",
+    "dhamma",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

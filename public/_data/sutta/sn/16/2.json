@@ -4,7 +4,10 @@
   "frTitle": "Manquant de crainte morale",
   "description": "Deux arahants discutent de ce que signifient être ou non ardent (ātāpī) et 'ayant de la crainte morale' (ottappī).",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ āyasmā ca mahākassapo āyasmā ca sāriputto bārāṇasiyaṃ viharanti isipatane migadāye. atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yenāyasmā mahākassapo tenupasaṅkami; upasaṅkamitvā āyasmatā mahākassapena saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ mahākassapaṃ etadavoca:",
       "fr": "Un jour, le [ayasma|vénérable] Mahakassapa et le [ayasma|vénérable] Saripoutta séjournaient près de Bénarès, à Isipitana, dans le parc aux daims.Le soir venu, le [ayasma|vénérable] Saripoutta sortit de l'[patisallana|isolement], alla voir le [ayasma|vénérable] Mahakassapa et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Une fois assis là, le [ayasma|vénérable] Saripoutta demanda au [ayasma|vénérable] Mahakassapa:"
@@ -38,6 +41,19 @@
       "fr": "Ainsi, ami, pour celui qui est [atapi|ardent] et qui a de la [ottappa|crainte morale], il est possible d'atteindre l'[sambodhi|éveil], il est possible d'atteindre l'[nibbana|Extinction], il est possible d'atteindre le suprême soulagement du [yoga|joug]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "patisallana",
+    "atapi",
+    "ottappa",
+    "sambodhi",
+    "nibbana",
+    "yoga",
+    "bhikkhu",
+    "dhamma",
+    "akusala",
+    "papaka",
+    "kusala"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La cité",
   "description": "L'allégorie de l'ancienne cité abandonnée retrouvée par hasard en plein cœur de la forêt.",
   "body": [
-    { "pl": "sāvatthiyaṃ ... pe ... ", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ ... pe ... ",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“pubbe me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi — ‘kicchā vatāyaṃ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca. atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa. kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassā’’ti?",
       "fr": "«[bhikkhu|Mendiants], avant mon [sambodhi|éveil], lorsque je n'étais qu'un [bodhisatta|être d'Éveil], pas encore [sambuddha|éveillé], je me suis dit: [i]“Hélas! Ce [loka|monde] est tombé dans la misère:il naît, il vieillit, il meurt, il transmigre et il réapparaît, mais il ne discerne pas l'[nissarana|émancipation] à l'égard du [dukkha|mal-être], du [jaramarana|vieillissement et de la mort]. Quand donc l'[nissarana|émancipation] vis-à-vis du [dukkha|mal-être], du [jaramarana|vieillissement et de la mort] sera-t-elle discernée?”[/i]"
@@ -86,6 +89,55 @@
       "fr": "Cette [abhinna|compréhension directe], je l'ai transmise aux [bhikkhu|mendiants], aux [bhikkhuni|mendiantes], aux [upasaka|disciples laïcs] hommes et femmes. Cette [brahmacariya|vie brahmique] est devenue prospère, florissante, largement répandue, populaire, commune, bien exposée parmi les [deva|dévas] et les humains.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "sambodhi",
+    "bodhisatta",
+    "sambuddha",
+    "loka",
+    "nissarana",
+    "dukkha",
+    "jaramarana",
+    "ymk",
+    "panna",
+    "jati",
+    "bhava",
+    "upadana",
+    "tanha",
+    "vedana",
+    "phassa",
+    "salayatana",
+    "namarupa",
+    "vinnana",
+    "jara",
+    "marana",
+    "domanassa",
+    "upayasa",
+    "cakkhu",
+    "nana",
+    "vijja",
+    "aloka",
+    "i]“[samudaya",
+    "samudaya",
+    "nirodha",
+    "khandha",
+    "i]“[nirodha",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "sankhara",
+    "abhinna",
+    "bhikkhuni",
+    "upasaka",
+    "brahmacariya",
+    "deva"
+  ],
   "translator": "Sekha."
 }

@@ -53,6 +53,36 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d'][padhana|effort]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "padhana",
+    "samvara",
+    "bhavana",
+    "@f_samvara#is-eye",
+    "@f_samvara#is-ear",
+    "@f_samvara#is-nose",
+    "@f_samvara#is-tongue",
+    "@f_samvara#is-body",
+    "@f_samvara#is-mind",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "dhamma",
+    "papaka",
+    "akusala",
+    "sambojjhanga",
+    "sati",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha",
+    "sanna"
+  ],
   "translator": "Rémy"
 }

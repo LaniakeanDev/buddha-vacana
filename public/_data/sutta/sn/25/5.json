@@ -4,7 +4,10 @@
   "frTitle": "Engendré par le contact",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les ressentis engendrés par les six types de contacts sensoriels.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Cakkhusamphassajā, bhikkhave, vedanā aniccā vipariṇāmī aññathābhāvī; sotasamphassajā vedanā aniccā vipariṇāmī aññathābhāvī; ghānasamphassajā vedanā aniccā vipariṇāmī aññathābhāvī; jivhāsamphassajā vedanā aniccā vipariṇāmī aññathābhāvī; kāyasamphassajā vedanā aniccā vipariṇāmī aññathābhāvī; manosamphassajā vedanā aniccā vipariṇāmī aññathābhāvī.",
       "fr": "[bhikkhu|Mendiants], le [vedana|ressenti] engendré par le [phassa|contact] oculaire est [anicca|impermanent], changeant, variable; le [vedana|ressenti] engendré par le [phassa|contact] auditif est [anicca|impermanent], changeant, variable; le [vedana|ressenti] engendré par le [phassa|contact] olfactif est [anicca|impermanent], changeant, variable; le [vedana|ressenti] engendré par le [phassa|contact] gustatif est [anicca|impermanent], changeant, variable; le [vedana|ressenti] engendré par le [phassa|contact] corporel est [anicca|impermanent], changeant, variable; le [vedana|ressenti] engendré par le [phassa|contact] mental est [anicca|impermanent], changeant, variable."
@@ -22,6 +25,26 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "phassa",
+    "anicca",
+    "saddha",
+    "dhamma",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

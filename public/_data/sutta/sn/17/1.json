@@ -4,12 +4,18 @@
   "frTitle": "Cruels",
   "description": "Acquisitions, honneurs et renommée constituent un grand danger pour un mendiant.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "— Mendiants!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "— Mendiants!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— Bhadante, répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
@@ -23,6 +29,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "lss", "citta"],
   "translator": "Rémy"
 }

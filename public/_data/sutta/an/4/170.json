@@ -4,12 +4,18 @@
   "frTitle": "En tandem",
   "description": "Ānanda explique quatre manières de progresser sur le sentier. A vous de choisir.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. Tatra kho āyasmā ānando bhikkhū āmantesi:",
       "fr": "Un jour, le [ayasma|vénérable] Ānanda séjournait près de Kossambi, dans le parc de Ghosita. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "Āvuso bhikkhave ti.", "fr": "— [bhikkhu|Mendiants], mes amis." },
+    {
+      "pl": "Āvuso bhikkhave ti.",
+      "fr": "— [bhikkhu|Mendiants], mes amis."
+    },
     {
       "pl": "Āvuso ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. Āyasmā ānando etadavoca:",
       "fr": "— Ami, répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Ānanda. Celui-ci dit alors:"
@@ -39,6 +45,17 @@
       "fr": "Mes amis, qu'il s'agisse de [bhikkhu|mendiants] ou de [bhikkhuni|mendiantes], tous ceux qui déclarent en ma présence avoir atteint l'état d'[arahatta|arahant] le font [après avoir pratiqué] ces quatre [magga|voies] ou bien l'une d'entre elles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "bhikkhuni",
+    "arahatta",
+    "magga",
+    "vipassana",
+    "samatha",
+    "samyojana",
+    "anusaya",
+    "dhamma"
+  ],
   "translator": "Rémy"
 }

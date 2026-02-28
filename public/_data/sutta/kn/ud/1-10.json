@@ -4,7 +4,10 @@
   "frTitle": "L'ascète Bahiya",
   "description": "La célèbre histoire de l'ascète Bahiya le vêtu d'écorces, celui qui est devenu arahant le plus rapidement parmi tous les disciples du Bouddha, à l'issue d'une unique conversation. Malheureusement, ça ne fonctionne pas encore aussi efficacement pour nous.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena bāhiyo dārucīriyo suppārake paṭivasati samuddatīre sakkato garukato mānito pūjito apacito lābhī cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārānaṃ. atha kho bāhiyassa dārucīriyassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “ye kho keci loke arahanto vā arahattamaggaṃ vā samāpannā, ahaṃ tesaṃ aññataro”ti.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, Bahiya le vêtu d'écorces demeurait près de Soupparaka, sur les berges de l'océan, honoré, révéré, respecté, vénéré, glorifié, et il obtenait des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] & provisions pour les malades. Alors, tandis que Bahiya le vêtu d'écorces était en isolement dans un endroit retiré, la réflexion suivante apparut dans son [citta|esprit]: [i]“Je fais partie de ceux dans le monde qui sont des [arahant|Méritant]s, ou qui sont engagés sur le chemin du [arahant|Mérite].”[/i]"
@@ -118,6 +121,36 @@
       "fr": "[i]Là où ni eau ni terre,Ni feu ni air ne sont établis,Les étoiles ne luisent pasLe soleil ne rayonne pas,La lune ne brille pasEt il n'y a pas d'obscurité.Lorsqu'un sage [brahmana|brahmane] a réalisé [cela]Pour lui-même au moyen de sa sagesse,Alors il est délivré de la [rupa|Forme] et du sans-[rupa|Forme],Du [sukha|bien-être] et du [dukkha|mal-être].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "citta",
+    "arahant",
+    "patipada",
+    "loka",
+    "deva",
+    "sammasambuddha",
+    "dhamma",
+    "bhikkhu",
+    "bhante",
+    "mana",
+    "sugata",
+    "sukha",
+    "sikkha",
+    "vinnana",
+    "dukkha",
+    "asava",
+    "upadana",
+    "brahmacariya",
+    "pandita",
+    "dadp",
+    "parinibbana",
+    "udana",
+    "brahmana",
+    "rupa"
+  ],
   "translator": "Rémy"
 }

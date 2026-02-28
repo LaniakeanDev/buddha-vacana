@@ -4,7 +4,10 @@
   "frTitle": "Traverser de l'autre côté",
   "description": "Comment traverser de la rive proche à l'autre rive.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“aṭṭhime, bhikkhave, dhammā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattanti. katame aṭṭha? seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. ime kho, bhikkhave, aṭṭha dhammā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattantī”ti.",
       "fr": "[bhikkhu|Mendiants], lorsque ces huit [dhamma|choses] sont développées et cultivées, elles permettent de traverser de la rive proche à l'autre rive. Quelles sont ces huit? C'est la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. Voici, [bhikkhu|mendiants], quelles sont ces huit [dhamma|choses] qui, lorsqu'elles sont développées et cultivées, permettent de traverser de la rive proche à l'autre rive."
@@ -26,6 +29,21 @@
       "fr": "[i]Ceux dans l'esprit desquels les facteurs d'ÉveilSont bien correctement cultivés,Qui se plaisent à la renonciationAu désintéressement vis-à-vis de la saisie,Brillants, ayant détruit les impuretés mentales,Ceux-là dans le monde parviennent à l'Extinction complète.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "pandita",
+    "viveka",
+    "kama",
+    "kilesa",
+    "citta"
+  ],
   "translator": "Rémy"
 }

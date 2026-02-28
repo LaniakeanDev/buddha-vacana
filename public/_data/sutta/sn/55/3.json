@@ -20,12 +20,18 @@
       "pl": "“dīghāvu, bhante, upāsako ābādhiko hoti dukkhito bāḷhagilāno. so bhagavato pāde sirasā vandati.",
       "fr": "«[bhante|Bhanté], le [upasaka|disciple laïc] Dighavou est en proie à la maladie, souffrant, gravement malade. Il rend hommage au [bhagava|Fortuné] avec la tête à ses pieds.»"
     },
-    { "pl": "evañca vadeti:", "fr": "Il dit ensuite:" },
+    {
+      "pl": "evañca vadeti:",
+      "fr": "Il dit ensuite:"
+    },
     {
       "pl": "‘sādhu kira, bhante, bhagavā yena dīghāvussa upāsakassa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.",
       "fr": "«Il serait vraiment profitable au [upasaka|disciple laïc] Dighavou, [bhante|Bhanté], que le [bhagava|Fortuné] aille le visiter dans sa maison, par compassion.»"
     },
-    { "pl": "adhivāsesi bhagavā tuṇhībhāvena.", "fr": "Le [bhagava|Fortuné] accepta en gardant le silence." },
+    {
+      "pl": "adhivāsesi bhagavā tuṇhībhāvena.",
+      "fr": "Le [bhagava|Fortuné] accepta en gardant le silence."
+    },
     {
       "pl": "atha kho bhagavā nivāsetvā pattacīvaramādāya yena dīghāvussa upāsakassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. nisajja kho bhagavā dīghāvuṃ upāsakaṃ etadavoca:",
       "fr": "Alors le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], se rendit à la maison du [upasaka|disciple laïc] Dighavou, s'assit sur le siège préparé et lui dit:"
@@ -54,7 +60,10 @@
       "pl": "ariyakantehi sīlehi samannāgato bhavissāmi akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehiviññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi’.",
       "fr": "[i]Je possèderai de [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles], [@f_anussati#anussati-4|sans rupture, sans faille, sans tache, sans défaut, libératrices, louées par les sages, sans fanatisme, menant à la concentration.]”[/i]"
     },
-    { "pl": "evañhi te, dīghāvu, sikkhitabban”ti.", "fr": "Voici, Dighavou, comment tu devrais t'entraîner." },
+    {
+      "pl": "evañhi te, dīghāvu, sikkhitabban”ti.",
+      "fr": "Voici, Dighavou, comment tu devrais t'entraîner."
+    },
     {
       "pl": "“yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṃvijjante te dhammā mayi, ahañca tesu dhammesu sandissāmi. ahañhi, bhante, buddhe aveccappasādena (…)dhamme aveccappasādena (…) saṅghe aveccappasādena (…) ariyakantehi sīlehi samannāgato (…)",
       "fr": "—[bhante|Bhanté], ces quatre [sotapattiyanga|facteurs d'entrée dans le courant] professés par le Fortuné se trouvent en moi, et je vis conformément à ces [dhamma|états]. [bhante|Bhanté], je possède une [buddheaveccappasada|confiance vérifiée dans le Bouddha] (…) une [dhammeaveccappasada|confiance vérifiée dans le Dhamma] (…) une [sangheaveccappasada|confiance vérifiée dans la Communauté] (…) des [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles] (…)"
@@ -84,6 +93,38 @@
       "fr": "—[bhikkhu|Mendiants], le [upasaka|disciple laïc] Dighavou était [pandita|sage], il [dadp|pratiquait l'enseignement au niveau des phénomènes] et il ne m'a pas harcelé à propos du [dhamma|Dhamma]. [bhikkhu|Mendiants], le [upasaka|disciple laïc] Dighavou a complètement détruit les cinq [samyojana|entraves spirituelles] inférieures, il a une [opapatika|naissance spontanée], d'où il atteindra l'[parinibbana|Extinction complète], sans jamais revenir de ce [loka|monde]-là.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "upasaka",
+    "i]“[bhante",
+    "bhante",
+    "patta",
+    "civara",
+    "buddheaveccappasada",
+    "@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i]“[@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4",
+    "sotapattiyanga",
+    "dhamma",
+    "vijja",
+    "ssaa",
+    "ads",
+    "anattasanna",
+    "dukkha",
+    "viragasanna",
+    "nirodhasanna",
+    "bhikkhu",
+    "pandita",
+    "dadp",
+    "samyojana",
+    "opapatika",
+    "parinibbana",
+    "loka"
+  ],
   "translator": "Sekha"
 }

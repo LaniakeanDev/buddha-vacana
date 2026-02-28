@@ -4,7 +4,10 @@
   "frTitle": "En proie à l'endormissement",
   "description": "Le Bouddha visite le grand vénérable Moggallana, qui est en proie à l'endormissement, pour lui enseigner des techniques permettant de lutter contre. Le Bouddha lui donne ensuite quelques autres conseils.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye. tena kho pana samayena āyasmā mahāmoggallāno magadhesu kallavāḷaputtagāme pacalāyamāno nisinno hoti. addasā kho bhagavā dibbena cakkhunā visuddhena atikkantamānusakena āyasmantaṃ mahāmoggallānaṃ magadhesu kallavāḷaputtagāme pacalāyamānaṃ nisinnaṃ. disvā — seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya, evamevaṃ — bhaggesu susumāragire bhesakaḷāvane migadāye antarahito magadhesu kallavāḷaputtagāme āyasmato mahāmoggallānassa sammukhe pāturahosi. nisīdi bhagavā paññatte āsane. nisajja kho bhagavā āyasmantaṃ mahāmoggallānaṃ etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait dans le pays de Bhagga près de Chant-du-Crocodile, au bois de Bhessakala, dans le parc aux daims. Ce jour-là, le grand [ayasma|vénérable] Moggallana était assis dans le Magadha, près du village de Kallavalapoutta, en proie à l'endormissement. Avec l'œil [deva|dévique], qui est pur et au-delà de l'état humain, le [bhagava|Fortuné] vit le grand [ayasma|vénérable] Moggallana assis dans le Magadha, près du village de Kallavalapoutta, en proie à l'endormissement. L'ayant vu, tout comme un homme en bonne santé pourrait étendre son bras replié ou replier son bras étendu, le [bhagava|Fortuné] disparut du pays de Bhagga près de Chant-du-Crocodile, au bois de Bhessakala, dans le parc aux daims et apparut dans le Magadha, près du village de Kallavalapoutta, juste devant le grand [ayasma|vénérable] Moggallana. Il s'assit sur le siège préparé et dit au grand [ayasma|vénérable] Moggallana:"
@@ -13,7 +16,10 @@
       "pl": "“pacalāyasi no tvaṃ, moggallāna, pacalāyasi no tvaṃ, moggallānā”ti?",
       "fr": "«Es-tu en proie à l'endormissement, Moggallana, es-tu en proie à l'endormissement?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhanthe|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhanthe|Bhanté]."
+    },
     {
       "pl": "“tasmātiha, moggallāna, yathāsaññissa te viharato taṃ middhaṃ okkamati, taṃ saññaṃ mā manasākāsi, taṃ saññaṃ mā bahulamakāsi. ṭhānaṃ kho panetaṃ, moggallāna, vijjati yaṃ te evaṃ viharato taṃ middhaṃ pahīyetha”.",
       "fr": "—C'est pourquoi, lorsque tu médites sur une [sanna|perception] qui te fait tomber dans la somnolence, ne porte pas ton attention à cette [sanna|perception], ne cultive pas abondamment cette [sanna|perception]. Il possible qu'en faisant cela, cette somnolence disparaisse."
@@ -75,6 +81,36 @@
       "fr": "Voici en bref, Moggallana, dans quelle mesure un [bhikkhu|mendiant] est libéré par élimination complète de la [tanha|Soif],quelqu'un qui a atteint l'ultime conclusion, l'ultime soulagement du joug, l'ultime [brahmacariya|vie brahmique], l'ultime fin, le plus excellent des [deva|dévas] et humains.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "deva",
+    "bhanthe",
+    "sanna",
+    "vitakka",
+    "vicara",
+    "dhamma",
+    "citta",
+    "indriya",
+    "mana",
+    "@f_jagariya",
+    "sukha",
+    "bhikkhu",
+    "uddhacca",
+    "samvara",
+    "samadhi",
+    "senasana",
+    "patisallana",
+    "tanha",
+    "brahmacariya",
+    "vedana",
+    "dukkha",
+    "adas",
+    "anicca",
+    "viraga",
+    "nirodha",
+    "parinibbana",
+    "jati"
+  ],
   "translator": "Rémy"
 }

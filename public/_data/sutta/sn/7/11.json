@@ -4,7 +4,10 @@
   "frTitle": "Kassibhavadjara",
   "description": "Le Bouddha explique comment un mendiant effectue un travail comparable aux labours, en réponse à un brahmane laboureur qui considère qu'un mendiant ne mériterait de manger qu'en ayant lui-même pris part aux labours.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā magadhesu viharati dakkhiṇāgirismiṃ ekanāḷāyaṃ brāhmaṇagāme. tena kho pana samayena kasibhāradvājassa brāhmaṇassa pañcamattāni naṅgalasatāni payuttāni honti vappakāle. atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena kasibhāradvājassa brāhmaṇassa kammanto tenupasaṅkami.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait parmi les Magadhans, à Dakkhinaguiri, près d'Ekanala, un village de [brahmana|brahmane]s. Ce jour-là, un grand nombre de charrues appartenant au [brahmana|brahmane] Kassibhavadjara étaient attelées, prêtes aux labours. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à l'endroit où travaillait le [brahmana|brahmane] Kassibhavadjara."
@@ -70,6 +73,28 @@
       "fr": "«C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bho|Honorable] Gotama, je vais en refuge au [bho|Honorable] Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Quel'[bho|Honorable] Gotama me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie.» "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "brahmana",
+    "patta",
+    "civara",
+    "samana",
+    "bho",
+    "saddha",
+    "panna",
+    "hiri",
+    "mana",
+    "sati",
+    "sacca",
+    "viriya",
+    "amata",
+    "dukkha",
+    "dhamma",
+    "asava",
+    "punna",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Sekha"
 }

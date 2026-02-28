@@ -4,7 +4,10 @@
   "frTitle": "Une graine",
   "description": "Voici la fondation sur laquelle on pratique la noble voie, en comparaison à la croissance d'une graine.",
   "body": [
-    { "pl": "150.1sāvatthinidānaṃ.", "fr": "150.1À Savatthi." },
+    {
+      "pl": "150.1sāvatthinidānaṃ.",
+      "fr": "150.1À Savatthi."
+    },
     {
       "pl": "“seyyathāpi, bhikkhave, ye kecime bījagāmabhūtagāmā vuḍḍhiṃ virūḷhiṃ vepullaṃ āpajjanti, sabbe te pathaviṃ nissāya pathaviyaṃ patiṭṭhāya evamete bījagāmabhūtagāmā vuḍḍhiṃ virūḷhiṃ vepullaṃ āpajjanti; evameva kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti. kathañca, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti?",
       "fr": "Tout comme, [bhikkhu|mendiants], les graines qui trouvent leur croissance, leur développement et leur abondance les trouvent toutes à l'aide de la terre, en s'appuyant sur la terre, de la même manière, [bhikkhu|mendiants], c'est à l'aide de la [sila|vertu], en s'appuyant sur la [sila|vertu], qu'un mendiant développe la [ariyaatthangikamagga|noble voie à huit composantes], qu'il cultive la [ariyaatthangikamagga|noble voie à huit composantes]. Et comment, [bhikkhu|mendiants], un [bhikkhu|mendiant], à l'aide de la [sila|vertu], en s'appuyant sur la [sila|vertu], développe-t-il la [ariyaatthangikamagga|noble voie à huit composantes], cultive-t-il la [ariyaatthangikamagga|noble voie à huit composantes]?"
@@ -54,6 +57,27 @@
       "fr": "Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant], à l'aide de la [sila|vertu], en s'appuyant sur la [sila|vertu], développe la [ariyaatthangikamagga|noble voie à huit composantes], cultive la [ariyaatthangikamagga|noble voie à huit composantes]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sila",
+    "ariyaatthangikamagga",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "vinaya",
+    "raga",
+    "dosa",
+    "moha",
+    "amata",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

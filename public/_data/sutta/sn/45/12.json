@@ -4,7 +4,10 @@
   "frTitle": "Le séjour",
   "description": "Le Bouddha part s'isoler pendant trois mois, retourne en partie à son premier état d'éveil et revient avec une déclaration par laquelle il tente de nous faire comprendre ce qu'il a vu.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“icchāmahaṃ, bhikkhave, temāsaṃ paṭisalliyituṃ. namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.",
       "fr": "—[bhikkhu|Mendiants], je souhaite m'[patisallana|isoler] pendant trois mois. Que personne d'autre ne vienne me voir que celui qui m'apportera de la [pindapata|nourriture d'aumônes]."
@@ -70,6 +73,30 @@
       "fr": "Il y a l'effort pour l'accomplissement de ce qui n'a pas été accompli. Lorsque cela a été accompli, il y a un [vedana|ressenti] basé sur cela."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "patisallana",
+    "pindapata",
+    "bhante",
+    "bhagava",
+    "sambodhi",
+    "vedana",
+    "micchaditthi",
+    "sammaditthi",
+    "sankappa",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sati",
+    "sammasati",
+    "samadhi",
+    "sammasamadhi",
+    "chanda",
+    "vitakka",
+    "sanna",
+    "upasama"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Exhortation",
   "description": "Dans ce soutta, il est bien clair que l'enseignement du Bouddha n'est détruit que par les mendiants eux-mêmes.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ mahākassapaṃ bhagavā etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Rājagaha, dans la bambouseraie, au refuge des écureuils. Ce jour-là, le [ayasma|vénérable] Mahakassapa vint voir le [bhagava|Fortuné], lui rendit hommage et s'assit d'un côté. Alors qu'il était assis d'un côté, le [bhagava|Fortuné] lui dit:"
@@ -46,6 +49,26 @@
       "fr": "Quelqu'un parlant correctement, Kassapa, dirait: [i]“Ceux qui suivent la [brahmacariya|vie brahmique] ont été sapés par ceux qui sapent la [brahmacariya|vie brahmique], ceux qui suivent la [brahmacariya|vie brahmique] ont été ruinés par ceux qui ruinent la [brahmacariya|vie brahmique].”[/i] Et à présent, Kassapa, quelqu'un parlant correctement, Kassapa, dirait: [i]“Ceux qui suivent la [brahmacariya|vie brahmique] ont été sapés par ceux qui sapent la [brahmacariya|vie brahmique], ceux qui suivent la [brahmacariya|vie brahmique] ont été faussés par ceux qui faussent la [brahmacariya|vie brahmique].”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhikkhu",
+    "dhamma",
+    "bhante",
+    "aranna",
+    "pindapata",
+    "civara",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "araddhaviriya",
+    "viriyarambha",
+    "sikkha",
+    "sukha",
+    "senasana",
+    "bhesajja",
+    "brahmacariya",
+    "dukkha"
+  ],
   "translator": "Rémy"
 }

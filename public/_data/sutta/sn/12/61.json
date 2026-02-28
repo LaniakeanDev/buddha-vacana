@@ -4,7 +4,10 @@
   "frTitle": "Sans instruction",
   "description": "L'attachement au corps est abandonné beaucoup plus facilement que l'attachement à l'esprit, car l'esprit est davantage sujet à un changement subtil et surtout continuel, comme l'illustre l'allégorie du singe. La compréhension de l'apparition conditionnée est le moyen d'y échapper.",
   "body": [
-    { "pl": "evaṃ me sutaṃ —", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ —",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme … pe …",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika (…)"
@@ -34,6 +37,42 @@
       "fr": "En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "puthujjana",
+    "assutava",
+    "nibbida",
+    "viraga",
+    "citta",
+    "mana",
+    "vinnana",
+    "atta",
+    "ariyasavaka",
+    "sutava",
+    "ymk",
+    "paticcasamuppada",
+    "avijja",
+    "sankhara",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "vedana",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "nirodha",
+    "rupa",
+    "sanna",
+    "vimutta",
+    "brahmacariya"
+  ],
   "translator": "Sekha."
 }

@@ -12,7 +12,10 @@
       "pl": "“passatha no tumhe, bhikkhave, amuṃ mahantaṃ dārukkhandhaṃ gaṅgāya nadiyā sotena vuyhamānan””ti?",
       "fr": "«[bhikkhu|Mendiants], voyez-vous ce gros rondin de bois porté par le courant du Gange?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“sace so, bhikkhave, dārukkhandho na orimaṃ tīraṃ upagacchati, na pārimaṃ tīraṃ upagacchati, na majjhe saṃsīdissati, na thale ussīdissati, na manussaggāho gahessati, na amanussaggāho gahessati, na āvaṭṭaggāho gahessati, na antopūti bhavissati; evañhi so, bhikkhave, dārukkhandho samuddaninno bhavissati samuddapoṇo samuddapabbhāro. taṃ kissa hetu? samuddaninno, bhikkhave, gaṅgāya nadiyā soto samuddapoṇo samuddapabbhāro.",
       "fr": "[bhikkhu|Mendiants], si ce rondin de bois ne s'échoue pas sur la berge de ce côté-ci, s'il ne s'échoue pas sur l'autre berge, s'il ne coule pas au milieu, s'il ne s'échoue pas sur un haut-fond, s'il n'est pas saisi par des êtres humains, s'il n'est pas saisi par des êtres non-humains, s'il ne reste pas piégé dans un tourbillon, s'il ne pourrit pas de l'intérieur, alors il s'inclinera vers l'océan, s'infléchira vers l'océan et tendra vers l'océan. Et quelle en est la raison? Parce que le courant du Gange s'incline vers l'océan, s'infléchit vers l'océan et tend vers l'océan."
@@ -61,7 +64,10 @@
       "pl": "“gamissanti, bhante, gāvo vacchagiddhiniyo””ti.",
       "fr": "—[bhante|Bhanté], les vaches rentreront d'elles-mêmes, par attachement à leurs veaux."
     },
-    { "pl": "“niyyāteheva tvaṃ, nanda, sāmikānaṃ gāvo””ti.", "fr": "—Nanda, ramène les vaches à leur propriétaire.»" },
+    {
+      "pl": "“niyyāteheva tvaṃ, nanda, sāmikānaṃ gāvo””ti.",
+      "fr": "—Nanda, ramène les vaches à leur propriétaire.»"
+    },
     {
       "pl": "atha kho nando gopālako sāmikānaṃ gāvo niyyātetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca —",
       "fr": "Alors Nanda le bouvier ramena les vaches à leur propriétaire, puis revint voir le [bhagava|Fortuné] et lui dit:"
@@ -75,6 +81,28 @@
       "fr": "Alors Nanda le bouvier obtint le départ du foyer auprès du [bhagava|Fortuné], il obtint l'[upasampada|ordination monastique]. Et peu de temps après son ordination, le [ayasma|vénérable] Nanda, demeurant seul, isolé, assidu, [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, [ditthevadhamme|dans ce monde visible], entra et demeura, en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Nanda devint l'un des [arahant|Méritants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhante",
+    "nibbana",
+    "raga",
+    "asmimana",
+    "brahmacariya",
+    "deva",
+    "sila",
+    "kamaguna",
+    "dhamma",
+    "samana",
+    "upasampada",
+    "ayasma",
+    "atapi",
+    "padhana",
+    "ditthevadhamme",
+    "abhinna",
+    "anagariya",
+    "jati",
+    "arahant"
+  ],
   "translator": "Sekha"
 }

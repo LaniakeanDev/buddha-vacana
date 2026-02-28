@@ -4,7 +4,10 @@
   "frTitle": "À Sakéta",
   "description": "Le Bouddha explique ici qu'il n'y a pas vraiment de différence entre les puissances (balas) et les facultés spirituelles (indriyas), qu'il s'agit juste de deux méthodes d'exposition parallèles.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Sakéta, au bois d'Añjana, dans le parc aux daims. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -46,6 +49,24 @@
       "fr": "Mendiants, c'est grâce au développement et à la culture abondante des cinq [indriya|facultés] qu'un mendiant, avec la destruction des [asava|impuretés mentales], entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "indriya",
+    "bala",
+    "bhante",
+    "dhamma",
+    "@m_attha",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "abhinna"
+  ],
   "translator": "Bhikkhu Sekha"
 }

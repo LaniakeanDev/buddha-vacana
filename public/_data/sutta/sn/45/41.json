@@ -4,7 +4,10 @@
   "frTitle": "Le but de la vie de renoncement",
   "description": "Une série de huit souttas apportant chacun une réponse à la question: dans quel but est-ce que la vie brahmique est vécue auprès du renonçant Gotama?",
   "body": [
-    { "pl": "41.sāvatthinidānaṃ. ", "fr": "41.À Savatthi." },
+    {
+      "pl": "41.sāvatthinidānaṃ. ",
+      "fr": "41.À Savatthi."
+    },
     {
       "pl": "“sace vo, bhikkhave, aññatitthiyā paribbājakā evaṃ puccheyyuṃ: ‘kimatthiyaṃ, āvuso, samaṇe gotame brahmacariyaṃ vussatī’ti, evaṃ puṭṭhā tumhe, bhikkhave, tesaṃ aññatitthiyānaṃ paribbājakānaṃ evaṃ byākareyyātha: ‘rāgavirāgatthaṃ kho, āvuso, bhagavati brahmacariyaṃ vussatī’ti.",
       "fr": "[bhikkhu|Mendiants], si des [paribbajaka|vagabonds spirituels] hétérodoxes vous questionnent ainsi: [i]“[avuso|Amis], dans quel but est-ce que la [brahmacariya|vie brahmique] est vécue auprès du [samana|renonçant] Gotama?”[/i], lorsqu'on vous questionne ainsi, vous devriez répondre à ces [paribbajaka|vagabonds spirituels] hétérodoxes ainsi: [i]“[avuso|Amis], c'est dans le but de la [viraga|disparition] de l'[raga|avidité] que la [brahmacariya|vie brahmique] est vécue auprès du [bhagava|Fortuné].”[/i]"
@@ -102,6 +105,36 @@
       "fr": "Et quelle est donc, [bhikkhu|mendiants], la [magga|voie], quelle est la [patipada|pratique] pour l'[parinibbana|Extinction complète] sans [upadana|attachement]? C'est cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]. Voici donc, [bhikkhu|mendiants], quelle est la [magga|voie], quelle est la [patipada|pratique] pour l'[parinibbana|Extinction complète] sans [upadana|attachement]. Lorsqu'on vous questionne ainsi, [bhikkhu|mendiants], vous devriez répondre à ces [paribbajaka|vagabonds spirituels] hétérodoxes ainsi."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "paribbajaka",
+    "i]“[avuso",
+    "brahmacariya",
+    "samana",
+    "viraga",
+    "raga",
+    "bhagava",
+    "avuso",
+    "magga",
+    "patipada",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "pahana",
+    "samyojana",
+    "anusaya",
+    "asava",
+    "vijja",
+    "vimutti",
+    "nanadassana",
+    "parinibbana",
+    "upadana"
+  ],
   "translator": "Rémy"
 }

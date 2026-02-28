@@ -13,6 +13,20 @@
       "fr": "Un [bhikkhu|mendiant] pour qui le [anusaya|penchant latent] à l'[raga|avidité] vis-à-vis des [sukhavedana|ressentis agréables] est abandonné, le [anusaya|penchant latent] à la [patigha|répulsion] vis-à-vis des [dukkhavedana|ressentis désagréables] est abandonné, le [anusaya|penchant latent] à l'[avijja|ignorance] vis-à-vis des [adukkhamasukhavedana|ressentis neutres] est abandonné, est appelé un [bhikkhu|mendiant] sans [anusaya|penchant latent], voyant correctement, ayant qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves] et qui, par la compréhension correcte de la [maana|prétention], a mis fin au [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "anusaya",
+    "raga",
+    "patigha",
+    "avijja",
+    "tanha",
+    "samyojana",
+    "maana",
+    "dukkha"
+  ],
   "translator": "Rémy"
 }

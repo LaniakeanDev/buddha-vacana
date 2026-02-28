@@ -4,8 +4,14 @@
   "frTitle": "Les inondations",
   "description": "Les quatre inondations qui entraînent l'être loin de l'émancipation, et comment la noble voie à huit composantes permet de les connaître directement, de les comprendre complètement, de les épuiser complètement, et de les abandonner.",
   "body": [
-    { "pl": "1. Abhiññā", "fr": "1. La connaissance directe" },
-    { "pl": "1.1 sāvatthinidānaṃ.", "fr": "1.1À Savatthi." },
+    {
+      "pl": "1. Abhiññā",
+      "fr": "1. La connaissance directe"
+    },
+    {
+      "pl": "1.1 sāvatthinidānaṃ.",
+      "fr": "1.1À Savatthi."
+    },
     {
       "pl": "“cattārome, bhikkhave, oghā. katame cattāro? kāmogho, bhavogho, diṭṭhogho, avijjogho. ime kho, bhikkhave, cattāro oghā. imesaṃ kho, bhikkhave, catunnaṃ oghānaṃ abhiññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre [ogha|inondations]. Quelles sont ces quatre? L'[ogha|inondation] de la [kama|sensualité], l'[ogha|inondation] de l'[bhava|existence], l'[ogha|inondation] des [ditthi|vues] et l'[ogha|inondation] de l'[avijja|ignorance]. Voici, [bhikkhu|mendiants], quelles sont ces quatre [ogha|inondation]s. [bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces quatre [ogha|inondation]s, la [aam|noble voie à huit composantes] est à cultiver. Quelle [aam|noble voie à huit composantes]?"
@@ -54,7 +60,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ abhiññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces quatre [ogha|inondation]s, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "2. Pariññā", "fr": "2. La compréhension complète" },
+    {
+      "pl": "2. Pariññā",
+      "fr": "2. La compréhension complète"
+    },
     {
       "pl": "2.1“cattārome, bhikkhave, oghā. katame cattāro? kāmogho, bhavogho, diṭṭhogho, avijjogho. ime kho, bhikkhave, cattāro oghā. imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "2.1[bhikkhu|Mendiants], il y a ces quatre [ogha|inondation]s. Quelles sont ces quatre? L'[ogha|inondation] de la [kama|sensualité], l'[ogha|inondation] de l'[bhava|existence], l'[ogha|inondation] des [ditthi|vues] et l'[ogha|inondation] de l'[avijja|ignorance]. Voici, [bhikkhu|mendiants], quelles sont ces quatre [ogha|inondation]s. [bhikkhu|Mendiants], pour la compréhension complète de ces quatre [ogha|inondation]s, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -103,7 +112,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ pariññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la compréhension complète de ces quatre [ogha|inondation]s, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "3. Parikkhaya", "fr": "3. L'épuisement complet" },
+    {
+      "pl": "3. Parikkhaya",
+      "fr": "3. L'épuisement complet"
+    },
     {
       "pl": "3.1“cattārome, bhikkhave, oghā. katame cattāro? kāmogho, bhavogho, diṭṭhogho, avijjogho. ime kho, bhikkhave, cattāro oghā. imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ parikkhayāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "3.1[bhikkhu|Mendiants], il y a ces quatre [ogha|inondation]s. Quelles sont ces quatre? L'[ogha|inondation] de la [kama|sensualité], l'[ogha|inondation] de l'[bhava|existence], l'[ogha|inondation] des [ditthi|vues] et l'[ogha|inondation] de l'[avijja|ignorance]. Voici, [bhikkhu|mendiants], quelles sont ces quatre [ogha|inondation]s. [bhikkhu|Mendiants], pour l'épuisement complet de ces quatre [ogha|inondation]s, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -152,7 +164,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ parikkhayāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour l'épuisement complet de ces quatre [ogha|inondation]s, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "4. Pahāna", "fr": "4. L'abandon" },
+    {
+      "pl": "4. Pahāna",
+      "fr": "4. L'abandon"
+    },
     {
       "pl": "4.1“cattārome, bhikkhave, oghā. katame cattāro? kāmogho, bhavogho, diṭṭhogho, avijjogho. ime kho, bhikkhave, cattāro oghā. imāsaṃ kho, bhikkhave, catunnaṃ oghānaṃ pahānāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "4.1[bhikkhu|Mendiants], il y a ces quatre [ogha|inondation]s. Quelles sont ces quatre? L'[ogha|inondation] de la [kama|sensualité], l'[ogha|inondation] de l'[bhava|existence], l'[ogha|inondation] des [ditthi|vues] et l'[ogha|inondation] de l'[avijja|ignorance]. Voici, [bhikkhu|mendiants], quelles sont ces quatre [ogha|inondation]s. [bhikkhu|Mendiants], pour l'abandon de ces quatre [ogha|inondation]s, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -202,6 +217,32 @@
       "fr": "[bhikkhu|Mendiants], pour l'abandon de ces quatre [ogha|inondation]s, cette [aam|noble voie à huit composantes] est à cultiver."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "ogha",
+    "kama",
+    "bhava",
+    "ditthi",
+    "avijja",
+    "abhinna",
+    "aam",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "vinaya",
+    "raga",
+    "dosa",
+    "moha",
+    "amata",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Les entraves",
   "description": "Tchitta explique ici que ce ne sont pas les objets des sens qui enchaînent les organes des sens, mais que c'est le désir et l'avidité engendrés par ceux-ci qui sont à l'œuvre.",
   "body": [
-    { "pl": "(…)", "fr": "(…)" },
+    {
+      "pl": "(…)",
+      "fr": "(…)"
+    },
     {
       "pl": "seyyathāpi, bhante, kāḷo ca balībaddo odāto ca balībaddo ekena dāmena vā yottena vā saṃyuttā assu. yo nu kho evaṃ vadeyya — ‘kāḷo balībaddo odātassa balībaddassa saṃyojanaṃ, odāto balībaddo kāḷassa balībaddassa saṃyojanan’ti, sammā nu kho so vadamāno vadeyyā”ti?",
       "fr": "[Tchitta:] «Imaginez, [bhante|Bhanté], un bœuf noir et un bœuf blanc qui seraient [samyojana|entravés/attelés] par un unique harnais ou joug. Serait-il correct de dire que le bœuf noir est l'[samyojana|entrave] du bœuf blanc ou que le bœuf blanc est l'[samyojana|entrave] du bœuf noir?"
@@ -22,6 +25,6 @@
       "fr": "—C'est un gain pour vous, chef de foyer, c'est un bon gain pour vous que votre œil de [panna|discernement] pénètre la profonde parole du Bouddha.»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhante", "samyojana", "chanda", "raga", "dhamma", "panna"],
   "translator": "Sekha"
 }

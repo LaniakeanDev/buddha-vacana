@@ -4,7 +4,10 @@
   "frTitle": "Aux Mallans",
   "description": "L'une des cinq facultés stabilise les autres comme la poutre de faîte stabilise les autres poutres du toit.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā mallesu viharati uruvelakappaṃ nāma mallānaṃ nigamo. tatra kho bhagavā bhikkhū āmantesi —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Mallans, dans un de leurs villages appelé Ourouvélakappa. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -22,6 +25,18 @@
       "fr": "Et quelles sont ces quatre [autres] [indriya|faculté]s? La [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], et la [indriya|faculté] de [samadhi|concentration]. Lorsqu'un [ariyasavaka|noble disciple] possède le [panna|discernement], la [saddha|conviction] est stable, l'[viriya|énergie] est stable, la [sati|présence d'esprit] est stable, et la [samadhi|concentration] est stable."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "ariya",
+    "nana",
+    "ariyasavaka",
+    "indriya",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna"
+  ],
   "translator": "Sekha"
 }

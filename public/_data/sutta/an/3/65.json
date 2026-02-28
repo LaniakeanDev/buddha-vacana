@@ -4,7 +4,10 @@
   "frTitle": "Discours auxKalamas de Késsapoutta",
   "description": "Les Kalamas ont entendu tellement de discours contradictoires de la part de prêcheurs en tous genres qu'ils ne savent plus à qui ils peuvent faire confiance. Le Bouddha leur explique qu'il ne faut rien accepter trop facilement, puis leur donne des critères de jugement, comment s'assurer une vie harmonieuse, et quatre certitudes que l'on peut malgré tout avoir. Un prolongement intéressant ce soutta se trouve à MN 27.",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena kesaputtaṃ nāma kālāmānaṃ nigamo tadavasari. assosuṃ kho kesaputtiyā kālāmā:",
       "fr": "Un jour, en voyageant à pied à travers le Kosala avec un grand [sangha|groupe] de [bhikkhu|mendiants], le [bhagava|Fortuné] arriva à un village des Kalamas qui s'appelait Késsapoutta. Les Kalamas de Késsapoutta entendirent:"
@@ -33,44 +36,74 @@
       "pl": "“taṃ kiṃ maññatha, kālāmā, lobho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "Qu'est-ce que vous en pensez, Kalamas, lorsque l'[lobha|avidité] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“ahitāya, bhante”.",
+      "fr": "—À son préjudice, [bhante|Bhanté]."
+    },
     {
       "pl": "“luddho panāyaṃ, kālāmā, purisapuggalo lobhena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
       "fr": "—Un homme en proie à l'[lobha|avidité], Kalamas, dont l'esprit est dominé, sous l'emprise de l'[raga|avidité], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, doso purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, lorsque la [dosa|haine] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“ahitāya, bhante”.",
+      "fr": "—À son préjudice, [bhante|Bhanté]."
+    },
     {
       "pl": "“duṭṭho panāyaṃ, kālāmā, purisapuggalo dosena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
       "fr": "—Un homme en proie à la [dosa|haine], Kalamas, dont l'esprit est dominé, sous l'emprise de la [dosa|haine], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, moho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, lorsque la [moha|délusion] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“ahitāya, bhante”.", "fr": "—À son préjudice, [bhante|Bhanté]." },
+    {
+      "pl": "“ahitāya, bhante”.",
+      "fr": "—À son préjudice, [bhante|Bhanté]."
+    },
     {
       "pl": "“mūḷho panāyaṃ, kālāmā, purisapuggalo mohena abhibhūto pariyādinnacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā”ti.",
       "fr": "—Un homme en proie à la [moha|délusion], Kalamas, dont l'esprit est dominé, sous l'emprise de la [moha|délusion], tue des êtres vivants, se saisit de ce qui n'a pas été donné, va à la femme d'un autre, dit des mensonges et incite les autres à en faire autant, ce qui lui portera préjudice et mènera à son [dukkha|mal-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, ime dhammā kusalā vā akusalā vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, est-ce que ces [dhamma|choses] sont [kusala|avantageuses] ou [akusala|désavantageuses]?"
     },
-    { "pl": "“akusalā, bhante”.", "fr": "—D[akusala|ésavantageu]ses, [bhante|Bhanté]." },
-    { "pl": "“sāvajjā vā anavajjā vā”ti?", "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochables]?" },
-    { "pl": "“sāvajjā, bhante”.", "fr": "—R[savajja|épréhensible]s, [bhante|Bhanté]." },
+    {
+      "pl": "“akusalā, bhante”.",
+      "fr": "—D[akusala|ésavantageu]ses, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“sāvajjā vā anavajjā vā”ti?",
+      "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochables]?"
+    },
+    {
+      "pl": "“sāvajjā, bhante”.",
+      "fr": "—R[savajja|épréhensible]s, [bhante|Bhanté]."
+    },
     {
       "pl": "“viññugarahitā vā viññuppasatthā vā”ti?",
       "fr": "—Condamnées par les sages ou recommandées par les sages?"
     },
-    { "pl": "“viññugarahitā, bhante”.", "fr": "—Condamnées par les sages, [bhante|Bhanté]." },
+    {
+      "pl": "“viññugarahitā, bhante”.",
+      "fr": "—Condamnées par les sages, [bhante|Bhanté]."
+    },
     {
       "pl": "“samattā samādinnā ahitāya dukkhāya saṃvattanti, no vā? kathaṃ vā ettha hotī”ti?",
       "fr": "—Lorsqu'elles sont entreprises et accomplies, est-ce qu'elles portent préjudice et mènent au [dukkha|mal-être], ou pas? Qu'est-ce que vous en pensez?"
@@ -91,44 +124,74 @@
       "pl": "“taṃ kiṃ maññatha, kālāmā, alobho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "Qu'est-ce que vous en pensez, Kalamas, lorsque l'[alobha|absence d'avidité] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“hitāya, bhante”.",
+      "fr": "—À son avantage, [bhante|Bhanté]."
+    },
     {
       "pl": "“aluddho panāyaṃ, kālāmā, purisapuggalo lobhena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
       "fr": "—Un homme qui n'est pas en proie à l'[lobha|avidité], Kalamas, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de l'[raga|avidité], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, adoso purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, lorsque l'absence de [dosa|haine] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“hitāya, bhante”.",
+      "fr": "—À son avantage, [bhante|Bhanté]."
+    },
     {
       "pl": "“aduṭṭho panāyaṃ, kālāmā, purisapuggalo dosena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
       "fr": "—Un homme qui n'est pas en proie à la [dosa|haine], Kalamas, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de la [dosa|haine], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, amoho purisassa ajjhattaṃ uppajjamāno uppajjati hitāya vā ahitāya vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, lorsque l'absence de [moha|délusion] apparaît intérieurement chez une personne, est-ce qu'elle apparaît à son avantage ou à son préjudice?"
     },
-    { "pl": "“hitāya, bhante”.", "fr": "—À son avantage, [bhante|Bhanté]." },
+    {
+      "pl": "“hitāya, bhante”.",
+      "fr": "—À son avantage, [bhante|Bhanté]."
+    },
     {
       "pl": "“amūḷho panāyaṃ, kālāmā, purisapuggalo mohena anabhibhūto apariyādinnacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, na parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā”ti.",
       "fr": "—Un homme qui n'est pas en proie à la [moha|délusion], Kalamas, dont l'esprit n'est pas dominé, n'est pas sous l'emprise de la [moha|délusion], ne tue pas d'êtres vivants, ne se saisit pas de ce qui n'a pas été donné, ne va pas à la femme d'un autre, ne dit pas de mensonges et n'incite pas les autres à en faire autant, ce qui sera à son avantage et mènera à son [sukha|bien-être] pour longtemps."
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññatha, kālāmā, ime dhammā kusalā vā akusalā vā”ti?",
       "fr": "—Qu'est-ce que vous en pensez, Kalamas, est-ce que ces [dhamma|choses] sont [kusala|avantageuses] ou [akusala|désavantageuses]?"
     },
-    { "pl": "“kusalā, bhante”.", "fr": "—A[kusala|vantageuse]s, [bhante|Bhanté]." },
-    { "pl": "“sāvajjā vā anavajjā vā”ti?", "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochables]?" },
-    { "pl": "“anavajjā, bhante”.", "fr": "—[anavajja|Irréprochables], [bhante|Bhanté]." },
+    {
+      "pl": "“kusalā, bhante”.",
+      "fr": "—A[kusala|vantageuse]s, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“sāvajjā vā anavajjā vā”ti?",
+      "fr": "—R[savajja|épréhensibles] ou [anavajja|irréprochables]?"
+    },
+    {
+      "pl": "“anavajjā, bhante”.",
+      "fr": "—[anavajja|Irréprochables], [bhante|Bhanté]."
+    },
     {
       "pl": "“viññugarahitā vā viññuppasatthā vā”ti?",
       "fr": "—Condamnées par les sages ou recommandées par les sages?"
     },
-    { "pl": "“viññuppasatthā, bhante”.", "fr": "—Recommandées par les sages, [bhante|Bhanté]." },
+    {
+      "pl": "“viññuppasatthā, bhante”.",
+      "fr": "—Recommandées par les sages, [bhante|Bhanté]."
+    },
     {
       "pl": "“samattā samādinnā hitāya sukhāya saṃvattanti, no vā? kathaṃ vā ettha hotī”ti?",
       "fr": "—Lorsqu'elles sont entreprises et accomplies, est-ce qu'elles sont à son avantage et mènent à son [sukha|bien-être], ou pas? Qu'est-ce que vous en pensez?"
@@ -202,6 +265,51 @@
       "fr": "C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "sangha",
+    "bhikkhu",
+    "bhagava",
+    "i]“[bho",
+    "samana",
+    "i]‘[@f_anussati#anussati-1-cl",
+    "deva",
+    "mara",
+    "brahma",
+    "abhinna",
+    "dhamma",
+    "brahmacariya",
+    "arahant",
+    "bhante",
+    "vicikiccha",
+    "anussava",
+    "ditthinijjhanakhanti",
+    "akusala",
+    "savajja",
+    "dukkha",
+    "lobha",
+    "raga",
+    "dosa",
+    "moha",
+    "kusala",
+    "anavajja",
+    "sukha",
+    "alobha",
+    "ariyasavaka",
+    "abhijjha",
+    "byapada",
+    "sampajana",
+    "sata",
+    "@f_appam#metta-cl",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl",
+    "citta",
+    "ditthevadhamme",
+    "sugati",
+    "loka",
+    "sagga",
+    "sugata",
+    "upasaka"
+  ],
   "translator": "Rémy"
 }

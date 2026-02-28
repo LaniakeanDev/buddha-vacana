@@ -4,7 +4,10 @@
   "frTitle": "L'isolement",
   "description": "Après avoir rappelé le rôle primordial joué par l'isolement, le Bouddha applique la loi d'apparition conditionnée aux cinq accumulations d'attachement et définit ce que sont leur origine et leur cessation.",
   "body": [
-    { "pl": "sāvatthinidānaṃ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“paṭisallāṇe, bhikkhave, yogamāpajjatha. paṭisallīṇo, bhikkhave, bhikkhu yathābhūtaṃ pajānāti. kiñca yathābhūtaṃ pajānāti? rūpassa samudayañca atthaṅgamañca, vedanāya samudayañca atthaṅgamañca, saññāya samudayañca atthaṅgamañca, saṅkhārānaṃ samudayañca atthaṅgamañca, viññāṇassa samudayañca atthaṅgamañca”.",
       "fr": "«[bhikkhu|Mendiants], exercez-vous dans l'[patisallana|isolement]. Un [bhikkhu|mendiant] en [patisallana|isolement] discerne[yathabhutam|tel que c'est réellement]. Et que discerne-t-il[yathabhutam|tel que c'est réellement]? L'[samudaya|apparition] et la disparition de la [rupa|Forme], l'[samudaya|apparition] et la disparition du [vedana|Ressenti], l'[samudaya|apparition] et la disparition de la [sanna|Perception], l'[samudaya|apparition] et la disparition des [sankhara|Constructions], l'[samudaya|apparition] et la disparition de la [vinnana|Conscience]."
@@ -66,6 +69,25 @@
       "fr": "Voici, mendiants, quelles sont la [nirodha|cessation] de la [rupa|Forme], la [nirodha|cessation] du [vedana|Ressenti], la [nirodha|cessation] de la [sanna|Perception], la [nirodha|cessation] des [sankhara|Constructions], et la [nirodha|cessation] de la [vinnana|Conscience]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "patisallana",
+    "yathabhutam",
+    "samudaya",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "nirodha"
+  ],
   "translator": "Sekha"
 }

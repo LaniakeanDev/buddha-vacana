@@ -93,6 +93,37 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq [types d']individus comparables à des soldats que l'on trouve parmi les [bhikkhu|mendiants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "brahmacariya",
+    "sikkha",
+    "senasana",
+    "@f_nivarana",
+    "nivarana",
+    "upakkilesa",
+    "citta",
+    "panna",
+    "@f_4jhana#1-cl",
+    "@f_4jhana#2-cl",
+    "@f_4jhana#3-cl",
+    "@f_4jhana#4-cl",
+    "samahita",
+    "nana",
+    "asava",
+    "dukkha",
+    "yathabhutam",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "samudaya",
+    "nirodha",
+    "patipada",
+    "kama",
+    "bhava",
+    "avijja",
+    "vimutti",
+    "jati"
+  ],
   "translator": "Rémy"
 }

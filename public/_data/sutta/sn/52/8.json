@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ āyasmā anuruddho sāvatthiyaṃ viharati salaḷāgāre. tatra kho āyasmā anuruddho bhikkhū āmantesi:",
       "fr": "Un jour, le [ayasma|vénérable] Anourouddha séjournait près de Savatthi, à Salalagara. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“āvuso bhikkhavo”ti.", "fr": "— [avuso|Amis] [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso bhikkhavo”ti.",
+      "fr": "— [avuso|Amis] [bhikkhu|mendiants]."
+    },
     {
       "pl": "“āvuso”ti kho te bhikkhū āyasmato anuruddhassa paccassosuṃ. āyasmā anuruddho etadavoca:",
       "fr": "— [avuso|Ami], répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Anourouddha. Ce dernier leur dit:"
@@ -17,8 +20,14 @@
       "pl": "— “seyyathāpi, āvuso, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. atha mahājanakāyo āgaccheyya kuddālapiṭakaṃ ādāya: ‘mayaṃ imaṃ gaṅgānadiṃ pacchāninnaṃ karissāma pacchāpoṇaṃ pacchāpabbhāran’ti. taṃ kiṃ maññathāvuso, api nu so mahājanakāyo gaṅgānadiṃ pacchāninnaṃ kareyya pacchāpoṇaṃ pacchāpabbhāran”ti?",
       "fr": "— [avuso|Amis], c'est tout comme le fleuve Gange, qui s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Imaginez qu'une grande foule arrive en apportant des pelles et des paniers [et en disant]: [i]“Nous allons faire s'incliner ce fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest.”[/i] Qu'en pensez-vous, mes [avuso|amis]: est-ce que cette grande foule parviendrait à faire s'incliner le fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“gaṅgā, bhante, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. sā na sukarā pacchāninnaṃ kātuṃ pacchāpoṇaṃ pacchāpabbhāraṃ. yāvadeva pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti.",
       "fr": "—[bhante|Bhanté], le fleuve Gange s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Il n'est pas facile de le faire s'incliner vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest. Cette grande foule ne rencontrerait que fatigue et contrariété."
@@ -32,6 +41,20 @@
       "fr": "Et comment, mes [avuso|amis], un mendiant développe-t-il les quatre [satipatthana|mises en place de la présence d'esprit], cultive-t-il les quatre [satipatthana|mises en place de la présence d'esprit]? À cet égard, mes [avuso|amis], [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Voici, mes [avuso|amis], comment un [bhikkhu|mendiant] développe les quatre [satipatthana|mises en place de la présence d'esprit], comment il cultive les quatre [satipatthana|mises en place de la présence d'esprit]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "avuso",
+    "bhante",
+    "satipatthana",
+    "punna",
+    "sikkha",
+    "citta",
+    "viveka",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

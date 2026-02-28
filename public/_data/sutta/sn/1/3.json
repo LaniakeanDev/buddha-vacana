@@ -4,7 +4,10 @@
   "frTitle": "Vite passée",
   "description": "Courte est la vie. Que vaut-il donc mieux faire?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
       "fr": "Alors qu'il se tenait debout d'un côté, le [deva|déva] prononça ces vers en présence du [bhagava|Fortuné]:"
@@ -14,12 +17,10 @@
       "fr": "[Le déva:][i]La vie est courte et vite passéeIl n'y a pas de refuge pour celui qui est âgé.Voyant ce danger de la [marana|mort],Il faut faire du [punna|mérite] qui apporte le [punna|bien-être].[/i]"
     },
     {
-      "pl": "[bhagavā:][i]“upanīyati jīvitamappamāyu,jarūpanītassa na santi tāṇā.etaṃ bhayaṃ maraṇe pekkhamāno,lokāmisaṃ pajahe santipekkho”ti. [/i]"
-    },
-    {
-      "pl": "[Le Fortuné:][i]La vie est courte et vite passéeIl n'y a pas de refuge pour celui qui est âgé.Voyant ce danger de la [marana|mort],Que celui qui veut la paix abandonne les appâts du [loka|monde].[/i]"
+      "pl": "[bhagavā:][i]“upanīyati jīvitamappamāyu,jarūpanītassa na santi tāṇā.etaṃ bhayaṃ maraṇe pekkhamāno,lokāmisaṃ pajahe santipekkho”ti. [/i]",
+      "fr": "[Le Fortuné:][i]La vie est courte et vite passéeIl n'y a pas de refuge pour celui qui est âgé.Voyant ce danger de la [marana|mort],Que celui qui veut la paix abandonne les appâts du [loka|monde].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["deva", "bhagava", "marana", "punna", "loka"],
   "translator": "Rémy"
 }

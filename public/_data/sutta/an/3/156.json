@@ -45,6 +45,16 @@
       "fr": "Voici, [bhikkhu|mendiants], quelles sont ces trois [patipada|manières de pratiquer]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "patipada",
+    "majjhimapatipada",
+    "ditthi",
+    "kama",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Rémy"
 }

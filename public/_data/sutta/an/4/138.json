@@ -29,6 +29,19 @@
       "fr": "Voici, [bhikkhu|Mendiants], quels sont ces quatre [types de] personnes que l'on trouve dans le [loka|monde]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "kaya",
+    "citta",
+    "senasana",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa"
+  ],
   "translator": "Rémy"
 }

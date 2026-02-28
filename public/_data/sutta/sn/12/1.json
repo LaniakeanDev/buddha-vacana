@@ -4,12 +4,18 @@
   "frTitle": "L'apparition conditionnée",
   "description": "Ce soutta présente simplement le cycle de l'apparition conditionnée (paṭicca·samuppāda) dans les deux sens.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -51,6 +57,31 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "paticcasamuppada",
+    "bhante",
+    "avijja",
+    "sankhara",
+    "vinnana",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "vedana",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "viraga",
+    "nirodha"
+  ],
   "translator": "Sekha."
 }

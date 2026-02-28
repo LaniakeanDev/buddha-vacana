@@ -4,7 +4,10 @@
   "frTitle": "La complaisance",
   "description": "Le seul moyen de mettre fin au mal-être est d'arrêter de se complaire dans les cinq accumulations d'attachement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“yo, bhikkhave, rūpaṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi. yo vedanaṃ abhinandati... yo saññaṃ abhinandati... yo saṅkhāre abhinandati... yo viññāṇaṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi.",
       "fr": "[bhikkhu|Mendiants], celui qui se complaît dans la [rupa|Forme] se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction].Celui qui se complaît dans le [vedana|Ressenti] se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction].Celui qui se complaît dans la [sanna|Perception] se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction].Celui qui se complaît dans les [sankhara|Constructions] se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction].Celui qui se complaît dans la [vinnana|Conscience] se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
@@ -14,6 +17,6 @@
       "fr": "Mais, [bhikkhu|mendiants], celui qui ne se complaît pas dans la [rupa|Forme] ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction].Celui qui ne se complaît pas dans le [vedana|Ressenti] ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction].Celui qui ne se complaît pas dans la [sanna|Perception] ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction].Celui qui ne se complaît pas dans les [sankhara|Constructions] ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction].Celui qui ne se complaît pas dans la [vinnana|Conscience] ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "rupa", "dukkha", "vedana", "sanna", "sankhara", "vinnana"],
   "translator": "Sekha"
 }

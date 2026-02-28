@@ -100,7 +100,10 @@
       "pl": "â€œyaá¹ƒ panetaá¹ƒ bhavaá¹ƒ gotamo abhiÃ±Ã±Äya sÄvakÄnaá¹ƒ dhammaá¹ƒ desesi sattÄnaá¹ƒ visuddhiyÄ sokaparidevÄnaá¹ƒ samatikkamÄya dukkhadomanassÄnaá¹ƒ atthaá¹…gamÄya Ã±Äyassa adhigamÄya nibbÄnassa sacchikiriyÄya, sabbo vÄ tena loko nÄ«yati upaá¸á¸ho vÄ tibhÄgo vÄâ€ti?",
       "fr": "â€”Mais alors, lorsque l'[bho|Honorable] Gotama expose la [dhamma|Loi de la Nature] pour la [abhinna|connaissance directe], pour la purification des Ãªtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-Ãªtre] & [domanassa|dÃ©plaisance mentale], pour l'acquisition de la bonne mÃ©thode, et pour l'accomplissement de l'[nibbana|Extinction], est-ce que tous sont sauvÃ©s par cela, ou bien seulement la moitiÃ©, ou seulement un tiers?Â»"
     },
-    { "pl": "evaá¹ƒ vutte bhagavÄ tuá¹‡hÄ« ahosi.", "fr": "Lorsqu'il eut dit cela, le FortunÃ© resta silencieux." },
+    {
+      "pl": "evaá¹ƒ vutte bhagavÄ tuá¹‡hÄ« ahosi.",
+      "fr": "Lorsqu'il eut dit cela, le FortunÃ© resta silencieux."
+    },
     {
       "pl": "atha kho Äyasmato Änandassa etadahosi â€” â€œmÄ hevaá¹ƒ kho uttiyo paribbÄjako pÄpakaá¹ƒ diá¹­á¹­higataá¹ƒ paá¹­ilabhi â€” â€˜sabbasÄmukkaá¹ƒsikaá¹ƒ vata me samaá¹‡o gotamo paÃ±haá¹ƒ puá¹­á¹­ho saá¹ƒsÄdeti, no vissajjeti, na nÅ«na visahatÄ«â€™ti. tadassa uttiyassa paribbÄjakassa dÄ«gharattaá¹ƒ ahitÄya dukkhÄyÄâ€ti.",
       "fr": "Alors le [ayasma|vÃ©nÃ©rable] Ananda se dit: [i]â€œQu'Outtiya le [paribbajaka|vagabond spirituel] n'acquiÃ¨re pas la [ditthi|vue] malsaine suivante: â€˜Lorsque je pose au renonÃ§ant Gotama la plus Ã©levÃ©e de toutes les questions, il la laisse de cÃ´tÃ©, il n'y rÃ©pond pas; c'est certainement parce qu'il n'en est pas capable.â€™ Car cela lui porterait prÃ©judice et mÃ¨nerait Ã  son [dukkha|mal-Ãªtre] pour longtemps.â€[/i]"
@@ -118,6 +121,25 @@
       "fr": "De la mÃªme maniÃ¨re, ami Outtiya, le [tathagata|Tathagata] ne se fixe pas d'objectif tel que de sauver tout le [loka|monde], ou seulement la moitiÃ© ou le tiers. Mais il sait que tous ceux qui se sont sauvÃ©s du [loka|monde], qui s'en sauvent ou qui s'en sauveront, le font tous en abandonnant les cinq [nivarana|obstructions], souillures de l'esprit qui affaiblissent le [panna|discernement], en mettant bien en place les quatre [satipatthana|mises en place de la prÃ©sence d'esprit], et en dÃ©veloppant tels qu'ils sont rÃ©ellement les sept [bojjhanga|facteurs d'Ã‰veil]. Voici quels sont ceux qui se sont sauvÃ©s du [loka|monde], qui s'en sauvent ou qui s'en sauveront. Ami Outtiya, vous avez posÃ© au [bhagava|FortunÃ©] la mÃªme question que prÃ©cÃ©demment, d'une autre maniÃ¨re. Voici pourquoi le [bhagava|FortunÃ©] n'a pas rÃ©pondu.Â»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "paribbajaka",
+    "bhagava",
+    "bho",
+    "loka",
+    "tathagata",
+    "marana",
+    "dhamma",
+    "abhinna",
+    "dukkha",
+    "domanassa",
+    "nibbana",
+    "ayasma",
+    "ditthi",
+    "pandita",
+    "nivarana",
+    "panna",
+    "satipatthana",
+    "bojjhanga"
+  ],
   "translator": "Sekha"
 }

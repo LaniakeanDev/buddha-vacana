@@ -4,7 +4,10 @@
   "frTitle": "La mendiante Sissoupatchala",
   "description": "À quelle secte appartient-elle?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho sīsupacālā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā yena sīsupacālā bhikkhunī tenupasaṅkami; upasaṅkamitvā sīsupacālaṃ bhikkhuniṃ etadavoca —",
       "fr": "Ce matin-là, la [bhikkhuni|mendiante] Sissoupatchala s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin s'approcha d'elle et lui dit:"
@@ -17,12 +20,18 @@
       "pl": "“na khvāhaṃ, āvuso, kassaci pāsaṇḍaṃ rocemī””ti. ",
       "fr": "—Je n'approuve de la secte de personne, mon ami.»"
     },
-    { "pl": "", "fr": "[Mara:]" },
+    {
+      "pl": "",
+      "fr": "[Mara:]"
+    },
     {
       "pl": "“kaṃ nu uddissa muṇḍāsi, samaṇī viya dissasi. na ca rocesi pāsaṇḍaṃ, kimiva carasi momūhā””ti. ",
       "fr": "Sous la direction de qui t'es-tu rasée le crâne?Tu as l'air d'une [samana|renonçante]Mais tu n'acceptes aucune secte,Alors pourquoi te comportes-tu comme si tu étais désorientée?"
     },
-    { "pl": "", "fr": "[Sissoupatchala:]" },
+    {
+      "pl": "",
+      "fr": "[Sissoupatchala:]"
+    },
     {
       "pl": "“ito bahiddhā pāsaṇḍā, diṭṭhīsu pasīdanti te. na tesaṃ dhammaṃ rocemi, te dhammassa akovidā. ",
       "fr": "Ici dehors, les adeptes de sectesPlacent leur confiance dans les [ditthi|croyances].Je n'approuve pas leur [dhamma|enseignement]Car ils ignorent la [dhamma|Loi]."
@@ -40,6 +49,19 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Sissoupatchala me connaît,”[/i] disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhuni",
+    "patta",
+    "civara",
+    "pindapata",
+    "mara",
+    "samana",
+    "ditthi",
+    "dhamma",
+    "buddha",
+    "kamma",
+    "upadhi",
+    "bhagava"
+  ],
   "translator": "Sekha"
 }

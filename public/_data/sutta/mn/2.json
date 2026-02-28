@@ -4,7 +4,10 @@
   "frTitle": "Toutes les impuretés mentales",
   "description": "Un exposé détaillé sur les différentes pratiques qui permettent de dissoudre toutes les impuretés mentales et d'atteindre la délivrance ultime, en tête desquelles les considérations judicieuses.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -29,7 +32,10 @@
       "pl": "Atthi, bhikkhave, āsavā dassanā pahātabbā, atthi āsavā saṃvarā pahātabbā, atthi āsavā paṭisevanā pahātabbā, atthi āsavā adhivāsanā pahātabbā, atthi āsavā parivajjanā pahātabbā, atthi āsavā vinodanā pahātabbā, atthi āsavā bhāvanā pahātabbā.",
       "fr": "Il y a, [bhikkhu|mendiants], des [asava|impuretés mentales] à être abandonnées par [@m_dassana|vision], il y a des [asava|impuretés mentales] à être abandonnées par la [samvara|restreinte], il y a des [asava|impuretés mentales] à être abandonnées en faisant usage, il y a des [asava|impuretés mentales] à être abandonnées par endurance, il y a des [asava|impuretés mentales] à être abandonnées par évitement, il y a des [asava|impuretés mentales] à être abandonnées par élimination, il y a des [asava|impuretés mentales] à être abandonnées par le [bhavana|développement]."
     },
-    { "pl": "(Dassanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par vision)" },
+    {
+      "pl": "(Dassanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par vision)"
+    },
     {
       "pl": "Katame ca, bhikkhave, āsavā dassanā pahātabbā? Idha, bhikkhave, assutavā puthujjano, ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto, manasikaraṇīye dhamme nappajānāti, amanasikaraṇīye dhamme nappajānāti. So manasikaraṇīye dhamme appajānanto amanasikaraṇīye dhamme appajānanto, ye dhammā na manasikaraṇīyā, te dhamme manasi karoti, ye dhammā manasikaraṇīyā te dhamme na manasi karoti.",
       "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par [@m_dassana|vision]? À cet égard, [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction], qui ne [va] pas voir les [ariya|êtres nobles], qui n'est pas entraîné au [dhamma|Dhamma] des [ariya|êtres nobles], qui n'est pas discipliné dans le [dhamma|Dhamma] des [ariya|êtres nobles], qui ne [va] pas voir les [sappurisa|hommes de bien], qui n'est pas entraîné au [dhamma|Dhamma] des [sappurisa|hommes de bien], qui n'est pas discipliné dans le [dhamma|Dhamma] des [sappurisa|hommes de bien], ne discerne pas quelles sont les [dhamma|choses] auxquelles il faudrait [@m_manasikaroti|appliquer son esprit] et les [dhamma|choses] auxquelles il ne faudrait pas [@m_manasikaroti|l'appliquer]. Ne comprenant pas quelles sont les [dhamma|choses] auxquelles il faudrait [@m_manasikaroti|appliquer son esprit] et les [dhamma|choses] auxquelles il ne faudrait pas [@m_manasikaroti|l'appliquer], il applique son esprit aux [dhamma|choses] auxquelles il ne faudrait pas [@m_manasikaroti|l'appliquer] et il n'applique pas son esprit aux [dhamma|choses] auxquelles il faudrait [@m_manasikaroti|l'appliquer]."
@@ -82,7 +88,10 @@
       "pl": "Ime vuccanti, bhikkhave, āsavā dassanā pahātabbā.",
       "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées par [@m_dassana|vision]."
     },
-    { "pl": "(Saṃvarā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par la restreinte)" },
+    {
+      "pl": "(Saṃvarā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par la restreinte)"
+    },
     {
       "pl": "Katame ca, bhikkhave, āsavā saṃvarā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso cakkhundriya-saṃvara-saṃvuto viharati. Yañhissa, bhikkhave, cakkhundriya-saṃvaraṃ asaṃvutassa viharato uppajjeyyuṃ āsavā vighātapariḷāhā, cakkhu'ndriya-saṃvaraṃ saṃvutassa viharato evaṃsa te āsavā vighātapariḷāhā na honti.",
       "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par la [samvara|restreinte]? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses demeure restreint par la [samvara|restreinte] de la [cakkhundriya|faculté de l'œil]. Les [asava|impuretés mentales], les contrariétés & fièvres qui peuvent apparaître chez celui qui demeure sans être restreint par la [samvara|restreinte] de la [cakkhundriya|faculté de l'œil] ne sont pas présentes chez celuiqui demeure restreint par la [samvara|restreinte] de la [cakkhundriya|faculté de l'œil]."
@@ -115,7 +124,10 @@
       "pl": "Ime vuccanti, bhikkhave, āsavā saṃvarā pahātabbā.",
       "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées par la [samvara|restreinte]."
     },
-    { "pl": "(Paṭisevanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées en faisant usage)" },
+    {
+      "pl": "(Paṭisevanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées en faisant usage)"
+    },
     {
       "pl": "Katame ca, bhikkhave, āsavā paṭisevanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso cīvaraṃ paṭisevati: ‘yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsa-makasa-vāt'ātapa-sarīṃsapa-samphassānaṃ paṭighātāya, yāvadeva hirikopīna-p'paṭicchāda-natthaṃ’.",
       "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées en faisant usage? À cet égard, un mendiant fait usage de ses [civara|robes] en ayant des [patisankha|réflexions] judicieuses: [i]“seulement pour contrecarrer le froid, pour contrecarrer la chaleur, pour contrecarrer le contact avec les mouches, les moustiques, le vent, le soleil & les rampants, et seulement dans le but de couvrir l'entrejambe'.[/i]"
@@ -136,7 +148,10 @@
       "pl": "Yañhissa, bhikkhave, appaṭisevato uppajjeyyuṃ āsavā vighātapariḷāhā, paṭisevato evaṃsa te āsavā vighātapariḷāhā na honti. Ime vuccanti, bhikkhave, āsavā paṭisevanā pahātabbā.",
       "fr": "Mendiants, les [asava|impuretés mentales], les contrariétés & fièvres qui peuvent apparaître chez celui qui ne fait pas usage [de ces supports de vie] ne sont pas présentes chez celuiqui fait usage [de ces supports de vie]. Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées en faisant usage."
     },
-    { "pl": "(Adhivāsanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par endurance)" },
+    {
+      "pl": "(Adhivāsanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par endurance)"
+    },
     {
       "pl": "Katame ca, bhikkhave, āsavā adhivāsanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso khamo hoti sītassa uṇhassa, jighacchāya pipāsāya, ḍaṃsa-makasa-vāt'ātapa-sarīṃsapa-samphassānaṃ, duruttānaṃ durāgatānaṃ vacanapathānaṃ, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsakajātiko hoti.",
       "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par endurance? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses endure le froid, la chaleur, la faim, la soif, les mouches, les moustiques, le vent, le soleil & les rampants, il endure les manières de parler qui sont malséantes et malvenues, les [vedana|ressentis] corporels apparus qui sont douloureux, incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie."
@@ -145,25 +160,37 @@
       "pl": "Yañhissa, bhikkhave, anadhivāsayato uppajjeyyuṃ āsavā vighātapariḷāhā, adhivāsayato evaṃsa te āsavā vighātapariḷāhā na honti. Ime vuccanti, bhikkhave, āsavā adhivāsanā pahātabbā.",
       "fr": "Mendiants, les [asava|impuretés mentales], les contrariétés & fièvres qui peuvent apparaître chez celui qui n'endure pas ne sont pas présentes chez celuiqui endure. Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées par endurance."
     },
-    { "pl": "(Parivajjanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par évitement)" },
     {
-      "pl": "‘Katame ca, bhikkhave, āsavā parivajjanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso caṇḍaṃ hatthiṃ parivajjeti, caṇḍaṃ assaṃ parivajjeti, caṇḍaṃ goṇaṃ parivajjeti, caṇḍaṃ kukkuraṃ parivajjeti, ahiṃ khāṇuṃ kaṇṭakaṭṭhānaṃ sobbhaṃ papātaṃ candanikaṃ oḷigallaṃ. Yathārūpe anāsane nisinnaṃ yathārūpe agocare carantaṃ yathārūpe pāpake mitte bhajantaṃ viññū sabrahmacārī pāpakesu ṭhānesu okappeyyuṃ, so tañca anāsanaṃ tañca agocaraṃ te ca pāpake mitte paṭisaṅkhā yoniso parivajjeti.Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par évitement? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses évite un éléphant féroce, un cheval féroce, un taureau féroce, un chien féroce, un serpent, une souche d'arbre, un buisson de ronces, un gouffre, un précipice, une fosse à déchets, un étang servant d'égout. Il évite de s'asseoir sur des sièges qui ne conviennent pas, de se promener dans des endroits qui ne conviennent pas, et de s'associer avec des amis [papaka|malsains], ce que ses perspicaces compagnons dans la [brahmacariya|vie brahmique] considéreraient comme [papaka|malsain]."
+      "pl": "(Parivajjanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par évitement)"
+    },
+    {
+      "pl": "‘Katame ca, bhikkhave, āsavā parivajjanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso caṇḍaṃ hatthiṃ parivajjeti, caṇḍaṃ assaṃ parivajjeti, caṇḍaṃ goṇaṃ parivajjeti, caṇḍaṃ kukkuraṃ parivajjeti, ahiṃ khāṇuṃ kaṇṭakaṭṭhānaṃ sobbhaṃ papātaṃ candanikaṃ oḷigallaṃ. Yathārūpe anāsane nisinnaṃ yathārūpe agocare carantaṃ yathārūpe pāpake mitte bhajantaṃ viññū sabrahmacārī pāpakesu ṭhānesu okappeyyuṃ, so tañca anāsanaṃ tañca agocaraṃ te ca pāpake mitte paṭisaṅkhā yoniso parivajjeti.",
+      "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par évitement? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses évite un éléphant féroce, un cheval féroce, un taureau féroce, un chien féroce, un serpent, une souche d'arbre, un buisson de ronces, un gouffre, un précipice, une fosse à déchets, un étang servant d'égout. Il évite de s'asseoir sur des sièges qui ne conviennent pas, de se promener dans des endroits qui ne conviennent pas, et de s'associer avec des amis [papaka|malsains], ce que ses perspicaces compagnons dans la [brahmacariya|vie brahmique] considéreraient comme [papaka|malsain]."
     },
     {
       "pl": "Yañhissa, bhikkhave, aparivajjayato uppajjeyyuṃ āsavā vighātapariḷāhā, parivajjayato evaṃsa te āsavā vighātapariḷāhā na honti. Ime vuccanti, bhikkhave, āsavā parivajjanā pahātabbā.",
       "fr": "Mendiants, les [asava|impuretés mentales], les contrariétés & fièvres qui peuvent apparaître chez celui qui ne pratique pas l'évitement ne sont pas présentes chez celuiqui pratique l'évitement. Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées par évitement."
     },
-    { "pl": "(Vinodanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par élimination)" },
     {
-      "pl": "‘Katame ca, bhikkhave, āsavā vinodanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso uppannaṃ kāma-vitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti, uppannaṃ byāpāda-vitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti,uppannaṃ vihiṃsāvitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti, uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti.Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par élimination? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses ne consent pas à une [vitakka|pensée] de [kama|sensualité] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. Il ne consent pas à une [vitakka|pensée] de [byapada|malveillance] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. Il ne consent pas à une [vitakka|pensée] de [vihimsa|non-inoffensivité] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. il ne consent pas aux [dhamma|états mentaux] [papaka|malsains] et [akusala|désavantageux] ayant fait surface, il les abandonne, les dissipe, les élimine et les fait disparaître."
+      "pl": "(Vinodanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par élimination)"
+    },
+    {
+      "pl": "‘Katame ca, bhikkhave, āsavā vinodanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso uppannaṃ kāma-vitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti, uppannaṃ byāpāda-vitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti,uppannaṃ vihiṃsāvitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti, uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti.",
+      "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par élimination? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses ne consent pas à une [vitakka|pensée] de [kama|sensualité] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. Il ne consent pas à une [vitakka|pensée] de [byapada|malveillance] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. Il ne consent pas à une [vitakka|pensée] de [vihimsa|non-inoffensivité] ayant fait surface, il l'abandonne, la dissipe, l'élimine et la fait disparaître. il ne consent pas aux [dhamma|états mentaux] [papaka|malsains] et [akusala|désavantageux] ayant fait surface, il les abandonne, les dissipe, les élimine et les fait disparaître."
     },
     {
       "pl": "Yañhissa, bhikkhave, avinodayato uppajjeyyuṃ āsavā vighātapariḷāhā, vinodayato evaṃsa te āsavā vighātapariḷāhā na honti. Ime vuccanti, bhikkhave, āsavā vinodanā pahātabbā.",
       "fr": "Mendiants, les [asava|impuretés mentales], les contrariétés & fièvres qui peuvent apparaître chez celui qui ne pratique pas l'élimination ne sont pas présentes chez celuiqui pratique l'élimination. Voici, [bhikkhu|mendiants], ce qu'on appelle les [asava|impuretés mentales] à être abandonnées par élimination."
     },
-    { "pl": "(Bhāvanā pahātabbāsavā)", "fr": "(Impuretés à être abandonnées par le développement)" },
     {
-      "pl": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso sati-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ; paṭisaṅkhā yoniso dhamma-vicaya-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;vīriya-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;pīti-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;passaddhi-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;samādhi-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;upekkhā-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ.Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par le [bhavana|développement]? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses cultive la [sati|présence d'esprit] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[dhammavicaya|investigation des phénomènes] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[viriya|énergie] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[piti|exaltation] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe la [passaddhi|tranquillité] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe la [samadhi|concentration] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[upekkha|équanimité] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon."
+      "pl": "(Bhāvanā pahātabbāsavā)",
+      "fr": "(Impuretés à être abandonnées par le développement)"
+    },
+    {
+      "pl": "Katame ca, bhikkhave, āsavā bhāvanā pahātabbā? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso sati-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ; paṭisaṅkhā yoniso dhamma-vicaya-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;vīriya-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;pīti-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;passaddhi-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;samādhi-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ;upekkhā-sambojjhaṅgaṃ bhāveti viveka-nissitaṃ virāga-nissitaṃ nirodha-nissitaṃ vossagga-pariṇāmiṃ.",
+      "fr": "Et quelles sont, [bhikkhu|mendiants], les [asava|impuretés mentales] à être abandonnées par le [bhavana|développement]? À cet égard, un mendiant ayant des [patisankha|réflexions] judicieuses cultive la [sati|présence d'esprit] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[dhammavicaya|investigation des phénomènes] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[viriya|énergie] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[piti|exaltation] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe la [passaddhi|tranquillité] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe la [samadhi|concentration] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon; il développe l'[upekkha|équanimité] en tant que [sambojjhanga|facteur d'Éveil] qui est fondé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation] et qui mène à l'abandon."
     },
     {
       "pl": "Yañhissa, bhikkhave, abhāvayato uppajjeyyuṃ āsavā vighātapariḷāhā, bhāvayato evaṃsa te āsavā vighātapariḷāhā na honti. Ime vuccanti, bhikkhave, āsavā bhāvanā pahātabbā.",
@@ -178,6 +205,77 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "samvara",
+    "asava",
+    "bhante",
+    "yonisomanasikara",
+    "ayonisomanasikara",
+    "@m_dassana",
+    "bhavana",
+    "puthujjana",
+    "assutava",
+    "ariya",
+    "dhamma",
+    "sappurisa",
+    "@m_manasikaroti",
+    "kama",
+    "bhava",
+    "avijja",
+    "aymk",
+    "ditthi",
+    "atta",
+    "anatta",
+    "vipaka",
+    "kamma",
+    "kalyana",
+    "papaka",
+    "samyojana",
+    "jati",
+    "jaramarana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "ariyasavaka",
+    "sutava",
+    "ymk",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "sakkayaditthi",
+    "vicikiccha",
+    "silabbataparamasa",
+    "patisankha",
+    "cakkhundriya",
+    "sotindriya",
+    "ghanindriya",
+    "jivhindriya",
+    "kayindriya",
+    "manindriya",
+    "civara",
+    "@f_bhojan",
+    "vedana",
+    "brahmacariya",
+    "vitakka",
+    "byapada",
+    "vihimsa",
+    "akusala",
+    "sati",
+    "sambojjhanga",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha",
+    "tanha",
+    "maana"
+  ],
   "translator": "Rémy"
 }

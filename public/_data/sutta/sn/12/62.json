@@ -4,7 +4,10 @@
   "frTitle": "Sans instruction",
   "description": "L'attachement au corps est abandonné beaucoup plus facilement que l'attachement à l'esprit, car l'esprit est davantage sujet à un changement subtil et surtout continuel, comme l'illustre l'allégorie du singe. La compréhension de l'apparition conditionnée est ici remplacée par celle des trois types de ressentis.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ... pe ... ", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ... ",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“assutavā, bhikkhave, puthujjano imasmiṃ cātumahābhūtikasmiṃ kāyasmiṃ nibbindeyyapi virajjeyyapi vimucceyyapi. taṃ kissa hetu? dissati, bhikkhave, imassa cātumahābhūtikassa kāyassa ācayopi apacayopi ādānampi nikkhepanampi. tasmā tatrāssutavā puthujjano nibbindeyyapi virajjeyyapi vimucceyyapi”.",
       "fr": "«[bhikkhu|Mendiants], il se peut qu'un [puthujjana|individu ordinaire] [assutava|sans instruction] soit [nibbida|désenchanté], [viraga|désintéressé] et libéré par rapport à ce corps composé des quatre grands éléments. Pourquoi cela? Parce que ce corps composé des quatre grands éléments est vu en croissance et en déclin, emporté et déposé. Voici pourquoi il se peut qu'un [puthujjana|individu ordinaire] [assutava|sans instruction] en soit [nibbida|désenchanté], [viraga|désintéressé] et libéré."
@@ -30,6 +33,36 @@
       "fr": "En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "puthujjana",
+    "assutava",
+    "nibbida",
+    "viraga",
+    "citta",
+    "mana",
+    "vinnana",
+    "atta",
+    "ariyasavaka",
+    "sutava",
+    "ymk",
+    "paticcasamuppada",
+    "phassa",
+    "sukha",
+    "sukhavedana",
+    "nirodha",
+    "dukkha",
+    "dukkhavedana",
+    "adas",
+    "adukkhamasukhavedana",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
   "translator": "Sekha."
 }

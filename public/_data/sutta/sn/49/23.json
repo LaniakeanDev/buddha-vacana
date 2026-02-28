@@ -156,8 +156,14 @@
       "pl": "34.“seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. atha mahājanakāyo āgaccheyya kuddāla-piṭakaṃ ādāya: ‘mayaṃ imaṃ gaṅgaṃ nadiṃ pacchāninnaṃ karissāma pacchāpoṇaṃ pacchāpabbhāran’ti. taṃ kiṃ maññatha, bhikkhave, api nu so mahājanakāyo gaṅgaṃ nadiṃ pacchāninnaṃ kareyya pacchāpoṇaṃ pacchāpabbhāran”ti?",
       "fr": "34.[bhikkhu|Mendiants], c'est tout comme le fleuve Gange, qui s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Imaginez qu'une grande foule arrive en apportant des pelles et des paniers [et en disant]: [i]“Nous allons faire s'incliner ce fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest.”[/i] Qu'en pensez-vous, [bhikkhu|mendiants]: est-ce que cette grande foule parviendrait à faire s'incliner le fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“gaṅgā, bhante, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. sā na sukarā pacchāninnaṃ kātuṃ pacchāpoṇaṃ pacchāpabbhāraṃ. yāvadeva pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti.",
       "fr": "—[bhante|Bhanté], le fleuve Gange s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Il n'est pas facile de le faire s'incliner vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest. Cette grande foule ne rencontrerait que fatigue et contrariété."
@@ -175,6 +181,45 @@
       "fr": "Voici, [bhikkhu|mendiants], comment un [bhikkhu|mendiant], à l'aide de la [sila|vertu], en s'appuyant sur la [sila|vertu], développe les quatre [padhana|efforts] corrects, cultive les quatre [padhana|efforts] corrects."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sila",
+    "padhana",
+    "chanda",
+    "dhamma",
+    "papaka",
+    "akusala",
+    "viriya",
+    "citta",
+    "kusala",
+    "bhante",
+    "nibbana",
+    "satipatthana",
+    "bhavana",
+    "sammappadhana",
+    "iddhipada",
+    "indriya",
+    "bala",
+    "bojjhanga",
+    "samyojana",
+    "khattiya",
+    "brahmana",
+    "abhinna",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "avijja",
+    "bhavatanha",
+    "vijja",
+    "vimutti",
+    "samatha",
+    "vipassana",
+    "punna",
+    "sikkha",
+    "viveka"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "L'ignorance et la véritable connaissance",
   "description": "Qu'est-ce que l'ignorance (avijjā)? Qu'est-ce que la véritable connaissance (vijjā)?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -70,6 +73,27 @@
       "fr": "Voici, [bhikkhu|mendiant], ce qu'on appelle la [vijja|véritable connaissance], et voici de quelle manière on connaît correctement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“[avijja",
+    "avijja",
+    "puthujjana",
+    "assutava",
+    "panna",
+    "yathabhutam",
+    "rupa",
+    "dhamma",
+    "samudaya",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "i]“[vijja",
+    "vijja",
+    "ariyasavaka",
+    "sutava"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Comment pratiquer Ouposatha",
   "description": "Le Bouddha explique à Visakha comment observer l'Ouposatha et quels en sont les bienfaits.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. atha kho visākhā migāramātā tadahuposathe yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho visākhaṃ migāramātaraṃ bhagavā etadavoca",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le manoir de la mère de Migara, dans le parc de l'est. Ce jour-là, un jour d'[uposatha|Ouposatha], Visakha la mère de Migara alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Tandis qu'elle était assise là, le [bhagava|Fortuné] lui dit:"
@@ -138,6 +141,52 @@
       "fr": "Visakha, seize cents années humaines sont égales à un seul jour et une seule nuit pour les [deva|dévas] [parinimmitavasavatti|qui contrôlent les créations des autres]. Trente de ces journées font un mois. Douze de ces mois forment une année. La durée de vie des [deva|dévas] [parinimmitavasavatti|qui contrôlent les créations des autres] est de seize mille de ces années. Il est possible, Visakha, qu'une certaine femme ou un certain homme ayant observé l'[uposatha|Ouposatha] pourvu de huit composantes, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaisse en compagnie des [deva|dévas] [parinimmitavasavatti|qui contrôlent les créations des autres]. Et c'est en référence à cela, Visakha, que j'ai dit : [i]“La royauté humaine est insignifiante en comparaison avec le [sukha|bien-être] [deva|dévique].”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "uposatha",
+    "bhante",
+    "url_jainism",
+    "ariya",
+    "anisamsa",
+    "savaka",
+    "satta",
+    "yojana",
+    "musava",
+    "adinnadana",
+    "citta",
+    "ariyasavaka",
+    "tathagata",
+    "i]“[@f_anussati#anussati-1-cl",
+    "pamojja",
+    "brahma",
+    "dhamma",
+    "i][@f_anussati#anussati-2",
+    "sangha",
+    "i][@f_anussati#anussati-3-cl",
+    "@f_anussati#anussati-4",
+    "sila",
+    "deva",
+    "catumaharajika",
+    "tavatimsa",
+    "yaama",
+    "tusita",
+    "nimmanarati",
+    "parinimmitavasavatti",
+    "brahmakayika",
+    "saddha",
+    "suta",
+    "caga",
+    "panna",
+    "arahant",
+    "panatipata",
+    "abrahmacariya",
+    "brahmacariya",
+    "musavada",
+    "suramerayamajjapamadatthana",
+    "sukha",
+    "kaya",
+    "marana",
+    "yama"
+  ],
   "translator": "Rémy"
 }

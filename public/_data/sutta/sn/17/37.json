@@ -4,7 +4,10 @@
   "frTitle": "La mère etc.",
   "description": "Il ne dirait pas un mensonge délibéré, même pour eux. Et pourtant…",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ evaṃ cetasā ceto paricca pajānāmi — ‘na cāyamāyasmā mātupi hetu … pe … pitupi hetu … pe … bhātupi hetu. bhaginiyāpi hetu. puttassapi hetu. dhītuyāpi hetu. pajāpatiyāpi hetu sampajānamusā bhāseyyā’’ti.",
       "fr": "[bhikkhu|Mendiants], [lss|les acquisitions, honneurs et renommée] sont cruels, amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. À cet égard, je comprends ainsi l'[citta|esprit] d'un certain individu en l'ayant englobé avec mon [citta|esprit]: [i]“Ce [ayasma|vénérable] ne dirait pas un mensonge délibéré, même pour (37) sa mère (38) son père (39) son frère (40) sa sœur (41) son fils (42) sa fille (43) sa femme”[/i]."
@@ -18,6 +21,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "lss", "citta", "ayasma"],
   "translator": "Rémy"
 }

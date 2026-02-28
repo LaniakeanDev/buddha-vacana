@@ -4,7 +4,10 @@
   "frTitle": "Anathapindika malade",
   "description": "Anathapindika est malade et demande à voir Ananda, qui lui explique quatre raisons d'avoir peur ou non de la mort.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena anāthapiṇḍiko gahapati ābādhiko hoti dukkhito bāḷhagilāno. atha kho anāthapiṇḍiko gahapati aññataraṃ purisaṃ āmantesi:",
       "fr": "Ce jour-là, l'homme de foyer Anathapindika était en proie à la maladie, souffrant, gravement malade. Alors il s'adressa à une certaine personne:"
@@ -21,7 +24,10 @@
       "pl": "“anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. so āyasmato ānandassa pāde sirasā vandati.",
       "fr": "«[bhante|Bhanté], l'homme de foyer Anathapindika est en proie à la maladie, souffrant, gravement malade. Il rend hommage au [ayasma|vénérable] Ananda avec la tête à ses pieds.»"
     },
-    { "pl": "evañca vadati:", "fr": "Il dit ensuite:" },
+    {
+      "pl": "evañca vadati:",
+      "fr": "Il dit ensuite:"
+    },
     {
       "pl": "‘sādhu kira, bhante, āyasmā ānando yena anāthapiṇḍikassa gahapatissa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.",
       "fr": "«Il serait vraiment profitable à l'homme de foyer Anathapindika, [bhante|Bhanté], que le [ayasma|vénérable] Ananda aille le visiter dans sa maison, par compassion.»"
@@ -99,6 +105,32 @@
       "fr": "—Vraiment, c'est un gain pour toi, homme de foyer! Vraiment, c'est un bénéfice pour toi. Homme de foyer, tu viens de déclarer le fruit de l'[sotapatti|entrée dans le courant]!»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "i]“[bhante",
+    "bhante",
+    "patta",
+    "civara",
+    "puthujjana",
+    "assutava",
+    "dhamma",
+    "marana",
+    "buddha",
+    "sangha",
+    "sila",
+    "ariyasavaka",
+    "sutava",
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "ariya",
+    "@f_anussati#anussati-4",
+    "sikkhapada",
+    "bhagava",
+    "sotapatti"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Les dix forces",
   "description": "Ce soutta contient une exhortation remarquable à propos de l'activation de l'énergie: le suprême ne peut être atteint qu'au moyen de ce qui est suprême.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati...", "fr": "À Savatthi..." },
+    {
+      "pl": "sāvatthiyaṃ viharati...",
+      "fr": "À Savatthi..."
+    },
     {
       "pl": "“dasabalasamannāgato, bhikkhave, tathāgato catūhi ca vesārajjehi samannāgato āsabhaṃ ṭhānaṃ paṭijānāti, parisāsu sīhanādaṃ nadati, brahmacakkaṃ pavattetti: ‘iti rūpaṃ iti rūpassa samudayo iti rūpassa atthaṅgamo, iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo, iti saññā iti saññāya samudayo iti saññāya atthaṅgamo, iti saṅkhārā iti saṅkhārānaṃ samudayo iti saṅkhārānaṃ atthaṅgamo, iti viññāṇaṃ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo.",
       "fr": "Doué des dix [bala|forces], [bhikkhu|mendiants], et doué des quatre aplombs, le [tathagata|Tathagata] se reconnaît comme le meneur (du troupeau), rugit sont rugissement de lion dans les assemblées et met en mouvement la roue de [brahma|Brahma]: [i]“Voici la [rupa|Forme], voici l'[samudaya|apparition] de la [rupa|Forme], voici la disparition de la [rupa|Forme]; voici le [vedana|Ressenti], voici l'[samudaya|apparition] du [vedana|Ressenti], voici la disparition du [vedana|Ressenti]; voici la [sanna|Perception], voici l'[samudaya|apparition] de la [sanna|Perception], voici la disparition de la [sanna|Perception]; voici les [sankhara|Constructions], voici l'[samudaya|apparition] des [sankhara|Constructions], voici la disparition des [sankhara|Constructions]; voici la [vinnana|Conscience], voici l'[samudaya|apparition] de la [vinnana|Conscience], voici la disparition de la [vinnana|Conscience].”[/i]"
@@ -34,6 +37,47 @@
       "fr": "Considérer votre bénéfice personnel, [bhikkhu|mendiants], est suffisant pour que vous vous efforciez avec [appamada|assiduité]; considérer le bénéfice des autres, [bhikkhu|mendiants], est suffisant pour que vous vous efforciez avec [appamada|assiduité]; considérer le bénéfice des deux, [bhikkhu|mendiants], est suffisant pour que vous vous efforciez avec [appamada|assiduité]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bala",
+    "bhikkhu",
+    "tathagata",
+    "brahma",
+    "rupa",
+    "samudaya",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "avijja",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "viraga",
+    "nirodha",
+    "dhamma",
+    "pabbaja",
+    "saddha",
+    "viriya",
+    "papaka",
+    "akusala",
+    "araddhaviriya",
+    "sukha",
+    "brahmacariya",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "appamada"
+  ],
   "translator": "Rémy"
 }

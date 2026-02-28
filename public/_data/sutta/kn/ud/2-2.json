@@ -4,7 +4,10 @@
   "frTitle": "Les rois",
   "description": "Le Bouddha rappelle à l'ordre des mendiants qui discutent des rois.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena sambahulānaṃ bhikkhūnaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ upaṭṭhānasālāyaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi: “ko nu kho, āvuso, imesaṃ dvinnaṃ rājūnaṃ mahaddhanataro vā mahābhogataro vā mahākosataro vā mahāvijitataro vā mahāvāhanataro vā mahabbalataro vā mahiddhikataro vā mahānubhāvataro vā: rājā vā māgadho seniyo bimbisāro, rājā vā pasenadi kosalo”ti? ayañcarahi tesaṃ bhikkhūnaṃ antarākathā hoti vippakatā.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, alors qu'un certain nombre de [bhikkhu|mendiants], de retour de leur [pindapata|quête de nourriture d'aumônes], après leur repas, se tenaient assis réunis dans la salle d'assemblée, la conversation suivante apparut entre eux: [i]“Amis, lequel de ces deux rois a le plus de richesses, la plus grande fortune, ou bien le plus grand trésor, le plus grand royaume, les plus fastueux véhicules, la plus grande puissance, les plus grands pouvoirs, ou bien le plus de majesté: le roi Séniya Bimbissara du Magadha, ou bien le roi Passénadi du Kossala?”[/i] Et cette discussion entre les [bhikkhu|mendiants] n'en venait pas à sa conclusion."
@@ -34,6 +37,20 @@
       "fr": "[i]Le [sukha|bien-être] de la [kama|sensualité] dans le [loka|monde]Aussi bien que le [sukha|bien-être] céleste,Du [sukha|bien-être] de la destruction de la [tanha|Soif]Ne valent pas un seizième.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "pindapata",
+    "patisallana",
+    "pabbaja",
+    "anagariya",
+    "saddha",
+    "dhamma",
+    "udana",
+    "sukha",
+    "kama",
+    "loka",
+    "tanha"
+  ],
   "translator": "Rémy"
 }

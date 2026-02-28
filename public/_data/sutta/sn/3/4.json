@@ -4,7 +4,10 @@
   "frTitle": "Aimable",
   "description": "Le roi Passénadi comprend qui est aimable envers soi-même et qui est hostile à soi-même.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
       "fr": "Une fois assis d'un côté, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
@@ -18,6 +21,6 @@
       "fr": "— Il en est ainsi, Maharaja, il en est ainsi! Ceux qui s'engagent dans la [duccarita|méconduite] corporelle, qui s'engagent dans la [duccarita|méconduite] verbale, qui s'engagent dans la [duccarita|méconduite] mentale sont hostiles à eux-mêmes. Même s'ils se disent: [i]“Je suis aimable envers moi-même”[/i], ils sont en fait hostiles à eux-mêmes. Pourquoi cela? Parce qu'ils se font à eux-mêmes ce qu'une personne hostile ferait à un ennemi, c'est pourquoi ils sont hostiles à eux-mêmes. Et ceux qui s'engagent dans la [sucarita|bonne conduite] corporelle, dans la [sucarita|bonne conduite] verbale, dans la [sucarita|bonne conduite] mentale sont aimables envers eux-mêmes. Même s'ils disent: [i]“Je suis hostile à moi-même”[/i], ils sont en fait aimables envers eux-mêmes. Pourquoi cela? Parce qu'ils se font à eux-mêmes ce qu'une personne aimable ferait à une personne chère, c'est pourquoi ils sont aimables envers eux-mêmes.”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante", "patisallana", "vitakka", "duccarita", "sucarita"],
   "translator": "Rémy"
 }

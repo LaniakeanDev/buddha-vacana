@@ -4,7 +4,10 @@
   "frTitle": "Un éclat",
   "description": "Mara tente de donner mauvaise conscience au Bouddha, qui se repose après avoir été blessé au pied par Devadatta.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ migadāye. tena kho pana samayena bhagavato pādo sakalikāya khato hoti, bhusā sudaṃ bhagavato vedanā vattanti sārīrikā dukkhā tibbā kharā kaṭukā asātā amanāpā. tā sudaṃ bhagavā sato sampajāno adhivāseti avihaññamāno. atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññapetvā dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya sato sampajāno.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri, à Maddakoucchi, dans le parc aux daims. Ce jour-là, le pied du [bhagava|Fortuné] avait été blessé par un éclat, de telle manière qu'il subissait de forts ressentis corporels, [dukkha|douloureux], incisifs, aigus, perçants, désagréables et déplaisants. Le [bhagava|Fortuné] les endurait, [sato|présent d'esprit], [sampajana|doué de discernement attentif], sans être tourmenté. Alors le [bhagava|Fortuné] plia sa robe-manteau et se coucha sur le côté droit dans la posture du lion, plaçant un pied sur l'autre, [sato|présent d'esprit], [sampajana|doué de discernement attentif]."
@@ -34,6 +37,6 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“Le [bhagava|Fortuné] me connaît, le Sublime me connaît”[/i], disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "dukkha", "sato", "sampajana", "mara"],
   "translator": "Sekha"
 }

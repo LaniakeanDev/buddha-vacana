@@ -44,7 +44,10 @@
       "pl": "— Dukkhaṃ, bhante.[@nl]— Yaṃ pan·āniccaṃ dukkhaṃ vipariṇāma·dhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, eso·ham·asmi, eso me attā’ti?",
       "fr": "— [dukkha|Insatisfaisant], [bhante|Bhanté].[@nl]— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "— No h·etaṃ, bhante.", "fr": "— Non, [bhante|Bhanté]." },
+    {
+      "pl": "— No h·etaṃ, bhante.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
     {
       "pl": "— Vedanā niccā vā aniccā vā ti?",
       "fr": "— Le [vedana|Ressenti] est-il permanent ou [anicca|impermanent]?"
@@ -57,7 +60,10 @@
       "pl": "— Dukkhaṃ, bhante.[@nl]— Yaṃ pan·āniccaṃ dukkhaṃ vipariṇāma·dhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, eso·ham·asmi, eso me attā’ti?",
       "fr": "— [dukkha|Insatisfaisant], [bhante|Bhanté].[@nl]— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "— No h·etaṃ, bhante.", "fr": "— Non, [bhante|Bhanté]." },
+    {
+      "pl": "— No h·etaṃ, bhante.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
     {
       "pl": "— Saññā niccā vā aniccā vā ti?",
       "fr": "— La [sanna|Perception] est-elle permanente ou [anicca|impermanente]?"
@@ -70,7 +76,10 @@
       "pl": "— Dukkhaṃ, bhante.[@nl]— Yaṃ pan·āniccaṃ dukkhaṃ vipariṇāma·dhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, eso·ham·asmi, eso me attā’ti?",
       "fr": "— [dukkha|Insatisfaisant], [bhante|Bhanté].[@nl]— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "— No h·etaṃ, bhante.", "fr": "— Non, [bhante|Bhanté]." },
+    {
+      "pl": "— No h·etaṃ, bhante.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
     {
       "pl": "— Saṅkhārā niccā vā aniccā vā ti?",
       "fr": "— Les [sankhara|Constructions] sont-elles permanentes ou [anicca|impermanentes]?"
@@ -83,7 +92,10 @@
       "pl": "— Dukkhaṃ, bhante.[@nl]— Yaṃ pan·āniccaṃ dukkhaṃ vipariṇāma·dhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, eso·ham·asmi, eso me attā’ti?",
       "fr": "— [dukkha|Insatisfaisant], [bhante|Bhanté].[@nl]— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "— No h·etaṃ, bhante.", "fr": "— Non, [bhante|Bhanté]." },
+    {
+      "pl": "— No h·etaṃ, bhante.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
     {
       "pl": "— Viññāṇaṃ niccaṃ vā aniccaṃ vā ti?",
       "fr": "— La [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
@@ -96,7 +108,10 @@
       "pl": "— Dukkhaṃ, bhante.[@nl]— Yaṃ pan·āniccaṃ dukkhaṃ vipariṇāma·dhammaṃ, kallaṃ nu taṃ samanupassituṃ: ‘etaṃ mama, eso·ham·asmi, eso me attā’ti?",
       "fr": "— [dukkha|Insatisfaisant], [bhante|Bhanté].[@nl]— Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "— No h·etaṃ, bhante.", "fr": "— Non, [bhante|Bhanté]." },
+    {
+      "pl": "— No h·etaṃ, bhante.",
+      "fr": "— Non, [bhante|Bhanté]."
+    },
     {
       "pl": "— Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atīt·ānāgata·paccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ ‘n·etaṃ mama, n·eso·ham·asmi, na m·eso attā’ti evam·etaṃ yathā·bhūtaṃ samma·p·paññāya daṭṭhabbaṃ.",
       "fr": "— C'est pourquoi, [bhikkhu|mendiants], toute [rupa|Forme], qu'elle soit passée, future ou présente, interne ou externe, grossière ou subtile, inférieure ou superbe, éloignée ou proche, devrait être vue [yathabhutam|telle qu'elle est réellement], avec un [panna|discernement] correct: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
@@ -130,6 +145,33 @@
       "fr": "Et pendant que cet exposé avait été prononcé, les esprits des cinq [bhikkhu|mendiants] du groupe furent libérés des [asava|impuretés mentales] par non-attachement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "rupa",
+    "anatta",
+    "atta",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "anicca",
+    "bhante",
+    "sukha",
+    "dukkha",
+    "dhamma",
+    "viparinama",
+    "yathabhutam",
+    "panna",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya",
+    "asava"
+  ],
   "translator": "Rémy"
 }

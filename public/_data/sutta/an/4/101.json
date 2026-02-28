@@ -4,7 +4,10 @@
   "frTitle": "Nuages orageux",
   "description": "Quatre types d'individus comparables à des nuages orageux, en fonction de leur propension à parler ou à agir.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -38,6 +41,6 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus que l'on trouve dans le [loka|monde] et qui sont comparables à des nuages orageux.»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "loka"],
   "translator": "Rémy"
 }

@@ -17,6 +17,14 @@
       "fr": "Voici, [bhikkhu|mendiants], quel est le [bhavana|développement] des quatre [satipatthana|mises en place de la présence d'esprit]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhavana",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Sekha"
 }

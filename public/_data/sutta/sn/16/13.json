@@ -4,7 +4,10 @@
   "frTitle": "Une contrefaçon du Dhamma authentique",
   "description": "Mahakassapa fait part au Bouddha de sa consternation face au déclin du Sangha, et celui-ci lui expliqueen retour comment l'enseignement authentique disparaît inexorablement, mais comment on peut tout de même favoriser son maintien. Ces considérations peuvent également s'appliquer à des enseignements qui ont vu le jour plus tard et qu'on a forcément étiquetés “bouddhistes.”",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā mahākassapo bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Sāvatthī, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Ce jour-là, le [ayasma|vénérable] Mahakassapa vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là , il dit au [bhagava|Fortuné]:"
@@ -34,6 +37,23 @@
       "fr": "Il y a cinq [dhamma|choses], Kassapa, qui mènent au maintien, à la non-dissipation et la non-disparition du [saddhamma|Dhamma authentique]. Quelles sont ces cinq? Lorsque les [bhikkhu|mendiants], les [bhikkhuni|mendiantes], les [upasaka|disciples laïcs hommes] et [upasika|femmes] demeurent avec respect et déférence envers l'Enseignant, avec respect et déférence envers l'[dhamma|Enseignement], avec respect et déférence envers la [sangha|Communauté], avec respect et déférence envers l'[sikkha|entraînement], avec respect et déférence envers la [samadhi|concentration]. Voici, Kassapa, quelles sont ces cinq [dhamma|choses] qui mènent au maintien, à la non-dissipation et la non-disparition du [saddhamma|Dhamma authentique]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "hetu",
+    "bhante",
+    "paccaya",
+    "sikkhapada",
+    "bhikkhu",
+    "anna",
+    "saddhamma",
+    "sangha",
+    "dhamma",
+    "bhikkhuni",
+    "upasaka",
+    "upasika",
+    "sikkha",
+    "samadhi"
+  ],
   "translator": "Rémy"
 }

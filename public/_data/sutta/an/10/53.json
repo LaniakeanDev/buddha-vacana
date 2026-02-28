@@ -8,8 +8,11 @@
       "pl": "“ṭhitimpāhaṃ, bhikkhave, na vaṇṇayāmi kusalesu dhammesu, pageva parihāniṃ. vuḍḍhiñca kho ahaṃ, bhikkhave, vaṇṇayāmi kusalesu dhammesu, no ṭhitiṃ no hāniṃ.",
       "fr": "[bhikkhu|Mendiants], je ne félicite pas la stagnation dans les [dhamma|états] [kusaka|avantageux], et encore moins le déclin. C'est le progrès dans les [dhamma|états] [kusaka|avantageux] que je félicite, pas la stagnation ni le déclin."
     },
-    { "pl": "(…)", "fr": "(…) " }
+    {
+      "pl": "(…)",
+      "fr": "(…) "
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "dhamma", "kusaka"],
   "translator": "Sekha"
 }

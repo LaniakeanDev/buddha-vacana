@@ -4,7 +4,10 @@
   "frTitle": "Les cinq rois",
   "description": "Le Bouddha explique à des rois que si l'on trouve satisfaction de ses aspirations avec les plaisirs des sens, on ne s'intéresse pas à quoi que ce soit de plus élevé.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena pañcannaṃ rājūnaṃ pasenadipamukhānaṃ pañcahi kāmaguṇehi samappitānaṃ samaṅgībhūtānaṃ paricārayamānānaṃ ayamantarākathā udapādi: “kiṃ nu kho kāmānaṃ aggan”ti? tatrekacce evamāhaṃsu: “rūpā kāmānaṃ aggan”ti. ekacce evamāhaṃsu: “saddā kāmānaṃ aggan”ti. ekacce evamāhaṃsu: “gandhā kāmānaṃ aggan”ti. ekacce evamāhaṃsu: “rasā kāmānaṃ aggan”ti. ekacce evamāhaṃsu: “phoṭṭhabbā kāmānaṃ aggan”ti. yato kho te rājāno nāsakkhiṃsu aññamaññaṃ saññāpetuṃ. atha kho rājā pasenadi kosalo te rājāno etadavoca:",
       "fr": "Ce jour-là, la conversation suivante était apparue entre cinq rois menés par Passénadi qui se divertissaient avec les cinq [kamaguna|agréments des plaisirs sensuels] dont ils étaient pourvus et nantis: [i]“Quel est le plus élevé des [kama|plaisirs sensuels]?”[/i] L'un d'eux disait: [i]“Les formes visibles constituent le plus élevé des [kama|plaisirs sensuels]”[/i] Un autre disait: [i]“Les sons constituent le plus élevé des [kama|plaisirs sensuels]”[/i] Un autre disait: [i]“Les odeurs constituent le plus élevé des [kama|plaisirs sensuels]”[/i] Un autre disait: [i]“Les goûts constituent le plus élevé des [kama|plaisirs sensuels]”[/i] Un autre disait: [i]“Les sensations corporelles constituent le plus élevé des [kama|plaisirs sensuels]”[/i]. Et ces rois ne parvenaient pas à se convaincre les uns les autres. Alors le roi Passénadi du Kossala leur dit:"
@@ -46,6 +49,6 @@
       "fr": "Certaines sensations corporelles peuvent être plaisantes pour l'un et déplaisantes pour un autre. [Un individu] ne prise pas de sensations corporelles plus exquises et plus sublimes que celles par lesquelles il est ravi et ses [sankappa|aspirations] sont satisfaites. Pour lui, ces sensations corporelles sont le summum, elles sont suprêmes."
     }
   ],
-  "keywords": [],
+  "keywords": ["kamaguna", "kama", "bhagava", "bhante", "sankappa"],
   "translator": "Rémy"
 }

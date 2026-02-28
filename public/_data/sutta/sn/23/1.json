@@ -4,7 +4,10 @@
   "frTitle": "Le Tueur",
   "description": "Ici Radha demande au Bouddha ce qu'est le Tueur (Māra).",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
       "fr": "Ce jour-là, le [ayasma|vénérable] Radha alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -58,6 +61,21 @@
       "fr": "—Radha, tu as excédé le questionnement, tu n'as pas saisi la limite du questionnement. La [brahmacariya|vie brahmique] est vécue parce qu'elle mène à l'[nibbana|Extinction], parce qu'elle se termine dans l'[nibbana|Extinction], parce qu'elle atteint sa perfection dans l'[nibbana|Extinction].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "mara",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "nibbida",
+    "viraga",
+    "vimutti",
+    "nibbana",
+    "brahmacariya"
+  ],
   "translator": "Sekha"
 }

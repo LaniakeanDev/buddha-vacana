@@ -8,7 +8,10 @@
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "Bhikkhavo ti.", "fr": "— [bhikkhu|Mendiants]." },
+    {
+      "pl": "Bhikkhavo ti.",
+      "fr": "— [bhikkhu|Mendiants]."
+    },
     {
       "pl": "Bhadante ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] dit alors:"
@@ -38,6 +41,28 @@
       "fr": "Mais si, [bhikkhu|mendiants], en s'auto-examinant un mendiant comprend ainsi: [i]“Je demeure souvent sans [abhijjha|convoitise], je demeure souvent avec un [citta|esprit] sans [byapada|malveillance], je demeure souvent sans [thinamiddha|torpeur & somnolence], je demeure souvent sans agitation, je demeure souvent au-delà du [vicikiccha|doute], je demeure souvent sans colère, je demeure souvent avec un [citta|esprit] sans souillure, je demeure souvent avec le [kaya|corps] sans excitation, je demeure souvent [araddhaviriya|énergique], et je demeure souvent [samadhi|concentré]”[/i], alors il devrait se baser sur ces [dhamma|états mentaux] [kusala|avantageux] et faire un travail supplémentaire pour l'élimination complète des [asava|impuretés mentales]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "citta",
+    "sankappa",
+    "dhamma",
+    "kusala",
+    "abhijjha",
+    "byapada",
+    "thinamiddha",
+    "vicikiccha",
+    "kaya",
+    "araddhaviriya",
+    "samadhi",
+    "chanda",
+    "vayama",
+    "sati",
+    "sampajanna",
+    "akusala",
+    "papaka",
+    "asava"
+  ],
   "translator": "Rémy"
 }

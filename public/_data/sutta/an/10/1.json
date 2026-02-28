@@ -4,7 +4,10 @@
   "frTitle": "Quelle est la finalité?",
   "description": "Le vénérable Ananda demande au Bouddha quelle est la finalité de la vertu.",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [ayasma|vénérable] Ananda vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -86,6 +89,23 @@
       "fr": "Ainsi, Ananda, les [sila|vertus] [kusala|avantageuses] ont l'absence de remords comme finalité, elles ont l'absence de remords comme [anisamsa|bienfait]; l'absence de remords a la [pamojja|joie] comme finalité, elle a la [pamojja|joie] comme [anisamsa|bienfait]; la [pamojja|joie] a l'[piti|exaltation] comme finalité, elle a l'[piti|exaltation] comme [anisamsa|bienfait]; l'[piti|exaltation] a la [passaddhi|tranquillité] comme finalité, elle a la [passaddhi|tranquillité] comme [anisamsa|bienfait]; la [passaddhi|tranquillité] a le [sukha|bien-être] comme finalité, elle a le [sukha|bien-être] comme [anisamsa|bienfait]; le [sukha|bien-être] a la [samadhi|concentration] comme finalité, il a la [samadhi|concentration] comme [anisamsa|bienfait]; la [samadhi|concentration] a la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] comme finalité, elle a la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] comme [anisamsa|bienfait]; la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement] a le [nibbida|désenchantement] & [viraga|désintéressement] comme finalité, elle a le [nibbida|désenchantement] & [viraga|désintéressement] comme [anisamsa|bienfait]; le [nibbida|désenchantement] & [viraga|désintéressement] a la [nanadassana|connaissance & vision] de la [vimutti|libération] comme finalité, il a la [nanadassana|connaissance & vision] de la [vimutti|libération] comme [anisamsa|bienfait]. Ainsi, Ananda, les [sila|vertus] [kusala|avantageuses] mènent progressivement au sommet."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "sila",
+    "kusala",
+    "anisamsa",
+    "pamojja",
+    "piti",
+    "passaddhi",
+    "sukha",
+    "samadhi",
+    "nanadassana",
+    "yathabhutam",
+    "nibbida",
+    "viraga",
+    "vimutti"
+  ],
   "translator": "Rémy"
 }

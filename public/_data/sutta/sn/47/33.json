@@ -17,6 +17,16 @@
       "fr": "[bhikkhu|Mendiants], quiconque a abandonné ces quatre [satipatthana|mises en place de la présence d'esprit] a abandonné la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Et quiconque a poursuivi ces quatre [satipatthana|mises en place de la présence d'esprit] a poursuivi la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "satipatthana",
+    "ariya",
+    "magga",
+    "dukkha",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

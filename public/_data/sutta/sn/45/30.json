@@ -4,7 +4,10 @@
   "frTitle": "Le vénérable Outtiya",
   "description": "Que sont les agréments des plaisirs sensuels (kāma·guṇa)? Comment les abandonne-t-on?",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā uttiyo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā uttiyo bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Outtiya vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là,le [ayasma|vénérable] Outtiya dit au [bhagava|Fortuné]:"
@@ -22,6 +25,24 @@
       "fr": "Outtiya, pour l'abandon de ces cinq [kamaguna|agréments des plaisirs sensuels], la [aam|noble voie à huit composantes] est à cultiver. Quelle [aam|noble voie à huit composantes]? C'est-à-dire la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. Outtiya, pour l'abandon de ces cinq [kamaguna|agréments des plaisirs sensuels], cette [aam|noble voie à huit composantes] est à cultiver."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "patisallana",
+    "vitakka",
+    "citta",
+    "kamaguna",
+    "kama",
+    "raga",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati"
+  ],
   "translator": "Rémy"
 }

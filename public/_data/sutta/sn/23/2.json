@@ -4,7 +4,10 @@
   "frTitle": "Un être",
   "description": "Radha demande au Bouddha ce qu'est un être (satto) et comme c'est souvent le cas, celui-ci propose une définition basée sur un jeu de mot, ici avec satto en tant que participe passé du verbe sajjati (être attaché).",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
       "fr": "Ce jour-là, le [ayasma|vénérable] Radha alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -26,6 +29,20 @@
       "fr": "De la même manière, Radha, toi aussi démolis, détruis, abats et débarrasse-toi de la[rupa|Forme] et pratique la destruction de la [tanha|Soif]. Démolis, détruis, abats et débarrasse-toi du [vedana|Ressenti] (…) de la [sanna|Perception] (…) des [sankhara|Constructions] (…) de la [vinnana|Conscience] et pratique la destruction de la [tanha|Soif]. Radha, la destruction de la [tanha|Soif], c'est l'[nibbana|Extinction].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "satta",
+    "chanda",
+    "raga",
+    "tanha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "nibbana"
+  ],
   "translator": "Sekha"
 }

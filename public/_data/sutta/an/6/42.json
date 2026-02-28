@@ -4,7 +4,10 @@
   "frTitle": "En compagnie de Naguita",
   "description": "Le Bouddha fait l'éloge des mendiants qui prennent résidence en pleine forêt, loin de la tentation des acquisitions, des honneurs et de la renommée (lābha-sakkāra-siloka).",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.",
       "fr": "Un jour, en voyageant à pied à travers le Kosala avec un grand groupe de [bhikkhu|mendiants], le [bhagava|Fortuné] arriva à un village de [brahmana|brahmanes] du Kosala qui s'appelait Itchanangala. Le [bhagava|Fortuné] séjourna alors près d'Itchanangala, dans le maquis forestier d'Itchanangala."
@@ -70,6 +73,40 @@
       "fr": "Naguita, lorsque je voyage sur une longue route et que je ne vois personne devant ni derrière, je suis à l'aise, même pour uriner et déféquer.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "brahmana",
+    "samana",
+    "ayasma",
+    "@f_anussati#anussati-1-cl",
+    "deva",
+    "mara",
+    "brahma",
+    "abhinna",
+    "dhamma",
+    "brahmacariya",
+    "arahant",
+    "bhante",
+    "sangha",
+    "sukha",
+    "nekkhamma",
+    "paviveka",
+    "upasama",
+    "sambodhi",
+    "lss",
+    "sugata",
+    "sila",
+    "panna",
+    "samadhi",
+    "aranna",
+    "manasikara",
+    "vimutti",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "patisallana"
+  ],
   "translator": "Bhikkhu Sekha"
 }

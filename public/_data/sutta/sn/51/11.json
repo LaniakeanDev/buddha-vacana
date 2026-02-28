@@ -4,7 +4,10 @@
   "frTitle": "Avant l'éveil",
   "description": "Un discours intéressant, qui explique comment développer un esprit lumineux mène aux pouvoirs psychiques. La structure en est particulière, puisqu'il fait référence au Bouddha avant son éveil sans que cela ne soit exploité ensuite à des fins rhétoriques, comme ça l'est habituellement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘ko nu kho hetu, ko paccayo iddhipādabhāvanāyā’ti? tassa mayhaṃ, bhikkhave, etadahosi: ‘idha bhikkhu chanda-samādhi-ppadhāna-saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti: iti me chando na ca atilīno bhavissati, na ca atippaggahito bhavissati, na ca ajjhattaṃ saṃkhitto bhavissati, na ca bahiddhā vikkhitto bhavissati. pacchāpuresaññī ca viharati: yathā pure tathā pacchā, yathā pacchā tathā pure; yathā adho tathā uddhaṃ, yathā uddhaṃ tathā adho; yathā divā tathā rattiṃ, yathā rattiṃ tathā divā. iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti’”.",
       "fr": "Mendiants, avant mon éveil, lorsque je n'étais qu'un [bodhisatta|être d'Éveil], pas encore [sambuddha|éveillé], je me suis dit: [i]“Quelle est la [hetu|cause], quelle est la [paccaya|condition] pour le [bhavana|développement] des [iddhipada|chemins du pouvoir psychique]? Alors, [bhikkhu|mendiants], je me suis dit: [i]“À cet égard, un mendiant développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due au[chanda|désir] et aux [sankhara|constructions] d'[padhana|effort]: “ainsi, mon [chanda|désir] ne sera ni trop mou ni trop intense, ni contracté intérieurement, ni distrait extérieurement.” Et il reste à percevoir après et avant: “après comme avant, avant comme après, en-bas comme en-haut, en-haut comme en-bas, pendant la nuit comme pendant la journée, pendant la journée comme pendant la nuit.” Ainsi, avec un esprit clair et non-obscurci, il développe un esprit lumineux.”[/i]"
@@ -46,6 +49,51 @@
       "fr": "[i]“Lorsque les quatre [iddhipada|chemins du pouvoir psychique] sont développés et cultivés ainsi, avec la destruction des [asava|impuretés mentales], un mendiant entre et demeure [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]”[/i]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bodhisatta",
+    "sambuddha",
+    "hetu",
+    "paccaya",
+    "bhavana",
+    "iddhipada",
+    "bhikkhu",
+    "samadhi",
+    "chanda",
+    "sankhara",
+    "padhana",
+    "viriya",
+    "citta",
+    "iddhi",
+    "loka",
+    "brahma",
+    "deva",
+    "raga",
+    "dosa",
+    "moha",
+    "samahita",
+    "kappa",
+    "sukha",
+    "dukkha",
+    "kamma",
+    "duccarita",
+    "ariya",
+    "micchaditthi",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "sucarita",
+    "sammaditthi",
+    "sugati",
+    "sagga",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "panna",
+    "abhinna"
+  ],
   "translator": "Bhikkhu Sekha"
 }

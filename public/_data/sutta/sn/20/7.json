@@ -4,7 +4,10 @@
   "frTitle": "Les rapiècements",
   "description": "Une comparaison pour comprendre un des mécanismes principaux par lesquels les enseignements du Bouddha en viennent à disparaître.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati... ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati... ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“bhūtapubbaṃ, bhikkhave, dasārahānaṃ ānako nāma mudiṅgo ahosi. tassa dasārahā ānake ghaṭite aññaṃ āṇiṃ odahiṃsu. ahu kho so, bhikkhave, samayo yaṃ ānakassa mudiṅgassa porāṇaṃ pokkharaphalakaṃ antaradhāyi. āṇisaṅghāṭova avasissi.",
       "fr": "Dans le passé, [bhikkhu|mendiants], les Dasārahas avaient un tambour nommé l'Appeleur. Lorsque le tambour était fendu, les Dasārahas y inséraient un nouveau rapiècement. Le temps vint, [bhikkhu|mendiants], où la structure originelle du tambour appeleur avait complètement disparu. Il ne restait plus qu'une agglomération de rapiècements."
@@ -26,6 +29,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Lorsque seront récités ces discours qui sont la parole du [tathagata|Tathagata], profonds, profonds dans leurs bienfaits, transcendants, [toujours] liés à la vacuité, nous les écouterons attentivement, nous prêterons l'oreille, nous appliquerons notre [citta|esprit] à la connaissance, nous considérerons ces [dhamma|enseignements] comme devant être appris et connus par cœur.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "tathagata", "citta", "dhamma", "savaka"],
   "translator": "Rémy"
 }

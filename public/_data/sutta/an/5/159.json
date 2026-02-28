@@ -4,7 +4,10 @@
   "frTitle": "Le vénérable Oudayi",
   "description": "Cinq prérequis pour enseigner le Dhamma.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. tena kho pana samayena āyasmā udāyī mahatiyā gihiparisāya parivuto dhammaṃ desento nisinno hoti. addasā kho āyasmā ānando āyasmantaṃ udāyiṃ mahatiyā gihiparisāya parivutaṃ dhammaṃ desentaṃ nisinnaṃ. disvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Kossambi, dans le parc de Ghosita. Ce jour-là, le [ayasma|vénérable] Oudayi était assis entouré d'une grande assemblée de gens de foyers, et il leur enseignait le [dhamma|Dhamma]. Le [ayasma|vénérable] Ananda vit le [ayasma|vénérable] Oudayi assis entouré d'une grande assemblée de gens de foyers, en train de leur enseigner le [dhamma|Dhamma]. L'ayant vu, il alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -42,6 +45,6 @@
       "fr": "Il n'est pas facile, Ananda, d'enseigner le [dhamma|Dhamma] aux autres. Celui qui enseigne le [dhamma|Dhamma] aux autres ne devrait le faire qu'après avoir établi intérieurement ces cinq [dhamma|attitudes]. "
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayasma", "dhamma", "bhante"],
   "translator": "Rémy"
 }

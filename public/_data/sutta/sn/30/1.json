@@ -4,12 +4,15 @@
   "frTitle": "Version simple",
   "description": "Quatre types de soupannas (ou garoudas) selon leur type de naissance.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṃsedajā supaṇṇā, opapātikā supaṇṇā. Imā kho, bhikkhave, catasso supaṇṇayoniyo ti.",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre types de soupannas, selon la manière dont ils viennent au monde. Quels sont ces quatre? Les soupannas ovipares, les soupannas vivipares, les soupannas nés dans l'humidité, et les soupannas apparaissant spontanément. Voici, [bhikkhu|mendiants], quels sont les quatre types de soupannas, selon la manière dont ils viennent au monde."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu"],
   "translator": "Rémy"
 }

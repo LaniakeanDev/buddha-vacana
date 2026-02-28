@@ -40,8 +40,14 @@
       "pl": "386. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ ākappasampadā”ti.",
       "fr": "386. Véritablement, [bhikkhu|mendiants], ceci est une acquisition: être bien présenté."
     },
-    { "pl": "387. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ parivārasampadā”ti.", "fr": "387. Non traduit." },
-    { "pl": "388. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ mahāparivāratā”ti.", "fr": "388. Non traduit." },
+    {
+      "pl": "387. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ parivārasampadā”ti.",
+      "fr": "387. Non traduit."
+    },
+    {
+      "pl": "388. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ mahāparivāratā”ti.",
+      "fr": "388. Non traduit."
+    },
     {
       "pl": "389. “addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ kolaputti”ti.",
       "fr": "389. Véritablement, [bhikkhu|mendiants], ceci est une acquisition: être d'une bonne famille."
@@ -63,6 +69,6 @@
       "fr": "393. Véritablement, [bhikkhu|mendiants], ceci est une acquisition: être en bonne santé."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "aranna", "pindapata", "civara", "dhamma", "vinaya", "appicchata"],
   "translator": "Bhikkhu Sekha"
 }

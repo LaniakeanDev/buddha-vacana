@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi: ",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté],» répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -30,6 +33,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous nous déferons des trois [dhamma|états] pourvu desquels on est reconnu comme un [baala|sot], et nous entreprendrons et observerons les[dhamma|états] pourvu desquels on est reconnu comme un [pandita|sage].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner.»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "baala", "pandita", "sukha", "dhamma"],
   "translator": "Rémy"
 }

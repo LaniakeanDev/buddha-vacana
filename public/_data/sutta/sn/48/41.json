@@ -4,7 +4,10 @@
   "frTitle": "Par nature voué au vieillissement",
   "description": "Ananda remarque que le Bouddha a vieilli, et ce dernier lui rappelle que c'est la nature des choses.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. tena kho pana samayena bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito pacchātape nisinno hoti piṭṭhiṃ otāpayamāno.atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā bhagavato gattāni pāṇinā anomajjanto bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le manoir de la mère de Migara, dans le parc de l'est. Le soir venu, le [bhagava|Fortuné] était sorti de l'[patisallana|isolement] et était assis, réchauffant son dos avec les derniers rayons du soleil. Alors le [ayasma|vénérable] Ananda vint voir le [bhagava|Fortuné], lui rendit hommage, et lui dit, en massant ses membres de la main:"
@@ -26,6 +29,6 @@
       "fr": "[i]C'est une calamité que ce misérable vieillissement,[@v]Ce vieillissement qui rend laid.[@v]Ce charmant pantin a été tellement[@v]Écrasé par le vieillissement.[@v]Même celui qui vit un siècle[@v]Est destiné à la mort,[@v]Qui n'épargne personne[@v]Et écrase tout.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "patisallana", "ayasma", "bhante", "kaya", "indriya"],
   "translator": "Bhikkhu Sekha"
 }

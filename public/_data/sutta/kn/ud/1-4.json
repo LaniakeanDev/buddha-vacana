@@ -4,7 +4,10 @@
   "frTitle": "Un de ceux qui récitent le mantra Hum",
   "description": "Peu après son éveil, le Bouddha est abordé par un brahmane qui récite le mantra Hum (comme dans Om Mani Padme Hum) et qui lui demande ce qui fait de quelqu'un un brahmane.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī. atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhāsi.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, le [bhagava|Fortuné] émergea de cette [samadhi|concentration]."
@@ -26,6 +29,6 @@
       "fr": "Un brahmane qui évite les [dhamma|états] [papa|malsains]Qui ne récite pas le mantra Hum, qui est sans tache, sous contrôle,Qui excelle dans la connaissance des védas, qui a accompli la [brahmacariya|vie brahmique],Peut [dhamma|légitimement] professer la doctrine de Brahma,Lui qui n'a aucun orgueil par rapport à quoi que ce soit dans le monde."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "sambodhi", "vimutti", "samadhi", "bho", "dhamma", "udana", "papa", "brahmacariya"],
   "translator": "Sekha"
 }

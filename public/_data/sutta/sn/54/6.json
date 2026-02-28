@@ -4,8 +4,14 @@
   "frTitle": "Le vénérable Arittha",
   "description": "Arittha explique sa manière personnelle de pratiquer la présence de l'esprit sur la respiration, et le Bouddha lui explique comment la pratique est complétée en détail.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
-    { "pl": "tatra kho bhagavā ... etadavoca:", "fr": "Là (…) le [bhagava|Fortuné] dit:" },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "tatra kho bhagavā ... etadavoca:",
+      "fr": "Là (…) le [bhagava|Fortuné] dit:"
+    },
     {
       "pl": "“bhāvetha no tumhe bhikkhave, ānāpānassatin”ti?",
       "fr": "«[bhikkhu|Mendiants], est-ce que vous cultivez la [anapanassati|présence de l'esprit sur la respiration]?»"
@@ -59,6 +65,24 @@
       "fr": "Voici, Arittha, comment la [anapanassati|présence de l'esprit sur la respiration] est complétée en détail.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "anapanassati",
+    "ayasma",
+    "bhante",
+    "kamacchanda",
+    "kama",
+    "sanna",
+    "patigha",
+    "dhamma",
+    "sati",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

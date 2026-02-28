@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ bhagavā bhoganagare viharati ānandacetiye. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Bhoganagara, dans le sanctuaire d'Ananda. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "— [bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté], lui répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] leur dit alors:"
@@ -58,6 +61,16 @@
       "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre grandes références."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "bhante",
+    "dhamma",
+    "vinaya",
+    "arahant",
+    "sammasambuddha",
+    "@m_bahussuta"
+  ],
   "translator": "Rémy"
 }

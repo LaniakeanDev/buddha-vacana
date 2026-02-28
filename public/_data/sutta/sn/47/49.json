@@ -17,6 +17,17 @@
       "fr": "[bhikkhu|Mendiants], pour la compréhension complète de ces trois [types de] [vedana|ressentis], les quatre [satipatthana|mises en place de l'attention] sont à développer."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Sekha"
 }

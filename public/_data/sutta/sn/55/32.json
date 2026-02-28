@@ -4,7 +4,10 @@
   "frTitle": "Quatre flux de mérite",
   "description": "Voici quatre facteurs de l'entrée dans le courant (sotāpattiyaṅga) avec la générosité en quatrième.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Cattārome, bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā. Katame cattāro? Idha, bhikkhave, ariyasāvako buddhe aveccappasāda samannāgato hoti: ‘Itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. Ayaṃ paṭhamo puññābhisando kusalābhisando sukhassāhāro.",
       "fr": "Il y a, [bhikkhu|mendiants], ces quatre flux de [punna|mérite], ces quatre flux [kusala|avantageux], ces quatre [ahara|nourritures] du [sukha|bien-être]. Quels sont ces quatre? À cet égard, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] possède une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i][@f_anussati#anussati-1-cl|“Le Fortuné est un arahant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.”][/i] Voici quel est le premier flux de [punna|mérite], le premier flux [kusala|avantageux], la première [ahara|nourriture] du [sukha|bien-être]."
@@ -26,6 +29,19 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre flux de [punna|mérite], ces quatre flux [kusala|avantageux], ces quatre [ahara|nourritures] du [sukha|bien-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "punna",
+    "kusala",
+    "ahara",
+    "sukha",
+    "ariyasavaka",
+    "buddheaveccappasada",
+    "i][@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl"
+  ],
   "translator": "Rémy"
 }

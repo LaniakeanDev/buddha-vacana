@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "identifier": "SN 11.10",
+    "plTitle": "Samuddaka Sutta - extrait",
+    "frTitle": "Telle graine, tel fruit.",
+    "description": "Telle graine, tel fruit.",
+    "keywords": [],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "10",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 11.11",
+    "plTitle": "Vatapada Sutta",
+    "frTitle": "Les règles de conduite de Sakka",
+    "description": "Lorsqu'il était humain, avant de devenir roi des dévas, Sakka se fixa ces sept règles de conduite.",
+    "keywords": [
+      "bhikkhu",
+      "deva",
+      "pisunavaca",
+      "i]Lorsqu'une personne porte assistance à sa mère et son père,Qu'elle traite les anciens de la famille avec respect,Qu'elle parle gentiment de manière aimable,Ayant abandonné les paroles médisantes,S'attachant à dissiper l'avarice,Qu'elle s'en tient à la vérité et vainc la colère,Alors les [deva",
+      "sappurisa"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "11",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 11.21",
+    "plTitle": "Chetvā Sutta",
+    "frTitle": "Que faut-il avoir pourfendu?",
+    "description": "Sakka demande au Bouddha ce qui doit être tué.",
+    "keywords": [
+      "deva",
+      "bhagava",
+      "i]Qu'est-ce qu'ayant pourfendu on dort avec [sukha",
+      "Le [bhagava",
+      "brahmana",
+      "ariya"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "21",
+    "readingTime": 0
+  }
+]

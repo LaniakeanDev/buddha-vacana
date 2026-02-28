@@ -4,7 +4,10 @@
   "frTitle": "En isolement",
   "description": "Un mendiant en isolement est assailli par des pensées liées à la vie de foyer. Un déva vient l'aider.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite. atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi —",
       "fr": "Un jour, un certain [bhikkhu|mendiant] séjournait dans le Kosala, dans un certain maquis forestier. Ce jour-là, ce [bhikkhu|mendiant], faisant sa session de la journée, pensait des [vitakka|pensées] [papaka|mauvaises] et [akusala|désavantageuses] liées à la vie de foyer. Alors le [deva|déva] qui vivait dans ce maquis forestier, par compassion pour ce [bhikkhu|mendiant], voulant son bien, souhaitant susciter chez lui le [samvega|sens de la motivation], s'approcha et s'adressa à lui en vers:"
@@ -26,6 +29,21 @@
       "fr": "Alors ce [bhikkhu|mendiant], rappelé à l'ordre par le [deva|déva], acquit le [samvega|sens de la motivation]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vitakka",
+    "papaka",
+    "akusala",
+    "deva",
+    "samvega",
+    "viveka",
+    "mana",
+    "chanda",
+    "sukha",
+    "raga",
+    "sati",
+    "kama",
+    "padhana"
+  ],
   "translator": "Sekha"
 }

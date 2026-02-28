@@ -4,7 +4,10 @@
   "frTitle": "Sept domaines",
   "description": "Le Bouddha applique ici le schéma des quatre nobles vérités, augmenté du triplet (agrément, désavantage, émancipation) aux accumulations d'attachement (khandha), puis prescrit trois manières d'investiguer les phénomènes.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“sattaṭṭhānakusalo, bhikkhave, bhikkhu tividhūpaparikkhī imasmiṃ dhammavinaye kevalī vusitavā uttamapurisoti vuccati. kathañca, bhikkhave, bhikkhu sattaṭṭhānakusalo hoti? idha, bhikkhave, bhikkhu rūpaṃ pajānāti, rūpasamudayaṃ pajānāti, rūpanirodhaṃ pajānāti, rūpanirodhagāminiṃ paṭipadaṃ pajānāti; rūpassa assādaṃ pajānāti, rūpassa ādīnavaṃ pajānāti, rūpassa nissaraṇaṃ pajānāti; vedanaṃ pajānāti . saññaṃ. saṅkhāre. viññāṇaṃ pajānāti, viññāṇasamudayaṃ pajānāti, viññāṇanirodhaṃ pajānāti, viññāṇanirodhagāminiṃ paṭipadaṃ pajānāti; viññāṇassa assādaṃ pajānāti, viññāṇassa ādīnavaṃ pajānāti, viññāṇassa nissaraṇaṃ pajānāti.",
       "fr": "[bhikkhu|Mendiants], dans cet [dhamma|Enseignement] & [vinaya|Discipline], on dit d'un mendiant qui est compétent dans sept domaines et qui investigue de trois manières qu'il est complet, accompli, et que c'est un homme de la plus haute qualité. Et comment est-il compétent dans sept domaines? À cet égard, un mendiant discerne la [rupa|Forme], il discerne l'apparition de la [rupa|Forme], il discerne la [nirodha|cessation] de la [rupa|Forme], il discerne la voie menant à la [nirodha|cessation] de la [rupa|Forme], il discerne l'[assada|agrément] de la [rupa|Forme], il discerne le [adinava|désavantage] de la [rupa|Forme], et il discerne l'[nissarana|émancipation] à l'égard de la [rupa|Forme]. Il discerne le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience], il discerne l'apparition de la [vinnana|Conscience], il discerne la [nirodha|cessation] de la [vinnana|Conscience], il discerne la voie menant à la [nirodha|cessation] de la [vinnana|Conscience], il discerne l'[assada|agrément] de la [vinnana|Conscience], il discerne le [adinava|désavantage] de la [vinnana|Conscience], et il discerne l'[nissarana|émancipation] à l'égard de la [vinnana|Conscience]."
@@ -94,6 +97,46 @@
       "fr": "Et comment investigue-t-il de trois manières? À cet égard, un mendiant investigue en rapport aux [dhatu|éléments], il investigue en rapport aux sphères, et il investigue en rapport à l'[paticcasamuppada|apparition conditionnée]. Voici comment un mendiant investigue de trois manières. [bhikkhu|Mendiants], dans cet [dhamma|Enseignement] & [vinaya|Discipline], on dit d'un mendiant qui est compétent dans sept domaines et qui investigue de trois manières qu'il est complet, accompli, et que c'est un homme de la plus haute qualité."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "vinaya",
+    "rupa",
+    "nirodha",
+    "assada",
+    "adinava",
+    "nissarana",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "samudaya",
+    "ahara",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "sukha",
+    "somanassa",
+    "anicca",
+    "dukkha",
+    "chanda",
+    "raga",
+    "samana",
+    "brahmana",
+    "nibbida",
+    "viraga",
+    "upadana",
+    "phassa",
+    "cetana",
+    "namarupa",
+    "dhatu",
+    "paticcasamuppada"
+  ],
   "translator": "Sekha"
 }

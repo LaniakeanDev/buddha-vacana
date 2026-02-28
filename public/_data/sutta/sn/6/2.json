@@ -4,7 +4,10 @@
   "frTitle": "Le respect",
   "description": "Juste après son éveil, le Bouddha passe le monde en revue, à la recherche d'un être qui pourrait être son instructeur.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “dukkhaṃ kho agāravo viharati appatisso. kaṃ nu khvāhaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyan”ti?",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. Ce jour-là, tandis qu'il était en [patisallana|isolement] dans un endroit retiré, la réflexion suivante apparut dans son [citta|esprit]: [i]“Celui qui est sans respect, sans déférence, vit dans le [dukkha|mal-être]. En dépendance vis-à-vis de quel [samana|renonçant] ou [brahmana|brahmane] devrais-je vivre en l'honorant et le révérant?”[/i]"
@@ -50,6 +53,31 @@
       "fr": "[i]Les [buddha|Bouddhas] du passé,Les [buddha|Bouddhas] du futur,Et le [buddha|Bouddha] du présent,Détruisant le [soka|chagrin] de beaucoupTous ont vécus, vivent et vivrontEn révérant le [saddhamma|Dhamma authentique]Car pour les [buddha|Bouddhas]C'est une loi de la nature.C'est pourquoi celui qui désire son propre [bonheur]Qui souhaite [atteindre] la grandeur,Devrait révérer le [saddhamma|Dhamma authentique],Se remémorant l'enseignement du [buddha|Bouddha].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "sambodhi",
+    "patisallana",
+    "citta",
+    "dukkha",
+    "samana",
+    "brahmana",
+    "khandha",
+    "sila",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana",
+    "dhamma",
+    "bhante",
+    "arahant",
+    "sammasambuddha",
+    "buddha",
+    "soka",
+    "saddhamma"
+  ],
   "translator": "Rémy"
 }

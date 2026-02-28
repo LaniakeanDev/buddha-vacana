@@ -4,7 +4,10 @@
   "frTitle": "Indomptés et non gardés",
   "description": "Les six sphères de contact doivent être domptées, gardées, protégées et restreintes.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“chayime, bhikkhave, phassāyatanā adantā aguttā arakkhitā asaṃvutā dukkhādhivāhā honti. katame cha?",
       "fr": "Mendiants, ces six [ayatana|sphères] de [phassa|contact], lorsqu'elles sont indomptées, non gardées, non protégées, non restreintes, apportent le [dukkha|mal-être]. Quelles sont ces six?"
@@ -30,6 +33,6 @@
       "fr": "Voici, mendiants, quelles sont ces six [ayatana|sphères] de [phassa|contact] qui, lorsqu'elles sont bien domptées, bien gardées, bien protégées, bien restreintes, apportent le [sukha|bien-être]."
     }
   ],
-  "keywords": [],
+  "keywords": ["ayatana", "phassa", "dukkha", "sukha"],
   "translator": "Sekha."
 }

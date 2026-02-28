@@ -4,7 +4,10 @@
   "frTitle": "Archerie",
   "description": "L'allégorie des jeunes guerriers pour expliquer au roi où ce qui est donné porte d'excellents fruits.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
       "fr": "Alors qu'il était assis d'un côté, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
@@ -102,6 +105,27 @@
       "fr": "Ayant ainsi abandonné cinq facteurs et étant pourvu de cinq facteurs, ce qui lui est donné porte d'excellents fruits."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "dana",
+    "citta",
+    "sila",
+    "khattiya",
+    "brahmana",
+    "pabbaja",
+    "anagariya",
+    "kamacchanda",
+    "byapada",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "vicikiccha",
+    "khandha",
+    "asekha",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana"
+  ],
   "translator": "Rémy"
 }

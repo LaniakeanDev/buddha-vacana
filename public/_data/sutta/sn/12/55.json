@@ -4,7 +4,10 @@
   "frTitle": "Le grand arbre",
   "description": "Un autre soutta sur le rôle libérateur joué par la considération des inconvénients des phénomènes plutôt que celle de leurs attraits, assorti de l'allégorie du grand arbre.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati … pe … ", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati … pe … ",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“upādāniyesu, bhikkhave, dhammesu assādānupassino viharato taṇhā pavaḍḍhati. taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti”.",
       "fr": "Chez celui, [bhikkhu|mendiants], qui reste à observer l'[assada|agrément] dans les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], la [tanha|Soif] se développe. À cause de la [tanha|Soif], il y a l'[upadana|attachement]; à cause de l'[upadana|attachement], l'[bhava|existence];à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement] et la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
@@ -22,6 +25,22 @@
       "fr": "Imaginez, [bhikkhu|mendiants], un grand arbre. Un homme viendrait, apportant un panier et une houe. Il couperait cet arbre à la racine, puis creuseraitet retirerait les racines, jusqu'aux plus petites radicelles. Il couperait cet arbre en petits bouts, le recouperait, puis il le réduirait en mille morceaux qu'il laisserait sécher au vent et au soleil, pour ensuite les jeter au feu et les réduire en cendres, avant de les disperser dans un vent puissant ou de les verser dans un fleuve au courant puissant. Ainsi, [bhikkhu|mendiants], cet arbre serait coupé à la racine, rendu tel une souche de palmier, anéanti, rendu incapable de réapparaître dans le futur. De la même manière, chez celui qui reste à observer les [adinava|inconvénients] des [dhamma|phénomènes] qui engendrent l'[upadana|attachement], la [tanha|Soif] cesse. Avec la [nirodha|cessation] de la [tanha|Soif], il y a [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "assada",
+    "dhamma",
+    "upadana",
+    "tanha",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "adinava",
+    "nirodha"
+  ],
   "translator": "Sekha."
 }

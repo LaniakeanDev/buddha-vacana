@@ -8,8 +8,14 @@
       "pl": "tena kho pana samayena citto gahapati ābādhiko hoti dukkhito bāḷhagilāno.",
       "fr": "Ce jour-là, Tchitta le chef de foyer était en proie à la maladie, souffrant, gravement malade."
     },
-    { "pl": "…", "fr": "(…)" },
-    { "pl": "“tena hi, ayyaputta, amhepi ovadāhī”ti.", "fr": "«Alors exhortez-nous aussi, Monsieur." },
+    {
+      "pl": "…",
+      "fr": "(…)"
+    },
+    {
+      "pl": "“tena hi, ayyaputta, amhepi ovadāhī”ti.",
+      "fr": "«Alors exhortez-nous aussi, Monsieur."
+    },
     {
       "pl": "“tasmā hi vo evaṃ sikkhitabbaṃ — buddhe aveccappasādena samannāgatā bhavissāma — ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti.",
       "fr": "—Dans ce cas, vous devriez vous entraîner de la manière suivante. Possédez une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i]"
@@ -31,6 +37,19 @@
       "fr": "Après avoir exhorté ses amis et compagnons, ses proches et parents au sujet du [buddha|Bouddha], du [dhamma|Dhamma], de la [sangha|Communauté] et de la [caga|générosité], Tchitta le chef de foyer trépassa."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i]“[@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i]“[@f_anussati#anussati-3-cl",
+    "sila",
+    "kalyana",
+    "dhamma",
+    "buddha",
+    "sangha",
+    "caga"
+  ],
   "translator": "Sekha"
 }

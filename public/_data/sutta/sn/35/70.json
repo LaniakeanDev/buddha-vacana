@@ -24,7 +24,10 @@
       "pl": "“puna caparaṃ, upavāṇa, bhikkhu jivhāya rasaṃ sāyitvā rasappaṭisaṃvedī ca hoti rasarāgappaṭisaṃvedī ca. santañca ajjhattaṃ rasesu rāgaṃ ‘atthi me ajjhattaṃ rasesu rāgo’ti pajānāti. yaṃ taṃ, upavāṇa, bhikkhu jivhāya rasaṃ sāyitvā rasappaṭisaṃvedī ca hoti rasarāgappaṭisaṃvedī ca. santañca ajjhattaṃ rasesu rāgaṃ ‘atthi me ajjhattaṃ rasesu rāgo’ti pajānāti. evampi kho, upavāṇa, sandiṭṭhiko dhammo hoti akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī”ti",
       "fr": "Ou en goûtant une saveur avec la langue, il fait l'expérience de la saveur ainsi que de l'[raga|avidité] pour la saveur, et puisqu'il a intérieurement de l'[raga|avidité] pour les saveurs, il discerne: [i]“il y a en moi de l'[raga|avidité] pour les saveurs”[/i]. Voici, Oupavana, comment l'[dhamma|enseignement] est [@f_anussati#anussati-2-cl|visible directement, immédiat, invitant à venir voir, efficace, et à être expérimenté individuellement par les sages]."
     },
-    { "pl": "... pe ....", "fr": "Ou en ressentant une sensation corporelle avec le corps (…)" },
+    {
+      "pl": "... pe ....",
+      "fr": "Ou en ressentant une sensation corporelle avec le corps (…)"
+    },
     {
       "pl": "“puna caparaṃ, upavāṇa, bhikkhu manasā dhammaṃ viññāya dhammappaṭisaṃvedī ca hoti dhammarāgappaṭisaṃvedī ca. santañca ajjhattaṃ dhammesu rāgaṃ ‘atthi me ajjhattaṃ dhammesu rāgo’ti pajānāti. yaṃ taṃ, upavāṇa, bhikkhu manasā dhammaṃ viññāya dhammappaṭisaṃvedī ca hoti dhammarāgappaṭisaṃvedī ca. santañca ajjhattaṃ dhammesu rāgaṃ ‘atthi me ajjhattaṃ dhammesu rāgo’ti pajānāti. evampi kho, upavāṇa, sandiṭṭhiko dhammo hoti ... pe ... paccattaṃ veditabbo viññūhī”ti",
       "fr": "Ou en prenant conscience d'un phénomène mental avec l'esprit, il fait l'expérience du phénomène mental ainsi que de l'[raga|avidité] pour le phénomène mental, et puisqu'il a intérieurement de l'[raga|avidité] pour les phénomènes mentaux, il discerne: [i]“il y a en moi de l'[raga|avidité] pour les phénomènes mentaux”[/i]. Voici, Oupavana, comment l'[dhamma|enseignement] est [@f_anussati#anussati-2-cl|visible directement, immédiat, invitant à venir voir, efficace, et à être expérimenté individuellement par les sages]."
@@ -46,6 +49,6 @@
       "fr": "Ou enfin, Oupavana, un mendiant, en prenant conscience d'un phénomène mental avec l'esprit, fait l'expérience du phénomène mental, mais pas de l'[raga|avidité] pour le phénomène mental, et puisqu'il n'a pas intérieurement d'[raga|avidité] pour les phénomènes mentaux, il discerne: [i]“il n'y a pas en moi d'[raga|avidité] pour les phénomènes mentaux”[/i]. Voici, Oupavana, comment l'[dhamma|enseignement] est [@f_anussati#anussati-2-cl|visible directement, immédiat, invitant à venir voir, efficace, et à être expérimenté individuellement par les sages].»"
     }
   ],
-  "keywords": [],
+  "keywords": ["ayasma", "bhagava", "bhante", "dhamma", "sanditthika", "@f_anussati#anussati-2-cl", "bhikkhu", "raga"],
   "translator": "Rémy"
 }

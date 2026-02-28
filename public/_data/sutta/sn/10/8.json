@@ -52,7 +52,10 @@
       "pl": "tena kho pana samayena bhagavā rattiyā paccūsasamayaṃ paccuṭṭhāya abbhokāse caṅkamati. addasā kho bhagavā anāthapiṇḍikaṃ gahapatiṃ dūratova āgacchantaṃ. disvāna caṅkamā orohitvā paññatte āsane nisīdi. nisajja kho bhagavā anāthapiṇḍikaṃ gahapatiṃ etadavoca:",
       "fr": "À ce moment-là, le [bhagava|Fortuné] s'était levé avant l'aube et marchait en plein air, dans la nuit. Il vit venir de loin le chef de foyer Anathapindika. Il descendit de son allée et s'assit sur un siège préparé. Se tenant assis, il ditau chef de foyer Anathapindika:"
     },
-    { "pl": "— “ehi sudattā”ti.", "fr": "— Viens, Soudatta." },
+    {
+      "pl": "— “ehi sudattā”ti.",
+      "fr": "— Viens, Soudatta."
+    },
     {
       "pl": "atha kho anāthapiṇḍiko gahapati, nāmena maṃ bhagavā ālapatīti, haṭṭho udaggo tattheva bhagavato pādesu sirasā nipatitvā bhagavantaṃ etadavoca:",
       "fr": "Alors le chef de foyer Anathapindika se dit: [i]“Le [bhagava|Fortuné] s'adresse à moi par mon nom!”[/i] Joyeux et exalté, il se prosterna sur-le-champ avec sa tête aux pieds du [bhagava|Fortuné], et lui dit:"
@@ -66,6 +69,6 @@
       "fr": "[i]Un [brahmana|brahmane] complètement émancipéDort toujours dans le [sukha|bien-être],Lui qui ne se souille pas dans les [kama|plaisirs sensuels],Apaisé, sans acquisitions.Ayant coupé tous les attachements,Et ayant retiré la peur du cœur,Paisible, il dort dans le [sukha|bien-être],Puisqu'il a obtenu un [citta|esprit] en paix.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "buddha", "loka", "sati", "yakkha", "bhante", "sukha", "brahmana", "kama", "citta"],
   "translator": "Rémy"
 }

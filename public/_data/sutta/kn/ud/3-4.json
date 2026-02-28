@@ -4,7 +4,10 @@
   "frTitle": "Avec Saripoutta",
   "description": "La vue de Saripoutta assis en concentration, imperturbable, inspire au Bouddha cette exclamation.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. addasā kho bhagavā āyasmantaṃ sāriputtaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [ayasma|vénérable] Saripoutta était assis non loin du [bhagava|Fortuné], jambes croisées, maintenant [son] [kaya|corps] droit, et mettant en place [sa] [sati|présence d'esprit] entre le nez et la bouche. Le [bhagava|Fortuné] vit le [ayasma|vénérable] Saripoutta assis non loin de là, jambes croisées, maintenant [son] [kaya|corps] droit, et mettant en place [sa] [sati|présence d'esprit] entre le nez et la bouche."
@@ -18,6 +21,6 @@
       "fr": "Comme une roche montagneuse,Imperturbable, fermement établi,Voici un [bhikkhu|mendiant] qui, par destruction de la [moha|délusion],Tel une montagne, ne remue pas."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayasma", "kaya", "sati", "udana", "bhikkhu", "moha"],
   "translator": "Sekha"
 }

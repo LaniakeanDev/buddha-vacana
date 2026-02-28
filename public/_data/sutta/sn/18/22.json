@@ -4,7 +4,10 @@
   "frTitle": "Eliminé",
   "description": "Rahoula demande au Bouddha comment faire pour éviter la formation de l'ego, être en paix et bien délivré.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rāhulo bhagavantaṃ etadavoca —",
       "fr": "Ce jour-là, le [aysama|vénérable] Rahoula alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -22,6 +25,23 @@
       "fr": "Voici, Rahoula, comment il faut connaître, comment il faut voir pour éliminer la [mana|prétention] et la fabrication du [i]“Moi”[/i] et du [i]“Mien”[/i] en rapport à ce [kaya|corps] doué de [vinnana|conscience], ainsi qu'à tous les [nimitta|objets] extérieurs, et qu'ayant transcendé l'orgueil, on soit en paix et bien [vimutti|délivré]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "aysama",
+    "bhagava",
+    "bhante",
+    "mana",
+    "kaya",
+    "vinnana",
+    "nimitta",
+    "vimutti",
+    "rupa",
+    "yathabhutam",
+    "panna",
+    "atta",
+    "upadana",
+    "vedana",
+    "sanna",
+    "sankhara"
+  ],
   "translator": "Sekha."
 }

@@ -4,7 +4,10 @@
   "frTitle": "Le manche de l'herminette",
   "description": "Voici l'allégorie de la poule et ses œufs, expliquant pourquoi les prières sont inutiles: seule la pratique compte.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“Jānato ahaṃ, bhikkhave, passato āsavānaṃ khayaṃ vadāmi, no ajānato no apassato. kiñca, bhikkhave, jānato kiṃ passato āsavānaṃ khayo hoti? ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo; iti saññā iti saññassa samudayo iti saññassa atthaṅgamo; iti saṅkhārāiti saṅkhārassa iti saṅkhārassa atthaṅgamo; iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. evaṃ kho, bhikkhave, jānato evaṃ passato āsavānaṃ khayo hoti”.",
       "fr": "Je déclare, [bhikkhu|mendiants], qu'il y a élimination complète des [asava|impuretés de l'esprit] pour celui qui sait et qui voit, pas pour celui qui ne sait pas et qui ne voit pas. Et en sachant quoi et en voyant quoi est-ce que je déclare qu'il y a élimination complète des [asava|impuretés de l'esprit]? [i]“Voici la [rupa|Forme], voici l'[samudaya|apparition] de la [rupa|Forme], voici la disparition de la [rupa|Forme]. Voici le [vedana|Ressenti], voici l'[samudaya|apparition] du [vedana|Ressenti], voici la disparition du [vedana|Ressenti]. Voici la [sanna|Perception], voici l'[samudaya|apparition] de la [sanna|Perception], voici la disparition de la [sanna|Perception]. Voici les [sankhara|Constructions], voici l'[samudaya|apparition] des [sankhara|Constructions], voici la disparition des [sankhara|Constructions]. Voici la [vinnana|Conscience], voici l'[samudaya|apparition] de la [vinnana|Conscience], voici la disparition de la [vinnana|Conscience].”[/i] C'est en sachant ainsi, c'est en voyant ainsi qu'il y a élimination complète des [asava|impuretés de l'esprit]."
@@ -42,6 +45,26 @@
       "fr": "Tout comme, [bhikkhu|mendiants], un navire de haute mer gréé de mâts et cordages ayant passé six mois sur l'eau, que l'on tire hors de l'eau: ses cordages, attaqués par le vent et le soleil, trempés par les averses de mousson, se défont et pourrissent facilement. De la même manière, lorsqu'un mendiant demeure dédié au [bhavana|développement], ses [samyojana|entraves spirituelles] se défont et pourrissent facilement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "asava",
+    "rupa",
+    "samudaya",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "bhavana",
+    "citta",
+    "upadana",
+    "satipatthana",
+    "sammappadhana",
+    "iddhipada",
+    "indriya",
+    "bala",
+    "bojjhanga",
+    "aam",
+    "samyojana"
+  ],
   "translator": "Rémy"
 }

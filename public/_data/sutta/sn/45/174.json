@@ -4,7 +4,10 @@
   "frTitle": "Les nœuds",
   "description": "Les quatre nœuds, et comment la noble voie à huit composantes permet de les connaître directement, de les comprendre complètement, de les épuiser complètement, et de les abandonner.",
   "body": [
-    { "pl": "1. Abhiññā", "fr": "1. La connaissance directe" },
+    {
+      "pl": "1. Abhiññā",
+      "fr": "1. La connaissance directe"
+    },
     {
       "pl": "1.1“cattārome, bhikkhave, ganthā. katame cattāro? abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. ime kho, bhikkhave, cattāro ganthā. imesaṃ kho, bhikkhave, catunnaṃ ganthānaṃ abhiññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "1.1[bhikkhu|Mendiants], il y a ces quatre nœuds. Quels sont ces quatre? Le nœud [kaya|corporel] de la [abhijja|convoitise], le nœud [kaya|corporel] de la [byapada|malveillance], le nœud [kaya|corporel] de [silabbataparamasa|la croyance en la suprématie des rites et préceptes], et le nœud [kaya|corporel] de l'adhérence [aux affirmations:] [i]“Ceci est la [seule] vérité”[/i]. Voici, [bhikkhu|mendiants], quels sont ces quatre nœuds. [bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces quatre nœuds, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -53,7 +56,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ ganthānaṃ abhiññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces quatre nœuds, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "2. Pariññā", "fr": "2. La compréhension complète" },
+    {
+      "pl": "2. Pariññā",
+      "fr": "2. La compréhension complète"
+    },
     {
       "pl": "2.1“cattārome, bhikkhave, ganthā. katame cattāro? abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. ime kho, bhikkhave, cattāro ganthā. imesaṃ kho, bhikkhave, catunnaṃ ganthānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "2.1[bhikkhu|Mendiants], il y a ces quatre nœuds. Quels sont ces quatre? Le nœud [kaya|corporel] de la [abhijja|convoitise], le nœud [kaya|corporel] de la [byapada|malveillance], le nœud [kaya|corporel] de [silabbataparamasa|la croyance en la suprématie des rites et préceptes], et le nœud [kaya|corporel] de l'adhérence [aux affirmations:] [i]“Ceci est la [seule] vérité”[/i]. Voici, [bhikkhu|mendiants], quels sont ces quatre nœuds. [bhikkhu|Mendiants], pour la compréhension complète de ces quatre nœuds, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -102,7 +108,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ ganthānaṃ pariññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la compréhension complète de ces quatre nœuds, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "3. Parikkhaya", "fr": "3. L'épuisement complet" },
+    {
+      "pl": "3. Parikkhaya",
+      "fr": "3. L'épuisement complet"
+    },
     {
       "pl": "3.1“cattārome, bhikkhave, ganthā. katame cattāro? abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. ime kho, bhikkhave, cattāro ganthā. imesaṃ kho, bhikkhave, catunnaṃ ganthānaṃ parikkhayāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "3.1[bhikkhu|Mendiants], il y a ces quatre nœuds. Quels sont ces quatre? Le nœud [kaya|corporel] de la [abhijja|convoitise], le nœud [kaya|corporel] de la [byapada|malveillance], le nœud [kaya|corporel] de [silabbataparamasa|la croyance en la suprématie des rites et préceptes], et le nœud [kaya|corporel] de l'adhérence [aux affirmations:] [i]“Ceci est la [seule] vérité”[/i]. Voici, [bhikkhu|mendiants], quels sont ces quatre nœuds. [bhikkhu|Mendiants], pour l'épuisement complet de ces quatre nœuds, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -151,7 +160,10 @@
       "pl": "imāsaṃ kho, bhikkhave, catunnaṃ ganthānaṃ parikkhayāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour l'épuisement complet de ces quatre nœuds, cette [aam|noble voie à huit composantes] est à cultiver."
     },
-    { "pl": "4. Pahāna", "fr": "4. L'abandon" },
+    {
+      "pl": "4. Pahāna",
+      "fr": "4. L'abandon"
+    },
     {
       "pl": "4.1“cattārome, bhikkhave, ganthā. katame cattāro? abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. ime kho, bhikkhave, cattāro ganthā. imesaṃ kho, bhikkhave, catunnaṃ ganthānaṃ pahānāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "4.1[bhikkhu|Mendiants], il y a ces quatre nœuds. Quels sont ces quatre? Le nœud [kaya|corporel] de la [abhijja|convoitise], le nœud [kaya|corporel] de la [byapada|malveillance], le nœud [kaya|corporel] de [silabbataparamasa|la croyance en la suprématie des rites et préceptes], et le nœud [kaya|corporel] de l'adhérence [aux affirmations:] [i]“Ceci est la [seule] vérité”[/i]. Voici, [bhikkhu|mendiants], quels sont ces quatre nœuds. [bhikkhu|Mendiants], pour l'abandon de ces quatre nœuds, la [aam|noble voie à huit composantes] est à cultiver. Et quelle [aam|noble voie à huit composantes]?"
@@ -201,6 +213,31 @@
       "fr": "[bhikkhu|Mendiants], pour l'abandon de ces quatre nœuds, cette [aam|noble voie à huit composantes] est à cultiver."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "kaya",
+    "abhijja",
+    "byapada",
+    "silabbataparamasa",
+    "abhinna",
+    "aam",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "vinaya",
+    "raga",
+    "dosa",
+    "moha",
+    "amata",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

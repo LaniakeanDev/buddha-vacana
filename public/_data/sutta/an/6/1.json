@@ -4,7 +4,10 @@
   "frTitle": "Digne de dons",
   "description": "Une version intéressante de la restreinte des sens, laquelle définit un mendiant digne d'offrandes.",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -50,6 +53,6 @@
       "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "dhamma", "@f_anussati#anussati-3-cl", "upekkha", "sato", "sampajana"],
   "translator": "Rémy"
 }

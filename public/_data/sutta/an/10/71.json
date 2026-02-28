@@ -8,7 +8,10 @@
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: ",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "Bhikkhavo ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "Bhikkhavo ti.",
+      "fr": "— [bhikkhu|Mendiants]!"
+    },
     {
       "pl": "Bhadante ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -62,6 +65,32 @@
       "fr": "Voici donc ce en rapport à quoi il a été dit: [i]“[bhikkhu|Mendiants], demeurez accomplis en [sila|vertu], observez le [patimokkha|Patimokkha], demeurez restreints par la restreinte du [patimokkha|Patimokkha], accomplis en [bonne] conduite et dans votre domaine [d'activité], voyant le danger dans la moindre des fautes, entreprenez les [sikkhapada|règles de l'entraînement] et entraînez-y vous.”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "sila",
+    "patimokkha",
+    "sikkhapada",
+    "brahmacariya",
+    "samatha",
+    "citta",
+    "jhana",
+    "vipassana",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "vedana",
+    "sukha",
+    "ditthadhamma",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "panna",
+    "abhinna",
+    "i]“[bhikkhu"
+  ],
   "translator": "Rémy"
 }

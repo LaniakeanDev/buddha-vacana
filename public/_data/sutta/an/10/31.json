@@ -16,9 +16,18 @@
       "pl": "“dasa kho, upāli, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ. katame dasa?",
       "fr": "— Il y a, Oupali, dix raisons pour lesquelles le [tathagata|Tathagata] a stipulé les [sikkhapada|règles de l'entraînement] pour ses [savaka|disciples] et mis en place le [patimokkha|Pātimokkha]. Quelles sont ces dix?"
     },
-    { "pl": "saṅghasuṭṭhutāya,", "fr": "Pour l'excellence de la [sangha|communauté]," },
-    { "pl": "saṅghaphāsutāya,", "fr": "pour le confort de la [sangha|communauté]," },
-    { "pl": "dummaṅkūnaṃ puggalānaṃ niggahāya,", "fr": "pour la restreinte des individus récalcitrants," },
+    {
+      "pl": "saṅghasuṭṭhutāya,",
+      "fr": "Pour l'excellence de la [sangha|communauté],"
+    },
+    {
+      "pl": "saṅghaphāsutāya,",
+      "fr": "pour le confort de la [sangha|communauté],"
+    },
+    {
+      "pl": "dummaṅkūnaṃ puggalānaṃ niggahāya,",
+      "fr": "pour la restreinte des individus récalcitrants,"
+    },
     {
       "pl": "pesalānaṃ bhikkhūnaṃ phāsuvihārāya,",
       "fr": "pour le séjour confortable des [bhikkhu|mendiants] de bon caractère,"
@@ -31,15 +40,41 @@
       "pl": "samparāyikānaṃ āsavānaṃ paṭighātāya,",
       "fr": "pour l'élimination des [asava|impuretés mentales] liées à l'autre monde,"
     },
-    { "pl": "appasannānaṃ pasādāya,", "fr": "pour le gain de confiance de ceux qui n'ont pas confiance," },
-    { "pl": "pasannānaṃ bhiyyobhāvāya,", "fr": "pour [son] augmentation chez ceux qui ont confiance," },
-    { "pl": "saddhammaṭṭhitiyā,", "fr": "pour la conservation du [saddhamma|Dhamma authentique]," },
-    { "pl": "vinayānuggahāya.", "fr": "et pour le maintien de la [vinaya|discipline]." },
+    {
+      "pl": "appasannānaṃ pasādāya,",
+      "fr": "pour le gain de confiance de ceux qui n'ont pas confiance,"
+    },
+    {
+      "pl": "pasannānaṃ bhiyyobhāvāya,",
+      "fr": "pour [son] augmentation chez ceux qui ont confiance,"
+    },
+    {
+      "pl": "saddhammaṭṭhitiyā,",
+      "fr": "pour la conservation du [saddhamma|Dhamma authentique],"
+    },
+    {
+      "pl": "vinayānuggahāya.",
+      "fr": "et pour le maintien de la [vinaya|discipline]."
+    },
     {
       "pl": "ime kho, upāli, dasa atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhan”ti.",
       "fr": "Voici, Oupali, quelles sont les dix raisons pour lesquelles le [tathagata|Tathagata] a stipulé les [sikkhapada|règles de l'entraînement] pour ses [savaka|disciples] et mis en place le [patimokkha|Pātimokkha]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "tathagata",
+    "sikkhapada",
+    "savaka",
+    "patimokkha",
+    "sangha",
+    "bhikkhu",
+    "asava",
+    "ditthadhamma",
+    "saddhamma",
+    "vinaya"
+  ],
   "translator": "Rémy"
 }

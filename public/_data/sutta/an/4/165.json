@@ -53,6 +53,23 @@
       "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [patipada|manières de pratiquer]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "patipada",
+    "vedana",
+    "@f_samvara#is-eye",
+    "@f_samvara#is-ear",
+    "@f_samvara#is-nose",
+    "@f_samvara#is-tongue",
+    "@f_samvara#is-body",
+    "@f_samvara#is-mind",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "dhamma",
+    "papaka",
+    "akusala"
+  ],
   "translator": "Rémy"
 }

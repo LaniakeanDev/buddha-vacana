@@ -4,7 +4,10 @@
   "frTitle": "La présence de l'esprit sur la respiration",
   "description": "Les sept facteurs d'Éveil sont pratiqués en conjonction avec d'autres techniques spécifiques. ",
   "body": [
-    { "pl": "57.1evaṃ me sutaṃ: ", "fr": "57.1Ainsi ai-je entendu:" },
+    {
+      "pl": "57.1evaṃ me sutaṃ: ",
+      "fr": "57.1Ainsi ai-je entendu:"
+    },
     {
       "pl": "“aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṃsā. kathaṃ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṃ bahulīkatā mahapphalā hoti mahānisaṃsā?",
       "fr": "[bhikkhu|Mendiants], la [sanna|perception] d'un squelette, lorsqu'elle est développée et cultivée, porte d'excellents fruits, elle apporte de grands [anisamsa|bienfaits]. Et comment, mendiants, la [sanna|perception] d'un squelette est-elle développée et cultivée, de manière à porter d'excellents fruits, à apporter de grands [anisamsa|bienfaits]?"
@@ -726,6 +729,29 @@
       "fr": "[bhikkhu|Mendiants], la [anapanassati|présence de l'esprit sur la respiration], lorsqu'elle estdéveloppée ainsi et cultivée ainsi, mène à un séjour confortable."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sanna",
+    "anisamsa",
+    "sambojjhanga",
+    "sati",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha",
+    "ditthevadhamme",
+    "anagami",
+    "@m_attha",
+    "samvega",
+    "metta",
+    "karuna",
+    "mudita",
+    "anapanassati"
+  ],
   "translator": "Rémy"
 }

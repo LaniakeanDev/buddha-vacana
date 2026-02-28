@@ -4,7 +4,10 @@
   "frTitle": "Vieux",
   "description": "Kassapa continue à pratiquer les austérités bien qu'il soit un Méritant et qu'il devienne vieux.",
   "body": [
-    { "pl": "evaṃ me sutaṃ ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "… pe … rājagahe veḷuvane. atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ mahākassapaṃ bhagavā etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Rajgiri, dans la bambouseraie. Ce jour-là, le [ayasma|vénérable] Kassapa alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui dit:"
@@ -34,6 +37,23 @@
       "fr": "—Excellent, Kassapa, excellent. Vraiment, tu œuvres au bénéfice de beaucoup de gens, pour le [sukha|bonheur] de beaucoup de gens, par compassion pour le [loka|monde], pour le bienfait, le bénéfice et le [sukha|bien-être] des [deva|dévas] et des [manussa|êtres humains]. Dans ce cas, Kassapa, porte des haillons faits de guenilles abandonnées comme déchets, marche pour tes aumônes et séjourne en forêt.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "aranna",
+    "pindapata",
+    "civara",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "araddhaviriya",
+    "viriyarambha",
+    "sukha",
+    "ditthadhamma",
+    "loka",
+    "deva",
+    "manussa"
+  ],
   "translator": "Sekha."
 }

@@ -4,7 +4,10 @@
   "frTitle": "Dans la mangueraie",
   "description": "Voici l'exposé succinct standard des quatre mises en place de la présence d'esprit (satipaṭṭhāna).",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati ambapālivane. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans la mangueraie. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -26,6 +29,19 @@
       "fr": "[bhikkhu|Mendiants], voici la [ekayanomaggo|voie à sens unique] pour la purification des êtres, pour surmonter le chagrin et les lamentations, pour la disparition du [dukkha|mal-être] & [domanassa|déplaisance mentale], pour l'acquisition de la bonne méthode, et pour l'accomplissement de l'[nibbana|Extinction], c'est-à-dire les quatre [satipatthana|mises en place de la présence d'esprit]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "ekayanomaggo",
+    "dukkha",
+    "domanassa",
+    "nibbana",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Rémy"
 }

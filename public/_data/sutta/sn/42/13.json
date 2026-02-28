@@ -128,27 +128,42 @@
       "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci pāṇamatipāteti, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vā”ti?",
       "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui détruit la vie ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement?"
     },
-    { "pl": "“musā, bhante”.", "fr": "—Faussement, [bhante|Bhanté]." },
+    {
+      "pl": "“musā, bhante”.",
+      "fr": "—Faussement, [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te tucchaṃ musā vilapanti, sīlavanto vā te dussīlā vā”ti?",
       "fr": "—Et ceux qui racontent n'importe quoi, sont-ils [sila|vertueux] ou [dussila|manquent-ils de vertu]?"
     },
-    { "pl": "“dussīlā, bhante”.", "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]." },
+    {
+      "pl": "“dussīlā, bhante”.",
+      "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te dussīlā pāpadhammā micchāpaṭipannā vā te sammāpaṭipannā vā”ti?",
       "fr": "—Et ceux qui [dussila|manquent de vertu], qui ont un [dhamma|caractère] mauvais, est-ce qu'ils pratiquent de manière erronée ou est-ce qu'ils pratiquent correctement?"
     },
-    { "pl": "“micchāpaṭipannā, bhante”.", "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]." },
+    {
+      "pl": "“micchāpaṭipannā, bhante”.",
+      "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te micchāpaṭipannā micchādiṭṭhikā vā te sammādiṭṭhikā vā”ti?",
       "fr": "—Et ceux qui pratiquent de manière erronée, est-ce qu'ils ont la [micchaditthi|vue erronée], ou est-ce qu'ils ont la [sammaditthi|vue correcte]?"
     },
-    { "pl": "“micchādiṭṭhikā, bhante”.", "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]." },
+    {
+      "pl": "“micchādiṭṭhikā, bhante”.",
+      "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te micchādiṭṭhikā kallaṃ nu tesu pasīditun”ti?",
       "fr": "—Est-il raisonnable de faire confiance à ceux qui ont la [micchaditthi|vue erronée]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rañño paccatthikassa pasayha ratanaṃ ahāsi. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’”ti.",
       "fr": "—On voit quelqu'un portant des guirlandes (…) comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes (…) comme un roi?”[/i] Et on répond: [i]“Cet homme a utilisé la force contre un ennemi du roi et lui a volé son trésor. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes (…) comme un roi.”[/i]"
@@ -165,7 +180,10 @@
       "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci adinnaṃ ādiyati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vāti ... pe ... kallaṃ nu tesu pasīditun”ti?",
       "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui s'approprie ce qui n'a pas été donné ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement? (…) Est-il raisonnable de leur faire confiance?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rañño paccatthikassa dāresu cārittaṃ āpajji. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’”ti.",
       "fr": "—On voit quelqu'un portant des guirlandes (…) comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes (…) comme un roi?”[/i] Et on répond: [i]“Cet homme a eu une liaison avec la femme d'un ennemi du roi. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes (…) comme un roi.”[/i]"
@@ -182,7 +200,10 @@
       "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci kāmesu micchā carati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vāti ... pe ... kallaṃ nu tesu pasīditun”ti?",
       "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui se méconduit en raison des [kama|plaisirs sensuels] ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement? (…) Est-il raisonnable de leur faire confiance?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rājānaṃ musāvādena hāsesi. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricāretī’”ti.",
       "fr": "—On voit quelqu'un portant des guirlandes, des boucles d'oreille, bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes, des boucles d'oreille, être bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi?”[/i] Et on répond: [i]“Cet homme a fait rire le roi avec des mensonges. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes, des boucles d'oreille, est bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi.”[/i]"
@@ -203,27 +224,42 @@
       "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci musā bhaṇati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vā”ti?",
       "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui dit des mensonges ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement?"
     },
-    { "pl": "“musā, bhante”.", "fr": "—Faussement, [bhante|Bhanté]." },
+    {
+      "pl": "“musā, bhante”.",
+      "fr": "—Faussement, [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te tucchaṃ musā vilapanti, sīlavanto vā te dussīlā vā”ti?",
       "fr": "—Et ceux qui racontent n'importe quoi, sont-ils [sila|vertueux] ou [dussila|manquent-ils de vertu]?"
     },
-    { "pl": "“dussīlā, bhante”.", "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]." },
+    {
+      "pl": "“dussīlā, bhante”.",
+      "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te dussīlā pāpadhammā micchāpaṭipannā vā te sammāpaṭipannā vā”ti?",
       "fr": "—Et ceux qui [dussila|manquent de vertu], qui ont un [dhamma|caractère] mauvais, est-ce qu'ils pratiquent de manière erronée ou est-ce qu'ils pratiquent correctement?"
     },
-    { "pl": "“micchāpaṭipannā, bhante”.", "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]." },
+    {
+      "pl": "“micchāpaṭipannā, bhante”.",
+      "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te micchāpaṭipannā micchādiṭṭhikā vā te sammādiṭṭhikā vā”ti?",
       "fr": "—Et ceux qui pratiquent de manière erronée, est-ce qu'ils ont la [micchaditthi|vue erronée], ou est-ce qu'ils ont la [sammaditthi|vue correcte]?"
     },
-    { "pl": "“micchādiṭṭhikā, bhante”.", "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]." },
+    {
+      "pl": "“micchādiṭṭhikā, bhante”.",
+      "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]."
+    },
     {
       "pl": "“ye pana te micchādiṭṭhikā kallaṃ nu tesu pasīditun”ti?",
       "fr": "—Est-il raisonnable de faire confiance à ceux qui ont la [micchaditthi|vue erronée]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“acchariyaṃ, bhante, abbhutaṃ, bhante! atthi me, bhante, āvasathāgāraṃ. tattha atthi mañcakāni, atthi āsanāni, atthi udakamaṇiko, atthi telappadīpo. tattha yo samaṇo vā brāhmaṇo vā vāsaṃ upeti, tenāhaṃ yathāsatti yathābalaṃ saṃvibhajāmi. bhūtapubbaṃ, bhante, cattāro satthāro nānādiṭṭhikā nānākhantikā nānārucikā, tasmiṃ āvasathāgāre vāsaṃ upagacchuṃ”.",
       "fr": "C'est formidable, [bhante|Bhanté], inouï! [bhante|Bhanté], j'ai un havre de repos, où l'on trouve des lits, des sièges, des jarres remplies d'eau et des lampes à huile. Je partage tout cela avec le [samana|renonçant] ou le [brahmana|brahmane] qui y séjourne, dans la mesure de mes moyens. Dans le passé, quatre enseignants ayant différentes [ditthi|vues], différentes croyances, différentes préférences ont pris résidence dans ce havre de repos."
@@ -337,6 +373,64 @@
       "fr": "«C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "samana",
+    "brahmana",
+    "sila",
+    "dussila",
+    "dhamma",
+    "tathagata",
+    "panna",
+    "vipaka",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "kama",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "abhijjhha",
+    "byapada",
+    "micchaditthi",
+    "ditthi",
+    "dukkha",
+    "domanassa",
+    "ditthevadhamme",
+    "sammaditthi",
+    "kamma",
+    "loka",
+    "opapatika",
+    "abhinna",
+    "punna",
+    "vicikiccha",
+    "samadhi",
+    "ariyasavaka",
+    "abhijjha",
+    "citta",
+    "sampajana",
+    "sata",
+    "@f_appam#metta-cl",
+    "sugati",
+    "sagga",
+    "pamojja",
+    "piti",
+    "mana",
+    "sukha",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Sekha"
 }

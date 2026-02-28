@@ -4,7 +4,10 @@
   "frTitle": "L'assiduité",
   "description": "Y a-t-il une simple chose qui assure des bénéfices dans cette vie et dans les vies à venir?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
       "fr": "Tandis qu'il était assis là, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
@@ -34,6 +37,6 @@
       "fr": "[i]Pour celui qui aspire à une longue vie,À la santé, à la beauté, au [sagga|paradis],À [une naissance dans] une haute famille,À des délices élevés les uns après les autres,Les [pandita|sages] recommandent l'[appamada|assiduité]Dans la réalisation d'[punna|actes méritoires].Le [pandita|sage] assidu S'assure les deux bénéfices,Le bénéfice [ditthadhamma|dans ce monde visible]Et le bénéfice dans l'autre monde.Celui qui est persistant atteint les bénéfices,Et on dit de lui qu'il est un [pandita|sage].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante", "dhamma", "ditthadhamma", "appamada", "sagga", "pandita", "punna"],
   "translator": "Rémy"
 }

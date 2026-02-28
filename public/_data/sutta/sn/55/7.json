@@ -4,7 +4,10 @@
   "frTitle": "Les brahmanes de Véloudvara",
   "description": "Les brahmanes sédentaires de Véloudvara (la porte bambou) demandent au Bouddha un enseignement qui ne les empêche pas de continuer à vivre une vie sédentaire ni de continuer à jouir des plaisirs mondains.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ yena veḷudvāraṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. assosuṃ kho te veḷudvāreyyakā brāhmaṇagahapatikā:",
       "fr": "Un jour, en voyageant à pied à travers le Kosala avec un grand groupe de [bhikkhu|mendiants], le [bhagava|Fortuné] arriva à un village de [brahmana|brahmanes] du Kosala qui s'appelait Véloudvara. Les [brahmana|brahmanes] maîtres de maison de Véloudvara entendirent:"
@@ -86,6 +89,55 @@
       "fr": "—C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou bien on montrerait le chemin à quelqu'un qui se serait perdu, ou bien on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Gotama a expliqué le [dhamma|Dhamma] de diverses façons. Nous allons en refuge au vénérable Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le vénérable Gotama nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "brahmana",
+    "samana",
+    "@f_anussati#anussati-1-cl",
+    "deva",
+    "mara",
+    "brahma",
+    "abhinna",
+    "dhamma",
+    "brahmacariya",
+    "arahant",
+    "bho",
+    "chanda",
+    "kaya",
+    "marana",
+    "sugati",
+    "loka",
+    "sagga",
+    "ariyasavaka",
+    "sukha",
+    "dukkha",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "sotapanna",
+    "sambodhi",
+    "sangha",
+    "upasaka"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La bienveillance",
   "description": "Encore un soutta très prisé dans les manuels de récitation théravadins, sur la pratique de la bienveillance.",
   "body": [
-    { "pl": "", "fr": "" },
+    {
+      "pl": "",
+      "fr": ""
+    },
     {
       "pl": "karaṇīyamatthakusalena, [@v]yantasantaṃ padaṃ abhisamecca. [@v]sakko ujū ca suhujū ca, [@v]suvaco cassa mudu anatimānī. [@v]",
       "fr": "Ce qui devrait être fait par celui qui est compétent dans ce qui est bénéfique[@v]Ayant complètement compris le moyen de maintenir la paix[@v]Capable, droit et même bien droit,[@v]À qui il est facile de parler, gentil, sans supériorité,"
@@ -46,6 +49,6 @@
       "fr": "Sans adopter de [ditthi|vues],[@v][sila|Vertueux], doué de vision[@v]Ayant éliminé le désir pour les [kama|plaisirs sensuels][@v]Il ne reviendra plus au monde."
     }
   ],
-  "keywords": [],
+  "keywords": ["dukkha", "metta", "ditthi", "@v][sila", "kama"],
   "translator": "Sekha"
 }

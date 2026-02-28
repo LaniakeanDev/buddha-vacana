@@ -4,7 +4,10 @@
   "frTitle": "Les forces spirituelles",
   "description": "Ce qu'est l'Inconstruit, avec les cinq forces spirituelles.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo: idaṃ vuccati, bhikkhave, asaṅkhataṃ.",
       "fr": "[bhikkhu|Mendiants], je vais vous expliquer l'[asankhata|Inconstruit] ainsi que le chemin menant à l'[asankhata|Inconstruit]. Écoutez cela. Et qu'est-ce, [bhikkhu|mendiants], que l'[asankhata|Inconstruit]? L'élimination complète de l'[raga|avidité], l'élimination complète de l'[dosa|aversion] et l'élimination complète de la [moha|délusion]: voici, [bhikkhu|mendiants], ce qu'on appelle l'[asankhata|Inconstruit]."
@@ -18,6 +21,6 @@
       "fr": "Ainsi, [bhikkhu|mendiants], je vous ai expliqué l'[asankhata|Inconstruit] ainsi que le chemin menant à l'[asankhata|Inconstruit]. J'ai fait pour vous ce qui devrait être fait par un enseignant souhaitant le bien de ses [savaka|disciples], par sympathie, par compassion. Voici les racines des arbres, voilà des pièces vides. [jhana|Méditez], [bhikkhu|mendiants], ne soyez pas [pamada|négligents], n'ayez pas à le regretter plus tard. Voici notre instruction pour vous."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "bala", "savaka", "jhana", "pamada"],
   "translator": "Rémy"
 }

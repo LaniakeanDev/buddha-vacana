@@ -12,8 +12,14 @@
       "pl": "“sabbaṃ nu kho, ānanda, sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ saphalan”ti?",
       "fr": "«Ananda, est-ce que tous les [silabbata|rites et préceptes], modes de vies, [brahmacariya|vies brahmiques], [pratiques] considérées comme étant essentielles, portent des fruits?"
     },
-    { "pl": "“na khvettha, bhante, ekaṃsenā”ti.", "fr": "—La réponse n'est pas catégorique, [bhante|Bhanté]." },
-    { "pl": "“tena hānanda, vibhajassū”ti.", "fr": "—Dans ce cas, Ananda, propose une analyse." },
+    {
+      "pl": "“na khvettha, bhante, ekaṃsenā”ti.",
+      "fr": "—La réponse n'est pas catégorique, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“tena hānanda, vibhajassū”ti.",
+      "fr": "—Dans ce cas, Ananda, propose une analyse."
+    },
     {
       "pl": "“yañhissa, bhante, sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ sevato akusalā dhammā abhivaḍḍhanti kusalā dhammā parihāyanti, evarūpaṃ sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ aphalaṃ. yañca khvāssa, bhante, sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpaṃ sīlabbataṃ jīvitaṃ brahmacariyaṃ upaṭṭhānasāraṃ saphalan”ti.",
       "fr": "—[bhante|Bhanté], si lorsqu'on pratique certains [silabbata|rites et préceptes], modes de vies, [brahmacariya|vies brahmiques], [pratiques] considérées comme étant essentielles, les [dhamma|états mentaux] [akusala|désavantageux] se développent et les [dhamma|états mentaux] [kusala|avantageux] déclinent, alors de tels [silabbata|rites et préceptes], modes de vies, [brahmacariya|vies brahmiques], [pratiques] considérées comme étant essentielles ne portent pas de fruits. Mais si lorsqu'on pratique certains [silabbata|rites et préceptes], modes de vies, [brahmacariya|vies brahmiques], [pratiques] considérées comme étant essentielles, les [dhamma|états mentaux] [akusala|désavantageux] déclinent et les [dhamma|états mentaux] [kusala|avantageux] se développent, alors de tels [silabbata|rites et préceptes], modes de vies, [brahmacariya|vies brahmiques], [pratiques] considérées comme étant essentielles portent des fruits."
@@ -27,6 +33,18 @@
       "fr": "—[bhikkhu|Mendiants], Ananda est [sekha|[encore] en entraînement], mais il n'est pas facile de trouver son égal en termes de [panna|discernement].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "silabbata",
+    "brahmacariya",
+    "bhante",
+    "dhamma",
+    "akusala",
+    "kusala",
+    "bhikkhu",
+    "sekha",
+    "panna"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "L'allégorie de la montagne",
   "description": "Le Bouddha enseigne au roi Passénadi comment maintenir l'assiduité dans la pratique du Dhamma en se rappelant de deux choses qui nous arrivent dessus comme des montagnes écrasant tout sur leur passage.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca:",
       "fr": "Tandis qu'il était assis là, le [bhagava|Fortuné] dit au roi Passénadi du Kossala:"
@@ -50,6 +53,19 @@
       "fr": "[i]Tout comme une montagne rocheuse,Immense, touchant les nuages,Se déplacerait aux quatre points cardinauxÉcrasant tout [sur son passage],De même [jaramarana|la vieillesse et la mort]Arrivent sur tous les êtres vivants,Aristocrates, brahmanes, Hommes du peuple, serfs, Intouchables ou sans-caste,Écrasant tout sans rien épargner.Il n'y a pas de place pour les éléphants,Les chars ou l'infanterie,Ni pour les batailles de stratagèmesEt il est impossible de les vaincre avec des richesses.Ainsi un homme [pandita|sage],Voyant son propre bénéfice,Devrait installer une ferme [saddha|conviction]Dans le Bouddha, le [dhamma|Dhamma] et la [sangha|Communauté].Celui qui se comporte selon le DhammaEn corps, en parole et en esprit,On le soutient ici et maintenant,Et après la mort, il se réjouit dans un [sagga|paradis].[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "khattiya",
+    "kama",
+    "dhamma",
+    "kusala",
+    "punna",
+    "jaramarana",
+    "pandita",
+    "saddha",
+    "sangha",
+    "sagga"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Les familles",
   "description": "Une allégorie pour expliquer que développer la bienveillance est la meilleure des protections contre les êtres non-humains.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati … pe …", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati … pe …",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṃsiyāni honti corehi kumbhatthenakehi ; evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti abhāvitā abahulīkatā so suppadhaṃsiyo hoti amanussehi.",
       "fr": "[bhikkhu|Mendiants], tout comme les familles dans lesquelles il y a beaucoup de femmes et peu d'hommes sont facilement attaquées par les voleurs et les bandits, de la même manière un [bhikkhu|mendiant] qui n'a pas développé, qui n'a pas cultivé la [cetovimutti|libération de l'esprit] par la [metta|bienveillance] est facilement attaqué par les êtres non-humains."
@@ -18,6 +21,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous développerons la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], nous la cultiverons, nous en ferons notre véhicule, nous en ferons notre terrain, nous l'établirons, nous l'accumulerons, nous la perfectionnerons.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "cetovimutti", "metta"],
   "translator": "Sekha"
 }

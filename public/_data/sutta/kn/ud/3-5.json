@@ -4,7 +4,10 @@
   "frTitle": "Avec Moggallana le grand",
   "description": "La vue de Moggallana le grand assis en méditation inspire au Bouddha cette exclamation.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena āyasmā mahāmoggallāno bhagavato avidūre nisinno hoti pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya kāyagatāya satiyā ajjhattaṃ sūpaṭṭhitāya. addasā kho bhagavā āyasmantaṃ mahāmoggallānaṃ avidūre nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya kāyagatāya satiyā ajjhattaṃ sūpaṭṭhitāya.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [ayasma|vénérable] Moggallana le grand était assis non loin du [bhagava|Fortuné], jambes croisées, maintenant [son] [kaya|corps] droit, la [kayagatasati|présence d'esprit dirigée vers le corps] bien établie en lui. Le [bhagava|Fortuné] vit le [ayasma|vénérable] Moggallana le grand assis non loin de là, jambes croisées, maintenant [son] [kaya|corps] droit, la [kayagatasati|présence d'esprit dirigée vers le corps] bien établie en lui."
@@ -18,6 +21,17 @@
       "fr": "La [kayagatasati|présence d'esprit dirigée vers le corps] établieRestreint dans les six [ayatana|sphères] de [phassa|contact],Le [bhikkhu|mendiant] continuellement [samadhi|concentré]Peut connaître l'[nibbana|Extinction] en lui-même."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "kaya",
+    "kayagatasati",
+    "udana",
+    "ayatana",
+    "phassa",
+    "bhikkhu",
+    "samadhi",
+    "nibbana"
+  ],
   "translator": "Sekha"
 }

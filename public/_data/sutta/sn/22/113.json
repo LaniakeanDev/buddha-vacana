@@ -4,7 +4,10 @@
   "frTitle": "L'ignorance",
   "description": "Qu'est-ce que l'ignorance?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -22,6 +25,22 @@
       "fr": "Voici, [bhikkhu|mendiant], ce qu'on appelle l'[avijja|ignorance], et voici de quelle manière on est ignorant."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“[avijja",
+    "avijja",
+    "puthujjana",
+    "assutava",
+    "rupa",
+    "samudaya",
+    "nirodha",
+    "patipada",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana"
+  ],
   "translator": "Rémy"
 }

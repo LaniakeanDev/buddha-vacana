@@ -152,7 +152,10 @@
       "pl": "—“adhivāsetu me, bhante, bhagavā svātanāya bhattaṃ saddhiṃ bhikkhusaṅghenā”ti.",
       "fr": "—[bhante|Bhanté], que le [bhagava|Fortuné] accepte [mon invitation à] un repas demain, avec la [sangha|Communauté] des [bhikkhu|mendiants]."
     },
-    { "pl": "adhivāsesi bhagavā tuṇhībhāvena.", "fr": "Le [bhagava|Fortuné] accepta en gardant le silence." },
+    {
+      "pl": "adhivāsesi bhagavā tuṇhībhāvena.",
+      "fr": "Le [bhagava|Fortuné] accepta en gardant le silence."
+    },
     {
       "pl": "atha kho sīho senāpati bhagavato adhivāsanaṃ viditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
       "fr": "Alors le général Siha, ayant compris que le [bhagava|Fortuné] avait accepté, se leva de son siège, rendit hommage au [bhagava|Fortuné] en le tenant sur sa droite, et s'en alla."
@@ -169,7 +172,10 @@
       "pl": "atha kho sīho senāpati tassā rattiyā accayena sake nivesane paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato kālaṃ ārocāpesi:",
       "fr": "Alors le général Siha, lorsque cette nuit-là fut passée, ayant fait préparer dans son propre logis d'excellentes nourritures, de base et raffinée, fit informer le [bhagava|Fortuné] que le moment était venu:"
     },
-    { "pl": "— “kālo, bhante! niṭṭhitaṃ bhattan”ti.", "fr": "—Il est temps, [bhante|Bhanté], le repas est prêt." },
+    {
+      "pl": "— “kālo, bhante! niṭṭhitaṃ bhattan”ti.",
+      "fr": "—Il est temps, [bhante|Bhanté], le repas est prêt."
+    },
     {
       "pl": "atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena sīhassa senāpatissa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṃ bhikkhusaṅghena. tena kho pana samayena sambahulā nigaṇṭhā vesāliyaṃ rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ bāhā paggayha kandanti:",
       "fr": "Alors ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], se rendit au logis du général Siha et s'assit sur le siège préparé, avec la [sangha|Communauté] des [bhikkhu|mendiants]. Ce jour-là, un certain nombre de Niganthas criaient en étendant les bras dans Vessali, [allant] de rue en rue, d'intersection en intersection:"
@@ -195,6 +201,44 @@
       "fr": "Alors le général Siha servit de ses propres mains et satisfit la [sangha|Communauté] des [bhikkhu|mendiants] avec d'excellentes nourritures, de base et raffinée, en commençant par le [buddha|Bouddha]. Lorsque le Fortuné eut finit son repas et retiré sa main du bol, le général Siha s'assit d'un côté. Une fois assis là, le [bhagava|Fortuné] ayant éclairé, exhorté, motivé et enthousiasmé le général Siha avec un discours sur le [dhamma|Dhamma], se leva de son siège et s'en alla."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "buddha",
+    "dhamma",
+    "sangha",
+    "arahant",
+    "sammasambuddha",
+    "bhante",
+    "samana",
+    "savaka",
+    "duccarita",
+    "akusala",
+    "papaka",
+    "sucarita",
+    "kusala",
+    "raga",
+    "dosa",
+    "moha",
+    "bhikkhu",
+    "upasaka",
+    "dana",
+    "sila",
+    "sagga",
+    "adinava",
+    "kama",
+    "anisamsa",
+    "nekkhamma",
+    "nivarana",
+    "dukkha",
+    "samudaya",
+    "nirodha",
+    "magga",
+    "dhammacakkhu",
+    "vicikiccha",
+    "patta",
+    "civara",
+    "kamma",
+    "ayasma"
+  ],
   "translator": "Bhikkhu Sekha"
 }

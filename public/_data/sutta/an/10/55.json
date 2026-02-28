@@ -8,7 +8,10 @@
       "pl": "tatra kho āyasmā sāriputto bhikkhū āmantesi ",
       "fr": "Un jour, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“āvuso bhikkhave”ti.", "fr": "«Mes amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso bhikkhave”ti.",
+      "fr": "«Mes amis, [bhikkhu|mendiants]."
+    },
     {
       "pl": "“āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. āyasmā sāriputto etadavoca",
       "fr": "—Ami,» répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Saripoutta. Celui-ci dit alors:"
@@ -70,6 +73,27 @@
       "fr": "Mais si un [bhikkhu|mendiant], en s'auto-examinant, voit en lui-même tous ces [dhamma|états] [kusala|avantageux], alors il devrait s'appuyer sur tous ces [dhamma|états] [kusala|avantageux]afin de faire un travail supplémentaire pour l'élimination complète des [asava|impuretés mentales]. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "dhamma",
+    "bhagava",
+    "citta",
+    "sankappa",
+    "kusala",
+    "abhijjha",
+    "byapada",
+    "thinamiddha",
+    "vicikiccha",
+    "pamojja",
+    "samatha",
+    "panna",
+    "vipassana",
+    "chanda",
+    "vayama",
+    "sati",
+    "sampajanna",
+    "asava"
+  ],
   "translator": "Sekha"
 }

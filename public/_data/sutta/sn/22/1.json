@@ -4,7 +4,10 @@
   "frTitle": "L'histoire de Nakoulapita",
   "description": "Nakoulapita est âgé et en mauvaise santé. Le Bouddha lui donne un conseil sur la manière d'appréhender la situation, et Saripoutta en explique la signification en détail.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā bhaggesu viharati suṃsumāragire bhesakaḷāvane migadāye. atha kho nakulapitā gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho nakulapitā gahapati bhagavantaṃ etadavoca",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Bhaggans près de Chant-du-Crocodile, dans le bois de Bhessakala, dans le parc aux daims. Ce jour-là, le chef de foyer Nakoulapita alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -106,6 +109,31 @@
       "fr": "Voici ce que dit le [ayasma|vénérable] Saripoutta. Ravi, le chef de foyer Nakoulapita apprécia ses paroles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "kaya",
+    "sukha",
+    "citta",
+    "ayasma",
+    "indriya",
+    "dhamma",
+    "i]“[bhante",
+    "puthujjana",
+    "assutava",
+    "ariya",
+    "sappurisa",
+    "rupa",
+    "atta",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "sutava"
+  ],
   "translator": "Rémy"
 }

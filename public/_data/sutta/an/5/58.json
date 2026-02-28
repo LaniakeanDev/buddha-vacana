@@ -16,7 +16,10 @@
       "pl": "tena kho pana samayena mahānāmo licchavi mahāvane jaṅghāvihāraṃ anucaṅkamamāno addasa te licchavikumārake tuṇhībhūte tuṇhībhūte pañjalike bhagavantaṃ payirupāsante; disvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho mahānāmo licchavi udānaṃ udānesi:",
       "fr": "Ce jour-là, Mahanama le Litchavi, en marchant dans la grande forêt pour exercer ses mollets, vit ces jeunes Litchavis assis respectueusement auprès du [bhagava|Fortuné], tous silencieux, avec les mains jointes. L'ayant vu, il s'approcha du [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, Mahanama le Litchavi exclama cette [udana|exclamation]:"
     },
-    { "pl": "— ‘bhavissanti vajjī, bhavissanti vajjī’”ti!", "fr": "—Ce seront des Vajjis, ce seront des Vajjis!" },
+    {
+      "pl": "— ‘bhavissanti vajjī, bhavissanti vajjī’”ti!",
+      "fr": "—Ce seront des Vajjis, ce seront des Vajjis!"
+    },
     {
       "pl": "“kiṃ pana tvaṃ, mahānāma, evaṃ vadesi: ‘bhavissanti vajjī, bhavissanti vajjī’”ti?",
       "fr": "—Mahanama, pourquoi dis-tu: [i]“Ce seront des Vajjis, ce seront des Vajjis!”[/i]?"
@@ -54,6 +57,19 @@
       "fr": "Mahanama, un fils de famille qui possède ces cinq qualités, que ce soit un roi [khattiya|aristocrate] bien consacré, ou bien un fonctionnaire héréditaire, ou bien un général de l'armée, ou bien un chef de village, ou un chef de guilde, ou un de ceux qui exercent divers pouvoirs sur des familles, on peut s'attendre à sa croissance, et non à son déclin. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "patta",
+    "civara",
+    "pindapata",
+    "udana",
+    "bhante",
+    "khattiya",
+    "viriya",
+    "dhamma",
+    "deva",
+    "samana",
+    "brahmana"
+  ],
   "translator": "Rémy"
 }

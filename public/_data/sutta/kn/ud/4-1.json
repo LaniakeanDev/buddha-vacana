@@ -4,7 +4,10 @@
   "frTitle": "Avec Meghiya",
   "description": "Meghiya se rend dans une mangueraie pour y méditer ardemment, mais il est subjugué par des pensées malsaines. Il va demander conseil au Bouddha, qui lui explique par quels moyens on rend l'esprit mature pour la libération.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā cālikāyaṃ viharati cālike pabbate. tena kho pana samayena āyasmā meghiyo bhagavato upaṭṭhāko hoti. atha kho āyasmā meghiyo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho āyasmā meghiyo bhagavantaṃ etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Tchalika, sur la colline de Tchalika. Ce jour-là, le [ayasma|vénérable] Meghiya était l'intendant du [bhagava|Fortuné]. Il alla voir le [bhagava|Fortuné], lui rendit hommage, puis se tint debout d'un côté et lui dit:"
@@ -13,7 +16,10 @@
       "pl": "“icchāmahaṃ, bhante, jantugāmaṃ piṇḍāya pavisitun””ti.",
       "fr": "«[bhante|Bhanté], je souhaite me rendre au village de Jantou pour mes aumônes de nourriture."
     },
-    { "pl": "“yassa dāni tvaṃ, meghiya, kālaṃ maññasī”ti.", "fr": "—Fais ce qui te convient, Meghiya.»" },
+    {
+      "pl": "“yassa dāni tvaṃ, meghiya, kālaṃ maññasī”ti.",
+      "fr": "—Fais ce qui te convient, Meghiya.»"
+    },
     {
       "pl": "atha kho āyasmā meghiyo pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya jantugāmaṃ piṇḍāya pāvisi. jantugāme piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena kimikāḷāya nadiyā tīraṃ tenupasaṅkami. addasā kho āyasmā meghiyo kimikāḷāya nadiyā tīre jaṅghāvihāraṃ anucaṅkamamāno anuvicaramāno ambavanaṃ pāsādikaṃ ramaṇīyaṃ. disvānassa etadahosi — “pāsādikaṃ vatidaṃ ambavanaṃ ramaṇīyaṃ. alaṃ vatidaṃ kulaputtassa padhānatthikassa padhānāya. sace maṃ bhagavā anujāneyya, āgaccheyyāhaṃ imaṃ ambavanaṃ padhānāyā””ti.",
       "fr": "Alors ce matin-là, le [ayasma|vénérable] Meghiya s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit au village de Jantou pour ses aumônes de nourriture. Ayant parcouru le village de Jantou pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], il se rendit sur les berges du fleuve Kimikala. En marchant et se promenant sur les berges du fleuve Kimikala pour exercer ses mollets, le [ayasma|vénérable] Meghiya vit une mangueraie agréable et charmante. L'ayant vue, il se dit: [i]“Cette mangueraie est bien agréable et charmante. Elle invite à l'[padhana|effort] un enfant de [bonne] famille désireux de l'[padhana|effort]. Si le [bhagava|Fortuné] l'autorise, je reviendrai dans cette mangueraie pour m'[padhana|efforcer].”[/i]"
@@ -131,6 +137,69 @@
       "fr": "Ayant compris ces [vitakka|pensées] du [mana|mental],Ainsi que la joie [mana|mentale],[atapi|Ardent], [samvara|restreint], [sati|présent d'esprit],Un [buddha|éveillé] les a complètement abandonnées."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "patta",
+    "civara",
+    "pindapata",
+    "padhana",
+    "bhikkhu",
+    "dhamma",
+    "vitakka",
+    "papaka",
+    "akusala",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "pabbaja",
+    "anagariya",
+    "saddha",
+    "patisallana",
+    "cetovimutti",
+    "kalyana",
+    "@f_sila",
+    "citta",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodhi",
+    "nibbana",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "@m_samsagga",
+    "viriyarambha",
+    "sila",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana",
+    "viriya",
+    "kusala",
+    "samudaya",
+    "ariya",
+    "dukkha",
+    "kalyanamittata",
+    "samvara",
+    "patimokkha",
+    "sikkhapada",
+    "asubha",
+    "raga",
+    "metta",
+    "anapanassati",
+    "aniccasanna",
+    "asmimana",
+    "anattasanna",
+    "ditthevadhamme",
+    "udana",
+    "mana",
+    "atapi",
+    "sati",
+    "buddha"
+  ],
   "translator": "Sekha"
 }

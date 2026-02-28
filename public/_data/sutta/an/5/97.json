@@ -12,7 +12,10 @@
       "pl": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu;",
       "fr": "À cet égard, [bhikkhu|mendiants], un mendiant a peu de projets, peu d'obligations, il est facile à sustenter, facile à contenter avec les accessoires de la vie;"
     },
-    { "pl": "appāhāro hoti anodarikattaṃ anuyutto;", "fr": "il mange peu, il se voue à la frugalité;" },
+    {
+      "pl": "appāhāro hoti anodarikattaṃ anuyutto;",
+      "fr": "il mange peu, il se voue à la frugalité;"
+    },
     {
       "pl": "appamiddho hoti jāgariyaṃ anuyutto;",
       "fr": "il a peu d'indolence, il [jagariyamanuyoga|se voue à la veille];"
@@ -30,6 +33,22 @@
       "fr": "Voici, [bhikkhu|mendiants], quelles sont les cinq [dhamma|choses] doué desquelles un mendiant pratiquant la [anapanassati|présence de l'esprit sur la respiration] atteint en peu de temps l'Inébranlable."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "dhamma",
+    "bhikkhu",
+    "anapanassati",
+    "jagariyamanuyoga",
+    "citta",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "@m_samsagga",
+    "viriyarambha",
+    "sila",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana"
+  ],
   "translator": "Rémy"
 }

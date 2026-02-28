@@ -4,7 +4,10 @@
   "frTitle": "Par rapport à la minutie",
   "description": "Deux souttas qui comparent l'habileté à la minutie et à ce qui est adéquat dans la concentration à l'habilité à la minutie dans cette dernière.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
@@ -18,6 +21,6 @@
       "fr": "(54) (…) est habile à la minutie dans la [samadhi|concentration], mais n'est pas habile à ce qui est adéquat dans la [samadhi|concentration] (…) "
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "samadhi"],
   "translator": "Sekha"
 }

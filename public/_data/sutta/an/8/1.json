@@ -4,7 +4,10 @@
   "frTitle": "La bienveillance",
   "description": "Huit bienfaits de la pratique de la bienveillance (mettā).",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati ambapālivane. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans la mangueraie. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -26,6 +29,18 @@
       "fr": "[bhikkhu|Mendiants], lorsque la [cetovimutti|libération de l'esprit] par la [metta|bienveillance] est exercée, développée, cultivée, qu'on en a fait son véhicule, son territoire, lorsqu'elle est maintenue, accumulée, pleinement entreprise, on peut s'attendre à ces huit [anisamsa|bienfaits]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "cetovimutti",
+    "metta",
+    "anisamsa",
+    "sukha",
+    "papaka",
+    "deva",
+    "loka",
+    "brahma"
+  ],
   "translator": "Rémy"
 }

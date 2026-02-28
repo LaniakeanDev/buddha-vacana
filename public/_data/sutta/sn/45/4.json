@@ -4,7 +4,10 @@
   "frTitle": "Le brahmane Djanoussoni",
   "description": "Le brahmane Djanoussoni et son char tout blanc inspirent au Bouddha une riche allégorie.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. addasā kho āyasmā ānando jāṇussoṇiṃ brāhmaṇaṃ sabbasetena vaḷavābhirathena sāvatthiyā niyyāyantaṃ. setā sudaṃ assā yuttā honti setālaṅkārā, seto ratho, setaparivāro, setā rasmiyo, setā patodalaṭṭhi, setaṃ chattaṃ, setaṃ uṇhīsaṃ, setāni vatthāni, setā upāhanā, setāya sudaṃ vālabījaniyā bījīyati. tamenaṃ jano disvā evamāha:",
       "fr": "Ce matin-là, le [ayasma|vénérable] Ananda s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Le [ayasma|vénérable] Ananda y vit le [brahmana|brahmane] Djanoussoni sortir de Savatthi sur un char tout blanc tiré par des juments blanches. Les chevaux qui y étaient attelés étaient blancs, parés en blanc, le char était blanc, capitonné en blanc, les rennes étaient blancs, la cravache était blanche, l'ombrelle était blanche, son turban était blanc, ses vêtements étaient blancs, ses chaussures étaient blanches, et un évantail blanc le rafraîchissait. Voyant cela, les gens disaient:"
@@ -82,6 +85,44 @@
       "fr": "[i]Le suprême véhicule [brahma|brahmique]Qui apparaît en [atta|soi-même],Mène les sages hors du [loka|monde],Assurément victorieux."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "patta",
+    "civara",
+    "brahmana",
+    "bho",
+    "brahma",
+    "pindapata",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "vinaya",
+    "aam",
+    "sammaditthi",
+    "raga",
+    "dosa",
+    "moha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "saddha",
+    "panna",
+    "hiri",
+    "mana",
+    "sati",
+    "sila",
+    "jahna",
+    "viriya",
+    "upekkha",
+    "abyapada",
+    "avihimsa",
+    "viveka",
+    "atta",
+    "loka"
+  ],
   "translator": "Rémy"
 }

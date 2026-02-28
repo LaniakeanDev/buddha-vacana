@@ -4,7 +4,10 @@
   "frTitle": "Très riche",
   "description": "Un touchant aperçu du chagrin que ressent un père lorsque ses fils ingrats ne l'honorent pas dans sa vieillesse. Le Bouddha a un moyen très efficace de régler la situation.",
   "body": [
-    { "pl": "sāvatthinidānaṃ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho aññataro brāhmaṇamahāsālo lūkho lūkhapāvuraṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho taṃ brāhmaṇamahāsālaṃ bhagavā etadavoca —",
       "fr": "Un jour, un certain [brahmana|brahmane] très riche vint voir le [bhagava|Fortuné], misérable, vêtu misérablement, échangea avec lui des courtoisies et des salutations amicales, puis s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui demanda:"
@@ -86,6 +89,6 @@
       "fr": "«C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bho|Honorable] Gotama, je vais en refuge au [bho|Honorable] Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Quel'[bho|Honorable] Gotama me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie.» "
     }
   ],
-  "keywords": [],
+  "keywords": ["brahmana", "bhagava", "bho", "dhamma", "sangha", "bhikkhu", "upasaka"],
   "translator": "Sekha"
 }

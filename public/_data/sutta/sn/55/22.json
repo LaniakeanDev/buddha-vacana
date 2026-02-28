@@ -4,7 +4,10 @@
   "frTitle": "Mahānamā le Sakya",
   "description": "Le Bouddha explique à Mahānāma quatre qualités dont la possession apporte le réconfort de l'ultime sécurité, le tout assorti de l'allégorie de l'arbre incliné.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho mahānāmo sakko bhagavantaṃ etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] couper les oreilles et le nez; il les Sakyas, près de Kapilavatthou, dans le parc de Nigrodhā. Ce jour-là, Mahanama le Sakya vint voir [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -46,6 +49,26 @@
       "fr": "— De la même manière, Mahānāma, un [ariyasavaka|noble disciple] qui est pourvu de ces quatre [dhamma|qualités] est incliné vers l'[nibbana|Extinction], est infléchi vers l'[nibbana|Extinction], est penché vers l'[nibbana|Extinction].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "bhikkhu",
+    "sati",
+    "dhamma",
+    "sangha",
+    "marana",
+    "papaka",
+    "ariyasavaka",
+    "nibbana",
+    "buddheaveccappasada",
+    "i][@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4"
+  ],
   "translator": "Rémy"
 }

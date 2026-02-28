@@ -4,7 +4,10 @@
   "frTitle": "L'allégorie du corps",
   "description": "Un exposé sur l'alimentation des cinq obstructions et des sept facteurs d'Éveil, introduit par l'allégorie du corps.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“seyyathāpi, bhikkhave, ayaṃ kāyo āhāraṭṭhitiko, āhāraṃ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, pañca nīvaraṇā āhāraṭṭhitikā, āhāraṃ paṭicca tiṭṭhanti, anāhārā no tiṭṭhanti.",
       "fr": "[bhikkhu|Mendiants], tout comme ce [kaya|corps] se maintient grâce à une [ahara|alimentation], il se maintient sur la base d'une [ahara|alimentation], et il ne se maintient pas sans [ahara|alimentation], de la même manière, les cinq [nivarana|obstructions] se maintiennent grâce à une [ahara|alimentation], elles se maintiennent sur la base d'une [ahara|alimentation], et elles ne se maintiennent pas sans [ahara|alimentation]."
@@ -70,6 +73,33 @@
       "fr": "[bhikkhu|Mendiants], tout comme ce [kaya|corps] se maintient grâce à une [ahara|alimentation], il se maintient sur la base d'une [ahara|alimentation], et il ne se maintient pas sans [ahara|alimentation], de la même manière, ces sept [bojjhanga|facteurs d'Éveil] se maintiennent grâce à une [ahara|alimentation], ils se maintiennent sur la base d'une [ahara|alimentation], et ils ne se maintiennent pas sans [ahara|alimentation]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "kaya",
+    "ahara",
+    "nivarana",
+    "kamacchanda",
+    "nimitta",
+    "subha",
+    "ayonisomanasikara",
+    "byapada",
+    "patigha",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "upasama",
+    "vicikiccha",
+    "dhamma",
+    "bojjhanga",
+    "sati",
+    "yonisomanasikara",
+    "kusala",
+    "akusala",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "samatha",
+    "upekkha"
+  ],
   "translator": "Rémy"
 }

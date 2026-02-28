@@ -33,6 +33,20 @@
       "fr": "Voici, [bhikkhu|mendiants], comment la [samadhi|concentration] au moyen de la [anapanassati|présence de l'esprit sur la respiration] est développée et cultivée abondamment de manière à mener à l'[pahana|abandon] des [samyojana|entraves spirituelles] (…) au déracinement des [anusaya|penchants latents] (…) à la compréhension complète du parcours (…) à la destruction des [asava|impuretés mentales]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "samadhi",
+    "anapanassati",
+    "pahana",
+    "samyojana",
+    "anusaya",
+    "asava",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl"
+  ],
   "translator": "Bhikkhu Sekha"
 }

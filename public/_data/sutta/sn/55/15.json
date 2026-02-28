@@ -29,6 +29,21 @@
       "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [dhamma|qualités] pourvu desquelles un [ariyasavaka|noble disciple] a transcendé toute peur des [duggati|mauvaises destinations] et des [vinipata|mondes inférieurs]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "ariyasavaka",
+    "dhamma",
+    "duggati",
+    "vinipata",
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4"
+  ],
   "translator": "Rémy"
 }

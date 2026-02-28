@@ -4,7 +4,10 @@
   "frTitle": "L'histoire de Bahiya",
   "description": "Bahiya vient voir le Bouddha et lui demande des instructions afin qu'il puisse pratiquer très sérieusement jusqu'à devenir arahant.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā bāhiyo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā bāhiyo bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Bahiya alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -26,6 +29,28 @@
       "fr": "Alors le [ayasma|vénérable] Bahiya, ayant approuvé les paroles du [bhagava|Fortuné], le salua, puis s'étant levé de son siège et ayant rendu hommage au [bhagava|Fortuné] en le tenant sur sa droite, s'en alla. Alors le [ayasma|vénérable] Bahiya, demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Ainsi, le [ayasma|vénérable] Bahiya devint l'un des [arahant|Méritants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "atapi",
+    "kusala",
+    "sila",
+    "ditthi",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya",
+    "jati",
+    "arahant"
+  ],
   "translator": "Bhikkhu Sekha"
 }

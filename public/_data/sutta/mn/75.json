@@ -4,7 +4,10 @@
   "frTitle": "Le discours à Māgaṇḍiya",
   "description": "Ce soutta est particulièrement intéressant dans le contexte moderne, car les opinions à dominante hédoniste exprimées ici par Māgaṇḍiya et réfutées magistralement par le Bouddha sont généralement partagées par nos semblables, et nous avons nous-même une tendance plus ou moins prononcée à nous laisser aller à les accepter. Le Bouddha offre une perspective totalement différente de ce qui est communément accepté dans notre société occidentale et une ouverture à une autre vision de la réalité.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ Bhagavā kurūsu viharati Kammāsadhammaṃ nāma kurūnaṃ nigamo, Bhāradvājagottassa brāhmaṇassa agyāgāre tiṇasanthārake. Atha kho Bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kammāsadhammaṃ piṇḍāya pāvisi. Kammāsadhammaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena aññataro vanasaṇḍo tenupasaṅkami divāvihārāya. Taṃ vanasaṇḍaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. Atha kho Māgaṇḍiyo paribbājako jaṅghāvihāraṃ anucaṅkamamāno anuvicaramāno yena Bhāradvājagottassa brāhmaṇassa agyāgāraṃ tenupasaṅkami.",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Kourous, dans une ville appelée Kammāsadhamma, sur un tapis de paille, dans le fournil d'un [brahmana|brahmane] appartenant au clan des Bhāradvājas. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Kammāsadhamma pour ses aumônes de nourriture. Ayant parcouru Kammāsadhamma pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], il se dirigea vers un certain maquis forestier pour y passer la journée. Il entra dans ce maquis forestier et s'assit au pied d'un arbre pour y passer la journée. Pendant ce temps, le [paribbajaka|vagabond spirituel] Māgaṇḍiya, en marchant et se promenant pour exercer ses mollets, arriva au fournil du [brahmana|brahmane] appartenant au clan des Bhāradvājas."
@@ -113,27 +116,42 @@
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya: idhekacco cakkhuviññeyyehi rūpehi paricāritapubbo assa iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi, so aparena samayena rūpānaṃyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ viditvā rūpataṇhaṃ pahāya rūpapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihareyya. Imassa pana te, Māgaṇḍiya, kimassa vacanīya nti?",
       "fr": "— Qu'en penses-tu Māgaṇḍiya: quelqu'un se serait auparavant fait plaisir avec les formes connaissables par l'œil qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité], mais plus tard, ayant vu [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] vis-à-vis des formes [visibles], ayant abandonné la [tanha|Soif] de formes [visibles], ayant complètement dissipé l'ardeur liée aux formes [visibles], il demeurerait dénué de soif et intérieurement calme d'[citta|esprit]. Que lui dirais-tu, Māgaṇḍiya?"
     },
-    { "pl": "Na kiñci, bho Gotama.", "fr": "— Rien, [bho|Honorable] Gotama." },
+    {
+      "pl": "Na kiñci, bho Gotama.",
+      "fr": "— Rien, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya: idhekacco sotaviññeyyehi saddehi paricāritapubbo assa, iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi. So aparena samayena saddānaṃyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ viditvā saddataṇhaṃ pahāya saddapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihareyya. Imassa pana te, Māgaṇḍiya, kimassa vacanīya nti?",
       "fr": "— Qu'en penses-tu Māgaṇḍiya: quelqu'un se serait auparavant fait plaisir avec les sons connaissables par l'oreille qui sont souhaitables, attrayants, plaisants, agréables, liés à la [kama|sensualité] et provoquant l'[raga|avidité], mais plus tard, ayant vu [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] vis-à-vis des sons, ayant abandonné la [tanha|Soif] de sons, ayant complètement dissipé l'ardeur liée aux sons, il demeurerait dénué de soif et intérieurement calme d'[citta|esprit]. Que lui dirais-tu, Māgaṇḍiya?"
     },
-    { "pl": "Na kiñci, bho Gotama.", "fr": "— Rien, [bho|Honorable] Gotama." },
+    {
+      "pl": "Na kiñci, bho Gotama.",
+      "fr": "— Rien, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya: idhekacco ghānaviññeyyehi gandhehi paricāritapubbo assa, iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi. So aparena samayena gandhānaṃyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ viditvā gandhataṇhaṃ pahāya gandhapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihareyya. Imassa pana te, Māgaṇḍiya, kimassa vacanīya nti?",
       "fr": "— Qu'en penses-tu Māgaṇḍiya: quelqu'un se serait auparavant fait plaisir avec les odeurs connaissables par le nez qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité], mais plus tard, ayant vu [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] vis-à-vis des odeurs, ayant abandonné la [tanha|Soif] d'odeurs, ayant complètement dissipé l'ardeur liée aux odeurs, il demeurerait dénué de soif et intérieurement calme d'[citta|esprit]. Que lui dirais-tu, Māgaṇḍiya?"
     },
-    { "pl": "Na kiñci, bho Gotama.", "fr": "— Rien, [bho|Honorable] Gotama." },
+    {
+      "pl": "Na kiñci, bho Gotama.",
+      "fr": "— Rien, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya: idhekacco jivhāviññeyyehi rasehi paricāritapubbo assa, iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi. So aparena samayena rasānaṃyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ viditvā rasataṇhaṃ pahāya rasapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihareyya. Imassa pana te, Māgaṇḍiya, kimassa vacanīya nti?",
       "fr": "— Qu'en penses-tu Māgaṇḍiya: quelqu'un se serait auparavant fait plaisir avec les saveurs connaissables par la langue qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité], mais plus tard, ayant vu [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] vis-à-vis des saveurs, ayant abandonné la [tanha|Soif] de saveurs, ayant complètement dissipé l'ardeur liée aux saveurs, il demeurerait dénué de soif et intérieurement calme d'[citta|esprit]. Que lui dirais-tu, Māgaṇḍiya?"
     },
-    { "pl": "Na kiñci, bho Gotama.", "fr": "— Rien, [bho|Honorable] Gotama." },
+    {
+      "pl": "Na kiñci, bho Gotama.",
+      "fr": "— Rien, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya: idhekacco kāyaviññeyyehi phoṭṭhabbehi paricāritapubbo assa, iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi. So aparena samayena poṭṭhabbānaṃyeva samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ viditvā phoṭṭhabbataṇhaṃ pahāya phoṭṭhabbapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihareyya. Imassa pana te, Māgaṇḍiya, kimassa vacanīya nti?",
       "fr": "— Qu'en penses-tu Māgaṇḍiya: quelqu'un se serait auparavant fait plaisir avec les sensations corporelles connaissables par le corps qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité], mais plus tard, ayant vu [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] vis-à-vis des sensations corporelles, ayant abandonné la [tanha|Soif] de sensations corporelles, ayant complètement dissipé l'ardeur liée aux sensations corporelles, il demeurerait dénué de soif et intérieurement calme d'[citta|esprit]. Que lui dirais-tu, Māgaṇḍiya?"
     },
-    { "pl": "Na kiñci, bho Gotama.", "fr": "— Rien, [bho|Honorable] Gotama." },
+    {
+      "pl": "Na kiñci, bho Gotama.",
+      "fr": "— Rien, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Ahaṃ kho pana, Māgaṇḍiya, pubbe agāriyabhūto samāno pañcahi kāmaguṇehi samappito samaṅgībhūto paricāresiṃ: cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi; sotaviññeyyehi saddehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi; ghānaviññeyyehi gandhehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi; jivhāviññeyyehi rasehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi; kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi.",
       "fr": "— Auparavant, Māgaṇḍiya, lorsque je vivais moi-même au foyer, je me divertissais avec les cinq [kamaguna|agréments des plaisirs sensuels] dont j'étais pourvu et nanti: les formes connaissables par l'œil qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité]; les sons connaissables par l'oreille qui sont souhaitables, attrayants, plaisants, agréables, liés à la [kama|sensualité] et provoquant l'[raga|avidité]; les odeurs connaissables par le nez qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité]; les saveurs connaissables par la langue qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité]; et les sensations corporelles connaissables par le corps qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité] et provoquant l'[raga|avidité]."
@@ -218,7 +236,10 @@
       "pl": "Taṃ kiṃ maññasi, Māgaṇḍiya, api nu te diṭṭho vā suto vā rājā vā rājamahāmatto vā pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno kāmataṇhaṃ appahāya kāmapariḷāhaṃ appaṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihāsi vā viharati vā viharissati vā ti?",
       "fr": "Qu'en penses-tu, Māgaṇḍiya: est-ce que tu as déjà vu ou entendu parler d'un roi ou de son ministre, se divertissant avec les cinq [kamaguna|agréments des plaisirs sensuels] dont il serait pourvu et nanti, n'ayant pas abandonné la [tanha|Soif] de [kama|plaisirs sensuels], n'ayant pas complètement dissipé l'ardeur liée aux [agréments de] la [kama|sensualité], qui ait demeuré, qui demeure ou qui demeurera dénué de soif et intérieurement calme d'[citta|esprit]?"
     },
-    { "pl": "No hidaṃ, bho Gotama.", "fr": "— Non, [bho|Honorable] Gotama." },
+    {
+      "pl": "No hidaṃ, bho Gotama.",
+      "fr": "— Non, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Sādhu, Māgaṇḍiya! Mayāpi kho etaṃ, Māgaṇḍiya, neva diṭṭhaṃ na sutaṃ rājā vā rājamahāmatto vā pañcahi kāmaguṇehi samappito samaṅgībhūto paricārayamāno kāmataṇhaṃ appahāya kāmapariḷāhaṃ appaṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto vihāsi vā viharati vā viharissati vā.",
       "fr": "— Excellent, Māgaṇḍiya! Moi non plus, Māgaṇḍiya, je n'ai jamais vu ni entendu parler d'un roi ou de son ministre, se divertissant avec les cinq [kamaguna|agréments des plaisirs sensuels] dont il serait pourvu et nanti, n'ayant pas abandonné la [tanha|Soif] de [kama|plaisirs sensuels], n'ayant pas complètement dissipé l'ardeur liée aux [agréments de] la [kama|sensualité], qui ait demeuré, qui demeure ou qui demeurera dénué de soif et intérieurement calme d'[citta|esprit]."
@@ -291,7 +312,10 @@
       "pl": "Seyyathāpi, Māgaṇḍiya, jaccandho puriso; so na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṃ, na passeyya tārakarūpāni, na passeyya candimasūriye. Tassa mittāmaccā ñātisālohitā bhisakkaṃ sallakattaṃ upaṭṭhāpeyyuṃ. Tassa so bhisakko sallakatto bhesajjaṃ kareyya. So taṃ bhesajjaṃ āgamma na cakkhūni uppādeyya, na cakkhūni visodheyya. Taṃ kiṃ maññasi, Māgaṇḍiya, nanu so vejjo yāvadeva kilamathassa vighātassa bhāgī assā' ti?",
       "fr": "— Imagine, Māgaṇḍiya, un aveugle-né: il ne verrait pas les formes sombres ou lumineuses, il ne verrait pas les formes bleues, ni les formes jaunes, ni les formes rouges, ni les formes roses, il ne verrait pas le formes régulières ou anguleuses, il ne verrait pas les étoiles, et il ne verrait pas la lune ni le soleil. Ses amis et ses compagnons, ses proches et les membres de sa famille le feraient soigner par un médecin chirurgien. Ce médecin chirurgien préparerait des remèdes, mais ils ne guériraient et ne purifieraient pas ses yeux. Qu'en penses-tu, Māgaṇḍiya, est ce que ce médecin ne rencontrerait pas seulement fatigue et contrariété?"
     },
-    { "pl": "Evaṃ, bho Gotama.", "fr": "— En effet, [bho|Honorable] Gotama." },
+    {
+      "pl": "Evaṃ, bho Gotama.",
+      "fr": "— En effet, [bho|Honorable] Gotama."
+    },
     {
       "pl": "Evameva kho, Māgaṇḍiya, ahañce te dhammaṃ deseyyaṃ: ‘idantaṃ ārogyaṃ, idantaṃ nibbāna’nti, so tvaṃ ārogyaṃ na jāneyyāsi, nibbānaṃ na passeyyāsi, so mamassa kilamatho, sā mamassa vihesā' ti.",
       "fr": "— De la même manière, Māgaṇḍiya, si je professais cet [dhamma|enseignement] pour toi: [i]“Voici quelle est cette santé, voici quelle est cette [nibbana|Extinction]”[/i] et que tu ne connaissais pas cette santé ni ne voyais cette [nibbana|Extinction], ce serait seulement pour ma fatigue et ma contrariété."
@@ -341,6 +365,87 @@
       "fr": "Alors Māgaṇḍiya le [paribbajaka|vagabond spirituel] obtint le [pabbajja|Départ du foyer] auprès du [bhagava|Fortuné], il obtint l'[upasampada|ordination complète]. Et peu de temps après son ordination, le [ayasma|vénérable] Māgaṇḍiya, demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Māgaṇḍiya devint l'un des [arahant|Méritants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "brahmana",
+    "patta",
+    "civara",
+    "pindapata",
+    "paribbajaka",
+    "bho",
+    "samana",
+    "i]“[@f_anussati#anussati-1-cl",
+    "deva",
+    "pandita",
+    "khattiya",
+    "ariya",
+    "dhamma",
+    "kusala",
+    "patisallana",
+    "tathagata",
+    "kama",
+    "raga",
+    "yathabhutam",
+    "samudaya",
+    "assada",
+    "adinava",
+    "nissarana",
+    "tanha",
+    "citta",
+    "kamaguna",
+    "satta",
+    "akusala",
+    "sukha",
+    "sucarita",
+    "kaya",
+    "marana",
+    "sugati",
+    "loka",
+    "sagga",
+    "tavatimsa",
+    "hetu",
+    "dukkha",
+    "indriya",
+    "sanna",
+    "udana",
+    "nibbana",
+    "saddha",
+    "arahant",
+    "sammasambuddha",
+    "magga",
+    "amata",
+    "puthujjana",
+    "cakkhu",
+    "chanda",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sankhara",
+    "vinnana",
+    "upadana",
+    "bhava",
+    "jati",
+    "jaramarana",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "sappurisa",
+    "saddhamma",
+    "dadp",
+    "nirodha",
+    "sangha",
+    "bhikkhu",
+    "upasampada",
+    "vinaya",
+    "pabbajja",
+    "ayasma",
+    "appamada",
+    "atapi",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya"
+  ],
   "translator": "Rémy"
 }

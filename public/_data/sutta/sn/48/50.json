@@ -4,7 +4,10 @@
   "frTitle": "À Apana",
   "description": "Le Bouddha demande à Saripoutta si un de ses nobles disciples entetient encore du doute par rapport à lui ou à son enseignement.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā aṅgesu viharati āpaṇaṃ nāma aṅgānaṃ nigamo. tatra kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Angans, dans un de leurs villages appelé Apana. Là, il s'adressa au [ayasma|vénérable] Saripoutta:"
@@ -62,6 +65,34 @@
       "fr": "Saripoutta, un tel [ariyasavaka|noble disciple] doué de [saddha|conviction], s'étant ainsi efforcé, ayant ainsi été présent d'esprit, s'étant ainsi concentré, ayant ainsi discerné, est ainsi convaincu: “maintenant, je touche avec le [kaya|corps] ces états dont auparavant je n'avais fait qu'entendre parler, et je vois à travers eux avec [panna|discernement].” Cette [saddha|conviction] constitue sa [indriya|faculté] de [saddha|conviction]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "ariyasavaka",
+    "tathagata",
+    "bhante",
+    "saddha",
+    "araddhaviriya",
+    "dhamma",
+    "akusala",
+    "kusala",
+    "viriya",
+    "indriya",
+    "satima",
+    "sati",
+    "samadhi",
+    "ekaggata",
+    "citta",
+    "samsara",
+    "avijja",
+    "tanha",
+    "viraga",
+    "nirodha",
+    "samatha",
+    "sankhara",
+    "nibbana",
+    "panna",
+    "kaya"
+  ],
   "translator": "Sekha"
 }

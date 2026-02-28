@@ -17,6 +17,20 @@
       "fr": "Un [bhikkhu|mendiant] chez qui ces trois [types d'][bhava|existence] sont abandonnées et qui a parachevé ces trois [sikkha|entraînements] est appelé un [bhikkhu|mendiant] qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves], et qui par la compréhension correcte de la [maana|prétention] a mis fin au [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhava",
+    "sikkha",
+    "kamabhava",
+    "rupabhava",
+    "arupabhava",
+    "adhisilasikkha",
+    "adhicittasikkha",
+    "adhipannasikkha",
+    "tanha",
+    "samyojana",
+    "maana",
+    "dukkha"
+  ],
   "translator": "Rémy"
 }

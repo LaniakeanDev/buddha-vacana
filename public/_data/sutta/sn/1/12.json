@@ -4,7 +4,10 @@
   "frTitle": "Il jouit",
   "description": "Les possessions constituent-elles le bonheur suprême?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:",
       "fr": "Alors qu'il se tenait debout d'un côté, le [deva|déva] prononça ces vers en présence du [bhagava|Fortuné]:"
@@ -18,6 +21,6 @@
       "fr": "[Le [bhagava|Fortuné]:][i]Celui qui a des enfants est tourmenté à cause de ses enfantsCelui qui a du bétail est tourmenté en vérité à cause de son bétailLes [upadhi|possessions] sont le tourment des hommesEt celui qui n'a pas de [upadhi|possessions] n'est pas tourmenté.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["deva", "bhagava", "upadhi"],
   "translator": "Rémy"
 }

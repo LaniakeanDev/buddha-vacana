@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "identifier": "SN 9.1",
+    "plTitle": "Viveka Sutta",
+    "frTitle": "En isolement",
+    "description": "Un mendiant en isolement est assailli par des pensées liées à la vie de foyer. Un déva vient l'aider.",
+    "keywords": [
+      "bhikkhu",
+      "vitakka",
+      "papaka",
+      "akusala",
+      "deva",
+      "samvega",
+      "viveka",
+      "mana",
+      "chanda",
+      "sukha",
+      "raga",
+      "sati",
+      "kama",
+      "padhana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 9.11",
+    "plTitle": "Akusalavitakka Sutta",
+    "frTitle": "Des pensées désavantageuses",
+    "description": "Un mendiant est dévoré par ses pensées malsaines. Un déva vient à son secours.",
+    "keywords": [
+      "bhikkhu",
+      "vitakka",
+      "papaka",
+      "akusala",
+      "kama",
+      "byapada",
+      "vihimsa",
+      "deva",
+      "samvega",
+      "i]Celui qui [aymk",
+      "dhamma",
+      "sangha",
+      "sila",
+      "pamojja",
+      "piti",
+      "sukha",
+      "dukkha"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "11",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 9.9",
+    "plTitle": "Vajjiputta Sutta",
+    "frTitle": "Un enfant vajji",
+    "description": "Un mendiant vajji est déconcentré par un festival nocturne à Vessali.",
+    "keywords": ["bhikkhu", "deva", "samvega"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "9",
+    "readingTime": 0
+  }
+]

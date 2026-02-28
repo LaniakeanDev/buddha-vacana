@@ -4,7 +4,10 @@
   "frTitle": "Saranani le Sakya",
   "description": "Saranani est décédé, et bien qu'il s'était mis à boire, le Bouddha déclare qu'il est entré dans le courant. Les disciples sont perplexes, et Mahanama va demander des explications au Bouddha.",
   "body": [
-    { "pl": "kapilavatthunidānaṃ.", "fr": "À Kapilavatthou." },
+    {
+      "pl": "kapilavatthunidānaṃ.",
+      "fr": "À Kapilavatthou."
+    },
     {
       "pl": "tena kho pana samayena saraṇāni sakko kālaṅkato hoti. so bhagavatā byākato “sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti. tatra sudaṃ sambahulā sakkā saṅgamma samāgamma ujjhāyanti khīyanti vipācenti:",
       "fr": "Ce jour-là, Saranani le Sakya était décédé et le [bhagava|Fortuné] avait déclaré qu'il était [sotapanna|entré dans le courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]. Alors un certain nombre de Sakyas, s'étant rassemblés et réunis, s'exaspéraient, rouspétaient et s'énervaient:"
@@ -78,6 +81,52 @@
       "fr": "Mahanama, s'ils comprenaient ce qui est bien dit et ce qui est mal dit, je déclarerais même ces grands arbres sals: [i]“Ils sont [sotapanna|entrés dans le courant], [dhamma|par nature] délivrés des [vinipata|mondes inférieurs], fixés sur la voie de l'[sambodhi|éveil].”[/i] Et alors, ô combien plus Saranani le Sakya! Mahanama, Saranani le Sakya, au moment de la [marana|mort], a entrepris l'[sikkha|entraînement].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "sotapanna",
+    "dhamma",
+    "vinipata",
+    "sambodhi",
+    "bho",
+    "sotapatti",
+    "sikkha",
+    "bhante",
+    "upasaka",
+    "buddha",
+    "sangha",
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "panna",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "abhinna",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "apaya",
+    "dugati",
+    "samyojana",
+    "opapatika",
+    "parinibbana",
+    "loka",
+    "raga",
+    "dosa",
+    "moha",
+    "sakadagami",
+    "dukkha",
+    "indriya",
+    "saddha",
+    "virya",
+    "sati",
+    "samadhi",
+    "tathagata",
+    "marana"
+  ],
   "translator": "Rémy"
 }

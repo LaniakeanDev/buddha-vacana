@@ -4,7 +4,10 @@
   "frTitle": "Que faut-il avoir pourfendu?",
   "description": "Sakka demande au Bouddha ce qui doit être tué.",
   "body": [
-    { "pl": "sāvatthiyaṃ jetavane. ", "fr": "A Savatthi, dans le bois de Jéta." },
+    {
+      "pl": "sāvatthiyaṃ jetavane. ",
+      "fr": "A Savatthi, dans le bois de Jéta."
+    },
     {
       "pl": "atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho sakko devānamindo bhagavantaṃ gāthāya ajjhabhāsi:",
       "fr": "Ce jour-là, Sakka le roi des [deva|dévas] vint voir le [bhagava|Fortuné], lui rendit hommage puis se tint debout d'un côté. Tandis qu'il se tenait là debout, il s'adressa à lui en vers:"
@@ -14,6 +17,6 @@
       "fr": "[i]Qu'est-ce qu'ayant pourfendu on dort avec [sukha|bien-être]?Qu'est-ce qu'ayant pourfendu on ne s'afflige pas?Quelle est la chose dont GotamaApprouve le massacre?[Le [bhagava|Fortuné]:]En ayant pourfendu la colère, on dort avec bien-être.En ayant pourfendu la colère, on ne s'afflige pas.C'est le massacre de la colère avec sa racine empoisonnéeEt son extrémité mielleuse, ô [brahmana|brahmane],Que les [ariya|êtres nobles] félicitent,Car l'ayant pourfendue, on ne s'afflige pas.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["deva", "bhagava", "sukha", "brahmana", "ariya"],
   "translator": "Rémy"
 }

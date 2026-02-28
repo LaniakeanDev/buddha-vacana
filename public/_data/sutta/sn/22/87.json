@@ -4,7 +4,10 @@
   "frTitle": "À Vakkali",
   "description": "Le Bouddha donne à Vakkali, un mendiant à l'article de la mort, une leçon restée célèbre.",
   "body": [
-    { "pl": "(...)", "fr": "(...)" },
+    {
+      "pl": "(...)",
+      "fr": "(...)"
+    },
     {
       "pl": "addasā kho āyasmā vakkali bhagavantaṃ dūratova āgacchantaṃ. disvāna mañcake samadhosi. atha kho bhagavā āyasmantaṃ vakkaliṃ etadavoca",
       "fr": "Le [ayasma|vénérable] Vakkali vit le [bhagava|Fortuné] arriver de loin et se leva de son lit. Alors le [bhagava|Fortuné] lui dit:"
@@ -54,6 +57,6 @@
       "fr": "— Cela suffit, Vakkali! Pourquoi veux-tu voir ce corps répugnant? Celui, Vakkali, qui voit le [dhamma|Dhamma], me voit; et celui qui me voit, voit le [dhamma|Dhamma]. Car en voyant le [dhamma|Dhamma], on me voit; et en me voyant, on voit le [dhamma|Dhamma]."
     }
   ],
-  "keywords": [],
+  "keywords": ["ayasma", "bhagava", "bhante", "sila", "dhamma"],
   "translator": "Rémy"
 }

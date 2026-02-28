@@ -4,7 +4,10 @@
   "frTitle": "Une explication pour Tchounda",
   "description": "Tchounda adhère à des rites de purification brahmaniques, mais le Bouddha lui explique que la réelle purification est toute autre et qu'elle supplante le recours à n'importe quel type de rituel. Il définit également en détail ce qu'il entend par les cinq préceptes, qui sont inclus dans les cheminements d'action avantageux qui sont décrits dans ce soutta.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā pāvāyaṃ viharati cundassa kammāra-puttassa amba-vane. Atha kho cundo kammāra-putto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho cundaṃ kammāra-puttaṃ bhagavā etadavoca:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Pāvā, dans la mangueraie de Tchounda le fils de forgeron. Ce jour-là, Tchounda vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui dit:"
@@ -45,7 +48,10 @@
       "pl": "– Tividhaṃ kho, cunda, kāyena a-soceyyaṃ hoti; catubbidhaṃ vācāya a-soceyyaṃ hoti; tividhaṃ manasā a-soceyyaṃ hoti.",
       "fr": "– Il y a, Tchounda, trois manières de se rendre impur corporellement, quatre manières de se rendre impur verbalement et trois manières de se rendre impur mentalement."
     },
-    { "pl": "(Kāyena asoceyya)", "fr": "(Impureté corporelle)" },
+    {
+      "pl": "(Kāyena asoceyya)",
+      "fr": "(Impureté corporelle)"
+    },
     {
       "pl": "Kathañca, cunda, tividhaṃ kāyena a-soceyyaṃ hoti? Idha, cunda, ekacco pāṇātipātī hoti: luddo lohita-pāṇi hata-pahate niviṭṭho a-dayāpanno pāṇa-bhūtesu.",
       "fr": "Et comment se rend-on impur corporellement de trois manières? À cet égard, Tchounda, un certain individu [panatipata|détruit la vie]: il est meurtrier, il a du sang sur les mains, il se voue au massacre, sans pitié pour les êtres vivants."
@@ -62,7 +68,10 @@
       "pl": "Evaṃ kho, cunda, tividhaṃ kāyena a-soceyyaṃ hoti.",
       "fr": "Voici, Tchounda, comment on se rend impur corporellement de trois manières."
     },
-    { "pl": "(Vācāya asoceyya)", "fr": "(Impureté verbale)" },
+    {
+      "pl": "(Vācāya asoceyya)",
+      "fr": "(Impureté verbale)"
+    },
     {
       "pl": "Kathañca, cunda, catubbidhaṃ vācāya a-soceyyaṃ hoti? Idha, cunda, ekacco musāvādī hoti: sabha·ggato vā parisa·ggato vā ñāti-majjha-gato vā pūga-majjha-gato vā rāja-kula-majjha-gato vā abhinīto sakkhipuṭṭho ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti, so a-jānaṃ vā āha ‘jānāmī’ti, jānaṃ vā āha ‘na jānāmī’ti; a-passaṃ vā āha ‘passāmī’ti, passaṃ vā āha ‘na passāmī’ti. Iti atta-hetu vā para-hetu vā āmisa-kiñcikkha-hetu vā sampajāna-musā bhāsitā hoti.",
       "fr": "Et comment se rend-on impur verbalement de quatre manières? À cet égard, Tchounda, un certain individu prononce des [musavada|paroles mensongères]: si, étant convoqué dans une salle de réunion ou devant une assemblée, au milieu de ses proches, au milieu de ses collègues ou devant la famille royale, on lui demande de témoigner: [i]“Venez, mon cher, dites ce que vous savez”[/i], alors ne sachant pas, il dit: [i]“Je sais”[/i], ou bien sachant, il dit: [i]“Je ne sais pas”[/i], ou bien n'ayant pas vu, il dit: [i]“J'ai vu”[/i], ou bien ayant vu, il dit: [i]“Je n'ai pas vu”[/i]. Ainsi, dans son intérêt personnel ou dans celui d'un autre, ou bien pour acquérir un gain mondain dérisoire, il prononce délibérément un mensonge."
@@ -83,7 +92,10 @@
       "pl": "Evaṃ kho, cunda, catubbidhaṃ vācāya a-soceyyaṃ hoti.",
       "fr": "Voici, Tchounda, comment on se rend impur verbalement de quatre manières."
     },
-    { "pl": "(Manasā asoceyya)", "fr": "(Impureté mentale)" },
+    {
+      "pl": "(Manasā asoceyya)",
+      "fr": "(Impureté mentale)"
+    },
     {
       "pl": "Kathañca, cunda, tividhaṃ manasā a-soceyyaṃ hoti? Idha, cunda, ekacco abhijjhālu hoti: yaṃ taṃ parassa para-vitt·ūpakaraṇaṃ taṃ abhijjhātā hoti aho vata yaṃ parassa taṃ mamassā’ti.",
       "fr": "Et comment se rend-on impur mentalement de trois manières? À cet égard, Tchounda, un certain individu est [abhijjha|envieux]: il envie les biens et accessoires des autres [en pensant:] [i]“Ah! Que ce qui est à un autre soit à moi!”[/i]"
@@ -112,7 +124,10 @@
       "pl": "Tividhaṃ kho, cunda, kāyena soceyyaṃ hoti, catubbidhaṃ vācāya soceyyaṃ hoti, tividhaṃ manasā soceyyaṃ hoti.",
       "fr": "Il y a, Tchounda, trois manières de se purifier corporellement, quatre manières de se purifier verbalement et trois manières de se purifier mentalement."
     },
-    { "pl": "(Kāyena soceyya)", "fr": "(Pureté corporelle)" },
+    {
+      "pl": "(Kāyena soceyya)",
+      "fr": "(Pureté corporelle)"
+    },
     {
       "pl": "kathaṃ, cunda, tividhaṃ kāyena soceyyaṃ hoti? Idha, cunda, ekacco pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti: nihita-daṇḍo nihita-sattho, lajjī dayāpanno, sabba-pāṇa-bhūta-hitānukampī viharati.",
       "fr": "Et comment se purifie-t-on corporellement de trois manières? À cet égard, Tchounda, un certain individu, ayant abandonné la [panatipata|destruction de la vie], s'abstient de détruire la vie, et ayant déposé le bâton, déposé les armes, il demeure consciencieux, aimable, ayant de la sollicitude pour le bénéfice de tous les êtres vivants."
@@ -129,7 +144,10 @@
       "pl": "Evaṃ kho, cunda, tividhaṃ kāyena soceyyaṃ hoti.",
       "fr": "Voici, Tchounda, comment on se purifie corporellement de trois manières."
     },
-    { "pl": "(Vācāya soceyya)", "fr": "(Pureté verbale)" },
+    {
+      "pl": "(Vācāya soceyya)",
+      "fr": "(Pureté verbale)"
+    },
     {
       "pl": "Kathañca, cunda, catubbidhaṃ vācāya soceyyaṃ hoti? Idha, cunda, ekacco musāvādaṃ pahāya musāvādā paṭivirato hoti: sabha·ggato vā parisa·ggato vā ñāti-majjha-gato vā pūga-majjha-gato vā rāja-kula-majjha-gato vā abhinīto sakkhipuṭṭho ‘eham-bho purisa, yaṃ jānāsi taṃ vadehī’ti, so a-jānaṃ vā āha ‘na jānāmī’ti, jānaṃ vā āha ‘jānāmī’ti, a-passaṃ vā āha ‘na passāmī’ti, passaṃ vā āha ‘passāmī’ti. Iti atta-hetu vā para-hetu vā āmisa-kiñcikkha-hetu vā na sampajāna-musā bhāsitā hoti.",
       "fr": "Et comment se purifie-t-on verbalement de quatre manières? À cet égard, Tchounda, un certain individu, ayant abandonné les [musavada|paroles mensongères], s'abstient des [musavada|paroles mensongères]: si, étant convoqué dans une salle de réunion ou devant une assemblée, au milieu de ses proches, au milieu de ses collègues ou devant la famille royale, on lui demande de témoigner: [i]“Venez, mon cher, dites ce que vous savez”[/i], alors ne sachant pas, il dit: [i]“Je ne sais pas”[/i], ou bien sachant, il dit: [i]“Je sais”[/i], ou bien n'ayant pas vu, il dit: [i]“Je n'ai pas vu”[/i], ou bien ayant vu, il dit: [i]“J'ai vu”[/i]. Ainsi, que ce soit dans son intérêt personnel ou dans celui d'un autre, ou bien pour acquérir un gain mondain dérisoire, il ne prononce pas délibérément de mensonge."
@@ -150,7 +168,10 @@
       "pl": "Evaṃ kho, cunda, catubbidhaṃ vācāya a-soceyyaṃ hoti.",
       "fr": "Voici, Tchounda, comment on se purifie verbalement de quatre manières."
     },
-    { "pl": "(Manasā soceyya)", "fr": "(Pureté mentale)" },
+    {
+      "pl": "(Manasā soceyya)",
+      "fr": "(Pureté mentale)"
+    },
     {
       "pl": "Kathañca, cunda, tividhaṃ manasā soceyyaṃ hoti? Idha, cunda, ekacco an-abhijjhālu hoti: yaṃ taṃ parassa para-vitt·ūpakaraṇaṃ taṃ an-abhijjhitā hoti ‘aho vata yaṃ parassa taṃ mamassā’ti.",
       "fr": "Et comment se purifie-t-on mentalement de trois manières? À cet égard, Tchounda, un certain individu n'est pas [abhijjha|envieux]: il n'envie pas les biens et accessoires des autres [en pensant:] [i]“Ah! Que ce qui est à un autre soit à moi!”[/i]"
@@ -184,6 +205,45 @@
       "fr": "– C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] “Ceux qui possèdent une bonne vue verront les formes”, de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "vinaya",
+    "ariya",
+    "dhamma",
+    "panatipata",
+    "aaaaaaa",
+    "kamesumicchacara",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samadhi",
+    "samphappalapa",
+    "abhijjha",
+    "citta",
+    "byapada",
+    "sankappa",
+    "micchaditthi",
+    "loka",
+    "opapatika",
+    "samana",
+    "brahmana",
+    "abhinna",
+    "akusalakammapatha",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "duggati",
+    "adinnadana",
+    "abyapada",
+    "sukha",
+    "sammaditthi",
+    "kusalakammapatha",
+    "deva",
+    "sugati",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Rémy"
 }

@@ -4,12 +4,18 @@
   "frTitle": "Des bûches pour oreillers",
   "description": "Une chose que des [bhikkhu|mendiants] et des soldats licchavīs ont en commun et qui les rend invincibles face à l'ennemi.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "— [bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "— [bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— Oui, [bhadante|Bhadanté], répondirent-ils. Le [bhagava|Fortuné]leur dit:"
@@ -27,6 +33,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Utilisant des bûches comme oreillers, nous demeurerons [appamada|diligents] et [atapi|ardents] dans l'effort.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "appamada", "atapi", "mara"],
   "translator": "Rémy"
 }

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "identifier": "SN 13.1",
+    "plTitle": "Nakhasikhā Sutta",
+    "frTitle": "Le coin de l'ongle",
+    "description": "Le Bouddha illustre les bienfaits de l'entrée dans le courant à l'aide d'un brin de terre sur le coin de son ongle.",
+    "keywords": ["bhagava", "bhikkhu", "bhante", "dukkha", "ariyasavaka", "ditthisampanna", "dhamma", "dhammacakkhu"],
+    "translator": "Sekha.",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 13.8",
+    "plTitle": "Samudda Sutta",
+    "frTitle": "L'océan",
+    "description": "Le Bouddha donne une idée de la quantité de mal-être restant après l'expérience de l'entrée dans le courant, en rapport à celle qu'a éprouvé l'individu dans ses innombrables existences.",
+    "keywords": ["bhikkhu", "ariyasavaka", "ditthisampanna", "dukkha", "dhamma", "dhammacakkhu"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "8",
+    "readingTime": 1
+  }
+]

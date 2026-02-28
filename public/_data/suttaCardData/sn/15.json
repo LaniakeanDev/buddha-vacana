@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "identifier": "SN 15.3",
+    "plTitle": "Assu Sutta",
+    "frTitle": "Les larmes",
+    "description": "Quel est le plus volumineux: les larmes versées ou les océans?",
+    "keywords": ["samsara", "bhikkhu", "avijja", "tanha", "dukkha", "sankhara"],
+    "translator": "Sekha.",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 15.9",
+    "plTitle": "Daṇḍa Sutta",
+    "frTitle": "Comme un bâton",
+    "description": "En l'absence de contact avec la connaissance de la réalité, on erre aléatoirement et indéfiniment dans le cycle de transmigration. Un discours qui parle tout spécialement à ceux qui ont appris à se rappeler leurs vies passées.",
+    "keywords": ["samsara", "bhikkhu", "avijja", "tanha", "loka", "dukkha", "sankhara"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "9",
+    "readingTime": 1
+  }
+]

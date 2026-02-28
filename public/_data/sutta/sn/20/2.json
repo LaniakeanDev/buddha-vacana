@@ -4,7 +4,10 @@
   "frTitle": "Le coin de l'ongle",
   "description": "Une allégorie pour comprendre quelle est la proportion d'êtres humains dans l'univers.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati.", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "atha kho bhagavā parittaṃ nakhasikhāyaṃ paṃsuṃ āropetvā bhikkhū āmantesi —",
       "fr": "Ce jour-là, ayant mis un brin de terre sur le coin de son ongle, il s'adressa aux [bhikkhu|mendiants]:"
@@ -26,6 +29,6 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous resterons [appamada|assidus]”[/i]. Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhante", "satta", "appamada"],
   "translator": "Sekha"
 }

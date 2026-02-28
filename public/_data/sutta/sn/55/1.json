@@ -4,7 +4,10 @@
   "frTitle": "Un monarque qui fait tourner la roue",
   "description": "Voici comment un mendiant vêtu de loques peut être plus à l'aise qu'un monarque universel ayant accès à des quantités de plaisirs divins.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "kiñcāpi, bhikkhave, rājā cakkavattī catunnaṃ dīpānaṃ issariyādhipaccaṃ rajjaṃ kāretvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati devānaṃ tāvatiṃsānaṃ sahabyataṃ, so tattha nandane vane accharāsaṅghaparivuto dibbehi ca pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, so catūhi dhammehi asamannāgato, atha kho so aparimuttova nirayā aparimutto tiracchānayoniyā aparimutto pettivisayā aparimutto apāyaduggativinipātā.",
       "fr": "[bhikkhu|Mendiants], bien qu'un monarque [cakkavatti|qui fait tourner la roue], ayant exercé son pouvoir, son empire et sa souveraineté sur les quatre continents, lors de la dissolution du corps, après la [marana|mort], réapparaisse dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque], en compagnie des [deva|dévas] de [tavatimsa|Tavatimsa] et que là, entouré dans le jardin du Plaisir d'une compagnie de nymphes célestes, il se divertisse avec les cinq [kamaguna|agréments des plaisirs sensuels] [deva|déviques] dont il est pourvu et nanti, puisqu'il ne possède pas quatre [dhamma|qualités], il n'est toujours pas délivré de [niraya|l'enfer], il n'est pas délivré du [tiracchanayoni|sein animal], il n'est pas délivré du [pettivisaya|plan d'existence des esprits affligés], il n'est pas délivré des [apaya|existences infortunées], des [dugati|mauvaises destinations], des [vinipata|mondes inférieurs]."
@@ -34,6 +37,33 @@
       "fr": "Il possède ces quatre [dhamma|qualités]. Et entre l'acquisition des quatre continents et l'acquisition de ces quatre [dhamma|qualités], l'acquisition des quatre continents ne vaut pas un seizième de l'acquisition de ces quatre [dhamma|qualités]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "cakkavatti",
+    "marana",
+    "sugati",
+    "loka",
+    "sagga",
+    "deva",
+    "tavatimsa",
+    "kamaguna",
+    "dhamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "apaya",
+    "dugati",
+    "vinipata",
+    "ariyasavaka",
+    "buddheaveccappasada",
+    "i][@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4"
+  ],
   "translator": "Sekha"
 }

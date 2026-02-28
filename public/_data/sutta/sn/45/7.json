@@ -4,7 +4,10 @@
   "frTitle": "Un certain mendiant",
   "description": "Qu'est-ce que l'élimination de l'avidité, de l'aversion et de la délusion? Qu'est-ce que le Sans-mort?",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, un certain [bhikkhu|mendiant] vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -30,6 +33,29 @@
       "fr": "—[bhikkhu|Mendiant], l'[vinaya|élimination] de l'[raga|avidité], l'[vinaya|élimination] de l'[dosa|aversion], et l'[vinaya|élimination] de la [moha|délusion] est ce qu'on appelle le [amata|Sans-mort]. La [magga|voie] menant au [amata|Sans-mort] est cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“l'[vinaya",
+    "raga",
+    "vinaya",
+    "dosa",
+    "moha",
+    "dathu",
+    "nibbana",
+    "asava",
+    "amata",
+    "magga",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

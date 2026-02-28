@@ -4,7 +4,10 @@
   "frTitle": "Sujets de conversation",
   "description": "Dans cet extrait, le Bouddha définit ce que sont les tiracchānakathās, sujets de conversations vulgaires, et quels devraient être les sujets de conversations corrects. Seul un extrait est publié, car il y a des doutes concernant l'authenticité et l'orthodoxie des autres parties du sutta.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "Na kho panetaṃ, bhikkhave, tumhākaṃ patirūpaṃ kulaputtānaṃ saddhāya agārasmā anagāriyaṃ pabbajitānaṃ, yaṃ tumhe anekavihitaṃ tiracchānakathaṃ anuyuttā vihareyyātha, seyyathidaṃ rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ pubbapetakathaṃ nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vāti.",
       "fr": "Il n'est pas convenable pour vous, [bhikkhu|mendiants], gentilhommes ayant [pabbaja|quitté la vie de foyer] pour le [anagariya|sans-foyer] par [saddha|conviction], que vous vous adonniez à diverses sortes de “conversations animales” telles que les conversations à propos de rois, à propos de voleurs, à propos de ministres, à propos d'armées, à propos de dangers, à propos de guerres, à propos de nourriture, à propos de boissons, à propos de vêtements, à propos de lits, à propos de guirlandes, à propos de parfums, à propos de proches relations, à propos de véhicules, à propos de villages, à propos de villes, à propos de cités, à propos de pays, à propos de femmes, à propos de héros, à propos de la rue, à propos de commérages du puits, conversations à propos des esprits défunts, conversations à propos de diverses distractions, conversations à propos de contes et légendes concernant le monde, de contes et légendes concernant l'océan, à propos de devenir comme ceci ou comme cela."
@@ -14,6 +17,20 @@
       "fr": "Il y a, [bhikkhu|mendiants], dix sujets de conversation [convenables]. Quels sont ces dix? Les conversations à propos du [appicchata|peu de désirs], de la [santuttha|satisfaction [avec ce qu'on a]], de l'[paviveka|isolement], de la non-association [avec les autres], de l'[viriyarambha|activation de l'énergie], de la [sila|vertu], de la [samadhi|concentration], du [panna|discernement], de la [vimutti|libération], de la [nanadassana|connaissance & vision] de la [vimutti|libération]. Voici, [bhikkhu|mendiants], quels sont ces dix sujets de conversation [convenables]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "pabbaja",
+    "anagariya",
+    "saddha",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "viriyarambha",
+    "sila",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana"
+  ],
   "translator": "Rémy"
 }

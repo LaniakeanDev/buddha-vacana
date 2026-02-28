@@ -4,7 +4,10 @@
   "frTitle": "Après la bataille",
   "description": "Passénadi perd une bataille contre l'armée d'Ajatassattou. Le Bouddha en profite pour commenter sur l'abandon de la victoire et la défaite.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi. assosi kho rājā pasenadi kosalo — “rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī””ti. atha kho rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi. atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ. tasmiṃ kho pana saṅgāme rājā māgadho ajātasattu vedehiputto rājānaṃ pasenadiṃ kosalaṃ parājesi. parājito ca rājā pasenadi kosalo sakameva rājadhāniṃ sāvatthiṃ paccuyyāsi .",
       "fr": "Ce jour-là, Ajatassattou Védéhipoutta le roi du Magadha rassembla son armée avec ses quatre corps et la mit en marche vers Kassi, à l'encontre du roi Passénadi du Kossala. En l'apprenant, le roi Passénadi du Kossala rassembla son armée avec ses quatre corps et se dirigea vers Kassi, à la rencontre d'Ajatassattou Védéhipoutta le roi du Magadha. Alors Ajatassattou Védéhipoutta le roi du Magadha et le roi Passénadi du Kossala entrèrent en bataille. Au cours de cette bataille, Ajatassattou Védéhipoutta le roi du Magadha vainquit le roi Passénadi du Kossala. Vaincu, le roi Passénadi du Kossala se replia sur sa capitle, Savatthi."
@@ -26,6 +29,6 @@
       "fr": "La victoire engendre le ressentiment,[@v]Celui qui est vaincu dort dans le [dukkha|mal-être].[@v]Celui qui est paisible dort dans le [sukha|bien-être],[@v]Ayant éliminé victoire et défaite."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "patta", "civara", "pindapata", "bhagava", "kalyanamittata", "kalyana", "dukkha", "sukha"],
   "translator": "Sekha"
 }

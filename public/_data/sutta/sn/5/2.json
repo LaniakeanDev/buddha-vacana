@@ -4,7 +4,10 @@
   "frTitle": "La mendiante Soma",
   "description": "Māra tente de déconcentrer la mendiante Somā en lui suggérant que la libération ne peut être atteinte par une femme.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho somā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā somāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena somā bhikkhunī tenupasaṅkami; upasaṅkamitvā somaṃ bhikkhuniṃ gāthāya ajjhabhāsi:",
       "fr": "Ce matin-là, la [bhikkhuni|mendiante] Soma s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Soma, souhaitant la faire tomber de sa [samadhi|concentration], s'approcha d'elle et s'adressa à elle en vers:"
@@ -26,6 +29,6 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Soma me connaît,”[/i] disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhuni", "patta", "civara", "pindapata", "mara", "samadhi", "panna", "citta", "nana", "dhamma"],
   "translator": "Rémy"
 }

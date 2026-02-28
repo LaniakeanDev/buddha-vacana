@@ -4,7 +4,10 @@
   "frTitle": "L'ignorance",
   "description": "Une série de 55 souttas dans lesquels Vatchagotta le vagabond spirituel demande au Bouddha ce qui fait que les gens adhèrent à des vues erronées.",
   "body": [
-    { "pl": "SN 33.1", "fr": "SN 33.1" },
+    {
+      "pl": "SN 33.1",
+      "fr": "SN 33.1"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, Vatchagotta le [paribbajaka|vagabond spirituel] vint voir le [bhagava|Fortuné], échangea avec lui des courtoisies et des salutations amicales, puis s'assit d'un côté et lui dit:"
@@ -17,7 +20,10 @@
       "pl": "“rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti — sassato lokoti vā … pe … neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti — sassato lokoti vā, asassato lokoti vā … pe … neva hoti na na hoti tathāgato paraṃ maraṇāti vā””ti.",
       "fr": "—Vatcha, c'est à cause de l'ignorance par rapport à la [rupa|Forme], de l'ignorancepar rapport à l'apparition de la [rupa|Forme], de l'ignorancepar rapport à la cessation de la [rupa|Forme], et de l'ignorancepar rapport à la voie menant à la cessation de la [rupa|Forme] que ces diverses vues apparaissent dans le monde: [i]“le [loka|monde] est éternel”[/i] (…) [i]“le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort]”[/i]. Voici, Vatcha, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle ces diverses vues apparaissent dans le monde: [i]“le [loka|monde] est éternel”[/i] (…) [i]“le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort]”[/i].»"
     },
-    { "pl": "SN 33.2", "fr": "SN 33.2" },
+    {
+      "pl": "SN 33.2",
+      "fr": "SN 33.2"
+    },
     {
       "pl": "sāvatthinidānaṃ. ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca —",
       "fr": "À Savatthi. Une fois assis d'un côté, Vatchagotta le [paribbajaka|vagabond spirituel] dit au [bhagava|Fortuné]:"
@@ -30,49 +36,129 @@
       "pl": "“vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti — sassato lokoti vā, asassato lokoti vā … pe … neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti — sassato lokoti vā, asassato lokoti vā … pe … neva hoti na na hoti tathāgato paraṃ maraṇāti vā””ti.",
       "fr": "—Vatcha, c'est à cause de l'ignorance par rapport au [vedana|Ressenti], de l'ignorancepar rapport à l'apparition du [vedana|Ressenti], l'ignorancepar rapport à la cessation du [vedana|Ressenti], et de l'ignorancepar rapport à la voie menant à la cessation du [vedana|Ressenti] que ces diverses vues apparaissent dans le monde: [i]“le [loka|monde] est éternel”[/i] (…) [i]“le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort]”[/i]. Voici, Vatcha, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle ces diverses vues apparaissent dans le monde: [i]“le [loka|monde] est éternel”[/i] (…) [i]“le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort]”[/i].»"
     },
-    { "pl": "SN 33.3", "fr": "SN 33.3" },
-    { "pl": "sāvatthinidānaṃ. … pe …", "fr": "À Savatthi. (…)" },
+    {
+      "pl": "SN 33.3",
+      "fr": "SN 33.3"
+    },
+    {
+      "pl": "sāvatthinidānaṃ. … pe …",
+      "fr": "À Savatthi. (…)"
+    },
     {
       "pl": "“saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti … pe …",
       "fr": "Vatcha, c'est à cause de l'ignorance par rapport à la [sanna|Perception], de l'ignorancepar rapport à l'apparition de la [sanna|Perception], l'ignorancepar rapport à la cessation de la [sanna|Perception], et de l'ignorancepar rapport à la voie menant à la cessation de la [sanna|Perception] que ces diverses vues apparaissent dans le monde (…)"
     },
-    { "pl": "SN 33.4", "fr": "SN 33.4" },
+    {
+      "pl": "SN 33.4",
+      "fr": "SN 33.4"
+    },
     {
       "pl": "… pe … “saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti … pe …",
       "fr": "(…) Vatcha, c'est à cause de l'ignorance par rapport aux [sankhara|Constructions], de l'ignorancepar rapport à l'apparition des [sankhara|Constructions], l'ignorancepar rapport à la cessation des [sankhara|Constructions], et de l'ignorancepar rapport à la voie menant à la cessation des [sankhara|Constructions] que ces diverses vues apparaissent dans le monde (…)"
     },
-    { "pl": "SN 33.5", "fr": "SN 33.5" },
+    {
+      "pl": "SN 33.5",
+      "fr": "SN 33.5"
+    },
     {
       "pl": "… pe … “viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti … pe …",
       "fr": "(…) Vatcha, c'est à cause de l'ignorance par rapport à la [vinnana|Conscience], de l'ignorancepar rapport à l'apparition de la [vinnana|Conscience], l'ignorancepar rapport à la cessation de la [vinnana|Conscience], et de l'ignorancepar rapport à la voie menant à la cessation de la [vinnana|Conscience] que ces diverses vues apparaissent dans le monde (…)"
     },
-    { "pl": "SN 33.6—10", "fr": "SN 33.6—10" },
+    {
+      "pl": "SN 33.6—10",
+      "fr": "SN 33.6—10"
+    },
     {
       "pl": "… pe … “rūpe kho, vaccha, adassanā … pe … vedanāya … pe … saññāya … pe … saṅkhāresu … pe … viññāṇe kho, vaccha, adassanā, viññāṇasamudaye adassanā, viññāṇanirodhe adassanā, viññāṇanirodhagāminiyā paṭipadāya adassanā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti … pe …",
       "fr": "(…) Vatcha, c'est à cause du manque de vision par rapport à la [rupa|Forme] (…) au [vedana|Ressenti] (…) à la [sanna|Perception] (…) aux [sankhara|Constructions] (…) à la [vinnana|Conscience], du manque de visionpar rapport à l'apparition de la [vinnana|Conscience], du manque de visionpar rapport à la cessation de la [vinnana|Conscience], et du manque de visionpar rapport à la voie menant à la cessation de la [vinnana|Conscience] que ces diverses vues apparaissent dans le monde (…)"
     },
-    { "pl": "SN 33.11—15", "fr": "SN 33.11—15" },
+    {
+      "pl": "SN 33.11—15",
+      "fr": "SN 33.11—15"
+    },
     {
       "pl": "… pe … “rūpe kho, vaccha, anabhisamayā… pe … vedanāya … pe … saññāya … pe … saṅkhāresu … pe … viññāṇe kho, vaccha, anabhisamayā , viññāṇasamudaye anabhisamayā , viññāṇanirodhe anabhisamayā , viññāṇanirodhagāminiyā paṭipadāya anabhisamayā ; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti … pe …",
       "fr": "(…) Vatcha, c'est à cause du manque de compréhension complète par rapport à la [rupa|Forme] (…) au [vedana|Ressenti] (…) à la [sanna|Perception] (…) aux [sankhara|Constructions] (…) à la [vinnana|Conscience], du manque de compréhension complète par rapport à l'apparition de la [vinnana|Conscience], du manque de compréhension complète par rapport à la cessation de la [vinnana|Conscience], et du manque de compréhension complète par rapport à la voie menant à la cessation de la [vinnana|Conscience] que ces diverses vues apparaissent dans le monde (…)"
     },
-    { "pl": "SN 33.16—20", "fr": "SN 33.16—20" },
-    { "pl": "… pe … ananubodhā … pe …", "fr": "(…) c'est à cause du manque de lucidité(…)" },
-    { "pl": "SN 33.21—25", "fr": "SN 33.21—25" },
-    { "pl": "… pe … appaṭivedhā … pe …", "fr": "(…) c'est à cause du manque de pénétration(…)" },
-    { "pl": "SN 33.26—30", "fr": "SN 33.26—30" },
-    { "pl": "… pe … asallakkhaṇā … pe …", "fr": "(…) c'est à cause du manque de considération(…)" },
-    { "pl": "SN 33.31—35", "fr": "SN 33.31—35" },
-    { "pl": "… pe … anupalakkhaṇā … pe …", "fr": "(…) c'est à cause du manque de discrimination(…)" },
-    { "pl": "SN 33.36—40", "fr": "SN 33.36—40" },
-    { "pl": "… pe … appaccupalakkhaṇā … pe …", "fr": "(…) c'est à cause du manque de différentiation(…)" },
-    { "pl": "SN 33.41—45", "fr": "SN 33.41—45" },
-    { "pl": "… pe … asamapekkhaṇā … pe …", "fr": "(…) c'est à cause du manque de d'observation(…)" },
-    { "pl": "SN 33.46—50", "fr": "SN 33.46—50" },
-    { "pl": "… pe … appaccupekkhaṇā … pe …", "fr": "(…) c'est à cause du manque d'examen(…)" },
-    { "pl": "SN 33.51—55", "fr": "SN 33.51—55" },
-    { "pl": "… pe … appaccakkhakammā … pe …", "fr": "(…) c'est à cause du manque de mise en évidence(…)" }
+    {
+      "pl": "SN 33.16—20",
+      "fr": "SN 33.16—20"
+    },
+    {
+      "pl": "… pe … ananubodhā … pe …",
+      "fr": "(…) c'est à cause du manque de lucidité(…)"
+    },
+    {
+      "pl": "SN 33.21—25",
+      "fr": "SN 33.21—25"
+    },
+    {
+      "pl": "… pe … appaṭivedhā … pe …",
+      "fr": "(…) c'est à cause du manque de pénétration(…)"
+    },
+    {
+      "pl": "SN 33.26—30",
+      "fr": "SN 33.26—30"
+    },
+    {
+      "pl": "… pe … asallakkhaṇā … pe …",
+      "fr": "(…) c'est à cause du manque de considération(…)"
+    },
+    {
+      "pl": "SN 33.31—35",
+      "fr": "SN 33.31—35"
+    },
+    {
+      "pl": "… pe … anupalakkhaṇā … pe …",
+      "fr": "(…) c'est à cause du manque de discrimination(…)"
+    },
+    {
+      "pl": "SN 33.36—40",
+      "fr": "SN 33.36—40"
+    },
+    {
+      "pl": "… pe … appaccupalakkhaṇā … pe …",
+      "fr": "(…) c'est à cause du manque de différentiation(…)"
+    },
+    {
+      "pl": "SN 33.41—45",
+      "fr": "SN 33.41—45"
+    },
+    {
+      "pl": "… pe … asamapekkhaṇā … pe …",
+      "fr": "(…) c'est à cause du manque de d'observation(…)"
+    },
+    {
+      "pl": "SN 33.46—50",
+      "fr": "SN 33.46—50"
+    },
+    {
+      "pl": "… pe … appaccupekkhaṇā … pe …",
+      "fr": "(…) c'est à cause du manque d'examen(…)"
+    },
+    {
+      "pl": "SN 33.51—55",
+      "fr": "SN 33.51—55"
+    },
+    {
+      "pl": "… pe … appaccakkhakammā … pe …",
+      "fr": "(…) c'est à cause du manque de mise en évidence(…)"
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "paribbajaka",
+    "hetu",
+    "bho",
+    "paccaya",
+    "loka",
+    "tathagata",
+    "marana",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana"
+  ],
   "translator": "Sekha"
 }

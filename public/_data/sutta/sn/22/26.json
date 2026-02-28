@@ -4,7 +4,10 @@
   "frTitle": "L'agrément",
   "description": "Quels sont l'agrément, l'avantage et l'émancipation relatifs aux cinq accumulations d'attachement?",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi — ‘ko nu kho rūpassa assādo, ko ādīnavo, kiṃ nissaraṇaṃ? ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ? ko saññāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ? ko saṅkhārānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ? ko viññāṇassa assādo, ko ādīnavo, kiṃ nissaraṇan’ti?",
       "fr": "Mendiants, avant mon éveil, lorsque je n'étais qu'un [bodhisatta|être d'Éveil], pas encore [sambuddha|éveillé], je me suis dit: [i]“Quel est l'[assada|agrément] de la [rupa|Forme]? Quel est son [adinava|désavantage]? Et quelle en est l'[nissarana|émancipation]?Quel est l'[assada|agrément] du [vedana|Ressenti]? Quel est son [adinava|désavantage]? Et quelle en est l'[nissarana|émancipation]? Quel est l'[assada|agrément] de la [sanna|Perception]? Quel est son [adinava|désavantage]? Et quelle en est l'[nissarana|émancipation]? Quel est l'[assada|agrément] des [sankhara|Constructions]? Quel est son [adinava|désavantage]? Et quelle en est l'[nissarana|émancipation]? Quel est l'[assada|agrément] de la [vinnana|Conscience]? Quel est son [adinava|désavantage]? Et quelle en est l'[nissarana|émancipation]? ”[/i]"
@@ -18,6 +21,38 @@
       "fr": "Aussi longtemps, [bhikkhu|mendiants], que je n'avais pas compris tels qu'ils sont réellement l'[assada|agrément] de ces cinq [upadanakkhandha|accumulations d'attachement] en tant qu'[assada|agrément], leur [adinava|désavantage] en tant que [adinava|désavantage], et l'[nissarana|émancipation] vis-à-vis d'elles en tant qu'[nissarana|émancipation], je n'ai pas déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]. Mais lorsque, [bhikkhu|mendiants], j'ai compris tels qu'ils sont réellement l'[assada|agrément] de ces cinq [upadanakkhandha|accumulations d'attachement] en tant qu'[assada|agrément], leur [adinava|désavantage] en tant que [adinava|désavantage], et l'[nissarana|émancipation] vis-à-vis d'elles, j'ai déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]. La [nanadassana|connaissance & vision] apparut en moi: [i]“La [cetovimutti|libération de mon esprit] est inébranlable, ceci est ma dernière [jati|naissance], maintenant il n'y aura plus d'[bhava|existence] supplémentaire.”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bodhisatta",
+    "sambuddha",
+    "assada",
+    "rupa",
+    "adinava",
+    "nissarana",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "i]“L'[assada",
+    "sukha",
+    "somanassa",
+    "anicca",
+    "dukkha",
+    "dhamma",
+    "chanda",
+    "raga",
+    "bhikkhu",
+    "upadanakkhandha",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samana",
+    "brahmana",
+    "sammasambodhi",
+    "nanadassana",
+    "cetovimutti",
+    "jati",
+    "bhava"
+  ],
   "translator": "Sekha"
 }

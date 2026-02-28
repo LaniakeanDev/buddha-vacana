@@ -44,8 +44,14 @@
       "pl": "“seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. atha mahājanakāyo āgaccheyya kuddāla-piṭakaṃ ādāya — ‘mayaṃ imaṃ gaṅgaṃ nadiṃ pacchāninnaṃ karissāma pacchāpoṇaṃ pacchāpabbhāran’’ti. taṃ kiṃ maññatha, bhikkhave, api nu kho so mahājanakāyo gaṅgaṃ nadiṃ pacchāninnaṃ kareyya pacchāpoṇaṃ pacchāpabbhāran””ti?",
       "fr": "[bhikkhu|Mendiants], c'est tout comme le fleuve Gange, qui s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Imaginez qu'une grande foule arrive en apportant des pelles et des paniers [et en disant]: [i]“Nous allons faire s'incliner ce fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest.”[/i] Qu'en pensez-vous, mes [avuso|amis]: est-ce que cette grande foule parviendrait à faire s'incliner le fleuve Gange vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "Et quelle en est la raison?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "Et quelle en est la raison?"
+    },
     {
       "pl": "“gaṅgā, bhante, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; sā na sukarā pacchāninnā kātuṃ pacchāpoṇā pacchāpabbhārā. yāvadeva ca pana so mahājanakāyo kilamathassa vighātassa bhāgī assā””ti.",
       "fr": "[bhante|Bhanté], le fleuve Gange s'incline vers l'est, s'infléchit vers l'est et tend vers l'est. Il n'est pas facile de le faire s'incliner vers l'ouest, s'infléchir vers l'ouest et tendre vers l'ouest. Cette grande foule ne rencontrerait que fatigue et contrariété."
@@ -55,6 +61,39 @@
       "fr": "De la même manière, [bhikkhu|mendiant]s, même si les rois ou leurs ministres, ses amis ou ses collègues, ses proches ou ses parents apportent des richesses et l'invitent: [i]“Venez, mon cher, pourquoi laisser ces robes vous consumer? Pourquoi errer le crâne rasé avec un bol d'aumônes? Venez, retournez à la vie inférieure, afin de jouir des richesses et faire du [punna|mérite]!”[/i] vraiment, [bhikkhu|mendiants], il est impossible qu'un [bhikkhu|mendiant] se comportant et séjournant ainsi abandonne l'[sikkha|entraînement] et retourne à la vie inférieure. Et quelle en est la raison? Parce que depuis longtemps son [citta|esprit] est incliné à la [viveka|solitude], infléchi vers la [viveka|solitude], tendant à la [viveka|solitude], et qu'il est impossible qu'il abandonne l'[sikkha|entraînement] et retourne à la vie inférieure."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "yathabhutam",
+    "dhamma",
+    "dukkha",
+    "kama",
+    "kamacchanda",
+    "domanassa",
+    "papaka",
+    "akusala",
+    "rupa",
+    "samudaya",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "sukha",
+    "vinaya",
+    "ariya",
+    "samvara",
+    "kayagatasati",
+    "cetovimutti",
+    "pannavimutti",
+    "photthabba",
+    "sati",
+    "sankappa",
+    "samyojana",
+    "punna",
+    "sikkha",
+    "avuso",
+    "bhante",
+    "citta",
+    "viveka"
+  ],
   "translator": "Sekha"
 }

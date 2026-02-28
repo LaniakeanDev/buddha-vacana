@@ -21,6 +21,23 @@
       "fr": "Et quel est, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il faudrait se remémorer? L'abstention de la [panatipata|destruction de la vie], l'abstention de l'[adinnadana|appropriation de ce qui n'a pas été donné], l'abstention de la [kamesumicchacara|méconduite en raison des plaisirs sensuels], l'abstention de la [musavada|parole mensongère], l'abstention de la [pisunavaca|parole médisante], l'abstention de la [pharusavaca|parole acerbe], l'abstention de la [samphappalapa|parole frivole], la non-[abhijjha|convoitise], la [abyapada|bienveillance] et la [sammaditthi|vue correcte]. Voici, [bhikkhu|mendiants], ce qu'on appellele [dhamma|Dhamma] qu'il faudrait se remémorer."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "bhadante",
+    "bhagava",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "abhijjha",
+    "byapada",
+    "ditthi",
+    "abyapada",
+    "sammaditthi"
+  ],
   "translator": "Rémy"
 }

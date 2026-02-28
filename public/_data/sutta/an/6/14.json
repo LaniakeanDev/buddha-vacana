@@ -8,7 +8,10 @@
       "pl": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:",
       "fr": "Un jour, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "Āvuso, bhikkhavo ti.", "fr": "— Mes amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "Āvuso, bhikkhavo ti.",
+      "fr": "— Mes amis, [bhikkhu|mendiants]."
+    },
     {
       "pl": "— Āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. Āyasmā sāriputto etadavoca:",
       "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Saripoutta dit:"
@@ -34,6 +37,6 @@
       "fr": "[i]Celui qui s'adonne à la [papanca|prolifération mentale],Le sot qui se complaît dans la [papanca|prolifération], N'a pas appréhendé l'[extinction|Extinction],Le suprême soulagement du joug.Mais celui qui a détruit la [papanca|prolifération mentale],Qui se plaît aux mots sans [papanca|prolifération],A appréhendé l'[extinction|Extinction],Le suprême soulagement du joug.[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["ayasma", "bhikkhu", "marana", "papanca", "sakkaya", "dukkha", "extinction"],
   "translator": "Rémy"
 }

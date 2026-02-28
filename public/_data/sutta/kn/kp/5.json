@@ -4,7 +4,10 @@
   "frTitle": "Les bienfaits",
   "description": "Un soutta très fréquemment récité où un déva demande au Bouddha quel est le plus haut bienfait et reçoit une liste en réponse.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Cette nuit-là, alors qu'elle était bien avancée, un certain [deva|déva] illumina presque tout le bois de Jeta de son éclat superbe, vint voir le [bhagava|Fortuné], lui rendit hommage, puis se tint debout d'un côté et s'adressa à lui en vers:"
@@ -58,6 +61,20 @@
       "fr": "Ayant fait tout cela[@v]Partout sans défaite[@v]Partout ils vont en sécurité:[@v]Voici quel est le plus haut bienfait."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "deva",
+    "baala",
+    "pandita",
+    "punna",
+    "@v][vinaya",
+    "sikkha",
+    "dhamma",
+    "samana",
+    "brahmacariya",
+    "ariyasacca",
+    "nibbana",
+    "@v]L'[citta"
+  ],
   "translator": "Sekha"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Déclin",
   "description": "Sept points sur lesquels un mendiant en entraînement peut se détériorer ou non.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -18,6 +21,6 @@
       "fr": "Ces sept [dhamma|choses], [bhikkhu|mendiants], mènent à la non-détérioration d'un mendiant [sekha|en entraînement]. Quelles sont ces sept? La non-complaisance dans les activités, la non-complaisance dans les discussions, la non-complaisance dans le sommeil, la non-complaisance dans les réunions, la [igdt|protection à l'entrée des facultés sensorielles], la [bmt|connaissance de la [bonne] mesure avec la nourriture], et lorsqu'il y a des affaires de la [sangha|communauté] [devant être traitées] dans la [sangha|communauté], un mendiant [sekha|en entraînement] considère ceci: [i]“Il y a dans la [sangha|communauté] des aînés de longue date, ayant [pabbajja|quitté le foyer] depuis longtemps, qui prennent [les choses] en charge, ils sauront quoi faire',[/i] et il ne s'occupe pas de ces affaires lui-même. Voici, [bhikkhu|mendiants], quelles sont ces sept [dhamma|choses] qui mènent à la non-détérioration d'un mendiant [sekha|en entraînement]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "dhamma", "sekha", "igdt", "bmt", "sangha", "pabbajja"],
   "translator": "Rémy"
 }

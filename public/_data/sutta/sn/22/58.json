@@ -4,7 +4,10 @@
   "frTitle": "Le Bouddha pleinement réalisé",
   "description": "Le Bouddha explique quelle est la différence entre un Bouddha et un arahant.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“tathāgato, bhikkhave, arahaṃ sammā-sambuddho rūpassa nibbidā virāgā nirodhā anupādā vimutto sammā-sambuddhoti vuccati. bhikkhupi, bhikkhave, paññāvimutto rūpassa nibbidā virāgā nirodhā anupādā vimutto paññā-vimuttoti vuccati.",
       "fr": "[bhikkhu|Mendiants], du [tathagata|Tathagata], de le [arahant|Méritant] [sammasambuddha|véritablement éveillé] qui est [vimutti|délivré] par non-[upadana|attachement] dû au [nibbida|désenchantement] envers la [rupa|Forme], à sa [viraga|disparition], à sa [nirodha|cessation], on dit qu'il est [sammasambuddha|quelqu'un qui est véritablement éveillé]. D'un [bhikkhu|mendiant] [vimutti|délivré] par [panna|discernement], qui est [vimutti|délivré] par non-[upadana|attachement] dû au [nibbida|désenchantement] envers la [rupa|Forme], à sa [viraga|disparition], à sa [nirodha|cessation], on dit qu'il est [vimutti|délivré] par [panna|discernement]."
@@ -50,6 +53,27 @@
       "fr": "— Voici, [bhikkhu|mendiants], quelle est la différence, voici quelle est la distinction, voici ce qui fait la différence entre un [sammasambuddha|Bouddha] et un [bhikkhu|mendiant] [vimutti|délivré] par [panna|discernement]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "vimutti",
+    "upadana",
+    "nibbida",
+    "rupa",
+    "viraga",
+    "nirodha",
+    "panna",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "bhante",
+    "dhamma",
+    "bhagava",
+    "@m_attha",
+    "magga"
+  ],
   "translator": "Rémy"
 }

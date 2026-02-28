@@ -4,7 +4,10 @@
   "frTitle": "L'association de ceux qui manquent de conviction",
   "description": "Le mot élément fait ici référence à la personnalité ou le tempérament.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ... pe ..", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ..",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“dhātusova, bhikkhave, sattā saṃsandanti samenti. assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti; anottappino anottappīhi saddhiṃ saṃsandanti samenti; appassutā appassutehi saddhiṃ saṃsandanti samenti; kusītā kusītehi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti”.",
       "fr": "[bhikkhu|Mendiants], les êtres s'associent et s'assemblent selon les [dhatu|éléments]. Ceux qui manquent de [saddha|conviction] s'associent et s'assemblent avec ceux qui manquent de [saddha|conviction], ceux qui manquent de [hiri|honte morale] s'associent et s'assemblent avec ceux qui manquent de [hiri|honte morale],ceux qui manquent de [ottappa|crainte morale] s'associent et s'assemblent avec ceux qui manquent de [ottappa|crainte morale],ceux qui sont peu instruits s'associent et s'assemblent avec ceux qui sont peu instruits,ceux qui sont paresseux s'associent et s'assemblent avec ceux qui sont paresseux,ceux qui sont étourdis d'esprit s'associent et s'assemblent avec ceux qui sont étourdis d'esprit, etceux qui manquent de [panna|discernement] s'associent et s'assemblent avec ceux qui manquent de [panna|discernement]."
@@ -25,13 +28,19 @@
       "pl": "“dhātusova, bhikkhave, sattā saṃsandanti samenti. saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti.",
       "fr": "[bhikkhu|Mendiants], les êtres s'associent et s'assemblent selon les [dhatu|éléments]. Ceux qui ont de la [saddha|conviction] s'associent et s'assemblent avec ceux qui ont de la [saddha|conviction], ceux qui ont de la [hiri|honte morale] s'associent et s'assemblent avec ceux qui ont de la [hiri|honte morale],ceux qui ont de la [ottappa|crainte morale] s'associent et s'assemblent avec ceux qui ont de la [ottappa|crainte morale],ceux qui sont très instruits s'associent et s'assemblent avec ceux qui sont très instruits,ceux qui ont [araddhaviriya|activé leur énergie] s'associent et s'assemblent avec ceux qui ont [araddhaviriya|activé leur énergie],ceux qui ont [satipatthana|mis en place leur présence d'esprit] s'associent et s'assemblent avec ceux qui ont [satipatthana|mis en place leur présence d'esprit], etceux qui ont du [panna|discernement] s'associent et s'assemblent avec ceux qui ont du [panna|discernement]."
     },
-    { "pl": "atītampi kho, bhikkhave, addhānaṃ ... pe ...", "fr": "Il en était ainsi dans le passé." },
-    { "pl": "anāgatampi kho, bhikkhave ... pe ...", "fr": "Il en sera ainsi dans le futur." },
+    {
+      "pl": "atītampi kho, bhikkhave, addhānaṃ ... pe ...",
+      "fr": "Il en était ainsi dans le passé."
+    },
+    {
+      "pl": "anāgatampi kho, bhikkhave ... pe ...",
+      "fr": "Il en sera ainsi dans le futur."
+    },
     {
       "pl": "etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. saddhā saddhehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentī”ti.",
       "fr": "Il en est ainsi à présent."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "dhatu", "saddha", "hiri", "ottappa", "panna", "araddhaviriya", "satipatthana"],
   "translator": "Sekha"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Étant dévoré",
   "description": "Dans cet extrait, le Bouddha offre une explication des noms donnés aux accumulations d'attachement.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ anussaramānā anussaranti sabbete pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ. Katame pañca? ‘Evaṃrūpo ahosiṃ atītamaddhāna’nti: iti vā hi, bhikkhave, anussaramāno rūpaṃyeva anussarati. ‘Evaṃvedano ahosiṃ atītamaddhāna’nti: iti vā hi, bhikkhave, anussaramāno vedanaṃyeva anussarati. ‘Evaṃsañño ahosiṃ atītamaddhāna’nti: iti vā hi, bhikkhave, anussaramāno saññaññeva anussarati. ‘Evaṃsaṅkhāro ahosiṃ atītamaddhāna’nti: iti vā hi, bhikkhave, anussaramāno saṅkhāreyeva anussarati. ‘Evaṃviññāṇo ahosiṃ atītamaddhāna’nti: iti vā hi, bhikkhave, anussaramāno viññāṇameva anussarati.",
       "fr": "[bhikkhu|Mendiants], tous les [samana|renonçants] ou les brahmanes qui se remémorent leurs diverses existences passées se remémorent l'une ou l'autre des cinq [upadanakkhandha|accumulations d'attachement]. Quelles sont ces cinq? Celui qui se remémore: [i]“Dans le passé j'avais telle forme”[/i], c'est bien la [rupa|Forme] qu'il se remémore. Celui qui se remémore: [i]“Dans le passé j'avais tel ressenti”[/i], c'est bien le [vedana|Ressenti] qu'il se remémore. Celui qui se remémore: [i]“Dans le passé j'avais telle perception”[/i], c'est bien la [sanna|Perception] qu'il se remémore. Celui qui se remémore: [i]“Dans le passé j'avais telles fabrications [volitionnelles]”[/i], c'est biens les [sankhara|Constructions] qu'il se remémore. Celui qui se remémore: [i]“Dans le passé j'avais telle conscience”[/i], c'est bien la [vinnana|Conscience] qu'il se remémore."
@@ -49,8 +52,33 @@
       "pl": "‘Ahaṃ kho etarahi viññāṇena khajjāmi. Atītampi addhānaṃ evameva viññāṇena khajjiṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmi. Ahañceva kho pana anāgataṃ viññāṇaṃ abhinandeyyaṃ; anāgatampāhaṃ addhānaṃ evameva viññāṇena khajjeyyaṃ, seyyathāpi etarahi paccuppannena viññāṇena khajjāmī’ti. So iti paṭisaṅkhāya atītasmiṃ viññāṇasmiṃ anapekkho hoti; anāgataṃ viññāṇaṃ nābhinandati; paccuppannassa viññāṇassa nibbidāya virāgāya nirodhāya paṭipanno hoti.",
       "fr": "[i]“Je suis à présent dévoré par la [vinnana|Conscience]. Dans le passé, j'étais également dévoré par la [vinnana|Conscience], de la même manière que je suis à présent dévoré par la [vinnana|Conscience] qui est apparue. Et si je me complais dans la [vinnana|Conscience] à venir, dans le futur je serai également dévoré par la [vinnana|Conscience], de la même manière que je suis à présent dévoré par la [vinnana|Conscience] qui est apparue.”[/i] Ayant considéré cela, il est indifférent vis-à-vis de la [vinnana|Conscience] passée, il ne se complaît pas dans la [vinnana|Conscience] à venir, et il pratique pour le [nibbida|désenchantement] vis-à-vis de la [vinnana|Conscience] qui est présentement apparue, pour sa [viraga|disparition] et sa [nirodha|cessation]."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "samana",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "i]“[rupa",
+    "i]“[vedana",
+    "sukha",
+    "dukkha",
+    "adukkhamasukha",
+    "i]“[sanna",
+    "i]“[sankhara",
+    "i]“[vinnana",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "nirodha"
+  ],
   "translator": "Rémy"
 }

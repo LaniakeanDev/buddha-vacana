@@ -4,12 +4,15 @@
   "frTitle": "Version simple",
   "description": "Voici la liste des cinq facultés spirituelles.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pañcimāni, bhikkhave, indriyāni. katamāni pañca? saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. imāni kho, bhikkhave, pañcindriyānī”ti.",
       "fr": "Il y a, [bhikkhu|mendiants], ces cinq [indriya|facultés spirituelles]. Quelles sont ces cinq? La [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration] et la [indriya|faculté] de [panna|discernement]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [indriya|facultés spirituelles]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "indriya", "saddha", "viriya", "sati", "samadhi", "panna"],
   "translator": "Rémy"
 }

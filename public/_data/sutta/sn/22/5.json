@@ -4,12 +4,18 @@
   "frTitle": "La Concentration",
   "description": "Après avoir rappelé le rôle primordial joué par la concentration, le Bouddha applique la loi d'apparition conditionnée aux cinq accumulations d'attachement et définit ce que sont leur origine et leur cessation.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca —",
       "fr": "—[bhadante|Badhanté],» répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
@@ -75,6 +81,27 @@
       "fr": "Voici, mendiants, quelles sont la [nirodha|cessation] de la [rupa|Forme], la [nirodha|cessation] du [vedana|Ressenti], la [nirodha|cessation] de la [sanna|Perception], la [nirodha|cessation] des [sankhara|Constructions], et la [nirodha|cessation] de la [vinnana|Conscience]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "samadhi",
+    "yathabhutam",
+    "samudaya",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "nirodha"
+  ],
   "translator": "Sekha"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La tendance latente",
   "description": "Rahoula demande au Bouddha comment faire pour éviter la formation de l'ego.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati.", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rāhulo bhagavantaṃ etadavoca —",
       "fr": "Ce jour-là, le [aysama|vénérable] Rahoula alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -22,6 +25,22 @@
       "fr": "Voici, Rahoula, comment il faut connaître, comment il faut voir pour qu'il n'y ait pas de [anusaya|tendance latente] à la [mana|prétention] et à fabriquer du [i]“Moi”[/i] et du [i]“Mien”[/i] en rapport à ce [kaya|corps] doué de [vinnana|conscience], ainsi qu'à tous les [nimitta|objets] extérieurs."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "aysama",
+    "bhante",
+    "anusaya",
+    "mana",
+    "kaya",
+    "vinnana",
+    "nimitta",
+    "rupa",
+    "yathabhutam",
+    "panna",
+    "atta",
+    "vedana",
+    "sanna",
+    "sankhara"
+  ],
   "translator": "Sekha."
 }

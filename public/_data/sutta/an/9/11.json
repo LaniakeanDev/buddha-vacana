@@ -36,8 +36,14 @@
       "pl": "“evaṃ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmantaṃ sāriputtaṃ etadavoca —",
       "fr": "Ayant acquiescé, ce [bhikkhu|mendiant] alla voir le [ayasma|vénérable] Saripoutta et lui dit:"
     },
-    { "pl": "“satthā taṃ, āvuso sāriputta, āmantetī”ti.", "fr": "«Ami Saripoutta, l'Enseignant t'appelle." },
-    { "pl": "“evamāvuso”ti kho āyasmā sāriputto tassa bhikkhuno paccassosi.", "fr": "—Bien, mon ami,» répondit-il." },
+    {
+      "pl": "“satthā taṃ, āvuso sāriputta, āmantetī”ti.",
+      "fr": "«Ami Saripoutta, l'Enseignant t'appelle."
+    },
+    {
+      "pl": "“evamāvuso”ti kho āyasmā sāriputto tassa bhikkhuno paccassosi.",
+      "fr": "—Bien, mon ami,» répondit-il."
+    },
     {
       "pl": "tena kho pana samayena āyasmā ca mahāmoggallāno āyasmā ca ānando avāpuraṇaṃ ādāya vihāre āhiṇḍanti —",
       "fr": "À ce moment-là, le grand [ayasma|vénérable] Moggallana et le [ayasma|vénérable] Ananda prirent une clé et firent le tour des habitations:"
@@ -119,6 +125,22 @@
       "fr": "—[bhante|Bhanté], je pardonne ce [ayasma|vénérable] s'il me demande de le faire.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhante",
+    "vassa",
+    "bhikkhu",
+    "brahmacariya",
+    "i]“[bhante",
+    "kayagatasati",
+    "byapada",
+    "baala",
+    "akusala",
+    "samvara",
+    "dhamma",
+    "vinaya",
+    "ariya"
+  ],
   "translator": "Rémy"
 }

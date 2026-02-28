@@ -4,7 +4,10 @@
   "frTitle": "L'éveil complet",
   "description": "Quelle est la cause du développement des états mentaux participant à l'éveil complet?",
   "body": [
-    { "pl": "evaṃ me sutaṃ: ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
@@ -70,6 +73,49 @@
       "fr": "De plus, mendiants, en se basant sur ces cinq [dhamma|états mentaux], quatre [dhamma|états mentaux] supplémentaires sont à développer: la [perception du] [asubha|répugnant] est à développer pour l'abandon de l'[raga|avidité], la [metta|bienveillance] est à développer pour l'abandon de la [byapada|malveillance], la [anapanassati|présence de l'esprit sur la respiration] est à développer pour l'arrêt des [vitakka|pensées], la [aniccasanna|perception de l'impermanence] est à développer pour le déracinement de la [asmimana|prétention 'Je suis']. [bhikkhu|Mendiants], chez celui qui [aniccasanna|perçoit l'impermanence], la [anattasanna|perception du sans-égoïté] s'installe. Celui qui [anattasanna|perçoit le sans-égoïté] atteint le déracinement de la [asmimana|prétention 'Je suis'], [autrement dit] l'[nibbana|Extinction] [ditthevadhamme|dans ce monde visible]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "paribbajaka",
+    "i]“[avuso",
+    "bhavana",
+    "dhamma",
+    "sambodhi",
+    "bhante",
+    "@m_attha",
+    "kalyanamittata",
+    "kalyana",
+    "@f_sila",
+    "citta",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "@m_samsagga",
+    "viriyarambha",
+    "sila",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana",
+    "viriya",
+    "akusala",
+    "kusala",
+    "ariya",
+    "dukkha",
+    "samvara",
+    "patimokkha",
+    "sikkhapada",
+    "asubha",
+    "raga",
+    "metta",
+    "byapada",
+    "anapanassati",
+    "vitakka",
+    "aniccasanna",
+    "asmimana",
+    "anattasanna",
+    "nibbana",
+    "ditthevadhamme"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "L'œil",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les organes sensoriels.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Cakkhuṃ, bhikkhave, aniccaṃ vipariṇāmi aññathābhāvi; sotaṃ aniccaṃ vipariṇāmi aññathābhāvi; ghānaṃ aniccaṃ vipariṇāmi aññathābhāvi; jivhā aniccā vipariṇāmī aññathābhāvī; kāyo anicco vipariṇāmī aññathābhāvī; mano anicco vipariṇāmī aññathābhāvī.",
       "fr": "[bhikkhu|Mendiants], l'œil est [anicca|impermanent], changeant, variable; l'oreille est [anicca|impermanente], changeante, variable; le nez est [anicca|impermanent], changeant, variable; la langue est [anicca|impermanente], changeante, variable; le [kaya|corps] est [anicca|impermanent], changeant, variable; Le [mana|mental] est [anicca|impermanent], changeant, variable."
@@ -22,6 +25,26 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "anicca",
+    "kaya",
+    "mana",
+    "saddha",
+    "dhamma",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "L'allégorie de la boule de fer",
   "description": "Le Bouddha explique à Ananda comment il se rend dans le monde des Brahmas avec l'allégorie de la boule de fer.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Anandaalla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -50,6 +53,19 @@
       "fr": "Tout comme, Ananda, une graine de coton légère, portée par le vent, s'élève facilement de la terre vers le ciel, de la même manière, lorsque le [tathagata|Tathagata] plonge le [kaya|corps] dans l'[citta|esprit] et l'[citta|esprit] dans le [kaya|corps], qu'il entre et demeure dans une [sanna|perception] de bien-être et une [sanna|perception] de flottaison par rapport au [kaya|corps], alors le [kaya|corps] du [tathagata|Tathagata] s'élève facilement de la terre vers le ciel, et il exerce divers pouvoirs psychiques: ayant été unique, il devient plusieurs; ayant été plusieurs, il devient unique; il apparaît, il disparaît; il va sans résistance à travers les murs, à travers les remparts, à travers les montagnes, comme à travers l'espace; il plonge dans la terre et en émerge comme dans de l'eau; il marche sur l'eau sans couler, comme sur la terre; il voyage dans les airs assis jambes croisées, comme un oiseau ailé; il touche et effleure les astres si puissants et imposants avec la main; il exerce une influence avec le [kaya|corps] jusque dans le [loka|monde] de [brahma|Brahma].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "loka",
+    "brahma",
+    "iddhi",
+    "kaya",
+    "mana",
+    "tathagata",
+    "dhamma",
+    "citta",
+    "sanna"
+  ],
   "translator": "Bhikkhu Sekha"
 }

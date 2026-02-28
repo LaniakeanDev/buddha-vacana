@@ -4,7 +4,10 @@
   "frTitle": "Surestimation de soi",
   "description": "Mahakassapa explique dans cet extrait qu'il y a des moines qui surestiment leurs rÃ©alisations parce qu'ils connaissent bien l'enseignement. Il liste ensuite des points-clÃ© qui permettent de conclure qu'une personne se surestime en dÃ©clarant faussement Ãªtre devenu un arahant.",
   "body": [
-    { "pl": "(â€¦)", "fr": "(â€¦)" },
+    {
+      "pl": "(â€¦)",
+      "fr": "(â€¦)"
+    },
     {
       "pl": "â€œtamenaá¹ƒ tathÄgato vÄ tathÄgatasÄvako vÄ jhÄyÄ« samÄpattikusalo paracittakusalo paracittapariyÄyakusalo evaá¹ƒ cetasÄ ceto paricca pajÄnÄti â€” â€˜bahussuto kho pana ayamÄyasmÄ sutadharo sutasannicayo, ye te dhammÄ ÄdikalyÄá¹‡Ä majjhekalyÄá¹‡Ä pariyosÄnakalyÄá¹‡Ä sÄtthaá¹ƒ sabyaÃ±janaá¹ƒ kevalaparipuá¹‡á¹‡aá¹ƒ parisuddhaá¹ƒ brahmacariyaá¹ƒ abhivadanti, tathÄrÅ«pÄssa dhammÄ bahussutÄ honti dhÄtÄ vacasÄ paricitÄ manasÄnupekkhitÄ diá¹­á¹­hiyÄ suppaá¹­ividdhÄ. tasmÄ ayamÄyasmÄ adhimÄniko adhimÄnasacco, appatte pattasaÃ±Ã±Ä«, akate katasaÃ±Ã±Ä«, anadhigate adhigatasaÃ±Ã±Ä«. adhimÄnena aÃ±Ã±aá¹ƒ byÄkaroti â€” khÄ«á¹‡Ä jÄti, vusitaá¹ƒ brahmacariyaá¹ƒ, kataá¹ƒ karaá¹‡Ä«yaá¹ƒ, nÄparaá¹ƒ itthattÄyÄti pajÄnÄmÄ«â€™ti.",
       "fr": "Le [tathagata|Tathagata] ou l'un de ses [savaka|disciples], qui pratique les [jhana|jhanas], qui est habile pour les atteindre, qui est compÃ©tent au sujet de l'[citta|esprit] des autres, qui est compÃ©tent au sujet du fonctionnement de l'[citta|esprit] des autres, ayant englobÃ© son [citta|esprit]avec le sien, discerne: [i]â€œCe [ayasma|vÃ©nÃ©rable] est [@m_bahussuta|trÃ¨s instruit], il garde Ã  l'esprit ce qu'il a entendu, il accumule ce qu'il a entendu, et en ce qui concerne les [dhamma|enseignements] qui sont [kalyana|bÃ©nÃ©fiques] au dÃ©but, [kalyana|bÃ©nÃ©fiques] au milieu et [kalyana|bÃ©nÃ©fiques] Ã  la fin, avec la signification et le phrasÃ© corrects, rÃ©vÃ©lant la [brahmacariya|vie brahmique] qui est entiÃ¨rement complÃ¨te et pure, il a appris beaucoup de ces [dhamma|enseignements], il les a retenus Ã  l'esprit, rÃ©citÃ©s oralement, examinÃ©s mentalement et bien intÃ©grÃ©s dans ses [ditthi|vues]. En consÃ©quence, ce [ayasma|vÃ©nÃ©rable] se surestime et prend sa surestimation pour la vÃ©ritÃ©. Il croit qu'il a atteint ce qu'il n'a pas atteint, il croit qu'il a accompli ce qu'il n'a pas accompli, il croit qu'il a rÃ©alisÃ© ce qu'il n'a pas rÃ©alisÃ©. C'est par surestime de soi qu'il dÃ©clare aux autres qu'il comprend: [/i]â€˜C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a Ã©tÃ© menÃ©e Ã  son but, ce qui devait Ãªtre fait a Ã©tÃ© fait, il n'y aura plus aucune autre existence.â€™â€"
@@ -58,6 +61,25 @@
       "fr": "Car, mes amis, il est impossible qu'un [bhikkhu|mendiant] trouve croissance, dÃ©veloppement et abondance dans cet [dhamma|Enseignement] & [vinaya|Discipline] sans avoir abandonnÃ© ces dix [dhamma|choses]. Mais il est possible qu'un [bhikkhu|mendiant] trouve croissance, dÃ©veloppement et abondance dans cet [dhamma|Enseignement] & [vinaya|Discipline] en ayant abandonnÃ© ces dix [dhamma|choses]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "tathagata",
+    "savaka",
+    "jhana",
+    "citta",
+    "ayasma",
+    "@m_bahussuta",
+    "dhamma",
+    "kalyana",
+    "brahmacariya",
+    "ditthi",
+    "jati",
+    "abhijjha",
+    "vinaya",
+    "byapada",
+    "thinamiddha",
+    "uddhacca",
+    "vicikiccha",
+    "bhikkhu"
+  ],
   "translator": "Sekha"
 }

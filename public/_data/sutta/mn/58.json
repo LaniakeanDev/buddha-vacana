@@ -4,7 +4,10 @@
   "frTitle": "La question du prince Abhaya",
   "description": "Toute vérité est-elle bonne à dire? Le Bouddha clarifie ici sa position à ce sujet.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "tena kho pana samayena daharo kumāro mando uttānaseyyako abhayassa rājakumārassa aṅke nisinno hoti. atha kho bhagavā abhayaṃ rājakumāraṃ etadavoca:",
       "fr": "À ce moment-là, un jeune et tendre enfant était allongé sur les genoux du prince Abhaya. Alors le [bhgava|Fortuné] lui dit :"
@@ -65,8 +68,11 @@
       "pl": "“evameva kho, rājakumāra, ye te khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṃ abhisaṅkharitvā tathāgataṃ upasaṅkamitvā pucchanti, ṭhānasovetaṃ tathāgataṃ paṭibhāti. taṃ kissa hetu? sā hi, rājakumāra, tathāgatassa dhammadhātu suppaṭividdhā yassā dhammadhātuyā suppaṭividdhattā ṭhānasovetaṃ tathāgataṃ paṭibhātī”ti.",
       "fr": "—De la même manière, prince, lorsque de sages [khattiya|aristocrates], de sages brahmanes, de sages hommes de maison, de sages [samana|renonçants] viennent voir le [tathagata|Tathagata] avec une question et la lui posent, la réponse lui vient dans l'instant. Pourquoi cela? Parce que, prince, le [tathagata|Tathagata] comprend complètement le [dhamma|Dhamma], et puisqu'il comprend complètement le [dhamma|Dhamma], la réponse lui vient dans l'instant."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhgava", "pamada", "bhante", "tathagata", "@m_atthasamhita", "satta", "khattiya", "samana", "dhamma"],
   "translator": "Rémy"
 }

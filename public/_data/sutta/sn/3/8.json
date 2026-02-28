@@ -4,7 +4,10 @@
   "frTitle": "La reine Mallika",
   "description": "Le roi Passénadi demande à sa reine Mallika qui lui est le plus cher et reçoit une réponse sincère.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena rājā pasenadi kosalo mallikāya deviyā saddhiṃ uparipāsādavaragato hoti. atha kho rājā pasenadi kosalo mallikaṃ deviṃ etadavoca",
       "fr": "Ce jour-là, le roi Passénadi du Kossala se trouvait sur la terrasse au sommet de son palais avec la reine Mallika et lui dit:"
@@ -38,6 +41,6 @@
       "fr": "En explorant mentalement toutes les directions,[@v]On ne trouve personne plus cher que soi-même.[@v]Ainsi, chacun est plus cher à lui-même qu'à autrui[@v]Par conséquent, que celui qui s'aime ne fasse pas de mal à autrui."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante"],
   "translator": "Sekha"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Kakoudha l'aîné",
   "description": "Voici divers types d'enseignants corrompus qui sont protégés par leurs disciples. Le Bouddha quant à lui est un modèle dans tous ces domaines.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "“pañcime, moggallāna, satthāro santo saṃvijjamānā lokasmiṃ. katame pañca? idha, moggallāna, ekacco satthā aparisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṃ me sīlaṃ pariyodātaṃ asaṃkiliṭṭhan’ti. tamenaṃ sāvakā evaṃ jānanti: ‘ayaṃ kho bhavaṃ satthā aparisuddhasīlo samāno parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṃ me sīlaṃ pariyodātaṃ asaṃkiliṭṭhan’ti. mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ. yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma? sammannati kho pana cīvara-piṇḍapāta-senāsana-gilāna-paccaya-bhesajja-parikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti. evarūpaṃ kho, moggallāna, satthāraṃ sāvakā sīlato rakkhanti; evarūpo ca pana satthā sāvakehi sīlato rakkhaṃ paccāsīsati.",
       "fr": "Moggallana, on trouve dans le [loka|monde] ces cinq [types d']enseignants. Quels sont ces cinq? À cet égard, Moggallana, un certain enseignant n'a pas une [sila|vertu] purifiée mais prétend: [i]“J'ai une [sila|vertu] purifiée”[/i], [i]“Ma [sila|vertu] est purifiée, immaculée et sans souillure”[/i]. Ses [savaka|disciples] savent: [i]“Ce vénérable enseignant n'a pas une [sila|vertu] purifiée mais prétend: “J'ai une [sila|vertu] purifiée”, “Ma [sila|vertu] est purifiée, immaculée et sans souillure”. Mais si j'en informe les gens de foyer, cela ne lui plaira pas. Et comment pourrais-je me comporter à son égard d'une manière qui ne lui plaît pas? De plus, il accepte les [civara|robes], la [pindapata|nourriture d'aumônes], les [senasana|gîtes], les [bhesajja|remèdes] & provisions pour les malades. On est reconnu pour ce que l'on fait.”[/i] Ainsi, les [savaka|disciples] d'un tel enseignant le protègent en ce qui concerne la [sila|vertu], et un tel enseignant attend de ses [savaka|disciples] qu'ils le protègent en ce qui concerne la [sila|vertu]."
@@ -50,6 +53,17 @@
       "fr": "C'est en ayant une [nanadassana|connaissance & vision] purifiée que je reconnais: [i]“J'ai une [nanadassana|connaissance & vision] purifiée”[/i], [i]“Ma [nanadassana|connaissance & vision] est purifiée, immaculée et sans souillure”[/i]. Mes [savaka|disciples] ne me protègent pas en ce qui concerne ma [nanadassana|connaissance & vision], et je n'attends pas d'eux qu'ils me protègent en ce qui concerne ma [nanadassana|connaissance & vision]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "loka",
+    "sila",
+    "savaka",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "ajiva",
+    "dhamma",
+    "nanadassana"
+  ],
   "translator": "Rémy"
 }

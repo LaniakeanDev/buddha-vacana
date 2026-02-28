@@ -4,7 +4,10 @@
   "frTitle": "Métiers",
   "description": "Des mendiants se lancent dans une conversation sur les métiers, ce qui ne plaît pas au Bouddha.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena sambahulānaṃ bhikkhūnaṃ pacchābhattaṃ piṇḍapātapaṭikkantānaṃ maṇḍalamāḷe sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi — “ko nu kho, āvuso, sippaṃ jānāti? ko kiṃ sippaṃ sikkhi? kataraṃ sippaṃ sippānaṃ aggan””ti?",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, un grand nombre de [bhikkhu|mendiants], après leur repas, de retour des aumônes de nourriture, étaient réunis, assis ensemble dans le pavillon circulaire, et cette discussion apparut entre eux: [i]“Amis, qui d'entre vous connaît un métier? Qui s'est entraîné à quel métier? Quel est le plus élevé des métiers?”[/i]"
@@ -42,6 +45,18 @@
       "fr": "Celui qui vit sans métier, léger, souhaitant le bienfait,Les [indriya|facultés] restreintes, délivré de tout,Vivant sans foyer, sans égoïsme, sans désir,Ayant détruit l'[maana|amour-propre], solitaire: celui-là est un [bhikkhu|mendiant]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "patisallana",
+    "bhante",
+    "pabbaja",
+    "anagariya",
+    "saddha",
+    "dhamma",
+    "udana",
+    "indriya",
+    "maana"
+  ],
   "translator": "Sekha"
 }

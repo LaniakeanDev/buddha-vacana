@@ -4,8 +4,14 @@
   "frTitle": "Anathapindika malade",
   "description": "Anathapindika est malade et demande à voir Ananda, qui lui explique quatre raisons d'avoir peur ou non de la mort.",
   "body": [
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" }
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    }
   ],
   "keywords": [],
   "translator": "Rémy"

@@ -81,6 +81,34 @@
       "fr": "Et comment, [bhikkhu|mendiants], un mendiant a-t-il atteint la [ariya|noblesse]? À cet égard, [bhikkhu|mendiants], un mendiant [panna|discerne], [yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i]. Il [panna|discerne], [yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|origine du mal-être]”[/i]. Il [panna|discerne], [yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i]. Il [panna|discerne], [yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i]. Voici, [bhikkhu|mendiants], comment un mendiant a atteint la [ariya|noblesse]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "uposatha",
+    "sangha",
+    "bhikkhu",
+    "loka",
+    "@f_anussati#anussati-3-cl",
+    "deva",
+    "brahma",
+    "ariya",
+    "@f_4jhana#1-cl",
+    "@f_4jhana#2-cl",
+    "@f_4jhana#3-cl",
+    "@f_4jhana#4-cl",
+    "@f_appam#metta-cl",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl",
+    "@f_arupajjhana#5",
+    "@f_arupajjhana#6",
+    "@f_arupajjhana#7",
+    "@f_arupajjhana#8",
+    "panna",
+    "yathabhutam",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
   "translator": "Rémy"
 }

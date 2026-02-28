@@ -13,6 +13,20 @@
       "fr": "[bhikkhu|Mendiants], celui qui a complété ces [indriya|facultés] et les a portées à leur complétude est un [arahant|Méritant]. Si elles sont plus faibles que cela, c'est un [anagami|non-retournant]. Si elles sont plus faibles que cela, c'est un [sakadagami|retournant-unique]. Si elles sont plus faibles que cela, c'est un [sotapanna|parvenu-au-courant]. Si elles sont plus faibles que cela, c'est un [dhammanussari|mû-par-le-Dhamma]. Si elles sont plus faibles que cela, c'est un [saddhanussari|mû-par-la-conviction]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "arahant",
+    "anagami",
+    "sakadagami",
+    "sotapanna",
+    "dhammanussari",
+    "saddhanussari"
+  ],
   "translator": "Bhikkhu Sekha"
 }

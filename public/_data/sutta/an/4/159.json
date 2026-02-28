@@ -4,7 +4,10 @@
   "frTitle": "Une mendiante",
   "description": "Le vénérable Ananda explique à une mendiante malavisée que dans la pratique du Dhamma, bien qu'il soit possible d'abandonner un certain nombre de choses tout en y ayant recours, il y a une chose qu'il fait abandonner sans jamais y avoir recours.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ansi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ansi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. Atha kho aññatarā bhikkhunī aññataraṃ purisaṃ āmantesi:",
       "fr": "Un jour, le [ayasma|vénérable] Ananda séjournait près de Kossambi, dans le parc de Ghosita. Ce jour-là, une certaine [bhikkhuni|mendiante] dit à un certain homme:"
@@ -58,6 +61,30 @@
       "fr": "— Assurément, sœur, vous avez commis une transgression: vous avez été si [baala|sotte], si ignorante, si [akusala|malavisée] que vous avez agi ainsi. Sœur, puisqu'en ayant vu votre transgression comme une transgression, vous vous repentez en accord avec le [dhamma|Dhamma], je l'accepte. Sœur, c'est un progrès dans la [vinaya|discipline] du [ariya|noble] que de se repentir en accord avec le [dhamma|Dhamma] en ayant vu sa transgression comme une transgression, et de pratiquer la [samvara|restreinte] à l'avenir."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhuni",
+    "bhante",
+    "patta",
+    "civara",
+    "kaya",
+    "ahara",
+    "tanha",
+    "maana",
+    "bhagava",
+    "@f_bhojan",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "panna",
+    "abhinna",
+    "baala",
+    "akusala",
+    "samvara",
+    "dhamma",
+    "vinaya",
+    "ariya"
+  ],
   "translator": "Rémy"
 }

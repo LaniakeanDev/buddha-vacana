@@ -4,7 +4,10 @@
   "frTitle": "Un disciple laïc",
   "description": "Un disciple laïc du Bouddha, un homme d'affaires, n'est pas venu le voir depuis longtemps. C'est l'occasion d'une exclamation au sujet du malheur de posséder beaucoup.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tena kho pana samayena aññataro icchānaṅgalako upāsako sāvatthiṃ anuppatto hoti kenacideva karaṇīyena. atha kho so upāsako sāvatthiyaṃ taṃ karaṇīyaṃ tīretvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho taṃ upāsakaṃ bhagavā etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, un certain [upasaka|disciple laïc] d'Itchanangala arriva à Savatthi en voyage d'affaires. Une fois qu'il eut réglé son affaire, ce [upasaka|disciple] vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui dit:"
@@ -26,6 +29,6 @@
       "fr": "Comme quoi, [sukha|heureux] est celui qui ne possède rienQui a accepté le [dhamma|Dhamma], qui est très instruit.Voyez comment celui qui possède est préoccupé,Une personne enchaînée aux autres."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "upasaka", "bhante", "udana", "sukha", "dhamma"],
   "translator": "Sekha"
 }

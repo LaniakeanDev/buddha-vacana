@@ -4,7 +4,10 @@
   "frTitle": "Avec des vers",
   "description": "Le Bouddha voit que la fièvre des acquisitions, honneurs et renommée mène jusqu'en enfer.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
       "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
@@ -26,6 +29,6 @@
       "fr": " [i]Qu'il soit couvert d'honneurs,[@v]Que les honneurs soient absents, ou bien les deux,[@v]Sa concentration n'est pas ébranlée,[@v]Il séjourne dans le sans-limite."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "lss", "apaya", "duggati", "vinipata", "niraya", "citta", "bhagava"],
   "translator": "Rémy"
 }

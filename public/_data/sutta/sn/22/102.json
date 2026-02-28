@@ -4,7 +4,10 @@
   "frTitle": "La perception de l'impermanence",
   "description": "Voici un série d'allégories illustrant l'importance de la perception de l'impermanence (anicca·saññā).",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“aniccasaññā, bhikkhave, bhāvitā bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanati”.",
       "fr": "[bhikkhu|Mendiants], lorsque la [sanna|perception] de l'[anicca|impermanence] est développée et cultivée, elle met un terme à toute [kamaraga|avidité sensuelle], elle met un terme à toute [raga|avidité] envers la [rupa|Forme], elle met un terme à toute [raga|avidité] d'[bhava|existence], elle met un terme à toute [avijja|ignorance], et elle élimine toute [asmimana|prétention 'Je suis']."
@@ -62,6 +65,21 @@
       "fr": "Voici, [bhikkhu|mendiants], comment la [sanna|perception] de l'[anicca|impermanence] est développée, comment elle est cultivée de mettre un terme à toute [kamaraga|avidité sensuelle], de mettre un terme à toute [raga|avidité] envers la [rupa|Forme], de mettre un terme à toute [raga|avidité] d'[bhava|existence], de mettre un terme à toute [avijja|ignorance], et d'éliminer toute [asmimana|prétention 'Je suis']."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sanna",
+    "anicca",
+    "kamaraga",
+    "raga",
+    "rupa",
+    "bhava",
+    "avijja",
+    "asmimana",
+    "cakkavatti",
+    "samudaya",
+    "vedana",
+    "sankhara",
+    "vinnana"
+  ],
   "translator": "Rémy"
 }

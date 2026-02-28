@@ -4,17 +4,23 @@
   "frTitle": "L'avarice",
   "description": "Cinq formes d'avarice.",
   "body": [
-    { "pl": "254. Pañcamacchariya", "fr": "254. Les cinq [types d']avarice" },
+    {
+      "pl": "254. Pañcamacchariya",
+      "fr": "254. Les cinq [types d']avarice"
+    },
     {
       "pl": "“pañcimāni, bhikkhave, macchariyāni. katamāni pañca? āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ. imāni kho, bhikkhave, pañca macchariyāni. imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ etaṃ paṭikuṭṭhaṃ, yadidaṃ dhammamacchariyan”ti.",
       "fr": "[bhikkhu|Mendiants], il y a ces cinq [types d']avarice. Quels sont ces cinq? L'avarice en termes de lieux de résidence, l'avarice en termes de familles, l'avarice en termes d'acquisitions, l'avarice en termes d'éloges et l'avarice par rapport [à la connaissance du] [dhamma|Dhamma]. Voici, mendiants, quels sont ces cinq [types d']avarice. [bhikkhu|Mendiants], de ces cinq [types d']avarice, le plus misérable est l'avarice par rapport [à la connaissance du] [dhamma|Dhamma]."
     },
-    { "pl": "255. Macchariyappahāna", "fr": "255. L'abandon de l'avarice" },
+    {
+      "pl": "255. Macchariyappahāna",
+      "fr": "255. L'abandon de l'avarice"
+    },
     {
       "pl": "“pañcannaṃ, bhikkhave, macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussati. katamesaṃ pañcannaṃ? āvāsamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati; kulamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati; lābhamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati; vaṇṇamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati; dhammamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati. imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussatī”ti.",
       "fr": "[bhikkhu|Mendiants], la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de cinq [types d']avarice. Quels sont ces cinq? La [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de l'avarice en termes de lieux de résidence; la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de l'avarice en termes de familles; la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de l'avarice en termes d'acquisitions; la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de l'avarice en termes d'éloges; et la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de l'avarice par rapport [à la connaissance du] [dhamma|Dhamma]. [bhikkhu|Mendiants], la [brahmacariya|vie brahmique] est vécue pour l'abandon et la destruction de ces cinq [types d']avarice."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "dhamma", "brahmacariya"],
   "translator": "Rémy"
 }

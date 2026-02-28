@@ -4,7 +4,10 @@
   "frTitle": "L'apparition",
   "description": "Les quatre éléments sont synonymes de mal-être.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati ... pe ...", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ...",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“yo, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo. yo āpodhātuyā … pe … yo tejodhātuyā. yo vāyodhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo”.",
       "fr": "[bhikkhu|Mendiants], l'apparition, le maintien, la production et la manifestation de l'[dhatu|élément] Terre est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation de l'[dhatu|élément] Eau est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation de l'[dhatu|élément] Feu est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]. L'apparition, le maintien, la production et la manifestation de l'[dhatu|élément] Air est l'apparition du [dukkha|mal-être], le maintien du malaise, la manifestation [jaramarana|du vieillissement et de la mort]."
@@ -14,6 +17,6 @@
       "fr": "Mais, [bhikkhu|mendiants], la [nirodha|cessation], l'apaisement et la disparition de l'[dhatu|élément] Terre est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition de l'[dhatu|élément] Eau est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition de l'[dhatu|élément] Feu est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort].La [nirodha|cessation], l'apaisement et la disparition de l'[dhatu|élément] Air est la [nirodha|cessation] du [dukkha|mal-être], l'apaisement du malaise, la disparition [jaramarana|du vieillissement et de la mort]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "dhatu", "dukkha", "jaramarana", "nirodha"],
   "translator": "Sekha"
 }

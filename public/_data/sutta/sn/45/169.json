@@ -4,7 +4,10 @@
   "frTitle": "Les ressentis",
   "description": "Les trois types de ressentis, et comment la noble voie à huit composantes permet de les connaître directement, de les comprendre complètement, de les épuiser complètement, et de les abandonner.",
   "body": [
-    { "pl": "1. Abhiññā", "fr": "1. La connaissance directe" },
+    {
+      "pl": "1. Abhiññā",
+      "fr": "1. La connaissance directe"
+    },
     {
       "pl": "1.1“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. imā kho, bhikkhave, tisso vedanā. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ abhiññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "1.1[bhikkhu|Mendiants], il y a ces trois [types de] [vedana|ressentis]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] [vedana|ressentis]. [bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces trois [types de] [vedana|ressentis], la [aam|noble voie à huit composantes] est à développer. Et quelle [aam|noble voie à huit composantes]?"
@@ -53,7 +56,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ abhiññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la [abhinna|connaissance directe] de ces trois [types de] [vedana|ressentis], cette [aam|noble voie à huit composantes] est à développer."
     },
-    { "pl": "2. Pariññā", "fr": "2. La compréhension complète" },
+    {
+      "pl": "2. Pariññā",
+      "fr": "2. La compréhension complète"
+    },
     {
       "pl": "2.1“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. imā kho, bhikkhave, tisso vedanā. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "2.1[bhikkhu|Mendiants], il y a ces trois [types de] [vedana|ressentis]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] [vedana|ressentis]. [bhikkhu|Mendiants], pour la compréhension complète de ces trois [types de] [vedana|ressentis], la [aam|noble voie à huit composantes] est à développer. Et quelle [aam|noble voie à huit composantes]?"
@@ -102,7 +108,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ pariññāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour la compréhension complète de ces trois [types de] [vedana|ressentis], cette [aam|noble voie à huit composantes] est à développer."
     },
-    { "pl": "3. Parikkhaya", "fr": "3. L'épuisement complet" },
+    {
+      "pl": "3. Parikkhaya",
+      "fr": "3. L'épuisement complet"
+    },
     {
       "pl": "3.1“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. imā kho, bhikkhave, tisso vedanā. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ parikkhayāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "3.1[bhikkhu|Mendiants], il y a ces trois [types de] [vedana|ressentis]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] [vedana|ressentis]. [bhikkhu|Mendiants], pour l'épuisement complet de ces trois [types de] [vedana|ressentis], la [aam|noble voie à huit composantes] est à développer. Et quelle [aam|noble voie à huit composantes]?"
@@ -151,7 +160,10 @@
       "pl": "imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ parikkhayāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.",
       "fr": "[bhikkhu|Mendiants], pour l'épuisement complet de ces trois [types de] [vedana|ressentis], cette [aam|noble voie à huit composantes] est à développer."
     },
-    { "pl": "4. Pahāna", "fr": "4. L'abandon" },
+    {
+      "pl": "4. Pahāna",
+      "fr": "4. L'abandon"
+    },
     {
       "pl": "4.1“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. imā kho, bhikkhave, tisso vedanā. imāsaṃ kho, bhikkhave, tissannaṃ vedanānaṃ pahānāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. katamo ariyo aṭṭhaṅgiko maggo?",
       "fr": "4.1[bhikkhu|Mendiants], il y a ces trois [types de] [vedana|ressentis]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] [vedana|ressentis]. [bhikkhu|Mendiants], pour l'abandon de ces trois [types de] [vedana|ressentis], la [aam|noble voie à huit composantes] est à développer. Et quelle [aam|noble voie à huit composantes]?"
@@ -201,6 +213,31 @@
       "fr": "[bhikkhu|Mendiants], pour l'abandon de ces trois [types de] [vedana|ressentis], cette [aam|noble voie à huit composantes] est à développer."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "abhinna",
+    "aam",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "vinaya",
+    "raga",
+    "dosa",
+    "moha",
+    "amata",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

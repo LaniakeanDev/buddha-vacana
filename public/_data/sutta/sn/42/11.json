@@ -68,12 +68,18 @@
       "pl": "“taṃ kiṃ maññasi, gāmaṇi, yadā te ciravāsimātā adiṭṭhā ahosi, assutā ahosi, te ciravāsimātuyā chando vā rāgo vā pemaṃ vā”ti?",
       "fr": "Qu'en penses-tu, chef de village: lorsque tu n'avais pas encore rencontré la mère de Tchiravassi, est-ce que tu avais du [chanda|désir], de l'[raga|avidité] ou de l'affection pour elle?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“dassanaṃ vā te, gāmaṇi, āgamma savanaṃ vā evaṃ te ahosi — ‘ciravāsimātuyā chando vā rāgo vā pemaṃ vā’”ti?",
       "fr": "—Est-ce donc parce que tu as rencontré la mère de Tchiravassi que tu as eu du [chanda|désir], de l'[raga|avidité] ou de l'affection pour elle?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“taṃ kiṃ maññasi, gāmaṇi, ciravāsimātuyā te vadhena vā bandhena vā jāniyā vā garahāya vā uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā”ti?",
       "fr": "—Qu'en penses-tu, chef de village, est-ce que l'exécution, l'incarcération, la disparition ou l'inculpation de la mère de Tchiravassi causerait en toi l'apparition de chagrin, de lamentations, de [dukkha|douleurs], de [domanassa|déplaisances mentales] ou de [upayasa|détresse]?"
@@ -87,6 +93,6 @@
       "fr": "—Chef de village, on peut aussi comprendre par cette logique que [i]“tout [dukkha|mal-être] qui se manifeste est enraciné dans le [chanda|désir], causé par le [chanda|désir]. Le [chanda|désir] est la source du [dukkha|mal-être].”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante", "samudaya", "dukkha", "domanassa", "upayasa", "chanda", "raga", "dhamma"],
   "translator": "Sekha"
 }

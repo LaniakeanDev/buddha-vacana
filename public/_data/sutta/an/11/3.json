@@ -21,6 +21,19 @@
       "fr": "Imaginez, [bhikkhu|mendiants], un arbre pourvu de branches et de feuilles: son écorce externe atteint sa complétude, son écorce interne atteint sa complétude, son bois atteint sa complétude et sa moelle atteint sa complétude. De la même manière, [bhikkhu|mendiants], celui qui est [sila|vertueux], qui est doué de [sila|vertu], est doué de la condition sinéquanone de l'absence de remords. Celui chez qui il y a une absence de remords, qui est doué d'absence de remords, est doué de la condition sinéquanone de la [pamojja|joie]. Celui chez qui il y a la [pamojja|joie], qui est pourvu de [pamojja|joie], est pourvu de la condition sinéquanone de l'[piti|exaltation]. Celui chez qui il y a l'[piti|exaltation], qui est pourvu d'[piti|exaltation], est pourvu de la condition sinéquanone de la [passaddhi|tranquillité]. Celui chez qui il y a la [passaddhi|tranquillité], qui est pourvu de [passaddhi|tranquillité], est pourvu de la condition sinéquanone du [sukha|bien-être]. Celui chez qui il y a le [sukha|bien-être], qui est pourvu du [sukha|bien-être], est pourvu de la condition sinéquanone de la [sammasamadhi|concentration correcte]. Celui chez qui il y a la [sammasamadhi|concentration correcte], qui est pourvu de la [sammasamadhi|concentration correcte], est pourvu de la condition sinéquanone de la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement]. Celui chez qui il y a la [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], qui est pourvu de [nanadassana|connaissance & vision] [des phénomènes] [yathabhutam|tels qu'ils sont réellement], est pourvu de la condition sinéquanone du [nibbida|désenchantement]. Celui chez qui il y a le [nibbida|désenchantement], qui est pourvu de [nibbida|désenchantement], est pourvu de la condition sinéquanone du [viraga|désintéressement]. Celui chez qui il y a le [viraga|désintéressement], qui est pourvu du [viraga|désintéressement], est pourvu de la condition sinéquanone de la [nanadassana|connaissance & vision] de la [vimutti|libération]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sila",
+    "pamojja",
+    "piti",
+    "passaddhi",
+    "sukha",
+    "sammasamadhi",
+    "nanadassana",
+    "yathabhutam",
+    "nibbida",
+    "viraga",
+    "vimutti"
+  ],
   "translator": "Bhikkhu Sekha"
 }

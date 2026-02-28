@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. tena kho pana samayena mallikā devī kālaṅkatā hoti. atha kho aññataro puriso yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rañño pasenadissa kosalassa upakaṇṇake āroceti:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le roi Passénadi su Kossala vint le voir, lui rendit hommage, puis s'assit d'un côté. Et en cette occasion-là, la [deva|reine] Mallika venait de décéder. Alors un certain homme vint voir le roi Passénadi du Kossala et l'informa discrètement:"
     },
-    { "pl": "mallikā devī, deva, kālaṅkatā ti.", "fr": "— [deva|Votre majesté], la [deva|reine] Mallika est décédée." },
+    {
+      "pl": "mallikā devī, deva, kālaṅkatā ti.",
+      "fr": "— [deva|Votre majesté], la [deva|reine] Mallika est décédée."
+    },
     {
       "pl": "evaṃ vutte rājā pasenadi kosalo dukkhī dummano pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ dukkhiṃ dummanaṃ pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā rājānaṃ pasenadiṃ kosalaṃ etadavoca:",
       "fr": "Lorsque cela fut dit, le roi Passénadi du Kossala se tint assis peiné, contrarié, les épaules tombantes, la tête basse, attristé, perplexe. Alors, voyant que le roi se tenait assis peiné, contrarié, les épaules tombantes, la tête basse, attristé, perplexe, le [bhagava|Fortuné] lui dit:"
@@ -62,6 +65,25 @@
       "fr": "Voici, Maharaja, quels sont ces cinq [dhamma|états] qui ne peuvent être obtenus par aucun [samana|renonçant] ni [brahmana|brahmane], ni [deva|déva], ni [mara|Mara], ni [brahma|Brahma], ni qui que ce soit dans le [loka|monde]. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "deva",
+    "dhamma",
+    "samana",
+    "brahmana",
+    "mara",
+    "brahma",
+    "loka",
+    "jara",
+    "marana",
+    "puthujjana",
+    "assutava",
+    "satta",
+    "moha",
+    "soka",
+    "ariyasavaka",
+    "sutava",
+    "parinibbana"
+  ],
   "translator": "Rémy"
 }

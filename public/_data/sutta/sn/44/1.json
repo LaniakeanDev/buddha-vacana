@@ -64,13 +64,22 @@
       "pl": "“tena hi, mahārāja, taññevettha paṭipucchissāmi. yathā te khameyya tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, mahārāja, atthi te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti gaṅgāya vālukaṃ gaṇetuṃ: ettakā vālukā iti vā, ettakāni vālukasatāni iti vā, ettakāni vālukasahassāni iti vā, ettakāni vālukasatasahassāni iti vā”ti?",
       "fr": "—Pour cela, Maharaja, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous, y a-t-il un quelconque comptable, arithméticien ou calculateur qui serait capable de compter les grains de sable du Gange en disant [i]«il y a tant de grains de sable»[/i], [i]«il y a tant de centaines de grains de sable»[/i], [i]«il y a tant de milliers de grains de sable»[/i], ou [i]«il y a tant de centaines de milliers de grains de sable»[/i]?"
     },
-    { "pl": "“no hetaṃ, ayye”.", "fr": "—Non, Madame." },
+    {
+      "pl": "“no hetaṃ, ayye”.",
+      "fr": "—Non, Madame."
+    },
     {
       "pl": "“atthi pana te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti mahāsamudde udakaṃ gaṇetuṃ ettakāni udakāḷhakāni iti vā, ettakāni udakāḷhakasatāni iti vā, ettakāni udakāḷhakasahassāni iti vā, ettakāni udakāḷhakasatasahassāni iti vā”ti?",
       "fr": "—Et y a-t-il un quelconque comptable, arithméticien ou calculateur qui serait capable de compter les gouttes d'eau dans l'océan en disant [i]«il y a tant de gouttes d'eau»[/i], [i]«il y a tant de centaines de gouttes d'eau»[/i], [i]«il y a tant de milliers de gouttes d'eau»[/i], ou [i]«il y a tant de centaines de milliers de gouttes d'eau»[/i]?"
     },
-    { "pl": "“no hetaṃ, ayye”.", "fr": "—Non, Madame." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, ayye”.",
+      "fr": "—Non, Madame."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“mahāyye, samuddo gambhīro appameyyo duppariyogāho”ti.",
       "fr": "—Madame, l'océan est grand, profond, incommensurable, difficile à sonder."
@@ -139,13 +148,22 @@
       "pl": "“tena hi, mahārāja, taññevettha paṭipucchissāmi. yathā te khameyya tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, mahārāja, atthi te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti gaṅgāya vālukaṃ gaṇetuṃ: ettakā vālukā iti vā, ettakāni vālukasatāni iti vā, ettakāni vālukasahassāni iti vā, ettakāni vālukasatasahassāni iti vā”ti?",
       "fr": "—Pour cela, Maharaja, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous, y a-t-il un quelconque comptable, arithméticien ou calculateur qui serait capable de compter les grains de sable du Gange en disant [i]«il y a tant de grains de sable»[/i], [i]«il y a tant de centaines de grains de sable»[/i], [i]«il y a tant de milliers de grains de sable»[/i], ou [i]«il y a tant de centaines de milliers de grains de sable»[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“atthi pana te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti mahāsamudde udakaṃ gaṇetuṃ ettakāni udakāḷhakāni iti vā, ettakāni udakāḷhakasatāni iti vā, ettakāni udakāḷhakasahassāni iti vā, ettakāni udakāḷhakasatasahassāni iti vā”ti?",
       "fr": "—Et y a-t-il un quelconque comptable, arithméticien ou calculateur qui serait capable de compter les gouttes d'eau dans l'océan en disant [i]«il y a tant de gouttes d'eau»[/i], [i]«il y a tant de centaines de gouttes d'eau»[/i], [i]«il y a tant de milliers de gouttes d'eau»[/i], ou [i]«il y a tant de centaines de milliers de gouttes d'eau»[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“mahā, bhante, samuddo gambhīro appameyyo duppariyogāho”ti.",
       "fr": "—[bhante|Bhanté], l'océan est grand, profond, incommensurable, difficile à sonder."
@@ -179,6 +197,25 @@
       "fr": "Alors le roi Passénadi du Kossala, ayant approuvé les paroles du [bhagava|Fortuné], le salua, se leva de son siège, lui rendit hommage en le tenant sur sa droite, et s'en alla."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "samana",
+    "arahant",
+    "sammasambuddha",
+    "@m_bahussuta",
+    "citta",
+    "tathagata",
+    "marana",
+    "hetu",
+    "paccaya",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "bhante",
+    "upasaka"
+  ],
   "translator": "Bhikkhu Sekha"
 }

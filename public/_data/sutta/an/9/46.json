@@ -4,7 +4,10 @@
   "frTitle": "Un enseignement visible directement",
   "description": "Une série de répétitions listant chacune les jhanas pour définir un terme ou une expression.",
   "body": [
-    { "pl": "AN 9.46.", "fr": "AN 9.46." },
+    {
+      "pl": "AN 9.46.",
+      "fr": "AN 9.46."
+    },
     {
       "pl": "“‘sandiṭṭhiko dhammo sandiṭṭhiko dhammo’ti, āvuso, vuccati. kittāvatā nu kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā”ti?",
       "fr": "«Ami, on entend dire: [i]“Un [dhamma|enseignement] [sanditthika|visible directement], un [dhamma|enseignement] [sanditthika|visible directement]”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il d'un [dhamma|enseignement] [sanditthika|visible directement]?"
@@ -25,7 +28,10 @@
       "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. ettāvatāpi kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā nippariyāyenā”ti.",
       "fr": "En outre, cher ami, un [bhikkhu|mendiant],[@f_arupajjhana#9|ayant transcendé la sphère de ni-perception-ni-non-perception, entre et demeure dans la cessation de la perception et du ressenti], et l'ayant vue avec [panna|discernement], ses [asava|impuretés mentales] sont complètement épuisées. Voici le sens dans lequel le [bhagava|Fortuné] parlait d'un [dhamma|enseignement] [sanditthika|visible directement], de manière définitive.»"
     },
-    { "pl": "AN 9.47.", "fr": "AN 9.47." },
+    {
+      "pl": "AN 9.47.",
+      "fr": "AN 9.47."
+    },
     {
       "pl": "“‘sandiṭṭhikaṃ nibbānaṃ sandiṭṭhikaṃ nibbānan’ti, āvuso, vuccati. kittāvatā nu kho, āvuso, sandiṭṭhikaṃ nibbānaṃ vuttaṃ bhagavatā”ti?",
       "fr": "«Ami, on entend dire: [i]“Une [nibbana|Extinction] [sanditthika|visible directement], une [nibbana|Extinction] [sanditthika|visible directement]”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il d'une [nibbana|Extinction] [sanditthika|visible directement]?"
@@ -38,7 +44,10 @@
       "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, sandiṭṭhikaṃ nibbānaṃ vuttaṃ bhagavatā nippariyāyenā”ti.",
       "fr": "En outre, cher ami, un [bhikkhu|mendiant],[@f_arupajjhana#9|ayant transcendé la sphère de ni-perception-ni-non-perception, entre et demeure dans la cessation de la perception et du ressenti], et l'ayant vue avec [panna|discernement], ses [asava|impuretés mentales] sont complètement épuisées. Voici le sens dans lequel le [bhagava|Fortuné] parlait d'une [nibbana|Extinction] [sanditthika|visible directement], de manière définitive.»"
     },
-    { "pl": "AN 9.48.", "fr": "AN 9.48." },
+    {
+      "pl": "AN 9.48.",
+      "fr": "AN 9.48."
+    },
     {
       "pl": "“‘nibbānaṃ nibbānan’ti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[nibbana|Extinction], [nibbana|Extinction]”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il d'[nibbana|Extinction]?"
@@ -51,7 +60,10 @@
       "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, nibbānaṃ vuttaṃ bhagavatā nippariyāyenā”ti.",
       "fr": "(…) ses [asava|impuretés mentales] sont complètement épuisées. Voici le sens dans lequel le [bhagava|Fortuné] parlait d'[nibbana|Extinction], de manière définitive.»"
     },
-    { "pl": "AN 9.49.", "fr": "AN 9.49." },
+    {
+      "pl": "AN 9.49.",
+      "fr": "AN 9.49."
+    },
     {
       "pl": "“‘parinibbānaṃ parinibbānan’ti ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[parinibbana|Extinction complète], [parinibbana|Extinction complète]”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il d'[parinibbana|Extinction complète]?"
@@ -64,67 +76,124 @@
       "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, parinibbānaṃ vuttaṃ bhagavatā nippariyāyenā”ti.",
       "fr": "(…) ses [asava|impuretés mentales] sont complètement épuisées. Voici le sens dans lequel le [bhagava|Fortuné] parlait d'[parinibbana|Extinction complète], de manière définitive.»"
     },
-    { "pl": "AN 9.50.", "fr": "AN 9.50." },
+    {
+      "pl": "AN 9.50.",
+      "fr": "AN 9.50."
+    },
     {
       "pl": "“‘tadaṅganibbānaṃ tadaṅganibbānan’ti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[nibbana|Extinction] de telle manière, [nibbana|Extinction] de telle manière”[/i] (…)"
     },
-    { "pl": "AN 9.51.", "fr": "AN 9.51." },
+    {
+      "pl": "AN 9.51.",
+      "fr": "AN 9.51."
+    },
     {
       "pl": "“‘diṭṭhadhammanibbānaṃ diṭṭhadhammanibbānan’ti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[nibbana|Extinction] dans ce monde visible, [nibbana|Extinction] dans ce monde visible”[/i] (…)"
     },
-    { "pl": "AN 9.52.", "fr": "AN 9.52." },
+    {
+      "pl": "AN 9.52.",
+      "fr": "AN 9.52."
+    },
     {
       "pl": "“‘khemaṃ kheman’ti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“La Paix, la Paix”[/i] (…)"
     },
-    { "pl": "AN 9.53.", "fr": "AN 9.53." },
+    {
+      "pl": "AN 9.53.",
+      "fr": "AN 9.53."
+    },
     {
       "pl": "khemappatto khemappattoti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“Quelqu'un qui a atteint la Paix, quelqu'un qui a atteint la Paix”[/i] (…)"
     },
-    { "pl": "AN 9.54.", "fr": "AN 9.54." },
+    {
+      "pl": "AN 9.54.",
+      "fr": "AN 9.54."
+    },
     {
       "pl": "amataṃ amatanti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“Le [amata|Sans-mort], le [amata|Sans-mort]”[/i] (…)"
     },
-    { "pl": "AN 9.55.", "fr": "AN 9.55." },
+    {
+      "pl": "AN 9.55.",
+      "fr": "AN 9.55."
+    },
     {
       "pl": "amatappatto amatappattoti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“Quelqu'un qui a atteint le [amata|Sans-mort], quelqu'un qui a atteint le [amata|Sans-mort]”[/i] (…)"
     },
-    { "pl": "AN 9.56.", "fr": "AN 9.56." },
+    {
+      "pl": "AN 9.56.",
+      "fr": "AN 9.56."
+    },
     {
       "pl": "abhayaṃ abhayanti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“Sans peur, sans peur”[/i] (…)"
     },
-    { "pl": "AN 9.57.", "fr": "AN 9.57." },
+    {
+      "pl": "AN 9.57.",
+      "fr": "AN 9.57."
+    },
     {
       "pl": "abhayappatto abhayappattoti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“Quelqu'un qui a atteint le Sans-peur, quelqu'un qui a atteint le Sans-peur”[/i] (…)"
     },
-    { "pl": "AN 9.58.", "fr": "AN 9.58." },
+    {
+      "pl": "AN 9.58.",
+      "fr": "AN 9.58."
+    },
     {
       "pl": "passaddhi passaddhīti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[passaddhi|Tranquillité], [passaddhi|tranquillité]”[/i] (…)"
     },
-    { "pl": "AN 9.59.", "fr": "AN 9.59." },
+    {
+      "pl": "AN 9.59.",
+      "fr": "AN 9.59."
+    },
     {
       "pl": "anupubbapassaddhi anupubbapassaddhīti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[passaddhi|Tranquillité] progressive, [passaddhi|tranquillité] progressive”[/i] (…)"
     },
-    { "pl": "AN 9.60.", "fr": "AN 9.60." },
+    {
+      "pl": "AN 9.60.",
+      "fr": "AN 9.60."
+    },
     {
       "pl": "nirodho nirodhoti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[nirodha|Cessation], [nirodha|cessation]”[/i] (…)"
     },
-    { "pl": "AN 9.61.", "fr": "AN 9.61." },
+    {
+      "pl": "AN 9.61.",
+      "fr": "AN 9.61."
+    },
     {
       "pl": "“‘anupubbanirodho anupubbanirodho’ti, āvuso, vuccati ... pe ....",
       "fr": "«Ami, on entend dire: [i]“[nirodha|Cessation] progressive, [nirodha|cessation] progressive”[/i] (…)"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "dhamma",
+    "sanditthika",
+    "bhagava",
+    "bhikkhu",
+    "@f_4jhana#1-cl",
+    "@f_4jhana#2-cl",
+    "jhana",
+    "@f_arupajjhana#5",
+    "@f_arupajjhana#9",
+    "panna",
+    "asava",
+    "nibbana",
+    "i]“[nibbana",
+    "i]“[parinibbana",
+    "parinibbana",
+    "amata",
+    "i]“[passaddhi",
+    "passaddhi",
+    "i]“[nirodha",
+    "nirodha"
+  ],
   "translator": "Sekha"
 }

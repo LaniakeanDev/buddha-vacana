@@ -4,7 +4,10 @@
   "frTitle": "Ce qui est impermanent",
   "description": "Les cinq accumulations d'attachement sont impermanentes. Ce qui est impermanent est insatisfaisant. Ce qui est insatisfaisant est sans-propriétaire.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“rūpaṃ, bhikkhave, aniccaṃ. yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tadanattā; yadanattā taṃ ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
       "fr": "[bhikkhu|Mendiants], la [rupa|Forme] est [anicca|impermanente]. Ce qui est [anicca|impermanent] est [dukkha|insatisfaisant]. Ce qui est [dukkha|insatisfaisant] est [anatta|sans-propriétaire]. Ce qui est [anatta|sans-propriétaire] doit être vu [yathabhutam|tel que c'est réellement]avec le [panna|discernement] correct, ainsi: [i]“Ce n'est pas à moi, je ne suis pas cela, cela n'est pas [atta|Moi]”[/i]."
@@ -30,6 +33,26 @@
       "fr": "En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience].Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "rupa",
+    "anicca",
+    "dukkha",
+    "anatta",
+    "yathabhutam",
+    "panna",
+    "atta",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
   "translator": "Sekha"
 }

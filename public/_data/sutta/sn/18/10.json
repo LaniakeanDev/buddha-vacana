@@ -4,7 +4,10 @@
   "frTitle": "Les accumulations",
   "description": "Rahoula vient voir son père pour lui demander des instructions. Le Bouddha lui fait considérer les cinq accumulations.",
   "body": [
-    { "pl": "evaṃ me sutaṃ — ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rāhulo bhagavantaṃ etadavoca —",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, le [aysama|vénérable] Rahoula alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -17,49 +20,103 @@
       "pl": "“taṃ kiṃ maññasi, rāhula, rūpaṃ niccaṃ vā aniccaṃ vā”ti?",
       "fr": "—Qu'en penses-tu, Rahoula: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccā dukkhaṃ vā taṃ sukhaṃ vā”ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccā dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — ‘etaṃ mama, esohamasmi, eso me attā’”ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
-    { "pl": "“vedanā niccā vā aniccā vā”ti?", "fr": "—Le [vedana|Ressenti] est-il permanent ou [anicca|impermanent]?" },
-    { "pl": "“aniccā, bhante” … pe ….", "fr": "—Il est impermanent, [bhante|Bhanté] (…)" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“vedanā niccā vā aniccā vā”ti?",
+      "fr": "—Le [vedana|Ressenti] est-il permanent ou [anicca|impermanent]?"
+    },
+    {
+      "pl": "“aniccā, bhante” … pe ….",
+      "fr": "—Il est impermanent, [bhante|Bhanté] (…)"
+    },
     {
       "pl": "“saññā niccā vā aniccā vā”ti?",
       "fr": "—La [sanna|Perception] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccā, bhante” … pe …", "fr": "—Elle est impermanente, [bhante|Bhanté] (…)" },
+    {
+      "pl": "“aniccā, bhante” … pe …",
+      "fr": "—Elle est impermanente, [bhante|Bhanté] (…)"
+    },
     {
       "pl": "“saṅkhārā niccā vā aniccā vā”ti?",
       "fr": "—Les [sankhara|Constructions] sont-elles permanentes ou [anicca|impermanentes]?"
     },
-    { "pl": "“aniccā, bhante” … pe …", "fr": "—Elles sont impermanentes, [bhante|Bhanté] (…)" },
+    {
+      "pl": "“aniccā, bhante” … pe …",
+      "fr": "—Elles sont impermanentes, [bhante|Bhanté] (…)"
+    },
     {
       "pl": "“viññāṇaṃ niccaṃ vā aniccaṃ vā”ti?",
       "fr": "—La [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccā dukkhaṃ vā taṃ sukhaṃ vā”ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccā dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ — ‘etaṃ mama, esohamasmi, eso me attā’”ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], est-il pertinent de le voir ainsi: [i]“C'est à moi, je suis cela, cela est [atta|Moi]”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“evaṃ passaṃ, rāhula, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
       "fr": "—En voyant ainsi, Rahoula, un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "aysama",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "atapi",
+    "rupa",
+    "anicca",
+    "sukha",
+    "dukkha",
+    "viparinama",
+    "atta",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
   "translator": "Sekha."
 }

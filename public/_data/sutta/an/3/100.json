@@ -24,8 +24,14 @@
       "pl": "“seyyathāpi, bhikkhave, puriso loṇakapallaṃ paritte udakamallake pakkhipeyya. taṃ kiṃ maññatha, bhikkhave, api nu taṃ parittaṃ udakamallake udakaṃ amunā loṇakapallena loṇaṃ assa apeyyan”ti?",
       "fr": "Imaginez, [bhikkhu|mendiants], qu'un homme jette une poignée de sel dans un verre d'eau. Qu'en pensez-vous, [bhikkhu|mendiants], est-ce qu'une telle poignée de sel rendrait la petite quantité d'eau dans le verre salée et imbuvable?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—En effet, [bhante|Bhanté]." },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“aduñhi, bhante, parittaṃ udakakapallake udakaṃ, taṃ amunā loṇakapallena loṇaṃ assa apeyyan”ti.",
       "fr": "—[bhante|Bhanté], la quantité d'eau dans le verre est si petite qu'une telle poignée de sel la rendrait salée et imbuvable."
@@ -34,8 +40,14 @@
       "pl": "“seyyathāpi, bhikkhave, puriso loṇakapallakaṃ gaṅgāya nadiyā pakkhipeyya. taṃ kiṃ maññatha, bhikkhave, api nu sā gaṅgā nadī amunā loṇakapallena loṇaṃ assa apeyyā”ti?",
       "fr": "—Imaginez, [bhikkhu|mendiants], qu'un homme jette une poignée de sel dans le fleuve Gange. Qu'en pensez-vous, [bhikkhu|mendiants], est-ce qu'une telle poignée de sel rendrait le fleuve Gange salé et imbuvable?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]" },
-    { "pl": "“taṃ kissa hetu”?", "fr": "—Pourquoi cela?" },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]"
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
     {
       "pl": "“asu hi, bhante, gaṅgāya nadiyā mahā udakakkhandho so amunā loṇakapallena loṇo na assa apeyyo”ti.",
       "fr": "—[bhante|Bhanté], l'accumulation d'eau du fleuve Gange est si grande qu'une telle poignée de sel ne la rendrait pas salée ni imbuvable."
@@ -105,6 +117,18 @@
       "fr": "Mendiants, si quelqu'un disait: [i]“Une personne fait l'expérience [des effets] d'une [kamma|action], exactement de la même manière qu'elle l'a réalisée”[/i], dans ce cas-là on ne pourrait pas vivre la [brahmacariya|vie brahmique], et aucune opportunité de mettre correctement un terme au [dukkha|mal-être] ne serait discernée. Mais, [bhikkhu|mendiants], si quelqu'un dit: [i]“Lorsqu'une personne réalise une [kamma|action] [dont les effets sont] à ressentir d'une certaine manière, c'est de cette même manière qu'elle fait l'expérience de son résultat”[/i], dans ce cas-là on peut vivre la [brahmacariya|vie brahmique], et une opportunité de mettre correctement un terme au [dukkha|mal-être] est discernée. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "kamma",
+    "brahmacariya",
+    "dukkha",
+    "bhikkhu",
+    "niraya",
+    "ditthedhamme",
+    "kaya",
+    "sila",
+    "citta",
+    "panna",
+    "bhante"
+  ],
   "translator": "Rémy"
 }

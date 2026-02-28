@@ -20,8 +20,11 @@
       "pl": "“Yasmiṃ, āvuso, samaye bhagavā sāmaṃ senāsanaṃ saṃsāmetvā pattacīvaramādāya anāmantetvā upaṭṭhāke anapaloketvā bhikkhusaṅghaṃ eko adutiyo cārikaṃ pakkamati, ekova bhagavā tasmiṃ samaye viharitukāmo hoti; na bhagavā tasmiṃ samaye kenaci anubandhitabbo hotī”ti.",
       "fr": "— Ami, lorsque le [bhagava|Fortuné] range lui-même son logement et, emportant son bol et ses robes, sans informer ses aides ni la communauté des [bhikkhu|mendiants], part se promener seul et sans compagnon, c'est qu'il souhaite rester seul. En une telle occasion, le [bhagava|Fortuné] ne doit pas être suivi par qui que ce soit."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu"],
   "translator": "Rémy"
 }

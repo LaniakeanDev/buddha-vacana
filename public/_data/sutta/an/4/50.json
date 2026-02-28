@@ -4,7 +4,10 @@
   "frTitle": "Souillures",
   "description": "Le Bouddha explique ici quelles sont les quatre principales manières dont les renonçants se pervertissent, y compris par l'usage de l'argent.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "Cattārome samaṇabrāhmaṇānaṃ upakkilesā, yehi upakkilesehi upakkiliṭṭhā eke samaṇabrāhmaṇā na tapanti na bhāsanti na virocanti. Katame cattāro?",
       "fr": "Il y a ces quatre [upakkilesa|souillures] des [samana|renonçants] & [brahmana|brahmanes], souillés par lesquelles certains [samana|renonçants] & [brahmana|brahmanes] ne brillent pas, ne rayonnent pas, ne resplendissent pas. Quelles sont ces quatre?"
@@ -29,8 +32,11 @@
       "pl": "Ime kho, bhikkhave, cattāro samaṇabrāhmaṇānaṃ upakkilesā, yehi upakkilesehi upakkiliṭṭhā eke samaṇabrāhmaṇā na tapanti na bhāsanti na virocantī ti.",
       "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [upakkilesa|souillures] des [samana|renonçants] & [brahmana|brahmanes], souillés par lesquelles certains [samana|renonçants] & [brahmana|brahmanes] ne brillent pas, ne rayonnent pas, ne resplendissent pas."
     },
-    { "pl": "...", "fr": "..." }
+    {
+      "pl": "...",
+      "fr": "..."
+    }
   ],
-  "keywords": [],
+  "keywords": ["upakkilesa", "samana", "brahmana", "bhikkhu"],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Le temps d'un claquement de doigts",
   "description": "De longues séries de répétitions qui ont l'intérêt de passer en revue presque toutes les pratiques formelles de méditation ou de réflexion.",
   "body": [
-    { "pl": "jhānā", "fr": "Jhānas" },
+    {
+      "pl": "jhānā",
+      "fr": "Jhānas"
+    },
     {
       "pl": "394. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu paṭhamaṃ jhānaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "394. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le premier [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -21,7 +24,10 @@
       "pl": "397. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu catutthaṃ jhānaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "397. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le quatrième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "cetovimutti", "fr": "Libérations de l'esprit" },
+    {
+      "pl": "cetovimutti",
+      "fr": "Libérations de l'esprit"
+    },
     {
       "pl": "398. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettaṃ cetovimuttiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "398. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -38,7 +44,10 @@
       "pl": "401. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu upekkhaṃ cetovimuttiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "401. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [cetovimutti|libération de l'esprit] par l'[upekkha|équanimité], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "satipaṭṭhāna", "fr": "Mises en place de la présence d'esprit" },
+    {
+      "pl": "satipaṭṭhāna",
+      "fr": "Mises en place de la présence d'esprit"
+    },
     {
       "pl": "402. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "402. [bhikkhu|Mendiants], si [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -55,7 +64,10 @@
       "pl": "405. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "405. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] [@f_stp#dhamma-cl|reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "sammāvāyāma", "fr": "Efforts corrects" },
+    {
+      "pl": "sammāvāyāma",
+      "fr": "Efforts corrects"
+    },
     {
       "pl": "406. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "406.[bhikkhu|Mendiants], si un [bhikkhu|mendiant] génère le [chanda|désir] de non-apparition des [dhamma|états] [papaka|malsains] et [akusala|désavantageux] qui ne sont pas [encore] apparus, et qu'il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce [dans ce sens], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -72,7 +84,10 @@
       "pl": "409. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "409. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] génère le [chanda|désir] de maintien, de non-confusion, d'augmentation, d'abondance, de développement et de complétude des [dhamma|états] [kusala|avantageux] qui sont [déjà] apparus, et qu'il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce [dans ce sens], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "iddhipāda", "fr": "Chemins des pouvoirs psychiques" },
+    {
+      "pl": "iddhipāda",
+      "fr": "Chemins des pouvoirs psychiques"
+    },
     {
       "pl": "410. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu chanda-samādhi-padhāna-saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "410. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due au[chanda|désir] et aux [sankhara|constructions] d'[padhana|effort], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -89,7 +104,10 @@
       "pl": "413. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu vīmaṃsā-samādhi-padhāna-saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "413. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'investigation et aux [sankhara|constructions] d'[padhana|effort], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "indriya", "fr": "Facultés spirituelles" },
+    {
+      "pl": "indriya",
+      "fr": "Facultés spirituelles"
+    },
     {
       "pl": "414. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "414. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -110,7 +128,10 @@
       "pl": "418. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu paññindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "418. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [panna|discernement], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "bala", "fr": "Forces" },
+    {
+      "pl": "bala",
+      "fr": "Forces"
+    },
     {
       "pl": "419. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu saddhābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "419. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] de la [saddha|conviction], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -131,7 +152,10 @@
       "pl": "423. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "423. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "bojjhaṅga", "fr": "Facteurs d'éveil" },
+    {
+      "pl": "bojjhaṅga",
+      "fr": "Facteurs d'éveil"
+    },
     {
       "pl": "424. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "424. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [sati|présence d'esprit] en tant que [bojjhanga|facteur d'Éveil], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -160,7 +184,10 @@
       "pl": "430. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu upekkhāsambojjhaṅgaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "430. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique l'[upekkha|équanimité] en tant que [bojjhanga|facteur d'Éveil], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "ariya aṭṭhaṅgika magga", "fr": "Noble voie à huit composantes" },
+    {
+      "pl": "ariya aṭṭhaṅgika magga",
+      "fr": "Noble voie à huit composantes"
+    },
     {
       "pl": "431. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "431. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [sammaditthi|vue correcte], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -193,7 +220,10 @@
       "pl": "438. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu sammāsamādhiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "438. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [sammasamadhi|concentration correcte], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "abhibhāyatana", "fr": "Bases de la maîtrise" },
+    {
+      "pl": "abhibhāyatana",
+      "fr": "Bases de la maîtrise"
+    },
     {
       "pl": "439. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu ajjhattaṃ rūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "439. [bhikkhu|Mendiants], si un [bhikkhu|mendiant], percevant les [rupa|formes] intérieurement, voit des [rupa|formes] extérieurement, limitées, belles ou laides, et les ayant maîtrisées, perçoit: [i]«Je sais, je vois»[/i], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -226,7 +256,10 @@
       "pl": "446. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu ajjhattaṃ arūpasaññī bahiddhā rūpāni passati odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni. tāni abhibhuyya ‘jānāmi passāmī’ti evaṃsaññī hoti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "446. [bhikkhu|Mendiants], si un [bhikkhu|mendiant], ne percevant pas les [rupa|formes] intérieurement, voit des [rupa|formes] extérieurement, blanches, de couleur blanche, de teinte blanche, de tonalité blanche, et les ayant maîtrisées, perçoit: [i]«Je sais, je vois»[/i], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "vimokkha", "fr": "Délivrances" },
+    {
+      "pl": "vimokkha",
+      "fr": "Délivrances"
+    },
     {
       "pl": "447. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu rūpī rūpāni passati, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "447. [bhikkhu|Mendiants], si un [bhikkhu|mendiant], étant doué de [rupa|forme], voit les [rupa|formes], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -259,7 +292,10 @@
       "pl": "454. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "454. [bhikkhu|Mendiants], si un [bhikkhu|mendiant], [@f_arupajjhana#9|ayant transcendé la sphère de ni-perception-ni-non-perception, entre et demeure dans la cessation de la perception et du ressenti], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "kasiṇa", "fr": "Kassinas" },
+    {
+      "pl": "kasiṇa",
+      "fr": "Kassinas"
+    },
     {
       "pl": "455. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu pathavīkasiṇaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "455. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le [kasina|kassina] de la Terre, ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
@@ -300,7 +336,10 @@
       "pl": "464. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu viññāṇakasiṇaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "464. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique le [kasina|kassina] de la [vinnana|Conscience], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui le cultivent abondamment!"
     },
-    { "pl": "saññā", "fr": "Perceptions" },
+    {
+      "pl": "saññā",
+      "fr": "Perceptions"
+    },
     {
       "pl": "465. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu asubhasaññaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "465. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [asubhasanna|perception du répugnant], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -381,7 +420,10 @@
       "pl": "484. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu uddhumātakasaññaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "484. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [sanna|perception] d'un cadavre gonflé, ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "anussati", "fr": "Remémorations" },
+    {
+      "pl": "anussati",
+      "fr": "Remémorations"
+    },
     {
       "pl": "485. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu buddhānussatiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "485. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [buddhanussati|remémoration du Bouddha], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -422,7 +464,10 @@
       "pl": "494. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu upasamānussatiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "494. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la remémoration de la [upasama|quiétude], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "paṭhamajjhānasahagata", "fr": "Accompagnées du premier jhana" },
+    {
+      "pl": "paṭhamajjhānasahagata",
+      "fr": "Accompagnées du premier jhana"
+    },
     {
       "pl": "495. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu paṭhamajjhānasahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "495. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée du premier [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -463,7 +508,10 @@
       "pl": "504. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu paṭhamajjhānasahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "504. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée du premier [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "dutiyajjhānasahagata", "fr": "Accompagnées du deuxième [jhana|jhana]" },
+    {
+      "pl": "dutiyajjhānasahagata",
+      "fr": "Accompagnées du deuxième [jhana|jhana]"
+    },
     {
       "pl": "505. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu dutiyajjhānasahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "505. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée du deuxième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -504,7 +552,10 @@
       "pl": "514. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu dutiyajjhānasahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "514. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée du deuxième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "tatiyajjhānasahagata", "fr": "Accompagnées du troisième [jhana|jhana]" },
+    {
+      "pl": "tatiyajjhānasahagata",
+      "fr": "Accompagnées du troisième [jhana|jhana]"
+    },
     {
       "pl": "515. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu tatiyajjhānasahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "515. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée du troisième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -545,7 +596,10 @@
       "pl": "524. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu tatiyajjhānasahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "524. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée du troisième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "catutthajjhānasahagata", "fr": "Accompagnées du quatrième [jhana|jhana]" },
+    {
+      "pl": "catutthajjhānasahagata",
+      "fr": "Accompagnées du quatrième [jhana|jhana]"
+    },
     {
       "pl": "525. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu catutthajjhānasahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "525. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée du quatrième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -586,7 +640,10 @@
       "pl": "534. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu catutthajjhānasahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "534. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée du quatrième [jhana|jhana], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "mettāsahagata", "fr": "Accompagnées de [metta|bienveillance]" },
+    {
+      "pl": "mettāsahagata",
+      "fr": "Accompagnées de [metta|bienveillance]"
+    },
     {
       "pl": "535. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettāsahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "535. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée de [metta|bienveillance], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -627,7 +684,10 @@
       "pl": "544. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu mettāsahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "544. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée de [metta|bienveillance], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "karuṇāsahagata", "fr": "Accompagnées de [karuna|compassion]" },
+    {
+      "pl": "karuṇāsahagata",
+      "fr": "Accompagnées de [karuna|compassion]"
+    },
     {
       "pl": "545. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu karuṇāsahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "545. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée de [karuna|compassion], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -668,7 +728,10 @@
       "pl": "554. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu karuṇāsahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "554. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée de [karuna|compassion], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "muditāsahagata", "fr": "Accompagnées de [mudita|joie altruiste]" },
+    {
+      "pl": "muditāsahagata",
+      "fr": "Accompagnées de [mudita|joie altruiste]"
+    },
     {
       "pl": "555. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu muditāsahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "555. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée de [mudita|joie altruiste], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -709,7 +772,10 @@
       "pl": "564. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu muditāsahagataṃ paññābalaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "564. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée de [mudita|joie altruiste], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     },
-    { "pl": "upekkhāsahagata", "fr": "Accompagnées d'[upekkha|équanimité]" },
+    {
+      "pl": "upekkhāsahagata",
+      "fr": "Accompagnées d'[upekkha|équanimité]"
+    },
     {
       "pl": "565. “accharāsaṅghātamattampi ce, bhikkhave, bhikkhu upekkhāsahagataṃ saddhindriyaṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
       "fr": "565. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [indriya|faculté] de [saddha|conviction] accompagnée de [upekkha|équanimité], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
@@ -751,6 +817,76 @@
       "fr": "574. [bhikkhu|Mendiants], si un [bhikkhu|mendiant] pratique la [bala|force] du [panna|discernement] accompagnée de [upekkha|équanimité], ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un [bhikkhu|mendiant] qui n'est pas dépourvu de [jhana|méditation], qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "jhana",
+    "cetovimutti",
+    "metta",
+    "karuna",
+    "mudita",
+    "upekkha",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "chanda",
+    "dhamma",
+    "papaka",
+    "akusala",
+    "viriya",
+    "citta",
+    "kusala",
+    "iddhipada",
+    "samadhi",
+    "sankhara",
+    "padhana",
+    "indriya",
+    "saddha",
+    "sati",
+    "panna",
+    "bala",
+    "bojjhanga",
+    "dhammavicaya",
+    "piti",
+    "passaddhi",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "rupa",
+    "subha",
+    "@f_arupajjhana#5",
+    "@f_arupajjhana#6",
+    "@f_arupajjhana#7",
+    "@f_arupajjhana#8",
+    "@f_arupajjhana#9",
+    "kasina",
+    "vinnana",
+    "asubhasanna",
+    "maranasanna",
+    "ahareps",
+    "slas",
+    "aniccasanna",
+    "adsanna",
+    "anattasanna",
+    "dukkha",
+    "sanna",
+    "viragasanna",
+    "nirodhasanna",
+    "buddhanussati",
+    "dhammanussati",
+    "sanghanussati",
+    "silanussati",
+    "caganussati",
+    "devatanussati",
+    "anapanassati",
+    "maranassati",
+    "kayagatasati",
+    "upasama"
+  ],
   "translator": "Rémy"
 }

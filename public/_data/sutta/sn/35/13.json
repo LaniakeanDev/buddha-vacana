@@ -4,7 +4,10 @@
   "frTitle": "Avant mon éveil",
   "description": "Le Bouddha explique que comprendre l'agrément, le désavantage et l'émancipation par rapport aux six organes des sens était une condition nécessaire à son éveil.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi — ‘ko nu kho cakkhussa assādo, ko ādīnavo, kiṃ nissaraṇaṃ? ko sotassa ... pe ... ko ghānassa... ko jivhāya... ko kāyassa... ko manassa assādo, ko ādīnavo, kiṃ nissaraṇan’ti?",
       "fr": "«Mendiants, avant mon [sambodhi|éveil], lorsque je n'étais qu'un [bodhisatta|être d'Éveil], pas encore [sambuddha|éveillé], je me suis dit: [i]“Quel est l'[assada|agrément] de l'œil? Quel est son [adinava|désavantage]? Et quelle est l'[nissarana|émancipation] vis-à-vis de lui? Quel est l'[assada|agrément] de l'oreille (…) du nez (…) de la langue (…) du corps (…) Quel est l'[assada|agrément] du mental? Quel est son [adinava|désavantage]? Et quelle est l'[nissarana|émancipation] vis-à-vis de lui?”[/i]"
@@ -26,6 +29,32 @@
       "fr": "Mais lorsque, [bhikkhu|mendiants], j'ai compris tels qu'ils sont réellement l'[assada|agrément] de ces six sphères des sens internes en tant qu'[assada|agrément], leur [adinava|désavantage] en tant que [adinava|désavantage], et l'[nissarana|émancipation] vis-à-vis d'elles, j'ai déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]. La [nanadassana|connaissance & vision] apparut en moi: [i]“La [cetovimutti|libération de mon esprit] est inébranlable, ceci est ma dernière [jati|naissance], maintenant il n'y aura plus d'[bhava|existence] supplémentaire.”[/i]»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "sambodhi",
+    "bodhisatta",
+    "sambuddha",
+    "assada",
+    "adinava",
+    "nissarana",
+    "bhikkhu",
+    "sukha",
+    "somanassa",
+    "anicca",
+    "dukkha",
+    "dhamma",
+    "chanda",
+    "raga",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samana",
+    "brahmana",
+    "sammasambodhi",
+    "nanadassana",
+    "cetovimutti",
+    "jati",
+    "bhava"
+  ],
   "translator": "Sekha"
 }

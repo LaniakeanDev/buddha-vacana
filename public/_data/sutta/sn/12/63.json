@@ -4,7 +4,10 @@
   "frTitle": "L'allégorie de la chair du fils",
   "description": "Ce soutta propose 4 allégories impressionnantes pour comprendre comment il faudrait considérer les quatre nutriments: nourriture comestible, contact, intention et conscience.",
   "body": [
-    { "pl": "sāvatthiyaṃ ... pe ... ", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ ... pe ... ",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“cattārome, bhikkhave, āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya . katame cattāro? kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṃ catutthaṃ. ime kho, bhikkhave, cattāro āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya”.",
       "fr": "«[bhikkhu|Mendiants], il y a ces quatre [ahara|nutriment]s pour la maintenance des êtres vivants venus au monde ou l'assistance de ceux qui ne le sont pas encore. Quels sont ces quatre? Le [ahara|nutriment] de nourriture comestible, basique ou raffinée, le [phassa|contact] en deuxième, l'[cetana|intention] [mana|mentale] en troisième, et la [vinnana|conscience] en quatrième. Voici, [bhikkhu|mendiants], quels sont ces quatre [ahara|nutriment]s pour la maintenance des êtres vivants venus au monde ou l'assistance de ceux qui ne le sont pas encore."
@@ -17,12 +20,18 @@
       "pl": "“taṃ kiṃ maññatha, bhikkhave, api nu te davāya vā āhāraṃ āhāreyyuṃ, madāya vā āhāraṃ āhāreyyuṃ, maṇḍanāya vā āhāraṃ āhāreyyuṃ, vibhūsanāya vā āhāraṃ āhāreyyun””ti?",
       "fr": "Qu'en pensez-vous, [bhikkhu|mendiants]: est-ce qu'ils mangeraient la nourriture en récréation ou avec laisser-aller, ou pour la beauté, ou pour l'esthétique?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“nanu te, bhikkhave, yāvadeva kantārassa nittharaṇatthāya āhāraṃ āhāreyyun””ti?",
       "fr": "—Ne mangeraient-ils pas la nourriture uniquement pour traverser le désert?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Si, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Si, [bhante|Bhanté]."
+    },
     {
       "pl": "“evameva khvāhaṃ, bhikkhave, kabaḷīkāro āhāro daṭṭhabbo””ti vadāmi. kabaḷīkāre, bhikkhave, āhāre pariññāte pañcakāmaguṇiko rāgo pariññāto hoti. pañcakāmaguṇike rāge pariññāte natthi taṃ saṃyojanaṃ yena saṃyojanena saṃyutto ariyasāvako puna imaṃ lokaṃ āgaccheyya.",
       "fr": "—[bhikkhu|Mendiants], je déclare que le [ahara|nutriment] de nourriture comestible devrait être vu de la même manière. Lorsque le [ahara|nutriment] de nourriture comestible est complètement compris, l'[raga|avidité] liée aux cinq [kamaguna|agréments de la sensualité] est complètement comprise. Lorsque l'[raga|avidité] liée aux cinq [kamaguna|agréments de la sensualité] est complètement comprise, il n'y a pas d'[samyojana|entrave] entravé par laquelle un [ariyasavaka|noble disciple] reviendrait dans ce monde."
@@ -56,6 +65,25 @@
       "fr": "—[bhikkhu|Mendiants], je déclare que le [ahara|nutriment] de [vinnana|conscience] devrait être vu de la même manière. Lorsque le [ahara|nutriment] de [vinnana|conscience] est complètement compris, le [namarupa|Nom-et-Forme] est complètement compris. Je déclare que lorsque le [namarupa|Nom-et-Forme] est complètement compris, il n'y a rien de plus à faire pour un [ariyasavaka|noble disciple].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "ahara",
+    "phassa",
+    "cetana",
+    "mana",
+    "vinnana",
+    "bhante",
+    "raga",
+    "kamaguna",
+    "samyojana",
+    "ariyasavaka",
+    "vedana",
+    "sukha",
+    "dukkha",
+    "tanha",
+    "domanassa",
+    "namarupa"
+  ],
   "translator": "Sekha."
 }

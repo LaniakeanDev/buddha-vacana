@@ -8,7 +8,10 @@
       "pl": "tatra kho āyasmā sāriputto bhikkhū āmantesi:",
       "fr": "Là, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "— “āvuso bhikkhave”ti.", "fr": "—[avuso|Amis], [bhikkhu|mendiants]." },
+    {
+      "pl": "— “āvuso bhikkhave”ti.",
+      "fr": "—[avuso|Amis], [bhikkhu|mendiants]."
+    },
     {
       "pl": "“āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. āyasmā sāriputto etadavoca:",
       "fr": "—[avuso|Ami], répondirent les [bhikkhu|mendiants] au [ayasma|vénérable] Saripoutta. Ce dernier leur dit:"
@@ -78,6 +81,22 @@
       "fr": "Voici, [avuso|amis], quelles sont ces cinq manières de dissiper le ressentiment au moyen desquelles le ressentiment qui est apparu chez un [bhikkhu|mendiant] devrait être complètement dissipé."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "avuso",
+    "citta",
+    "pamsukula",
+    "manasikara",
+    "bhesajja",
+    "duccarita",
+    "sucarita",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya"
+  ],
   "translator": "Rémy"
 }

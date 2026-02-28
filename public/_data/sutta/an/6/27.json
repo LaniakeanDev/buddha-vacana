@@ -18,16 +18,29 @@
     },
     {
       "pl": "Idha, bhikkhu, yasmiṃ samaye bhikkhu kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāti tasmiṃ samaye manobhāvanīyo bhikkhu upasaṅkamitvā evamassa vacanīyo: ‘ahaṃ kho, āvuso, kāmarāgapariyuṭṭhitena cetasā viharāmi kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāmi. Sādhu vata me āyasmā kāmarāgassa pahānāya dhammaṃ desetū’ti. Tassa manobhāvanīyo bhikkhu kāmarāgassa pahānāya dhammaṃ deseti. Ayaṃ, bhikkhu, paṭhamo samayo manobhāvanīyassa bhikkhuno dassanāya upasaṅkamituṃ.",
-      "fr": "—“yasmiṃ, brāhmaṇa, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ nappajānāti, attatthampi tasmiṃ samaye yathābhūtaṃ nappajānāti na passati, paratthampi tasmiṃ samaye yathābhūtaṃ nappajānāti na passati, ubhayatthampi tasmiṃ samaye yathābhūtaṃ nappajānāti na passati, dīgharattaṃ sajjhāyakatāpi mantā nappaṭibhanti, pageva asajjhāyakatā.",
-      "fr": "—[brahmana|Brahmane], lorsque l'[citta|esprit] demeure sous l'emprise de l'[kamaraga|avidité de plaisirs sensuels], accablé par l'[kamaraga|avidité de plaisirs sensuels], il ne discerne pas, [yathabhutam|telle qu'elle est réellement] l'[nissarana|émancipation] par rapport à l'[kamaraga|avidité de plaisirs sensuels], il ne distingue pas et ne voit pas [yathabhutam|tel que c'est réellement] ce qui lui est bénéfique, il ne distingue pas et ne voit pas [yathabhutam|tel que c'est réellement] ce qui est [@m_attha|bénéfique] aux autres, il ne distingue pas et ne voit pas [yathabhutam|tel que c'est réellement] ce qui est [@m_attha|bénéfique] aux deux, et les hymnes qui ont été répétés pendant longtemps ne viennent pas [à l'esprit], sans parler de ceux qui n'ont pas été répétés.“yasmiṃ kho, rājakumāra, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ na jānāti na passati, ayampi kho, rājakumāra, hetu, ayaṃ paccayo aññāṇāya adassanāya. evampi sahetu sappaccayo aññāṇaṃ adassanaṃ hoti.",
       "fr": "Prince, lorsqu'on reste avec l'[citta|esprit] sous l'emprise de l'[kamaraga|avidité de plaisirs sensuels], accablé par l'[kamaraga|avidité de plaisirs sensuels], et qu'on ne discerne pas, [yathabhutam|telle qu'elle est réellement], l'[nissarana|émancipation] par rapport à l'[kamaraga|avidité de plaisirs sensuels], c'est une [hetu|cause], c'est une [paccaya|raison] pour l'absence de connaissance et l'absence de vision. Voici comment l'absence de connaissance et l'absence de vision ont une [hetu|cause] et une [paccaya|raison]."
     },
-    { "pl": "", "fr": "—" },
-    { "pl": "", "fr": "—" },
-    { "pl": "", "fr": "—" },
-    { "pl": "", "fr": "—" },
-    { "pl": "", "fr": "—" }
+    {
+      "pl": "",
+      "fr": "—"
+    },
+    {
+      "pl": "",
+      "fr": "—"
+    },
+    {
+      "pl": "",
+      "fr": "—"
+    },
+    {
+      "pl": "",
+      "fr": "—"
+    },
+    {
+      "pl": "",
+      "fr": "—"
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "bhagava", "citta", "kamaraga", "yathabhutam", "nissarana", "hetu", "paccaya"],
   "translator": "Rémy"
 }

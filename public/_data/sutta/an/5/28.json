@@ -72,7 +72,10 @@
       "pl": "“seyyathāpi, bhikkhave, udakamaṇiko ādhāre ṭhapito pūro udakassa samatittiko kākapeyyo. tamenaṃ balavā puriso yato yato āvajjeyya, āgaccheyya udakan”ti?",
       "fr": "Imaginez, [bhikkhu|mendiants], qu'il y ait une jarre d'eau placée sur un support et remplie d'eau à ras-bord. Si un homme en bonne santé la renversait dans une direction quelconque, est-ce que l'eau s'en écoulerait?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“evamevaṃ kho, bhikkhave, bhikkhu evaṃ bhāvite ariye pañcaṅgike sammāsamādhimhi evaṃ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṃ abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane.",
       "fr": "—De la même manière, [bhikkhu|mendiants], lorsqu'un [bhikkhu|mendiant] développe ainsi et cultive ainsila [ariya|noble] [sammasamadhi|concentration correcte] à cinq composantes,quel que soit l'[dhamma|état mental] à réaliser par [abhinna|connaissance directe] vers lequel il dirige son [citta|esprit], il est capable de l'obtenir lorsqu'il y en a la possibilité."
@@ -81,7 +84,10 @@
       "pl": "“seyyathāpi, bhikkhave, same bhūmibhāge pokkharaṇī caturaṃsā ālibaddhā pūrā udakassa samatittikā kākapeyyā. tamenaṃ balavā puriso yato yato āliṃ muñceyya, āgaccheyya udakan”ti?",
       "fr": "Imaginez, [bhikkhu|mendiants], qu'il y ait un plan d'eau sur un terrain plat, maintenue par quatre digues et remplie d'eau à ras-bord. Si un homme en bonne santé ouvrait une digue dans une direction quelconque, est-ce que l'eau s'en écoulerait?"
     },
-    { "pl": "“evaṃ, bhante”.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“evamevaṃ kho, bhikkhave, bhikkhu evaṃ bhāvite ariye pañcaṅgike sammāsamādhimhi evaṃ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṃ abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane.",
       "fr": "—De la même manière, [bhikkhu|mendiants], lorsqu'un [bhikkhu|mendiant] développe ainsi et cultive ainsila [ariya|noble] [sammasamadhi|concentration correcte] à cinq composantes,quel que soit l'[dhamma|état mental] à réaliser par [abhinna|connaissance directe] vers lequel il dirige son [citta|esprit], il est capable de l'obtenir lorsqu'il y en a la possibilité."
@@ -115,6 +121,52 @@
       "fr": "S'il souhaite: [i]“avec l'élimination complète des [asava|impuretés mentales], puissé-je entrer et demeurer [ditthevadhamme|dans ce monde visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour moi-même par [abhinna|connaissance directe]”[/i], il est capable d'obtenir cela lorsqu'il y en a la possibilité."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhavana",
+    "ariya",
+    "sammasamadhi",
+    "bhante",
+    "bhagava",
+    "@f_4jhana#1-cl",
+    "kaya",
+    "piti",
+    "viveka",
+    "@f_4jhana#2-cl",
+    "sukha",
+    "samadhi",
+    "@f_4jhana#3-cl",
+    "@f_4jhana#4-cl",
+    "nimitta",
+    "panna",
+    "dhamma",
+    "abhinna",
+    "citta",
+    "iddhi",
+    "loka",
+    "brahma",
+    "deva",
+    "raga",
+    "dosa",
+    "moha",
+    "samahita",
+    "kappa",
+    "dukkha",
+    "kamma",
+    "duccarita",
+    "micchaditthi",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "sucarita",
+    "sammaditthi",
+    "sugati",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti"
+  ],
   "translator": "Rémy"
 }

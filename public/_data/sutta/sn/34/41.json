@@ -4,7 +4,10 @@
   "frTitle": "Par rapport au socle",
   "description": "Une série de cinq souttas qui compare diverses capacités liées à la concentration à l'habilité au socle de cette dernière.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
@@ -22,6 +25,6 @@
       "fr": "(42 à 45: Les quatre souttas qui restent dans cette série suivent le modèle ci-dessus, en remplaçant «nourrissement» par les termes de la série précédente, de «être résolu» à «ce qui est adéquat», comme dans SN 34.16 à 19.)"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "samadhi"],
   "translator": "Sekha"
 }

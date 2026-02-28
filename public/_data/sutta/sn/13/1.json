@@ -4,7 +4,10 @@
   "frTitle": "Le coin de l'ongle",
   "description": "Le Bouddha illustre les bienfaits de l'entrée dans le courant à l'aide d'un brin de terre sur le coin de son ongle.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho bhagavā parittaṃ nakhasikhāyaṃ paṃsuṃ āropetvā bhikkhū āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, ayant mis un brin de terre sur le coin de son ongle, il s'adressa aux [bhikkhu|mendiants]:"
@@ -22,6 +25,6 @@
       "fr": "—De la même manière, [bhikkhu|mendiants], le [dukkha|mal-être] qui a été totalementépuisé et éliminé par un [ariyasavaka|noble disciple] [ditthisampanna|accompli en vue [correcte]] et ayant pleinement compris est le plus grand, tandis que ce qui reste est infime. Cela ne représente pas le centième, ne représente pas le millième, ne représente pas le cent-millième de la précédente masse de [dukkha|mal-être] qui a été totalement épuisé et éliminé, puisqu'il ne lui reste au maximum que sept vies. Tel est le grand bienfait de la réalisation du [dhamma|Dhamma], [bhikkhu|mendiants], tel est le grand bienfait de l'acquisition de l'[dhammacakkhu|œil du Dhamma].»"
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "bhante", "dukkha", "ariyasavaka", "ditthisampanna", "dhamma", "dhammacakkhu"],
   "translator": "Sekha."
 }

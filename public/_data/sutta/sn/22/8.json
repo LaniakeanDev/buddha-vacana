@@ -4,7 +4,10 @@
   "frTitle": "L'agitation due à l'attachement",
   "description": "Voici comment apparaît l'agitation due à l'attachement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“upādāparitassanañca vo, bhikkhave, desessāmi anupādāaparitassanañca. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
       "fr": "Mendiants, je vais vous expliquer l'agitation due à l'[upadana|attachement], ainsi que l'absence d'agitation due à l'absence d'[upadana|attachement]. Écoutez cela et faites bien attention, je vais parler."
@@ -62,6 +65,24 @@
       "fr": "Voici, [bhikkhu|mendiants], comment il y a absence d'agitation due à l'absence d'[upadana|attachement]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "upadana",
+    "bhante",
+    "bhikkhu",
+    "bhagava",
+    "puthujjana",
+    "assutava",
+    "rupa",
+    "atta",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "sutava"
+  ],
   "translator": "Rémy"
 }

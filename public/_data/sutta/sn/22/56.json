@@ -4,7 +4,10 @@
   "frTitle": "Les aspects des accumulations d'attachement",
   "description": "Le Bouddha applique le schéma des quatre nobles vérités aux accumulations d'attachement (khandha).",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pañcime, bhikkhave, upādānakkhandhā. katame pañca? rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. yāvakīvañcāhaṃ, bhikkhave, ime pañcupādānakkhandhe catuparivaṭṭaṃ yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. yato ca khvāhaṃ, bhikkhave, ime pañcupādānakkhandhe catuparivaṭṭaṃ yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke ... pe ... sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ”.",
       "fr": "[bhikkhu|Mendiants], il y a ces cinq [upadanakkhandha|accumulations d'attachement]. Quelles sont ces cinq? L'[upadanakkhandha|accumulation d'attachement] à la [rupa|Forme], l'[upadanakkhandha|accumulation d'attachement] au [vedana|Ressenti],l'[upadanakkhandha|accumulation d'attachement] à la [sanna|Perception],l'[upadanakkhandha|accumulation d'attachement] aux [sankhara|Constructions], et l'[upadanakkhandha|accumulation d'attachement] à la [vinnana|Conscience]. Aussi longtemps, [yathabhutam|mendiants], que je n'avais pas compris [yathabhutam|tels qu'elles sont réellement] ces cinq [upadanakkhandha|accumulations d'attachement] selon quatre aspects, je n'ai pas déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]. Mais lorsque, [bhikkhu|mendiants], j'ai compris [yathabhutam|tels qu'elles sont réellement] ces cinq [upadanakkhandha|accumulations d'attachement] selon quatre aspects, j'ai déclaré dans le [loka|monde], avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] & [brahmana|brahmanes], à cette population avec ses [deva|dévas] et humains, m'être éveillé au suprême [sammasambodhi|Éveil véritable]."
@@ -74,6 +77,42 @@
       "fr": "Et les [samana|renonçants] ou les [brahmana|brahmanes] ayant ainsi compris la [vinnana|Conscience], ayant ainsi compris l'[samudaya|apparition] de la [vinnana|Conscience], ayant ainsi compris la [nirodha|cessation] de la [vinnana|Conscience], ayant ainsi compris la voie menant à la [nirodha|cessation] de la [vinnana|Conscience], qui grâce au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation] de la [vinnana|Conscience], sont libérés par le non-[upadana|attachement], ceux-là sont bien libérés. Ceux qui sont bien libérés sont accomplis. Ceux qui sont accomplis sont indescriptibles."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "yathabhutam",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samana",
+    "brahmana",
+    "sammasambodhi",
+    "samudaya",
+    "nirodha",
+    "ahara",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "nibbida",
+    "viraga",
+    "dhamma",
+    "vinaya",
+    "upadana",
+    "phassa",
+    "cetana",
+    "namarupa"
+  ],
   "translator": "Sekha"
 }

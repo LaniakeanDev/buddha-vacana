@@ -40,12 +40,35 @@
       "pl": "Evaṃ vutte aññataro puriso nandakaṃ licchavimahāmattaṃ etadavoca:",
       "fr": "Lorsque cela fut dit, une certaine personne dit à Nandaka, le ministre des Licchavis:"
     },
-    { "pl": "Nahānakālo, bhante ti.", "fr": "— Il est temps de prendre votre bain, [bhante|Bhanté]." },
+    {
+      "pl": "Nahānakālo, bhante ti.",
+      "fr": "— Il est temps de prendre votre bain, [bhante|Bhanté]."
+    },
     {
       "pl": "Alaṃ dāni, bhaṇe, etena bāhirena nahānena. Alamidaṃ ajjhattaṃ nahānaṃ bhavissati, yadidaṃ bhagavati pasādo ti.",
       "fr": "— Assez, mon brave, de ce bain externe. Ce bain interne sera suffisant: la dévotion envers le [bhagava|Fortuné].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ariyasavaka",
+    "dhamma",
+    "sotapanna",
+    "vinipata",
+    "sambodhi",
+    "buddheaveccappasada",
+    "i][@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i][@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i][@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4",
+    "deva",
+    "sukha",
+    "samana",
+    "bhante"
+  ],
   "translator": "Rémy"
 }

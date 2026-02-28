@@ -36,7 +36,10 @@
       "pl": "evaṃ kho, bhikkhave, asaṃvaro hoti.",
       "fr": "Voici, [bhikkhu|mendiants], ce qu'est l'absence de [samvara|restreinte]."
     },
-    { "pl": "“kathañca, bhikkhave, saṃvaro hoti?", "fr": "Et qu'est-ce que la [samvara|restreinte]?" },
+    {
+      "pl": "“kathañca, bhikkhave, saṃvaro hoti?",
+      "fr": "Et qu'est-ce que la [samvara|restreinte]?"
+    },
     {
       "pl": "santi, bhikkhave, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, veditabbametaṃ, bhikkhave, bhikkhunā — ‘na parihāyāmi kusalehi dhammehi’. aparihānañhetaṃ vuttaṃ bhagavatāti",
       "fr": "Il y a, [bhikkhu|mendiants], des formes connaissables par l'œil qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité], et qui suscitent l'[raga|avidité]. Si un [bhikkhu|mendiant] n'en jouit pas, qu'il ne les accueille pas, et n'y adhère pas, alors ce [bhikkhu|mendiant] devrait comprendre: [i]“Je ne décline pas dans les [dhamma|états] [kusala|avantageux]. Le [bhagava|Fortuné] a dit que ceci représente une absence de déclin.”[/i]"
@@ -66,6 +69,6 @@
       "fr": "Voici, [bhikkhu|mendiants], ce qu'est la [samvara|restreinte]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "samvara", "kama", "raga", "dhamma", "kusala", "bhagava"],
   "translator": "Sekha"
 }

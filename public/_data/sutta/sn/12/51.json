@@ -4,12 +4,18 @@
   "frTitle": "Une analyse",
   "description": "Un soutta qui se démarque un peu du reste avec certaines expressions qui sortent du cadre habituel. Les mendiants sont invités à faire une analyse pour comprendre en profondeur d'où vient le mal-être.",
   "body": [
-    { "pl": "evaṃ me sutaṃ ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -74,62 +80,125 @@
       "pl": "“taṃ kiṃ maññatha, bhikkhave, api nu kho khīṇāsavo bhikkhu puññābhisaṅkhāraṃ vā abhisaṅkhareyya apuññābhisaṅkhāraṃ vā abhisaṅkhareyya āneñjābhisaṅkhāraṃ vā abhisaṅkhareyyā””ti?",
       "fr": "Qu'en pensez-vous, est-ce qu'un [bhikkhu|mendiant] ayant complètement éliminé les [asava|impuretés mentales] construirait une [sa,khara|construction] [punna|méritoire],construirait une [sa,khara|construction] déméritoire, ou bien construirait une [sa,khara|construction] imperturbable?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana saṅkhāresu asati, saṅkhāranirodhā api nu kho viññāṇaṃ paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucune [sa,khara|construction], avec la [nirodha|cessation] des [sa,khara|constructions], peut-on encore discerner la [vinnana|conscience]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana viññāṇe asati, viññāṇanirodhā api nu kho nāmarūpaṃ paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucune [vinnana|conscience], avec la [nirodha|cessation] de la [vinnana|conscience], peut-on encore discerner le [namarupa|Nom-et-Forme]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana nāmarūpe asati, nāmarūpanirodhā api nu kho saḷāyatanaṃ paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucun [namarupa|Nom-et-Forme], avec la [nirodha|cessation] du [namarupa|Nom-et-Forme], peut-on encore discerner les [salayatana|organes des sens]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana saḷāyatane asati, saḷāyatananirodhā api nu kho phasso paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucun organe des sens, avec la [nirodha|cessation] des [salayatana|organes des sens], peut-on encore discerner le [phassa|contact]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana phasse asati, phassanirodhā api nu kho vedanā paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucun [phassa|contact], avec la [nirodha|cessation] du [phassa|contact], peut-on encore discerner le [vedana|ressenti]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana vedanāya asati, vedanānirodhā api nu kho taṇhā paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucun [vedana|ressenti], avec la [nirodha|cessation] du [vedana|ressenti], peut-on encore discerner la [tanha|Soif]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana taṇhāya asati, taṇhānirodhā api nu kho upādānaṃ paññāyethā””ti? .",
       "fr": "—Et s'il n'y a absolument aucune [tanha|Soif], avec la [nirodha|cessation] de la [tanha|Soif], peut-on encore discerner l'[upadana|attachement]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana upādāne asati, upādānanirodhā api nu kho bhavo paññāyethā””ti.",
       "fr": "—Et s'il n'y a absolument aucun [upadana|attachement], avec la [nirodha|cessation] de l'[upadana|attachement], peut-on encore discerner l'[bhava|existence]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana bhave asati, bhavanirodhā api nu kho jāti paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucune [bhava|existence], avec la [nirodha|cessation] de l'[bhava|existence], peut-on encore discerner la naissance?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sabbaso vā pana jātiyā asati, jātinirodhā api nu kho jarāmaraṇaṃ paññāyethā””ti?",
       "fr": "—Et s'il n'y a absolument aucune naissance, avec la [nirodha|cessation] de la naissance, peut-on encore discerner le vieillissement et la mort?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“sādhu sādhu, bhikkhave, evametaṃ, bhikkhave, netaṃ aññathā. saddahatha me taṃ, bhikkhave, adhimuccatha, nikkaṅkhā ettha hotha nibbicikicchā. esevanto dukkhassā””ti.",
       "fr": "—Excellent, [bhikkhu|mendiant]s, excellent. Il en est bien ainsi et pas autrement. Ayez confiance en moi à ce sujet, [bhikkhu|mendiant]s, soyez-en convaincus, sans doute ni incertitude. Telle est la fin du [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "dukkha",
+    "bhante",
+    "dhamma",
+    "@m_attha",
+    "nirodha",
+    "bhava",
+    "upadana",
+    "tanha",
+    "vedana",
+    "phassa",
+    "salayatana",
+    "namarupa",
+    "vinnana",
+    "sa,khara",
+    "avijja",
+    "punna",
+    "cetana",
+    "nibbana",
+    "jati",
+    "brahmacariya",
+    "sukhavedana",
+    "anicca",
+    "adasv",
+    "dukkhavedana",
+    "kaya",
+    "asava"
+  ],
   "translator": "Sekha."
 }

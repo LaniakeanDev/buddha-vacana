@@ -164,7 +164,10 @@
       "pl": "Imehi kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu bhabbo cakkhusmiṃ aniccānupassī viharituṃ.",
       "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] doué de ces onze [dhamma|caractéristiques] est capable de rester à observer l'[anicca|impermanence] dans l'œil."
     },
-    { "pl": "AN 11.23 à 29", "fr": "AN 11.23 à 29" },
+    {
+      "pl": "AN 11.23 à 29",
+      "fr": "AN 11.23 à 29"
+    },
     {
       "pl": "“ekādasahi, bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ. katamehi ekādasahi? idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṃ hāretā hoti, na vaṇaṃ paṭicchādetā hoti, na dhūmaṃ kattā hoti, na titthaṃ jānāti, na pītaṃ jānāti, na vīthiṃ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti, ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti. imehi kho, bhikkhave, ekādasahi aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ.",
       "fr": "[bhikkhu|Mendiants], un bouvier doué de onze [dhamma|caractéristiques] est incapable de s'occuper d'un troupeau de vaches et de le faire croître. Quelles sont ces onze? À cet égard, [bhikkhu|mendiants], le bouvier ne connaît pas les [rupa|formes], il n'est pas connaisseur en matière de [lakkhana|caractéristiques], il ne retire pas les œufs de mouches, il ne panse pas les plaies, il ne produit pas de fumée (de feu), il ne connaît pas les gués, il ne connaît pas les rafraîchissements, il ne connaît pas le chemin, il n'est pas connaisseur en matière de pâturages, il trait [les vaches] intégralement, et il ne traite pas les taureaux qui sont les protecteurs et meneurs du troupeau avec suffisamment de respect. [bhikkhu|Mendiants], un bouvier doué de ces onze [dhamma|caractéristiques] est incapable de s'occuper d'un troupeau de vaches et de le faire croître."
@@ -173,7 +176,10 @@
       "pl": "“evamevaṃ kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu abhabbo cakkhusmiṃ dukkhānupassī viharituṃ... abhabbo cakkhusmiṃ anattānupassī viharituṃ... abhabbo cakkhusmiṃ khayānupassī viharituṃ... abhabbo cakkhusmiṃ vayānupassī viharituṃ... abhabbo cakkhusmiṃ virāgānupassī viharituṃ... abhabbo cakkhusmiṃ nirodhānupassī viharituṃ... abhabbo cakkhusmiṃ paṭinissaggānupassī viharituṃ”.",
       "fr": "De la même manière, [bhikkhu|mendiants], un [bhikkhu|mendiant] doué de onze [dhamma|caractéristiques] est incapable de rester à observer l'[dukkha|insatisfaisance] dans l'œil (…) incapable de rester à observer le [anatta|sans-égoïté] dans l'œil (…) incapable de rester à observer la destruction dans l'œil (…) incapable de rester à observer l'arrêt dans l'œil (…) incapable de rester à observer la [viraga|disparition] dans l'œil (…) incapable de rester à observer la [nirodha|cessation] dans l'œil (…) incapable de rester à observer la renonciation dans l'œil."
     },
-    { "pl": "AN 11.30 à 501", "fr": "AN 11.30 à 501" },
+    {
+      "pl": "AN 11.30 à 501",
+      "fr": "AN 11.30 à 501"
+    },
     {
       "pl": "30-69. ..ṣotasmiṃ... ghānasmiṃ... jivhāya... kāyasmiṃ... manasmiṃ....",
       "fr": "30-69. (…) dans l'oreille (…) dans le nez (…) dans la langue (…) dans le corps (…) dans le mental (…)"
@@ -215,6 +221,62 @@
       "fr": "406-453. (…) dans les [vicara|pensées passives] liées aux formes visibles (…) dans les [vicara|pensées passives] liées aux sons (…) dans les [vicara|pensées passives] liées aux odeurs (…) dans les [vicara|pensées passives] liées aux saveurs (…) dans les [vicara|pensées passives] liées aux sensations corporelles (…) de rester à observer l'[anicca|impermanence] dans les [vicara|pensées passives] liées aux [dhamma|phénomènes mentaux] (…) de rester à observer l'[dukkha|insatisfaisance] (…) de rester à observer le [anatta|sans-égoïté] (…) de rester à observer la destruction (…) de rester à observer l'arrêt (…) de rester à observer la [viraga|disparition] (…) de rester à observer la [nirodha|cessation] (…) de rester à observer la renonciation dans les [vicara|pensées passives] liées aux [dhamma|phénomènes mentaux]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "rupa",
+    "lakkhana",
+    "anicca",
+    "pabbajja",
+    "sangha",
+    "yathabhutam",
+    "baala",
+    "kamma",
+    "pandita",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "papaka",
+    "akusala",
+    "nimitta",
+    "indriya",
+    "abhijjha",
+    "domanassa",
+    "samvara",
+    "@m_bahussuta",
+    "vinaya",
+    "i]“[bhante",
+    "ayasma",
+    "tathagata",
+    "@m_attha",
+    "pamojja",
+    "ariyaatthangikamagga",
+    "satipatthana",
+    "saddha",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "metta",
+    "@f_samvara#is-eye",
+    "@f_samvara#is-ear",
+    "@f_samvara#is-nose",
+    "@f_samvara#is-tongue",
+    "@f_samvara#is-body",
+    "@f_samvara#is-mind",
+    "dukkha",
+    "anatta",
+    "viraga",
+    "nirodha",
+    "vinnana",
+    "mana",
+    "phassa",
+    "vedana",
+    "sanna",
+    "cetana",
+    "tanha",
+    "vicara"
+  ],
   "translator": "Bhikkhu Sekha"
 }

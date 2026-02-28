@@ -4,7 +4,10 @@
   "frTitle": "Au niveau des phénomènes",
   "description": "Ce soutta explique ce que signifie l'expression 'pratiquer l'Enseignement au niveau des phénomènes' que l'on retrouve dans la description des facteurs d'entrée dans le courant (sotāpatti).",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“dhammānudhammappaṭipannassa, bhikkhave, bhikkhuno ayamanudhammo hoti: yaṃ rūpe nibbidābahulo vihareyya, vedanāya nibbidābahulo vihareyya, saññā nibbidābahulo vihareyya, saṅkhāresu nibbidābahulo vihareyya, viññāṇe nibbidābahulo vihareyya.",
       "fr": "[bhikkhu|Mendiants], pour un [bhikkhu|mendiant] [dadp|pratiquant l'Enseignement au niveau des phénomènes], voici ce qui est au niveau des [dhamma|phénomènes]: il devrait rester avec un intense [nibbida|désenchantement] envers la [rupa|Forme], avec un intense [nibbida|désenchantement] envers le [vedana|Ressenti], avec un intense [nibbida|désenchantement] envers la [sanna|Perception], avec un intense [nibbida|désenchantement] envers les [sankhara|Constructions], avec un intense [nibbida|désenchantement] envers la [vinnana|Conscience]."
@@ -18,6 +21,21 @@
       "fr": "Celui qui comprend complètement la [rupa|Forme], qui comprend complètement le [vedana|Ressenti], qui comprend complètement la [sanna|Perception], qui comprend complètement les [sankhara|Constructions], qui comprend complètement la [vinnana|Conscience] est complètement délivré de la [rupa|Forme], est complètement délivré du [vedana|Ressenti], est complètement délivré de la [sanna|Perception], est complètement délivré des [sankhara|Constructions], est complètement délivré de la [vinnana|Conscience], il est complètement délivré de la [jati|naissance], du [jaramarana|vieillissement-et-mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse], et je déclare qu'il est complètement délivré du [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dadp",
+    "dhamma",
+    "nibbida",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "jati",
+    "jaramarana",
+    "dukkha",
+    "domanassa",
+    "upayasa"
+  ],
   "translator": "Rémy"
 }

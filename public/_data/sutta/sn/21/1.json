@@ -4,12 +4,18 @@
   "frTitle": "Kolita",
   "description": "Mahāmoggallāna définit ce qu'est le Noble Silence en termes de [jhana|jhānas].",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait à Sāvatthī, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, [ayasma|le vénérable] Mahāmoggallāna s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“āvuso bhikkhave”ti.", "fr": "— Mes amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso bhikkhave”ti.",
+      "fr": "— Mes amis, [bhikkhu|mendiants]."
+    },
     {
       "pl": "“āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ. āyasmā mahāmoggallāno etadavoca:",
       "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Mahāmoggallāna dit alors:"
@@ -35,6 +41,6 @@
       "fr": "Alors, mes amis, un peu plus tard, [@f_4jhana#2-cl|avec l'apaisement des pensées actives et passives, je suis entré et j'ai demeuré dans le deuxième jhāna, avec tranquillisation intérieure et unification de l'esprit, sans pensées actives ni passives, avec exaltation et bien-être engendrés par la concentration.] Mes amis, si en parlant correctement on pouvait dire de quelqu'un: [i]“Celui-là est un [savaka|disciple] qui a atteint la grandeur de la [abhinna|connaissance directe] avec l'assistance de l'Instructeur”[/i], ce serait de moi qu'il serait correct de le dire."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayasma", "bhikkhu", "@f_4jhana#2", "iddhi", "citta", "@f_4jhana#2-cl", "savaka", "abhinna"],
   "translator": "Rémy"
 }

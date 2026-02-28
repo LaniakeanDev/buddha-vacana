@@ -4,7 +4,10 @@
   "frTitle": "La Soif",
   "description": "Ce soutta identifie 108 pensées élémentaires qui font en permanence partie de nos schémas de pensée comme étant autant de pièges qui nous empêchent de trouver la libération.",
   "body": [
-    { "pl": "bhagavā etadavoca:", "fr": "Le [bhagava|Fortuné] dit:" },
+    {
+      "pl": "bhagavā etadavoca:",
+      "fr": "Le [bhagava|Fortuné] dit:"
+    },
     {
       "pl": "— “taṇhaṃ vo, bhikkhave, desessāmi jāliniṃ saritaṃ visaṭaṃ visattikaṃ, yāya ayaṃ loko uddhasto pariyonaddho tantākulakajāto gulāguṇṭhikajāto muñjapabbajabhūto apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
       "fr": "—[bhikkhu|Mendiants], je vais vous enseigner ce qu'est la [tanha|Soif], le désir s'écoulant, se répandant, s'attachant, par laquelle ce [loka|monde] est entouré, asphyxié, emmêlé comme une boule de ficelle, comme les brindilles d'un nid, comme des herbes et des roseaux, de telle sorte qu'il ne dépasse pas l'[apaya|existence infortunée], la [duggati|mauvaise destination], le [vinipata|monde inférieur], la [samsara|continuation des existences]. Écoutez cela et faites bien attention, je vais parler."
@@ -34,6 +37,6 @@
       "fr": "Voici, [bhikkhu|mendiants], quelle est la [tanha|Soif], le désir s'écoulant, se répandant, s'attachant, par laquelle ce [loka|monde] est entouré, asphyxié, emmêlé comme une boule de ficelle, comme les brindilles d'un nid, comme des herbes et des roseaux, de telle sorte qu'il ne dépasse pas l'[apaya|existence infortunée], la [duggati|mauvaise destination], le [vinipata|monde inférieur], la [samsara|continuation des existences]."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhikkhu", "tanha", "loka", "apaya", "duggati", "vinipata", "samsara", "bhante"],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "À comprendre complètement",
   "description": "Les phénomènes qui devraient être compris complètement, ce qu'est la compréhension complète, et quel est l'individu qui a compris complètement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca pariññātāviñca puggalaṃ. taṃ suṇātha.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner les [dhamma|phénomènes] qui devraient être compris complètement, ce qu'est la compréhension complète, et quel est l'individu qui a compris complètement. Écoutez cela."
@@ -22,6 +25,19 @@
       "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui a compris complètement? Un [arahant|Méritant], devrait-on dire. Tel [ayasma|vénérable] portant tel nom, issu de tel clan. Voici, [bhikkhu|mendiants], quel est l'individu qui a compris complètement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "raga",
+    "dosa",
+    "moha",
+    "arahant",
+    "ayasma"
+  ],
   "translator": "Sekha"
 }

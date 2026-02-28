@@ -4,7 +4,10 @@
   "frTitle": "À Kimila",
   "description": "Puisque Kimila ne sait pas expliquer comment on pratique la concentration au moyen de la présence de l'esprit sur la respiration (ānāpānassati-samādhi), Ananda demande au Bouddha de faire un exposé sur le sujet.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā kimilāyaṃ viharati veḷuvane. tatra kho bhagavā āyasmantaṃ kimilaṃ āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Kimila, dans la bambouseraie. Là, il s'adressa au [ayasma|vénérable] Kimila:"
@@ -86,6 +89,37 @@
       "fr": "Imagine, Ananda, un grand tas de poussière au milieu d'un carrefour entre deux grandes routes. Une charrette ou une chariot viendrait de l'est et écraserait ce tas de poussière. Une charrette ou une chariot viendrait de l'ouest (…) du nord (…) du sud et écraserait ce tas de poussière. De la même manière, Ananda, un [bhikkhu|mendiant] restant à observer le [kaya|corps] dans le [kaya|corps] écrase les [dhamma|états] [akusala|désavantageux] et [papaka|malsains]. Un [bhikkhu|mendiant] restant à observer les [vedana|ressentis] dans les [vedana|ressentis] (…) l'[citta|esprit] dans l'[citta|esprit] (…) le [dhamma|Dhamma] dans les [dhamma|phénomènes] écrase les [dhamma|états] [akusala|désavantageux] et [papaka|malsains].» "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "samadhi",
+    "anapanassati",
+    "anisamsa",
+    "sugata",
+    "bhikkhu",
+    "bhante",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl",
+    "@f_stp#kaya-cl",
+    "kaya",
+    "citta",
+    "@f_stp#vedana-cl",
+    "manasikara",
+    "vedana",
+    "@f_stp#citta-cl",
+    "sampajana",
+    "@f_stp#dhamma-cl",
+    "panna",
+    "abhijjha",
+    "domanassa",
+    "upekkha",
+    "dhamma",
+    "akusala",
+    "papaka"
+  ],
   "translator": "Bhikkhu Sekha"
 }

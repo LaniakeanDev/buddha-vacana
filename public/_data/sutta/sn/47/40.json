@@ -33,6 +33,33 @@
       "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|voie] menant au [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]? C'est cette [ariyaatthangikamagga|noble voie à huit composantes], c'est-à-dire: [sammaditthi|vue correcte], [sammasankappa|aspiration correcte], [sammavaca|parole correcte], [sammakammanta|action correcte], [sammaajiva|moyens de subsistance corrects], [@m_sammavayama|effort correct], [sammasati|présence de l'esprit correcte], [sammasamadhi|concentration correcte] . Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|voie] menant au [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "satipatthana",
+    "bhavana",
+    "patipada",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "dhamma",
+    "samudaya",
+    "kaya",
+    "sampajana",
+    "sati",
+    "abhijjha",
+    "domanassa",
+    "vedana",
+    "citta",
+    "ariyaatthangikamagga",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "@m_sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

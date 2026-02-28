@@ -4,7 +4,10 @@
   "frTitle": "En comparaison à la lune",
   "description": "Le Bouddha explique à quelle condition un mendiant est apte à approcher les familles, puis à quelle condition son enseignement du Dhamma est pur.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati...", "fr": "À Savatthi" },
+    {
+      "pl": "sāvatthiyaṃ viharati...",
+      "fr": "À Savatthi"
+    },
     {
       "pl": "“candūpamā, bhikkhave, kulāni upasaṅkamatha: apakasseva kāyaṃ, apakassa cittaṃ, niccanavakā kulesu appagabbhā. seyyathāpi, bhikkhave, puriso jarudapānaṃ vā olokeyya pabbatavisamaṃ vā nadīviduggaṃ vā apakasseva kāyaṃ, apakassa cittaṃ; evameva kho, bhikkhave, candūpamā kulāni upasaṅkamatha: apakasseva kāyaṃ, apakassa cittaṃ, niccanavakā kulesu appagabbhā”.",
       "fr": "Mendiants, vous devriez approcher les familles en comparaison à la lune: en retenant le [kaya|corps], en retenant l'[citta|esprit], en vous comportant toujours comme des inconnus, sans impudence envers les familles. Tout comme un homme qui inspecte un vieux puits, un chemin de montagne malaisé ou un gué difficile à franchir le fait en retenant le [kaya|corps], en retenant l'[citta|esprit]; de la même manière, [bhikkhu|mendiants], vous devriez approcher les familles en comparaison à la lune: en retenant le [kaya|corps], en retenant l'[citta|esprit], en vous comportant toujours comme des inconnus, sans impudence envers les familles."
@@ -62,6 +65,6 @@
       "fr": "Mendiants, je vous exhorte en prenant Kassapa pour exemple, ou quelqu'un qui lui est semblable. Ayant été exhortés, vous devriez pratiquer en conséquence."
     }
   ],
-  "keywords": [],
+  "keywords": ["kaya", "citta", "bhikkhu", "bhante", "dhamma", "bhagava", "@m_attha", "i][@f_anussati#anussati-2"],
   "translator": "Rémy"
 }

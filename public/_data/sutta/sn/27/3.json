@@ -4,7 +4,10 @@
   "frTitle": "La Conscience",
   "description": "Le désir et l'avidité envers les consciences sensorielles sont des impuretés auxquelles il faut renoncer.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Yo, bhikkhave, cakkhuviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso. Yo sotaviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso. Yo ghānaviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso. Yo jivhāviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso. Yo kāyaviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso. Yo manoviññāṇasmiṃ chanda·rāgo, cittasseso upakkileso.",
       "fr": "Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] oculaire, [bhikkhu|mendiants], sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] auditive sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] olfactive sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] gustative sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] corporelle sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [vinnana|conscience] [mana|mentale] sont une [upakkilesa|souillure] de l'[citta|esprit]."
@@ -14,6 +17,6 @@
       "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
     }
   ],
-  "keywords": [],
+  "keywords": ["chanda", "raga", "vinnana", "bhikkhu", "upakkilesa", "citta", "mana", "nekkhamma", "dhamma", "abhinna"],
   "translator": "Rémy"
 }

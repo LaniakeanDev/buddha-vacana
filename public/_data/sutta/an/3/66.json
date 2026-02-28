@@ -4,7 +4,10 @@
   "frTitle": "Pour Sāḷha",
   "description": "Ce sutta est très similaire à celui souvent appelé Kalama Sutta (AN 3.66), avec quelques différences.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ āyasmā nandako sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. Atha kho sāḷho ca migāranattā sāṇo ca sekhuniyanattā yenāyasmā nandako tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ nandakaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnaṃ kho sāḷhaṃ migāranattāraṃ āyasmā nandako etadavoca:",
       "fr": "Un jour, le [ayasma|vénérable] Nandaka séjournait à Sāvatthi dans l'ermitage de l'est, le manoir de la mère de Migara. Ce jour-là, le petit-fils de Migāra, Sāḷha, et le petit-fils de Pekhuniya, Sāṇa, allèrent voir le [ayasma|vénérable] Nandaka; s'étant approchés et ayant rendu hommage au [ayasma|vénérable] Nandaka, ils s'assirent d'un côté. Une fois qu'ils furent assis là, le [ayasma|vénérable] Nandaka dit à Sāḷha, le petit-fils de Migāra:"
@@ -17,17 +20,26 @@
       "pl": "—  Evaṃ, bhante.[@nl] ‘Abhijjhā’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Luddho kho ayaṃ, sāḷhā, abhijjhālu pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā ti?",
       "fr": "— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est l'[abhijjha|envie]. Par désir, Sāḷha, un envieux tue les êtres vivants, prend ce qui n'est pas donné, va à la femme d'un autre, dit des mensonges, et incite les autres à en faire autant, est-ce à son détriment et pour son [dukkha|mal-être] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "—  Taṃ kiṃ maññatha, sāḷhā, atthi doso ti?[@nl] Evaṃ, bhante.[@nl]‘Byāpādo’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Duṭṭho kho ayaṃ, sāḷhā, byāpannacitto pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, y a-t-il l'[dosa|aversion]?[@nl]— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est la [byapada|malveillance]. Par aversion, Sāḷha, un malveillant tue les êtres vivants, prend ce qui n'est pas donné, va à la femme d'un autre, dit des mensonges, et incite les autres à en faire autant, est-ce à son détriment et pour son [dukkha|mal-être] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "—  Taṃ kiṃ maññatha, sāḷhā, atthi moho ti?[@nl] Evaṃ, bhante.[@nl] ‘Avijjā’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Mūḷho kho ayaṃ, sāḷhā, avijjāgato pāṇampi hanati, adinnampi ādiyati, paradārampi gacchati, musāpi bhaṇati, parampi tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ ahitāya dukkhāyā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, y a-t-il la [moha|délusion]?[@nl]— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est l'[avijja|ignorance]. Par délusion, Sāḷha, un ignorant tue les êtres vivants, prend ce qui n'est pas donné, va à la femme d'un autre, dit des mensonges, et incite les autres à en faire autant, est-ce à son détriment et pour son [dukkha|mal-être] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "Taṃ kiṃ maññatha, sāḷhā, ime dhammā kusalā vā akusalā vā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, ces [dhamma|choses] sont-elles [kusala|avantageuses] ou [akusala|désavantageuses]?"
@@ -52,17 +64,26 @@
       "pl": "Taṃ kiṃ maññatha, sāḷhā, atthi alobho ti?[@nl] Evaṃ, bhante.[@nl]‘Anabhijjhā’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Aluddho kho ayaṃ, sāḷhā, anabhijjhālu neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, parampi na tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā ti?",
       "fr": "Qu'en penses-tu, Sāḷha, y a-t-il la non-[lobha|avidité]?[@nl]— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est la non-[abhijjha|envie]. Par non-désir, Sāḷha, un non-envieux ne tue pas les êtres vivants, ne prend pas ce qui n'est pas donné, ne va pas à la femme d'un autre, ne dit pas de mensonges, et n'incite pas les autres à en faire autant, est-ce pour son bien-être et son [sukha|bonheur] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "Taṃ kiṃ maññatha, sāḷhā, atthi adoso ti?[@nl] Evaṃ, bhante.[@nl] ‘Abyāpādo’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Aduṭṭho kho ayaṃ, sāḷhā, abyāpannacitto neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, parampi na tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, y a-t-il la non-[dosa|aversion]?[@nl]— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est la non-[byapada|malveillance]. Par non-aversion, Sāḷha, un non-malveillant ne tue pas les êtres vivants, ne prend pas ce qui n'est pas donné, ne va pas à la femme d'un autre, ne dit pas de mensonges, et n'incite pas les autres à en faire autant, est-ce pour son bien-être et son [sukha|bonheur] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "Taṃ kiṃ maññatha, sāḷhā, atthi amoho ti?[@nl] Evaṃ, bhante.[@nl] ‘Vijjā’ti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi. Amūḷho kho ayaṃ, sāḷhā, vijjāgato neva pāṇaṃ hanati, na adinnaṃ ādiyati, na paradāraṃ gacchati, na musā bhaṇati, parampi na tathattāya samādapeti, yaṃ sa hoti dīgharattaṃ hitāya sukhāyā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, y a-t-il la non-[moha|délusion]?[@nl]— Oui, [bhante|Bhanté].[@nl]— Je dis, Sāḷha, que cela est la [vijja|véritable connaissance]. Par non-délusion, Sāḷha, un homme de connaissance ne tue pas les êtres vivants, ne prend pas ce qui n'est pas donné, ne va pas à la femme d'un autre, ne dit pas de mensonges, et n'incite pas les autres à en faire autant, est-ce pour son bien-être et son [sukha|bonheur] pendant longtemps?"
     },
-    { "pl": "Evaṃ, bhante.", "fr": "— Oui, [bhante|Bhanté]." },
+    {
+      "pl": "Evaṃ, bhante.",
+      "fr": "— Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "Taṃ kiṃ maññatha, sāḷhā, ime dhammā kusalā vā akusalā vā ti?",
       "fr": "— Qu'en penses-tu, Sāḷha, ces [dhamma|choses] sont-elles [kusala|avantageuses] ou [akusala|désavantageuses]?"
@@ -92,6 +113,43 @@
       "fr": "Il comprend ainsi: [i]“Auparavant, il y avait de l'[lobha|avidité], ce qui était [akusala|désavantageux], et maintenant il n'y en a plus, ce qui est [kusala|avantageux]. Auparavant, il y avait de l'[dosa|aversion], ce qui était [akusala|désavantageux], et maintenant il n'y en a plus, ce qui est [kusala|avantageux]. Auparavant, il y avait de la [moha|délusion], ce qui était [akusala|désavantageux], et maintenant il n'y en a plus, ce qui est [kusala|avantageux].”[/i] Ainsi [@m_ditthevadhamme|dans ce monde visible] il est satisfait, repus, apaisé, il éprouve du [sukha|plaisir], il demeure en étant devenu brahmique en lui même.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "anussava",
+    "ditthi",
+    "samana",
+    "dhamma",
+    "akusala",
+    "dukkha",
+    "lobha",
+    "bhante",
+    "abhijjha",
+    "dosa",
+    "byapada",
+    "moha",
+    "avijja",
+    "kusala",
+    "savajja",
+    "anavajja",
+    "sukha",
+    "vijja",
+    "ariyasavaka",
+    "sampajana",
+    "sato",
+    "@f_appam#metta-cl",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl",
+    "nissarana",
+    "sanna",
+    "citta",
+    "asava",
+    "kama",
+    "bhava",
+    "nana",
+    "jati",
+    "brahmacariya",
+    "@m_ditthevadhamme"
+  ],
   "translator": "Rémy"
 }

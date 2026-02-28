@@ -4,7 +4,10 @@
   "frTitle": "Le fardeau",
   "description": "Chacun de nous traîne de lourds fardeaux. Quels sont-ils? Comment s'en débarrasser?",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“bhārañca vo, bhikkhave, desessāmi bhārahārañca bhārādānañca bhāranikkhepanañca. taṃ suṇātha. katamo ca, bhikkhave, bhāro? pañcupādānakkhandhā tissa vacanīyaṃ. katame pañca? rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho; ayaṃ vuccati, bhikkhave, bhāro”.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'est le fardeau, qui est le porteur du fardeau, ce qu'est l'endossement du fardeau, et ce qu'est l'abandon du fardeau. Écoutez cela. Et qu'est-ce, [bhikkhu|mendiants], que le fardeau? 'Les cinq [upadanakkhandha|accumulations d'attachement]', devrait-on dire. Quels sont ces cinq? L'[upadanakkhandha|accumulation d'attachement] de la [rupa|Forme], l'[upadanakkhandha|accumulation d'attachement]du [vedana|Ressenti], l'[upadanakkhandha|accumulation d'attachement] de la [sanna|Perception], l'[upadanakkhandha|accumulation d'attachement] des [sankhara|Constructions volitionnelles],et l'[upadanakkhandha|accumulation d'attachement] de la [vinnana|Conscience]. Voici, [bhikkhu|mendiants], ce qu'on appelle le fardeau."
@@ -30,6 +33,25 @@
       "fr": "[i]Les cinq [khandha|accumulations d'attachement] sont vraiment un fardeau, Et le porteur du fardeau est la personne.Endosser le fardeau, c'est souffrir dans le [loka|monde], L'abandonner est un [sukha|bonheur].Ayant abandonné le lourd fardeau, Sans endosser d'autre fardeau,Ayant arraché la [tanha|Soif] à la racine, On est satisfait, [parinibbana|totalement délivré].[/i] "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "tanha",
+    "bhava",
+    "raga",
+    "kama",
+    "viraga",
+    "nirodha",
+    "bgv",
+    "khandha",
+    "loka",
+    "sukha",
+    "parinibbana"
+  ],
   "translator": "Rémy"
 }

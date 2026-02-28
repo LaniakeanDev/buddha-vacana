@@ -4,7 +4,10 @@
   "frTitle": "La réprimande de Jantou",
   "description": "Jantou l'enfant de dévas réprimande des mendiants dissipés.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.",
       "fr": "Un jour, un grand nombre de [bhikkhu|mendiants] séjournaient dans le Kossala, sur les pentes de l'Himalaya, dans des huttes forestières. Ils étaient agités, insolents, instables, bavards, jacasseurs, étourdis d'esprit, sans [sampajanna|discernement attentif], dé·[samahita|concentrés], d'[citta|esprit] confus, avec des [indriya|facultés] incontrôlées."
@@ -30,6 +33,21 @@
       "fr": "C'est à ceux qui restent [pamada|négligents][@v]Que ma déclaration s'adresse.[@v]Ceux qui restent [appamada|assidus],[@v]À ceux-là je rends hommage."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sampajanna",
+    "samahita",
+    "citta",
+    "indriya",
+    "uposatha",
+    "deva",
+    "sukha",
+    "anicca",
+    "dukkha",
+    "sangha",
+    "peta",
+    "pamada",
+    "appamada"
+  ],
   "translator": "Sekha."
 }

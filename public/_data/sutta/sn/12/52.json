@@ -4,7 +4,10 @@
   "frTitle": "L'attachement",
   "description": "Ce soutta contient une figure expliquant le sens du mot Nibbāna, ainsi qu'une leçon aussi claire et simple que profondément efficace, à tel point qu'elle illustre magistralement l'éveil du Bouddha à la nature profonde des phénomènes de notre quotidien: le rôle libérateur joué par la considération des inconvénients des choses plutôt que celle de la jouissance. Il ne nous reste plus qu'à avoir la volonté de l'appliquer.",
   "body": [
-    { "pl": "sāvatthiyaṃviharati ...", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃviharati ...",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“upādāniyesu, bhikkhave, dhammesu assādānupassino viharato taṇhā pavaḍḍhati. taṇhāpaccayā upādānaṃ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. evametassa kevalassa dukkhakkhandhassa samudayo hoti”.",
       "fr": "Chez celui, [bhikkhu|mendiants], qui reste à observer l'[assada|agrément] dans les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], la [tanha|Soif] se développe. À cause de la [tanha|Soif], il y a l'[upadana|attachement]; à cause de l'[upadana|attachement], l'[bhava|existence];à cause de l'[bhava|existence], la [jati|naissance];à cause de la [jati|naissance], apparaissent le [jara|vieillissement] et la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse]. Telle est l'apparition de toute cette accumulation de [dukkha|mal-être]."
@@ -30,6 +33,21 @@
       "fr": "De la même manière, [bhikkhu|mendiants], celui qui reste à observer les [adinava|inconvénients] des [dhamma|phénomènes] qui engendrent l'[upadana|attachement], la [tanha|Soif] cesse. Avec la [nirodha|cessation] de la [tanha|Soif], il y a [nirodha|cessation] de l'[upadana|attachement]; avec la [nirodha|cessation] de l'[upadana|attachement], la [nirodha|cessation] de l'[bhava|existence];avec la [nirodha|cessation] de l'[bhava|existence], la [nirodha|cessation] de la [jati|naissance];avec la [nirodha|cessation] de la [jati|naissance], le [jara|vieillissement], la [marana|mort], le chagrin, les lamentations, les [dukkha|douleurs], les [domanassa|déplaisances mentales] et la [upayasa|détresse] cessent. Telle est la [nirodha|cessation] de toute cette accumulation de [dukkha|mal-être]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "assada",
+    "dhamma",
+    "upadana",
+    "tanha",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "adinava",
+    "nirodha"
+  ],
   "translator": "Rémy"
 }

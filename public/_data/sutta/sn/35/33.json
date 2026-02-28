@@ -4,7 +4,10 @@
   "frTitle": "Le Tout",
   "description": "Une série de 20 souttas qui décrivent le Tout comme étant sujet à la naissance, au vieillissement, à la mort, comme étant impermanent, insatisfaisant, sans-propriétaire etc. et proposent une méthode pour s'en sortir.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“sabbaṃ, bhikkhave, (33) jātidhammaṃ ... (34) jarādhammaṃ ... (35) byādhidhammaṃ ... (36) maraṇadhammaṃ ... (37) sokadhammaṃ ... (38) saṃkilesikadhammaṃ ...(39) khayadhammaṃ ... (40) vayadhammaṃ ... (41) samudayadhammaṃ ... (42) nirodhadhammaṃ ... (43) aniccaṃ ... (44) dukkhaṃ ... (45) anattā ... (46)abhiññeyyaṃ ... (47) pariññeyyaṃ ... (48) pahātabbaṃ ... (49) sacchikātabbaṃ ... (50)abhiññāpariññeyyaṃ ... (51) upaddutaṃ ... (52) upassaṭṭhaṃ. kiñca, bhikkhave, sabbaṃ jātidhammaṃ ... jarādhammaṃ ... byādhidhammaṃ ... maraṇadhammaṃ ... sokadhammaṃ ... saṃkilesikadhammaṃ ... khayadhammaṃ ... vayadhammaṃ ... samudayadhammaṃ ... nirodhadhammaṃ ... aniccaṃ ... dukkhaṃ ... anattā ...abhiññeyyaṃ ... pariññeyyaṃ ... pahātabbaṃ ... sacchikātabbaṃ ...abhiññāpariññeyyaṃ ... upaddutaṃ ... upassaṭṭhaṃ?",
       "fr": "[bhikkhu|Mendiants],tout est [dhamma|par nature sujet] (33) à la naissance (...) (34) au vieillissement (...) (35) à la maladie (...) (36) à la mort (...) (37) au chagrin (...) (38) à l'impureté (...)(39) à la destruction (...) (40) à la disparition (...) (41) à l'apparition (...) (42) à la cessation (...) (43) tout est [anicca|impermanent] (...) (44) [dukkha|insatisfaisant] (...) (45) [anatta|sans-propriétaire] (...) (46)tout est à connaître directement (...) (47) à comprendre directement (...) (48) à abandonner (...) (49) à réaliser (...) (50)à connaître et comprendre directement (...) (51) tout est opprimé (...) (52) affligé. Et qu'est-ce, mendiants, que ce Tout qui est [dhamma|par nature sujet] à la naissance (...) au vieillissement (...) à la maladie (...) à la mort (...) au chagrin (...) à l'impureté (...) à la destruction (...) à la disparition (...) à l'apparition (...) à la cessation (...) qui est [anicca|impermanent] (...) [dukkha|insatisfaisant] (...) [anatta|sans-propriétaire] (...) qui est à connaître directement (...) à comprendre directement (...) à abandonner (...) à réaliser (...)à connaître et comprendre directement (...) qui est opprimé (...) affligé?"
@@ -42,6 +45,24 @@
       "fr": "Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "anicca",
+    "dukkha",
+    "anatta",
+    "phassa",
+    "sukha",
+    "adas",
+    "photthabba",
+    "mana",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
   "translator": "Sekha"
 }

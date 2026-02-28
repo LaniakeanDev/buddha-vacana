@@ -4,7 +4,10 @@
   "frTitle": "Le chat",
   "description": "Voici comment un mendiant qui ne pratique pas correctement la restreinte des sens est semblable à un chat à qui il arrive une mauvaise surprise.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena aññataro bhikkhu ativelaṃ kulesu cārittaṃ āpajjati. tamenaṃ bhikkhū evamāhaṃsu:",
       "fr": "Ce jour-là, un certain bhikkhu passait trop de temps dans les familles. Alors les autres lui dirent:"
@@ -34,6 +37,21 @@
       "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous irons au village ou en ville protégés en corps, protégés en parole, protégés en esprit, en ayant installé notre [sati|présence d'esprit], avec nos [indriya|facultés sensorielles] restreintes.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "sati",
+    "indriya",
+    "raga",
+    "citta",
+    "marana",
+    "dukkha",
+    "vinaya",
+    "ariya",
+    "sikkha",
+    "apatti"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "À Migajāla",
   "description": "Migajala demande au Bouddha les dernières instructions avant de se retirer pour pratiquer jusqu'à devenir un arahant.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā migajālo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā migajālo bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Migajāla alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
@@ -66,6 +69,27 @@
       "fr": "Alors le [ayasma|vénérable] Migajala, ayant approuvé les paroles du [bhagava|Fortuné] et s'en étant réjoui, se leva de son siège, lui rendit hommage en le maintenant à sa droite, et s'en alla. Et le [ayasma|vénérable] Migajala,demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]. Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Migajala devint l'un des [arahant|Méritants]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "atapi",
+    "kama",
+    "raga",
+    "bhikkhu",
+    "dukkha",
+    "kaya",
+    "mana",
+    "nirodha",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya",
+    "jati",
+    "arahant"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "La noble quête",
   "description": "Le Bouddha explique ce qu'est la noble quête en résumant le cheminement qu'il a suivi pour atteindre l'Éveil.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. atha kho sambahulā bhikkhū yenāyasmā ānando tenupasaṅkamiṃsu; upasaṅkamitvā āyasmantaṃ ānandaṃ etadavocuṃ",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce matin-là, le [bhagava|Fortuné] s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Alors un grand nombre de [bhikkhu|mendiants] allèrent voir le [ayasma|vénérable] Ananda et lui dirent:"
@@ -73,7 +76,10 @@
       "pl": "“dvemā, bhikkhave, pariyesanā — ariyā ca pariyesanā, anariyā ca pariyesanā.",
       "fr": "Mendiants, il y a ces deux types de quêtes: la quête noble et la quête ignoble."
     },
-    { "pl": "“katamā ca, bhikkhave, anariyā pariyesanā?", "fr": "Et qu'est-ce mendiants, que la quête ignoble?" },
+    {
+      "pl": "“katamā ca, bhikkhave, anariyā pariyesanā?",
+      "fr": "Et qu'est-ce mendiants, que la quête ignoble?"
+    },
     {
       "pl": "idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhammaṃyeva pariyesati, attanā jarādhammo samāno jarādhammaṃyeva pariyesati, attanā byādhidhammo samāno byādhidhammaṃyeva pariyesati, attanā maraṇadhammo samāno maraṇadhammaṃyeva pariyesati, attanā sokadhammo samāno sokadhammaṃyeva pariyesati, attanā saṃkilesadhammo samāno saṃkilesadhammaṃyeva pariyesati.",
       "fr": "À cet égard, quelqu'un qui est lui-même par nature voué à la naissance est en quête de ce qui est par nature voué à la naissance; étant lui-même par nature voué au vieillissement, il est en quête de ce qui est par nature voué au vieillissement; étant lui-même par nature voué à la maladie, il est en quête de ce qui est par nature voué à la maladie; étant lui-même par nature voué à la mort, il est en quête de ce qui est par nature voué à la mort; étant lui-même par nature voué au chagrin, il est en quête de ce qui est par nature voué au chagrin; étant lui-même par nature voué à l'impureté, il est en quête de ce qui est par nature voué à l'impureté."
@@ -102,13 +108,22 @@
       "pl": "“kiñca, bhikkhave, saṃkilesadhammaṃ vadetha? puttabhariyaṃ, bhikkhave, saṃkilesadhammaṃ, dāsidāsaṃ saṃkilesadhammaṃ, ajeḷakaṃ saṃkilesadhammaṃ, kukkuṭasūkaraṃ saṃkilesadhammaṃ, hatthigavāssavaḷavaṃ saṃkilesadhammaṃ, jātarūparajataṃ saṃkilesadhammaṃ. saṃkilesadhammā hete, bhikkhave, upadhayo. etthāyaṃ gathito mucchito ajjhāpanno attanā saṃkilesadhammo samāno saṃkilesadhammaṃyeva pariyesati.",
       "fr": "Et que dit-on être par nature voué à l'impureté? Femme et enfants, mendiants, sont par nature voué à l'impureté, les esclaves sont par nature voué à l'impureté, les chèvres et moutons sont par nature voué à l'impureté, les poules et les cochons sont par nature voué à l'impureté, les éléphants, les vaches et les chevaux sont par nature voué à l'impureté, l'or et l'argent sont par nature voué à l'impureté. Mendiants, toutes ces acquisitions sont par nature vouées à l'impureté. Celui quis'attache, s'enthousiasme et s'accroche à ces choses, étant lui-même par nature voué à l'impureté, est en quête de ce qui est par nature voué à l'impureté."
     },
-    { "pl": "ayaṃ, bhikkhave, anariyā pariyesanā.", "fr": "Voici, mendiants, ce qu'est la quête ignoble." },
-    { "pl": "“katamā ca, bhikkhave, ariyā pariyesanā?", "fr": "Et qu'est-ce, mendiants, que la quête noble?" },
+    {
+      "pl": "ayaṃ, bhikkhave, anariyā pariyesanā.",
+      "fr": "Voici, mendiants, ce qu'est la quête ignoble."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, ariyā pariyesanā?",
+      "fr": "Et qu'est-ce, mendiants, que la quête noble?"
+    },
     {
       "pl": "idha, bhikkhave, ekacco attanā jātidhammo samāno jātidhamme ādīnavaṃ viditvā ajātaṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati, attanā jarādhammo samāno jarādhamme ādīnavaṃ viditvā ajaraṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati, attanā byādhidhammo samāno byādhidhamme ādīnavaṃ viditvā abyādhiṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati, attanā maraṇadhammo samāno maraṇadhamme ādīnavaṃ viditvā amataṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati, attanā sokadhammo samāno sokadhamme ādīnavaṃ viditvā asokaṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati, attanā saṃkilesadhammo samāno saṃkilesadhamme ādīnavaṃ viditvā asaṃkiliṭṭhaṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati.",
       "fr": "À cet égard, quelqu'un qui est lui-même par nature voué à la naissance, ayant vu les [adinava|désagréments] de ce qui est [dhamma|par nature voué] à la naissance, est en quête du sans-naissance, du suprême soulagement du [yoga|joug], de l'[nibbana|Extinction]; étant lui-même [dhamma|par nature voué] au [jara|vieillissement], ayant vu les [adinava|désagréments] de ce qui est [dhamma|par nature voué] au [jara|vieillissement] il est en quête du sans-[jara|vieillissement], du suprême soulagement du [yoga|joug], de l'[nibbana|Extinction]; étant lui-même [dhamma|par nature voué] à la maladie, ayant vu les [adinava|désagréments] de ce qui est [dhamma|par nature voué] à la maladie, il est en quête du sans-maladie, du suprême soulagement du [yoga|joug], de l'[nibbana|Extinction]; étant lui-même [dhamma|par nature voué] à la [marana|mort], ayant vu les [adinava|désagréments] de ce qui est [dhamma|par nature voué] à la [marana|mort], il est en quête du [amata|sans-mort], du suprême soulagement du [yoga|joug], de l'[nibbana|Extinction]; étant lui-même [dhamma|par nature] voué à l'impureté, ayant vu les [adinava|désagréments] de ce qui est [dhamma|par nature] voué à l'impureté, il est en quête du sans-impureté, du suprême soulagement du [yoga|joug], de l'[nibbana|Extinction]."
     },
-    { "pl": "ayaṃ, bhikkhave, ariyā pariyesanā.", "fr": "Voici, mendiants, ce qu'est la quête noble." },
+    {
+      "pl": "ayaṃ, bhikkhave, ariyā pariyesanā.",
+      "fr": "Voici, mendiants, ce qu'est la quête noble."
+    },
     {
       "pl": "“ahampi sudaṃ, bhikkhave, pubbeva sambodhā anabhisambuddho bodhisattova samāno attanā jātidhammo samāno jātidhammaṃyeva pariyesāmi, attanā jarādhammo samāno jarādhammaṃyeva pariyesāmi, attanā byādhidhammo samāno byādhidhammaṃyeva pariyesāmi, attanā maraṇadhammo samāno maraṇadhammaṃyeva pariyesāmi, attanā sokadhammo samāno sokadhammaṃyeva pariyesāmi, attanā saṃkilesadhammo samāno saṃkilesadhammaṃyeva pariyesāmi.",
       "fr": "Moi-même, mendiants, avant mon [sambodhi|éveil], lorsque je n'étais qu'un [bodhisatta|être d'Éveil], pas encore [sambuddha|éveillé], étant moi-même par nature voué à la naissance, j'étais en quête de ce qui est par nature voué à la naissance; étant moi-même par nature voué au vieillissement, j'étais en quête de ce qui est par nature voué au vieillissement; étant moi-même par nature voué à la maladie, j'étais en quête de ce qui est par nature voué à la maladie; étant moi-même par nature voué à la mort, j'étais en quête de ce qui est par nature voué à la mort; étant moi-même par nature voué au chagrin, j'étais en quête de ce qui est par nature voué au chagrin; étant moi-même par nature voué à l'impureté, j'étais en quête de ce qui est par nature voué à l'impureté."
@@ -281,20 +296,111 @@
       "pl": "‘yathā kho tvaṃ, āvuso, paṭijānāsi, arahasi anantajino’ti!",
       "fr": "D'après ce que tu prétends, ami, tu mérites l'épithète de Vainqueur Suprême."
     },
-    { "pl": "‘mādisā ve jinā honti, ye pattā āsavakkhayaṃ.jitā me pāpakā dhammā,tasmāhamupaka jino’ti.", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" }
+    {
+      "pl": "‘mādisā ve jinā honti, ye pattā āsavakkhayaṃ.jitā me pāpakā dhammā,tasmāhamupaka jino’ti.",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "patta",
+    "civara",
+    "bhikkhu",
+    "ayasma",
+    "pindapata",
+    "patisallana",
+    "pabbaja",
+    "anagariya",
+    "saddha",
+    "adinava",
+    "dhamma",
+    "yoga",
+    "nibbana",
+    "jara",
+    "marana",
+    "amata",
+    "sambodhi",
+    "bodhisatta",
+    "sambuddha",
+    "pabbajja",
+    "abhinna",
+    "akincay",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "nsnay",
+    "nanadassana",
+    "cetovimutti",
+    "jati",
+    "bhava",
+    "paticcasamuppada",
+    "samatha",
+    "sankhara",
+    "tanha",
+    "raga",
+    "dosa",
+    "khandha",
+    "citta",
+    "brahma",
+    "loka",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "i]“[bhante",
+    "soka",
+    "indriya",
+    "sanna",
+    "pandita",
+    "deva"
+  ],
   "translator": "Sekha"
 }

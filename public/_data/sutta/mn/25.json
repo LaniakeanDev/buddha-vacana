@@ -4,7 +4,10 @@
   "frTitle": "La nourriture",
   "description": "Le Bouddha explique le danger que représente la nourriture et que la meilleure manière de se comporter à son égard est d'adopter la voie du milieu, ce qu'il fait en rejetant le laisser-aller, en soulignant le danger de l'ascétisme dur, ainsi que la nécessité de la pratique des jhānas. Il fait ensuite une série de déclarations intéressantes à propos de Māra et des jhānas.",
   "body": [
-    { "pl": "Evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, le Bhagavā s'adressa aux [bhikkhu|mendiants]:"
@@ -238,6 +241,29 @@
       "fr": "Ainsi parla le Bhagavā. Les [bhikkhu|mendiants] furent satisfaits et approuvèrent les paroles du Bhagavā."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "pamada",
+    "bala",
+    "viriya",
+    "kamaguna",
+    "mara",
+    "samana",
+    "brahmana",
+    "cetovimutti",
+    "tathagata",
+    "@f_4jhana#1",
+    "@f_4jhana#2",
+    "@f_4jhana#3",
+    "@f_4jhana#4",
+    "@f_arupajjhana#5",
+    "@f_arupajjhana#6",
+    "@f_arupajjhana#7",
+    "@f_arupajjhana#8",
+    "@f_arupajjhana#9",
+    "asava",
+    "panna"
+  ],
   "translator": "Rémy"
 }

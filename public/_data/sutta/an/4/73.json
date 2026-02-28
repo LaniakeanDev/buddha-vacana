@@ -52,8 +52,11 @@
       "pl": "imehi kho, bhikkhave, catūhi dhammehi samannāgato sappuriso veditabbo.",
       "fr": "Mendiants, on reconnaît celui qui est pourvu de ces quatre comportements comme une [sappurisa|bonne personne]."
     },
-    { "pl": "(...)", "fr": "(...)" }
+    {
+      "pl": "(...)",
+      "fr": "(...)"
+    }
   ],
-  "keywords": [],
+  "keywords": ["asappurisa", "bhikkhu", "sappurisa"],
   "translator": "Rémy"
 }

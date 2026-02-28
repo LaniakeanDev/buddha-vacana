@@ -4,7 +4,10 @@
   "frTitle": "Le brahmane Sangarava",
   "description": "Le brahmane Sangarava cherche à comprendre pourquoi les hymnes qu'il a appris ne lui reviennent pas toujours. Le Bouddha lui répond avec un exposé des entraves (nīvaraṇa) et des facteurs d'Éveil (bojjhaṅga).",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Atha kho saṅgāravo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho saṅgāravo brāhmaṇo bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [brahmana|brahmane] Sangarava vint voir le [bhagava|Fortuné] et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [brahmana|brahmane] Sangarava dit au [bhagava|Fortuné]:"
@@ -134,6 +137,38 @@
       "fr": "— C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Gotama a expliqué le [dhamma|Dhamma] de diverses façons. Je vais en refuge au vénérable Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le vénérable Gotama me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "brahmana",
+    "bhagava",
+    "bho",
+    "hetu",
+    "paccaya",
+    "citta",
+    "kamaraga",
+    "yathabhutam",
+    "nissarana",
+    "@m_attha",
+    "byapada",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "vicikiccha",
+    "bojjhanga",
+    "nivarana",
+    "upakkilesa",
+    "vijja",
+    "vimutti",
+    "sambojjhanga",
+    "sati",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha",
+    "dhamma",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Rémy"
 }

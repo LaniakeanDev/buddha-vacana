@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "identifier": "SN 2.18",
+    "plTitle": "Kakudha Sutta",
+    "frTitle": "La visite de Kakoudha",
+    "description": "Un déva vient s'enquérir de l'état d'esprit du Bouddha.",
+    "keywords": [
+      "bhagava",
+      "deva",
+      "samana",
+      "bhikkhu",
+      "@v]Et la perturbation est l'apanage de celui qui se complaît.[@v]Un [bhikkhu",
+      "@v]Un [arahant",
+      "parinibbana",
+      "@v]Un [bhikkhu"
+    ],
+    "translator": "Sekha.",
+    "nikaya": "sn",
+    "id": "18",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 2.25",
+    "plTitle": "Jantu Sutta",
+    "frTitle": "La réprimande de Jantou",
+    "description": "Jantou l'enfant de dévas réprimande des mendiants dissipés.",
+    "keywords": [
+      "bhikkhu",
+      "sampajanna",
+      "samahita",
+      "citta",
+      "indriya",
+      "uposatha",
+      "deva",
+      "sukha",
+      "@v]Les [bhikkhu",
+      "@v]Sans désir ils cherchaient leurs aumônes,[@v]Sans désir ils utilisaient les sièges et les lits.[@v]Ayant connu l'[anicca",
+      "@v]Ils mettaient fin au [dukkha",
+      "sangha",
+      "@v]Je ne parle ici que de certains[@v]Qui sont rejetés, sans protection,[@v]Comme des [peta",
+      "pamada",
+      "@v]Que ma déclaration s'adresse.[@v]Ceux qui restent [appamada"
+    ],
+    "translator": "Sekha.",
+    "nikaya": "sn",
+    "id": "25",
+    "readingTime": 1
+  }
+]

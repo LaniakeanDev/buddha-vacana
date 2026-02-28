@@ -4,7 +4,10 @@
   "frTitle": "Pour Ananda",
   "description": "Ce soutta est important, car le Bouddha y explique qu'ānāpānassati à elle seule permet de pratiquer les satipaṭṭhānas jusqu'à leur complétude, et comment, par voie de conséquence, en induisant le développement des facteurs d'Éveil, elle mène à la véritable connaissance et la délivrance.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, le [ayasma|vénérable] Ananda alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -190,6 +193,49 @@
       "fr": "Voici, Ananda, comment les sept [sambojjhanga|facteurs d'Éveil] sont développés et cultivés abondamment de manière à porter la [vijja|véritable connaissance] & [vimutti|libération] à leur complétude."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "samadhi",
+    "anapanassati",
+    "satipatthana",
+    "sambojjhanga",
+    "vijja",
+    "vimutti",
+    "bhikkhu",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "citta",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl",
+    "@f_stp#kaya-cl",
+    "kaya",
+    "@f_stp#vedana-cl",
+    "manasikara",
+    "vedana",
+    "@f_stp#citta-cl",
+    "sampajana",
+    "@f_stp#dhamma-cl",
+    "panna",
+    "abhijjha",
+    "domanassa",
+    "upekkha",
+    "sati",
+    "bhavana",
+    "sato",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "niramisa",
+    "passaddhi",
+    "sukha",
+    "viveka",
+    "viraga",
+    "nirodha"
+  ],
   "translator": "Bhikkhu Sekha"
 }

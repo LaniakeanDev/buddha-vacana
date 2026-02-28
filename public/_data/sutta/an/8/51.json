@@ -32,45 +32,159 @@
       "pl": "atha kho mahāpajāpatī gotamī “na bhagavā anujānāti mātugāmassa tathāgatappavedite dhammavinaye agārasmā anagāriyaṃ pabbajjan”ti dukkhī dummanā assumukhī rudamānā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
       "fr": "Alors Mahapajapati Gotami, se disant que le Fortuné n'acceptait pas que les femmes puissent quitter la vie de foyer pour le [anagariya|sans-foyer] dans l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata], peinée, contrariée, les larmes au visage, en pleurs, rendit hommage au [bhagava|Fortuné] en le tenant sur sa droite, et s'en alla."
     },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" },
-    { "pl": "", "fr": "" }
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    },
+    {
+      "pl": "",
+      "fr": ""
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "anagariya", "dhamma", "vinaya", "tathagata"],
   "translator": "Bhikkhu Sekha"
 }

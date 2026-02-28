@@ -4,8 +4,14 @@
   "frTitle": "Le Gange",
   "description": "Ce soutta compare le mouvement d'un fleuve vers l'océan et celui d'un mendiant vers l'Extinction (Nibbāna), en insistant sur le rôle que jouent les quatre efforts corrects.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
-    { "pl": "tatra kho bhagavā etadavoca:", "fr": "Le [bhagava|Fortuné] dit alors:" },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "tatra kho bhagavā etadavoca:",
+      "fr": "Le [bhagava|Fortuné] dit alors:"
+    },
     {
       "pl": "— “cattārome, bhikkhave, sammappadhānā. katame cattāro? idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. ime kho, bhikkhave, cattāro sammappadhānāti”.",
       "fr": "—[bhikkhu|Mendiants], il y a ces quatre [padhana|efforts] corrects.Quels sont ces quatre? À cet égard, un mendiant génère le [chanda|désir] de non-apparition des [dhamma|états mentaux] [papaka|mauvais] et [akusala|désavantageux] qui ne sont pas [encore] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce; il génère le [chanda|désir] d'abandon des [dhamma|états mentaux] [papaka|mauvais] et [akusala|désavantageux] qui sont [déjà] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce; il génère le [chanda|désir] d'apparition des [dhamma|états mentaux] [kusala|avantageux] qui ne sont pas [encore] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce; il génère le [chanda|désir] de maintien, de non-confusion, d'augmentation, d'abondance, de développement et de complétude des [dhamma|états mentaux] [kusala|avantageux] qui sont [déjà] apparus, il s'exerce, active son [viriya|énergie], applique son [citta|esprit] et s'efforce. Voici, [bhikkhu|mendiants], quels sont ces quatre [padhana|efforts] corrects."
@@ -23,6 +29,18 @@
       "fr": "Voici, [bhikkhu|mendiants], comment un mendiant développe les quatre [padhana|efforts] corrects, cultive les quatre [padhana|efforts] corrects, de manière à être incliné vers l'[nibbana|Extinction], à être infléchi vers l'[nibbana|Extinction], à être penché vers l'[nibbana|Extinction]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "padhana",
+    "chanda",
+    "dhamma",
+    "papaka",
+    "akusala",
+    "viriya",
+    "citta",
+    "kusala",
+    "nibbana"
+  ],
   "translator": "Rémy"
 }

@@ -8,7 +8,10 @@
       "pl": "ekaṃ samayaṃ āyasmā mahāmoggallāno sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi ",
       "fr": "Un jour, le [ayasma|vénérable] Mahāmoggalāna séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“āvuso, bhikkhave”ti.", "fr": "— Mes amis, [bhikkhu|mendiants]." },
+    {
+      "pl": "“āvuso, bhikkhave”ti.",
+      "fr": "— Mes amis, [bhikkhu|mendiants]."
+    },
     {
       "pl": "“āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ. āyasmā mahāmoggallāno etadavoca:",
       "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Mahāmoggalāna dit alors:"
@@ -30,6 +33,20 @@
       "fr": "Alors, mes amis, un peu plus tard, [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états mentaux désavantageux, je suis entré et j'ai demeuré dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.] Mes amis, si en parlant correctement on pouvait dire de quelqu'un: [i]“Celui-là est un [savaka|disciple] qui a atteint la grandeur de la [abhinna|connaissance directe] avec l'assistance de l'Instructeur”[/i], ce serait de moi qu'il serait correct de le dire."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "patisallana",
+    "jhana",
+    "@f_4jhana#1-cl",
+    "sanna",
+    "manasikara",
+    "kama",
+    "bhagava",
+    "iddhi",
+    "citta",
+    "savaka",
+    "abhinna"
+  ],
   "translator": "Rémy"
 }

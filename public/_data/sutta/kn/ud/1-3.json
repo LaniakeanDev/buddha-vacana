@@ -4,7 +4,10 @@
   "frTitle": "L'éveil",
   "description": "Après avoir atteint l'éveil, le Bouddha se concentre sur la chaîne d'apparition conditionnée dans l'ordre direct et indirect.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre bodhirukkhamūle paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī. atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā rattiyā pacchimaṃ yāmaṃ paṭiccasamuppādaṃ anulomapaṭilomaṃ sādhukaṃ manasākāsi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied de l'arbre de l'Eveil, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, ayant émergé de cette [samadhi|concentration], pendant la dernière partie de la nuit, le [bhagava|Fortuné] porta méticuleusement son attention à l'[paticcasamuppada|apparition conditionnée] dans l'ordre direct et indirect:"
@@ -26,6 +29,35 @@
       "fr": "Lorsque les [dhamma|phénomènes] deviennent manifestes[@v]Au [brahmana|brahmane] méditant ardemment[@v]Il se tient debout, ayant dispersé l'armée du [mara|Tueur][@v]Comme le soleil illumine le ciel [ayant dispersé les ténèbres]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "sambodhi",
+    "vimutti",
+    "samadhi",
+    "paticcasamuppada",
+    "avijja",
+    "sankhara",
+    "vinnana",
+    "namarupa",
+    "salayatana",
+    "phassa",
+    "vedana",
+    "tanha",
+    "upadana",
+    "bhava",
+    "jati",
+    "jara",
+    "marana",
+    "dukkha",
+    "domanassa",
+    "upayasa",
+    "khandha",
+    "viraga",
+    "nirodha",
+    "udana",
+    "dhamma",
+    "brahmana",
+    "mara"
+  ],
   "translator": "Sekha"
 }

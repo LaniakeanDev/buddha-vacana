@@ -4,7 +4,10 @@
   "frTitle": "Au sanctuaire de Sārandada",
   "description": "Un groupe de Litchavis discutent des cinq joyaux spécifiques dont la manifestation est rare: un éléphant, un cheval, un bijou, une femme, un intendant (ces joyaux sont décrits à MN 129). Le Bouddha propose une liste alternative.",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "pañcannaṃ, licchavī, ratanānaṃ pātubhāvo dullabho lokasmiṃ. katamesaṃ pañcannaṃ?",
       "fr": "Litchavis, il y a cinq joyaux dont la manifestation est rare dans le [loka|monde]. Quels sont ces cinq?"
@@ -18,6 +21,6 @@
       "fr": "Litchavis, la manifestation de ces cinq joyaux est rare dans le [loka|monde]."
     }
   ],
-  "keywords": [],
+  "keywords": ["loka", "tathagata", "arahant", "sammasambuddha", "dhamma", "vinaya", "dadp"],
   "translator": "Rémy"
 }

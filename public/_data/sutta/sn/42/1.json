@@ -4,7 +4,10 @@
   "frTitle": "La question de Tchanda",
   "description": "Tchanda le chef de village cherche à comprendre ce qui fait que quelqu'un est considéré comme irascible ou au contraire comme doux.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho caṇḍo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho caṇḍo gāmaṇi bhagavantaṃ etadavoca:",
       "fr": "Ce jour-là, Tchanda le chef de village alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
@@ -30,6 +33,18 @@
       "fr": "«C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "hetu",
+    "paccaya",
+    "raga",
+    "dosa",
+    "moha",
+    "dhamma",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
   "translator": "Bhikkhu Sekha"
 }

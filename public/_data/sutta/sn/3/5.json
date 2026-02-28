@@ -4,7 +4,10 @@
   "frTitle": "Se protéger soi-même",
   "description": "Le roi Passénadi comprend ce que signifie être protégé.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca —",
       "fr": "Une fois assis d'un côté, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
@@ -26,6 +29,6 @@
       "fr": "La [samvara|restreinte] en corps est bonne[@v]La [samvara|restreinte] en parole est bonne[@v]La [samvara|restreinte] mentale est bonne[@v]Toute [samvara|restreinte] est bonne.[@v]De celui qui est restreint partout, consciencieux[@v]Ont dit qu'il est protégé."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "bhante", "patisallana", "vitakka", "duccarita", "sucarita", "samvara"],
   "translator": "Sekha"
 }

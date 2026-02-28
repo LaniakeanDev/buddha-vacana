@@ -4,7 +4,10 @@
   "frTitle": "L'angoisse due à l'attachement",
   "description": "Le Bouddha explique comment l'attachement au Soi à travers les accumulations d'attachement mène à l'agitation, et comment s'en défaire.",
   "body": [
-    { "pl": "sāvatthinidānaṃ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“upādāparitassanañca vo, bhikkhave, desessāmi anupādāaparitassanañca. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
       "fr": "«[bhikkhu|Mendiants], je vais vous enseigner l'angoisse due à l'attachement et l'absence d'angoisse due à l'absence d'attachement. Écoutez cela et faites bien attention, je vais parler."
@@ -62,6 +65,25 @@
       "fr": "Voici, mendiants, ce qu'est l'absence d'angoisse due à l'absence d'attachement."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "bhante",
+    "bhagava",
+    "puthujjana",
+    "assutava",
+    "ariya",
+    "dhamma",
+    "sappurisa",
+    "rupa",
+    "atta",
+    "vinnana",
+    "citta",
+    "upadana",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "ariyasavaka",
+    "sutava"
+  ],
   "translator": "Sekha"
 }

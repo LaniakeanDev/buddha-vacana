@@ -36,8 +36,11 @@
       "pl": "“seyyathāpi, brāhmaṇa, gāvī vajjhā āghātanaṃ nīyamānā yaṃ yadeva pādaṃ uddharati, santikeva hoti vadhassa santikeva maraṇassa; evamevaṃ kho, brāhmaṇa, govajjhūpamaṃ jīvitaṃ manussānaṃ parittaṃ lahukaṃ bahudukkhaṃ bahupāyāsaṃ mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇan”ti.",
       "fr": "[i]“Tout comme une vache menée à l'abattoir se rapproche de l'exécution et de la mort à chaque fois qu'elle fait un pas, de la même manière, comprenez avec sagesse que la vie humaine est semblable à une vache menée à l'abattoir: elle est courte, limitée, rapidement arrivée à sa fin, remplie de [dukkha|mal-être] et de tribulations. Elle devrait être utilisée pour faire ce qui est [kusala|avantageux] et vivre la [brahmacariya|vie brahmique], car il n'y a pas de [jati|naissance] sans [marana|mort].”[/i]"
     },
-    { "pl": "(…)", "fr": "(…) " }
+    {
+      "pl": "(…)",
+      "fr": "(…) "
+    }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "savaka", "dhamma", "i]“[brahmana", "dukkha", "kusala", "brahmacariya", "jati", "marana"],
   "translator": "Sekha"
 }

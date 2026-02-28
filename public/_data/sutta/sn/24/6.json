@@ -4,7 +4,10 @@
   "frTitle": "En agissant",
   "description": "L'origine du déni des conséquences des actions dans les cinq accumulations d'attachement.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati — ‘karoto kārayato chindato chedāpayato pacato pācāpayato socato socāpayato kilamato kilamāpayato phandato phandāpayato pāṇamatipātayato adinnaṃ ādiyato sandhiṃ chindato nillopaṃ harato ekāgārikaṃ karoto paripanthe tiṭṭhato paradāraṃ gacchato musā bhaṇato karoto na karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekamaṃsakhalaṃ ekamaṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. dakkhiṇaṃ cepi gaṅgāya tīraṃ gaccheyya; hananto ghātento chindanto chedāpento pacanto pācento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. uttaraṃ cepi gaṅgāya tīraṃ gaccheyya; dadanto dāpento yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. dānena damena saṃyamena saccavajjena natthi puññaṃ natthi puññassa āgamo’””ti?",
       "fr": "«[bhikkhu|Mendiants], qu'est-ce qui, quand c'est présent et qu'on s'y attache, qu'on y adhère, une telle vue apparaît: [i]“En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit ne fait pas de mal. Même si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela ne causerait pas de [punna|mérite], il n'y aurait pas de conséquence du [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il n'y a pas de [punna|mérite], il n'y a pas de conséquence au [punna|mérite].”[/i]?"
@@ -21,52 +24,103 @@
       "pl": "“taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā””ti?",
       "fr": "Qu'en pensez-vous, [bhikkhu|mendiants]: la [rupa|Forme] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘karoto … pe … āgamo’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“En agissant soi-même (…) [punna|mérite].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“vedanā … pe … saññā … pe … saṅkhārā … pe … viññāṇaṃ niccaṃ vā aniccaṃ vā””ti?",
       "fr": "—Le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience] est-elle permanente ou [anicca|impermanente]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—Elle est impermanente, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—Elle est impermanente, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘karoto … pe … āgamo’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“En agissant soi-même (…) [punna|mérite].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā””ti?",
       "fr": "—Ce qui est vu, entendu, senti, appréhendé, atteint, recherché, ou pensé par le [mana|mental], est-ce permanent ou [anicca|impermanent]?"
     },
-    { "pl": "“aniccaṃ, bhante”.", "fr": "—C'est impermanent, [bhante|Bhanté]." },
+    {
+      "pl": "“aniccaṃ, bhante”.",
+      "fr": "—C'est impermanent, [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], est-ce [sukha|satisfaisant] ou [dukkha|insatisfaisant]?"
     },
-    { "pl": "“dukkhaṃ, bhante”.", "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]." },
+    {
+      "pl": "“dukkhaṃ, bhante”.",
+      "fr": "—C'est [dukkha|insatisfaisant], [bhante|Bhanté]."
+    },
     {
       "pl": "“yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya — ‘karoto … pe … āgamo’””ti?",
       "fr": "—Et ce qui est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature voué] au [viparinama|changement], si on n'y était pas attaché, est-ce qu'une telle vue apparaîtrait: [i]“En agissant soi-même (…) [punna|mérite].”[/i]?"
     },
-    { "pl": "“no hetaṃ, bhante”.", "fr": "—Non, [bhante|Bhanté]." },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
     {
       "pl": "“yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti — ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.",
       "fr": "—[bhikkhu|Mendiants], lorsqu'un [ariyasavaka|noble disciple] a abandonné les doutes par rapport à ces six thèmes, qu'il a abandonné les doutes par rapport au [dukkha|mal-être], qu'il a abandonné les doutes par rapport à l'[dukkhasamudaya|origine du mal-être],qu'il a abandonné les doutes par rapport à la [dukkhanirodha|cessation du mal-être],qu'il a abandonné les doutes par rapport à la [dngp|voie menant à la cessation du mal-être], on dit de lui qu'il est un [ariyasavaka|noble disciple] [sotapanna|parvenu-au-courant], délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil].»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "punna",
+    "bhante",
+    "dhamma",
+    "bhagava",
+    "@m_attha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "anicca",
+    "sukha",
+    "dukkha",
+    "viparinama",
+    "mana",
+    "ariyasavaka",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Sekha"
 }

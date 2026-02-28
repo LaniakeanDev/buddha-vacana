@@ -4,7 +4,10 @@
   "frTitle": "Les trésors",
   "description": "Un autre soutta très couramment récité sur les trésors que sont le Bouddha, le Dhamma et la Communauté.",
   "body": [
-    { "pl": "", "fr": "" },
+    {
+      "pl": "",
+      "fr": ""
+    },
     {
       "pl": "yānīdha bhūtāni samāgatāni, [@v]bhummāni vā yāni va antalikkhe. [@v]sabbeva bhūtā sumanā bhavantu, [@v]athopi sakkacca suṇantu bhāsitaṃ. [@v]",
       "fr": "Les êtres vivants rassemblés ici[@v]Qu'ils soient de la terre ou du ciel,[@v]Que tous ces êtres soient heureux[@v]Et qu'ils écoutent attentivement ce qui est dit."

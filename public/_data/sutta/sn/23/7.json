@@ -4,7 +4,10 @@
   "frTitle": "Pravenu-au-courant",
   "description": "Le Bouddha donne une définition de l'entrée dans le courant (sotāpatti) basée sur la compréhension des cinq accumulations d'attachement.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "eamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca:",
       "fr": "Tandis qu'il était assis d'un côté, le [bhagava|Fortuné] dit au [ayasma|vénérable] Radha:"
@@ -14,6 +17,25 @@
       "fr": "—Il y a, Radha, ces cinq [upadanakkhandha|accumulations d'attachement]. Quelles sont ces cinq? L'[upadanakkhandha|accumulation d'attachement] de la [rupa|Forme], l'[upadanakkhandha|accumulation d'attachement]du [vedana|Ressenti], l'[upadanakkhandha|accumulation d'attachement] de la [sanna|Perception], l'[upadanakkhandha|accumulation d'attachement] des [sankhara|Constructions],et l'[upadanakkhandha|accumulation d'attachement] de la [vinnana|Conscience].Lorsqu'un [ariyasavaka|noble disciple] discerne [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage] et l'[nissarana|émancipation] par rapport à ces cinq [upadanakkhandha|accumulations d'attachement], on l'appelle un [sotapanna|parvenu-au-courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "yathabhutam",
+    "samudaya",
+    "assada",
+    "adinava",
+    "nissarana",
+    "sotapanna",
+    "dhamma",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

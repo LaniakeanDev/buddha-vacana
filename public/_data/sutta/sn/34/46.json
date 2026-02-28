@@ -4,7 +4,10 @@
   "frTitle": "Par rapport au nourrissement",
   "description": "Une série de quatre souttas qui compare diverses capacités liées à la concentration à l'habilité au nourrissement dans cette dernière.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
       "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
@@ -26,6 +29,6 @@
       "fr": "(49) (…) est habile au nourrissement dans la [samadhi|concentration], mais n'est pas habile à ce qui est adéquat dans la [samadhi|concentration] (…) "
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhu", "samadhi"],
   "translator": "Sekha"
 }

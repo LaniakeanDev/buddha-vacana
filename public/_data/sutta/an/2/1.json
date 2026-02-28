@@ -4,12 +4,18 @@
   "frTitle": "Les fautes",
   "description": "Les fautes qui portent à conséquence dans ce monde visible, et celles qui portent à conséquence dans l'autre monde.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -43,6 +49,22 @@
       "fr": "Voici, [bhikkhu|mendiants], quels sont ces deux [types de] fautes. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]«Nous craindrons la faute [qui porte à conséquence] dans ce monde visible, nous craindrons la faute [qui porte à conséquence] dans l'autre monde, nous serons effrayés par les fautes, nous verrons le danger dans les fautes.»[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner. On peut attendre ce celui qui est effrayé par les fautes, qui voit le danger dans les fautes, qu'il sera délivré de toutes les fautes.»"
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "papaka",
+    "kamma",
+    "duccarita",
+    "vipaka",
+    "dukkha",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "sucarita"
+  ],
   "translator": "Bhikkhu Sekha"
 }

@@ -1,1 +1,183 @@
-[]
+[
+  {
+    "identifier": "SN 20.1",
+    "plTitle": "Kūṭa Sutta",
+    "frTitle": "Le faîte",
+    "description": "Une allégorie pour comprendre comment l'ignorance est la racine ultime de tous les maux.",
+    "keywords": [
+      "bhagava",
+      "bhikkhu",
+      "@nl]— [bhadante",
+      "également], de la même manière, tous les [dhamma",
+      "akusala",
+      "avijja",
+      "i]“Nous resterons [appamada",
+      "/i]. Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 20.10",
+    "plTitle": "Biḷāra Sutta",
+    "frTitle": "Le chat",
+    "description": "Voici comment un mendiant qui ne pratique pas correctement la restreinte des sens est semblable à un chat à qui il arrive une mauvaise surprise.",
+    "keywords": [
+      "ayasma",
+      "bhikkhu",
+      "bhagava",
+      "bhante",
+      "i]“Le [ayasma",
+      "i]“Quand la petite souris sortira de son trou, je l'attraperai et la mangerai!”[/i] Finalement, [bhikkhu",
+      "sati",
+      "indriya",
+      "raga",
+      "citta",
+      "marana",
+      "dukkha",
+      "vinaya",
+      "ariya",
+      "sikkha",
+      "apatti",
+      "i]“Nous irons au village ou en ville protégés en corps, protégés en parole, protégés en esprit, en ayant installé notre [sati",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "10",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 20.2",
+    "plTitle": "Nakhasikha Sutta",
+    "frTitle": "Le coin de l'ongle",
+    "description": "Une allégorie pour comprendre quelle est la proportion d'êtres humains dans l'univers.",
+    "keywords": ["bhagava", "bhikkhu", "bhante", "satta", "i]“Nous resterons [appamada", "/i]. Voici, [bhikkhu"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.3",
+    "plTitle": "Kula Sutta",
+    "frTitle": "Les familles",
+    "description": "Une allégorie pour expliquer que développer la bienveillance est la meilleure des protections contre les êtres non-humains.",
+    "keywords": [
+      "bhagava",
+      "bhikkhu",
+      "cetovimutti",
+      "metta",
+      "i]“Nous développerons la [cetovimutti",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.4",
+    "plTitle": "Okkhā Sutta",
+    "frTitle": "Les marmites de riz",
+    "description": "Une allégorie expliquant combien développer la bienveillance est bien plus bénéfique que de faire des dons charitables.",
+    "keywords": [
+      "bhagava",
+      "bhikkhu",
+      "citta",
+      "metta",
+      "i]“Nous développerons la [cetovimutti",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "4",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.5",
+    "plTitle": "Satti Sutta",
+    "frTitle": "La lance",
+    "description": "Une comparaison pour comprendre que développer la [metta|bienveillance] est la meilleure des protections contre les esprits.",
+    "keywords": [
+      "bhikkhu",
+      "en pensant]: 'Je vais tordre la pointe tranchante de cette lance avec ma main ou mon poing, je vais la plier complètement, je vais la retourner. Qu'en pensez-vous, [bhikkhu",
+      "bhante",
+      "cetovimutti",
+      "metta",
+      "i]“Nous développerons la [cetovimutti",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "5",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.7",
+    "plTitle": "Āṇi Sutta",
+    "frTitle": "Les rapiècements",
+    "description": "Une comparaison pour comprendre un des mécanismes principaux par lesquels les enseignements du Bouddha en viennent à disparaître.",
+    "keywords": [
+      "bhikkhu",
+      "tathagata",
+      "toujours] liés à la vacuité, ils ne les écouteront pas attentivement, ils ne prêteront pas l'oreille, ils n'appliqueront pas leur [citta",
+      "dhamma",
+      "citta",
+      "à ce Dhamma] ou qui sont les paroles de [savaka",
+      "i]“Lorsque seront récités ces discours qui sont la parole du [tathagata",
+      "toujours] liés à la vacuité, nous les écouterons attentivement, nous prêterons l'oreille, nous appliquerons notre [citta",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "7",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.8",
+    "plTitle": "Kaliṅgara Sutta",
+    "frTitle": "Des bûches pour oreillers",
+    "description": "Une chose que des [bhikkhu|mendiants] et des soldats licchavīs ont en commun et qui les rend invincibles face à l'ennemi.",
+    "keywords": [
+      "bhagava",
+      "couverte d'un] toit pointu. Là, il s'adressa aux [bhikkhu",
+      "bhikkhu",
+      "bhadante",
+      "appamada",
+      "atapi",
+      "mara",
+      "i]“Utilisant des bûches comme oreillers, nous demeurerons [appamada",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "8",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 20.9",
+    "plTitle": "Nāga Sutta",
+    "frTitle": "Les éléphants",
+    "description": "Un mendiant fraîchement ordonné croit imiter les aînés en prenant certaines libertés, mais le Bouddha souligne quel est le danger inhérent à sa conduite.",
+    "keywords": [
+      "bhagava",
+      "bhikkhu",
+      "ayasma",
+      "bhante",
+      "i]“Le [ayasma",
+      "dhamma",
+      "adinava",
+      "panna",
+      "nissarana",
+      "i]“Nous ferons usage de ce que nous recevons sans y être attachés, sans nous en enthousiasmer, sans transgresser, en en voyant les [adinava",
+      "/i] Voici, [bhikkhu"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "9",
+    "readingTime": 3
+  }
+]

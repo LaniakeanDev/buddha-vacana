@@ -4,7 +4,10 @@
   "frTitle": "La satisfaction",
   "description": "Le Bouddha prend Kassapa comme modèle pour exhorter les mendiants à se satisfaire des quatre supports de vie qu'ils obtiennent.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati … pe …", "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)" },
+    {
+      "pl": "sāvatthiyaṃ viharati … pe …",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
     {
       "pl": "“santuṭṭhāyaṃ, bhikkhave, kassapo itarītarena cīvarena, itarītaracīvarasantuṭṭhiyā ca vaṇṇavādī; na ca cīvarahetu anesanaṃ appatirūpaṃ āpajjati; aladdhā ca cīvaraṃ na paritassati; laddhā ca cīvaraṃ agadhito amucchito anajjhāpanno ādīnavadassāvī nissaraṇapañño paribhuñjati”.",
       "fr": "[bhikkhu|Mendiants], ce Kassapa se [santuttha|satisfait] de n'importe quelle [civara|robe], il prône la [santuttha|satisfaction] avec n'importe quelle [civara|robe]; il ne s'engage pas, à [hetu|cause] d'une [civara|robe], dans ce qui est malséant et inapproprié; s'il n'obtient pas de [civara|robe], il n'en est pas agité, et s'il obtient une [civara|robe], il l'utilise sans y être attaché, sans s'en enthousiasmer, sans s'y accrocher, en en voyant les [adinava|désavantages], et en [panna|discernant] l'[nissarana|émancipation] à son égard."
@@ -34,6 +37,18 @@
       "fr": "Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner. Je vous exhorterai en prenant Kassapa ou quelqu'un qui lui ressemble comme exemple. Vous devriez pratiquer conformément à l'exhortation. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "santuttha",
+    "civara",
+    "hetu",
+    "adinava",
+    "panna",
+    "nissarana",
+    "pindapata",
+    "senasana",
+    "bhesajja"
+  ],
   "translator": "Sekha."
 }

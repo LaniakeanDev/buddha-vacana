@@ -4,7 +4,10 @@
   "frTitle": "Baddhiya l'ancien roi",
   "description": "Un mendiant s'exprime de manière inattendue, ce qui pique la curiosité des autres, mais ils vont trop vite en besogne et le Bouddha décide de lever toute ambigüité.",
   "body": [
-    { "pl": "evaṃ me sutaṃ", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā anupiyāyaṃ viharati ambavane. tena kho pana samayena āyasmā bhaddiyo kāḷīgodhāya putto araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṃ udānaṃ udānesi — “aho sukhaṃ, aho sukhan””ti!",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Anoupiya, dans la mangueraie. Ces jours-là, le [ayuasma|vénérable] Bhaddiya fils de Kaligodha, lorsqu'il se rendait dans la forêt, ou au pied d'un arbre, ou dans une pièce vide s'exclamait: [i]“Ah, quel [sukha|bonheur], quel [sukha|bonheur]!”[/i]."
@@ -33,7 +36,10 @@
       "pl": "“evaṃ, bhante””ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā bhaddiyo kāḷīgodhāya putto tenupasaṅkami; upasaṅkamitvā bhaddiyaṃ kāḷīgodhāya puttaṃ etadavoca —",
       "fr": "Ayant acquiescé, ce [bhikkhu|mendiant] alla voir le [ayasma|vénérable] Bhaddiya fils de Kaligodha et lui dit:"
     },
-    { "pl": "“satthā taṃ, āvuso bhaddiya, āmantetī””ti.", "fr": "«Ami Bhaddiya, l'Enseignant t'appelle." },
+    {
+      "pl": "“satthā taṃ, āvuso bhaddiya, āmantetī””ti.",
+      "fr": "«Ami Bhaddiya, l'Enseignant t'appelle."
+    },
     {
       "pl": "“evamāvuso””ti kho āyasmā bhaddiyo kāḷīgodhāya putto tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ bhaddiyaṃ kāḷīgodhāya puttaṃ bhagavā etadavoca —",
       "fr": "—Bien, mon ami» répondit Bhaddiya le fils de Kaligodha, puis il alla voir le [bhagava|Fortuné], lui rendit hommage, et s'assit d'un côté. Tandis qu'il était assis là, le [bhagava|Fortuné] lui dit:"
@@ -42,7 +48,10 @@
       "pl": "“saccaṃ kira tvaṃ, bhaddiya, araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṃ udānaṃ udānesi — ‘aho sukhaṃ, aho sukhan’””ti!",
       "fr": "«Est-il vrai, Bhaddiya, quelorsque tu te rends dans la forêt, ou au pied d'un arbre, ou dans une pièce vide, tu t'exclames: [i]“Ah, quel [sukha|bonheur], quel [sukha|bonheur]!”[/i]"
     },
-    { "pl": "“evaṃ, bhante””ti.", "fr": "—Oui, [bhante|Bhanté]." },
+    {
+      "pl": "“evaṃ, bhante””ti.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
     {
       "pl": "“kiṃ pana tvaṃ, bhaddiya, atthavasaṃ sampassamāno araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṃ udānaṃ udānesi — ‘aho sukhaṃ, aho sukhan’””ti!",
       "fr": "—Bhaddiya, au vu de quel bienfait est-ce que lorsque tu te rends dans la forêt, ou au pied d'un arbre, ou dans une pièce vide, tu t'exclames: [i]“Ah, quel [sukha|bonheur], quel [sukha|bonheur]!”[/i]?"
@@ -60,6 +69,6 @@
       "fr": "Celui qui n'a pas de colère en lui,Ayant transcendé l'[bhava|existence] et la non-existence,Sans peur, dans le [sukha|bien-être], sans chagrin,Même les [deva|dévas] ne peuvent le voir."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhagava", "ayuasma", "sukha", "bhikkhu", "brahmacariya", "bhante", "ayasma", "udana", "bhava", "deva"],
   "translator": "Sekha"
 }

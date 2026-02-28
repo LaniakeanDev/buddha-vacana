@@ -4,7 +4,10 @@
   "frTitle": "Dans un endroit retiré",
   "description": "Dans quelle mesure les quatre mises en place de l'attention (satipaṭṭhānā) ont-elles été entreprises par un mendiant?",
   "body": [
-    { "pl": "Evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "Evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ āyasmā anuruddho sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “yesaṃ kesañci cattāro satipaṭṭhānā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. yesaṃ kesañci cattāro satipaṭṭhānā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī”ti.",
       "fr": "Un jour, le [ayasma|vénérable] Anourouddha séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, tandis qu'il était en isolement dans un endroit retiré, la pensée suivante apparut à son esprit: [i]“Quiconque néglige les quatre [satipatthana|mises en place de l'attention] néglige la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Quiconque entreprend les quatre [satipatthana|mises en place de l'attention] entreprend la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être].”[/i]"
@@ -54,6 +57,20 @@
       "fr": "Voici, ami, dans quelle mesure les quatre [satipatthana|mises en place de l'attention] ont été entreprises par un mendiant."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "ayasma",
+    "satipatthana",
+    "ariya",
+    "magga",
+    "dukkha",
+    "dhamma",
+    "samudaya",
+    "kaya",
+    "upekkha",
+    "sato",
+    "sampajana",
+    "vedana",
+    "citta"
+  ],
   "translator": "Rémy"
 }

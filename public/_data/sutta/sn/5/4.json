@@ -4,7 +4,10 @@
   "frTitle": "La mendiante Vijaya",
   "description": "Le Tueur (Mara) tente de séduire la mendiante Vijaya.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho vijayā bhikkhunī pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena andhavanaṃ tenupasaṅkami, divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. atha kho māro pāpimā vijayāya bhikkhuniyā bhayaṃ chambhitattaṃ lomahaṃsaṃ uppādetukāmo samādhimhā cāvetukāmo yena vijayā bhikkhunī tenupasaṅkami; upasaṅkamitvā vijayaṃ bhikkhuniṃ gāthāya ajjhabhāsi",
       "fr": "Ce matin-là, la [bhikkhuni|mendiante] Vijaya s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], elle se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, elle s'assit au pied d'un certain arbre pour y passer la journée. Alors [mara|Mara] le Malin, souhaitant susciter peur, panique et chair de poule chez la [bhikkhuni|mendiante] Vijaya, souhaitant la faire tomber de son [viveka|isolement], s'approcha d'elle et s'adressa à elle en vers:"
@@ -34,6 +37,6 @@
       "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“La [bhikkhuni|mendiante] Vijaya me connaît,”[/i] disparut sur-le-champ."
     }
   ],
-  "keywords": [],
+  "keywords": ["bhikkhuni", "patta", "civara", "pindapata", "mara", "viveka", "tanha", "kama", "rupa", "arupa"],
   "translator": "Sekha"
 }

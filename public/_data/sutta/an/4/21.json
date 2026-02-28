@@ -4,12 +4,18 @@
   "frTitle": "À Ourouvéla",
   "description": "Le Bouddha raconte comment, juste après son éveil, Brahma Sahampati l'a visité pour le convaincre d'enseigner aux hommes.",
   "body": [
-    { "pl": "evaṃ me sutaṃ:", "fr": "Ainsi ai-je entendu:" },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
     {
       "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi",
       "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
     },
-    { "pl": "“bhikkhavo”ti.", "fr": "«[bhikkhu|Mendiants]!" },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
     {
       "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
       "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
@@ -59,6 +65,34 @@
       "fr": "Ainsi parla [brahma|Brahma] Sahampati. Ayant dit cela, m'ayant rendu hommage en me maintenant à sa droite, il disparut sur-le-champ. Alors, [bhikkhu|mendiants], ayant entendu la requête de [brahma|Brahma] et ce qui était approprié à mon cas, j'ai vécu en dépendance vis-à-vis de ce [dhamma|Dhamma] auquel je me suis éveillé, en l'honorant et le révérant. Et maintenant que la [sangha|Communauté] a elle aussi atteint sa grandeur, [bhikkhu|mendiants], j'ai du respect envers elle."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "sambodhi",
+    "patisallana",
+    "dukkha",
+    "samana",
+    "brahmana",
+    "khandha",
+    "sila",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "dhamma",
+    "citta",
+    "sugata",
+    "bhante",
+    "arahant",
+    "sammasambuddha",
+    "buddha",
+    "soka",
+    "saddhamma",
+    "sangha"
+  ],
   "translator": "Rémy"
 }

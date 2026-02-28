@@ -4,7 +4,10 @@
   "frTitle": "Une bonne personne",
   "description": "Une définition de ce qu'est une bonne ou une mauvaise personne (a/sappurisa) par rapport à la noble voie.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi:" },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi:"
+    },
     {
       "pl": "“asappurisañca vo, bhikkhave, desessāmi, asappurisena asappurisatarañca. sappurisañca vo, bhikkhave, desessāmi sappurisena sappurisatarañca. taṃ suṇātha.",
       "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'estune [asappurisa|mauvaise personne] et une personne pire qu'une [asappurisa|mauvaise personne]. Je vais vous enseigner ce qu'est une [sappurisa|bonne personne] et une personne meilleure qu'une [sappurisa|bonne personne]. Écoutez cela."
@@ -26,6 +29,23 @@
       "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une personne meilleure qu'une [sappurisa|bonne personne]? À cet égard, un certain individu a une vue correcte, une [sammasankappa|aspiration correcte], des [sammavaca|paroles correctes], des [sammakammanta|actions correctes], des [sammaajiva|moyens de subsistance corrects], un [sammavayama|effort correct], une [sati|présence d'esprit correcte], une [samadhi|concentration correcte], une [nana|connaissance] correcte et une [vimutti|libération] correcte. Voici, [bhikkhu|mendiants], ce qu'on appelle une personne meilleure qu'une [sappurisa|bonne personne]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "asappurisa",
+    "sappurisa",
+    "micchaditthi",
+    "sankappa",
+    "vaca",
+    "vayama",
+    "sati",
+    "samadhi",
+    "nana",
+    "vimutti",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama"
+  ],
   "translator": "Rémy"
 }

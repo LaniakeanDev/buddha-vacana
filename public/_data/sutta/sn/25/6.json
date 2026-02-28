@@ -4,7 +4,10 @@
   "frTitle": "La perception des formes",
   "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les perceptions des six types d'objets des sens.",
   "body": [
-    { "pl": "Sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "Rūpasaññā, bhikkhave, aniccā vipariṇāmī aññathābhāvī; saddasaññā aniccā vipariṇāmī aññathābhāvī; gandhasaññā aniccā vipariṇāmī aññathābhāvī; rasasaññā aniccā vipariṇāmī aññathābhāvī; phoṭṭhabbasaññā aniccā vipariṇāmī aññathābhāvī; dhammasaññā aniccā vipariṇāmī aññathābhāvī.",
       "fr": "[bhikkhu|Mendiants], la [sanna|perception] des formes (visibles) est [anicca|impermanente], changeante, variable; la [sanna|perception] des sons est [anicca|impermanente], changeante, variable; la [sanna|perception] des odeurs est [anicca|impermanente], changeante, variable; la [sanna|perception] des saveurs est [anicca|impermanente], changeante, variable; la [sanna|perception] des sensations corporelles est [anicca|impermanente], changeante, variable; la [sanna|perception] des [dhamma|phénomènes mentaux] est [anicca|impermanente], changeante, variable."
@@ -22,6 +25,25 @@
       "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "sanna",
+    "anicca",
+    "dhamma",
+    "saddha",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Mortification de soi",
   "description": "Cet extrait décrit comment une personne décide de devenir mendiant(ni).",
   "body": [
-    { "pl": "...", "fr": "..." },
+    {
+      "pl": "...",
+      "fr": "..."
+    },
     {
       "pl": "idha, bhikkhave, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā. so imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.",
       "fr": "À cet égard, [bhikkhu|mendiants], un [tathagata|Tathagata] apparaît dans le [loka|monde], [@f_anussati#anussati-1-cl|un arahant, un Bouddha pleinement réalisé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.] Il fait connaître ce monde avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] et brahmanes, à cette génération de [deva|dévas] et d'êtres humains, en en ayant fait lui-même l'expérience par [abhinna|connaissance directe]. Il enseigne un [dhamma|Dhamma] qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la [brahmacariya|vie brahmique] qui est entièrement complète et pure."
@@ -18,6 +21,21 @@
       "fr": "Plus tard, ayant abandonné un petit patrimoine ou un grand patrimoine, ayant abandonné un petit cercle de relations ou un grand cercle de relations, s'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, il quitte la vie de foyer pour le [anagariya|sans-foyer]. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "tathagata",
+    "loka",
+    "@f_anussati#anussati-1-cl",
+    "deva",
+    "mara",
+    "brahma",
+    "samana",
+    "abhinna",
+    "dhamma",
+    "brahmacariya",
+    "saddha",
+    "pabbaja",
+    "anagariya"
+  ],
   "translator": "Rémy"
 }

@@ -4,7 +4,10 @@
   "frTitle": "Le Nouveau",
   "description": "Un groupe de [bhikkhu|mendiants] va se plaindre au Bouddha parce qu'un nouveau reste dans son coin et ne les aide pas. La réponse du Bouddha n'est probablement pas celle qu'ils attendaient.",
   "body": [
-    { "pl": "sāvatthiyaṃ viharati.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthiyaṃ viharati.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "tena kho pana samayena aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati; na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye. atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ",
       "fr": "Ce jour-là, un certain nouveau mendiant, de retour de sa [pindapata|quête de nourriture d'aumônes], après son repas, entrait dans son logement et y demeurait tranquille dans son coin, silencieux, si bien qu'il ne rendait pas service aux [bhikkhu|mendiants] au moment de fabriquer des [civara|robes]. Alors un certain nombre de [bhikkhu|mendiants] approchèrent le [bhagava|Fortuné]. S'étant approchés, ayant salué le [bhagava|Fortuné] respectueusement, ils s'assirent d'un côté. Une fois assis d'un côté, ces [bhikkhu|mendiants] dirent au [bhagava|Fortuné]:"
@@ -25,7 +28,10 @@
       "pl": "“evaṃ bhante”ti kho so bhikkhu bhagavato paṭissutvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ etadavoca:",
       "fr": "— Oui, [bhante|Bhanté], répondit le mendiant, et il approcha le mendiant en question. S'étant approché, il lui dit:"
     },
-    { "pl": "“satthā taṃ, āvuso, āmantetī”ti.", "fr": "— Mon ami, l'Enseignant t'appelle." },
+    {
+      "pl": "“satthā taṃ, āvuso, āmantetī”ti.",
+      "fr": "— Mon ami, l'Enseignant t'appelle."
+    },
     {
       "pl": "“evamāvuso”ti kho so bhikkhu tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho taṃ bhikkhuṃ bhagavā etadavoca:",
       "fr": "— Bien, mon ami, lui répondit le mendiant, et il vint voir le [bhagava|Fortuné]; s'étant approché, ayant salué le [bhagava|Fortuné] respectueusement, il s'assit d'un côté. Une fois assis d'un côté, le [bhagava|Fortuné] lui dit:"
@@ -47,6 +53,20 @@
       "fr": "— mendiants, ne vous offensez pas de ce mendiant. [bhikkhu|Mendiants], ce mendiant obtient à volonté, facilement et sans difficulté les quatre [jhana|jhānas], , états d'[citta|esprit] élevés qui fournissent un séjour [sukha|agréable] [ditthadhamma|dans le monde visible]; et, en le réalisant pour lui-même par [abhinna|connaissance directe], il entre et demeure [ditthevadhamme|ici et maintenant] dans l'objectif suprême de la [brahmacariya|vie brahmique], pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer]."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "pindapata",
+    "bhikkhu",
+    "civara",
+    "bhagava",
+    "bhante",
+    "jhana",
+    "citta",
+    "sukha",
+    "ditthadhamma",
+    "abhinna",
+    "ditthevadhamme",
+    "brahmacariya",
+    "anagariya"
+  ],
   "translator": "Rémy"
 }

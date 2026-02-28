@@ -4,7 +4,10 @@
   "frTitle": "Une arête",
   "description": "Il ne suffit pas de connaître la [magga|voie], encore faut-il la comprendre et l'appliquer correctement.",
   "body": [
-    { "pl": "sāvatthinidānaṃ. ", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "“seyyathāpi, bhikkhave, sālisūkaṃ vā yavasūkaṃ vā micchāpaṇihitaṃ hatthena vā pādena vā akkantaṃ: hatthaṃ vā pādaṃ vā bhindissati, lohitaṃ vā uppādessatīti, netaṃ ṭhānaṃ vijjati. taṃ kissa hetu? micchāpaṇihitattā, bhikkhave, sūkassa. evameva kho, bhikkhave, so vata bhikkhu micchāpaṇihitāya diṭṭhiyā micchāpaṇihitāya maggabhāvanāya avijjaṃ bhindissati, vijjaṃ uppādessati, nibbānaṃ sacchikarissatīti, netaṃ ṭhānaṃ vijjati. taṃ kissa hetu? micchāpaṇihitattā, bhikkhave, diṭṭhiyā.",
       "fr": "[bhikkhu|Mendiants], c'est tout comme lorsqu'une arête de riz ou une arête d'orge est mal dirigée et qu'elle est appliquée sur une main ou un pied: il est impossible qu'elle perce la main ou le pied et qu'elle en fasse sortir du sang. Pourquoi cela? Parce que, [bhikkhu|mendiants], l'arête est mal dirigée. De la même manière, [bhikkhu|mendiants], il est vraiment impossible qu'un mendiant, avec une [ditthi|vue] mal dirigée, avec un développement de la [magga|voie] mal dirigé, puisse percer l'[avijja|ignorance], faire sortir la [vijja|véritable connaissance] et atteindre l'[nibbana|Extinction]. Pourquoi cela? Parce que, [bhikkhu|mendiants], la [ditthi|vue] est mal dirigée."
@@ -50,6 +53,24 @@
       "fr": "Voici, [bhikkhu|mendiants], comment un mendiant, avec une [ditthi|vue] correctement dirigée, avec un développement de la [magga|voie] correctement dirigé, perce l'[avijja|ignorance], fait sortir la [vijja|véritable connaissance] et atteint l'[nibbana|Extinction]. "
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "bhikkhu",
+    "ditthi",
+    "magga",
+    "avijja",
+    "vijja",
+    "nibbana",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
   "translator": "Rémy"
 }

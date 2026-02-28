@@ -4,7 +4,10 @@
   "frTitle": "Dans un endroit retiré",
   "description": "Une deuxième réponse à la question de savoir dans quelle mesure les quatre mises en place de l'attention (satipaṭṭhānā) ont été entreprises par un mendiant.",
   "body": [
-    { "pl": "sāvatthinidānaṃ.", "fr": "À Savatthi." },
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
     {
       "pl": "atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: “yesaṃ kesañci cattāro satipaṭṭhānā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī; yesaṃ kesañci cattāro satipaṭṭhānā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī”ti.",
       "fr": "Ce jour-là, tandis qu'il était en isolement dans un endroit retiré, la pensée suivante apparut à son esprit: [i]“Quiconque néglige les quatre [satipatthana|mises en place de l'attention] néglige la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Quiconque entreprend les quatre [satipatthana|mises en place de l'attention] entreprend la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être].”[/i]"
@@ -38,6 +41,16 @@
       "fr": "Voici, ami, dans quelle mesure les quatre [satipatthana|mises en place de l'attention] ont été entreprises par un mendiant."
     }
   ],
-  "keywords": [],
+  "keywords": [
+    "satipatthana",
+    "ariya",
+    "magga",
+    "dukkha",
+    "ayasma",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
   "translator": "Rémy"
 }
