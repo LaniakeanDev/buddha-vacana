@@ -21,3 +21,9 @@ The -p flag tells TypeScript to treat tsconfig.scripts.json as a project file
 # urls replaced in json sutta data
 
 https://fr.wikipedia.org/wiki/Ja%C3%AFnisme > url_jainism
+
+[@v] = newline within verse
+[@nl] = newline outside verse
+[@m_attha|bienfait] = message
+[@f_anussati#anussati-1-cl|xxx] = formula
+[@misc#mn007|MN 7] = misc
