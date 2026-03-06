@@ -6,16 +6,9 @@
   "body": [
     {
       "pl": "Cattār·imāni, bhikkhave, sotāpatti·y·aṅgāni. Katamāni cattāri? Sappurisa·saṃsevo, saddhamma·s·savanaṃ, yoniso·manasikāro, dhamm·ānudhamma·p·paṭipatti. Imāni kho, bhikkhave, cattāri sotāpatti·y·aṅgānī ti.",
-      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [sotapattiyanga|facteurs de l'entrée dans le courant]. Quels sont ces quatre? L'[sappurisasamseva|association avec des hommes de bien], l'[saddhammassavana|écoute du Dhamma authentique], l'[yonisomanasikara|attention judicieuse] et la [dhammanudhammappatipatti|pratique de l'Enseignement au niveau des phénomènes]. Voici, [bhikkhu|mendiants], quels sont ces quatre [sotapattiyanga|facteurs de l'entrée dans le courant]."
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [sotapattiyanga|facteurs de l'entrée dans le courant]. Quels sont ces quatre? L'[sappurisasamseva|association avec des hommes de bien], l'[saddhammassavana|écoute du Dhamma authentique], l'[yonisomanasikara|attention judicieuse] et la [dadp|pratique de l'Enseignement au niveau des phénomènes]. Voici, [bhikkhu|mendiants], quels sont ces quatre [sotapattiyanga|facteurs de l'entrée dans le courant]."
     }
   ],
-  "keywords": [
-    "bhikkhu",
-    "sotapattiyanga",
-    "sappurisasamseva",
-    "saddhammassavana",
-    "yonisomanasikara",
-    "dhammanudhammappatipatti"
-  ],
+  "keywords": ["bhikkhu", "sotapattiyanga", "sappurisasamseva", "saddhammassavana", "yonisomanasikara", "dadp"],
   "translator": "Rémy"
 }

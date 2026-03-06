@@ -66,7 +66,7 @@
     },
     {
       "pl": "Yato kho, brāhmaṇa, bhikkhu bhojane mattaññū hoti, tamenaṃ tathāgato uttariṃ vineti:",
-      "fr": "Lorsque, brahmane, le [bhikkhu|mendiant] [bhojanemattannuta|connaît la [bonne] mesure avec la nourriture], le [tathagata|Tathagata] le discipline plus avant:"
+      "fr": "Lorsque, brahmane, le [bhikkhu|mendiant] [bmt|connaît la [bonne] mesure avec la nourriture], le [tathagata|Tathagata] le discipline plus avant:"
     },
     {
       "pl": "(Jāgariyaṃ Anuyoga)[@nl]‘Ehi tvaṃ, bhikkhu, jāgariyaṃ anuyutto viharāhi: divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā paṭhamaṃ yāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā, rattiyā pacchimaṃ yāmaṃ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehī’ ti.",
@@ -98,7 +98,7 @@
     },
     {
       "pl": "Ye kho te, brāhmaṇa, bhikkhū sekkhā apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti. Ye pana te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññā vimuttā tesaṃ ime dhammā diṭṭha-dhamma-sukha-vihārāya ceva saṃvattanti, satisampajaññāya cā’ ti.",
-      "fr": "Brahmane, je donne de telles instructions aux [bhikkhu|mendiants] [sekha|en entraînement], dont l'esprit n'est pas accompli et qui aspirent au suprême soulagement du joug. Et pour les [bhikkhu|mendiants] qui sont des [arahant|Méritants], qui ont complètement éliminé les [asava|impuretés mentales], qui sont accomplis, qui ont fait ce qui devait l'être, qui ont déposé le fardeau, qui ont atteint l'objectif, qui ont complètement épuisé les [samyojana|entraves spirituelles] de l'[bhava|existence], et qui sont délivrés par connaissance correcte, pour eux ces [dhamma|choses] mènent à un séjour [sukha|agréable] [ditthadhamma|dans le monde visible], ainsi qu'à la [sati|présence d'esprit] & [sampajanna|discernement attentif]."
+      "fr": "Brahmane, je donne de telles instructions aux [bhikkhu|mendiants] [sekha|en entraînement], dont l'esprit n'est pas accompli et qui aspirent au suprême soulagement du joug. Et pour les [bhikkhu|mendiants] qui sont des [arahant|Méritants], qui ont complètement éliminé les [asava|impuretés mentales], qui sont accomplis, qui ont fait ce qui devait l'être, qui ont déposé le fardeau, qui ont atteint l'objectif, qui ont complètement épuisé les [samyojana|entraves spirituelles] de l'[bhava|existence], et qui sont délivrés par connaissance correcte, pour eux ces [dhamma|choses] mènent à un séjour [sukha|agréable] [ditthevadhamme|dans le monde visible], ainsi qu'à la [sati|présence d'esprit] & [sampajanna|discernement attentif]."
     },
     {
       "pl": "Evaṃ vutte, gaṇakamoggallāno brāhmaṇo bhagavantaṃ etadavoca:",
@@ -188,7 +188,7 @@
     "i]“[@f_samvara#is-mind",
     "bmt",
     "@f_bhojan",
-    "bhojanemattannuta",
+    "bmt",
     "jagariyamanuyoga",
     "@f_jagariya",
     "sati",
@@ -211,7 +211,7 @@
     "samyojana",
     "bhava",
     "sukha",
-    "ditthadhamma",
+    "ditthevadhamme",
     "savaka",
     "nibbana",
     "magga",

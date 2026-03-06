@@ -14,7 +14,7 @@
     },
     {
       "pl": "“evametaṃ, āvuso, hoti indriyesu aguttadvārassa, bhojane amattaññuno, jāgariyaṃ ananuyuttassa. ‘so vatāvuso, bhikkhu indriyesu aguttadvāro bhojane amattaññū jāgariyaṃ ananuyutto yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ santānessatī’ti netaṃ ṭhānaṃ vijjati. ‘so vatāvuso, bhikkhu indriyesu guttadvāro, bhojane mattaññū, jāgariyaṃ anuyutto yāvajīvaṃ paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ santānessatī’ti ṭhānametaṃ vijjati.",
-      "fr": "—Il en va ainsi, mon ami, pour celui qui ne [indriyesuguttadvarata|protège pas l'entrée de ses facultés sensorielles], qui ne [bhojanemattannuta|connait pas la [bonne] mesure avec la nourriture] et qui n'est pas [jagariyamanuyoga|dédié à l'état de veille]. Il est impossible qu'un mendiant qui ne [indriyesuguttadvarata|protège pas l'entrée de ses facultés sensorielles], qui ne [bhojanemattannuta|connait pas la [bonne] mesure avec la nourriture] etqui n'est pas [jagariyamanuyoga|dédié à l'état de veille], qu'il maintienne la [brahmacariya|vie brahmique] complète et pure pendant toute sa vie, mais il est possible qu'un mendiant qui [indriyesuguttadvarata|protège l'entrée de ses facultés sensorielles], qui [bhojanemattannuta|connait la [bonne] mesure avec la nourriture] et qui est [jagariyamanuyoga|dédié à l'état de veille], maintienne la [brahmacariya|vie brahmique] complète et pure pendant toute sa vie."
+      "fr": "—Il en va ainsi, mon ami, pour celui qui ne [indriyesuguttadvarata|protège pas l'entrée de ses facultés sensorielles], qui ne [bmt|connait pas la [bonne] mesure avec la nourriture] et qui n'est pas [jagariyamanuyoga|dédié à l'état de veille]. Il est impossible qu'un mendiant qui ne [indriyesuguttadvarata|protège pas l'entrée de ses facultés sensorielles], qui ne [bmt|connait pas la [bonne] mesure avec la nourriture] etqui n'est pas [jagariyamanuyoga|dédié à l'état de veille], qu'il maintienne la [brahmacariya|vie brahmique] complète et pure pendant toute sa vie, mais il est possible qu'un mendiant qui [indriyesuguttadvarata|protège l'entrée de ses facultés sensorielles], qui [bmt|connait la [bonne] mesure avec la nourriture] et qui est [jagariyamanuyoga|dédié à l'état de veille], maintienne la [brahmacariya|vie brahmique] complète et pure pendant toute sa vie."
     },
     {
       "pl": "“kathañcāvuso, indriyesu guttadvāro hoti? idhāvuso, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati.",
@@ -54,7 +54,7 @@
     },
     {
       "pl": "tasmātihāvuso, evaṃ sikkhitabbaṃ — ‘indriyesu guttadvārā bhavissāma, bhojane mattaññuno, jāgariyaṃ anuyuttā’ti. evañhi vo, āvuso, sikkhitabban”ti.",
-      "fr": "C'est pourquoi, mon ami, il faut s'entraîner ainsi: [i]“Nous [indriyesuguttadvarata|protégerons l'entrée de nos facultés sensorielles], nous [bhojanemattannuta|connaitrons la [bonne] mesure avec la nourriture], nous nous [jagariyamanuyoga|dédierons à l'état de veille]”[/i]. Voici, mon ami, comment il faut s'entraîner.»"
+      "fr": "C'est pourquoi, mon ami, il faut s'entraîner ainsi: [i]“Nous [indriyesuguttadvarata|protégerons l'entrée de nos facultés sensorielles], nous [bmt|connaitrons la [bonne] mesure avec la nourriture], nous nous [jagariyamanuyoga|dédierons à l'état de veille]”[/i]. Voici, mon ami, comment il faut s'entraîner.»"
     }
   ],
   "keywords": [
@@ -62,7 +62,7 @@
     "bhikkhu",
     "sikkha",
     "indriyesuguttadvarata",
-    "bhojanemattannuta",
+    "bmt",
     "jagariyamanuyoga",
     "brahmacariya",
     "@f_samvara#is-eye",

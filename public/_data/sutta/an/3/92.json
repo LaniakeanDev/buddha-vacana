@@ -14,17 +14,26 @@
     },
     {
       "pl": "“evamevaṃ kho, bhikkhave, tīṇimāni bhikkhussa accāyikāni karaṇīyāni. katamāni tīṇi? adhisīlasikkhāsamādānaṃ, adhicittasikkhāsamādānaṃ, adhipaññāsikkhāsamādānaṃ. imāni kho, bhikkhave, tīṇi bhikkhussa accāyikāni karaṇīyāni.",
-      "fr": "De la même manière, il y a trois choses urgentes à faire pour un [bhikkhu|mendiant]. Quelles sont ces trois? Entreprendre l'[ass|entraînement à la vertu supérieure], entreprendre l'[acs|entraînement à l'esprit supérieur], et entreprendre l'[aps|entraînement au discernement supérieur]. Voici quelles sont ces trois choses urgentes à faire pour un [bhikkhu|mendiant]."
+      "fr": "De la même manière, il y a trois choses urgentes à faire pour un [bhikkhu|mendiant]. Quelles sont ces trois? Entreprendre l'[adhisilasikkha|entraînement à la vertu supérieure], entreprendre l'[adhicittasikkha|entraînement à l'esprit supérieur], et entreprendre l'[adhipannasikkha|entraînement au discernement supérieur]. Voici quelles sont ces trois choses urgentes à faire pour un [bhikkhu|mendiant]."
     },
     {
       "pl": "tassa kho taṃ, bhikkhave, bhikkhuno natthi sā iddhi vā anubhāvo vā: ‘ajjeva me anupādāya āsavehi cittaṃ vimuccatu sve vā uttarasve vā’ti. atha kho, bhikkhave, hoti so samayo yaṃ tassa bhikkhuno adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato anupādāya āsavehi cittaṃ vimuccati.",
-      "fr": "Un [bhikkhu|mendiant] n'a pas le pouvoir ou la puissance [pour décider:] [i]“Que mon [citta|esprit] soit délivré des [asava|impuretés mentales] par non-[upadana|attachement] aujourd'hui même, ou bien demain ou après-demain!”[/i] Mais il vient un moment où l'[citta|esprit] d'un [bhikkhu|mendiant] s'[ass|entraînant à la vertu supérieure], s'[acs|entraînant à l'esprit supérieur] et s'[aps|entraînant au discernement supérieur] est délivré des [asava|impuretés mentales] par non-[upadana|attachement]."
+      "fr": "Un [bhikkhu|mendiant] n'a pas le pouvoir ou la puissance [pour décider:] [i]“Que mon [citta|esprit] soit délivré des [asava|impuretés mentales] par non-[upadana|attachement] aujourd'hui même, ou bien demain ou après-demain!”[/i] Mais il vient un moment où l'[citta|esprit] d'un [bhikkhu|mendiant] s'[adhisilasikkha|entraînant à la vertu supérieure], s'[adhicittasikkha|entraînant à l'esprit supérieur] et s'[adhipannasikkha|entraînant au discernement supérieur] est délivré des [asava|impuretés mentales] par non-[upadana|attachement]."
     },
     {
       "pl": "“tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘tibbo no chando bhavissati adhisīlasikkhāsamādāne, tibbo no chando bhavissati adhicittasikkhāsamādāne, tibbo no chando bhavissati adhipaññāsikkhāsamādāne’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
-      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Mon [chanda|désir] d'entreprendre l'[ass|entraînement à la vertu supérieure] sera fervent, mon [chanda|désir] d'entreprendre l'[acs|entraînement à l'esprit supérieur] sera fervent, mon [chanda|désir] d'entreprendre l'[aps|entraînement au discernement supérieur] sera fervent.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Mon [chanda|désir] d'entreprendre l'[adhisilasikkha|entraînement à la vertu supérieure] sera fervent, mon [chanda|désir] d'entreprendre l'[adhicittasikkha|entraînement à l'esprit supérieur] sera fervent, mon [chanda|désir] d'entreprendre l'[adhipannasikkha|entraînement au discernement supérieur] sera fervent.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
     }
   ],
-  "keywords": ["bhikkhu", "ass", "acs", "aps", "citta", "asava", "upadana", "chanda"],
+  "keywords": [
+    "bhikkhu",
+    "adhisilasikkha",
+    "adhicittasikkha",
+    "adhipannasikkha",
+    "citta",
+    "asava",
+    "upadana",
+    "chanda"
+  ],
   "translator": "Rémy"
 }

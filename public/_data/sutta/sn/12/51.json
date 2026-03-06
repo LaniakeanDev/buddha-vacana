@@ -66,7 +66,7 @@
     },
     {
       "pl": "“so sukhaṃ ce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti. dukkhaṃ ce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti. adukkhamasukhaṃ ce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti. so sukhaṃ ce vedanaṃ vedayati, visaṃyutto naṃ vedayati. dukkhaṃ ce vedanaṃ vedayati, visaṃyutto naṃ vedayati. adukkhamasukhaṃ ce vedanaṃ vedayati, visaṃyutto naṃ vedayati.",
-      "fr": "S'il ressent un [sukhavedana|ressenti agréable], il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. S'il ressent un [vedana|ressenti] désagréable, il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. S'il ressent un [adasv|ressenti neutre], il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. Lorsqu'il ressent un [sukhavedana|ressenti agréable], il le ressent en en étant disjoint. Lorsqu'il ressent un [dukkhavedana|ressenti désagréable], il le ressent en en étant disjoint. Lorsqu'il ressent un [adasv|ressenti neutre], il le ressent en en étant disjoint."
+      "fr": "S'il ressent un [sukhavedana|ressenti agréable], il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. S'il ressent un [vedana|ressenti] désagréable, il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. S'il ressent un [adukkhamasukhavedana|ressenti neutre], il discerne: [i]“c'est [anicca|impermanent]”[/i], il discerne: [i]“on n'y adhère pas”[/i], il discerne: [i]“on n'en jouit pas”[/i]. Lorsqu'il ressent un [sukhavedana|ressenti agréable], il le ressent en en étant disjoint. Lorsqu'il ressent un [dukkhavedana|ressenti désagréable], il le ressent en en étant disjoint. Lorsqu'il ressent un [adukkhamasukhavedana|ressenti neutre], il le ressent en en étant disjoint."
     },
     {
       "pl": "“so kāyapariyantikaṃ vedanaṃ vedayamāno kāyapariyantikaṃ vedanaṃ vedayāmīti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno jīvitapariyantikaṃ vedanaṃ vedayāmīti pajānāti. kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissanti, sarīrāni avasissantīti pajānāti.",
@@ -195,7 +195,7 @@
     "brahmacariya",
     "sukhavedana",
     "anicca",
-    "adasv",
+    "adukkhamasukhavedana",
     "dukkhavedana",
     "kaya",
     "asava"

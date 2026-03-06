@@ -14,15 +14,15 @@
     },
     {
       "pl": "“sakkissasi pana tvaṃ, bhikkhu, tīsu sikkhāsu sikkhituṃ: adhisīlasikkhāya, adhicittasikkhāya adhipaññāsikkhāyā”ti?",
-      "fr": "—Mendiant, est-ce que tu pourrais pourtant t'entraîner avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]?"
+      "fr": "—Mendiant, est-ce que tu pourrais pourtant t'entraîner avec les trois [sikkha|entraînements]: l'[adhisilasikkha|entraînement à la vertu supérieure], l'[adhicittasikkha|entraînement à l'esprit supérieur] et l'[adhipannasikkha|entraînement au discernement supérieur]?"
     },
     {
       "pl": "“sakkomahaṃ, bhante, tīsu sikkhāsu sikkhituṃ: adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāyā”ti.",
-      "fr": "—[bhante|Bhanté], je peux m'entraîner avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]."
+      "fr": "—[bhante|Bhanté], je peux m'entraîner avec les trois [sikkha|entraînements]: l'[adhisilasikkha|entraînement à la vertu supérieure], l'[adhicittasikkha|entraînement à l'esprit supérieur] et l'[adhipannasikkha|entraînement au discernement supérieur]."
     },
     {
       "pl": "“tasmātiha tvaṃ, bhikkhu, tīsu sikkhāsu sikkhassu: adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya. yato kho tvaṃ, bhikkhu, adhisīlampi sikkhissasi, adhicittampi sikkhissasi, adhipaññampi sikkhissasi, tassa tuyhaṃ bhikkhu adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyissati, doso pahīyissati, moho pahīyissati. so tvaṃ rāgassa pahānā dosassa pahānā mohassa pahānā yaṃ akusalaṃ na taṃ karissasi, yaṃ pāpaṃ na taṃ sevissasī”ti.",
-      "fr": "—Dans ce cas, [bhikkhu|mendiant], entraîne-toi avec les trois [sikkha|entraînements]: l'[ass|entraînement à la vertu supérieure], l'[acs|entraînement à l'esprit supérieur] et l'[aps|entraînement au discernement supérieur]. Lorsque tu t'[ass|entraîneras à la vertu supérieure], que tu t'[acs|entraîneras à l'esprit supérieur], que tu t'[aps|entraîneras au discernement supérieur], en t'[ass|entraînant à la vertu supérieure], en t'[acs|entraînant à l'esprit supérieur], en t'[aps|entraînant au discernement supérieur], l'[raga|avidité] sera abandonnée, l'[dosa|aversion] sera abandonnée et a [moha|délusion] sera abandonnée. Ayant abandonné l'[raga|avidité], ayant abandonné l'[dosa|aversion], ayant abandonné a [moha|délusion], tu ne feras pas ce qui est [akusala|désavantageux] et tu n'auras pas recours à quoi que ce soit de [papaka|mauvais].»"
+      "fr": "—Dans ce cas, [bhikkhu|mendiant], entraîne-toi avec les trois [sikkha|entraînements]: l'[adhisilasikkha|entraînement à la vertu supérieure], l'[adhicittasikkha|entraînement à l'esprit supérieur] et l'[adhipannasikkha|entraînement au discernement supérieur]. Lorsque tu t'[adhisilasikkha|entraîneras à la vertu supérieure], que tu t'[adhicittasikkha|entraîneras à l'esprit supérieur], que tu t'[adhipannasikkha|entraîneras au discernement supérieur], en t'[adhisilasikkha|entraînant à la vertu supérieure], en t'[adhicittasikkha|entraînant à l'esprit supérieur], en t'[adhipannasikkha|entraînant au discernement supérieur], l'[raga|avidité] sera abandonnée, l'[dosa|aversion] sera abandonnée et a [moha|délusion] sera abandonnée. Ayant abandonné l'[raga|avidité], ayant abandonné l'[dosa|aversion], ayant abandonné a [moha|délusion], tu ne feras pas ce qui est [akusala|désavantageux] et tu n'auras pas recours à quoi que ce soit de [papaka|mauvais].»"
     },
     {
       "pl": "atha kho so bhikkhu aparena samayena adhisīlampi sikkhi, adhicittampi sikkhi, adhipaññampi sikkhi. tassa adhisīlampi sikkhato adhicittampi sikkhato adhipaññampi sikkhato rāgo pahīyi, doso pahīyi, moho pahīyi. so rāgassa pahānā dosassa pahānā mohassa pahānā yaṃ akusalaṃ taṃ nākāsi, yaṃ pāpaṃ taṃ na sevīti.",
@@ -35,9 +35,9 @@
     "bhante",
     "sikkhapada",
     "sikkha",
-    "ass",
-    "acs",
-    "aps",
+    "adhisilasikkha",
+    "adhicittasikkha",
+    "adhipannasikkha",
     "raga",
     "dosa",
     "moha",
