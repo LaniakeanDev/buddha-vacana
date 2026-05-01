@@ -27,3 +27,29 @@ https://fr.wikipedia.org/wiki/Ja%C3%AFnisme > url_jainism
 [@m_attha|bienfait] = message
 [@f_anussati#anussati-1-cl|xxx] = formula
 [@misc#mn007|MN 7] = misc
+[@$AN 6.63] = direct link to text (sutta / vinaya)
+[@&an1|xxx] = direct link to book
+[@&an1/306-319|AN 1.307] = direct link to sutta
+[@$chris_016|MN 16] = christian
+[@voc/kathina|article] = article
+
+gloss
+
+"list": ["1. [kabalikara|kabaḷīkāra]", "2. [phassa|phassa]", "3. [manosancetana|manosañcetanā]", "4. [vinnana|viññāṇa]"],
+
+"quote": {"source": "[@$pr1]", "text": [{"pl": "‘Yo pana bhikkhu bhikkhūnaṃ sikkhā·sājīva·samāpanno sikkhaṃ apaccakkhāya dubbalyaṃ an·āvi·katvā methunaṃ dhammaṃ paṭiseveyya antamaso tiracchāna·gatāyapi, pārājiko hoti asaṃvāso’ ti.", "fr": "Si un bhikkhu participant à l'entraînement et aux moyens de subsistance des bhikkhus, sans avoir renoncé à l'entraînement, sans avoir déclaré sa faiblesse, s'engage dans l'acte sexuel, même si c'est avec une femelle animale, il mérite l'expulsion, il est banni."}]},
+
+"quote": {"text": [{"pl": "
+", "fr": "
+"}, {"pl": "
+
+{"id": "nama", "title": "nāma", "translation": "1) nom"
+{"id": "namarupa", "title": "nāmarūpa", "breakdown": [[4nama|nāma]+[rupa|rūpa]],
+
+([^"]+)
+([^<]+)
+
+to seek and eliminate:
+
+</p><p class="dcl">
+<a message="">saṅgati</a>
