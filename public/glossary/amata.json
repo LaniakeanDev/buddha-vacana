@@ -1,0 +1,58 @@
+{
+  "id": "amata",
+  "title": "amata",
+  "translation": "Sans-mort, libération de l'état de mortalité, absence de naissance et donc de mort.",
+  "body": [
+    {
+      "p": [
+        "C'est une référence poétique à l'Extinction ([nibbana|Nibbāna]).",
+        "La différence avec l'immortalité est que cette dernière désigne un état d'existence permanent, tandis que le Bouddha décrit l'Extinction comme un résultat de la cessation de l'existence ([bhava|bhava]·[nirodha|nirodha]).",
+        "Un exemple d'utilisation du terme dans son contexte se trouve dans l'[@$chris_026|Ariyapariyesanā Sutta]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$chris_026|MN 26]",
+        "text": [
+          {
+            "pl": "attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati",
+            "fr": "étant lui-même par nature voué à la mort, ayant compris le désavantage d'être par nature voué à la mort, il part en quête de la libération de l'état de mortalité, du suprême soulagement du joug, de l'Extinction"
+          }
+        ]
+      }
+    },
+    { "p": ["Une définition du terme est donnée dans l'Āneñjasappāya Sutta :"] },
+    {
+      "quote": {
+        "source": "[@$@$mich_106|MN 106]",
+        "text": [
+          {
+            "pl": "etaṃ amataṃ yadidaṃ anupādā cittassa vimokkho",
+            "fr": "ceci est le Sans-mort, c'est-à-dire la libération de l'esprit par non-attachement"
+          }
+        ]
+      }
+    },
+    { "p": ["Une définition du terme est explicitement demandée dans le Magga Samyutta:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.7]",
+        "text": [
+          {
+            "pl": "“‘amataṃ, amatan’’ti, bhante, vuccati. katamaṃ nu kho, bhante, amataṃ, katamo amatagāmimaggo””ti?",
+            "fr": "Bhanté, on entend dire: “le Sans-mort, le Sans-mort”. Qu'est-ce donc, Bhanté, que le Sans-mort, et quelle est la voie menant au Sans-mort?"
+          },
+          {
+            "pl": "“yo kho, bhikkhu, rāgakkhayo dosakkhayo mohakkhayo — idaṃ vuccati amataṃ. ayameva ariyo aṭṭhaṅgiko maggo amatagāmimaggo, seyyathidaṃ — sammādiṭṭhi … pe … sammāsamādhī””ti.",
+            "fr": "Mendiant, l'élimination de l'avidité, l'élimination de l'aversion, et l'élimination de la délusion est ce qu'on appelle le Sans-mort. La voie menant au Sans-mort est cette noble voie à huit composantes, c'est-à-dire: la vue correcte … la concentration correcte."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [@$SN 47.37], l'abandon du désir (chandassa pahānā) permet la réalisation du Sans-mort (amataṃ sacchikataṃ hoti)."
+      ]
+    }
+  ]
+}

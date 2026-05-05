@@ -1,0 +1,42 @@
+{
+  "id": "akusalakammapatha",
+  "title": "akusalakammapatha",
+  "breakdown": "[[akusala|akusala]+[kamma|kamma]+[@m_patha|patha]]",
+  "translation": "chemins d'action désavantageux, pratiques désavantageuses.",
+  "body": [
+    {
+      "p": [
+        "Il y a dix [i]akusala·kamma·pathas[/i], de trois types: corporels, verbaux ou mentaux. Ils sont décrits en ces termes à [@$AN 10.176].",
+        "Les trois [i]akusala·kamma·pathas[/i], corporels, fréquemment désignés comme (une partie de) [kaya|kāya]·[duccarita|duccarita], correspondent aux actions dont il faut s'abstenir pour la pratique de [sammakammanta|sammā·kammanta]:"
+      ]
+    },
+    {
+      "list": ["1. [panatipata|pāṇātipāta]", "2. [adinnadana|adinnādāna]", "3. [kamesumicchacara|kāmesu·micchā·cāra]"]
+    },
+    {
+      "p": [
+        "Les quatre [i]akusala·kamma·pathas[/i] verbaux, fréquemment désignés comme (une partie de) [@m_vaci|vacī]·[duccarita|duccarita], correspondent aux actions dont il faut s'abstenir pour la pratique de [sammavaca|sammā·vācā]:"
+      ]
+    },
+    {
+      "list": [
+        "4. [musavada|musā·vāda]",
+        "5. [pisunavaca|pisuṇa·vācā]",
+        "6. [pharusavaca|pharusa·vāca]",
+        "7. [samphappalapa|samphappalāpa]"
+      ]
+    },
+    {
+      "p": [
+        "Les trois [i]akusala·kamma·pathas[/i] mentaux, fréquemment désignés comme (une partie de) [mana|mano]·[duccarita|duccarita], correspondent aux états mentaux dont il faut s'abstenir pour la pratique de [sammasankappa|sammā·saṅkappa] (puisque [nekkhamma|nekkhamma] consiste essentiellement à abandonner [abhijjha|abhijjha]):"
+      ]
+    },
+    { "list": ["8. [abhijjha|abhijjha]", "9. [byapada|byāpāda]", "10. [micchaditthi|micchā-diṭṭhi]"] },
+    {
+      "p": [
+        "La pratique des dix [i]akusala·kamma·pathas[/i] est généralement décrite comme menant à [niraya|niraya] (e.g. [@misc#an10221|AN 10.221]), [tiracchanayoni|tiracchānayoni] ou [pettivisaya|pettivisaya], mais il est rendu clair à [@misc#mn136|MN 136] que c'est seulement une direction générale et que bien qu'il soit certain que les résultats viennent, il n'y a néanmoins pas de déterminisme absolu sur le type de naissance future, sauf peut-être dans le cas des cinq actions qui sont décrites à [@misc#an05129|AN 5.129] comme des [i]āpāyikā nerayikā parikuppā atekicchā (agitations incurables qui mènent dans un état de malheur ou en enfer),[/i] a.k.a. [i]ānantariya kamma[/i]. À l'opposé, voir également le cas de Saraṇāni à [@$SN 55.24].",
+        "Il est dit de celui qui pratique les dix [i]akusala·kamma·pathas[/i] qu'il rampe (saṃsappati) et qu'il est tordu (jimha) en corps, en parole et en esprit, et qu'il peut s'attendre à une destination et une renaissance tordues (AN 10.216); qu'on ne devrait pas s'associer à lui (na bhajitabbo - AN 10.200), ni lui rendre hommage (na payirupāsitabbo - AN 10.201); qu'il est un [asappurisa|asappurisa] (AN 10.204)."
+      ]
+    }
+  ]
+}

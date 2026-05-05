@@ -55,8 +55,11 @@ to seek and eliminate:
 <a message="">saṅgati</a>
 
 {"id": "adinnadana", "title": "adinnādāna", "breakdown": "[[@m_a|a]+[@m_dinna|dinna]+[@m_adana|ādāna]]", "translation": "appropriation de ce qui n'a pas été donné.", "body": [{ "p": ["C'est l'un des trois [akusalakammapatha|akusala·kamma·patha]s corporels, et est définie par le Bouddha à [@$AN 10.176]. Pour les bhikkhus, cela constitue la seconde transgression [parajika|pārājika]:"]}, {"quote": {"source": "[@$pr2]", "text": [{"pl": "Yo pana bhikkhu", "fr": "Si un bhikkhu "}]}},
-{ "p": ["Voir des détails supplémentaires à [@$Pr 2.1] et [@$Pr 2.3].", "Les mauvaises conséquences d'[i]adinn·ādāna[/i] sont décrites à [@$AN 8.40]: son résultat le plus léger est la perte des biens."]}, {"list": [["1. [kabalikara|kabaḷīkāra]", "2. [phassa|phassa]", "3. [manosancetana|manosañcetanā]", "4. [vinnana|viññāṇa]"]}, { "p": ["Ils sont décrits comme suit: [i]«cattārome āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā, sambhavesīnaṃ vā anuggahāya' (Ces quatre sont des nutriments pour le soutien des êtres venus à l'existence et pour le support de ceux qui cherchent une nouvelle naissance).[/i]"]}]}
+{ "p": ["Voir des détails supplémentaires à [@$Pr 2.1] et [@$Pr 2.3].", "Les mauvaises conséquences d'[i]adinn·ādāna[/i] sont décrites à [@$AN 8.40]: son résultat le plus léger est la perte des biens."]}, {"list": ["1. [kabalikara|kabaḷīkāra]", "2. [phassa|phassa]", "3. [manosancetana|manosañcetanā]", "4. [vinnana|viññāṇa]"]}, { "p": ["Ils sont décrits comme suit: [i]«cattārome āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā, sambhavesīnaṃ vā anuggahāya' (Ces quatre sont des nutriments pour le soutien des êtres venus à l'existence et pour le support de ceux qui cherchent une nouvelle naissance).[/i]"]}]}
 
 ", "translation": "
 ", "body": [{ "p": ["
 "]}]}
+
+"]}, { "p": ["
+"}]}}, { "p": ["
