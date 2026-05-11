@@ -1,0 +1,27 @@
+{
+  "id": "anusaya",
+  "title": "anusaya",
+  "translation": "penchant latent, tendance latente, inclination latente, propension.",
+  "body": [
+    { "p": ["Les sept [i]anusayas[/i] sont listés à [@$AN 7.11]:"] },
+    {
+      "list": [
+        "1. [kamaraga|kāma·rāg][i]·ānusaya[/i]",
+        "2. [patigha|paṭigh][i]·ānusaya[/i]",
+        "3. [ditthi|diṭṭh][i]·ānusaya[/i]",
+        "4. [vicikiccha|vicikicch][i]·ānusaya[/i]",
+        "5. [maana|mān][i]·ānusaya[/i]",
+        "6. [bhavaraga|bhava·rāg][i]·ānusaya[/i]",
+        "7. [avijja|avijj][i]·ānusaya[/i]"
+      ]
+    },
+    {
+      "p": [
+        "D'après Rhys Davids: [i]«Dans les textes les plus anciens, le mot apparaît généralement dans un sens absolu, sans mention de la cause ou de la direction de l'inclination. Cette liste gouverne les connotations du mot, mais il serait incorrect de réinsérer cette connotation dans [tous] les passages anciens.»[/i]",
+        "♦ D'après [@misc#mn148|MN 148], [i][raga|rāg]·ānusaya[/i] et [i][patigha|paṭigh]·ānusaya[/i] sont activés par la réaction mentale (i.e. [aymk|ayoniso manasikāra]) à [sukhavedana|sukhā vedanā] et [dukkhavedana|dukkhā vedanā] respectivement, tandis que [i][avijja|avijj]·ānusaya[/i] est activé sur la base d'[adukkhamasukhavedana|adukkham·asukhā vedanā] avec un manque de compréhension adéquate, attitude qui est décrite à [@$SN 36.6] comme étant typique d'un [puthujjana|puthujjana] sans instruction [i](assutavā)[/i] . En revanche, ces [i]anusayas[/i] ne sont pas activés si l'on s'abstient de produire ces réactions mentales et que l'on développe une compréhension adéquate, attitude qui est décrite à [@$SN 36.6] comme étant typique d'un [ariyasavaka|ariyasāvaka] instruit [i](sutavā)[/i]. Voir également [@$SN 36.3].",
+        "D'après [@misc#mn018|MN 18], la cessation de tous ces [i]anusayas[/i] se produit lorsqu'on ne trouve rien en quoi se complaire, à accueillir ou à quoi demeurer attacher à la source à partir de laquelle les [sanna|saññā]s et catégories [engendrées par] [papanca|papañca] assaillent un individu [i](yato·nidānaṃ purisaṃ papañca·saññā·saṅkhā samudācaranti, ettha ce natthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ)[/i]. La possibilité de cette cessation explique pourquoi à [@misc#mn044anusaya|MN 44] tous les [vedana|vedanā]s ne sont pas sous-tendus par des [i]anusayas[/i].",
+        "D'après [@$AN 7.12], la [brahmacariya|brahmācariya] est vécue [i]([brahmacariya|brahmācariya] vussati)[/i] pour la destruction de chacun des [i]anusayas[/i], et la fin du mal-être est atteinte lorsqu'ils ont tous été abandonnés."
+      ]
+    }
+  ]
+}
