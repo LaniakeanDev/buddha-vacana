@@ -1,0 +1,67 @@
+{
+  "id": "appicchata",
+  "title": "appicchatā",
+  "breakdown": "[[@m_appa|appa]+[@m_iccha|iccha]+[@m_-ta|tā]]",
+  "body": [
+    {
+      "p": [
+        "1) litt: fait d'avoir peu de désirs; fait d'être facile à satisfaire, de désirer peu de choses.",
+        "2) modestie, fait d'être sans prétention.",
+        "Le mot est proche de [santutthita|santuṭṭhitā]. L'antonyme est [mahicchata|mahicchatā].",
+        "À MN 4, [i]appicchatā[/i] est opposée à [i][lss|lābha·sakkāra·siloka] nikāmayati (désirer acquisitions, honneurs et renommée):[/i]"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "na kho panāhaṃ lābhasakkārasilokaṃ nikāmayamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi; appicchohamasmi. ye hi vo ariyā appicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṃ aññataro’ti.",
+            "fr": "Mais je n'ai pas recours à des abris isolés en pleine forêt en désirant acquisitions, honneurs ou renommée; j'ai peu de désirs. J'ai recours à des abris isolés en pleine forêt en étant l'un parmi les êtres nobles qui ont peu de désirs."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À AN 8.23, il est fait référence à [i]appicchatā[/i] est expliqué comme le fait de ne pas désirer que les autres soient au courant de ses propres qualités avantageuses:"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "appiccho so, bhikkhu, kulaputto santeyeva attani kusaladhamme na icchati parehi ñāyamāne.",
+            "fr": "Ce fils de [bonne] famille, mendiant, a peu de désirs, puisqu'il ne désire pas que les autres connaissent ses propres qualités avantageuses."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[@$AN 8.30] définit le terme de manière similaire, en faisant explicitement référence à certaines de ces qualités.",
+        "À AN 1.63, [i]appicchatā[/i] est présentée comme une des qualités fondamentales devant être développées:"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "“nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṃ, bhikkhave, appicchatā.",
+            "fr": "Je ne vois aucune autre chose, mendiants, à cause de laquelle les états mentaux avantageux qui n'étaient pas apparus viennent à apparaître, ou les états mentaux désavantageux qui étaient apparus viennent à disparaître, autant qu'à cause du peu de désir."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@AN 1.119]",
+        "text": [
+          {
+            "pl": "“nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattati yathayidaṃ, bhikkhave, appicchatā.",
+            "fr": "Mendiants, je ne vois aucune autre chose qui mène au maintient, à la non-confusion et la non-disparition du Dhamma authentique, autant que d'avoir peu de désirs."
+          }
+        ]
+      }
+    }
+  ]
+}
