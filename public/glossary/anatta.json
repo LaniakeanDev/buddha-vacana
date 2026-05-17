@@ -2,11 +2,13 @@
   "id": "anatta",
   "title": "anatta",
   "breakdown": "[[@m_an|an]+[atta|atta]]",
+  "translation": [
+    "1) non-soi, sans-ego, sans-propriétaire, sans-spectateur, sans-auteur, sans essence intrinsèque, [i]«sans-âme» (i.e. dénué de l'existence d'une âme)[/i].",
+    "2) (adj:) sans-identité"
+  ],
   "body": [
     {
       "p": [
-        "1) non-soi, sans-ego, sans-propriétaire, sans-spectateur, sans-auteur, sans essence intrinsèque, [i]«sans-âme» (i.e. dénué de l'existence d'une âme)[/i].",
-        "2) (adj:) sans-identité",
         "C'est la troisième des [tilakkhana|tilakkhaṇa], un fait universel dont il est dit à [@misc#sn22042|SN 22.42] que sa compréhension est un moyen d'exercer [dadp|dhamm·ānudhamma·ppaṭipatti].",
         "La caractéristique d'[i]anattā[/i] s'applique à tous les phénomènes, comme il l'est déclaré dans une phrase célèbre que l'on retrouve dans une poignée de [@m_defanatta|suttas]: [i]«sabbe dhammā anattā' (tous les phénomènes sont [i]anattā[/i])[/i].",
         "Mais, comme il l'est expliqué à [@misc#sn23017|SN 23.17], la caractéristique d'[i]anattā[/i] est à comprendre surtout au niveau des cinq [upadanakkhandha|upādānakkhandha]s, bien qu'il soit également fréquent de trouver des traitements des six [ayatana|āyatana]s - et des [dhamma|dhamma]s qui leurs sont reliés - en termes d'[i]anattā[/i] dans SN 35 (e.g. [@misc#sn35006|SN 35.6]).",
