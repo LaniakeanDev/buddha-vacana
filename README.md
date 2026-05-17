@@ -61,8 +61,8 @@ to seek and eliminate:
 { "p": ["Ils sont décrits comme suit: [i]«cattārome āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā, sambhavesīnaṃ vā anuggahāya' (Ces quatre sont des nutriments pour le soutien des êtres venus à l'existence et pour le support de ceux qui cherchent une nouvelle naissance).[/i]"]}]}
 
 ", "breakdown": "
-", "translation": "
-", "body": [{ "p": ["
+", "translation": ["
+"], "body": [{ "p": ["
 "]}]}
 
 "]}, { "p": ["
