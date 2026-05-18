@@ -1,0 +1,480 @@
+{
+  "id": "atapi",
+  "title": "ātāpī",
+  "translation": ["(adj:) ardent, diligent, sérieux dans l'effort, zélé, actif."],
+  "body": [
+    { "p": ["Le terme apparaît le plus souvent dans les [@f_stp|formules de Satipaṭṭhāna]:"] },
+    {
+      "quote": {
+        "source": "[@$@$DN 22]",
+        "text": [
+          {
+            "pl": "bhikkhu kāye kāyānupassī viharati [b]ātāpī[/b] sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+            "fr": "un mendiant reste à observer le corps dans le corps, [b]ardent[/b], doué d'une compréhension attentive, présent d'esprit, ayant abandonné convoitise et affliction mentale vis-à-vis du monde."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Il est défini explicitement dans l'[@$sn16-002|Anottappī Sutta], par des formules qui rappellent celles qui décrivent [sammavayama|sammā·vāyāma]: "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 16.2]",
+        "text": [
+          {
+            "pl": "“kathañcāvuso, [b]ātāpī[/b] hoti? idhāvuso, bhikkhu ‘anuppannā me pāpakā akusalā dhammā uppajjamānā anatthāya saṃvatteyyun’ti [b]ātappaṃ karoti[/b], ‘uppannā me pāpakā akusalā dhammā appahīyamānā anatthāya saṃvatteyyun’ti ātappaṃ karoti, ‘anuppannā me kusalā dhammā anuppajjamānā anatthāya saṃvatteyyun’ti ātappaṃ karoti, ‘uppannā me kusalā dhammā nirujjhamānā anatthāya saṃvatteyyun’ti ātappaṃ karoti. evaṃ kho, āvuso, ātāpī hoti.",
+            "fr": "Et comment, ami, est-on [b]ardent[/b]? En cela, ami, un mendiant [b]s'exerce ardemment[/b] [en se disant:] [i]«Si les états mentaux mauvais et désavantageux qui ne sont pas apparus se mettent à apparaître, cela mènera à mon malheur.»[/i] Il s'exerce ardemment [en se disant:] [i]«Si les états mentaux mauvais et désavantageux qui sont apparus ne sont pas abandonnés, cela mènera à mon malheur.»[/i] Il s'exerce ardemment [en se disant:] [i]«Si les états mentaux avantageux qui ne sont pas apparus ne se mettent pas à apparaître, cela mènera à mon malheur.»[/i] Il s'exerce ardemment [en se disant:] [i]«Si les états mentaux avantageux qui sont apparus se mettent à disparaître, cela mènera à mon malheur.»[/i] Voici, ami, comment on est ardent. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Cette définition est étendue pour inclure la capacité à endurer des [dukkhavedana|dukkha·vedanā] extrêmes dans l'[@$an03-050|Ātappakaraṇīya Sutta]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.49]",
+        "text": [
+          {
+            "pl": "“yato kho, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya [b]ātappaṃ karoti[/b], anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya ātappaṃ karoti, uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsanāya ātappaṃ karoti, ayaṃ vuccati, bhikkhave, bhikkhu [b]ātāpī[/b] nipako sato sammā dukkhassa antakiriyāyā”ti.",
+            "fr": "Lorsqu'un mendiant [b]exerce son ardeur[/b] pour la non-apparition des états mentaux mauvais et désavantageux qui ne sont pas encore apparus, qu'il exerce son ardeur pour l'apparition des états mentaux avantageux qui ne sont pas encore apparus, qu'il exerce son ardeur pour endurer les ressentis corporels apparus qui sont douloureux, incisifs, aigus, perçants, désagréables, déplaisants, menaçant la vie, on dit que ce mendiant est [b]ardent[/b], alerte et présent d'esprit pour mettre correctement un terme au mal-être."
+          }
+        ]
+      }
+    },
+    { "p": ["Un autre exemple de ce que signifie être [i]ātāpī[/i] est donné dans le [@$an04-011|Cara Sutta]:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.11]",
+        "text": [
+          {
+            "pl": "“carato cepi... ṭhitassa cepi... nisinnassa cepi... sayānassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā, taṃ ce bhikkhu nādhivāseti, pajahati vinodeti byantīkaroti anabhāvaṃ gameti, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘[b]ātāpī[/b] ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+            "fr": "Mendiants, si lorsqu'il marche... lorsqu'il se tient debout... lorsqu'il se tient assis... lorsqu'il se tient couché en état de veille, une pensée de sensualité, une pensée de malveillance, ou une pensée de non-inoffensivité apparaît chez un mendiant et qu'il n'y consent pas, qu'il l'abandonne, qu'il la dissipe, qu'il l'élimine, qu'il la fait disparaître, on dit d'un mendiant se tenant couché dans cet état de veille qu'il est [b]ardent[/b], qu'il est scrupuleux, qu'il est constamment énergique et qu'il se voue à l'effort. "
+          }
+        ]
+      }
+    },
+    { "p": ["Et dans le [b]Sīla Sutta[/b]:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.12]",
+        "text": [
+          {
+            "pl": "“carato cepi... ṭhitassa cepi... nisinnassa cepi... sayānassa cepi, bhikkhave, bhikkhuno jāgarassa abhijjhābyāpādo vigato hoti, thinamiddhaṃ pahīnaṃ hoti, uddhaccakukuccaṃ pahīnaṃ hoti, vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘[b]ātāpī[/b] ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccatī”ti.",
+            "fr": "Mendiants, si lorsqu'il marche... lorsqu'il se tient debout... lorsqu'il se tient assis... lorsqu'il se tient couché en état de veille, la convoitise et la malveillance sont éliminées chez un mendiant, si la léthargie et la somnolence sont abandonnées, si l'agitation mentale et la préoccupation sont abandonnées, si le doute est abandonné, si son énergie est activée, sans défaillance, si sa présence d'esprit est mise en place, sans étourderie, si son corps est serein, sans excitation, si son esprit est concentré, unifié, alors on dit d'un mendiant se tenant couché dans cet état de veille qu'il est [b]ardent[/b], qu'il est scrupuleux, qu'il est constamment énergique et qu'il se voue à l'effort. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Une liste de termes liés à [i]ātappaṃ karoti[/i] pouvant aider à cerner le sens d'[i]ātāpī[/i] est donnée à SN 12.87: [i][sikkha|sikkhā] karoti (pratiquer l'entraînement), [yoga|yoga] karoti (se dédier), [chanda|chanda] karoti (exercer son désir), ussoḷhī karoti (faire un effort), appaṭivānī karoti (exercer sa persistance), [viriya|vīriyaṃ] karoti (exercer son énergie), sātaccaṃ karoti (exercer sa persévérance), [sati|sati] karoti (exercer sa présence d'esprit), [sampajanna|sampajaññaṃ] karoti (exercer sa compréhension attentive), [appamado|appamādo] karoti (être assidu).[/i]"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 12.87[/b]",
+        "text": [
+          {
+            "pl": "upādānaṃ, bhikkhave, ajānatā apassatā yathābhūtaṃ upādāne yathābhūtaṃ ñāṇāya sikkhā karaṇīyā... yogo karaṇīyo... chando karaṇīyo... ussoḷhī karaṇīyā... appaṭivānī karaṇīyā... [b]ātappaṃ karaṇīyaṃ[/b]... vīriyaṃ karaṇīyaṃ... sātaccaṃ karaṇīyaṃ... sati karaṇīyā... sampajaññaṃ karaṇīyaṃ.. appamādo karaṇīyo.",
+            "fr": "Mendiants, celui qui ne connaît pas, qui ne voit l'attachement tel qu'il est dans les faits devrait pratiquer l'entraînement... se dédier... exercer son désir... faire un effort... exercer sa persistance... [b]exercer son ardeur[/b]... exercer son énergie... exercer sa persévérance... exercer sa présence d'esprit... exercer la compréhension attentive... être assidu afin de connaître l'attachement tel qu'il est dans les faits. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "On trouve à DN 3 une autre liste qui rajoute [padhana|padhāna], [@m_anuyoga|anuyoga] et [@m_samma|sammā]·[manasikara|manasikāra] (probablement un synonyme de [ymk|yoniso manasikāra]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]DN 3[/b]",
+        "text": [
+          {
+            "pl": "ekacco samaṇo vā brāhmaṇo vā [b]ātappa[/b]manvāya padhānamanvāya anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusati",
+            "fr": "Un certain renonçant ou brahmane, par son [b]ardeur[/b], par son effort, par sa persévérance, par son assiduité, par ses considérations correctes, atteint une telle concentration de l'esprit"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Certains souttas aident à comprendre ce que signifie être [i]ātāpī[/i], dans le sens où ils expliquent ce qui peut arriver lorsque le pratiquant se trouve dans cet état:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 36.7]",
+        "text": [
+          {
+            "pl": "“tassa ce, bhikkhave, bhikkhuno evaṃ satassa sampajānassa appamattassa [b]ātāpino[/b] pahitattassa viharato uppajjati sukhā vedanā... dukkhā vedanā... adukkhamasukhā vedanā so evaṃ pajānāti: ‘uppannā kho myāyaṃ adukkhamasukhā vedanā. sā ca kho paṭicca, no appaṭicca. kiṃ paṭicca? imameva kāyaṃ paṭicca. ayaṃ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. aniccaṃ kho pana saṅkhataṃ paṭiccasamuppannaṃ kāyaṃ paṭicca uppannā adukkhamasukhā vedanā kuto niccā bhavissatī’ti! so kāye ca adukkhamasukhāya vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. tassa kāye ca adukkhamasukhāya ca vedanāya aniccānupassino viharato, vayānupassino viharato, virāgānupassino viharato, nirodhānupassino viharato, paṭinissaggānupassino viharato, yo kāye ca adukkhamasukhāya ca vedanāya avijjānusayo, so pahīyati.",
+            "fr": "Lorsque chez un mendiant demeurant ainsi présent d'esprit, doué de compréhension attentive, diligent, [b]ardent[/b] et voué à l'effort, apparaît un ressenti agréable... désagréable... neutre, il comprend ainsi: 'Ce ressenti neutre est apparu en moi, et il est apparu sur la base de quelque chose, pas sur la base de rien. Sur la base de quoi? Sur la base de ce corps. Et ce corps est inconstant, conditionné, et apparu de manière dépendante. Comment donc un ressenti neutre étant apparu sur la base de ce corps, qui est inconstant, conditionné, et apparu de manière dépendante, pourrait-il être constant? Il reste à observer l'inconstance dans le corps et le ressenti neutre, il reste à observer l'arrêt, il reste à observer la disparition, il reste à observer la cessation, il reste à observer le rejet. Lorsqu'il reste à observer l'inconstance dans le corps et le ressenti neutre, qu'il reste à observer l'arrêt, qu'il reste à observer la disparition, qu'il reste à observer la cessation, qu'il reste à observer le rejet, tout penchant latent à l'ignorance envers le corps et le ressenti neutre est abandonné. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Pour une compréhension plus approfondie de ce que l'expression a pu signifier à l'époque, il est intéressant de se pencher sur les mots de la même famille. On peut commencer par noter que le mot Sanskrit le plus proche est ātapya (आतप्य), qui signifie [i]«être sous le soleil»[/i].",
+        "1) Le premier niveau de connotation est illustré par le verbe [i]tapati[/i], qui signifie [i]«briller»[/i], comme à SN 1.26: [i]«divā tapati ādicco' (le soleil brille pendant le jour)[/i] ou à SN 21.11: [i]«sannaddho khattiyo tapati' (le [khattiya|khattiya] brille, vêtu de son armure)[/i].",
+        "2) Le deuxième niveau de connotation peut être dérivé du premier en notant que dans un climat tropical, rester au soleil se révèle généralement être une expérience chaude et déplaisante, ce qui pourrait être la raison pour laquelle [i]tapati[/i] finit par faire référence au [dukkha|dukkha]·[vipaka|vipāka] qui apparaît suite à un [akusalakammapatha|akusala kamma]. Ainsi, à AN 10.141, le [micchapatipada|micchā·paṭipadā] à dix composantes est appelé [i]«l'enseignement qui cause la tourmente' (tapanīyo dhammo)[/i]. Le [b]Tapanīya Sutta[/b] fournit davantage de détails au sujet de la nature de ces tourments:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 2.3[/b]",
+        "text": [
+          {
+            "pl": "“dveme, bhikkhave, dhammā [b]tapanīyā[/b]. katame dve? idha, bhikkhave, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti kāyasucaritaṃ; vacīduccaritaṃ kataṃ hoti; akataṃ hoti vacīsucaritaṃ; manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ. so ‘kāyaduccaritaṃ me katan’ti [b]tappati[/b], ‘akataṃ me kāyasucaritan’ti [b]tappati[/b]; ‘vacīduccaritaṃ me katan’ti [b]tappati[/b], ‘akataṃ me vacīsucaritan’ti [b]tappati[/b]; ‘manoduccaritaṃ me katan’ti [b]tappati[/b], ‘akataṃ me manosucaritan’ti [b]tappati[/b]. ime kho, bhikkhave, dve dhammā tapanīyā”ti.",
+            "fr": "Mendiants, ces deux choses [b]provoquent le tourment[/b]. Quelles sont ces deux? En cela, mendiants, un certain individu s'est engagé dans la méconduite corporelle et pas dans la bonne conduite corporelle; il s'est engagé dans la méconduite verbale et pas dans la bonne conduite verbale; il s'est engagé dans la méconduite mentale et pas dans la bonne conduite mentale. Il [b]est mortifié[/b], [en pensant]: [i]«Je me suis engagé dans la méconduite corporelle»[/i]; il [b]est mortifié[/b], [en pensant]: [i]«Je ne me suis pas engagé dans la bonne conduite corporelle»[/i]; il [b]est mortifié[/b], [en pensant]: [i]«Je me suis engagé dans la méconduite verbale»[/i]; il [b]est mortifié[/b], [en pensant]: [i]«Je ne me suis pas engagé dans la bonne conduite verbale»[/i]; il [b]est mortifié[/b], [en pensant]: [i]«Je me suis engagé dans la méconduite mentale»[/i]; il [b]est mortifié[/b], [en pensant]: [i]«Je ne me suis pas engagé dans la bonne conduite mentale.»[/i] Voici, mendiants, quelles sont ces deux choses qui provoquent le tourment."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "On trouve également divers exemples de mots liés à [i]tapati[/i], utilisés en référence à [dukkha|dukkha]·[vipaka|vipāka] ainsi qu'au remords dont celui qui a mal agi fait l'expérience:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 2.8[/b]",
+        "text": [
+          {
+            "pl": "akataṃ dukkaṭaṃ seyyo, pacchā [b]tapati[/b] dukkaṭaṃ.",
+            "fr": "Il vaut mieux ne pas réaliser une mauvaise action, car une mauvaise action, plus tard, [b]apporte le tourment[/b]."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 2.22[/b]",
+        "text": [
+          {
+            "pl": "na taṃ kammaṃ kataṃ sādhu, yaṃ katvā [b]anutappati[/b].",
+            "fr": "Une action qui, une fois réalisée, [b]apporte le tourment[/b] n'est pas bien réalisée."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]Dhp 17[/b]",
+        "text": [
+          {
+            "pl": "idha [b]tappati[/b] pecca [b]tappati[/b], pāpakārī ubhayattha [b]tappati[/b]. 'pāpaṃ me katan'ti [b]tappati[/b], bhiyyo [b]tappati[/b] duggatiṃ gato.",
+            "fr": "Celui qui fait le mal [b]est tourmenté[/b] ici et [b]est tourmenté[/b] dans l'au-delà,Il [b]est tourmenté[/b] dans les deux [mondes].Il [b]est tourmenté[/b], [en pensant]: [i]«J'ai fait le mal»[/i],Et il [b]est tourmenté[/b] encore plus lorsqu'il se rend dans une mauvaise destination [après la mort]."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "3) La troisième nuance de connotation peut également être dérivée de la première, puisque rester sous le soleil peut aussi être un symbole pour l'effort physique, par exemple pour gagner sa vie:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 5.33[/b]",
+        "text": [
+          {
+            "pl": "“yo naṃ bharati sabbadā, niccaṃ [b]ātāpi[/b] ussuko. sabbakāmaharaṃ posaṃ, bhattāraṃ nātimaññati.",
+            "fr": "Celui qui s'occupe toujours d'elle Constamment [b]ardent[/b] et zélé L'homme qui lui apporte ce qu'elle désire, Son mari elle ne méprise point."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans un autre exemple, une personne subjuguée par les trois [akusalamula|akusala·mūla]s ne fait aucun effort pour corriger les faussetés qu'il entend:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.69]",
+        "text": [
+          {
+            "pl": "abhūtena vuccamāno [b]ātappaṃ karoti[/b] tassa nibbeṭhanāya itipetaṃ atacchaṃ itipetaṃ abhūtanti.",
+            "fr": "lorsqu'on lui parle de ce qui n'est pas factuel, il [b]fait un effort[/b] pour le corriger et donner les raisons pour lesquelles c'est faux et non factuel"
+          }
+        ]
+      }
+    },
+    { "p": ["4) La quatrième connotation, plus forte, est celle de l'ascétisme ou des austérités."] },
+    {
+      "quote": {
+        "source": "[@$@$MN 12]",
+        "text": [
+          {
+            "pl": "iti evarūpaṃ anekavihitaṃ kāyassa [b]ātāpana-paritāpan[/b]-ānuyogamanuyutto viharāmi. idaṃsu me, sāriputta, [b]tapassitāya[/b] hoti.",
+            "fr": "Ainsi, je me consacrais de diverses manières à la pratique de [b]tourmenter et mortifier[/b] le corps. Tel était mon [b]ascétisme[/b]."
+          }
+        ]
+      }
+    },
+    { "p": ["Ces austérités sont décrites dans le Kandaraka Sutta:"] },
+    {
+      "quote": {
+        "source": "[@$@$MN 51]",
+        "text": [
+          {
+            "pl": "“katamo ca, bhikkhave, puggalo attan[b]tapo[/b] atta[b]paritāpan[/b]ānuyogamanuyutto? idha, bhikkhave, ekacco puggalo acelako hoti muttācāro hatthāpalekhano naehibhaddantiko natiṭṭhabhaddantiko; nābhihaṭaṃ na uddissakataṃ na nimantanaṃ sādiyati; so na kumbhimukhā paṭiggaṇhāti na kaḷopimukhā paṭiggaṇhāti na eḷakamantaraṃ na daṇḍamantaraṃ na musalamantaraṃ na dvinnaṃ bhuñjamānānaṃ na gabbhiniyā na pāyamānāya na purisantaragatāya na saṅkittīsu na yattha sā upaṭṭhito hoti na yattha makkhikā saṇḍasaṇḍacārinī; na macchaṃ na maṃsaṃ na suraṃ na merayaṃ na thusodakaṃ pivati.",
+            "fr": "Et quel est, mendiants, l'individu qui se [b]mortifie[/b] lui-même et se voue à la pratique de se [b]torturer[/b] lui-même? En cela, un certain individu pratique la nudité, rejetant les conventions, léchant ses mains après son repas, ne venant pas lorsqu'on le lui demande, ne s'arrêtant pas lorsqu'on le lui demande. Il n'accepte pas ce qu'on lui offre, ni ce qu'on lui adresse, ni une invitation. Il ne reçoit rien qui provienne du bord d'une jarre, il ne reçoit rien qui provienne du bord d'une casserole, rien qui soit passé par le seuil d'une maison, rien qui vienne avec un bâton, rien qui ait été passé au pilon, rien qui ait été donné par deux personnes mangeant ensemble, rien qui ait été donné par une femme enceinte, rien qui ait été donné par une femme qui alaite, rien qui ait été donné par une femme qui fréquente les hommes, rien qui provienne d'un endroit où il a été déclaré que de la nourriture serait distribuée, rien qui provienne d'un endroit où un chien attend, rien qui provienne d'un endroit où il y a des nuages de mouches. Il n'accepte ni poisson ni viande, il ne boit ni liqueur, ni boisson fermentée, ni bière."
+          },
+          {
+            "pl": "so ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko... sattāgāriko vā hoti sattālopiko; ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti... sattahipi dattīhi yāpeti; ekāhikampi āhāraṃ āhāreti, dvīhikampi āhāraṃ āhāreti... sattāhikampi āhāraṃ āhāreti iti evarūpaṃ aḍḍhamāsikaṃ pariyāyabhattabhojanānuyogamanuyutto viharati.",
+            "fr": "Il s'en tient à une maison et un morceau de nourriture, ou deux maisons et deux morceaux de nourriture... ou sept maisons et sept morceaux de nourriture. Il se nourrit d'une offrande [par jour], il se nourrit de deux offrandes [par jour]... il se nourrit de sept offrandes [par jour]. Il mange de la nourriture une fois par jour, il mange de la nourriture une fois tous les deux jours... il mange de la nourriture une fois tous les sept jours. Ainsi, il se consacre à la pratique de ne manger de repas qu'à certains intervalles s'étendant jusqu'à un demi-mois."
+          },
+          {
+            "pl": "so sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī. so sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṃsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti; kesamassulocakopi hoti, kesamassulocanānuyogamanuyutto, ubbhaṭṭhakopi hoti āsanapaṭikkhitto, ukkuṭikopi hoti ukkuṭikappadhānamanuyutto, kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṃ kappeti; sāyatatiyakampi udakorohanānuyogamanuyutto viharati iti evarūpaṃ anekavihitaṃ kāyassa [b]ātāpanaparitāpan[/b]ānuyogamanuyutto viharati. ayaṃ vuccati, bhikkhave, puggalo attantapo attaparitāpanānuyogamanuyutto.",
+            "fr": "Il ne mange que des légumes, ou bien il ne mange que du millet, ou il ne mange que du riz brut, ou il ne mange que du riz daddoula, ou il ne mange que des plantes d'eau, ou il ne mange que du son de riz, ou il ne mange que de la mousse de riz, ou il ne mange que de la farine de sésame, ou il ne mange que des herbes, ou bien il ne mange que de la bouse de vache. Il se nourrit de racines et de fruits de la forêt, il se nourrit de fruits tombés. Il porte des haillons en chanvre, il porte des haillons de chanvre mélangé, il porte un linceul, il porte des haillons abandonnés comme déchets, il porte des haillons en écorce de tirita, il porte une peau d'antilope, il porte un manteau en peau d'antilope, il porte des haillons en herbe koussa, il porte des haillons faits d'écorces, il porte des haillons faits en bandes d'écorces, il porte une couverture faite de cheveux, il porte une couverture faite en laine d'animaux sauvages, il porte des haillons faits d'ailes de hiboux. Il s'arrache les cheveux et la barbe, et se consacre à la pratique consistant à s'arracher les cheveux et la barbe, il se tient constamment debout, rejetant la position assise, il se tient accroupi et se consacre à la pratique consistant à l'effort de se tenir accroupi, il s'allonge sur des pics et fait d'un ensemble de pics son matelas, il se consacre à la pratique de se baigner dans l'eau une troisième fois le soir venu. Ainsi, il se consacre à la pratique de [b]mortifier et torturer[/b] le corps de diverses manières."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Étant donnée d'une part la proximité du terme [i]ātāpī[/i] avec le vocabulaire de l'austérité et des mortifications de soi, que le Bouddha rejette, et de l'autre le fait que le Bouddha recommande d'être [i]ātāpī[/i] (surtout dans les formules décrivant les [satipatthana|satipaṭṭhāna]s), afin de comprendre plus précisément ce qu'il entendait par [i]ātāpī[/i], il semble utile d'examiner plus en détail quelle était la position du Bouddha par rapport à la pratique des austérités.",
+        "En premier lieu, il faut garder à l'esprit que le Bouddha rejette clairement la mortification de soi, dès son premier discours, le [@$sn56-011|Dhamma·cakka·ppavattana Sutta]: "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 56.11]",
+        "text": [
+          {
+            "pl": "“dveme, bhikkhave, antā pabbajitena na sevitabbā. katame dve? yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ [b]attakilamathānuyogo[/b] dukkho anariyo anatthasaṃhito.",
+            "fr": "Mendiants, ces deux extrêmes ne devraient pas être poursuivis par ceux qui ont quitté le foyer. Quels sont ces deux? La poursuite du bien-être sensuel dans la sensualité, qui est inférieure, vulgaire, qui est caractéristique des gens ordinaires, ig·noble et préjudiciable, et la [b]poursuite de la mortification de soi[/b], qui est douloureuse, ig·noble et préjudiciable."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Mais dans le Vajjiyamāhita Sutta, le Bouddha dit qu'il ne rejette pas catégoriquement 'tout ascétisme' ni 'tout ascète menant une vie rude', puisque cela dépend de savoir si les pratiques en question éliminent ou non les états mentaux désavantageux et contribuent au développement des états mentaux avantageux:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.94]",
+        "text": [
+          {
+            "pl": "—“saccaṃ kira, gahapati, samaṇo gotamo [b]sabbaṃ tapaṃ[/b] garahati, [b]sabbaṃ tapassiṃ[/b] lūkhājīviṃ ekaṃsena upakkosati upavadatī”ti?",
+            "fr": "—Est-il vrai, maître de maison, que le renonçant Gotama réprouve [b]tout ascétisme[/b], qu'il désapprouve et critique catégoriquement [b]tout ascète[/b] menant une vie rude?"
+          },
+          {
+            "pl": "—“na kho, bhante, bhagavā [b]sabbaṃ tapaṃ[/b] garahati napi [b]sabbaṃ tapassiṃ[/b] lūkhājīviṃ ekaṃsena upakkosati upavadati.",
+            "fr": "—Bhanté, le Fortuné ne réprouve pas [b]tout ascétisme[/b], et ne désapprouve pas ni ne critique catégoriquement [b]tout ascète[/b] menant une vie rude."
+          },
+          { "pl": "...", "fr": "... [Le Fortuné:]" },
+          {
+            "pl": "nāhaṃ, gahapati, [b]sabbaṃ tapaṃ tapitabbanti[/b] vadāmi; na ca panāhaṃ, gahapati, [b]sabbaṃ tapaṃ na tapitabbanti[/b] vadāmi; nāhaṃ, gahapati, sabbaṃ samādānaṃ samāditabbanti vadāmi; na panāhaṃ, gahapati, sabbaṃ samādānaṃ na samāditabbanti vadāmi; nāhaṃ, gahapati, sabbaṃ padhānaṃ padahitabbanti vadāmi; na panāhaṃ, gahapati, sabbaṃ padhānaṃ na padahitabbanti vadāmi; nāhaṃ, gahapati, sabbo paṭinissaggo paṭinissajjitabboti vadāmi. na panāhaṃ, gahapati, sabbo paṭinissaggo na paṭinissajjitabboti vadāmi; nāhaṃ, gahapati, sabbā vimutti vimuccitabbāti vadāmi; na panāhaṃ, gahapati, sabbā vimutti na vimuccitabbāti vadāmi.",
+            "fr": "Je ne dis pas, maître de maison, que [b]toute forme d'ascétisme[/b] devrait être pratiquée, et je ne dis pas non plus qu'[b]aucune forme d'ascétisme[/b] ne devrait être pratiquée. Je ne dis pas que toute observance devrait être pratiquée, et je ne dis pas non plus qu'aucune observance ne devrait être pratiquée. Je ne dis pas que tout type d'effort devrait être effectué, et je ne dis pas non plus qu'aucun type d'effort ne devrait être effectué. Je ne dis pas que toute forme de renonciation devrait être effectuée, et je ne dis pas non plus qu'aucune forme de renonciation ne devrait être effectuée. Je ne dis pas que tout type de libération devrait être atteint, et je ne dis pas non plus qu'aucun type de libération ne devrait être atteint. "
+          },
+          {
+            "pl": "“yañhi, gahapati, [b]tapaṃ tapato[/b] akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, [b]evarūpaṃ tapaṃ na tapitabbanti[/b] vadāmi. yañca khvassa gahapati, [b]tapaṃ tapato[/b] akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, [b]evarūpaṃ tapaṃ tapitabbanti[/b] vadāmi.",
+            "fr": "Maître de maison, si [b]en pratiquant une certaine forme d'ascétisme[/b] les états mentaux désavantageux se développent et les états mentaux avantageux déclinent, alors je ne dis pas qu'[b]une telle forme d'ascétisme devrait être pratiquée[/b]. Mais si [b]en pratiquant une certaine forme d'ascétisme[/b] les états mentaux désavantageux déclinent et les états mentaux avantageux se développent, alors je dis qu'[b]une telle forme d'ascétisme devrait être pratiquée[/b]. "
+          },
+          {
+            "pl": "“yañhi, gahapati, samādānaṃ samādiyato... padhānaṃ padahato... paṭinissaggaṃ paṭinissajjato... vimuttiṃ vimuccato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpā vimutti na vimuccitabbāti vadāmi. yañca khvassa, gahapati, vimuttiṃ vimuccato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpā vimutti vimuccitabbāti vadāmī”ti.",
+            "fr": " Si en pratiquant une certaine observance... un certain type d'effort... une certaine forme de renonciation... un certain type de libération les états mentaux désavantageux se développent et les états mentaux avantageux déclinent, alors je ne dis pas qu'un tel type de libération devrait être atteint. Mais si en atteignant un certain type de libération les états mentaux désavantageux déclinent et les états mentaux avantageux se développent, alors je dis qu'un tel type de libération devrait être atteint. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Mais de nouveau, par contraste, dans le Rāsiya Sutta, sans toutefois rejeter 'tout ascétisme' ni 'tout ascète menant une vie rude', le Bouddha semble pourtant rejeter catégoriquement le fait de se mortifier et se torturer soi-même [i](attānaṃ ātāpeti paritāpeti)[/i], en le présentant comme une raison suffisante en elle-même pour mériter la désapprobation:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[b]SN 42.12[/b]",
+        "text": [
+          {
+            "pl": "ekamantaṃ nisinno kho rāsiyo gāmaṇi bhagavantaṃ etadavoca:",
+            "fr": "Une fois assis d'un côté, le chef de village Rasiya dit au Fortuné: "
+          },
+          {
+            "pl": "—“sutaṃ metaṃ, bhante, ‘samaṇo gotamo [b]sabbaṃ tapaṃ[/b] garahati, [b]sabbaṃ tapassiṃ[/b] lūkhajīviṃ ekaṃsena upavadati upakkosatī’ti . ye te, bhante, evamāhaṃsu... kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṃ abhūtena abbhācikkhanti, dhammassa cānudhammaṃ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchatī”ti?",
+            "fr": "—Bhanté, j'ai entendu dire: [i]«Le renonçant Gotama réprouve [b]tout ascétisme[/b], il désapprouve et critique catégoriquement [b]tout ascète[/b] menant une vie rude.»[/i] Ceux qui disent cela, Bhanté... est-ce qu'ils disent ce qui a été dit par le Fortuné ou bien le représentent-ils faussement avec ce qui est incorrect? Est-ce qu'ils expliquent le [dhamma|Dhamma] tel qu'il est, sans s'exposer à la critique de leurs pairs ni s'engager dans ce qui est matière à reproches?"
+          },
+          {
+            "pl": "—“ye te, gāmaṇi, evamāhaṃsu... na me te vuttavādino, abbhācikkhanti ca pana maṃ te asatā tucchā abhūtena”.",
+            "fr": "—Ceux qui déclarent cela, chef de village... ne disent pas ce que j'ai dit, et ils me représentent faussement avec ce qui est erroné, vide et incorrect."
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "“tatra, gāmaṇi, yvāyaṃ tapassī lūkhajīvī attānaṃ [b]ātāpeti paritāpeti[/b], kusalañca dhammaṃ adhigacchati, uttari ca manussadhammā alamariyañāṇadassanavisesaṃ sacchikaroti. ayaṃ, gāmaṇi, tapassī lūkhajīvī ekena ṭhānena gārayho, dvīhi ṭhānehi pāsaṃso. katamena ekena ṭhānena gārayho? attānaṃ [b]ātāpeti paritāpetīti[/b], iminā ekena ṭhānena gārayho. katamehi dvīhi ṭhānehi pāsaṃso? kusalañca dhammaṃ adhigacchatīti, iminā paṭhamena ṭhānena pāsaṃso. uttari ca manussadhammā alamariyañāṇadassanavisesaṃ sacchikarotīti, iminā dutiyena ṭhānena pāsaṃso.",
+            "fr": "En cela, chef de village, en ce qui concerne l'ascète menant une vie rude qui [b]se mortifie et se torture[/b] lui-même, et cependant parvient à un état avantageux, réalise un état surhumain, une distinction en connaissance & vision digne des êtres nobles, cet ascète est critiquable pour une raison et est louable pour deux raisons. Et quelle est la raison pour laquelle il est critiquable? La raison pour laquelle il est critiquable est qu'il [b]se mortifie et se torture[/b] lui-même. Et quelles sont les deux raisons pour lesquelles il est louable? La première raison pour laquelle il est louable est qu'il parvient à un état avantageux. La deuxième raison pour laquelle il est louable est qu'il réalise un état surhumain, une distinction en connaissance & vision digne des êtres nobles."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Cependant, cette même association de verbes, [i]«ātāpeti paritāpeti' (signifiant ici chauffer et brûler)[/i], est aussi utilisée (bien qu'avec une connotation différente) à MN 101 dans une allégorie illustrant un type de pratique désagréable mais toutefois recommandé:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]MN 101[/b]",
+        "text": [
+          {
+            "pl": "“kathañca, bhikkhave, saphalo upakkamo hoti, saphalaṃ padhānaṃ? idha, bhikkhave, bhikkhu na heva anaddhabhūtaṃ attānaṃ dukkhena addhabhāveti, dhammikañca sukhaṃ na pariccajati, tasmiñca sukhe anadhimucchito hoti. so evaṃ pajānāti: ‘imassa kho me dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti, imassa pana me dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hotī’ti. so yassa hi khvāssa dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti, saṅkhāraṃ tattha padahati. yassa panassa dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hoti, upekkhaṃ tattha bhāveti. tassa tassa dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti. evampissa taṃ dukkhaṃ nijjiṇṇaṃ hoti. tassa tassa dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hoti. evampissa taṃ dukkhaṃ nijjiṇṇaṃ hoti.",
+            "fr": "Et comment, mendiants, le travail porte-t-il ses fruits, comment l'effort porte-t-il ses fruits? En cela, mendiants, un mendiant, lorsqu'il n'est pas accablé, ne s'accable pas de mal-être, et ne rejette pas le bien-être qui est en accord avec le Dhamma, bien qu'il ne s'infatue pas de ce bien-être. Il comprend: [i]«Lorsque je m'efforce avec volonté, cette source de mal-être disparaît en moi à cause de cet effort volontaire. Et lorsque j'observe avec équanimité, cette source de mal-être disparaît en moi tandis que je développe l'équanimité.»[/i] Alors il s'efforce avec volonté par rapport à cette source de mal-être qui disparaît en lui à cause de cet effort volontaire, et il développe l'équanimité par rapport à cette source de mal-être qui disparaît en lui tandis qu'il développe l'équanimité. Lorsqu'il s'efforce avec volonté, telle ou telle source de mal-être disparaît en lui à cause de cet effort volontaire. Lorsqu'il observe avec équanimité, telle ou telle source de mal-être disparaît en lui tandis qu'il développe l'équanimité. Ainsi, ce mal-être est épuisé."
+          },
+          {
+            "pl": "“seyyathāpi, bhikkhave, puriso itthiyā sāratto paṭibaddhacitto tibbacchando tibbāpekkho. so taṃ itthiṃ passeyya aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ. taṃ kiṃ maññatha, bhikkhave, api nu tassa purisassa amuṃ itthiṃ disvā aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ uppajjeyyuṃ soka-parideva-dukkha-domanass-ūpāyāsā”ti?",
+            "fr": "Imaginez, mendiants, qu'un homme tombe amoureux d'une femme, que son esprit soit attaché à elle par un désir intense, par une passion intense. Il la verrait se tenant debout avec un autre homme, discutant, blaguant et riant. Qu'en pensez-vous, mendiants: tandis qu'il la verrait se tenant ainsi debout avec un autre homme, discutant, blaguant et riant, est-ce que le chagrin, les lamentations, les douleurs, les afflictions mentales et la détresse apparaîtraient?"
+          },
+          { "pl": "—“evaṃ, bhante”.", "fr": "—Oui, Bhanté." },
+          { "pl": "—“taṃ kissa hetu”?", "fr": "—Et quelle en est la raison?" },
+          {
+            "pl": "—“amu hi, bhante, puriso amussā itthiyā sāratto paṭibaddhacitto tibbacchando tibbāpekkho... soka-parideva-dukkha-domanass-ūpāyāsā”ti.",
+            "fr": "—C'est parce qu'il est tombé amoureux de cette femme, que son esprit est attaché à elle par un désir intense, par une passion intense... qu'apparaissent le chagrin, les lamentations, les douleurs, les afflictions mentales et la détresse."
+          },
+          {
+            "pl": "—“atha kho, bhikkhave, tassa purisassa evamassa: ‘ahaṃ kho amussā itthiyā sāratto paṭibaddhacitto tibbacchando tibbāpekkho. tassa me amuṃ itthiṃ disvā aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ uppajjanti sokaparidevadukkhadomanassūpāyāsā. yaṃnūnāhaṃ yo me amussā itthiyā chandarāgo taṃ pajaheyyan’ti. so yo amussā itthiyā chandarāgo taṃ pajaheyya. so taṃ itthiṃ passeyya aparena samayena aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ. taṃ kiṃ maññatha, bhikkhave, api nu tassa purisassa amuṃ itthiṃ disvā aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ uppajjeyyuṃ sokaparidevadukkhadomanassūpāyāsā”ti?",
+            "fr": "—Alors, mendiants, cet homme se dirait: [i]«Je suis tombé amoureux de cette femme, mon esprit étant attaché à elle par un désir intense, par une passion intense, et lorsque je la vois se tenant debout avec un autre homme, discutant, blaguant et riant, le chagrin, les lamentations, les douleurs, les afflictions mentales et la détresse apparaissent. Et si j'abandonnais mon désir avide envers cette femme?»[/i] Alors il abandonnerait son désir avide envers cette femme, et plus tard, il la verrait se tenant debout avec un autre homme, discutant, blaguant et riant. Qu'en pensez-vous, mendiants: tandis qu'il la verrait se tenant ainsi debout avec un autre homme, discutant, blaguant et riant, est-ce que le chagrin, les lamentations, les douleurs, les afflictions mentales et la détresse apparaîtraient?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          { "pl": "—“taṃ kissa hetu”?", "fr": "—Et quelle en est la raison?" },
+          {
+            "pl": "—“amu hi, bhante, puriso amussā itthiyā virāgo. tasmā taṃ itthiṃ disvā aññena purisena saddhiṃ santiṭṭhantiṃ sallapantiṃ sañjagghantiṃ saṃhasantiṃ na uppajjeyyuṃ sokaparidevadukkhadomanassūpāyāsā”ti.",
+            "fr": "—C'est parce qu'il s'est dépassionné vis-à-vis de cette femme, que tandis qu'il voit cette femme se tenant debout avec un autre homme, discutant, blaguant et riant, le chagrin, les lamentations, les douleurs, les afflictions mentales et la détresse n'apparaissent pas."
+          },
+          {
+            "pl": "—“evameva kho, bhikkhave, bhikkhu na heva anaddhabhūtaṃ attānaṃ dukkhena addhabhāveti, dhammikañca sukhaṃ na pariccajati, tasmiñca sukhe anadhimucchito hoti. so evaṃ pajānāti: ‘imassa kho me dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti, imassa pana me dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hotī’ti. so yassa hi khvāssa dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti, saṅkhāraṃ tattha padahati; yassa panassa dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hoti, upekkhaṃ tattha bhāveti. tassa tassa dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā virāgo hoti: evampissa taṃ dukkhaṃ nijjiṇṇaṃ hoti. tassa tassa dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo hoti: evampissa taṃ dukkhaṃ nijjiṇṇaṃ hoti. evampi, bhikkhave, saphalo upakkamo hoti, saphalaṃ padhānaṃ.",
+            "fr": "—De la même manière, mendiants, un mendiant, lorsqu'il n'est pas accablé, ne s'accable pas de mal-être, et ne rejette pas le bien-être qui est en accord avec le Dhamma, bien qu'il ne s'infatue pas de ce bien-être. Il comprend: [i]«Lorsque je m'efforce avec volonté, cette source de mal-être disparaît en moi à cause de cet effort volontaire. Et lorsque j'observe avec équanimité, cette source de mal-être disparaît en moi tandis que je développe l'équanimité.»[/i] Alors il s'efforce avec volonté par rapport à cette source de mal-être qui disparaît en lui à cause de cet effort volontaire, et il développe l'équanimité par rapport à cette source de mal-être qui disparaît en lui tandis qu'il développe l'équanimité. Lorsqu'il s'efforce avec volonté, telle ou telle source de mal-être disparaît en lui à cause de cet effort volontaire. Lorsqu'il observe avec équanimité, telle ou telle source de mal-être disparaît en lui tandis qu'il développe l'équanimité. Ainsi, ce mal-être est épuisé. Voici, mendiants, comment le travail porte ses fruits, comment l'effort porte ses fruits."
+          },
+          {
+            "pl": "“puna caparaṃ, bhikkhave, bhikkhu iti paṭisañcikkhati: ‘yathāsukhaṃ kho me viharato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; dukkhāya pana me attānaṃ padahato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. yaṃnūnāhaṃ dukkhāya attānaṃ padaheyyan’ti. so dukkhāya attānaṃ padahati. tassa dukkhāya attānaṃ padahato akusalā dhammā parihāyanti kusalā dhammā abhivaḍḍhanti. so na aparena samayena dukkhāya attānaṃ padahati. taṃ kissa hetu? yassa hi so, bhikkhave, bhikkhu atthāya dukkhāya attānaṃ padaheyya svāssa attho abhinipphanno hoti. tasmā na aparena samayena dukkhāya attānaṃ padahati.",
+            "fr": "De plus, mendiants, un mendiant considère ceci: [i]«Lorsque je vis comme cela me plaît, les états mentaux désavantageux se développent et les états mentaux avantageux déclinent. Lorsque je m'efforce dans ce qui est désagréable, les états mentaux désavantageux déclinent et les états mentaux avantageux se développent. Et si je m'efforçais dans ce qui est désagréable?»[/i] Alors il s'efforce dans ce qui est désagréable. Et tandis qu'il s'efforce dans ce qui est désagréable, les états mentaux désavantageux déclinent et les états mentaux avantageux se développent. Plus tard, il ne s'efforce plus dans ce qui est désagréable. Et quelle en est la raison? Parce qu'il a atteint l'objectif en dessein duquel il s'efforçait dans ce qui est désagréable. C'est pourquoi plus tard, il ne s'efforce plus dans ce qui est désagréable."
+          },
+          {
+            "pl": "seyyathāpi, bhikkhave, usukāro tejanaṃ dvīsu alātesu [b]ātāpeti paritāpeti[/b] ujuṃ karoti kammaniyaṃ. yato kho, bhikkhave, usukārassa tejanaṃ dvīsu alātesu [b]ātāpitaṃ hoti paritāpitaṃ[/b] ujuṃ kataṃ kammaniyaṃ, na so taṃ aparena samayena usukāro tejanaṃ dvīsu alātesu [b]ātāpeti paritāpeti[/b] ujuṃ karoti kammaniyaṃ. taṃ kissa hetu? yassa hi so, bhikkhave, atthāya usukāro tejanaṃ dvīsu alātesu [b]ātāpeyya paritāpeyya[/b] ujuṃ kareyya kammaniyaṃ svāssa attho abhinipphanno hoti. tasmā na aparena samayena usukāro tejanaṃ dvīsu alātesu [b]ātāpeti paritāpeti[/b] ujuṃ karoti kammaniyaṃ.",
+            "fr": "Imaginez, mendiants, qu'un fabricant de flèches [b]chauffe et brûle[/b] un corps de flèche entre deux flammes pour le rendre droit et pliable. Lorsque le corps de flèche [b]aurait été chauffé et brûlé[/b] par le fabricant de flèches entre deux flammes pour le rendre droit et pliable, plus tard le fabricant de flèches [b]ne chaufferait et ne brûlerait plus[/b] le corps de flèche entre deux flammes pour le rendre droit et pliable. Et quelle en est la raison? Parce qu'il a atteint l'objectif en dessein duquel il [b]chauffait et brûlait[/b] le corps de flèche. C'est pourquoi plus tard, il [b]ne chauffe et ne brûle plus[/b] le corps de flèche entre deux flammes pour le rendre droit et pliable."
+          },
+          {
+            "pl": "evameva kho, bhikkhave, bhikkhu iti paṭisañcikkhati: ‘yathāsukhaṃ kho me viharato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; [b]dukkhāya pana me attānaṃ padahato[/b] akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. yaṃnūnāhaṃ [b]dukkhāya attānaṃ padaheyyan[/b]’ti. so [b]dukkhāya attānaṃ padahati[/b]. tassa [b]dukkhāya attānaṃ padahato[/b] akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. so na aparena samayena [b]dukkhāya attānaṃ padahati[/b]. taṃ kissa hetu? yassa hi so, bhikkhave, bhikkhu atthāya [b]dukkhāya attānaṃ padaheyya[/b] svāssa attho abhinipphanno hoti. tasmā na aparena samayena [b]dukkhāya attānaṃ padahati[/b]. evampi, bhikkhave, saphalo upakkamo hoti, saphalaṃ padhānaṃ.",
+            "fr": "De la même manière, mendiants, un mendiant considère ceci: [i]«Lorsque je vis comme cela me plaît, les états mentaux désavantageux se développent et les états mentaux avantageux déclinent. Lorsque je [b]m'efforce dans ce qui est désagréable[/b], les états mentaux désavantageux déclinent et les états mentaux avantageux se développent. Et si je [b]m'efforçais dans ce qui est désagréable[/b]? »[/i] Alors il [b]s'efforce dans ce qui est désagréable[/b]. Et tandis qu'il [b]s'efforce dans ce qui est désagréable[/b], les états mentaux désavantageux déclinent et les états mentaux avantageux se développent. Plus tard, il ne [b]s'efforce plus dans ce qui est désagréable[/b]. Et quelle en est la raison? Parce qu'il a atteint l'objectif en dessein duquel il [b]s'efforçait dans ce qui est désagréable[/b]. C'est pourquoi plus tard, il ne [b]s'efforce plus dans ce qui est désagréable[/b]. Voici, mendiants, comment le travail porte ses fruits, comment l'effort porte ses fruits."
+          }
+        ]
+      }
+    },
+    { "p": ["Des exemples de pratiques intrinsèquement désagréables sont également mentionnés ailleurs:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.163]",
+        "text": [
+          {
+            "pl": "“katamā ca, bhikkhave, [b]dukkhā paṭipadā[/b] dandhābhiññā? idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratisaññī, sabbasaṅkhāresu aniccānupassī; maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti.",
+            "fr": "Et qu'est-ce, mendiants, que [b]la manière de pratiquer désagréable[/b] avec une connaissance directe lente? En cela, mendiants, un mendiant reste à observer le répugnant dans le corps, à percevoir le dégoûtant dans la nourriture, à percevoir la non-complaisance envers le monde entier, à observer l'impermanence dans tous les phénomènes conditionnés, et il a la perception de la mort bien établie en lui."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'une des raisons pour lesquelles certaines pratiques peuvent devenir désagréables est également mentionnée dans le [b]Vitthāra Sutta[/b]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.162]",
+        "text": [
+          {
+            "pl": "“katamā ca, bhikkhave, [b]dukkhā paṭipadā[/b] ... ? idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+            "fr": "Et qu'est-ce, mendiants, [b]que la manière de pratiquer désagréable[/b] ... ? En cela, mendiants, un certain individu est par tempérament fortement incliné à l'avidité et ressent souvent mal-être et affliction mentale engendrés par l'avidité. Il est par tempérament fortement incliné à l'aversion et ressent souvent mal-être et affliction mentale engendrés par l'aversion. Il est par tempérament fortement incliné à la délusion et ressent souvent mal-être et affliction mentale engendrés par la délusion."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le Bouddha va jusqu'à accepter pour lui-même l'appellation [i]«quelqu'un qui se torture' (tapassī)[/i], en précisant que ce qu'il a torturé étaient en réalité les [akusala|akusala] [dhamma|dhamma]s:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 8.12[/b]",
+        "text": [
+          {
+            "pl": "“katamo ca, sīha, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya: ‘[b]tapassī[/b] samaṇo gotamo, [b]tapassitāya[/b] dhammaṃ deseti, tena ca sāvake vinetī’ti? [b]tapanīyāhaṃ[/b], sīha, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, sīha, [b]tapanīyā[/b] pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ [b]‘tapassī’ti[/b] vadāmi. tathāgatassa kho, sīha, [b]tapanīyā[/b] pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, sīha, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya: ‘[b]tapassī[/b] samaṇo gotamo, [b]tapassitāya[/b] dhammaṃ deseti, tena ca sāvake vinetī’”ti.",
+            "fr": "Et quelle est, Siha, la manière de présenter les choses par laquelle une personne parlant correctement dirait: [i]«Le renonçant Gotama est un [b]mortificateur[/b], il professe un enseignement visant à la [b]mortification[/b] et y entraîne ses disciples»[/i]? Siha, dis en effet que les états mauvais et désavantageux, [ainsi que] la méconduite corporelle, la méconduite verbale, et la méconduite mentale sont [b]à mortifier[/b]. Siha, je dis de celui qui a abandonné les états mauvais et désavantageux à mortifier, qui les a coupés à la racine, qui les a rendus tels des souches de palmier, qui les a anéantis, qui les a rendus incapables de réapparaître dans le futur, qu'il est un [b]mortificateur[/b]. Siha, le Tathagata a abandonné les états mauvais et désavantageux à mortifier, il les a coupés à la racine, il les a rendus tels des souches de palmier, il les a anéantis, et il les a rendus incapables de réapparaître dans le futur. Voici, Siha, quelle est la manière de présenter les choses par laquelle une personne parlant correctement dirait: [i]«Le renonçant Gotama est un [b]mortificateur, il professe un enseignement visant à la [b]mortification[/b] et y entraîne ses disciples»[/i]."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "On pourrait donc tenter de conclure ici que ce que le Bouddha rejetait, c'étaient les pratiques désagréables qui n'aident pas à éliminer les états désavantageux et à développer ceux qui sont avantageux (AN 10.94), ou bien même si elles ont cet effet, il rejetait la réalisation de pratiques désagréables pour elles-mêmes, comme un style de 'vie rude' (lūkhajīvita, SN 42.12). Mais même l'ascétisme correct doit être entrepris d'une manière équilibrée, afin d'éviter de finir par développer des états désavantageux:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.55]",
+        "text": [
+          {
+            "pl": "—“nanu te, soṇa, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘ye kho keci bhagavato sāvakā āraddhavīriyā viharanti, ahaṃ tesaṃ aññataro. atha ca pana me na anupādāya āsavehi cittaṃ vimuccati, saṃvijjanti kho pana me kule bhogā, sakkā bhogā ca bhuñjituṃ puññāni ca kātuṃ. yaṃnūnāhaṃ sikkhaṃ paccakkhāya hīnāyāvattitvā bhoge ca bhuñjeyyaṃ puññāni ca kareyyan’”ti?",
+            "fr": "—Sona, pendant que tu étais en isolement dans un endroit retiré, la pensée suivante n'est-elle pas apparue dans ton esprit: 'Bien que je fasse partie de disciples du Fortuné qui demeurent avec une énergie activée, mon esprit n'est pas délivré des impuretés mentales par non-attachement. Cependant, ma famille a beaucoup de richesses, et il est possible de jouir des richesses tout en faisant du mérite. Pourquoi ne pas abandonner l'entraînement et retourner à la vie inférieure, afin de jouir des richesses et faire du mérite?'?"
+          },
+          { "pl": "—“evaṃ, bhante”.", "fr": "—En effet, Bhanté." },
+          {
+            "pl": "—“taṃ kiṃ maññasi, soṇa, kusalo tvaṃ pubbe agāriyabhūto vīṇāya tantissare”ti?",
+            "fr": "—Qu'en penses-tu, Sona, auparavant, lorsque tu vivais au foyer, est-ce que tu étais bien versé dans le son [produit par] les cordes du vīṇa?"
+          },
+          { "pl": "—“evaṃ, bhante”.", "fr": "—Oui, Bhanté." },
+          {
+            "pl": "—“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo accāyatā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+            "fr": "—Qu'en penses-tu, Sona, lorsque les cordes du vīṇa sont trop tendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          {
+            "pl": "—“taṃ kiṃ maññasi, soṇa, yadā te vīṇāya tantiyo atisithilā honti, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+            "fr": "—Qu'en penses-tu, Soṇa, lorsque les cordes du vīṇa sont trop détendues, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          {
+            "pl": "—“yadā pana te, soṇa, vīṇāya tantiyo na accāyatā honti nātisithilā same guṇe patiṭṭhitā, api nu te vīṇā tasmiṃ samaye saravatī vā hoti kammaññā vā”ti?",
+            "fr": "—Et lorsque les cordes du vīṇa ne sont ni trop tendues ni trop détendues, qu'elles sont ajustées à une tonalité équilibrée, est-ce qu'à ce moment-là le vīṇa est bien accordé et prêt à être joué?"
+          },
+          { "pl": "—“evaṃ, bhante”.", "fr": "—Oui, Bhanté." },
+          {
+            "pl": "—“evamevaṃ kho, soṇa, accāraddhavīriyaṃ uddhaccāya saṃvattati, atisithilavīriyaṃ kosajjāya saṃvattati. tasmātiha tvaṃ, soṇa, vīriyasamathaṃ adhiṭṭhahaṃ, indriyānañca samataṃ paṭivijjha, tattha ca nimittaṃ gaṇhāhī”ti.",
+            "fr": "—De la même manière, Soṇa, une énergie trop active mène à l'agitation, et une énergie trop détendue mène à la torpeur. C'est pourquoi tu devrais déterminer une énergie équilibrée en prenant en compte l'équilibre des facultés, et c'est là que tu devrais saisir ton objet. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Il peut aussi être important de noter qu'être [i]ātāpī[/i] ne réfère pas nécessairement à des pratiques désagréables, puisque cela peut constituer une base pour l'entrée dans les [jhana|jhāna]s:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 48.40[/b]",
+        "text": [
+          {
+            "pl": "idha, bhikkhave, bhikkhuno appamattassa [b]ātāpino[/b] pahitattassa viharato uppajjati dukkhindriyaṃ. so evaṃ pajānāti: ‘uppannaṃ kho me idaṃ dukkhindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ dukkhindriyaṃ uppajjissatīti: netaṃ ṭhānaṃ vijjati’. so dukkhindriyañca pajānāti, dukkhindriyasamudayañca pajānāti, dukkhindriyanirodhañca pajānāti, yattha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. kattha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati? idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati: ettha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati. ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi dukkhindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharati’”.",
+            "fr": "En cela, mendiants, chez un mendiant demeurant assidu, [b]ardent[/b] et voué à l'effort apparaît la faculté de douleur. Il discerne ainsi: [i]«Cette faculté de douleur est apparue en moi avec un objet, avec une cause, avec une Construction, avec une condition. Il est impossible que la faculté de douleur apparaisse sans objet, sans cause, sans Construction, sans condition.»[/i] Il discerne la faculté de douleur, il discerne l'apparition de la faculté de douleur, il discerne la cessation de la faculté de douleur, et il discerne aussi où la faculté de douleur ayant fait surface cesse complètement. Et où est-ce que la faculté de douleur ayant fait surface cesse complètement? En cela, mendiants, un mendiant, séparé des plaisirs de la sensualité, séparé des états mentaux désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées et réflexions, avec exaltation et bien-être engendrés par la séparation, et c'est ici que la faculté de douleur ayant fait surface cesse complètement. C'est ce qu'on appelle, mendiants, un mendiant ayant connu la cessation de la faculté de douleur; il concentre son esprit à cette fin."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La même chose est ensuite répétée au sujet de [domanassa|domanass]·[indriya|indriya], [sukha|sukh]·[indriya|indriya], [somanassa|somanass]·[indriya|indriya], et [upekkha|upekkh]·[indriya|indriya], respectivement à propos des deuxième, troisième, quatrième [jhana|jhāna]s et [sannavedayitanirodha|saññā·vedayita·nirodha]. À MN 19, la même expression, [i]appamattassa ātāpino pahitattassa viharato (demeurant assidu, ardent et voué à l'effort)[/i], est utilisée de manière similaire pour décrire l'état dans lequel le Bouddha se trouvait lorsqu'il a atteint les trois [vijja|vijjā]s, juste avant son Éveil."
+      ]
+    }
+  ]
+}
