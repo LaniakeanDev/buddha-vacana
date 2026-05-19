@@ -1,0 +1,49 @@
+{
+  "id": "avuso",
+  "title": "āvuso",
+  "translation": ["“ami”, “mon ami”, “mes amis”."],
+  "body": [
+    {
+      "p": [
+        "Il s'agit d'un terme d'adresse relativement informel faisant fi de toute séparation hiérarchique entre les interlocuteurs.",
+        "On trouve régulièrement des cas dans les souttas où les mendiants ([bhikkhu|bhikkhu]) s'adressent les uns aux autres avec cet appellatif, sans distinction entre les juniors et les seniors:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$MN 9]",
+        "text": [
+          { "pl": "āyasmā sāriputto bhikkhū āmantesi", "fr": "Le vénérable Saripoutta s'adressa aux mendiants:" },
+          { "pl": "“āvuso bhikkhave”ti.", "fr": "«Amis mendiants." },
+          {
+            "pl": "“āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ.",
+            "fr": "— Ami», répondirent ces mendiants au vénérable Saripoutta."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Cependant, juste avant sa mort, dans le [@$dn16|Mahāparinibbāna Sutta], le Bouddha déclare qu'il ne devra plus en être ainsi à l'avenir:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$DN 16]",
+        "text": [
+          {
+            "pl": "yathā kho panānanda, etarahi bhikkhū aññamaññaṃ āvusovādena samudācaranti, na kho mamaccayena evaṃ samudācaritabbaṃ. theratarena, ānanda, bhikkhunā navakataro bhikkhu nāmena vā gottena vā āvusovādena vā samudācaritabbo. navakatarena bhikkhunā therataro bhikkhu ‘bhante’ti vā ‘āyasmā’ti vā samudācaritabbo.",
+            "fr": "Bien que jusqu'à présent les mendiants se sont adressés les uns aux autres en disant “ami”, qu'il n'en soit plus ainsi lorsque je serai parti. Les aînés mendiants, Ananda, pourront s'adresser aux jeunes mendiants par leur prénom, leur nom de famille, ou en disant “ami”, mais les jeunes mendiants devront s'adresser aux aînés en disant “Bhanté” ou “vénérable”."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans les souttas, on trouve également le Bouddha (e.g. [@$AN 4.45]) ou des mendiants (e.g. [@$SN 1.20]) utilisant l'appellatif pour s'adresser à un [deva|déva].",
+        "On y trouve aussi qu'un mendiant ou une mendiante peut l'utiliser pour s'adresser à un disciple séculier (e.g. [@$MN 44]).",
+        "Parfois, des ascètes hétérodoxes utilisent l'appellatif pour s'adresser au Bouddha (e.g. [@$chris_056|MN 56]), mais ce dernier fait clairement savoir dès son Éveil à ses cinq compagnons que ce terme d'adresse est devenu inapproprié à son égard (puisque le Bouddha n'a pas de pairs), comme on peut le voir à [@$chris_026|MN 26]. À [@$MN 140], un mendiant s'excuse même pour avoir appelé le Bouddha “ami”."
+      ]
+    }
+  ]
+}

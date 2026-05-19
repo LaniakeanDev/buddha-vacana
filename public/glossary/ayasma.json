@@ -1,0 +1,25 @@
+{
+  "id": "ayasma",
+  "title": "āyasmā",
+  "translation": ["vénérable, litt: longévif, âgé, ancien."],
+  "body": [
+    {
+      "p": [
+        "Il s'agit de la forme vocative d'«āyasmant».",
+        "Un appellatif respectueux, utilisé pour un mendiant ([bhikkhu|bhikkhu]) ou pour faire référence de manière polie à des brahmanes ou des ascètes hétérodoxes (e.g. [@$chris_022|MN 22], [@$chris_060|MN 60]), même lorsque c'est pour critiquer leurs vues.",
+        "On trouve une définition dans l'Uposatha Khandhaka, une section du Mahavagga dans le [vinaya|Vinaya]: "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]Vin, Mv[/b]",
+        "text": [
+          {
+            "pl": "āyasmantoti piyavacanametaṃ garuvacanametaṃ sagāravasappatissādhivacanametaṃ.",
+            "fr": "«āyasma» : c'est un appellatif affectueux, un appellatif révérencieux, une expression respectueuse et courtoise."
+          }
+        ]
+      }
+    }
+  ]
+}
