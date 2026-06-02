@@ -1,0 +1,48 @@
+{
+  "identifier": "SN 54.3",
+  "plTitle": "Suddhika Sutta ",
+  "frTitle": "Version simple",
+  "description": "On trouve ici l'exposé standard de la pratique de la présence de l'esprit sur la respiration.",
+  "body": [
+    {
+      "pl": "“ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṃsā. kathaṃ bhāvitā ca, bhikkhave, ānāpānassati kathaṃ bahulīkatā mahapphalā hoti mahānisaṃsā?",
+      "fr": "[bhikkhu|Mendiants], la [anapanassati|présence de l'esprit sur la respiration], lorsqu'elle est développée et cultivée abondamment, porte d'excellents fruits, elle apporte de grands [anisamsa|bienfaits]. Et comment, [bhikkhu|mendiants], la [anapanassati|présence de l'esprit sur la respiration] est-elle développée et cultivée abondamment de manière à porter beaucoup de fruits et apporter de grands [anisamsa|bienfaits]?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+      "fr": "À cet égard, un [bhikkhu|mendiant], [@f_anapana#1-cl|s'étant rendu dans la forêt, au pied d'un arbre ou dans un local vide, s'assoit jambes croisées, maintenant [son] corps droit, et mettant en place [sa] présence d'esprit entre le nez et la bouche.]"
+    },
+    {
+      "pl": "so satova assasati, satova passasati. dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ti pajānāti; rassaṃ vā assasanto ‘rassaṃ assasāmī’ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti; ‘sabbakāyappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sabbakāyappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#2-cl|Étant ainsi présent d'esprit, il inspire, étant ainsi présent d'esprit, il expire; lorsqu'il inspire profondément, il discerne: [i]«j'inspire profondément»;[/i] lorsqu'il expire profondément, il discerne: [i]«j'expire profondément»;[/i] lorsqu'il inspire superficiellement, il discerne: [i]«j'inspire superficiellement»;[/i] lorsqu'il expire superficiellement, il discerne: [i]«j'expire superficiellement».[/i]] [@f_anapana#3-cl|Il s'entraîne: [i]«je vais inspirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le corps tout entier»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions corporelles»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions corporelles».[/i]]"
+    },
+    {
+      "pl": "‘pītippaṭisaṃvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṃvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṃvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṃvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṃvedī passasissāmī’ti sikkhati; ‘passambhayaṃ cittasaṅkhāraṃ assasissāmī’ti sikkhati, ‘passambhayaṃ cittasaṅkhāraṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#4-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'exaltation»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais expirer en ressentant le bien-être»;[/i] il s'entraîne: [i]«je vais inspirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en calmant les constructions de l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en calmant les constructions de l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘cittappaṭisaṃvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṃvedī passasissāmī’ti sikkhati; ‘abhippamodayaṃ cittaṃ assasissāmī’ti sikkhati, ‘abhippamodayaṃ cittaṃ passasissāmī’ti sikkhati; ‘samādahaṃ cittaṃ assasissāmī’ti sikkhati, ‘samādahaṃ cittaṃ passasissāmī’ti sikkhati; ‘vimocayaṃ cittaṃ assasissāmī’ti sikkhati, ‘vimocayaṃ cittaṃ passasissāmī’ti sikkhati;",
+      "fr": "[@f_anapana#5-cl|Il s'entraîne: [i]«je vais inspirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en ressentant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en réjouissant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en concentrant l'esprit»;[/i] il s'entraîne: [i]«je vais inspirer en délivrant l'esprit»;[/i] il s'entraîne: [i]«je vais expirer en délivrant l'esprit».[/i]]"
+    },
+    {
+      "pl": "‘aniccānupassī assasissāmī’ti sikkhati, ‘aniccānupassī passasissāmī’ti sikkhati; ‘virāgānupassī assasissāmī’ti sikkhati, ‘virāgānupassī passasissāmī’ti sikkhati; ‘nirodhānupassī assasissāmī’ti sikkhati, ‘nirodhānupassī passasissāmī’ti sikkhati; ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.",
+      "fr": "[@f_anapana#6-cl|Il s'entraîne: [i]«je vais inspirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais expirer en contemplant l'impermanence»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais expirer en contemplant le désintéressement»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la cessation»;[/i] il s'entraîne: [i]«je vais inspirer en contemplant la renonciation»;[/i] il s'entraîne: [i]«je vais expirer en contemplant la renonciation».[/i]]"
+    },
+    {
+      "pl": "evaṃ bhāvitā kho, bhikkhave, ānāpānassati evaṃ bahulīkatā mahapphalā hoti mahānisaṃsā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], comment la [anapanassati|présence de l'esprit sur la respiration] est développée et cultivée abondamment de manière à porter beaucoup de fruits et apporter de grands [anisamsa|bienfaits]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "anapanassati",
+    "anisamsa",
+    "@f_anapana#1-cl",
+    "@f_anapana#2-cl",
+    "@f_anapana#3-cl",
+    "@f_anapana#4-cl",
+    "@f_anapana#5-cl",
+    "@f_anapana#6-cl"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

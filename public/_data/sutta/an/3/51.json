@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 3.51",
+  "plTitle": "Dvebrāhmaṇa Sutta",
+  "frTitle": "Les deux brahmanes",
+  "description": "Conseils donnés à deux brahmanes âgés qui n'ont rien fait de bon dans leur vie.",
+  "body": [
+    {
+      "pl": "atha kho dve brāhmaṇā jiṇṇā vuddhā mahallakā addhagatā vayoanuppattā vīsavassasatikā jātiyā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavatā saddhiṃ sammodiṃsu. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te brāhmaṇā bhagavantaṃ etadavocuṃ:",
+      "fr": "Ce jour-là, deux [brahmana|brahmanes] âgés, vieux, séniles, avancés en âge, décrépits, âgés de cent vingt ans, vinrent voir le [bhagava|Fortuné] et échangèrent des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, ils s'assirent d'un côté. Une fois assis d'un côté, ils dirent au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“mayamassu, bho gotama, brāhmaṇā jiṇṇā vuddhā mahallakā addhagatā vayoanuppattā vīsavassasatikā jātiyā; te camhā akatakalyāṇā akatakusalā akatabhīruttāṇā. ovadatu no bhavaṃ gotamo, anusāsatu no bhavaṃ gotamo yaṃ amhākaṃ assa dīgharattaṃ hitāya sukhāyā”ti.",
+      "fr": "—«[bho|Honorable] Gotama, nous sommes des [brahmana|brahmanes] âgés, vieux, séniles, avancés en âge, décrépits, âgés de cent vingt ans, et nous n'avons pas fait ce qui est [kalyana|bénéfique], nous n'avons pas fait ce qui est [kusala|avantageux], nous n'avons pas offert de protection à ceux qui étaient en détresse. Exhortez-nous, [bho|Honorable] Gotama, instruisez-nous par rapport à ce qui sera à notre avantage et mènera à notre [sukha|bien-être] pour longtemps."
+    },
+    {
+      "pl": "“taggha tumhe, brāhmaṇā, jiṇṇā vuddhā mahallakā addhagatā vayoanuppattā vīsavassasatikā jātiyā; te cattha akatakalyāṇā akatakusalā akatabhīruttāṇā. upanīyati kho ayaṃ, brāhmaṇā, loko jarāya byādhinā maraṇena. evaṃ upanīyamāne kho, brāhmaṇā, loke jarāya byādhinā maraṇena, yo idha kāyena saṃyamo vācāya saṃyamo manasā saṃyamo, taṃ tassa petassa tāṇañca leṇañca dīpañca saraṇañca parāyaṇañcā”ti.",
+      "fr": "—Assurément, [brahmana|brahmanes], vous êtes âgés, vieux, séniles, avancés en âge, décrépits, âgés de cent vingt ans, et vous n'avez pas fait ce qui est [kalyana|bénéfique], vous n'avez pas fait ce qui est [kusala|avantageux], vous n'avez pas offert de protection à ceux qui étaient en détresse. Ce monde, [brahmana|brahmanes], est emporté par le [jara|vieillissement], la maladie et la [marana|mort]. Puisque ce monde est emporté par le [jara|vieillissement], la maladie et la [marana|mort], toute restreinte en [kaya|corps], toute restreinte en parole, toute restreinte en esprit seront une protection, un abri, une île, un refuge et un soulagement pour celui qui s'en est allé.»"
+    },
+    {
+      "pl": "[i]“upanīyati jīvitamappamāyu.[@v]jarūpanītassa na santi tāṇā.[@v]etaṃ bhayaṃ maraṇe pekkhamāno,[@v]puññāni kayirātha sukhāvahāni.[@v][@v]“yodha kāyena saṃyamo, [@v]vācāya uda cetasā.[@v]taṃ tassa petassa sukhāya hoti,[@v]yaṃ jīvamāno pakaroti puññan”ti.[/i][@v][@v]",
+      "fr": "[i]La vie est emportée, la longévité est courte.[@v]Il n'y a pas de protection pour celui qui est touché par la vieillesse.[@v]Considérant ce danger qu'est la [marana|mort], [@v]Faites du mérite qui vous apportera du [sukha|bien-être].[@v][@v]La restreinte en [kaya|corps],[@v]En parole ou en esprit,[@v]Et le mérite réalisé au cours de la vie[@v]Mènent au [sukha|bien-être] de celui qui s'en est allé.[/i][@v][@v]"
+    }
+  ],
+  "keywords": ["brahmana", "bhagava", "bho", "kalyana", "kusala", "sukha", "jara", "marana", "kaya"],
+  "translator": "Rémy"
+}

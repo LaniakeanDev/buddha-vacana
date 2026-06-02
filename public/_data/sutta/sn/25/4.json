@@ -1,0 +1,49 @@
+{
+  "identifier": "SN 25.4",
+  "plTitle": "Samphassa Sutta",
+  "frTitle": "Le contact",
+  "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les contacts sensoriels.",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "Cakkhusamphasso, bhikkhave, anicco vipariṇāmī aññathābhāvī; sotasamphasso anicco vipariṇāmī aññathābhāvī; ghānasamphasso anicco vipariṇāmī aññathābhāvī; jivhāsamphasso anicco vipariṇāmī aññathābhāvī; kāyasamphasso anicco vipariṇāmī aññathābhāvī; manosamphasso anicco vipariṇāmī aññathābhāvī.",
+      "fr": "[bhikkhu|Mendiants], le [phassa|contact] oculaire est [anicca|impermanent], changeant, variable; le [phassa|contact] auditif est [anicca|impermanent], changeant, variable; le [phassa|contact] olfactif est [anicca|impermanent], changeant, variable; le [phassa|contact] gustatif est [anicca|impermanent], changeant, variable; le [phassa|contact] corporel est [anicca|impermanent], changeant, variable; le [phassa|contact] mental est [anicca|impermanent], changeant, variable."
+    },
+    {
+      "pl": "Yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati saddhānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ; abhabbo taṃ kammaṃ kātuṃ, yaṃ kammaṃ katvā nirayaṃ vā tiracchānayoniṃ vā pettivisayaṃ vā upapajjeyya; abhabbo ca tāva kālaṃ kātuṃ yāva na sotāpattiphalaṃ sacchikaroti.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui est ainsi [saddha|convaincu] de ces [dhamma|choses] et s'y résout qu'il est [saddhanusari|mû-par-la-conviction], qu'il est entré dans la pratique de la rectitude, qu'il est entré dans la sphère des [sappurisa|hommes de bien], et qu'il a transcendé la sphère des [puthujjana|gens ordinaires]. Il est impossible qu'il réalise une [kamma|action] à cause de laquelle il réapparaîtrait en [niraya|enfer], dans le [tiracchanayoni|monde animal] ou dans le [pettivisaya|plan d'existence des esprits affligés], et il est impossible qu'il trépasse sans atteindre le fruit de l'[sotapatti|entrée dans le courant]."
+    },
+    {
+      "pl": "Yassa kho, bhikkhave, ime dhammā evaṃ paññāya mattaso nijjhānaṃ khamanti, ayaṃ vuccati dhammānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ; abhabbo taṃ kammaṃ kātuṃ, yaṃ kammaṃ katvā nirayaṃ vā tiracchānayoniṃ vā pettivisayaṃ vā upapajjeyya; abhabbo ca tāva kālaṃ kātuṃ yāva na sotāpattiphalaṃ sacchikaroti’.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui accepte ainsi ces [dhamma|choses] après les avoir suffisamment méditées avec [panna|discernement] qu'il est [dhammanusari|mû-par-le-Dhamma], qu'il est entré dans la pratique de la rectitude, qu'il est entré dans la sphère des [sappurisa|hommes de bien], et qu'il a transcendé la sphère des [puthujjana|gens ordinaires]. Il est impossible qu'il réalise une [kamma|action] à cause de laquelle il réapparaîtrait en [niraya|enfer], dans le [tiracchanayoni|monde animal] ou dans le [pettivisaya|plan d'existence des esprits affligés], et il est impossible qu'il trépasse sans atteindre le fruit de l'[sotapatti|entrée dans le courant]."
+    },
+    {
+      "pl": "Yo, bhikkhave, ime dhamme evaṃ pajānāti evaṃ passati, ayaṃ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’ti.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "phassa",
+    "anicca",
+    "saddha",
+    "dhamma",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
+  "translator": "Rémy"
+}

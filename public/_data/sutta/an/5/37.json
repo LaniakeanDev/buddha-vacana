@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 5.37",
+  "plTitle": "Bhojana Sutta",
+  "frTitle": "Un repas",
+  "description": "Cinq choses que donne à son bénéficiaire celui qui offre un repas, et quel genre de résultat il peut en attendre.",
+  "body": [
+    {
+      "pl": "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ pañca ṭhānāni deti. Katamāni pañca? Āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti.",
+      "fr": "En donnant un repas, [bhikkhu|mendiants], le donateur offre cinq choses à son donataire. Quelles sont ces cinq? Il offre la longévité, il offre la beauté, il offre le [sukha|bien-être], il offre la [bala|force], il offre la clarté d'esprit."
+    },
+    {
+      "pl": "Āyuṃ kho pana datvā āyussa bhāgī hoti dibbassa vā mānusassa vā; vaṇṇaṃ datvā vaṇṇassa bhāgī hoti dibbassa vā mānusassa vā; sukhaṃ datvā sukhassa bhāgī hoti dibbassa vā mānusassa vā; balaṃ datvā balassa bhāgī hoti dibbassa vā mānusassa vā; paṭibhānaṃ datvā paṭibhānassa bhāgī hoti dibbassa vā mānusassa vā.",
+      "fr": "Ayant offert la longévité, il reçoit la longévité, qu'elle soit [deva|déva] ou humaine; ayant offert la beauté, il reçoit la beauté, qu'elle soit [deva|déva] ou humaine; ayant offert le [sukha|bien-être], il reçoit le [sukha|bien-être], qu'il soit [deva|déva] ou humain; ayant offert la [bala|force], il reçoit la [bala|force], qu'elle soit [deva|déva] ou humaine; ayant offert la clarté d'esprit, il reçoit la clarté d'esprit, qu'elle soit humaine ou [deva|déva]."
+    },
+    {
+      "pl": "Bhojanaṃ, bhikkhave, dadamāno dāyako paṭiggāhakānaṃ imāni pañca ṭhānāni detīti.",
+      "fr": "En donnant un repas, [bhikkhu|mendiants], le donateur offre ces cinq choses à son donataire. "
+    }
+  ],
+  "keywords": ["bhikkhu", "sukha", "bala", "deva"],
+  "translator": "Rémy"
+}

@@ -24,7 +24,7 @@ async function generateCardData(): Promise<void> {
   try {
     for (const nikaya of nikayas) {
       const nikayaPath = path.join(dataDir, nikaya);
-      if (nikaya === 'dn' || nikaya === 'mn') {
+      if (nikaya === ('dn' as TNikayaEnum) || nikaya === ('mn' as TNikayaEnum)) {
         const dataToBeWritten = await extractSuttaCardMetadataFromFolder(nikayaPath, nikaya);
         if (dataToBeWritten.length) {
           const outputFile =
@@ -38,7 +38,7 @@ async function generateCardData(): Promise<void> {
           );
         }
       }
-      if (nikaya === 'sn' || nikaya === 'an') {
+      if (nikaya === ('sn' as TNikayaEnum) || nikaya === ('an' as TNikayaEnum)) {
         const numberOfSubNikayas = nikaya === 'sn' ? 56 : 12;
         for (let subNikayaNumber = 1; subNikayaNumber <= numberOfSubNikayas; subNikayaNumber++) {
           const dataToBeWritten = await extractSuttaCardMetadataFromFolder(
@@ -55,7 +55,7 @@ async function generateCardData(): Promise<void> {
           }
         }
       }
-      if (nikaya === 'kn') {
+      if (nikaya === ('kn' as TNikayaEnum)) {
         // figure out which subNikayas are in the folder structure
         const subNikayas = readdirSync(nikayaPath).filter((file) => {
           const fullPath = path.join(nikayaPath, file);
@@ -85,16 +85,19 @@ async function generateCardData(): Promise<void> {
 
 generateCardData();
 
-async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: string): Promise<SuttaMetadata[]> {
+async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: TNikayaEnum): Promise<SuttaMetadata[]> {
   let readingTime = 1;
   const files = await fs.readdir(folderPath); // array of file names
   const extractedSuttaCardMetadata: SuttaMetadata[] = [];
   for (const file of files) {
     const filePath = path.join(folderPath, file);
+    console.log(`parsing ${filePath}`);
     const content = await fs.readFile(filePath, 'utf8');
-    const suttaData = JSON.parse(content);
+    const utf8Content = content.replace(/^\uFEFF/, '');
+    const suttaData = JSON.parse(utf8Content);
     if (!isISuttaData(suttaData)) {
       console.error('Error while reading file "', filePath, '": data structure doesn\'t match ISuttaData Interface');
+      throw new Error(`Error while reading file "${filePath}": data structure doesn't match ISuttaData Interface`);
     }
     const { body, ...metadata } = suttaData; // Extract metadata (without the body)
     // generate keywords list
@@ -123,9 +126,9 @@ async function extractSuttaCardMetadataFromFolder(folderPath: string, nikaya: st
 function generateKeywords(body: ISuttaBlock[]): string[] {
   let keywords: string[] = [];
   body.map((block) => {
-    const segments = block.fr.split(/(\[[^\|]+\|[^\]]+\]|\s+)/).filter(Boolean);
+    const segments = block.fr.split(/(\[[^|\s]+\|[^\]]+\]|\s+)/).filter(Boolean);
     segments.map((segment) => {
-      const match = segment.match(/^\[([^\|]+)\|([^\]]+)\]$/);
+      const match = segment.match(/^\[([^|\s]+)\|([^\]]+)\]$/);
       if (match && !keywords.includes(match[1])) {
         keywords.push(match[1]);
       }

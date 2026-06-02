@@ -1,0 +1,81 @@
+{
+  "identifier": "SN 23.1",
+  "plTitle": "Māra Sutta",
+  "frTitle": "Le Tueur",
+  "description": "Ici Radha demande au Bouddha ce qu'est le Tueur (Māra).",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Radha alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“‘māro, māro’’ti, bhante, vuccati. kittāvatā nu kho, bhante, māro””ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“Le [mara|Tueur], le [mara|Tueur]”[/i]. Dans quelle mesure, [bhante|Bhanté], y a-t-il un [mara|Tueur]?"
+    },
+    {
+      "pl": "“rūpe kho, rādha, sati māro vā assa māretā vā yo vā pana mīyati. tasmātiha tvaṃ, rādha, rūpaṃ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa. ye naṃ evaṃ passanti te sammā passanti. vedanāya sati. saññāya sati. saṅkhāresu sati. viññāṇe sati māro vā assa māretā vā yo vā pana mīyati. tasmātiha tvaṃ, rādha, viññāṇaṃ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa. ye naṃ evaṃ passanti, te sammā passantī””ti.",
+      "fr": "—Radha, lorsqu'il y a la [rupa|Forme], il y a le [mara|Tueur], l'assassin, ou celui est tué. C'est pourquoi, Radha, vois la [rupa|Forme] comme un [mara|Tueur], comme un assassin, comme celui qui est tué, comme une maladie, commeun furoncle, comme une flèche [perçante], comme une infortune, comme un malheur. Ceux qui la voient ainsi voient correctement. Lorsqu'il y a le [vedana|Ressenti] (…) la [sanna|Perception] (…) les [sankhara|Constructions] (…) la [vinnana|Conscience], il y a le [mara|Tueur], l'assassin, ou celui est tué. C'est pourquoi, Radha, vois la [vinnana|Conscience] comme un [mara|Tueur], comme un assassin, comme celui qui est tué, comme une maladie, commeun furoncle, comme une flèche [perçante], comme une infortune, comme un malheur. Ceux qui la voient ainsi voient correctement."
+    },
+    {
+      "pl": "“sammādassanaṃ pana, bhante, kimatthiyan””ti?",
+      "fr": "—[bhante|Bhanté], quel est le bienfait de la vision correcte?"
+    },
+    {
+      "pl": "“sammādassanaṃ kho, rādha, nibbidatthaṃ”.",
+      "fr": "—Le [nibbida|désenchantement], Radha, est le bienfait de la vision correcte."
+    },
+    {
+      "pl": "“nibbidā pana, bhante, kimatthiyā””ti?",
+      "fr": "—[bhante|Bhanté], quel est donc le bienfait du [nibbida|désenchantement]?"
+    },
+    {
+      "pl": "“nibbidā kho, rādha, virāgatthā”.",
+      "fr": "—Le [viraga|désintéressement], Radha, est le bienfait du [nibbida|désenchantement]."
+    },
+    {
+      "pl": "“virāgo pana, bhante, kimatthiyo””ti?",
+      "fr": "—[bhante|Bhanté], quel est donc le bienfait du [viraga|désintéressement]?"
+    },
+    {
+      "pl": "“virāgo kho, rādha, vimuttattho”.",
+      "fr": "—La [vimutti|libération], Radha, est le bienfait du [viraga|désintéressement]."
+    },
+    {
+      "pl": "“vimutti pana, bhante, kimatthiyā””ti?",
+      "fr": "—[bhante|Bhanté], quel est donc le bienfait de la [vimutti|libération]?"
+    },
+    {
+      "pl": "“vimutti kho, rādha, nibbānatthā”.",
+      "fr": "—L'[nibbana|Extinction], Radha, est le bienfait de la [vimutti|libération]."
+    },
+    {
+      "pl": "“nibbānaṃ pana, bhante, kimatthiyan””ti?",
+      "fr": "—[bhante|Bhanté], quel est donc le bienfait de l'[nibbana|Extinction]?"
+    },
+    {
+      "pl": "“accasarā, rādha, pañhaṃ, nāsakkhi pañhassa pariyantaṃ gahetuṃ. nibbānogadhañhi, rādha, brahmacariyaṃ vussati, nibbānaparāyanaṃ nibbānapariyosānan””ti.",
+      "fr": "—Radha, tu as excédé le questionnement, tu n'as pas saisi la limite du questionnement. La [brahmacariya|vie brahmique] est vécue parce qu'elle mène à l'[nibbana|Extinction], parce qu'elle se termine dans l'[nibbana|Extinction], parce qu'elle atteint sa perfection dans l'[nibbana|Extinction].»"
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "mara",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "nibbida",
+    "viraga",
+    "vimutti",
+    "nibbana",
+    "brahmacariya"
+  ],
+  "translator": "Sekha"
+}

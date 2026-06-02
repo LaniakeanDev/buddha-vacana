@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 2.42",
+  "plTitle": "Byañjanappatirūpaka Sutta",
+  "frTitle": "Un semblant du phrasé correct",
+  "description": "Ce soutta souligne l'importance d'être extrêmement précis lorsqu'on se réfère aux souttas, afin de ne pas introduire de distorsion dans notre manière de comprendre et de communiquer le Dhamma.",
+  "body": [
+    {
+      "pl": "“ye te, bhikkhave, bhikkhū duggahitehi suttantehi byañjanappatirūpakehi atthañca dhammañca paṭivāhanti te, bhikkhave, bhikkhū bahujanāhitāya paṭipannā bahujanāsukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpenti.",
+      "fr": "Les [bhikkhu|mendiants] qui véhiculent la signification et le [dhamma|Dhamma] en ayant recours à des souttas mal saisis dont le phrasé n'est qu'un semblant [du phrasé correct] œuvrent au détriment de beaucoup de gens, pour lemalheur de la multitude, pour le préjudice, le détriment et le [dukkha|mal-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]. De plus, ces [bhikkhu|mendiants] accumulent beaucoup de dé·[punna|mérite] et font disparaître ce [saddhamma|Dhamma authentique]."
+    },
+    {
+      "pl": "“ye te, bhikkhave, bhikkhū suggahitehi suttantehi na byañjanappatirūpakehi atthañca dhammañca anulomenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī”ti.",
+      "fr": "Les [bhikkhu|mendiants] qui véhiculent la signification et le [dhamma|Dhamma] en ayant recours à des souttas bien saisis dont le phrasé n'est pas qu'un semblant [du phrasé correct] œuvrent au bénéfice de beaucoup de gens, pour le [sukha|bonheur] de beaucoup de gens, pour le bienfait, le bénéfice et le [sukha|bien-être] de beaucoup de gens, des [deva|dévas] et des [manussa|êtres humains]. De plus, ces [bhikkhu|mendiants] accumulent beaucoup de [punna|mérite] et maintiennent ce [saddhamma|Dhamma authentique]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "dukkha", "deva", "manussa", "punna", "saddhamma", "sukha"],
+  "translator": "Rémy"
+}

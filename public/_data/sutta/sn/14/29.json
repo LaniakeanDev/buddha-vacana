@@ -1,0 +1,43 @@
+{
+  "identifier": "SN 14.29",
+  "plTitle": "Dasaṅga Sutta",
+  "frTitle": "Dix composantes",
+  "description": "Les gens s'associent et s'assemblent selon leur position vis-à-vis de la noble voie à dix composantes.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ..",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
+    {
+      "pl": "“dhātusova, bhikkhave, sattā saṃsandanti samenti. micchādiṭṭhikā micchādiṭṭhikehi saddhiṃ saṃsandanti samenti; micchāsaṅkappā … pe … micchāvācā. micchākammantā. micchāājīvā. micchāvāyāmā. micchāsatino . micchāsamādhino micchāsamādhīhi saddhiṃ saṃsandanti samenti; micchāñāṇino micchāñāṇīhi saddhiṃ saṃsandanti samenti; micchāvimuttino micchāvimuttīhi saddhiṃ saṃsandanti samenti”",
+      "fr": "[bhikkhu|Mendiants], les êtres s'associent et s'assemblent selon les [dhatu|éléments]. Ceux qui ont des [micchaditthi|vues erronées] s'associent et s'assemblent avec ceux qui ont des [micchaditthi|vues erronées], ceux qui ont des [sankappa|pensées] erronées s'associent et s'assemblent avec ceux qui ont des [sankappa|pensées] erronées, ceux qui ont des [vaca|paroles] erronées s'associent et s'assemblent avec ceux qui ont des [vaca|paroles] erronées, ceux qui ont des [kammanta|actions] erronées s'associent et s'assemblent avec ceux qui ont des [kammanta|actions] erronées, ceux qui ont des [ajiva|moyens de subsistance] erronés s'associent et s'assemblent avec ceux qui ont des [ajiva|moyens de subsistance] erronés, ceux qui font des efforts erronés s'associent et s'assemblent avec ceux qui font des efforts erronés, ceux qui ont une [sati|présence d'esprit] erronée s'associent et s'assemblent avec ceux qui ont une [sati|présence d'esprit] erronée,ceux qui ont une [samadhi|concentration] erronée s'associent et s'assemblent avec ceux qui ont une [samadhi|concentration] erronée,ceux qui ont une [nana|connaissance] erronée s'associent et s'assemblent avec ceux qui ont une [nana|connaissance] erronée, etceux qui ont une [vimutti|libération] erronée s'associent et s'assemblent avec ceux qui ont une [vimutti|libération] erronée."
+    },
+    {
+      "pl": "“sammādiṭṭhikā sammādiṭṭhikehi saddhiṃ saṃsandanti samenti; sammāsaṅkappā … pe … sammāvācā. sammākammantā. sammāājīvā. sammāvāyāmā. sammāsatino. sammāsamādhino. sammāñāṇino sammāñāṇīhi saddhiṃ saṃsandanti samenti; sammāvimuttino sammāvimuttīhi saddhiṃ saṃsandanti samentī””ti.",
+      "fr": "Ceux qui ont la [sammaditthi|vue correcte] s'associent et s'assemblent avec ceux qui ont la [sammaditthi|vue correcte], ceux qui ont la [sammasankappa|pensée correcte] s'associent et s'assemblent avec ceux qui ont la [sammasankappa|pensée correcte], ceux qui ont la [sammavaca|parole correcte] s'associent et s'assemblent avec ceux qui ont la [sammavaca|parole correcte],ceux qui font l'[sammakammanta|action correcte] s'associent et s'assemblent avec ceux qui font l'[sammakammanta|action correcte],ceux qui ont les [sammaajiva|moyens de subsistance corrects] s'associent et s'assemblent avec ceux qui ont les [sammaajiva|moyens de subsistance corrects],ceux qui font l'[sammavayama|effort correct] s'associent et s'assemblent avec ceux qui font l'[sammavayama|effort correct],ceux qui ont la [sammasati|présence d'esprit correcte] s'associent et s'assemblent avec ceux qui ont la [sammasati|présence d'esprit correcte], ceux qui ont la [sammasamadhi|concentration correcte] s'associent et s'assemblent avec ceux qui ont la [sammasamadhi|concentration correcte],ceux qui ont la [nana|connaissance] correcte s'associent et s'assemblent avec ceux qui ont la [nana|connaissance] correcte, etceux qui ont la [vimutti|libération] correcte s'associent et s'assemblent avec ceux qui ont la [vimutti|libération] correcte."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "dhatu",
+    "micchaditthi",
+    "sankappa",
+    "vaca",
+    "kammanta",
+    "ajiva",
+    "sati",
+    "samadhi",
+    "nana",
+    "vimutti",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Sekha"
+}

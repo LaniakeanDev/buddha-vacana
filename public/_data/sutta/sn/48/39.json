@@ -1,0 +1,59 @@
+{
+  "identifier": "SN 48.39",
+  "plTitle": "Kaṭṭhopama Sutta",
+  "frTitle": "L'allégorie du bâton",
+  "description": "On retrouve ici l'allégorie du bâton, également présente à SN 36.10, pour expliquer comment on se détache de l'affect engendré par les ressentis physiques et mentaux.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, indriyāni. katamāni pañca? sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [indriya|facultés [de ressenti]]. Quelles sont ces cinq? La [sukhindriya|faculté de plaisir], la [dukkhindriya|faculté de douleur], la [somanassindriya|faculté de plaisance mentale], la [domanassindriya|faculté de déplaisance mentale], et la [upekkhindriya|faculté d'équanimité]."
+    },
+    {
+      "pl": "sukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati sukhindriyaṃ. so sukhitova samāno ‘sukhitosmī’ti pajānāti. tasseva sukhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannaṃ sukhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "[bhikkhu|Mendiants], c'est sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable] qu'apparaît la [sukhindriya|faculté de plaisir]. Étant dans un état de plaisir, on comprend: [i]«je suis dans un état de plaisir»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [sukha|agréable], on comprend: [i]«le ressenti ainsi engendré, ce [sukhavedana|ressenti agréable] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati dukkhindriyaṃ. so dukkhitova samāno ‘dukkhitosmī’ti pajānāti. tasseva dukkhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannaṃ dukkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "C'est sur la base d'un [phassa|contact] pouvant être ressenti comme [dukkha|désagréable] qu'apparaît la [dukkhindriya|faculté de douleur]. Étant dans un état de douleur, on comprend: [i]«je suis dans un état de douleur»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [dukkha|désagréable], on comprend: [i]«le ressenti ainsi engendré, ce [dukkhavedana|ressenti désagréable] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [dukkha|désagréable], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“somanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati somanassindriyaṃ. so sumanova samāno ‘sumanosmī’ti pajānāti. tasseva somanassavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ somanassavedaniyaṃ phassaṃ paṭicca uppannaṃ somanassindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "C'est sur la base d'un [phassa|contact] pouvant être ressenti comme une [somanassa|plaisance mentale] qu'apparaît la [somanassindriya|faculté de plaisance mentale]. Étant dans un état de plaisance mentale, on comprend: [i]«je suis dans un état de plaisance mentale»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme une [somanassa|plaisance mentale], on comprend: [i]«le ressenti ainsi engendré, cette [somanassa|plaisance mentale] apparue sur la base d'un [phassa|contact] pouvant être ressenti comme une [somanassa|plaisance mentale], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“domanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati domanassindriyaṃ. so dummanova samāno ‘dummanosmī’ti pajānāti. tasseva domanassavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ domanassavedaniyaṃ phassaṃ paṭicca uppannaṃ domanassindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "C'est sur la base d'un [phassa|contact] pouvant être ressenti comme une [domanassa|déplaisance mentale] qu'apparaît la [domanassindriya|faculté de déplaisance mentale]. Étant dans un état de déplaisance mentale, on comprend: [i]«je suis dans un état de déplaisance mentale»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme une [domanassa|déplaisance mentale], on comprend: [i]«le ressenti ainsi engendré, cette [domanassa|déplaisance mentale] apparue sur la base d'un [phassa|contact] pouvant être ressenti comme une [domanassa|déplaisance mentale], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“upekkhāvedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati upekkhindriyaṃ. so upekkhakova samāno ‘upekkhakosmī’ti pajānāti. tasseva upekkhāvedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ upekkhāvedaniyaṃ phassaṃ paṭicca uppannaṃ upekkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "C'est sur la base d'un [phassa|contact] pouvant être ressenti avec [upekkha|équanimité] qu'apparaît la [upekkhindriya|faculté d'équanimité]. Étant dans un état d'équanimité, on comprend: [i]«je suis dans un état d'équanimité»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti avec [upekkha|équanimité], on comprend: [i]«le ressenti ainsi engendré, cette [upekkha|équanimité] apparue sur la base d'un [phassa|contact] pouvant être ressenti avec [upekkha|équanimité], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, dvinnaṃ kaṭṭhānaṃ saṅghaṭṭanasamodhānā usmā jāyati, tejo abhinibbattati; tesaṃyeva kaṭṭhānaṃ nānābhāvāvinikkhepā yā tajjā usmā sā nirujjhati sā vūpasammati; evameva kho, bhikkhave, sukhavedaniyaṃ phassaṃ paṭicca uppajjati sukhindriyaṃ. so sukhitova samāno ‘sukhitosmī’ti pajānāti. tasseva sukhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppajjati sukhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "Tout comme, [bhikkhu|mendiants], la mise contact et la friction de deux bâtons engendre de la chaleur et produit du feu, et lorsque ces bâtons sont séparés et mis de côtés, la chaleur ainsi engendrée cesse et s'éteint; de la même manière, c'est sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable] qu'apparaît la [sukhindriya|faculté de plaisir]. Étant dans un état de plaisir, on comprend: [i]«je suis dans un état de plaisir»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [sukha|agréable], on comprend: [i]«le ressenti ainsi engendré, ce [sukhavedana|ressenti agréable] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable], cesse et s'éteint.»[/i]"
+    },
+    {
+      "pl": "“dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca ... pe ... somanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca ... pe ... domanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca ... pe ... upekkhāvedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati upekkhindriyaṃ. so upekkhakova samāno ‘upekkhakosmī’ti pajānāti. tasseva upekkhāvedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ upekkhāvedaniyaṃ phassaṃ paṭicca uppajjati upekkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti”.",
+      "fr": "C'est sur la base d'un [phassa|contact] pouvant être ressenti comme [dukkha|désagréable](…) pouvant être ressenti comme une [somanassa|plaisance mentale] (…) pouvant être ressenti comme une [domanassa|déplaisance mentale] (…) pouvant être ressenti avec [upekkha|équanimité] qu'apparaît la [upekkhindriya|faculté d'équanimité]. Étant dans un état d'équanimité, on comprend: [i]«je suis dans un état d'équanimité»[/i]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti avec [upekkha|équanimité], on comprend: [i]«le ressenti ainsi engendré, cette [upekkha|équanimité] apparue sur la base d'un [phassa|contact] pouvant être ressenti avec [upekkha|équanimité], cesse et s'éteint.»[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "sukhindriya",
+    "dukkhindriya",
+    "somanassindriya",
+    "domanassindriya",
+    "upekkhindriya",
+    "phassa",
+    "sukha",
+    "nirodha",
+    "sukhavedana",
+    "dukkha",
+    "dukkhavedana",
+    "somanassa",
+    "domanassa",
+    "upekkha"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

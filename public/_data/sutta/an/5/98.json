@@ -1,0 +1,38 @@
+{
+  "identifier": "AN 5.98",
+  "plTitle": "Āraññaka Sutta",
+  "frTitle": "Celui qui séjourne en forêt",
+  "description": "Troisième version des cinq conditions sous lesquelles un mendiant pratiquant la présence de l'esprit sur la respiration devient rapidement un arahant, dans laquelle l'isolement remplace l'obtention d'enseignements.",
+  "body": [
+    {
+      "pl": "Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi?",
+      "fr": "Doué de cinq [dhamma|choses], [bhikkhu|mendiants], un mendiant pratiquant la [anapanassati|présence de l'esprit sur la respiration] atteint en peu de temps l'Inébranlable. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu;",
+      "fr": "À cet égard, [bhikkhu|mendiants], un mendiant a peu de projets, peu d'obligations, il est facile à sustenter, facile à contenter avec les accessoires de la vie;"
+    },
+    {
+      "pl": "appāhāro hoti anodarikattaṃ anuyutto;",
+      "fr": "il mange peu, il se voue à la frugalité;"
+    },
+    {
+      "pl": "appamiddho hoti jāgariyaṃ anuyutto;",
+      "fr": "il a peu d'indolence, il [jagariyamanuyoga|se voue à la veille];"
+    },
+    {
+      "pl": "āraññako hoti pantasenāsano;",
+      "fr": "il vit dans la forêt, dans des abris isolés;"
+    },
+    {
+      "pl": "yathāvimuttaṃ cittaṃ paccavekkhati.",
+      "fr": "il passe en revue la manière dont l'[citta|esprit] a été [vimutti|libéré]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhatī ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont les cinq [dhamma|choses] doué desquelles un mendiant pratiquant la [anapanassati|présence de l'esprit sur la respiration] atteint en peu de temps l'Inébranlable."
+    }
+  ],
+  "keywords": ["dhamma", "bhikkhu", "anapanassati", "jagariyamanuyoga", "citta", "vimutti"],
+  "translator": "Rémy"
+}

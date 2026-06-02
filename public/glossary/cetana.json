@@ -1,0 +1,49 @@
+{
+  "id": "cetana",
+  "title": "cetanā",
+  "translation": ["intention, volition"],
+  "body": [
+    {
+      "p": [
+        "Sous la forme [manosancetana|manosañcetanā], l'intention est l'un des quatre nutriments ([ahara|āhārā], [@$12.63]).",
+        "Toujours sous la forme [manosancetana|manosañcetanā], c'est l'un des cinq constituants du Nom ([nama|nāma], [@$12.2]).",
+        "L'intention également décrite par le Bouddha comme le principe fonctionnel de l'Action ([kamma|kamma]) dans le [@$an06-063|Nibbedhika Sutta]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.63]",
+        "text": [
+          {
+            "pl": "cetanāhaṃ, bhikkhave, kammaṃ vadāmi. cetayitvā kammaṃ karoti — kāyena vācāya manasā.",
+            "fr": "Je dis que les Actes sont les intentions. Ayant eu une intention, on agit en corps, en parole ou en esprit."
+          }
+        ]
+      }
+    },
+    { "p": ["Les intentions sont regroupées en six catégories:"] },
+    {
+      "quote": {
+        "source": "DN 33",
+        "text": [
+          {
+            "pl": "“cha sañcetanākāyā -- rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā.",
+            "fr": "Il y a six catégories d'intentions: les intentions liées aux formes visibles, celles liées aux sons, celles liées aux odeurs, aux saveurs, aux sensations corporelles, et les intentions liées aux phénomènes mentaux."
+          }
+        ]
+      }
+    },
+    { "p": ["Ces six catégories d'intentions définissent les constructions mentales ([sankhara|saṅkhāra]):"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.56]",
+        "text": [
+          {
+            "pl": "“katame ca, bhikkhave, saṅkhārā? chayime, bhikkhave, cetanākāyā — rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā. ime vuccanti, bhikkhave, saṅkhārā.",
+            "fr": "Et qu'est-ce, mendiants, que les Constructions? Il y a ces six catégories d'intentions: les intentions liées aux formes (visibles), les intentions liées aux sons, les intentions liées aux odeurs, les intentions liées aux saveurs, les intentions liées aux sensations corporelles, et les intentions liées aux phénomènes mentaux. Voici, mendiants, ce qu'on appelle les Constructions."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 17.11",
+  "plTitle": "Suvaṇṇapāti Sutta",
+  "frTitle": "Un bol en or",
+  "description": "Même un bol en or n'aurait pas attisé la convoitise de ce bhikkhu, et pourtant...",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ evaṃ cetasā ceto paricca pajānāmi: ‘na cāyamāyasmā suvaṇṇapātiyāpi rūpiyacuṇṇaparipūrāya hetu sampajānamusā bhāseyyā’ti. tamenaṃ passāmi aparena samayena lābhasakkārasilokena abhibhūtaṃ pariyādiṇṇacittaṃ sampajānamusā bhāsantaṃ.",
+      "fr": "Mendiants, je discerne complètement avec mon [citta|esprit] l'esprit d'un certain individu de cette manière: [i]“Ce [ayasma|vénérable] ne dirait pas un mensonge délibéré à [hetu|cause] d'un bol en or rempli de poudre d'argent.”[/i] Cependant, plus tard je le vois, son esprit dominé, sous l'emprise des [lss|acquisitions, honneurs et renommée], disant un mensonge délibéré."
+    },
+    {
+      "pl": "evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhikkhu", "lss", "citta", "ayasma", "hetu"],
+  "translator": "Rémy"
+}

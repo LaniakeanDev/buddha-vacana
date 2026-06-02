@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 3.45",
+  "plTitle": "Paṇḍita Sutta",
+  "frTitle": "Recommandé par les sages",
+  "description": "Trois choses qui sont prescrites par les sages et les hommes droits.",
+  "body": [
+    {
+      "pl": "“tīṇimāni, bhikkhave, paṇḍitapaññattāni sappurisapaññattāni. katamāni tīṇi? dānaṃ, bhikkhave, paṇḍitapaññattaṃ sappurisapaññattaṃ. pabbajjā, bhikkhave, paṇḍitapaññattā sappurisapaññattā. mātāpitūnaṃ, bhikkhave, upaṭṭhānaṃ paṇḍitapaññattaṃ sappurisapaññattaṃ. imāni kho, bhikkhave, tīṇi paṇḍitapaññattāni sappurisapaññattānī”ti.",
+      "fr": "Ces trois [choses], [bhikkhu|mendiants], sont recommandées par les [pandita|sages], sont recommandées par les [sappurisa|hommes de bien]. Quelles sont ces trois? Le [dana|don] est recommandé par les [pandita|sages], est recommandé par les [sappurisa|hommes de bien]. Quitter le foyer est recommandé par les [pandita|sages], est recommandé par les [sappurisa|hommes de bien]. S'occuper de sa mère et de son père est recommandé par les [pandita|sages], est recommandé par les [sappurisa|hommes de bien]. Voici, [bhikkhu|mendiants], quelles sont ce trois [choses] qui sont recommandées par les [pandita|sages], qui sont recommandées par les [sappurisa|hommes de bien]."
+    },
+    {
+      "pl": "[i]“sabbhi dānaṃ upaññattaṃ, [@v]ahiṃsā saṃyamo damo[@v]mātāpitu upaṭṭhānaṃ, [@v]santānaṃ brahmacārinaṃ.[@v][@v]“sataṃ etāni ṭhānāni, [@v]yāni sevetha paṇḍito.[@v]ariyo dassanasampanno, [@v]sa lokaṃ bhajate sivan”ti.[/i][@v][@v]",
+      "fr": "[i]Les sages invitent au [dana|don][@v]À l'inoffensivité, à la restreinte, à la maîtrise de soi,[@v]À assister sa mère et son père,[@v]Ainsi que ceux qui, paisibles, mènent la [brahmacariya|vie brahmique].[@v][@v]Voici quels sont les actes des bonnes personnes,[@v]Qu'un [pandita|homme sage] devrait pratiquer.[@v]Un [ariya|noble] doué de vision[@v]Va dans un [loka|monde] heureux.[/i][@v][@v]"
+    }
+  ],
+  "keywords": ["bhikkhu", "pandita", "sappurisa", "dana", "brahmacariya", "ariya", "loka"],
+  "translator": "Rémy"
+}

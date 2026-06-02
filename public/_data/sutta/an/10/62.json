@@ -1,0 +1,136 @@
+{
+  "identifier": "AN 10.62",
+  "plTitle": "Taṇhā Sutta",
+  "frTitle": "La Soif",
+  "description": "Ce soutta est presque identique au précedent. Il ajoute simplement à la liste la Soif d'existence (bhavataṇhā).",
+  "body": [
+    {
+      "pl": "“purimā, bhikkhave, koṭi na paññāyati bhavataṇhāya — ‘ito pubbe bhavataṇhā nāhosi, atha pacchā samabhavī’ti. evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati — ‘idappaccayā bhavataṇhā’ti.",
+      "fr": "[bhikkhu|Mendiants], on ne discerne pas de point de départ à la [tanha|Soif] d'[bhava|Existence], [dont on pourrait dire:] [i]“Avant cela, il n'y avait pas de [tanha|Soif] d'[bhava|Existence], elle est apparue ensuite.”[/i] Ceci dit, on discerne tout de même une cause à la [tanha|Soif] d'[bhava|Existence]."
+    },
+    {
+      "pl": "“bhavataṇhāmpāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro bhavataṇhāya? ‘avijjā’tissa vacanīyaṃ.",
+      "fr": "[bhikkhu|Mendiants], je dis que la [tanha|Soif] d'[bhava|Existence] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de la [tanha|Soif] d'[bhava|Existence]? Il faudrait dire: [i]“l'[avijja|ignorance]”[/i]."
+    },
+    {
+      "pl": "avijjampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro avijjāya? ‘pañca nīvaraṇā’tissa vacanīyaṃ.",
+      "fr": "[bhikkhu|Mendiants], je dis que l'[avijja|ignorance] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de l'[avijja|ignorance]? Il faudrait dire: [i]“les cinq [nivarana|obstructions]”[/i]."
+    },
+    {
+      "pl": "pañcapāhaṃ, bhikkhave, nīvaraṇe sāhāre vadāmi, no anāhāre. ko cāhāro pañcannaṃ nīvaraṇānaṃ? ‘tīṇi duccaritānī’tissa vacanīyaṃ.",
+      "fr": "Je dis que les cinq [nivarana|obstructions] ont une [ahara|alimentation], qu'elles ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] des cinq [nivarana|obstructions]? Il faudrait dire: [i]“les trois [duccarita|méconduites]”[/i]."
+    },
+    {
+      "pl": "tīṇipāhaṃ, bhikkhave, duccaritāni sāhārāni vadāmi, no anāhārāni. ko cāhāro tiṇṇaṃ duccaritānaṃ? ‘indriyāsaṃvaro’tissa vacanīyaṃ.",
+      "fr": "Je dis que les trois [duccarita|méconduites] ont une [ahara|alimentation], qu'elles ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] des trois [duccarita|méconduites]? Il faudrait dire: [i]“le manque de [samvara|restreinte] des [indriya|sens]”[/i]."
+    },
+    {
+      "pl": "indriyāsaṃvarampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro indriyāsaṃvarassa? ‘asatāsampajaññan’tissa vacanīyaṃ.",
+      "fr": "Je dis que le manque de [samvara|restreinte] des [indriya|sens] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] du manque de [samvara|restreinte] des [indriya|sens]? Il faudrait dire: [i]“le manque de [satisampajanna|présence d'esprit et de discernement attentif]”[/i]."
+    },
+    {
+      "pl": "asatāsampajaññampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro asatāsampajaññassa? ‘ayonisomanasikāro’tissa vacanīyaṃ.",
+      "fr": "Je dis que le manque de [satisampajanna|présence d'esprit et de discernement attentif] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] du manque de [satisampajanna|présence d'esprit et de discernement attentif]? Il faudrait dire: [i]“l'[ayonisomanasikara|attention inadéquate]”[/i]."
+    },
+    {
+      "pl": "ayonisomanasikārampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro ayonisomanasikārassa? ‘assaddhiyan’tissa vacanīyaṃ.",
+      "fr": "Je dis que l'[ayonisomanasikara|attention inadéquate] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de l'[ayonisomanasikara|attention inadéquate]? Il faudrait dire: [i]“le manque de [saddha|conviction]”[/i]."
+    },
+    {
+      "pl": "assaddhiyampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro assaddhiyassa? ‘asaddhammassavanan’tissa vacanīyaṃ.",
+      "fr": "Je dis que le manque de [saddha|conviction] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] du manque de [saddha|conviction]? Il faudrait dire: [i]“le manque d'[saddhammassavana|écoute du Dhamma authentique]”[/i]."
+    },
+    {
+      "pl": "asaddhammassavanampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro asaddhammassavanassa? ‘asappurisasaṃsevo’tissa vacanīyaṃ.",
+      "fr": "Je dis que le manque d'[saddhammassavana|écoute du Dhamma authentique] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] du manque d'[saddhammassavana|écoute du Dhamma authentique]? Il faudrait dire: [i]“l'association avec les [asappurisa|mauvaises personnes]”[/i]."
+    },
+    {
+      "pl": "“iti kho, bhikkhave, asappurisasaṃsevo paripūro assaddhammassavanaṃ paripūreti, assaddhammassavanaṃ paripūraṃ assaddhiyaṃ paripūreti, assaddhiyaṃ paripūraṃ ayonisomanasikāraṃ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṃ paripūreti, asatāsampajaññaṃ paripūraṃ indriyāsaṃvaraṃ paripūreti, indriyāsaṃvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṃ paripūrenti, avijjā paripūrā bhavataṇhaṃ paripūreti; evametissā bhavataṇhāya āhāro hoti, evañca pāripūri.",
+      "fr": "Ainsi, mendiants, l'association avec les [asappurisa|mauvaises personnes], lorsqu'elle est complète, alimente le manque d'[saddhammassavana|écoute du Dhamma authentique]. Le manque d'[saddhammassavana|écoute du Dhamma authentique], lorsqu'il est complet, alimente le manque de [saddha|conviction]. Le manque de [saddha|conviction], lorsqu'il est complet, alimente l'[ayonisomanasikara|attention inadéquate]. L'[ayonisomanasikara|attention inadéquate], lorsqu'elle est complète, alimente le manque de [satisampajanna|présence d'esprit et de discernement attentif]. Le manque de [satisampajanna|présence d'esprit et de discernement attentif], lorsqu'il est complet, alimente le manque de [samvara|restreinte] des [indriya|sens]. Le manque de [samvara|restreinte] des [indriya|sens], lorsqu'il est complet, alimente les trois [duccarita|méconduites]. Les trois [duccarita|méconduites], lorsqu'elles sont complètes, alimentent les cinq [nivarana|obstructions]. Les cinq [nivarana|obstructions], lorsqu'elles sont complètes, alimentent l'[avijja|ignorance]. L'[avijja|ignorance], lorsqu'elle est complète, alimente la [tanha|Soif] d'[bhava|Existence]. Ainsi, la [tanha|Soif] d'[bhava|Existence] a une [ahara|alimentation], et voici comment elle se complète."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti. kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṃ sāgaraṃ paripūrenti; evametassa mahāsamuddassa sāgarassa āhāro hoti, evañca pāripūri.",
+      "fr": "Tout comme, [bhikkhu|mendiants], lorsqu'un nuage fait tomber de la pluie en grosses gouttes au sommet d'une montagne, cette eau s'écoule et remplitles grottes, les crevasses et les pans de montagne qui se trouvent en contrebas; une fois les grottes, les crevasses et les pans de montagne remplis, ils remplissent les bassins; une fois les bassins remplis, ils remplissent les lacs; une fois les lacs remplis, ils remplissent les rivières; une fois les rivières remplies, elles remplissent les fleuves; et une fois les fleuves remplis, ils remplissent l'océan. Ainsi, l'océan a une [ahara|alimentation], et voici comment il se complète."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, asappurisasaṃsevo paripūro assaddhammassavanaṃ paripūreti, assaddhammassavanaṃ paripūraṃ assaddhiyaṃ paripūreti, assaddhiyaṃ paripūraṃ ayonisomanasikāraṃ paripūreti, ayonisomanasikāro paripūro asatāsampajaññaṃ paripūreti, asatāsampajaññaṃ paripūraṃ indriyāsaṃvaraṃ paripūreti, indriyāsaṃvaro paripūro tīṇi duccaritāni paripūreti, tīṇi duccaritāni paripūrāni pañca nīvaraṇe paripūrenti, pañca nīvaraṇā paripūrā avijjaṃ paripūrenti, avijjā paripūrā bhavataṇhaṃ paripūreti; evametissā bhavataṇhāya āhāro hoti, evañca pāripūri.",
+      "fr": "De la même manière, [bhikkhu|mendiants], l'association avec les [asappurisa|mauvaises personnes], lorsqu'elle est complète, alimente le manque d'[saddhammassavana|écoute du Dhamma authentique]. Le manque d'[saddhammassavana|écoute du Dhamma authentique], lorsqu'il est complet, alimente le manque de [saddha|conviction]. Le manque de [saddha|conviction], lorsqu'il est complet, alimente l'[ayonisomanasikara|attention inadéquate]. L'[ayonisomanasikara|attention inadéquate], lorsqu'elle est complète, alimente le manque de [satisampajanna|présence d'esprit et de discernement attentif]. Le manque de [satisampajanna|présence d'esprit et de discernement attentif], lorsqu'il est complet, alimente le manque de [samvara|restreinte] des [indriya|sens]. Le manque de [samvara|restreinte] des [indriya|sens], lorsqu'il est complet, alimente les trois [duccarita|méconduites]. Les trois [duccarita|méconduites], lorsqu'elles sont complètes, alimentent les cinq [nivarana|obstructions]. Les cinq [nivarana|obstructions], lorsqu'elles sont complètes, alimentent l'[avijja|ignorance]. L'[avijja|ignorance], lorsqu'elle est complète, alimente la [tanha|Soif] d'[bhava|Existence]. Ainsi, la [tanha|Soif] d'[bhava|Existence] a une [ahara|alimentation], et voici comment elle se complète."
+    },
+    {
+      "pl": "“vijjāvimuttimpāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro vijjāvimuttiyā? ‘satta bojjhaṅgā’tissa vacanīyaṃ.",
+      "fr": "[bhikkhu|Mendiants], je dis que la [vijja|véritable connaissance] et [vimutti|libération] ont une [ahara|alimentation], qu'elles ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de la [vijja|véritable connaissance] et [vimutti|libération]? Il faudrait dire: [i]“les sept [bojjhanga|facteurs d'Éveil]”[/i]."
+    },
+    {
+      "pl": "sattapāhaṃ, bhikkhave, bojjhaṅge sāhāre vadāmi, no anāhāre. ko cāhāro sattannaṃ bojjhaṅgānaṃ? ‘cattāro satipaṭṭhānā’tissa vacanīyaṃ.",
+      "fr": "Je dis que les sept [bojjhanga|facteurs d'Éveil] ont une [ahara|alimentation], qu'ils ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] des sept [bojjhanga|facteurs d'Éveil]? Il faudrait dire: [i]“les quatre [satipatthana|mises en place de la présence d'esprit]”[/i]."
+    },
+    {
+      "pl": "cattāropāhaṃ, bhikkhave, satipaṭṭhāne sāhāre vadāmi, no anāhāre. ko cāhāro catunnaṃ satipaṭṭhānānaṃ? ‘tīṇi sucaritānī’tissa vacanīyaṃ.",
+      "fr": "Je dis que les quatre [satipatthana|mises en place de la présence d'esprit] ont une [ahara|alimentation], qu'elles ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] des quatre [satipatthana|mises en place de la présence d'esprit]? Il faudrait dire: [i]“les trois [sucarita|bonnes conduites]”[/i]."
+    },
+    {
+      "pl": "tīṇipāhaṃ, bhikkhave, sucaritāni sāhārāni vadāmi, no anāhārāni. ko cāhāro tiṇṇaṃ sucaritānaṃ? ‘indriyasaṃvaro’tissa vacanīyaṃ.",
+      "fr": "Je dis que les trois [sucarita|bonnes conduites] ont une [ahara|alimentation], qu'elles ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] des trois [sucarita|bonnes conduites]? Il faudrait dire: [i]“la [samvara|restreinte] des [indriya|sens]”[/i]."
+    },
+    {
+      "pl": "indriyasaṃvarampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro indriyasaṃvarassa? ‘satisampajaññan’tissa vacanīyaṃ.",
+      "fr": "Je dis que la [samvara|restreinte] des [indriya|sens] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de la [samvara|restreinte] des [indriya|sens]? Il faudrait dire: [i]“la [satisampajanna|présence d'esprit et le discernement attentif]”[/i]."
+    },
+    {
+      "pl": "satisampajaññampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro satisampajaññassa? ‘yonisomanasikāro’tissa vacanīyaṃ.",
+      "fr": "Je dis que la [satisampajanna|présence d'esprit et le discernement attentif] ont une [ahara|alimentation], qu'ils ne sont pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de la présence d'esprit et du discernement attentif? Il faudrait dire: [i]“l'[yonisomanasikara|attention judicieuse]”[/i]."
+    },
+    {
+      "pl": "yonisomanasikārampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro yonisomanasikārassa? ‘saddhā’tissa vacanīyaṃ.",
+      "fr": "Je dis que l'[yonisomanasikara|attention judicieuse] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de l'[yonisomanasikara|attention judicieuse]? Il faudrait dire: [i]“la [saddha|conviction]”[/i]."
+    },
+    {
+      "pl": "saddhampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro saddhāya? ‘saddhammassavanan’tissa vacanīyaṃ.",
+      "fr": "Je dis que la [saddha|conviction] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de la [saddha|conviction]? Il faudrait dire: [i]“l'[saddhammassavana|écoute du Dhamma authentique]”[/i]."
+    },
+    {
+      "pl": "saddhammassavanampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro saddhammassavanassa? ‘sappurisasaṃsevo’tissa vacanīyaṃ.",
+      "fr": "Je dis que l'[saddhammassavana|écoute du Dhamma authentique] a une [ahara|alimentation], qu'elle n'est pas sans [ahara|alimentation]. Et quelle est l'[ahara|alimentation] de l'[saddhammassavana|écoute du Dhamma authentique]? Il faudrait dire: [i]“l'association avec les [sappurisa|hommes de bien]”[/i]."
+    },
+    {
+      "pl": "“iti kho, bhikkhave, sappurisasaṃsevo paripūro saddhammassavanaṃ paripūreti, saddhammassavanaṃ paripūraṃ saddhaṃ paripūreti, saddhā paripūrā yonisomanasikāraṃ paripūreti, yonisomanasikāro paripūro satisampajaññaṃ paripūreti, satisampajaññaṃ paripūraṃ indriyasaṃvaraṃ paripūreti, indriyasaṃvaro paripūro tīṇi sucaritāni paripūreti, tīṇi sucaritāni paripūrāni cattāro satipaṭṭhāne paripūrenti, cattāro satipaṭṭhānā paripūrā satta bojjhaṅge paripūrenti, satta bojjhaṅgā paripūrā vijjāvimuttiṃ paripūrenti; evametissā vijjāvimuttiyā āhāro hoti, evañca pāripūri.",
+      "fr": "Ainsi, mendiants, l'association avec les[sappurisa|hommes de bien], lorsqu'elle est complète, alimente l'[saddhammassavana|écoute du Dhamma authentique]. L'[saddhammassavana|écoute du Dhamma authentique], lorsqu'elle est complète, alimente la [saddha|conviction]. La [saddha|conviction], lorsqu'elle est complète, alimente l'[yonisomanasikara|attention judicieuse]. L'[yonisomanasikara|attention judicieuse], lorsqu'elle est complète, alimente la [satisampajanna|présence d'esprit et le discernement attentif]. La [satisampajanna|présence d'esprit et le discernement attentif], lorsqu'ils sont complets, alimentent la [samvara|restreinte] des [indriya|sens]. La [samvara|restreinte] des [indriya|sens], lorsqu'elle est complète, alimente les trois [sucarita|bonnes conduites]. Les trois [sucarita|bonnes conduites], lorsqu'elles sont complètes, alimentent les quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit], lorsqu'elles sont complètes, alimentent les sept [bojjhanga|facteurs d'Éveil]. Les sept [bojjhanga|facteurs d'Éveil], lorsqu'ils sont complets, alimentent la [vijja|véritable connaissance] et [vimutti|libération]. Ainsi, la [vijja|véritable connaissance] et [vimutti|libération] a une [ahara|alimentation], et voici comment elle se complète."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti, pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti, kusobbhā paripūrā mahāsobbhe paripūrenti, mahāsobbhā paripūrā kunnadiyo paripūrenti, kunnadiyo paripūrā mahānadiyo paripūrenti, mahānadiyo paripūrā mahāsamuddaṃ sāgaraṃ paripūrenti; evametassa mahāsamuddassa sāgarassa āhāro hoti, evañca pāripūri.",
+      "fr": "Tout comme, [bhikkhu|mendiants], lorsqu'un nuage fait tomber de la pluie en grosses gouttes au sommet d'une montagne, cette eau s'écoule et remplitles grottes, les crevasses et les pans de montagne qui se trouvent en contrebas; une fois les grottes, les crevasses et les pans de montagne remplis, ils remplissent les bassins; une fois les bassins remplis, ils remplissent les lacs; une fois les lacs remplis, ils remplissent les rivières; une fois les rivières remplies, elles remplissent les fleuves; et une fois les fleuves remplis, ils remplissent l'océan. Ainsi, l'océan a une [ahara|alimentation], et voici comment il se complète."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, sappurisasaṃsevo paripūro saddhammassavanaṃ paripūreti, saddhammassavanaṃ paripūraṃ saddhaṃ paripūreti, saddhā paripūrā yonisomanasikāraṃ paripūreti, yonisomanasikāro paripūro satisampajaññaṃ paripūreti, satisampajaññaṃ paripūraṃ indriyasaṃvaraṃ paripūreti, indriyasaṃvaro paripūro tīṇi sucaritāni paripūreti, tīṇi sucaritāni paripūrāni cattāro satipaṭṭhāne paripūrenti, cattāro satipaṭṭhānā paripūrā satta bojjhaṅge paripūrenti, satta bojjhaṅgā paripūrā vijjāvimuttiṃ paripūrenti; evametissā vijjāvimuttiyā āhāro hoti, evañca pāripūrī”ti.",
+      "fr": "De la même manière, [bhikkhu|mendiants], l'association avec les[sappurisa|hommes de bien], lorsqu'elle est complète, alimente l'[saddhammassavana|écoute du Dhamma authentique]. L'[saddhammassavana|écoute du Dhamma authentique], lorsqu'elle est complète, alimente la [saddha|conviction]. La [saddha|conviction], lorsqu'elle est complète, alimente l'[yonisomanasikara|attention judicieuse]. L'[yonisomanasikara|attention judicieuse], lorsqu'elle est complète, alimente la [satisampajanna|présence d'esprit et le discernement attentif]. La [satisampajanna|présence d'esprit et le discernement attentif], lorsqu'ils sont complets, alimentent la [samvara|restreinte] des [indriya|sens]. La [samvara|restreinte] des [indriya|sens], lorsqu'elle est complète, alimente les trois [sucarita|bonnes conduites]. Les trois [sucarita|bonnes conduites], lorsqu'elles sont complètes, alimentent les quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit], lorsqu'elles sont complètes, alimentent les sept [bojjhanga|facteurs d'Éveil]. Les sept [bojjhanga|facteurs d'Éveil], lorsqu'ils sont complets, alimentent la [vijja|véritable connaissance] et [vimutti|libération]. Ainsi, la [vijja|véritable connaissance] et [vimutti|libération] a une [ahara|alimentation], et voici comment elle se complète."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "tanha",
+    "bhava",
+    "ahara",
+    "i]“l'[avijja",
+    "avijja",
+    "nivarana",
+    "duccarita",
+    "samvara",
+    "indriya",
+    "satisampajanna",
+    "i]“l'[ayonisomanasikara",
+    "ayonisomanasikara",
+    "saddha",
+    "saddhammassavana",
+    "asappurisa",
+    "vijja",
+    "vimutti",
+    "bojjhanga",
+    "satipatthana",
+    "sucarita",
+    "i]“l'[yonisomanasikara",
+    "yonisomanasikara",
+    "i]“l'[saddhammassavana",
+    "sappurisa"
+  ],
+  "translator": "Sekha"
+}

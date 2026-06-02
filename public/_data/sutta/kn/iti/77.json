@@ -1,0 +1,41 @@
+{
+  "identifier": "Iti 77",
+  "plTitle": "Bhidura Sutta",
+  "frTitle": "Périssable",
+  "description": "Le Bouddha rappelle des vérités que nous avons trop facilement tendance à oublier.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“bhidurāyaṃ, bhikkhave, kāyo, viññāṇaṃ virāgadhammaṃ, sabbe upadhī aniccā dukkhā vipariṇāmadhammā””ti.",
+      "fr": "«[bhikkhu|Mendiants], ce [kaya|corps] est périssable, la [vinnana|Conscience] est [dhamma|par nature vouée] à la [viraga|disparition], toutes les acquisitions sont [anicca|impermanentes], [dukkha|insatisfaisantes], [dhamma|par nature vouées] au [viparinama|changement].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“kāyañca bhiduraṃ ñatvā, viññāṇañca virāgikaṃ. upadhīsu bhayaṃ disvā, jātimaraṇamaccagā. sampatvā paramaṃ santiṃ, kālaṃ kaṅkhati bhāvitatto””ti. ",
+      "fr": "Ayant compris que le corps est périssable,Et que la Conscience est vouée à la disparition,Ayant vu le danger dans les acquisitions,Il a surpassé la naissance et la mort.Ayant atteint le calme suprême,Il attend son heure, serein."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "bhikkhu",
+    "kaya",
+    "vinnana",
+    "dhamma",
+    "viraga",
+    "anicca",
+    "dukkha",
+    "viparinama"
+  ],
+  "translator": "Sekha"
+}

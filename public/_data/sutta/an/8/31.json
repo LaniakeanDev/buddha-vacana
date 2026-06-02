@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 8.31",
+  "plTitle": "Dāna Sutta",
+  "frTitle": "Le don",
+  "description": "Huit manières de faire un don.",
+  "body": [
+    {
+      "pl": "“aṭṭhimāni, bhikkhave, dānāni. katamāni aṭṭha? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces huit manières de faire un [dana|don]. Quelles sont ces huit manières?"
+    },
+    {
+      "pl": "āsajja dānaṃ deti, bhayā dānaṃ deti, ‘adāsi me’ti dānaṃ deti, ‘dassati me’ti dānaṃ deti, ‘sāhu dānan’ti dānaṃ deti, ‘ahaṃ pacāmi, ime na pacanti; nārahāmi pacanto apacantānaṃ dānaṃ adātun’ti dānaṃ deti, ‘imaṃ me dānaṃ dadato kalyāṇo kittisaddo abbhuggacchatī’ti dānaṃ deti, cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti.",
+      "fr": "On fait un [dana|don] en ayant insulté; on fait un [dana|don] par peur; on fait un [dana|don] [en se disant:] [i]“il m'a donné [auparavant]”[/i]; on fait un [dana|don] [en se disant:] [i]“il me donnera [plus tard]”[/i]; on fait un [dana|don] [en se disant:] [i]“il est bon de donner”[/i]; on fait un [dana|don] [en se disant:] [i]“je cuisine, ceux-ci ne cuisinent pas; il n'est pas correct de cuisiner sans donner à ceux qui ne cuisinent pas”[/i]; on fait un [dana|don] [en se disant:] [i]“si je fais ce don, j'aurai bonne réputation”[/i]; on fait un [dana|don] dans le but d'orner et garnir l'[citta|esprit]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, aṭṭha dānānī”ti.",
+      "fr": "Voici, mendiants, quelles sont ces huit manières de faire un [dana|don]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dana", "citta"],
+  "translator": "Sekha"
+}

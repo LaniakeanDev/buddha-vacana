@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 3.10",
+  "plTitle": "Mala Sutta",
+  "frTitle": "Souillures",
+  "description": "Trois choses qu'il suffit d'abandonner pour aller dans un paradis.",
+  "body": [
+    {
+      "pl": "“tīhi, bhikkhave, dhammehi samannāgato tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye. katamehi tīhi? dussīlo ca hoti, dussīlyamalañcassa appahīnaṃ hoti; issukī ca hoti, issāmalañcassa appahīnaṃ hoti; maccharī ca hoti, maccheramalañcassa appahīnaṃ hoti. imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|traits], qui n'a pas abandonné trois souillures, va en [niraya|enfer] comme s'il y était emmené et déposé. Quels sont ces trois? Il manque de [sila|vertu] et n'a pas abandonné la souillure du manque de [sila|vertu]. Il est jaloux et n'a pas abandonné la souillure de la jalousie. Il est avare et n'a pas abandonné la souillure de l'avarice. [bhikkhu|Mendiants], celui qui est pourvu de ces trois [dhamma|traits], qui n'a pas abandonné ces trois souillures, va en [niraya|enfer] comme s'il y était emmené et déposé."
+    },
+    {
+      "pl": "“tīhi, bhikkhave, dhammehi samannāgato tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge. katamehi tīhi? sīlavā ca hoti, dussīlyamalañcassa pahīnaṃ hoti; anissukī ca hoti, issāmalañcassa pahīnaṃ hoti; amaccharī ca hoti, maccheramalañcassa pahīnaṃ hoti. imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge”ti.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de trois [dhamma|traits], qui a abandonné trois souillures, va au [sagga|paradis] comme s'il y était emmené et déposé. Quels sont ces trois? Il est [sila|vertueux] et a abandonné la souillure du manque de [sila|vertu]. Il est sans jalousie et a abandonné la souillure de la jalousie. Il est sans avarice et a abandonné la souillure de l'avarice. [bhikkhu|Mendiants], celui qui est pourvu de ces trois [dhamma|traits], qui a abandonné ces trois souillures, va au [sagga|paradis] comme s'il y était emmené et déposé."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "niraya", "sila", "sagga"],
+  "translator": "Rémy"
+}

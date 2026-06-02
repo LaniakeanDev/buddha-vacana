@@ -1,0 +1,278 @@
+{
+  "id": "avihimsa",
+  "title": "avihiṃsā",
+  "breakdown": "[[4@m_a|a]+[vihimsa|vihiṃsā]],",
+  "translation": ["(volonté de) non-nuisance (même involontaire)."],
+  "body": [
+    {
+      "p": [
+        "Le terme n'est pas défini explicitement dans les souttas. Il semble qu'il se soit agit d'un concept bien connu à l'époque qui ne requérait pas d'explications particulières. On peut le voir comme un principe sous-jacent à [sammavaca|sammā·vācā], [sammakammanta|sammā·kammanta] et [sammaajiva|sammā·ājīva].",
+        "[i]Avihiṃsā[/i] apparaît principalement dans le composé [i]avihiṃsā[/i]·[sankappa|saṅkappa], l'un des trois constituants de [sammasankappa|sammā·saṅkappa], qui sont également appelés [kusala|kusalā] [sankappa|saṅkappā] à [@$MN 78]. Alternativement, le terme apparaît également dans le composé [i]avihiṃsā[/i]·[vitakka|vitakka], qui semble être synonyme d'[i]avihiṃsā[/i]·[sankappa|saṅkappa]. Voir également cet [http://blog.buddha-vacana.org/why-avihimsa-sankappa-is-not-included-in-abyapada-sankappa/|article de blog] soutenant que, puisqu'[i]avihiṃsā[/i] est séparé d'[abyapada|a·byāpāda] dans ces deux listes, le mot fait probablement référence spécifiquement aux cas où l'on porte préjudice à l'autre sans malveillance.",
+        "Dans plusieurs souttas (e.g. MN 114, AN 5.200), deux des trois [dhamma|dhamma]s mentionnés dans [sammasankappa|sammā·saṅkappa] apparaissent dans le même ordre, et [i]avihiṃsā[/i] est remplacé en tant que troisième item par [i]avihesā (absence de préjudice)[/i]. Un autre synonyme est [i]ahimsā (inoffensivité):[/i]"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.45]",
+        "text": [
+          {
+            "pl": "sabbhi dānaṃ upaññattaṃ, [b]ahiṃsā[/b] saṃyamo damo.",
+            "fr": "Les sages invitent au don, [b]à l'inoffensivité[/b], à la restreinte, à la maîtrise de soi"
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 10.4[/b]",
+        "text": [
+          {
+            "pl": "“yassa sabbamahorattaṃ, [b]ahiṃsāya[/b] rato mano mettaṃ so sabbabhūtesu, veraṃ tassa na kenacī”ti.",
+            "fr": "Celui dont l'esprit se plaît à l'[b]inoffensivité[/b] tout le jour et la nuit, qui a de la bienveillance envers tous les êtres vivants, n'a d'hostilité envers personne."
+          }
+        ]
+      }
+    },
+    { "p": ["L'inoffensivité [i](ahiṃsā)[/i] est aussi synonyme de noblesse:"] },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 270]",
+        "text": [
+          {
+            "pl": "na tena ariyo hoti, yena pāṇāni hiṃsati. [b]ahiṃsā[/b] sabbapāṇānaṃ, “ariyo”ti pavuccati.",
+            "fr": "Celui qui nuit aux autres êtres n'est pas appelé un être noble à cause de cela. Celui qui est [b]inoffensif[/b] envers tous les êtres est appelé [i]«un noble»[/i]. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans le Dhātu·vibhaṅga de l'Abhidhamma, il est dit que [karuna|karuṇa] est inhérente à [i]avihiṃsā[/i]·[dhatu|dhātu]: [i]«yā sattesu karuṇā karuṇāyanā karuṇāyitattaṃ karuṇācetovimutti, ayaṃ vuccati “avihiṃsādhātu”»[/i]. Cette déclaration a des échos dans diverses parties du Sutta Piṭaka, comme par exemple dans le Dhammapada:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 129 & 130]",
+        "text": [
+          {
+            "pl": "129. sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno.attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+            "fr": "129. Tous sont effrayés par le bâton, tous ont peur de la mort.En te comparant toi-même [à eux], ne tue pas et ne fais pas tuer."
+          },
+          {
+            "pl": "130. sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ.attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+            "fr": "130. Tous sont effrayés par le bâton, tous tiennent chèrement à leur vie.En te comparant toi-même [à eux], ne tue pas et ne fais pas tuer."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À AN 2.168, [i]avihiṃsā[/i] est juxtaposé à [i]soceyya (pureté/purification)[/i]. À Sn 294, le mot est juxtaposé à [i]maddava (douceur), soracca (gentillesse)[/i] et [i]khanti (patience/tolérance)[/i]. Les deux premiers de ces trois mots trouvent un écho dans des expressions telles que celle qui définit [pharusavaca|pharusa·vāca] veramaṇī (le fait de s'abstenir des paroles acerbes):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.176]",
+        "text": [
+          {
+            "pl": "yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā, tathārūpiṃ vācaṃ bhāsitā hoti.",
+            "fr": "il prononce des paroles qui sont agréables à entendre, aimables, qui touchent le cœur, qui sont polies, désirées par la multitude, agréables pour la multitude."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[i]Khanti (patience/tolérance)[/i] est le mot qui est le plus souvent juxtaposé à [i]avihiṃsā[/i], un lien qui apparaît souvent, comme c'est par exemple le cas dans l'allégorie de la scie:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]MN 21[/b]",
+        "text": [
+          {
+            "pl": "“ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṃ, tatrāpi yo mano padūseyya, na me so tena sāsanakaro. tatrāpi vo, bhikkhave, evaṃ sikkhitabbaṃ: ‘na ceva no cittaṃ vipariṇataṃ bhavissati, na ca pāpikaṃ vācaṃ nicchāressāma, hitānukampī ca viharissāma mettacittā na dosantarā. tañca puggalaṃ mettāsahagatena cetasā pharitvā viharissāma tadārammaṇañca sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. evañhi vo, bhikkhave, sikkhitabbaṃ.",
+            "fr": "Mendiants, même si des bandits vous découpaient sauvagement, membre par membre, avec une scie à deux manches, celui d'entre vous qui laisserait son esprit être envahi par la colère ne suivrait pas mon enseignement. Même dans un tel moment, vous devriez vous en entraîner [en vous disant:] [i]«Notre esprit ne sera pas affecté, nous ne prononcerons pas de mauvaises paroles, nous resterons remplis de sollicitude, avec un esprit bienveillant, sans haine intérieure. Nous resterons à imprégner ces individus d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance.»[/i] Voici, mendiants, comment vous devriez vous entraîner."
+          },
+          {
+            "pl": "“imañca tumhe, bhikkhave, kakacūpamaṃ ovādaṃ abhikkhaṇaṃ manasi kareyyātha. passatha no tumhe, bhikkhave, taṃ vacanapathaṃ, aṇuṃ vā thūlaṃ vā, yaṃ tumhe nādhivāseyyāthā”ti?",
+            "fr": "Mendiants, si vous portez votre attention constamment à cette allégorie de la scie, voyez-vous une quelconque parole, bénigne ou grave, que vous ne puissiez endurer?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." }
+        ]
+      }
+    },
+    { "p": ["On trouve un autre exemple frappant dans le [@$sn35-088|Puṇṇa Sutta]:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 35.88]",
+        "text": [
+          { "pl": "—“sace pan... daṇḍena pahāraṃ dassanti...?", "fr": "—Mais s'ils te frappent avec un bâton...?" },
+          {
+            "pl": "—...tatra me evaṃ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṃ me nayime satthena pahāraṃ dentī’ti...",
+            "fr": "—...je penserai: 'Ces Sounaparantas sont civilisés, très civilisés, en ce qu'ils ne me frappent pas avec un couteau'..."
+          },
+          {
+            "pl": "—“sace pana te... satthena pahāraṃ dassanti...?",
+            "fr": "—Mais s'ils te frappent avec un couteau...?"
+          },
+          {
+            "pl": "—...tatra me evaṃ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṃ maṃ nayime tiṇhena satthena jīvitā voropentī’ti...",
+            "fr": "—...je penserai: 'Ces Sounaparantas sont civilisés, très civilisés, en ce qu'ils ne m'ôtent pas la vie avec un couteau aiguisé'..."
+          },
+          {
+            "pl": "—“sace pana taṃ... tiṇhena satthena jīvitā voropessanti...?",
+            "fr": "—Mais s'ils t'ôtent la vie avec un couteau aiguisé...?"
+          },
+          {
+            "pl": "—...tatra me evaṃ bhavissati: ‘santi kho tassa bhagavato sāvakā kāyena ca jīvitena ca aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṃ pariyesanti, taṃ me idaṃ apariyiṭṭhaññeva satthahārakaṃ laddhan’ti. evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti.",
+            "fr": "—S'ils m'ôtent la vie avec un couteau aiguisé, je penserai: 'Il y a des disciples du Fortuné qui, horrifiés, humiliés et dégoûtés par le corps et par la vie, ont recherché un assassin, mais j'ai trouvé un assassin sans le rechercher. Voici ce que je penserai, ô Fortuné. C'est ce que je penserai, ô Sublime."
+          },
+          {
+            "pl": "—“sādhu sādhu, puṇṇa! sakkhissasi kho tvaṃ, puṇṇa, iminā damūpasamena samannāgato sunāparantasmiṃ janapade vatthuṃ. yassa dāni tvaṃ, puṇṇa, kālaṃ maññasī”ti.",
+            "fr": "—Excellent, Pounna, excellent. Puisque tu es en possession d'un tel calme et d'un tel contrôle de toi, tu es capable de résider parmi les Sounaparantas. Maintenant, il temps que tu fasses ce que tu penses être approprié."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le Sedaka Sutta juxtapose également [i]metta·cittatā (fait d'avoir un esprit bienfaisant)[/i] et [i]anudayatā (sympathie)[/i] à [i]avihiṃsā:[/i]"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 47.19]",
+        "text": [
+          {
+            "pl": "kathañca, bhikkhave, paraṃ rakkhanto attānaṃ rakkhati? [b]khantiyā, avihiṃsāya, mettacittatāya, anudayatāya[/b]. evaṃ kho, bhikkhave, paraṃ rakkhanto attānaṃ rakkhati.",
+            "fr": "Et comment se protège-t-on soi-même en protégeant les autres? Par la [b]patience, par la non-nuisance, par la bienveillance et par la sympathie[/b]. Voici comment on se protège soi-même en protégeant les autres. "
+          }
+        ]
+      }
+    },
+    { "p": ["Le Sanidāna Sutta explique comment [i]avihiṃsā[/i] apparaît et mène à des actions avantageuses:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 14.12]",
+        "text": [
+          {
+            "pl": "“avihiṃsādhātuṃ, bhikkhave, paṭicca uppajjati avihiṃsāsaññā, avihiṃsāsaññaṃ paṭicca uppajjati avihiṃsāsaṅkappo, avihiṃsāsaṅkappaṃ paṭicca uppajjati avihiṃsāchando, avihiṃsāchandaṃ paṭicca uppajjati avihiṃsāpariḷāho, avihiṃsāpariḷāhaṃ paṭicca uppajjati avihiṃsāpariyesanā; avihiṃsāpariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati kāyena, vācāya, manasā.",
+            "fr": "Sur la base de l'élément de non nuisance, mendiants, apparaît une perception de non nuisance, sur la base d'une perception de non nuisance apparaît une intention de non nuisance, sur la base d'une intention de non nuisance apparaît un désir de non nuisance; sur la base d'un désir de non nuisance apparaît une ardeur de non nuisance; sur la base d'une ardeur de non nuisance apparaît une quête de non nuisance. Au titre d'une quête de non nuisance, mendiants, un noble disciple instruit se conduit correctement de trois manières: en corps, en parole et en esprit."
+          }
+        ]
+      }
+    },
+    { "p": ["Pratiquer la non-nuisance, c'est se comporter comme une abeille sur une fleur:"] },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 49]",
+        "text": [
+          {
+            "pl": "yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ, paleti rasamādāya, evaṃ gāme munī care.",
+            "fr": "Tout comme l'abeille quitte la fleur sans endommager sa couleur ni son odeur, une fois qu'elle en a bu le nectar,ainsi le sage doit-il traverser le village."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Manquer à la pratique d'[i]avihiṃsā[/i] est abondamment décrit comme quelque chose qui a des conséquences déplaisantes:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 133]",
+        "text": [
+          {
+            "pl": "māvoca pharusaṃ kañci, vuttā paṭivadeyyu taṃdukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ.",
+            "fr": "Ne parle pas durement à qui que ce soit.Ceux à qui on parle ainsi rétorquent.La parole coléreuse est douloureuse,et un châtiment pourrait s'ensuivre."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 137-140]",
+        "text": [
+          {
+            "pl": "yo daṇḍena adaṇḍesu, appaduṭṭhesu dussati dasannamaññataraṃ ṭhānaṃ, khippameva nigacchati:vedanaṃ pharusaṃ jāniṃ, sarīrassa ca bhedanaṃ.garukaṃ vāpi ābādhaṃ, cittakkhepañca pāpuṇe.rājato vā upasaggaṃ, abbhakkhānañca dāruṇaṃ.parikkhayañca ñātīnaṃ, bhogānañca pabhaṅguraṃ.atha vāssa agārāni, aggi ḍahati pāvako.kāyassa bhedā duppañño, nirayaṃ sopapajjati.",
+            "fr": " Celui qui assaille avec une arme ceux qui sont innocents et inoffensifs en vient rapidement à l'un de ces dix états:il ressentira une douleur intense,il perdra ses biens, il sera blessé dans son corps,il sera sérieusement malade,ou mentalement dérangé.Il sera pris à parti par le roi,ou sera l'objet d'accusations cruelles. Il perdra ses proches,sa richesse sera détruite.Sa maison sera détruitepar le feu ou par la foudre. Lors de la dissolution du corps (la mort),il renaîtra en enfer."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 3.15]",
+        "text": [
+          {
+            "pl": "“vilumpateva puriso, yāvassa upakappati.yadā caññe vilumpanti, so vilutto viluppati.",
+            "fr": "Un homme peut pillertant que cela sert à ses fins,mais lorsque les autres sont pillés,celui qui a pillé est pillé à son tour."
+          },
+          {
+            "pl": "“ṭhānañhi maññati bālo, yāva pāpaṃ na paccati.yadā ca paccati pāpaṃ, atha dukkhaṃ nigacchati.",
+            "fr": "Un ignare pense: 'La chance me sourit'tant que son mal n'a pas porté de fruits.Mais au moment où il porte ses fruits,l'ignare subit le mal-être."
+          },
+          {
+            "pl": "“hantā labhati hantāraṃ, jetāraṃ labhate jayaṃ.akkosako ca akkosaṃ, rosetārañca rosako.atha kammavivaṭṭena, so vilutto viluppatī”ti.",
+            "fr": "En tuant, tu gagnes celui qui te tuera.En conquérant, tu gagnes celui qui te conquerra.En maltraitant, tu gagnes celui qui te maltraitera.En insultant, tu gagnes celui qui t'insultera. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Abandonner la non-inoffensivité et adopter [i]avihiṃsā[/i] prévient l'apparition des mauvaises expériences et cause l'apparition d'expériences agréables dans le futur:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 131-132], [@$Ud 2.3]",
+        "text": [
+          {
+            "pl": "sukhakāmāni bhūtāni, yo daṇḍena vihiṃsati.attano sukhamesāno, pecca so na labhate sukhaṃ.",
+            "fr": "Celui qui, aspirant au bien-être,attaque avec un bâtonles êtres qui désirent le bien-être,n'obtiendra pas le bien-être après la mort."
+          },
+          {
+            "pl": "sukhakāmāni bhūtāni, yo daṇḍena na hiṃsati.attano sukhamesāno, pecca so labhate sukhaṃ.",
+            "fr": "Celui qui, aspirant au bien-être,n'attaque pas avec un bâtonles êtres qui désirent le bien-être,obtiendra le bien-être après la mort. "
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]MN 135[/b]",
+        "text": [
+          {
+            "pl": "“idha, māṇava, ekacco itthī vā puriso vā sattānaṃ viheṭhakajātiko hoti, pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā. so tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. no ce kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati bavhābādho hoti. bavhābādhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ sattānaṃ viheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā.",
+            "fr": "En cela, jeune homme, une certaine femme ou un certain homme a l'habitude de s'attaquer aux êtres vivants avec la main, avec des pierres, avec un bâton ou avec une épée. Ayant entrepris et accompli de telles actions, lors de la dissolution du corps, après la mort, il réapparaît dans une existence infortunée, une mauvaise destination, un monde inférieur ou en enfer. Ou si, lors de la dissolution du corps, après la mort, il ne réapparaît pas dans une existence infortunée, une mauvaise destination, un monde inférieur ni en enfer, mais revient à l'état humain, il est maladif où qu'il réapparaisse. Ceci est la voie menant à être maladif: avoir l'habitude de s'attaquer aux êtres vivants avec la main, avec des pierres, avec un bâton ou avec une épée."
+          },
+          {
+            "pl": "“idha pana, māṇava, ekacco itthī vā puriso vā sattānaṃ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā. so tena kammena evaṃ samattena evaṃ samādinnena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. no ce kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati, sace manussattaṃ āgacchati yattha yattha paccājāyati appābādho hoti. appābādhasaṃvattanikā esā, māṇava, paṭipadā yadidaṃ sattānaṃ aviheṭhakajātiko hoti pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā.",
+            "fr": "Ou bien, jeune homme, une certaine femme ou un certain homme a l'habitude de ne pas s'attaquer aux êtres vivants avec la main, avec des pierres, avec un bâton ni avec une épée. Ayant entrepris et accompli de telles actions, lors de la dissolution du corps, après la mort, il réapparaît dans une bonne destination, dans un monde paradisiaque. Ou si, lors de la dissolution du corps, après la mort, il ne réapparaît pas dans une bonne destination, dans un monde paradisiaque, mais revient à l'état humain, il est en bonne santé où qu'il réapparaisse. Ceci est la voie menant à être bonne santé: avoir l'habitude de ne pas s'attaquer aux êtres vivants avec la main, avec des pierres, avec un bâton ou avec une épée."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 300]",
+        "text": [
+          {
+            "pl": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā.yesaṃ divā ca ratto ca, ahiṃsāya rato mano.",
+            "fr": "Les disciples de Gotama dont l'esprit se plaît à la non-nuisance de jour comme de nuit se réveillent toujours bien."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dharmacāri Nāgapriya écrit: “Le vocabulaire du Bouddhisme originel comporte une catégorie de mots importante qui, tout en dénotant des qualités hautement positives, prennent grammaticalement une forme négative. Avihiṃsa en est un exemple majeur. Traduire le terme par 'non-violence' ne reflète pas la nuance positive de la qualité à laquelle il est fait référence. Cependant, il vaut la peine de regarder la qualité en question à la fois d'un point de vue négatif et d'un point de vue positif afin de mettre plus clairement en lumière sa nature. Pour commencer - et en termes négatifs - avihiṃsa peut être compris comme une application du principe général du renoncement: le saint renonce à toute violence, qu'elle soit physique, verbale ou émotionnelle: [i]«quiconque dans ce monde porte atteinte à une créature vivante, qu'elle soit née-une-fois ou née-deux-fois, quiconque n'a pas de compassion envers une créature vivante, devrait être considéré comme un hors-caste»[/i].” (traduction approximative, Sn.117)",
+        "Il abandonne toute forme de coercition et abandonne ainsi le 'mode en force', une manière de ne considérer les autres que purement comme des objets et des moyens d'arriver à sa propre satisfaction, et il adopte à la place le 'mode amour', l'appréciation des autres en tant qu'individus, sujets ayant des ressentis et méritant une considération sensible et du respect. Cela entraîne l'abandon d'une catégorie d'états mentaux négatifs, tels que kodha ou colère (Sn.1), kopa ou mauvaise humeur et rancune (Sn.6), upanāha ou rancœur/inimitié (Sn.116), paccuṭṭapannā ou hostilité (Sn.245), usuyyā ou envie (Sn.245), atipāti ou caractère violent et destructeur (Sn.248), [patigha|paṭigha] (Sn.148), et [dosa|dosa] (Sn.328).",
+        "L'une des caractéristiques particulières du Sutta-Nipāta est le pléthore de différents états mentaux mauvais qu'il identifie. Cela a posé certaines fondations pour le travail subséquent dans l'Abhidhamma. [Mais] les termes utilisés sont fluides et non techniques. En considérant les termes dans leur ensemble, on peut avoir une bonne idée de ce que le saint est censé abandonner. En même temps, il est important d'apprécier la contrepartie positive de ce renoncement à la négativité violente. Cela est exprimé de manière sublime dans le Mettā Sutta: [i]«Tout comme une mère protégerait avec sa propre vie la vie de son fils, de son seul fils, de même il faudrait cultiver un esprit sans limite envers tous les êtres vivants, vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, et rester ainsi à imprégner le monde entier d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance»[/i] (traduction approximative, Sn.149-50)."
+      ]
+    }
+  ]
+}

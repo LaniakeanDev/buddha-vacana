@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 17.25",
+  "plTitle": "Samaṇabrāhmaṇa Sutta",
+  "frTitle": "Les [samana|renonçants] et [brahmana|brahmanes]",
+  "description": "Ce que signifie être un véritable renonçant ou [brahmana|brahmane] en rapport avec les acquisitions, honneurs et renommée.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā lābha-sakkāra-silokassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmantā sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "fr": "Les [samana|renonçants] ou les brahmanes, [bhikkhu|mendiants], qui ne comprennent pas [yathabhutam|tels qu'ils sont réellement] l'[assada|agrément], le [adinava|danger] et l'[nissarana|émancipation] par rapport aux [lsss|acquisitions, honneurs et renommée], ne sont pas pour moi des [samana|renonçants] parmi les [samana|renonçants] ou des brahmanes parmi les brahmanes, et ces vénérables n'entrent pas et ne demeurent pas [ditthevadhamme|sans tarder] dans l'accomplissement du renoncement, dans l'accomplissement du brahmanisme, en l'ayant réalisé pour eux-mêmes par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā lābha-sakkāra-silokassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti, te ca kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī”ti.",
+      "fr": "Mais les [samana|renonçants] ou les brahmanes, [bhikkhu|mendiants], qui comprennent [yathabhutam|tels qu'ils sont réellement] l'[assada|agrément], le [adinava|danger] et l'[nissarana|émancipation] par rapport aux [lsss|acquisitions, honneurs et renommée], sont pour moi des [samana|renonçants] parmi les [samana|renonçants] ou des brahmanes parmi les brahmanes, et ces vénérables entrent et demeurent [ditthevadhamme|sans tarder] dans l'accomplissement du renoncement, dans l'accomplissement du brahmanisme, en l'ayant réalisé pour eux-mêmes par [abhinna|connaissance directe]."
+    }
+  ],
+  "keywords": [
+    "samana",
+    "bhikkhu",
+    "yathabhutam",
+    "assada",
+    "adinava",
+    "nissarana",
+    "lsss",
+    "ditthevadhamme",
+    "abhinna"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "SN 48.14",
+  "plTitle": "Saṃkhitta Sutta",
+  "frTitle": "En résumé",
+  "description": "Les compléter est tout ce qu'on a à faire, et elles constituent une mesure du degré de réalisation.",
+  "body": [
+    {
+      "pl": "Pañc·imāni, bhikkhave, indriyāni. Katamāni pañca? Saddh·indriyaṃ, vīriy·indriyaṃ, sat·indriyaṃ, samādh·indriyaṃ, paññ·indriyaṃ. Imāni kho, bhikkhave, pañc·indriyāni.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [indriya|facultés]. Quelles sont ces cinq? La [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration], et la [indriya|faculté] de [panna|discernement]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [indriya|facultés]."
+    },
+    {
+      "pl": "Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti; tato mudu·tarehi anāgāmī hoti; tato mudu·tarehi sakadāgāmī hoti; tato mudu·tarehi sotāpanno hoti; tato mudu·tarehi dhammānusārī hoti; tato mudu·tarehi saddhānusārī hoti.",
+      "fr": "[bhikkhu|Mendiants], celui qui a complété ces [indriya|facultés] et les a portées à leur complétude est un [arahant|Méritant]. Si elles sont plus faibles que cela, c'est un [anagami|non-retournant]. Si elles sont plus faibles que cela, c'est un [sakadagami|retournant-unique]. Si elles sont plus faibles que cela, c'est un [sotapanna|parvenu-au-courant]. Si elles sont plus faibles que cela, c'est un [dhammanussari|mû-par-le-Dhamma]. Si elles sont plus faibles que cela, c'est un [saddhanussari|mû-par-la-conviction]."
+    },
+    {
+      "pl": "Iti kho, bhikkhave, paripūraṃ paripūrakārī ārādheti, padesaṃ padesakārī ārādheti. ‘Avañjhāni tvevāhaṃ, bhikkhave, pañc·indriyānī’ti vadāmī ti.",
+      "fr": "Ainsi, [bhikkhu|mendiants], celui qui les complète atteint la complétude, celui qui les porte à un degré limité atteint un degré limité. Mais je vous le dis, [bhikkhu|mendiants]: les cinq [indriya|facultés] ne sont pas stériles."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "arahant",
+    "anagami",
+    "sakadagami",
+    "sotapanna",
+    "dhammanussari",
+    "saddhanussari"
+  ],
+  "translator": "Rémy"
+}

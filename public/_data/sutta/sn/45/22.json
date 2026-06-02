@@ -1,0 +1,46 @@
+{
+  "identifier": "SN 45.22",
+  "plTitle": "Akusaladhamma Sutta",
+  "frTitle": "Les étaats mentaux désavantageux",
+  "description": "Le Bouddha explique ce que sont les états mentaux avantageux et désavantageux.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“akusale ca kho, bhikkhave, dhamme desessāmi, kusale ca dhamme. taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce que sont les [dhamma|états mentaux] [akusala|désavantageux], ainsi que les [dhamma|états mentaux] [kusala|avantageux]. Écoutez cela."
+    },
+    {
+      "pl": "katame ca, bhikkhave, akusalā dhammā? seyyathidaṃ: micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi. ime vuccanti, bhikkhave, akusalā dhammā.",
+      "fr": "Et que sont, [bhikkhu|mendiants], les [dhamma|états mentaux] [akusala|désavantageux]? C'est-à-dire: la [ditthi|vue] erronée, l'[sankappa|intention] erronée, la [vaca|parole] erronée, l'action erronée, les [ajiva|moyens de subsistance] erronés, l'[vayama|effort] erroné, la [sati|présence d'esprit] erronée, et la [samadhi|concentration] erronée. [bhikkhu|Mendiants], on appelle ceux-ci les [dhamma|états mentaux] [akusala|désavantageux]."
+    },
+    {
+      "pl": "katame ca, bhikkhave, kusalā dhammā? seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. ime vuccanti, bhikkhave, kusalā dhammā”ti.",
+      "fr": "Et que sont, [bhikkhu|mendiants], les [dhamma|états mentaux] [kusala|avantageux]? C'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]. [bhikkhu|Mendiants], on appelle ceux-ci les [dhamma|états mentaux] [kusala|avantageux]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "akusala",
+    "kusala",
+    "ditthi",
+    "sankappa",
+    "vaca",
+    "ajiva",
+    "vayama",
+    "sati",
+    "samadhi",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,30 @@
+{
+  "identifier": "AN 7.45",
+  "plTitle": "Samādhiparikkhāra Sutta",
+  "frTitle": "Les équipements de la concentration",
+  "description": "Ici les sept premières composantes de la Noble Voie sont considérées comme les équipements de la concentration correcte.",
+  "body": [
+    {
+      "pl": "“sattime, bhikkhave, samādhiparikkhārā. katame satta? sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati. yā kho, bhikkhave, imehi sattahaṅgehi cittassekaggatā parikkhatā, ayaṃ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipī”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces sept [@m_parikkhara|équipements] de la [samadhi|concentration]. Quels sont ces sept? La [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. [bhikkhu|Mendiants], l'[ekaggata|unification] de l'[citta|esprit] équipée de ces sept facteurs est ce qu'on appelle la [ariya|noble] [sammasamadhi|concentration correcte], avec ses [@m_upanisa|supports] et ses [@m_parikkhara|équipements]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "@m_parikkhara",
+    "samadhi",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "ekaggata",
+    "citta",
+    "ariya",
+    "sammasamadhi",
+    "@m_upanisa"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

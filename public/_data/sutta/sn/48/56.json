@@ -1,0 +1,35 @@
+{
+  "identifier": "SN 48.56",
+  "plTitle": "Patiṭṭhita Sutta",
+  "frTitle": "Si elle est établie",
+  "description": "Voici une unique chose qui, si elle est établie, mène au perfectionnement de toutes les cinq facultés spirituelles.",
+  "body": [
+    {
+      "pl": "Ekadhamme patiṭṭhitassa, bhikkhave, bhikkhuno pañcindriyāni bhāvitāni honti subhāvitāni. Katamasmiṃ ekadhamme? Appamāde.",
+      "fr": "[bhikkhu|Mendiants], lorsqu'une [dhamma|chose] est établie chez un [bhikkhu|mendiant], les cinq [indriya|facultés spirituelles] sont développées, et bien développées. Quelle est cette [dhamma|chose]? L'[appamada|assiduité]."
+    },
+    {
+      "pl": "Katamo ca bhikkhave, appamādo? Idha, bhikkhave, bhikkhu cittaṃ rakkhati āsavesu ca sāsavesu ca dhammesu. Tassa cittaṃ rakkhato āsavesu ca sāsavesu ca dhammesu saddhindriyampi bhāvanāpāripūriṃ gacchati, vīriyindriyampi bhāvanāpāripūriṃ gacchati, satindriyampi bhāvanāpāripūriṃ gacchati, samādhindriyampi bhāvanāpāripūriṃ gacchati, paññindriyampi bhāvanāpāripūriṃ gacchati.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[appamada|assiduité]? À cet égard, un [bhikkhu|mendiant] protège son [citta|esprit] des [asava|impuretés mentales] et des [dhamma|états mentaux] qui s'accompagnent d'[asava|impuretés mentales]. Lorsqu'il protège son esprit des [asava|impuretés mentales] et des [dhamma|états mentaux] qui s'accompagnent d'[asava|impuretés mentales], la [indriya|faculté] de [saddha|conviction] va à la complétion de son [bhavana|développement], la [indriya|faculté] d'[viriya|énergie] va à la complétion de son [bhavana|développement], la [indriya|faculté] de [sati|présence d'esprit] va à la complétion de son [bhavana|développement], la [indriya|faculté] de [samadhi|concentration] va à la complétion de son [bhavana|développement], et la [indriya|faculté] de [panna|discernement] va à la culmination de son [bhavana|développement]."
+    },
+    {
+      "pl": "Evampi kho, bhikkhave, ekadhamme patiṭṭhitassa bhikkhuno pañcindriyāni bhāvitāni honti subhāvitānī ti.",
+      "fr": "Voici comment, [bhikkhu|mendiants],lorsqu'une [dhamma|chose] est établie chez un [bhikkhu|mendiant], les cinq [indriya|facultés spirituelles] sont développées, et bien développées."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "indriya",
+    "appamada",
+    "citta",
+    "asava",
+    "saddha",
+    "bhavana",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna"
+  ],
+  "translator": "Rémy"
+}

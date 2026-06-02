@@ -1,0 +1,58 @@
+{
+  "identifier": "AN 6.1",
+  "plTitle": "Āhuneyya Sutta",
+  "frTitle": "Digne de dons",
+  "description": "Une version intéressante de la restreinte des sens, laquelle définit un mendiant digne d'offrandes.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ: ",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "Bhikkhavo ti.[@nl]— Bhadante ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhikkhu|Mendiants]![@nl]— [bhadante|Badhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“chahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa. katamehi chahi?",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de six [dhamma|qualités] est [@f_anussati#anussati-3-cl|digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.] Quelles sont ces six?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "À cet égard, [bhikkhu|mendiants], en voyant une forme visible avec l'œil, un[bhikkhu|mendiant] n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "sotena saddaṃ sutvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "En entendant un son avec l'oreille, il n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "ghānena gandhaṃ ghāyitvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "En sentant une odeur avec le nez, il n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "jivhāya raṃ sāyitvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "En goûtant une saveur avec la langue, il n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "kāyena phoṭṭhabbaṃ phusitvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "En touchant une sensation corporelle avec le corps, il n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "manasā dhammaṃ viññā neva sumano hoti na dummano, upekkhako viharati sato sampajāno.",
+      "fr": "En prenant conscience d'un phénomène mental avec l'esprit, il n'est ni réjoui ni contrarié, il reste [upekkha|équanime], [sata|présent d'esprit], et [sampajana|doué de discernement attentif]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā”ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces six [dhamma|qualités] est [@f_anussati#anussati-3-cl|digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.]"
+    },
+    {
+      "pl": "idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+      "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "dhamma", "@f_anussati#anussati-3-cl", "upekkha", "sato", "sampajana"],
+  "translator": "Rémy"
+}

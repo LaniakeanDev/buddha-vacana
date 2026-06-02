@@ -1,0 +1,40 @@
+{
+  "identifier": "SN 28.4",
+  "plTitle": "Upekkhā Sutta",
+  "frTitle": "Équanimité",
+  "description": "Ananda demande à Saripoutta pourquoi il a l'air en si bonne forme. Ce dernier lui explique qu'il a passé la journée dans le quatrième jhana.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā sāriputto sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho āyasmā sāriputto pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena andhavanaṃ tenupasaṅkami divāvihārāya. andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi. ",
+      "fr": "Un jour, le [ayasma|vénérable] Saripoutta séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce matin-là, le [ayasma|vénérable] Saripoutta s'habilla, emporta son [patta|bol] et ses [civara|robes], et se rendit à Savatthi pour ses aumônes de nourriture. Ayant parcouru Savatthi pour ses aumônes de nourriture, après son repas, de retour de sa [pindapata|quête de nourriture d'aumônes], il se rendit au bois des aveugles pour y passer la journée. Ayant pénétré le bois des aveugles, il s'assit au pied d'un certain arbre pour y passer la journée."
+    },
+    {
+      "pl": "atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yena jetavanaṃ anāthapiṇḍikassa ārāmo tenupasaṅkami. addasā kho āyasmā ānando āyasmantaṃ sāriputtaṃ dūratova āgacchantaṃ. disvāna āyasmantaṃ sāriputtaṃ etadavoca —",
+      "fr": "Le soir venu, le [ayasma|vénérable] Saripoutta sortit de l'[patisallana|isolement] puis se rendit au bois de Jéta, le parc d'Anathapindika. Le [ayasma|vénérable] Ananda vit le [ayasma|vénérable] Saripoutta arriver de loin, et lui dit:"
+    },
+    {
+      "pl": "“vippasannāni kho te, āvuso sāriputta, indriyāni; parisuddho mukhavaṇṇo pariyodāto. katamenāyasmā sāriputto ajja vihārena vihāsī””ti?",
+      "fr": "«Ami Saripoutta, tes [indriya|facultés] sont tranquilles, l'expression de ton visage est claire et pure. Dans quel séjour le [ayasma|vénérable] Saripoutta a-t-il passé la journée?"
+    },
+    {
+      "pl": "“idhāhaṃ, āvuso, sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharāmi. tassa mayhaṃ, āvuso, na evaṃ hoti — ‘ahaṃ catutthaṃ jhānaṃ samāpajjāmī’’ti vā ‘ahaṃ catutthaṃ jhānaṃ samāpanno’’ti vā ‘ahaṃ catutthā jhānā vuṭṭhito’’ti vā””ti.",
+      "fr": "—À cet égard, mon ami, [@f_4jhana#4-cl|abandonnant le bien-être et abandonnant le mal-être, la plaisance et la déplaisance mentales ayant auparavant disparu, je suis entré et j'ai demeuré dans le quatrième jhana, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité.]Pourtant, je ne me suis pas dit [i]“J'atteins le quatrième [jhana|jhana]”[/i], [i]“J'ai atteint le quatrième [jhana|jhana]”[/i], ni [i]“Je suis sorti du quatrième [jhana|jhana]”[/i]."
+    },
+    {
+      "pl": "“tathā hi panāyasmato sāriputtassa dīgharattaṃ ahaṅkāramamaṅkāramānānusayā susamūhatā. tasmā āyasmato sāriputtassa na evaṃ hoti — ‘ahaṃ catutthaṃ jhānaṃ samāpajjāmī’’ti vā ‘ahaṃ catutthaṃ jhānaṃ samāpanno’’ti vā ‘ahaṃ catutthā jhānā vuṭṭhito’’ti vā””ti.",
+      "fr": "—Cela doit être parce que pendant longtemps le [ayasma|vénérable] Saripoutta a bien éliminé les [anusaya|tendances latentes] à fabriquer du [i]“Moi”[/i] et du [i]“Mien”[/i] qu'il ne se dit pas [i]“J'atteins le quatrième [jhana|jhana]”[/i], [i]“J'ai atteint le quatrième [jhana|jhana]”[/i], ni [i]“Je suis sorti du quatrième [jhana|jhana]”[/i]."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "patta",
+    "civara",
+    "pindapata",
+    "patisallana",
+    "indriya",
+    "@f_4jhana#4-cl",
+    "jhana",
+    "anusaya"
+  ],
+  "translator": "Sekha"
+}

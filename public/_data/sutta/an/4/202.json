@@ -1,0 +1,47 @@
+{
+  "identifier": "AN 4.202",
+  "plTitle": "Assaddha Sutta",
+  "frTitle": "Sans conviction",
+  "description": "Une définition de ce qu'est une bonne ou une mauvaise personne (a/sappurisa) par rapport à un ensemble de qualités recoupant quatre des cinq facultés spirituelles.",
+  "body": [
+    {
+      "pl": "“asappurisañca vo, bhikkhave, desessāmi, asappurisena asappurisatarañca; sappurisañca, sappurisena sappurisatarañca. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'est une [asappurisa|mauvaise personne], une personne pire qu'une [asappurisa|mauvaise personne], une [sappurisa|bonne personne] et une personne meilleure qu'une [sappurisa|bonne personne]. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, asappuriso? idha, bhikkhave, ekacco assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. ayaṃ vuccati, bhikkhave, asappuriso.",
+      "fr": "—Et qu'est-ce, [bhikkhu|mendiants], qu'une [asappurisa|mauvaise personne]? À cet égard, [bhikkhu|mendiants], une certaine personne n'a pas de [saddha|conviction], pas de [hiri|honte morale], pas de [ottappa|crainte morale], elle a peu appris, elle est paresseuse, étourdie d'esprit, et elle manque de [panna|discernement]. Voici, [bhikkhu|mendiants], ce qu'on appelle une [asappurisa|mauvaise personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, asappurisena asappurisataro? idha, bhikkhave, ekacco attanā ca assaddho hoti, parañca assaddhiye samādapeti; attanā ca ahiriko hoti, parañca ahirikatāya samādapeti; attanā ca anottappī hoti, parañca anottappe samādapeti; attanā ca appassuto hoti, parañca appassute samādapeti; attanā ca kusīto hoti, parañca kosajje samādapeti; attanā ca muṭṭhassati hoti, parañca muṭṭhassacce samādapeti; attanā ca duppañño hoti, parañca duppaññatāya samādapeti. ayaṃ vuccati, bhikkhave, asappurisena asappurisataro.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une personne pire qu'une [asappurisa|mauvaise personne]? À cet égard, [bhikkhu|mendiants], une certaine personne n'a elle-même pas de [saddha|conviction] et elle incite les autres à ne pas avoir de [saddha|conviction], elle n'a elle-même pas de [hiri|honte morale] et elle incite les autres à ne pas avoir de [hiri|honte morale], elle n'a elle-même pas de [ottappa|crainte morale] et elle incite les autres à ne pas avoir de [ottappa|crainte morale], elle a elle-même peu appris et elle incite les autres à apprendre peu, elle est elle-même paresseuse et elle incite les autres à être paresseux, elle est elle-même étourdie d'esprit et elle incite les autres à être étourdis d'esprit, elle est manque elle-même de [panna|discernement] et elle incite les autres à manquer de [panna|discernement]. Voici, [bhikkhu|mendiants], ce qu'on appelle une personne pire qu'une [asappurisa|mauvaise personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, sappuriso? idha, bhikkhave, ekacco saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. ayaṃ vuccati, bhikkhave, sappuriso.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une [sappurisa|bonne personne]? À cet égard, [bhikkhu|mendiants], une certaine personne a de la [saddha|conviction], de la [hiri|honte morale], de la [ottappa|crainte morale], elle est [@m_bahussuta|très instruit]e, elle est [araddhaviriya|énergique], [sati|présente d'esprit], et elle a du [panna|discernement]. Voici, [bhikkhu|mendiants], ce qu'on appelle une [sappurisa|bonne personne]."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, sappurisena sappurisataro? idha, bhikkhave, ekacco attanā ca saddhāsampanno hoti, parañca saddhāsampadāya samādapeti; attanā ca hirimā hoti, parañca hirimatāya samādapeti; attanā ca ottappī hoti, parañca ottappe samādapeti; attanā ca bahussuto hoti, parañca bāhusacce samādapeti; attanā ca āraddhavīriyo hoti, parañca vīriyārambhe samādapeti; attanā ca upaṭṭhitassati hoti, parañca satiupaṭṭhāne samādapeti; attanā ca paññāsampanno hoti, parañca paññāsampadāya samādapeti. ayaṃ vuccati, bhikkhave, sappurisena sappurisataro”ti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], qu'une personne meilleure qu'une [sappurisa|bonne personne]? À cet égard, [bhikkhu|mendiants], une certaine personne a elle-même de la [saddha|conviction] et elle incite les autres à avoir de la [saddha|conviction], elle a elle-même de la [hiri|honte morale] et elle incite les autres à avoir de la [hiri|honte morale], elle a elle-même de la [ottappa|crainte morale] et elle incite les autres à avoir de la [ottappa|crainte morale], elle a elle-même beaucoup appris et elle incite les autres à apprendre beaucoup, elle est elle-même [araddhaviriya|énergique] et elle incite les autres à être [araddhaviriya|énergiques], elle est elle-même [sati|présente d'esprit] et elle incite les autres à être [sati|présents d'esprit], elle a elle-même du [panna|discernement] et elle incite les autres à avoir du [panna|discernement]. Voici, [bhikkhu|mendiants], ce qu'on appelle une personne meilleure qu'une [sappurisa|bonne personne]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "asappurisa",
+    "sappurisa",
+    "bhante",
+    "bhagava",
+    "saddha",
+    "hiri",
+    "ottappa",
+    "panna",
+    "@m_bahussuta",
+    "araddhaviriya",
+    "sati"
+  ],
+  "translator": "Rémy"
+}

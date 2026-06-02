@@ -1,0 +1,55 @@
+{
+  "identifier": "SN 41.10",
+  "plTitle": "Gilānadassana Sutta- extrait",
+  "frTitle": "La vision du malade",
+  "description": "Tchitta est sur son lit de mort, et ses proches lui demandent de les exhorter une dernière fois.",
+  "body": [
+    {
+      "pl": "tena kho pana samayena citto gahapati ābādhiko hoti dukkhito bāḷhagilāno.",
+      "fr": "Ce jour-là, Tchitta le chef de foyer était en proie à la maladie, souffrant, gravement malade."
+    },
+    {
+      "pl": "…",
+      "fr": "(…)"
+    },
+    {
+      "pl": "“tena hi, ayyaputta, amhepi ovadāhī”ti.",
+      "fr": "«Alors exhortez-nous aussi, Monsieur."
+    },
+    {
+      "pl": "“tasmā hi vo evaṃ sikkhitabbaṃ — buddhe aveccappasādena samannāgatā bhavissāma — ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti.",
+      "fr": "—Dans ce cas, vous devriez vous entraîner de la manière suivante. Possédez une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i]"
+    },
+    {
+      "pl": "dhamme aveccappasādena samannāgatā bhavissāma — ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti.",
+      "fr": "Possédez une [dhammeaveccappasada|confiance vérifiée dans le Dhamma]: [i]“[@f_anussati#anussati-2|Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.]”[/i]"
+    },
+    {
+      "pl": "saṅghe aveccappasādena samannāgatā bhavissāma — ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti.",
+      "fr": "Possédez une [sangheaveccappasada|confiance vérifiée dans la Communauté]: [i]“[@f_anussati#anussati-3-cl|La Communauté des disciples du Fortuné qui a bien pratiqué, la Communauté des disciples du Fortuné qui a pratiqué droitement, la Communauté des disciples du Fortuné qui a pratiqué méthodiquement, la Communauté des disciples du Fortuné qui a pratiqué adéquatement, c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.]”[/i]"
+    },
+    {
+      "pl": "yaṃ kho pana kiñci kule deyyadhammaṃ sabbaṃ taṃ appaṭivibhattaṃ bhavissati sīlavantehi kalyāṇadhammehīti evañhi vo sikkhitabban”ti.",
+      "fr": "Vous devriez vous entraîner ainsi: [i]“Tout ce qui dans la famille peut être donné sera partagé sans réserve avec les gens [sila|vertueux] et de [kalyana|bon] [dhamma|caractère].”[/i]»"
+    },
+    {
+      "pl": "atha kho citto gahapati mittāmacce ñātisālohite buddhe ca dhamme ca saṅghe ca cāge ca samādapetvā kālamakāsīti.",
+      "fr": "Après avoir exhorté ses amis et compagnons, ses proches et parents au sujet du [buddha|Bouddha], du [dhamma|Dhamma], de la [sangha|Communauté] et de la [caga|générosité], Tchitta le chef de foyer trépassa."
+    }
+  ],
+  "keywords": [
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "dhammeaveccappasada",
+    "i]“[@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i]“[@f_anussati#anussati-3-cl",
+    "sila",
+    "kalyana",
+    "dhamma",
+    "buddha",
+    "sangha",
+    "caga"
+  ],
+  "translator": "Sekha"
+}

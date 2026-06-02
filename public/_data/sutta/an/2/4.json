@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 2.4",
+  "plTitle": "Atapanīya Sutta",
+  "frTitle": "Pas mortifiantes",
+  "description": "Deux choses qui ne sont pas mortifiantes pour celui qui a une bonne conduite.",
+  "body": [
+    {
+      "pl": "“dveme, bhikkhave, dhammā atapanīyā. katame dve?",
+      "fr": "[bhikkhu|Mendiants], ces deux [dhamma|choses] ne sont pas mortifiantes. Quelles sont ces deux choses?"
+    },
+    {
+      "pl": "idha, bhikkhave, ekaccassa kāyasucaritaṃ kataṃ hoti, akataṃ hoti kāyaduccaritaṃ; vacīsucaritaṃ kataṃ hoti, akataṃ hoti vacīduccaritaṃ; manosucaritaṃ kataṃ hoti, akataṃ hoti manoduccaritaṃ.",
+      "fr": "À cet égard, quelqu'un s'est engagé dans la [sucarita|bonne conduite] corporelle et n'a pas réalisé de [duccarita|méconduite] corporelle; il s'est engagé dans la [sucarita|bonne conduite] verbale et n'a pas réalisé de [duccarita|méconduite] verbale; il s'est engagé dans la [sucarita|bonne conduite] mentale et n'a pas réalisé de [duccarita|méconduite] mentale."
+    },
+    {
+      "pl": "so ‘kāyasucaritaṃ me katan’ti na tappati, ‘akataṃ me kāyaduccaritan’ti na tappati; ‘vacīsucaritaṃ me katan’ti na tappati, ‘akataṃ me vacīduccaritan’ti na tappati; ‘manosucaritaṃ me katan’ti na tappati, ‘akataṃ me manoduccaritan’ti na tappati.",
+      "fr": "Il n'est pas mortifié [en sachant:] [i]“Je me suis engagé dans la [sucarita|bonne conduite] corporelle”[/i]. Il n'est pas mortifié: [i]“Je n'ai pas réalisé de [duccarita|méconduite] corporelle”[/i]. Il n'est pas mortifié: [i]“Je me suis engagé dans la [sucarita|bonne conduite] verbale”[/i]. Il n'est pas mortifié: [i]“Je n'ai pas réalisé de [duccarita|méconduite] verbale”[/i]. Il n'est pas mortifié: [i]“Je me suis engagé dans la [sucarita|bonne conduite] mentale”[/i]. Il n'est pas mortifié: [i]“Je n'ai pas réalisé de [duccarita|méconduite] mentale”[/i]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, dve dhammā atapanīyā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces deux [dhamma|choses] qui ne sont pas mortifiantes."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "sucarita", "duccarita"],
+  "translator": "Sekha"
+}

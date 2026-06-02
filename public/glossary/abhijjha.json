@@ -1,18 +1,16 @@
 {
   "id": "abhijjha",
-  "content": {
-    "title": "abhijjhā",
-    "translation": "convoitise, envie, jalousie, désir d'acquérir ce que l'on n'a pas.",
-    "body": [
-      {
-        "parags": [
-          "Etre abhijjhā·lu est défini à AN 10.176 en termes de convoitise ou jalousie envers les possessions d'autrui. À AN 3.66, lobha est expliquée comme ayant abhijjhā pour synonyme.",
-          "Abhijjhā est l'un des trois akusala·kamma·pathas mentaux.",
-          "Abhijjhā est souvent combiné avec domanassa, pour former un composé (abhijjhā·domanassa), qui apparaît exclusivement soit dans les Formules des Satipaṭṭhānas soit dans les Formules de la Restreinte des Sens.",
-          "Abhijjhā est parfois mentionné parmi les cinq nīvaraṇas, comme une alternative à kāma·cchanda.",
-          "Abhijjhā est parfois mentionné parmi les cinq nīvaraṇas, comme une alternative à kāma·cchanda. ♦ Abhijjhā fait partie du premier upakkilesa mentionné à MN 7: abhijjhā·visama·lobha (convoitise et désir illégitime)."
-        ]
-      }
-    ]
-  }
+  "title": "abhijjhā",
+  "translation": ["convoitise, envie, jalousie, désir d'acquérir ce que l'on n'a pas."],
+  "body": [
+    {
+      "p": [
+        "Etre [i]abhijjhā·lu[/i] est défini à [@$AN 10.176] en termes de convoitise ou jalousie envers les possessions d'autrui. À [@$AN 3.66], [lobha|lobha] est expliquée comme ayant [i]abhijjhā[/i] pour synonyme.",
+        "[i]Abhijjhā[/i] est l'un des trois [akusalakammapatha|akusala·kamma·patha]s mentaux.",
+        "[i]Abhijjhā[/i] est souvent combiné avec [domanassa|domanassa], pour former un composé [i](abhijjhā·domanassa)[/i], qui apparaît exclusivement soit dans les [@f_stp|Formules des Satipaṭṭhānas] soit dans les [@f_samvara|Formules de la Restreinte des Sens].",
+        "[i]Abhijjhā[/i] est parfois mentionné parmi les cinq [nivarana|nīvaraṇa]s, comme une alternative à [kamacchanda|kāma·cchanda].",
+        "[i]Abhijjhā[/i] fait partie du premier [upakkilesa|upakkilesa] mentionné à [@misc#mn007|MN 7]: [i]abhijjhā·visama·lobha (convoitise et désir illégitime)[/i]."
+      ]
+    }
+  ]
 }

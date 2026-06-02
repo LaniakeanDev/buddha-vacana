@@ -1,0 +1,63 @@
+{
+  "identifier": "AN 7.26",
+  "plTitle": "Bojjhaṅga Sutta",
+  "frTitle": "Les facteurs d'Éveil",
+  "description": "Si l'on souhaite que le Dhamma perdure longtemps, voici ce que les mendiants doivent faire.",
+  "body": [
+    {
+      "pl": "“satta vo, bhikkhave, aparihāniye dhamme desessāmi. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti. ",
+      "fr": "Mendiants, je vais vous enseigner les sept [dhamma|critères] de non-déclin. Écoutez cela, et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté] répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "katame ca, bhikkhave, satta aparihāniyā dhammā? yāvakīvañca, bhikkhave, bhikkhū satisambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Et quels sont, [bhikkhu|mendiants], les sept [dhamma|critères] de non-déclin? Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] de [sati|présence d'esprit], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū dhammavicayasambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū vīriyasambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū pītisambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū passaddhisambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū samādhisambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū upekkhāsambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] développeront le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī”ti.",
+      "fr": "Aussi longtemps que ces sept [dhamma|critères] de non-déclin perdurent chez les [bhikkhu|mendiants] et que ces sept [dhamma|critères] de non-déclin seront vus chez les [bhikkhu|mendiants], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    }
+  ],
+  "keywords": [
+    "dhamma",
+    "bhante",
+    "bhikkhu",
+    "bhagava",
+    "sambojjhanga",
+    "sati",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

@@ -1,0 +1,34 @@
+{
+  "identifier": "SN 3.6",
+  "plTitle": "Appaka Sutta",
+  "frTitle": "Rares",
+  "description": "Le roi Passénadi comprend les dangers de la richesse.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:",
+      "fr": "Tandis qu'il était assis là, le roi Passénadi du Kossala dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘appakā te sattā lokasmiṃ ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṃ āpajjanti, na ca sattesu vippaṭipajjanti. atha kho eteva bahutarā sattā lokasmiṃ ye uḷāre uḷāre bhoge labhitvā majjanti ceva pamajjanti, ca kāmesu ca gedhaṃ āpajjanti, sattesu ca vippaṭipajjantī’”ti.",
+      "fr": "—[bhante|Bhanté], pendant que j'étais en [patisallana|isolement] dans un endroit privé, la pensée suivante est apparue à mon [citta|esprit]: [i]“Rares sont les [satta|êtres] dans le [loka|monde] qui, ayant gagné une très grande fortune, n'en deviennent pas intoxiqués ni négligents, qui ne développent pas une voracité de [kama|plaisirs sensuels], et qui ne maltraitent pas les [autres] [satta|êtres].Il y a bien plus d'[satta|êtres] dans le monde qui, ayant gagné une très grande fortune, en deviennent intoxiqués et négligents, qui développent une voracité de [kama|plaisirs sensuels], et qui maltraitent les [autres] [satta|êtres].”[/i]"
+    },
+    {
+      "pl": "“evametaṃ, mahārāja, evametaṃ, mahārāja! appakā te, mahārāja, sattā lokasmiṃ, ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṃ āpajjanti, na ca sattesu vippaṭipajjanti. atha kho eteva bahutarā sattā lokasmiṃ, ye uḷāre uḷāre bhoge labhitvā majjanti ceva pamajjanti ca kāmesu ca gedhaṃ āpajjanti, sattesu ca vippaṭipajjantī”ti.",
+      "fr": "—Il en est ainsi, Maharaja, il en est ainsi! Rares sont les [satta|êtres] dans le monde qui, ayant gagné une très grande fortune, n'en deviennent pas intoxiqués ni négligents, qui ne développent pas une voracité de [kama|plaisirs sensuels], et qui ne maltraitent pas les [autres] [satta|êtres].Il y a bien plus d'[satta|êtres] dans le monde qui, ayant gagné une très grande fortune, en deviennent intoxiqués et négligents, qui développent une voracité de [kama|plaisirs sensuels], et qui maltraitent les [autres] [satta|êtres]."
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "[i]“sārattā kāmabhogesu, giddhā kāmesu mucchitā,atisāraṃ na bujjhanti, migā kūṭaṃva oḍḍitaṃ.pacchāsaṃ kaṭukaṃ hoti, vipāko hissa pāpako”ti. [/i]",
+      "fr": "[i]Épris de leurs jouissances sensuelles, Voraces, emportés par les [kama|plaisirs sensuels],Ils ne s'aperçoivent pas qu'ils vont trop loin,Comme des daims vers le piège posé pour eux.Les conséquences en sont amères,Car le [vipaka|résultat] en est assurément [papaka|mauvais].[/i]"
+    }
+  ],
+  "keywords": ["bhagava", "bhante", "patisallana", "citta", "satta", "loka", "kama", "vipaka", "papaka"],
+  "translator": "Rémy"
+}

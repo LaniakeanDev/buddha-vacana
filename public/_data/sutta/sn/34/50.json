@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 34.50 à 52",
+  "plTitle": "Abhinīhāramūlaka Suttāni",
+  "frTitle": "Par rapport à être résolu",
+  "description": "Une série de trois souttas qui compare diverses capacités liées à la concentration à l'habilité à être résolu dans cette dernière.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(50) “samādhismiṃ abhinīhārakusalo hoti, na samādhismiṃ sakkaccakārī. samādhismiṃ sakkaccakārī hoti, na samādhismiṃ abhinīhārakusalo. neva samādhismiṃ abhinīhārakusalo hoti, na ca samādhismiṃ sakkaccakārī. samādhismiṃ abhinīhārakusalo ca hoti, samādhismiṃ sakkaccakārī ca.",
+      "fr": "(50) (…) un certain méditant est habile à être résolu dans la [samadhi|concentration], mais n'est pas habile à la minutie dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à la minutie dans la [samadhi|concentration], mais il n'est pas habile à être résolu dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile à être résolu dans la [samadhi|concentration], ni habile à la minutie dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à être résolu dans la [samadhi|concentration] et habile à la minutie dans la [samadhi|concentration]. (…)"
+    },
+    {
+      "pl": "(51) samādhismiṃ abhinīhārakusalo hoti, na samādhismiṃ sātaccakārī ... pe ....",
+      "fr": "(51) (…) est habile à être résolu dans la [samadhi|concentration], mais n'est pas habile à la persévérance dans la [samadhi|concentration] (…)"
+    },
+    {
+      "pl": "(52) samādhismiṃ abhinīhārakusalo hoti, na samādhismiṃ sappāyakārī ... pe ....",
+      "fr": "(52) (…) est habile à être résolu dans la [samadhi|concentration], mais n'est pas habile à ce qui est adéquat dans la [samadhi|concentration] (…) "
+    }
+  ],
+  "keywords": ["bhikkhu", "samadhi"],
+  "translator": "Sekha"
+}

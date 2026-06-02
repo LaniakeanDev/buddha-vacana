@@ -1,0 +1,51 @@
+{
+  "identifier": "Iti 47",
+  "plTitle": "Jāgariya Sutta",
+  "frTitle": "Vigilance",
+  "description": "Pour celui qui demeure diligent, il n'y a pas de danger.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Jāgaro cassa, bhikkhave, bhikkhu vihareyya: sato sampajāno samāhito pamudito vippasanno ca tattha kālavipassī ca kusalesu dhammesu. Jāgarassa, bhikkhave, bhikkhuno viharato satassa sampajānassa samāhitassa pamuditassa vippasannassa tattha kālavipassino kusalesu dhammesu dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ; diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā ti.",
+      "fr": "[@m_jagara|Vigilant], [bhikkhu|mendiants], devrait demeurer un mendiant: [sata|présent d'esprit], [sampajana|doué de discernement attentif], [@m_samahita|calme], [@m_pamudita|ravi], [@m_vippasanna|pur], et aux moments opportuns, doué de vision discernante en ce qui concerne les [dhamma|choses] [kusala|avantageuses]. [bhikkhu|Mendiants], un mendiant demeurant [@m_jagara|diligent], [sata|présent d'esprit], [sampajana|doué de discernement attentif], [@m_samahita|calme], [@m_pamudita|ravi], [@m_vippasanna|pur], et aux moments opportuns, doué de vision discernante en ce qui concerne les [dhamma|choses] [kusala|avantageuses], peut s'attendre à l'un de ces deux résultats: ou bien [l'atteinte] dans ce monde visible de la [anna|connaissance finale], ou bien, s'il y a un restant d'attachement, le [anagamita|non-retour]."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Jāgarantā suṇāthetaṃ, [@v]Ye suttā te pabujjhatha;[@v]Suttā jāgaritaṃ seyyo, [@v]Natthi jāgarato bhayaṃ.[@v]Yo jāgaro ca satimā sampajāno, [@v]Samāhito mudito vippasanno ca,[@v]Kālena so sammā dhammaṃ parivīmaṃsamāno, [@v]Ekodibhūto vihane tamaṃ so.[@v]Tasmā have jāgariyaṃ bhajetha, [@v]Ātāpī bhikkhu nipako jhānalābhī;[@v]Saṃyojanaṃ jātijarāya chetvā, [@v]Idheva sambodhimanuttaraṃ phuse ti.[/i]",
+      "fr": "Ceux qui sont éveillés, écoutez cela,[@v]Ceux qui sont endormis, réveillez-vous;[@v]La veille est meilleure que le sommeil,[@v]Pour ceux qui sont éveillés, il n'y a pas de danger.[@v]Celui qui est éveillé, [sata|présent d'esprit],[@v] [sampajana|doué de discernement attentif], [@m_samahita|calme], [@m_pamudita|ravi] et [@m_vippasanna|pur],[@v]Examinant au moment opportuns les [dhamma|choses] correctes,[@v]Étant devenu [@m_ekodibhava|unifié], mettra fin à l'obscurité.[@v]Par conséquent, soyez voués à la [@m_jagariya|veille],[@v]Car un mendiant ardent, prudent, acquérant les [jhana|absorptions],[@v]Ayant sectionné l'[samyojana|entrave] de la [jati|naissance] et du [jara|vieillissement],[@v]Touche ici même le suprême [sambodhi|Eveil]."
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "@m_jagara",
+    "bhikkhu",
+    "sato",
+    "sampajana",
+    "@m_samahita",
+    "@m_pamudita",
+    "@m_vippasanna",
+    "dhamma",
+    "kusala",
+    "anna",
+    "anagamita",
+    "@m_ekodibhava",
+    "@m_jagariya",
+    "jhana",
+    "samyojana",
+    "jati",
+    "jara",
+    "sambodhi"
+  ],
+  "translator": "Rémy"
+}

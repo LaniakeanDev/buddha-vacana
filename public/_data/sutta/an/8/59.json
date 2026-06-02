@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 8.59",
+  "plTitle": "Puggala Sutta",
+  "frTitle": "Les huit individus",
+  "description": "Les huit individus qui sont dignes de dons, dignes d'hospitalité, dignes d'offrandes, dignes de salutations révérentieuses, qui représentent un suprême champ de mérite pour le monde.",
+  "body": [
+    {
+      "pl": "“aṭṭhime bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa? katame aṭṭha? ",
+      "fr": "[bhikkhu|Mendiants], ces huit individus sont [@f_anussati#anussati-3-cl|dignes de dons, dignes d'hospitalité, dignes d'offrandes, dignes de salutations respectueuses, ils représentent un suprême champ de mérite pour le monde.] Quels sont ces huit individus?"
+    },
+    {
+      "pl": "sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno, sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno, anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno, arahā, arahattāya paṭipanno.",
+      "fr": "Le [sotapanna|parvenu-au-courant], celui qui pratique pour réaliser le fruit de l'[sotapatti|entrée dans le courant], le [sakadagami|retournant unique], celui qui pratique pour réaliser le fruit du retour unique, le [anagami|non-retournant], celui qui pratique pour réaliser le fruit du non-retour, le [arahant|Méritant], et celui qui pratique pour devenir [arahant|Méritant]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, aṭṭha puggalā āhuneyyā ... pe ... anuttaraṃ puññakkhettaṃ lokassā”ti.",
+      "fr": "Voici, mendiants, quels sont ces huit individus qui sont [@f_anussati#anussati-3-cl|dignes de dons, dignes d'hospitalité, dignes d'offrandes, dignes de salutations respectueuses, qui représentent un suprême champ de mérite pour le monde.]"
+    }
+  ],
+  "keywords": ["bhikkhu", "@f_anussati#anussati-3-cl", "sotapanna", "sotapatti", "sakadagami", "anagami", "arahant"],
+  "translator": "Sekha"
+}

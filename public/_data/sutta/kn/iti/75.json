@@ -1,0 +1,30 @@
+{
+  "identifier": "Iti 75",
+  "plTitle": "Avuṭṭhika Sutta",
+  "frTitle": "Sans pluie",
+  "description": "Au début de la mousson, toute pluie met fin à une longue sécheresse et fait pousser les plantes très rapidement. Voici comment une personne est semblable à l'un des trois types de nuages de mousson.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "“tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? avuṭṭhikasamo, padesavassī, sabbatthābhivassī.",
+      "fr": "Mendiants, on trouve dans le [loka|monde] ces trois types de personnes. Quels sont ces trois? Celui [qui est comme un nuage de mousson] ne donnant pas de pluie, celui [qui est comme un nuage de mousson] donnant de la pluie localement, et celui [qui est comme un nuage de mousson] donnant de la pluie partout."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo avuṭṭhikasamo hoti? idha, bhikkhave, ekacco puggalo sabbesaññeva na dātā hoti, samaṇa-brāhmaṇa-kapaṇ-addhika-vanibbaka-yācakānaṃ annaṃ pānaṃ vatthaṃ yānaṃ mālā-gandha-vilepanaṃ seyy-āvasatha-padīpeyyaṃ. evaṃ kho, bhikkhave, puggalo avuṭṭhikasamo hoti.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne [qui est comme un nuage de mousson] ne donnant pas de pluie? À cet égard, une certaine personne ne donne pas de nourriture, de boisson, de vêtements, de véhicules, de guirlandes, de parfums, d'huiles, de couches, de logements, ou de lampes ni aux [samana|renonçants] & [brahmana|brahmanes], ni aux pauvres, ni aux voyageurs, ni aux clochards, ni aux mendiants. Voici une personne [qui est comme un nuage de mousson] ne donnant pas de pluie."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo padesavassī hoti? idha, bhikkhave, ekacco puggalo ekaccānaṃ dātā hoti, ekaccānaṃ na dātā hoti samaṇa-brāhmaṇa-kapaṇ-addhika-vanibbaka-yācakānaṃ annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyy-āvasatha-padīpeyyaṃ. evaṃ kho, bhikkhave, puggalo padesavassī hoti.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne [qui est comme un nuage de mousson] donnant de la pluie localement? À cet égard, une personne donne de la nourriture, des boissons, des vêtements, des véhicules, des guirlandes, des parfums, des huiles, des couches, des logements, ou des lampes à certains [samana|renonçants] & [brahmana|brahmanes], pauvres, voyageurs, clochards et mendiants, mais pas à d'autres. Voici une personne [qui est comme un nuage de mousson] donnant de la pluie localement."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo sabbatthābhivassī hoti? idha, bhikkhave, ekacco puggalo sabbesaṃva deti, samaṇa-brāhmaṇa-kapaṇ-addhika-vanibbaka-yācakānaṃ annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyy-āvasatha-padīpeyyaṃ. evaṃ kho, bhikkhave, puggalo sabbatthābhivassī hoti. ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne [qui est comme un nuage de mousson] donnant de la pluie partout? À cet égard, une personne donne de la nourriture, des boissons, des vêtements, des véhicules, des guirlandes, des parfums, des huiles, des couches, des logements, ou des lampes à tous les [samana|renonçants] & [brahmana|brahmanes], pauvres, voyageurs, clochards et mendiants. Voici une personne [qui est comme un nuage de mousson] donnant de la pluie partout. Voici, mendiants, quels sont ces trois types de personnes qu'on trouve dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["bhagava", "arahant", "loka", "bhikkhu", "samana", "brahmana"],
+  "translator": "Rémy"
+}

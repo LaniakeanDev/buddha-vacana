@@ -1,0 +1,34 @@
+{
+  "identifier": "AN 6.78",
+  "plTitle": "Sukhasomanassa Sutta",
+  "frTitle": "Bien-être et plaisance mentale",
+  "description": "Six qualités doué desquelles on séjourne dans le bien-être et la plaisance mentale, tout en pratiquant sérieusement.",
+  "body": [
+    {
+      "pl": "Chahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukha-somanassa-bahulo viharati, yoni cassa āraddhā hoti āsavānaṃ khayāya. Katamehi chahi?",
+      "fr": "Doué de six [dhamma|qualités], [bhikkhu|mendiants], un [bhikkhu|mendiant] séjourne [ditthevadhamme|dans ce monde visible] dans une abondance de [sukha|bien-être] et de [somanassa|plaisance mentale], et les conditions pour l'élimination complète des [asava|impuretés mentales] sont en place. Quelles sont ces six?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu dhammārāmo hoti, bhāvanārāmo hoti, pahānārāmo hoti, pavivekārāmo hoti, abyāpajjhārāmo hoti, nippapañcārāmo hoti.",
+      "fr": "À cet égard, un [bhikkhu|mendiant] se plaît au [dhamma|Dhamma], il se plaît au [bhavana|développement], il se plaît à l'[pahana|abandon], il se plaît à l'[paviveka|isolement], il se plaît à la [abyapada|bienveillance], il se plaît à la non-[papanca|prolifération mentale]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṃ khayāyā.",
+      "fr": "Doué de ces six [dhamma|qualités], [bhikkhu|mendiants], un [bhikkhu|mendiant] séjourne [ditthevadhamme|dans ce monde visible] dans une abondance de [sukha|bien-être] et de [somanassa|plaisance mentale], et les conditions pour l'élimination complète des [asava|impuretés mentales] sont en place. "
+    }
+  ],
+  "keywords": [
+    "dhamma",
+    "bhikkhu",
+    "ditthevadhamme",
+    "sukha",
+    "somanassa",
+    "asava",
+    "bhavana",
+    "pahana",
+    "paviveka",
+    "abyapada",
+    "papanca"
+  ],
+  "translator": "Rémy"
+}

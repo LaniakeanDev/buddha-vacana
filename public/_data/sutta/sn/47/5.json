@@ -1,0 +1,42 @@
+{
+  "identifier": "SN 47.5",
+  "plTitle": "Akusalarāsi Sutta",
+  "frTitle": "Amoncellements de ce qui est désavantageux",
+  "description": "Qu'est-ce que le Bouddha entend par 'amoncellements de ce qui est dés/avantageux' (a/kusala·rāsi)?",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "tatra kho bhagavā etadavoca:",
+      "fr": "Là, le [bhagava|Fortuné] s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“‘akusalarāsī’ti, bhikkhave, vadamāno pañca nīvaraṇe sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, akusalarāsi, yadidaṃ pañca nīvaraṇā. katame pañca? kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ. ‘akusalarāsī’ti, bhikkhave, vadamāno ime pañca nīvaraṇe sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, akusalarāsi, yadidaṃ pañca nīvaraṇā.",
+      "fr": "— [bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [akusala|ce qui est désavantageux]»[/i], il serait correct qu'il parle des cinq [nivarana|obstructions]. Les cinq [nivarana|obstructions] sont en effet de complets amoncellements de [akusala|ce qui est désavantageux]. Et quelles sont ces cinq? L'[nivarana|obstruction] de [kamacchanda|désir sensuel], l'[nivarana|obstruction] de [byapada|malveillance], l'[nivarana|obstruction] de [thinamiddha|torpeur & somnolence], l'[nivarana|obstruction] d'[uddhaccakukkucca|agitation mentale & préoccupation], et l'[nivarana|obstruction] du [vicikiccha|doute]. [bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [akusala|ce qui est désavantageux]»[/i], il serait correct qu'il parle de ces cinq [nivarana|obstructions]. Les cinq [nivarana|obstructions] sont en effet de complets amoncellements de [akusala|ce qui est désavantageux]."
+    },
+    {
+      "pl": "“‘kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ cattāro satipaṭṭhānā. katame cattāro? idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ;vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. ‘kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ cattāro satipaṭṭhānā”ti.",
+      "fr": "[bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [kusala|ce qui est avantageux]»[/i], il serait correct qu'il parle des quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit] sont en effet de complets amoncellements de [akusala|ce qui est avantageux]. Et quelles sont ces quatre? À cet égard, mendiants, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] [bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [kusala|ce qui est avantageux]»[/i], il serait correct qu'il parle de ces quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit] sont en effet de complets amoncellements de [akusala|ce qui est avantageux]."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "akusala",
+    "nivarana",
+    "kamacchanda",
+    "byapada",
+    "thinamiddha",
+    "uddhaccakukkucca",
+    "vicikiccha",
+    "kusala",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
+  "translator": "Rémy"
+}

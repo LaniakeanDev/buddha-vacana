@@ -1,0 +1,42 @@
+{
+  "identifier": "SN 1.25",
+  "plTitle": "Arahanta Sutta",
+  "frTitle": "Un Méritant",
+  "description": "Un Méritant peut-il encore s'exprimer en utilisant le pronom [i]“Je”[/i]?",
+  "body": [
+    {
+      "pl": "",
+      "fr": "[déva:]"
+    },
+    {
+      "pl": "“yo hoti bhikkhu arahaṃ katāvī,[@v]khīṇāsavo antimadehadhārī.[@v]ahaṃ vadāmītipi so vadeyya,[@v]mamaṃ vadantītipi so vadeyyā”ti.",
+      "fr": "Un [bhikkhu|mendiant] qui est devenu un [arahant|Méritant],[@v]Ayant détruit les [asava|impuretés mentales], portant son dernier corps,[@v]Dirait-il encore [i]“je parle?”[/i][@v]Dirait-il encore [i]“ils me parlent”[/i]?"
+    },
+    {
+      "pl": "",
+      "fr": "[Le Bouddha:]"
+    },
+    {
+      "pl": "“yo hoti bhikkhu arahaṃ katāvī,[@v]khīṇāsavo antimadehadhārī.[@v]ahaṃ vadāmītipi so vadeyya,[@v]mamaṃ vadantītipi so vadeyya.[@v]loke samaññaṃ kusalo viditvā,[@v]vohāramattena so vohareyyā”ti.",
+      "fr": "Un [bhikkhu|mendiant] qui est devenu un [arahant|Méritant],[@v]Ayant détruit les [asava|impuretés mentales], portant son dernier corps,[@v]Dit encore [i]“je parle”[/i],[@v]Dit encore [i]“ils me parlent”[/i].[@v]Habile, connaissant la manière de s'exprimer dans le monde,[@v]Il n'utilise ces locutions que comme des expressions."
+    },
+    {
+      "pl": "",
+      "fr": "[déva:]"
+    },
+    {
+      "pl": "“yo hoti bhikkhu arahaṃ katāvī,[@v]khīṇāsavo antimadehadhārī.[@v]mānaṃ nu kho so upagamma bhikkhu,[@v]ahaṃ vadāmītipi so vadeyya.[@v]mamaṃ vadantītipi so vadeyyā”ti.",
+      "fr": "Un [bhikkhu|mendiant] qui est devenu un [arahant|Méritant],[@v]Ayant détruit les [asava|impuretés mentales], portant son dernier corps,[@v]Ne serait-ce pas sous le coup de l'[mana|identification au Moi][@v]Qu'il dirait [i]“je parle”[/i][@v]Ou qu'il dirait [i]“ils me parlent”[/i]?"
+    },
+    {
+      "pl": "",
+      "fr": "[Le Bouddha:]"
+    },
+    {
+      "pl": "“pahīnamānassa na santi ganthā,[@v]vidhūpitā mānaganthassa sabbe.[@v]sa vītivatto maññataṃ sumedho,[@v]ahaṃ vadāmītipi so vadeyya.[@v]“mamaṃ vadantītipi so vadeyya.[@v]loke samaññaṃ kusalo viditvā.[@v]vohāramattena so vohareyyā”ti.",
+      "fr": "Il n'y a pas de noeuds pour celui qui a abandonné l'[mana|identification au Moi][@v]Pour lui, tous les noeuds de l'[mana|identification au Moi] ont été rompus.[@v]Bien qu'un sage ait dépassé l'[mana|identification au Moi],[@v]Il dit encore [i]“je parle”[/i],[@v]Il dit encore [i]“ils me parlent”[/i].[@v]Habile, connaissant la manière de s'exprimer dans le monde,[@v]Il n'utilise ces locutions que comme des expressions."
+    }
+  ],
+  "keywords": ["bhikkhu", "arahant", "asava", "mana"],
+  "translator": "Sekha"
+}

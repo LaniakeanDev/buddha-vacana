@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 7.40",
+  "plTitle": "Vasa Sutta",
+  "frTitle": "Le contrôle de l'esprit",
+  "description": "Sept qualités doué desquelles un mendiant contrôle son esprit et n'est pas contrôlé par son esprit.",
+  "body": [
+    {
+      "pl": "“sattahi, bhikkhave, dhammehi samannāgato bhikkhu cittaṃ vase vatteti, no ca bhikkhu cittassa vasena vattati. katamehi sattahi? ",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] doué de sept [dhamma|qualités] contrôle son [citta|esprit] et n'est pas contrôlé par son [citta|esprit]. Quelles sont ces sept?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu samādhikusalo hoti, samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kalyāṇakusalo hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti.",
+      "fr": "À cet égard, un [bhikkhu|mendiant] est habile en [samadhi|concentration], il est habile à l'entrée dans la [samadhi|concentration], il est habile au maintien de la [samadhi|concentration], il est habile à la sortie de la [samadhi|concentration], il est habile au bénéfice de la [samadhi|concentration], il est habile au nourissement de la [samadhi|concentration], il est habile à l'application à la [samadhi|concentration]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu cittaṃ vase vatteti, no ca bhikkhu cittassa vasena vattatī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces sept [dhamma|qualités] doué desquelles un [bhikkhu|mendiant] contrôle son [citta|esprit] et n'est pas contrôlé par son [citta|esprit]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "citta", "samadhi"],
+  "translator": "Bhikkhu Sekha"
+}

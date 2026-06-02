@@ -1,0 +1,38 @@
+{
+  "identifier": "AN 5.161",
+  "plTitle": "Āghātapaṭivinaya Sutta",
+  "frTitle": "La dissipation du ressentiment",
+  "description": "Cinq méthodes pour dissiper le ressentiment qu'on peut éprouver envers une personne.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, āghātapaṭivinayā yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo. katame pañca? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq manières de dissiper le ressentiment au moyen desquelles le ressentiment qui est apparu chez un [bhikkhu|mendiant] devrait être complètement dissipé. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "yasmiṃ, bhikkhave, puggale āghāto jāyetha, mettā tasmiṃ puggale bhāvetabbā; evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "La [metta|bienveillance] devrait être cultivée à l'encontre de la personne envers qui le ressentiment a pris naissance. Le ressentiment envers cette personne devrait être dissipé ainsi."
+    },
+    {
+      "pl": "yasmiṃ, bhikkhave, puggale āghāto jāyetha, karuṇā tasmiṃ puggale bhāvetabbā; evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "La [karuna|compassion] devrait être cultivée à l'encontre de la personne envers qui le ressentiment a pris naissance. Le ressentiment envers cette personne devrait être dissipé ainsi."
+    },
+    {
+      "pl": "yasmiṃ, bhikkhave, puggale āghāto jāyetha, upekkhā tasmiṃ puggale bhāvetabbā; evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "L'[upekkha|équanimité] devrait être cultivée à l'encontre de la personne envers qui le ressentiment a pris naissance. Le ressentiment envers cette personne devrait être dissipé ainsi."
+    },
+    {
+      "pl": "yasmiṃ, bhikkhave, puggale āghāto jāyetha, asatiamanasikāro tasmiṃ puggale āpajjitabbo; evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "L'absence de [sati|présence d'esprit] & [manasikara|attention] devrait être exercée à l'encontre de la personne envers qui le ressentiment a pris naissance. Le ressentiment envers cette personne devrait être dissipé ainsi."
+    },
+    {
+      "pl": "yasmiṃ, bhikkhave, puggale āghāto jāyetha, kammassakatā tasmiṃ puggale adhiṭṭhātabbā: ‘kammassako ayamāyasmā kammadāyādo kammayoni kammabandhu kammappaṭisaraṇo, yaṃ kammaṃ karissati kalyāṇaṃ vā pāpakaṃ vā tassa dāyādo bhavissatī’ti; evaṃ tasmiṃ puggale āghāto paṭivinetabbo.",
+      "fr": "Il faudrait se concentrer sur la possession des actions en rapport à la personne envers qui le ressentiment a pris naissance: [i]“Ce [ayasma|vénérable] est le détenteur de ses [kamma|action]s, l'héritier de ses [kamma|action]s, né de ses [kamma|action]s, lié à ses [kamma|action]s, protégé par ses [kamma|action]s; quelque [kamma|action] qu'il réalise, qu'elle soit bénéfique ou mauvaise, il en deviendra l'héritier.”[/i] Le ressentiment envers cette personne devrait être dissipé ainsi."
+    },
+    {
+      "pl": "ime kho, bhikkhave, pañca āghātapaṭivinayā, yattha bhikkhuno uppanno āghāto sabbaso paṭivinetabbo”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq manières de dissiper le ressentiment au moyen desquelles le ressentiment qui est apparu chez un [bhikkhu|mendiant] devrait être complètement dissipé."
+    }
+  ],
+  "keywords": ["bhikkhu", "metta", "karuna", "upekkha", "sati", "manasikara", "ayasma", "kamma"],
+  "translator": "Rémy"
+}

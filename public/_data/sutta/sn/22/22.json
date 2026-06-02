@@ -1,0 +1,57 @@
+{
+  "identifier": "SN 22.22",
+  "plTitle": "Bhāra Sutta",
+  "frTitle": "Le fardeau",
+  "description": "Chacun de nous traîne de lourds fardeaux. Quels sont-ils? Comment s'en débarrasser?",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“bhārañca vo, bhikkhave, desessāmi bhārahārañca bhārādānañca bhāranikkhepanañca. taṃ suṇātha. katamo ca, bhikkhave, bhāro? pañcupādānakkhandhā tissa vacanīyaṃ. katame pañca? rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho; ayaṃ vuccati, bhikkhave, bhāro”.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner ce qu'est le fardeau, qui est le porteur du fardeau, ce qu'est l'endossement du fardeau, et ce qu'est l'abandon du fardeau. Écoutez cela. Et qu'est-ce, [bhikkhu|mendiants], que le fardeau? 'Les cinq [upadanakkhandha|accumulations d'attachement]', devrait-on dire. Quels sont ces cinq? L'[upadanakkhandha|accumulation d'attachement] de la [rupa|Forme], l'[upadanakkhandha|accumulation d'attachement]du [vedana|Ressenti], l'[upadanakkhandha|accumulation d'attachement] de la [sanna|Perception], l'[upadanakkhandha|accumulation d'attachement] des [sankhara|Constructions volitionnelles],et l'[upadanakkhandha|accumulation d'attachement] de la [vinnana|Conscience]. Voici, [bhikkhu|mendiants], ce qu'on appelle le fardeau."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, bhārahāro? puggalo tissa vacanīyaṃ. yvāyaṃ āyasmā evaṃnāmo evaṃgotto; ayaṃ vuccati, bhikkhave, bhārahāro.",
+      "fr": "Et qui, [bhikkhu|mendiants], est le porteur du fardeau? 'La personne', devrait-on dire, le vénérable portant tel nom, issu de tel clan. Voici, [bhikkhu|mendiants], qui est le porteur du fardeau."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, bhārādānaṃ? yāyaṃ taṇhā ponobhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṃ kāmataṇhā, bhavataṇhā, vibhavataṇhā. idaṃ vuccati, bhikkhave, bhārādānaṃ.",
+      "fr": "Et qu'est-ce que l'endossement du fardeau? C'est la [tanha|Soif], qui mène au renouvellement de l'[bhava|existence], qui s'accompagne de complaisance et d'[raga|avidité], se complaisant ici et là, c'est-à-dire la [tanha|Soif] de [kama|plaisirs sensuels], la [tanha|Soif] d'[bhava|existence], et la [tanha|Soif] de non-[bhava|existence]. Voici, [bhikkhu|mendiants], ce qu'on appelle l'endossement du fardeau."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, bhāranikkhepanaṃ? yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. idaṃ vuccati, bhikkhave, bhāranikkhepanan”ti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'abandon du fardeau? C'est la [viraga|disparition] complète & [nirodha|cessation] de cette [tanha|Soif], le renoncement, la renonciation à son égard, la délivrance et l'indépendance en rapport à cette même [tanha|Soif]. Voici, [bhikkhu|mendiants], ce qu'on appelle l'abandon du fardeau."
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+      "fr": "Telle fut la parole du [bgv|Fortuné]. Après avoir dit cela, le Sublime, l'Enseignant, ajouta:"
+    },
+    {
+      "pl": "[i]“bhārā have pañcakkhandhā, bhārahāro ca puggalo.bhārādānaṃ dukhaṃ loke, bhāranikkhepanaṃ sukhaṃ.nikkhipitvā garuṃ bhāraṃ, aññaṃ bhāraṃ anādiya.samūlaṃ taṇhamabbuyha, nicchāto parinibbuto”ti.[/i]",
+      "fr": "[i]Les cinq [khandha|accumulations d'attachement] sont vraiment un fardeau, Et le porteur du fardeau est la personne.Endosser le fardeau, c'est souffrir dans le [loka|monde], L'abandonner est un [sukha|bonheur].Ayant abandonné le lourd fardeau, Sans endosser d'autre fardeau,Ayant arraché la [tanha|Soif] à la racine, On est satisfait, [parinibbana|totalement délivré].[/i] "
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "tanha",
+    "bhava",
+    "raga",
+    "kama",
+    "viraga",
+    "nirodha",
+    "bgv",
+    "khandha",
+    "loka",
+    "sukha",
+    "parinibbana"
+  ],
+  "translator": "Rémy"
+}

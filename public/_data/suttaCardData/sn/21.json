@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "identifier": "SN 21.1",
+    "plTitle": "Kolita Sutta",
+    "frTitle": "Kolita",
+    "description": "Mahāmoggallāna définit ce qu'est le Noble Silence en termes de [jhana|jhānas].",
+    "keywords": [
+      "bhagava",
+      "ayasma",
+      "bhikkhu",
+      "i]“À cet égard, un mendiant, [@f_4jhana#2",
+      "@f_4jhana#2",
+      "iddhi",
+      "citta",
+      "@f_4jhana#2-cl",
+      "i]“Celui-là est un [savaka",
+      "abhinna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 21.4",
+    "plTitle": "Nava Sutta",
+    "frTitle": "Le Nouveau",
+    "description": "Un groupe de [bhikkhu|mendiants] va se plaindre au Bouddha parce qu'un nouveau reste dans son coin et ne les aide pas. La réponse du Bouddha n'est probablement pas celle qu'ils attendaient.",
+    "keywords": [
+      "pindapata",
+      "bhikkhu",
+      "civara",
+      "bhagava",
+      "bhante",
+      "jhana",
+      "citta",
+      "sukha",
+      "ditthadhamma",
+      "abhinna",
+      "ditthevadhamme",
+      "brahmacariya",
+      "anagariya"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "4",
+    "readingTime": 2
+  }
+]

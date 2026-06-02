@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 5.210",
+  "plTitle": "Muṭṭhassati Sutta",
+  "frTitle": "Étourdi d'esprit",
+  "description": "Cinq désavantages qu'il y a à s'endormir en étant étourdi d'esprit et sans discernement attentif, avec les cinq avantages correspondants dans le cas contraire.",
+  "body": [
+    {
+      "pl": "Pañcime, bhikkhave, ādīnavā muṭṭhassatissa asampajānassa niddaṃ okkamayato. Katame pañca? Dukkhaṃ supati, dukkhaṃ paṭibujjhati, pāpakaṃ supinaṃ passati, devatā na rakkhanti, asuci muccati. Ime kho, bhikkhave, pañca ādīnavā muṭṭhassatissa asampajānassa niddaṃ okkamayato.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [adinava|désavantages] à s'endormir en étant étourdi d'esprit et sans [sampajanna|discernement attentif]. Quels sont ces cinq? On dort dans le [dukkha|mal-être], on se réveille dans le [dukkha|mal-être], on fait des rêves [papaka|malsains], on n'est pas protégé par les [deva|dévas], et ce qui est malpropre est émis. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] qu'il y a à s'endormir en étant étourdi d'esprit et sans [sampajanna|discernement attentif]."
+    },
+    {
+      "pl": "Pañcime, bhikkhave, ānisaṃsā upaṭṭhitassatissa sampajānassa niddaṃ okkamayato. Katame pañca? Sukhaṃ supati, sukhaṃ paṭibujjhati, na pāpakaṃ supinaṃ passati, devatā rakkhanti, asuci na muccati. Ime kho, bhikkhave, pañca ānisaṃsā upaṭṭhitassatissa sampajānassa niddaṃ okkamayato ti.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [anisamsa|avantages] à s'endormir avec la [sati|présence d'esprit] mise en place et avec et un [sampajanna|discernement attentif]. Quels sont ces cinq? On dort dans le [sukha|bien-être], on se réveille dans le [sukha|bien-être], on ne fait pas de rêves [papaka|malsains], on est protégé par les [deva|dévas], et ce qui est malpropre n'est pas émis. Voici, [bhikkhu|mendiants], quels sont ces cinq avantages qu'il y a s'endormir avec la [sati|présence d'esprit] mise en place et avec et un [sampajanna|discernement attentif]."
+    }
+  ],
+  "keywords": ["bhikkhu", "adinava", "sampajanna", "dukkha", "papaka", "deva", "anisamsa", "sati", "sukha"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "assutava",
+  "title": "assutavā",
+  "breakdown": "[[@m_a|a]+[@m_suta|suta]+vā]",
+  "translation": ["sans instruction; lit: qui n'a pas entendu."],
+  "body": [
+    {
+      "p": [
+        "Le terme est souvent associé à «individu ordinaire» ([puthujjana|puthujjana]) et utilisé avec la description suivante:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.7]",
+        "text": [
+          {
+            "pl": "assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto",
+            "fr": "un individu ordinaire sans instruction, qui ne [va] pas voir les êtres nobles, qui n'est pas entraîné dans le Dhamma des êtres nobles, qui n'est pas discipliné dans le Dhamma des êtres nobles, qui ne [va] pas voir les hommes de bien, qui n'est pas entraîné dans le Dhamma des hommes de bien, qui n'est pas discipliné dans le Dhamma des hommes de bien"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Un tel individu est typiquement décrit comme commettant les erreurs communes contre lesquelles le Bouddha nous met en garde: il manque d'entraînement et réagit de manière automatique, sans faire appel au discernement: typiquement, il se laisse aller aux plaisirs sensuels, a peur de la mort, se laisse toucher par les vicissitudes de la vie etc."
+      ]
+    }
+  ]
+}

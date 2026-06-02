@@ -1,0 +1,54 @@
+{
+  "identifier": "AN 5.73",
+  "plTitle": "Dhammavihārī Sutta",
+  "frTitle": "Quelqu'un qui demeure avec l'Enseignement",
+  "description": "Ce que signifie demeurer avec l'Enseignement, et quatre écueils à éviter pour prioriser la pratique.",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “‘dhammavihārī, dhammavihārī’ti, bhante, vuccati. kittāvatā nu kho, bhante, bhikkhu dhammavihārī hotī”ti?",
+      "fr": "[bhante|Bhanté], on entend dire: [i]“Quelqu'un qui demeure avec l'[dhamma|Enseignement], quelqu'un qui demeure avec l'[dhamma|Enseignement]”[/i]. De quelle manière, [bhante|Bhanté], est-on quelqu'un qui demeure avec l'[dhamma|Enseignement]?"
+    },
+    {
+      "pl": "“idha, bhikkhu, bhikkhu dhammaṃ pariyāpuṇāti: suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. so tāya dhammapariyattiyā divasaṃ atināmeti, riñcati paṭisallānaṃ, nānuyuñjati ajjhattaṃ cetosamathaṃ. ayaṃ vuccati, bhikkhu: ‘bhikkhu pariyattibahulo, no dhammavihārī’”.",
+      "fr": "À cet égard, [bhikkhu|mendiant], un [bhikkhu|mendiant] connaît l'[dhamma|Enseignement] par cœur: les souttas, les mélanges de prose et de versets, les explications, les versets, les exclamations, les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Il passe sa journée à cet apprentissage de l'[dhamma|Enseignement], il néglige l'[patisallana|isolement], il ne s'adonne pas à la [samatha|tranquillité] intérieure de l'[citta|esprit]. Voici, [bhikkhu|mendiant], ce qu'on appelle un [bhikkhu|mendiant] qui apprend beaucoup mais pas qui demeure avec l'[dhamma|Enseignement]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhu, bhikkhu yathāsutaṃ yathāpariyattaṃ dhammaṃ vitthārena paresaṃ deseti. so tāya dhammapaññattiyā divasaṃ atināmeti, riñcati paṭisallānaṃ, nānuyuñjati ajjhattaṃ cetosamathaṃ. ayaṃ vuccati, bhikkhu: ‘bhikkhu paññattibahulo, no dhammavihārī’”.",
+      "fr": "Ou bien, [bhikkhu|mendiant], un [bhikkhu|mendiant] professe aux autres en détail l'[dhamma|Enseignement] tel qu'il l'a entendu et tel qu'il l'a appris. Il passe sa journée à cette dispensation de l'[dhamma|Enseignement], il néglige l'[patisallana|isolement], il ne s'adonne pas à la [samatha|tranquillité] intérieure de l'[citta|esprit]. Voici, [bhikkhu|mendiant], ce qu'on appelle un [bhikkhu|mendiant] qui dispense beaucoup mais pas qui demeure avec l'[dhamma|Enseignement]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhu, bhikkhu yathāsutaṃ yathāpariyattaṃ dhammaṃ vitthārena sajjhāyaṃ karoti. so tena sajjhāyena divasaṃ atināmeti, riñcati paṭisallānaṃ, nānuyuñjati ajjhattaṃ cetosamathaṃ. ayaṃ vuccati, bhikkhu: ‘bhikkhu sajjhāyabahulo, no dhammavihārī’”.",
+      "fr": "Ou bien, [bhikkhu|mendiant], un [bhikkhu|mendiant] récite en détail (pour entretenir la mémoire) l'[dhamma|Enseignement] tel qu'il l'a entendu et tel qu'il l'a appris. Il passe sa journée à cette récitation de l'[dhamma|Enseignement], il néglige l'[patisallana|isolement], il ne s'adonne pas à la [samatha|tranquillité] intérieure de l'[citta|esprit]. Voici, [bhikkhu|mendiant], ce qu'on appelle un [bhikkhu|mendiant] qui récite beaucoup mais pas qui demeure avec l'[dhamma|Enseignement]."
+    },
+    {
+      "pl": "“puna caparaṃ, bhikkhu, bhikkhu yathāsutaṃ yathāpariyattaṃ dhammaṃ cetasā anuvitakketi anuvicāreti manasānupekkhati. so tehi dhammavitakkehi divasaṃ atināmeti, riñcati paṭisallānaṃ, nānuyuñjati ajjhattaṃ cetosamathaṃ. ayaṃ vuccati, bhikkhu: ‘bhikkhu vitakkabahulo, no dhammavihārī’”.",
+      "fr": "Ou bien, [bhikkhu|mendiant], un [bhikkhu|mendiant], [vitakka|pense activement] et [vicara|passivement] avec son esprit à l'[dhamma|Enseignement] tel qu'il l'a entendu et tel qu'il l'a appris. Il passe sa journée à cette réflexion sur l'[dhamma|Enseignement], il néglige l'[patisallana|isolement], il ne s'adonne pas à la [samatha|tranquillité] intérieure de l'[citta|esprit]. Voici, [bhikkhu|mendiant], ce qu'on appelle un [bhikkhu|mendiant] qui pense beaucoup mais pas qui demeure avec l'[dhamma|Enseignement]."
+    },
+    {
+      "pl": "“idha, bhikkhu, bhikkhu dhammaṃ pariyāpuṇāti: suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. so tāya dhammapariyattiyā na divasaṃ atināmeti, nāpi riñcati paṭisallānaṃ, anuyuñjati ajjhattaṃ cetosamathaṃ. evaṃ kho, bhikkhu, bhikkhu dhammavihārī hoti.",
+      "fr": "À cet égard, [bhikkhu|mendiant], un [bhikkhu|mendiant] connaît l'[dhamma|Enseignement] par cœur: les souttas, les mélanges de prose et de versets, les explications, les versets, les exclamations, les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Il ne passe pas sa journée à cet apprentissage de l'[dhamma|Enseignement], il ne néglige pas l'[patisallana|isolement], il s'adonne à la [samatha|tranquillité] intérieure de l'[citta|esprit]. Voici, [bhikkhu|mendiant], ce qu'on appelle un [bhikkhu|mendiant] qui demeure avec l'[dhamma|Enseignement]."
+    },
+    {
+      "pl": "“iti kho, bhikkhu, desito mayā pariyattibahulo, desito paññattibahulo, desito sajjhāyabahulo, desito vitakkabahulo, desito dhammavihārī. yaṃ kho, bhikkhu, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. etāni, bhikkhu, rukkhamūlāni, etāni suññāgārāni. jhāyatha, bhikkhu, mā pamādattha, mā pacchā vippaṭisārino ahuvattha. ayaṃ vo amhākaṃ anusāsanī”ti.",
+      "fr": "Ainsi, [bhikkhu|mendiant], je t'ai expliqué celui qui apprend beaucoup, celui qui dispense beaucoup, celui qui récite beaucoup, celui qui pense beaucoup et celui qui demeure avec l'[dhamma|Enseignement]. J'ai fait pour toi ce qui devrait être fait par un enseignant souhaitant le bien de ses [savaka|disciples], par sympathie, par compassion. Voici les racines des arbres, voilà des pièces vides. [jhana|Médite], [bhikkhu|mendiant], ne sois pas négligent, n'aie pas à le regretter plus tard. Voici mon instruction pour toi."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "patisallana",
+    "samatha",
+    "citta",
+    "vitakka",
+    "vicara",
+    "savaka",
+    "jhana"
+  ],
+  "translator": "Rémy"
+}

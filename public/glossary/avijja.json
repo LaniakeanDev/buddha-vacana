@@ -1,0 +1,466 @@
+{
+  "id": "avijja",
+  "title": "avijjā",
+  "breakdown": "[[4@m_a|a]+[vijja|vijjā]], ",
+  "translation": ["nescience, ignorance, non-connaissance. "],
+  "body": [
+    {
+      "p": [
+        "[i]Avijjā[/i] est définie dans le Vibhaṅga Sutta comme consistant en l'ignorance par rapport aux quatre nobles vérités:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 12.2]",
+        "text": [
+          {
+            "pl": "“katamā ca, bhikkhave, avijjā? yaṃ kho, bhikkhave, dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ. ayaṃ vuccati, bhikkhave, avijjā.",
+            "fr": "Et qu'est-ce, mendiants, que l'ignorance? La non-connaissance du mal-être, la non-connaissance de l'origine du mal-être, la non-connaissance de la cessation du mal-être et la non-connaissance de la voie menant à la cessation du mal-être, voici ce qu'on appelle l'ignorance."
+          }
+        ]
+      }
+    },
+    { "p": ["On trouve dans le Khandha Saṃyutta d'autres définitions liées aux cinq [khandha|khandha]s:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.113]",
+        "text": [
+          {
+            "pl": "—“‘avijjā avijjā’ti, bhante, vuccati. katamā nu kho, bhante, avijjā, kittāvatā ca avijjāgato hotī”ti?",
+            "fr": "—Bhanté, on entend dire: [i]«Ignorance, ignorance»[/i]. Qu'est-ce donc, Bhanté, que l'ignorance, et de quelle manière est-on ignorant?"
+          },
+          {
+            "pl": "—“idha, bhikkhu, assutavā puthujjano rūpaṃ nappajānāti, rūpasamudayaṃ nappajānāti, rūpanirodhaṃ nappajānāti, rūpanirodhagāminiṃ paṭipadaṃ nappajānāti;",
+            "fr": "—En cela, mendiant, un individu ordinaire sans instruction ne discerne pas la Forme, ne discerne pas l'apparition de la Forme, ne discerne pas la cessation de la Forme, et ne discerne pas la voie menant à la cessation de la Forme; "
+          },
+          {
+            "pl": "vedanaṃ nappajānāti, vedanāsamudayaṃ nappajānāti, vedanānirodhaṃ nappajānāti, vedanānirodhagāminiṃ paṭipadaṃ nappajānāti;",
+            "fr": "il ne discerne pas le Ressenti, ne discerne pas l'apparition du Ressenti, ne discerne pas la cessation du Ressenti, et ne discerne pas la voie menant à la cessation du Ressenti; "
+          },
+          {
+            "pl": "saññaṃ nappajānāti, saññāsamudayaṃ nappajānāti, saññānirodhaṃ nappajānāti, saññānirodhagāminiṃ paṭipadaṃ nappajānāti;",
+            "fr": "il ne discerne pas la Perception, ne discerne pas l'apparition de la Perception, ne discerne pas la cessation de la Perception, et ne discerne pas la voie menant à la cessation de la Perception; "
+          },
+          {
+            "pl": "saṅkhāre nappajānāti, saṅkhārasamudayaṃ nappajānāti, saṅkhāranirodhaṃ nappajānāti, saṅkhāranirodhagāminiṃ paṭipadaṃ nappajānāti;",
+            "fr": "il ne discerne pas les Constructions, ne discerne pas l'apparition des Constructions, ne discerne pas la cessation des Constructions, et ne discerne pas la voie menant à la cessation des Constructions; "
+          },
+          {
+            "pl": "viññāṇaṃ nappajānāti, viññāṇasamudayaṃ nappajānāti, viññāṇanirodhaṃ nappajānāti, viññāṇanirodhagāminiṃ paṭipadaṃ nappajānāti;",
+            "fr": "il ne discerne pas la Conscience, ne discerne pas l'apparition de la Conscience, ne discerne pas la cessation de la Conscience, et ne discerne pas la voie menant à la cessation de la Conscience."
+          },
+          {
+            "pl": "ayaṃ vuccati, bhikkhu, avijjā. ettāvatā ca avijjāgato hotī”ti.",
+            "fr": "Voici, mendiant, ce qu'on appelle l'ignorance, et voici de quelle manière on est ignorant."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.126]",
+        "text": [
+          {
+            "pl": "—“‘avijjā avijjā’ti, bhante, vuccati. katamā nu kho, bhante, avijjā, kittāvatā ca avijjāgato hotī”ti?",
+            "fr": "—Bhanté, on entend dire: [i]«Ignorance, ignorance»[/i]. Qu'est-ce donc, Bhanté, que l'ignorance, et de quelle manière est-on ignorant?"
+          },
+          {
+            "pl": "—“idha, bhikkhu, assutavā puthujjano samudayadhammaṃ rūpaṃ ‘samudayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti; vayadhammaṃ rūpaṃ ‘vayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ rūpaṃ ‘samudayavayadhammaṃ rūpan’ti yathābhūtaṃ nappajānāti.",
+            "fr": "—En cela, mendiant, un individu ordinaire sans instruction ne discerne pas telle qu'elle est dans les faits une Forme par nature sujette à l'apparition comme une Forme par nature sujette à l'apparition, il ne discerne pas telle qu'elle est dans les faits une Forme par nature sujette à la disparition comme une Forme par nature sujette à la disparition, et il ne discerne pas telle qu'elle est dans les faits une Forme par nature sujette à l'apparition & disparition comme une Forme par nature sujette à l'apparition & disparition."
+          },
+          {
+            "pl": "samudayadhammaṃ vedanaṃ ‘samudayadhammā vedanā’ti yathābhūtaṃ nappajānāti; vayadhammaṃ vedanaṃ ‘vayadhammā vedanā’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ vedanaṃ ‘samudayavayadhammā vedanā’ti yathābhūtaṃ nappajānāti.",
+            "fr": "Il ne discerne pas tel qu'il est dans les faits un Ressenti par nature sujet à l'apparition comme un Ressenti par nature sujet à l'apparition, il ne discerne pas tel qu'il est dans les faits un Ressenti par nature sujet à la disparition comme un Ressenti par nature sujet à la disparition, et il ne discerne pas tel qu'il est dans les faits un Ressenti par nature sujet à l'apparition & disparition comme un Ressenti par nature sujet à l'apparition & disparition."
+          },
+          {
+            "pl": "samudayadhammaṃ saññaṃ ‘samudayadhammaṃ saññan’ti yathābhūtaṃ nappajānāti; vayadhammaṃ saññaṃ ‘vayadhammaṃ saññan’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ saññaṃ ‘samudayavayadhammaṃ saññan’ti yathābhūtaṃ nappajānāti.",
+            "fr": "Il ne discerne pas telle qu'elle est dans les faits une Perception par nature sujette à l'apparition comme une Perception par nature sujette à l'apparition, il ne discerne pas telle qu'elle est dans les faits une Perception par nature sujette à la disparition comme une Perception par nature sujette à la disparition, et il ne discerne pas telle qu'elle est dans les faits une Perception par nature sujette à l'apparition & disparition comme une Perception par nature sujette à l'apparition & disparition."
+          },
+          {
+            "pl": "samudayadhamme saṅkhāre ‘samudayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti; vayadhamme saṅkhāre ‘vayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti; samudayavayadhamme saṅkhāre ‘samudayavayadhammā saṅkhārā’ti yathābhūtaṃ nappajānāti.",
+            "fr": " Il ne discerne pas telles qu'elles sont dans les faits des Constructions par nature sujettes à l'apparition comme des Constructions par nature sujettes à l'apparition, il ne discerne pas telles qu'elles sont dans les faits des Constructions par nature sujettes à la disparition comme des Constructions par nature sujettes à la disparition, et il ne discerne pas telles qu'elles sont dans les faits des Constructions par nature sujettes à l'apparition & disparition comme des Constructions par nature sujettes à l'apparition & disparition.  "
+          },
+          {
+            "pl": "samudayadhammaṃ viññāṇaṃ ‘samudayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti; vayadhammaṃ viññāṇaṃ ‘vayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti; samudayavayadhammaṃ viññāṇaṃ ‘samudayavayadhammaṃ viññāṇan’ti yathābhūtaṃ nappajānāti. ayaṃ vuccati, bhikkhu, avijjā; ettāvatā ca avijjāgato hotī”ti.",
+            "fr": " Il ne discerne pas telle qu'elle est dans les faits une Conscience par nature sujette à l'apparition comme une Conscience par nature sujette à l'apparition, il ne discerne pas telle qu'elle est dans les faits une Conscience par nature sujette à la disparition comme une Conscience par nature sujette à la disparition, et il ne discerne pas telle qu'elle est dans les faits une Conscience par nature sujette à l'apparition & disparition comme une Conscience par nature sujette à l'apparition & disparition.  "
+          },
+          {
+            "pl": "ayaṃ vuccati, bhikkhu, avijjā. ettāvatā ca avijjāgato hotī”ti.",
+            "fr": " Voici, mendiant, ce qu'on appelle l'ignorance, et voici de quelle manière on est ignorant.  "
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.129]",
+        "text": [
+          {
+            "pl": "—“‘avijjā avijjā’ti, bhante, vuccati. katamā nu kho, bhante, avijjā, kittāvatā ca avijjāgato hotī”ti?",
+            "fr": "—Ami Saripoutta, on entend dire: [i]«Ignorance, ignorance»[/i]. Qu'est-ce donc, ami Saripoutta, que l'ignorance, et de quelle manière est-on ignorant?"
+          },
+          {
+            "pl": "—“idhāvuso assutavā puthujjano rūpassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti, vedanāya assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti, saññāya assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti, saṅkhārānaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti, viññāṇassa assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti.",
+            "fr": "—En cela, ami, un individu ordinaire sans instruction ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à la Forme. Il ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport au Ressenti. Il ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à la Perception. Il ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport aux Constructions. Il ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à la Conscience."
+          },
+          {
+            "pl": "—ayaṃ vuccatāvuso, avijjā; ettāvatā ca avijjāgato hotī”ti.",
+            "fr": "Voici, ami, ce qu'on appelle l'ignorance, et voici de quelle manière on est ignorant."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [b]SN 22.84[/b], [i]avijjā[/i] est comparée à un 'maquis épais' [i](tibbo vanasaṇḍo)[/i] sur le chemin de [nibbana|nibbāna]. À [@$MN 19], [i]avijjā[/i] est comparée à un 'appât' [i](okacara)[/i] installé par un chasseur ([mara|Māra]) afin d'attirer un troupeau de daims sur un chemin erroné qui les mènera à leur malheur et leur infortune. À [b]MN 105[/b], [i]avijjā[/i] est comparée à un poison [i](visadosa)[/i] répandu sur une flèche [i](salla)[/i] qui a blessé quelqu'un. La flèche représente [tanha|taṇhā], tandis que le poison est répandu par [chanda|chanda]·[raga|rāga]·[byapada|byāpāda].",
+        "[i]Avijjā[/i] constitue l'un des trois (principaux) [asava|āsava]s, aux côtés de [kama|kāma] et [bhava|bhava].",
+        "[i]Avijjā[/i] constitue l'une des quatre [i]oghas[/i] (inondations) ainsi que l'un des quatre [i]yogas[/i] (jougs), et est accompagnée dans les deux listes de [kama|kāma], [bhava|bhava] et [ditthi|diṭṭhi]. "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.10]",
+        "text": [
+          {
+            "pl": "Avijjāyogo ca kathaṃ hoti? Idha, bhikkhave, ekacco channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ nappajānāti. Tassa channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathā·bhūtaṃ appajānato yā chasu phassāyatanesu avijjā aññāṇaṃ sānuseti. Ayaṃ vuccati, bhikkhave, avijjāyogo.",
+            "fr": "Et qu'est-ce, mendiants, que le joug de l'ignorance? En cela, mendiants, un certain individu ne comprend pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'ignorance. Ne comprenant pas tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'ignorance, l'avidité envers l'ignorance, la complaisance dans l'ignorance, l'attraction envers l'ignorance, l'engouement pour l'ignorance, la soif d'ignorance, la fièvre d'ignorance, l'attachement à l'ignorance et l'appétence d'ignorance expriment leur tendance par rapport à l'ignorance. Voici, mendiants, ce qu'on appelle le joug de l'ignorance."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[i]Avijjā[/i] constitue l'un des [i]uddhambhāgiyā [samyojana|saṃyojanā][/i] (entraves supérieures), avec [rupa|rūpa]·[raga|rāga], [arupa|arūpa]·[raga|rāga], [maana|māna], et [uddhacca|uddhacca].",
+        "[i]Avijjā[/i] est également l'un des sept [anusaya|anusaya]s, aux côtés de [kamaraga|kāma·rāga], [patigha|paṭigha], [ditthi|diṭṭhi], [vicikiccha|vicikiccha], [maana|māna] et [bhavaraga|bhava·rāga]. En tant qu'[anusaya|anusaya], [i]avijjā[/i] est liée à [adukkhamasukhavedana|adukkham·asukhā vedanā]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]MN 148[/b]",
+        "text": [
+          {
+            "pl": "adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti. tassa avijjānusayo anuseti.",
+            "fr": "Si, lorsqu'on est touché par un ressenti neutre, on ne discerne pas, tels qu'ils sont dans les faits l'apparition, la disparition, l'attrait, le désavantage et l'émancipation vis-à-vis de ce ressenti, alors le penchant latent à l'ignorance exprime son penchant."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$MN 44]",
+        "text": [
+          {
+            "pl": "“adukkhamasukhāya vedanāya avijjānusayo anusetī”ti...",
+            "fr": "Le penchant latent à l'ignorance exprime sa tendance vis-à-vis des ressentis neutres..."
+          },
+          {
+            "pl": "“sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti?...",
+            "fr": "Est-ce que le penchant latent à l'ignorance exprime sa tendance vis-à-vis de tous les ressentis neutres?..."
+          },
+          {
+            "pl": "“na sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti...",
+            "fr": "Non, le penchant latent à l'ignorance n'exprime pas sa tendance vis-à-vis de tous les ressentis neutres..."
+          },
+          {
+            "pl": "“adukkhamasukhāya vedanāya kiṃ pahātabban”ti?...",
+            "fr": "Qu'est-ce qui est à abandonner par rapport aux ressentis neutres?..."
+          },
+          {
+            "pl": "“adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti...",
+            "fr": "C'est le penchant latent à l'ignorance qui est à abandonner par rapport aux ressentis neutres..."
+          },
+          {
+            "pl": "“sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti?...",
+            "fr": "Est-ce que le penchant latent à l'ignorance est à abandonner par rapport à tous les ressentis neutres?..."
+          },
+          {
+            "pl": "na sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo...",
+            "fr": "Non, le penchant latent à l'ignorance n'est pas à abandonner par rapport à tous les ressentis neutres..."
+          },
+          {
+            "pl": "idhāvuso visākha, bhikkhu sukhassa ca pahānā, dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. avijjaṃ tena pajahati, na tattha avijjānusayo anusetī”ti.",
+            "fr": "En cela, ami Visakha, abandonnant le bien-être et abandonnant le mal-être, la plaisance et l'affliction mentales ayant auparavant disparu, il entre et demeure dans le quatrième jhana, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité. Avec cela, il abandonne l'ignorance. Aucun penchant latent à l'ignorance n'y exprime sa tendance."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[i]Avijjā[/i] est également reliée à [i]«un ressenti engendré par un contact-ignorance' (avijjā·samphassa·ja vedayita):[/i]"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.47]",
+        "text": [
+          {
+            "pl": "atthi, bhikkhave, mano, atthi dhammā, atthi avijjādhātu. avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa ‘asmī’tipissa hoti; ‘ayamahamasmī’tipissa hoti; ‘bhavissan’tipissa hoti; ‘na bhavissan’tipissa hoti; ‘rūpī bhavissan’tipissa hoti; ‘arūpī bhavissan’tipissa hoti; ‘saññī bhavissan’tipissa hoti; ‘asaññī bhavissan’tipissa hoti; ‘nevasaññīnāsaññī bhavissan’tipissa hoti”.",
+            "fr": "Il y a, mendiants, Le mental, il y a les phénomènes mentaux, il y a une disposition à l'ignorance. Un individu ordinaire sans instruction touché par un ressenti engendré par un contact-ignorance se dit 'Je suis', 'Je suis cela', 'Je serai', 'Je ne serai pas', 'Je serai pourvu de Forme', 'Je serai sans Forme', 'Je serai pourvu de Perception', 'Je serai sans Perception', 'Je ne serai ni pourvu de Perception, ni sans Perception'."
+          },
+          {
+            "pl": "“tiṭṭhanteva kho, bhikkhave, tattheva pañcindriyāni. athettha sutavato ariyasāvakassa avijjā pahīyati, vijjā uppajjati. tassa avijjāvirāgā vijjuppādā ‘asmī’tipissa na hoti; ‘ayamahamasmī’tipissa na hoti; ‘bhavissan’tipissa na hoti; ‘na bhavissan’tipissa na hoti; ‘rūpī bhavissan’tipissa na hoti; ‘arūpī bhavissan’tipissa na hoti; ‘saññī bhavissan’tipissa na hoti; ‘asaññī bhavissan’tipissa na hoti; ‘nevasaññīnāsaññībhavissan’tipissa na hotī”ti.",
+            "fr": "Les cinq facultés sensorielles restent là où elles sont, mais un noble disciple instruit abandonne l'ignorance à leur encontre, et la connaissance correcte apparaît. Avec la disparition de l'ignorance et l'apparition de la connaissance correcte, il ne se dit pas 'Je suis', ni 'Je suis cela', ni 'Je serai', ni 'Je ne serai pas', ni 'Je serai pourvu de Forme', ni 'Je serai sans Forme', ni 'Je serai pourvu de Perception', ni 'Je serai sans Perception', ni 'Je ne serai ni pourvu de Perception, ni sans Perception'."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.81]",
+        "text": [
+          {
+            "pl": "avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā",
+            "fr": "Mendiants, chez un individu ordinaire sans instruction touché par un ressenti engendré par un contact ignorant, l'appétence apparaît."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [@$AN 3.67], [i]avijjā[/i] est expliquée comme ayant pour synonyme [moha|moha], bien qu'on puisse argumenter qu'étant donnée la position d'[i]avijjā[/i] parmi les [anusaya|anusaya]s, le terme fait référence à un type de facteur mental plus profond, lié à l'ignorance, qui pourrait ne pas être actif tout le temps, et dont [moha|moha] serait l'expression active à travers la délusion. ",
+        "[i]Avijjā[/i] représente également la cause ultime dans [paticcasamuppada|paṭicca·samuppāda], étant à l'origine des [sankhara|saṅkhāra]s. Comme cela a été mentionné plus haut, le terme est défini dans ce contexte à [@$SN 12.2] comme consistant en l'ignorance des quatre [ariyasacca|ariya·sacca]s. Le rôle que joue[i]avijjā[/i] par rapport aux autres [akusala|akusala] [dhamma|dhamma]s est également mentionné en-dehors du contexte de [paticcasamuppada|paṭicca·samuppāda]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 20.1]",
+        "text": [
+          {
+            "pl": "“seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭasamosaraṇā kūṭasamugghātā sabbā tā samugghātaṃ gacchanti; evameva kho, bhikkhave, ye keci akusalā dhammā sabbe te avijjāmūlakā avijjāsamosaraṇā avijjāsamugghātā, sabbe te samugghātaṃ gacchanti.",
+            "fr": "Tout comme, mendiants, toutes les poutres d'une maison au toit pointu mènent au faîte, se rejoignent au faîte, et lorsque le faîte est retiré, elles sont toutes retirées [également], de la même manière, tous les états mentaux désavantageux son enracinés dans l'ignorance, se rejoignent dans l'ignorance, et lorsque l'ignorance est retirée, ils sont tous retirés [également]."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.1]",
+        "text": [
+          {
+            "pl": "“avijjā, bhikkhave, pubbaṅgamā akusalānaṃ dhammānaṃ samāpattiyā, anvadeva ahirikaṃ anottappaṃ. avijjāgatassa, bhikkhave, aviddasuno micchādiṭṭhi pahoti; micchādiṭṭhissa micchāsaṅkappo pahoti; micchāsaṅkappassa micchāvācā pahoti; micchāvācassa micchākammanto pahoti; micchākammantassa micchāājīvo pahoti; micchāājīvassa micchāvāyāmo pahoti; micchāvāyāmassa micchāsati pahoti; micchāsatissa micchāsamādhi pahoti.",
+            "fr": " Mendiants, l'ignorance est le précurseur de l'engagement dans les états mentaux mauvais et désavantageux, suivie de l'absence de honte morale et l'absence de crainte morale. Mendiants, chez le sot vivant dans l'ignorance, la vue erronée apparaît. Chez celui qui a une vue erronée, l'aspiration erronée apparaît. Chez celui qui a une aspiration erronée, la parole erronée apparaît. Chez celui qui a une parole erronée, l'action erronée apparaît. Chez celui qui a une action erronée, les moyens de subsistance erronés apparaissent. Chez celui qui a des moyens de subsistance erronés, l'effort erroné apparaît. Chez celui qui a un effort erroné, la présence d'esprit erronée apparaît. Chez celui qui a une présence d'esprit erronée, la concentration erronée apparaît."
+          }
+        ]
+      }
+    },
+    { "p": ["[i]Avijjā[/i] est à l'origine des [asava|āsava]s:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.63]",
+        "text": [
+          {
+            "pl": "“katamo ca, bhikkhave, āsavānaṃ nidānasambhavo? avijjā, bhikkhave, āsavānaṃ nidānasambhavo...",
+            "fr": "Et quelle est, mendiants, la cause de la production des impuretés mentales? C'est l'ignorance, mendiants, qui est la cause de la production des impuretés mentales..."
+          },
+          {
+            "pl": "“katamo ca, bhikkhave, āsavanirodho? avijjānirodho, bhikkhave, āsavanirodho.",
+            "fr": "Et qu'est-ce, mendiants, que la cessation des impuretés mentales? Mendiants, la cessation de l'ignorance est la cessation des impuretés mentales."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Comme on le verra plus loin, la relation entre [i]avijjā[/i] et les [asava|āsava]s est réciproque. Il est également dit spécifiquement à propos d'[i]avijjā[/i] qu'elle donne naissance au désir:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 4.50[/b]",
+        "text": [
+          {
+            "pl": "avijjānivutā posā, piyarūpābhinandino.",
+            "fr": "Les hommes obstrués par l'ignorance cherchent le bonheur dans ce qui est plaisant"
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.62]",
+        "text": [
+          {
+            "pl": "“bhavataṇhāmpāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro bhavataṇhāya? ‘avijjā’tissa vacanīyaṃ.",
+            "fr": "Mendiants, je déclare que l'appétence pour l'existence a une nourriture, elle n'est pas sans nourriture. Et quelle est la nourriture de l'appétence pour l'existence? L'ignorance, devrait-on dire."
+          }
+        ]
+      }
+    },
+    { "p": ["[i]Avijjā[/i] apparaît sous l'effet de facteurs spécifiques. Les cinq [nivarana|nīvaraṇa]s:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.61]",
+        "text": [
+          {
+            "pl": "“purimā, bhikkhave, koṭi na paññāyati avijjāya: ‘ito pubbe avijjā nāhosi, atha pacchā samabhavī’ti. evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati: ‘idappaccayā avijjā’ti. avijjampāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro avijjāya? ‘pañca nīvaraṇā’tissa vacanīyaṃ.",
+            "fr": "Mendiants, on ne discerne pas de commencement à l'ignorance: [i]«Avant cela, il n'y avait pas d'ignorance, et elle est apparue après.»[/i] Bien que l'on dise cela, mendiants, on discerne: [i]«L'ignorance est basée sur ceci»[/i]. Mendiants, je dis que l'ignorance a un nutriment, elle n'est pas sans nutriment. Et quel est le nutriment de l'ignorance? Les cinq obstructions, devrait-on dire."
+          }
+        ]
+      }
+    },
+    { "p": ["[aymk|Ayoniso manasikāra]:"] },
+    {
+      "quote": {
+        "source": "[@$@$MN 2]",
+        "text": [
+          {
+            "pl": "“katame ca, bhikkhave, dhammā na manasikaraṇīyā ye dhamme manasi karoti? yassa, bhikkhave, dhamme manasikaroto anuppanno vā kāmāsavo uppajjati, uppanno vā kāmāsavo pavaḍḍhati; anuppanno vā bhavāsavo uppajjati, uppanno vā bhavāsavo pavaḍḍhati; anuppanno vā avijjāsavo uppajjati, uppanno vā avijjāsavo pavaḍḍhati. ime dhammā na manasikaraṇīyā ye dhamme manasi karoti...",
+            "fr": "Et quelles sont, mendiants, les choses auxquelles il ne faudrait pas appliquer son esprit mais auxquelles il l'applique [tout de même]? Ce sont, mendiants, les choses telles que lorsqu'il y applique son esprit, les impuretés mentales liées à la sensualité qui n'étaient pas [encore] apparues apparaissent, et les impuretés mentales liées à la sensualité qui étaient [déjà] apparues se développent; les impuretés mentales liées à l'existence qui n'étaient pas [encore] apparues apparaissent, et les impuretés mentales liées à l'existence qui étaient [déjà] apparues se développent; les impuretés mentales liées à l'ignorance qui n'étaient pas [encore] apparues apparaissent, et les impuretés mentales liées à l'ignorance qui étaient [déjà] apparues se développent: voici, mendiants, quelles sont les choses auxquelles il ne faudrait pas appliquer son esprit..."
+          },
+          {
+            "pl": " “so evaṃ ayoniso manasi karoti: ‘ahosiṃ nu kho ahaṃ atītamaddhānaṃ? na nu kho ahosiṃ atītamaddhānaṃ? kiṃ nu kho ahosiṃ atītamaddhānaṃ? kathaṃ nu kho ahosiṃ atītamaddhānaṃ? kiṃ hutvā kiṃ ahosiṃ nu kho ahaṃ atītamaddhānaṃ? bhavissāmi nu kho ahaṃ anāgatamaddhānaṃ? na nu kho bhavissāmi anāgatamaddhānaṃ? kiṃ nu kho bhavissāmi anāgatamaddhānaṃ? kathaṃ nu kho bhavissāmi anāgatamaddhānaṃ? kiṃ hutvā kiṃ bhavissāmi nu kho ahaṃ anāgatamaddhānan’ti? etarahi vā paccuppannamaddhānaṃ ajjhattaṃ kathaṃkathī hoti: ‘ahaṃ nu khosmi? no nu khosmi? kiṃ nu khosmi? kathaṃ nu khosmi? ayaṃ nu kho satto kuto āgato? so kuhiṃ gāmī bhavissatī’ti?",
+            "fr": "Il applique son mental à mauvais escient des manières suivantes: 'Est-ce que j'existais dans le passé?', 'Est-ce que je n'existais pas dans le passé?', 'Qui étais-je dans le passé?', 'Comment étais-je dans le passé?', 'Dans le passé, ayant été qui, que suis-je devenu [ensuite (dans une existence ultérieure)]?',{2} 'Est-ce que j'existerai dans le futur?', 'Est-ce que je n'existerai pas dans le futur?', 'Qui serai-je dans le futur?', 'Comment serai-je dans le futur?', 'Dans le futur ayant été qui, que deviendrai-je [ensuite (dans une existence ultérieure)]?' Ou sinon, il est intérieurement perplexe au sujet du présent, des manières suivantes: 'Est-ce que j'existe?', 'Est-ce que je n'existe pas?', 'Qui suis-je?', 'Comment suis-je?', 'D'où cet être provient-il?', 'Où ira-t-il?'."
+          },
+          {
+            "pl": "“tassa evaṃ ayoniso manasikaroto channaṃ diṭṭhīnaṃ aññatarā diṭṭhi uppajjati. ‘atthi me attā’ti vā assa saccato thetato diṭṭhi uppajjati; ‘natthi me attā’ti vā assa saccato thetato diṭṭhi uppajjati; ‘attanāva attānaṃ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; ‘attanāva anattānaṃ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; ‘anattanāva attānaṃ sañjānāmī’ti vā assa saccato thetato diṭṭhi uppajjati; atha vā panassa evaṃ diṭṭhi hoti: ‘yo me ayaṃ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṃ kammānaṃ vipākaṃ paṭisaṃvedeti so kho pana me ayaṃ attā nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ tatheva ṭhassatī’ti.",
+            "fr": "Chez celui qui applique ainsi son esprit à mauvais escient, l'une de ces six vues apparaît. La vue: 'J'ai un ego' lui apparaît vraie et sûre. Ou bien la vue: 'Je n'ai pas d'ego' lui apparaît vraie et sûre. Ou bien la vue: 'Je perçois l'ego au moyen de l'ego' lui apparaît vraie et sûre. Ou bien la vue: 'Je perçois le non-soi au moyen de l'ego' lui apparaît vraie et sûre. Ou bien la vue: 'Je perçois l'ego au moyen du non-soi' lui apparaît vraie et sûre. Et alors il a la vue: 'C'est mon ego qui parle, ressent et fait l'expérience ici et là des conséquences des actions bénéfiques ou malsaines; et mon ego est permanent, stable, éternel, il n'est pas par nature voué au changement, et il durera ainsi une éternité'. "
+          },
+          {
+            "pl": "idaṃ vuccati, bhikkhave, diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāraṃ diṭṭhivisūkaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ. diṭṭhisaṃyojanasaṃyutto, bhikkhave, assutavā puthujjano na parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi; ‘na parimuccati dukkhasmā’ti vadāmi.",
+            "fr": "Ceci, mendiants est appelé s'en remettre aux vues, c'est le taillis des vues, le maquis des vues, la contorsion des vues, le titubement des vues, l'entrave des vues. Entravé à l'entrave des vues, un individu ordinaire sans instruction ne peut échapper à la naissance, au vieillissement-et-mort, au chagrin, aux lamentations, aux douleurs, aux afflictions mentales et à l'adversité; je déclare qu'il n'échappe pas au mal-être."
+          }
+        ]
+      }
+    },
+    { "p": ["Les [asava|Āsava]s:"] },
+    {
+      "quote": {
+        "source": "[@$@$chris_009|MN 9]",
+        "text": [
+          {
+            "pl": "āsavasamudayā avijjāsamudayo; āsavanirodhā avijjānirodho",
+            "fr": "Avec l'apparition des impuretés mentales, il y a apparition de l'ignorance; avec la cessation des impuretés mentales, il y a cessation de l'ignorance."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Un certain nombre de facteurs menant à la cessation d'[i]avijjā[/i] sont également mentionnés dans les souttas. [kayagatasati|Kāyagatāsati]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 1.586[/b]",
+        "text": [
+          {
+            "pl": "“ekadhamme, bhikkhave, bhāvite bahulīkate avijjā pahīyati. katamasmiṃ ekadhamme? kāyagatāya satiyā.",
+            "fr": "Mendiants, il y a un état mental qui, lorsqu'il est cultivé et pratiqué fréquemment, l'ignorance est abandonnée. Et quel est cet état mental? La présence d'esprit dirigée vers le corps."
+          }
+        ]
+      }
+    },
+    { "p": ["[aniccasanna|Anicca·saññā]:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.102]",
+        "text": [
+          {
+            "pl": "“aniccasaññā, bhikkhave, bhāvitā bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanati”.",
+            "fr": "Mendiants, lorsque la perception de l'impermanence est cultivée et pratiquée fréquemment, elle met un terme à toute avidité sensuelle, elle met un terme à toute avidité envers la Forme, elle met un terme à toute avidité d'existence, elle met un terme à toute ignorance, et elle élimine toute prétention 'Je suis'."
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "“kathaṃ bhāvitā ca, bhikkhave, aniccasaññā kathaṃ bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanati? ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo; iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. evaṃ bhāvitā kho, bhikkhave, aniccasaññā evaṃ bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanatī”ti.",
+            "fr": "Et comment, mendiants, la perception de l'impermanence est-elle cultivée, comment est-elle pratiquée fréquemment afin de mettre un terme à toute avidité sensuelle, de mettre un terme à toute avidité envers la Forme, de mettre un terme à toute avidité d'existence, de mettre un terme à toute ignorance, et d'éliminer toute prétention 'Je suis'? 'Voici la Forme, voici l'apparition de la Forme, voici l'extinction de la Forme; voici le Ressenti, voici l'apparition du Ressenti, voici l'extinction du Ressenti; voici la Perception, voici l'apparition de la Perception, voici l'extinction de la Perception; voici les Constructions, voici l'apparition des Constructions, voici l'extinction des Constructions; voici la Conscience, voici l'apparition de la Conscience, voici l'extinction de la Conscience.' Voici, mendiants, comment la perception de l'impermanence est cultivée, comment elle est pratiquée fréquemment de mettre un terme à toute avidité sensuelle, de mettre un terme à toute avidité envers la Forme, de mettre un terme à toute avidité d'existence, de mettre un terme à toute ignorance, et d'éliminer toute prétention 'Je suis'."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 35.79]",
+        "text": [
+          {
+            "pl": "—“katamo pana, bhante, eko dhammo yassa pahānā bhikkhuno avijjā pahīyati, vijjā uppajjatī”ti?",
+            "fr": "—Mais quelle est, Bhanté, cette chose unique par l'abandon de laquelle l'ignorance est abandonnée chez un mendiant et la connaissance correcte apparaît? "
+          },
+          {
+            "pl": "—“avijjā kho, bhikkhu, eko dhammo yassa pahānā bhikkhuno avijjā pahīyati, vijjā uppajjatī”ti.",
+            "fr": "—Mendiant, l'ignorance est cette chose unique par l'abandon de laquelle l'ignorance est abandonnée chez un mendiant et la connaissance correcte apparaît. "
+          },
+          {
+            "pl": "—“kathaṃ pana, bhante, jānato, kathaṃ passato bhikkhuno avijjā pahīyati, vijjā uppajjatī”ti?",
+            "fr": "—Et comment faut-il connaître, Bhanté, comment faut-il voir pour que l'ignorance soit abandonnée et que la connaissance correcte apparaisse? "
+          },
+          {
+            "pl": "—“cakkhuṃ kho, bhikkhu, aniccato jānato passato avijjā pahīyati, vijjā uppajjati. rūpe aniccato jānato passato avijjā pahīyati, vijjā uppajjati. cakkhuviññāṇaṃ... cakkhusamphassaṃ... yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccato jānato passato avijjā pahīyati, vijjā uppajjati. sotaṃ... sadde... sotaviññāṇaṃ... sotasamphassaṃ... yampidaṃ sotasamphassapaccayā uppajjati...ghānaṃ... gandhe... ghānaviññāṇaṃ... ghānasamphassaṃ... yampidaṃ ghānasamphassapaccayā uppajjati...jivhaṃ... rase... jivhaviññāṇaṃ... jivhasamphassaṃ... yampidaṃ jivhasamphassapaccayā uppajjati...kāyaṃ... phoṭṭhabbe... kāyaviññāṇaṃ... kāyasamphassaṃ... yampidaṃ kāyasamphassapaccayā uppajjati...manaṃ... dhamme... manoviññāṇaṃ... manosamphassaṃ... yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccato jānato passato avijjā pahīyati, vijjā uppajjati. evaṃ kho, bhikkhu, jānato evaṃ passato avijjā pahīyati, vijjā uppajjatī”ti.",
+            "fr": "—Mendiant, c'est en connaissant et en voyant l'impermanence de l'œil que l'ignorance est abandonnée et que la connaissance correcte apparaît. C'est en connaissant et en voyant l'impermanence des formes [visibles]... de la conscience visuelle... du contact visuel... de tout ce qui apparaît sur la base du contact visuel, que ce soit ressenti comme agréable, désagréable ou neutre que l'ignorance est abandonnée et que la connaissance correcte apparaît. C'est en connaissant et en voyant l'impermanence de l'oreille... des sons... de la conscience auditive... du contact auditif... de tout ce qui apparaît sur la base du contact auditif... du nez... des odeurs... de la conscience olfactive... du contact olfactif... de tout ce qui apparaît sur la base du contact olfactif... de la langue... des saveurs... de la conscience gustative... du contact gustatif... de tout ce qui apparaît sur la base du contact gustatif... du corps... des sensations corporelles... de la conscience corporelle... du contact corporel... de tout ce qui apparaît sur la base du contact corporel... du mental... des phénomènes mentaux... de la conscience mentale... du contact mental... de tout ce qui apparaît sur la base du contact mental, que ce soit ressenti comme agréable, désagréable ou neutre que l'ignorance est abandonnée et que la connaissance correcte apparaît. "
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 35.80]",
+        "text": [
+          {
+            "pl": "“kathaṃ pana, bhante, jānato, kathaṃ passato avijjā pahīyati, vijjā uppajjatī”ti?",
+            "fr": "Et comment faut-il connaître, Bhanté, comment faut-il voir pour que l'ignorance soit abandonnée et que la connaissance correcte apparaisse? "
+          },
+          {
+            "pl": "“idha, bhikkhu, bhikkhuno sutaṃ hoti: ‘sabbe dhammā nālaṃ abhinivesāyā’ti. evañcetaṃ, bhikkhu, bhikkhuno sutaṃ hoti: ‘sabbe dhammā nālaṃ abhinivesāyā’ti, so sabbaṃ dhammaṃ abhijānāti, sabbaṃ dhammaṃ abhiññāya sabbaṃ dhammaṃ parijānāti, sabbaṃ dhammaṃ pariññāya sabbanimittāni aññato passati, cakkhuṃ aññato passati, rūpe... cakkhuviññāṇaṃ... cakkhusamphassaṃ... yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aññato passati... sotaṃ... sadde... sotaviññāṇaṃ... sotasamphassaṃ... yampidaṃ sotasamphassapaccayā uppajjati...ghānaṃ... gandhe... ghānaviññāṇaṃ... ghānasamphassaṃ... yampidaṃ ghānasamphassapaccayā uppajjati...jivhaṃ... rase... jivhaviññāṇaṃ... jivhasamphassaṃ... yampidaṃ jivhasamphassapaccayā uppajjati...kāyaṃ... phoṭṭhabbe... kāyaviññāṇaṃ... kāyasamphassaṃ... yampidaṃ kāyasamphassapaccayā uppajjati...manaṃ aññato passati, dhamme... manoviññāṇaṃ... manosamphassaṃ... yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aññato passati. evaṃ kho, bhikkhu, jānato evaṃ passato bhikkhuno avijjā pahīyati, vijjā uppajjatī”ti.",
+            "fr": "En cela, mendiant, un mendiant a entendu dire: 'Aucun phénomène ne mérite qu'on s'y attache'. Ainsi, mendiant, un mendiant ayant entendu dire qu'aucun phénomène ne mérite qu'on s'y attache connaît directement tous les phénomènes. Connaissant directement tous les phénomènes, il comprend complètement tous les phénomènes. Comprenant complètement tous les phénomènes, il voit tous les objets [de perception] comme étant autres. Il voit l'œil comme étant autre, il voit les formes visibles comme étant autres, il voit la conscience oculaire... le contact oculaire... tout ce qui apparaît sur la base le contact oculaire... l'oreille... les sons... la conscience auditive... le contact auditif... tout ce qui apparaît sur la base le contact auditif... le nez... les odeurs... la conscience olfactive... le contact olfactif... tout ce qui apparaît sur la base le contact olfactif... la langue... les saveurs... la conscience gustative... le contact gustatif... tout ce qui apparaît sur la base le contact gustatif... le corps... les sensations corporelles... la conscience corporelle... le contact corporel... tout ce qui apparaît sur la base le contact corporel... le mental... les phénomènes mentaux... la conscience mentale... le contact mental... tout ce qui apparaît sur la base le contact mental, que ce soit ressenti comme agréable, désagréable ou neutre, il le voit aussi comme étant autre. C'est en connaissant ainsi, mendiant, c'est en voyant ainsi que l'ignorance est abandonnée chez un mendiant et que la connaissance correcte apparaît."
+          }
+        ]
+      }
+    },
+    { "p": ["[samadhi|Samādhi]:"] },
+    {
+      "quote": {
+        "source": "[@$b]AN 6.24[/b]",
+        "text": [
+          {
+            "pl": "“chahi, bhikkhave, dhammehi samannāgato bhikkhu himavantaṃ pabbatarājaṃ padāleyya, ko pana vādo chavāya avijjāya! katamehi chahi?",
+            "fr": "Mendiants, un mendiant doué de six qualités pourrait détruire l'Himalaya, roi des montagnes, et que dire de la misérable ignorance! Quelles sont ces six?"
+          },
+          {
+            "pl": "idha, bhikkhave, bhikkhu samādhissa samāpattikusalo hoti,",
+            "fr": "En cela, mendiants, un mendiant est habile à l'atteinte de la concentration, "
+          },
+          { "pl": "samādhissa ṭhitikusalo hoti,", "fr": "il est habile au maintien de la concentration, " },
+          { "pl": "samādhissa vuṭṭhānakusalo hoti,", "fr": "il est habile à l'émergence de la concentration," },
+          { "pl": "samādhissa kallitakusalo hoti,", "fr": "il est habile en disposition à la concentration, " },
+          { "pl": "samādhissa gocarakusalo hoti,", "fr": "il est habile en nourritures de concentration, " },
+          { "pl": "samādhissa abhinīhārakusalo hoti.", "fr": "et il est habile en aspiration à la concentration." }
+        ]
+      }
+    },
+    { "p": ["[panna|Paññā]:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 2.31]",
+        "text": [
+          {
+            "pl": "vipassanā, bhikkhave, bhāvitā kamatthamanubhoti? paññā bhāvīyati. paññā bhāvitā kamatthamanubhoti? yā avijjā sā pahīyati.",
+            "fr": "En développant la vision discernante, quel bienfait obtient-on? Le discernement se développe. En développant le discernement, quel bienfait obtient-on? L'ignorance est abandonnée. "
+          }
+        ]
+      }
+    },
+    { "p": ["[abhinna|Abhiññā]:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.159]",
+        "text": [
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā pahātabbā? avijjā ca bhavataṇhā ca",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être abandonnés par connaissance directe? L'ignorance et l'appétence pour l'existence."
+          }
+        ]
+      }
+    },
+    { "p": ["Cultiver [appamada|appamāda] et être [atapi|ātāpī]:"] },
+    {
+      "quote": {
+        "source": "[@$@$MN 19]",
+        "text": [
+          {
+            "pl": "ayaṃ kho me, bhikkhave, rattiyā paṭhame yāme paṭhamā vijjā adhigatā; avijjā vihatā vijjā uppannā; tamo vihato āloko uppanno; yathā taṃ appamattassa ātāpino pahitattassa viharato.",
+            "fr": "Voici, mendiants, quelle fut la première connaissance à laquelle je parvins pendant la première partie de la nuit. L'ignorance était détruite, la connaissance correcte était apparue. L'obscurité était vaincue, la lumière était apparue, comme c'est le cas chez celui qui demeure assidu, ardent et voué à l'effort."
+          }
+        ]
+      }
+    }
+  ]
+}

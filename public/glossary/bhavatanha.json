@@ -1,0 +1,85 @@
+{
+  "id": "bhavatanha",
+  "title": "bhavataṇhā",
+  "breakdown": "[[4bhava|bhava]+[tanha|taṇhā]]",
+  "translation": [
+    "Soif (envers un état) d'existence, envers la vie, le devenir, le processus d'existence, désir d'(e continuer à) exister, d'existence répétée."
+  ],
+  "body": [
+    {
+      "p": [
+        "L'avidité d'existence ([bhavaraga|bhava·rāga]) est généralement considérée comme un synonyme.",
+        "La Soif d'existence est l'un parmi trois types de Soif listées dans l'exposé standard de la Soif ([tanha|taṇhā]), particulièrement dans le contexte de la noble vérité de l'apparition de la souffrance ([dukkhasamudaya|dukkha·samudaya] [ariyasacca|ariya·sacca]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 56.11]",
+        "text": [
+          {
+            "pl": "“idaṃ kho pana, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ: yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ kāmataṇhā [b]bhavataṇhā[/b] vibhavataṇhā.",
+            "fr": "De plus, mendiants, voici la noble vérité de l'origine du mal-être: c'est cette Soif menant à la continuation de l'existence, liée à la complaisance et l'avidité, se complaisant ici et là, c'est-à-dire la Soif de sensualité, la [b]Soif d'existence[/b], la Soif de non-existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La Soif d'existence est souvent mentionnée en conjonction avec l'ignorance ([avijja|avijjā]) comme quelque chose qui doit être abandonné:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.159]",
+        "text": [
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā pahātabbā? avijjā ca [b]bhavataṇhā[/b] ca. ime, bhikkhave, dhammā abhiññā pahātabbā.",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être abandonnés par connaissance directe? L'ignorance et la [b]Soif d'existence[/b]. Voici, mendiants, quels sont les états mentaux devant être abandonnés par connaissance directe."
+          }
+        ]
+      }
+    },
+    { "p": ["Le [@$an10-062|Taṇhā Sutta] met en lumière cette association:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.62]",
+        "text": [
+          {
+            "pl": "“purimā, bhikkhave, koṭi na paññāyati [b]bhavataṇhāya[/b]: ‘ito pubbe [b]bhavataṇhā[/b] nāhosi, atha pacchā samabhavī’ti. evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati: ‘idappaccayā [b]bhavataṇhā[/b]’’ti.",
+            "fr": "Mendiants, on ne discerne pas de point de départ à la [b]Soif d'existence[/b], [dont on pourrait dire:] “Avant cela, il n'y avait pas de [b]Soif d'existence[/b], elle est apparue ensuite.” Ceci dit, on discerne tout de même une cause à la [b]Soif d'existence[/b]."
+          },
+          {
+            "pl": "“[b]bhavataṇhā[/b]mpāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro [b]bhavataṇhāya[/b]? ‘avijjā’tissa vacanīyaṃ.",
+            "fr": "Mendiants, je dis que la [b]Soif d'existence[/b] a une alimentation, qu'elle n'est pas sans alimentation. Et quelle est l'alimentation de la [b]Soif d'existence[/b]? Il faudrait dire: “l'ignorance”."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans le [@$an04-010|Yoga Sutta], la cause de l'apparition de l'avidité d'existence est l'absence de discernement des réelles caractéristiques de l'existence ([bhava|bhava]), et ce qui permet de prévenir son apparition est au contraire la présence d'un tel discernement:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.10]",
+        "text": [
+          {
+            "pl": "“bhavayogo ca kathaṃ hoti? idha, bhikkhave, ekacco bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti. tassa bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ appajānato yo bhavesu [b]bhavarāgo[/b] bhavanandī bhavasneho bhavamucchā bhavapipāsā bhavapariḷāho bhavajjhosānaṃ bhavataṇhā sānuseti. ayaṃ vuccati, bhikkhave, bhavayogo. iti kāmayogo bhavayogo.",
+            "fr": "Et qu'est-ce, mendiants, que le joug de l'existence? À cet égard, mendiants, un certain individu ne discerne pas tels qu'ils sont réellement l'apparition, la disparition, l'agrément, le désavantage et l'émancipation par rapport à l'existence. Ne comprenant pas tels qu'ils sont réellement l'apparition, la disparition, l'agrément, le désavantage et l'émancipation par rapport à l'existence, [b]l'avidité d'existence[/b], la complaisance dans l'existence, l'attraction envers l'existence, l'engouement pour l'existence, la soif d'existence, la fièvre d'existence, l'attachement à l'existence et la Soif d'existence expriment leur tendance par rapport à l'existence. Voici, mendiants, ce qu'on appelle le joug de l'existence."
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "“bhavayogavisaṃyogo ca kathaṃ hoti? idha, bhikkhave, ekacco bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti. tassa bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānato yo bhavesu [b]bhavarāgo[/b] bhavanandī bhavasneho bhavamucchā bhavapipāsā bhavapariḷāho bhavajjhosānaṃ bhavataṇhā sā nānuseti. ayaṃ vuccati, bhikkhave, bhavayogavisaṃyogo. iti kāmayogavisaṃyogo bhavayogavisaṃyogo.",
+            "fr": "Et qu'est-ce, mendiants, que la sortie du joug de l'existence? À cet égard, mendiants, un certain individu discerne tels qu'ils sont réellement l'apparition, la disparition, l'agrément, le désavantage et l'émancipation par rapport à l'existence. Comprenant tels qu'ils sont réellement l'apparition, la disparition, l'agrément, le désavantage et l'émancipation par rapport à l'existence, [b]l'avidité envers l'existence[/b], la complaisance dans l'existence, l'attraction envers l'existence, l'engouement pour l'existence, la soif d'existence, la fièvre d'existence, l'attachement à l'existence et la Soif d'existence n'expriment pas leur tendance par rapport à l'existence. Voici, mendiants, ce qu'on appelle la sortie du joug de l'existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'élimination de la Soif d'existence est mentionnée par exemple à [@$SN 56.21] (ucchinnā bhavataṇhā, la Soif d'existence a été sectionnée)."
+      ]
+    }
+  ]
+}

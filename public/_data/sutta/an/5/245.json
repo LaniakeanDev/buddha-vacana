@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 5.245",
+  "plTitle": "Duccarita Sutta",
+  "frTitle": "Mauvais comportement",
+  "description": "Cinq dangers des mauvais comportements, et cinq avantages des bons comportements.",
+  "body": [
+    {
+      "pl": "Pañcime, bhikkhave, ādīnavā duccarite. Katame pañca? Attāpi attānaṃ upavadati; anuvicca viññū garahanti; pāpako kittisaddo abbhuggacchati; saddhammā vuṭṭhāti; asaddhamme patiṭṭhāti. Ime kho, bhikkhave, pañca ādīnavā duccarite.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [adinava|désavantages] du [duccarita|mauvais comportement]. Quels sont ces cinq? On se culpabilise soi-même, les individus perspicaces, après examen, font des réprimandes, une [papaka|mauvaise] réputation se répand, on se détourne du [saddhamma|Dhamma authentique], et on s'établit dans ce qui est contraire au [saddhamma|Dhamma authentique]. Voici, [bhikkhu|mendiants], quels sont ces cinq [adinava|désavantages] du [duccarita|mauvais comportement]."
+    },
+    {
+      "pl": "Pañcime, bhikkhave, ānisaṃsā sucarite. katame pañca? attāpi attānaṃ na upavadati; anuvicca viññū pasaṃsanti; kalyāṇo kittisaddo abbhuggacchati; asaddhammā vuṭṭhāti; saddhamme patiṭṭhāti. Ime kho, bhikkhave, pañca ānisaṃsā sucarite ti.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [anisamsa|avantages] du [sucarita|bon comportement]. Quels sont ces cinq? On ne se blâme pas soi-même; on est approuvé par les individus perspicaces après examen; une bonne réputation se répand; on se détourne de ce qui est contraire au [saddhamma|Dhamma authentique]; on s'établit dans le [saddhamma|Dhamma authentique]. Voici, [bhikkhu|mendiants], quels sont ces cinq [anisamsa|avantages] du [sucarita|bon comportement]."
+    }
+  ],
+  "keywords": ["bhikkhu", "adinava", "duccarita", "papaka", "saddhamma", "anisamsa", "sucarita"],
+  "translator": "Rémy"
+}

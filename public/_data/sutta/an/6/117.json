@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 6.117",
+  "plTitle": "Kāyānupassī Sutta",
+  "frTitle": "Observant le corps",
+  "description": "Six choses sansl'abandon desquelles on est incapable de pratiquer l'observation du corps.",
+  "body": [
+    {
+      "pl": "Cha, bhikkhave, dhamme appahāya abhabbo kāye kāyānupassī viharituṃ. Katame cha? Kammārāmataṃ, bhassārāmataṃ, niddārāmataṃ, saṅgaṇikārāmataṃ, indriyesu aguttadvārataṃ, bhojane amattaññutaṃ. Ime kho, bhikkhave, cha dhamme appahāya abhabbo kāye kāyānupassī viharituṃ.",
+      "fr": "Sans avoir abandonné six [dhamma|choses], [bhikkhu|mendiants], il est impossible de rester à [kayanupassi|observer le corps] dans le [kaya|corps]. Quelles sont ces six? La complaisance dans les activités, la complaisance dans les conversations, la complaisance dans le sommeil, la complaisance dans la socialisation, l'absence de [@f_samvara|protection à l'entrée des facultés sensorielles] et l'absence de [@f_bhojan|connaissance de la [bonne] mesure avec la nourriture]. Sans avoir abandonné six [dhamma|choses], [bhikkhu|mendiants], il est impossible de rester à [kayanupassi|observer le corps] dans le [kaya|corps]."
+    },
+    {
+      "pl": "Cha, bhikkhave, dhamme pahāya bhabbo kāye kāyānupassī viharituṃ. Katame cha? Kammārāmataṃ, bhassārāmataṃ, niddārāmataṃ, saṅgaṇikārāmataṃ, indriyesu aguttadvārataṃ, bhojane amattaññutaṃ. Ime kho, bhikkhave, cha dhamme pahāya bhabbo kāye kāyānupassī viharitu.",
+      "fr": "En ayant abandonné six [dhamma|choses], [bhikkhu|mendiants], il est possible de rester à [kayanupassi|observer le corps] dans le [kaya|corps]. Quelles sont ces six? La complaisance dans les activités, la complaisance dans les conversations, la complaisance dans le sommeil, la complaisance dans la socialisation, l'absence de [@f_samvara|protection à l'entrée des facultés sensorielles] et l'absence de [@f_bhojan|connaissance de la [bonne] mesure avec la nourriture]. En ayant abandonné ces six [dhamma|choses], [bhikkhu|mendiants], il est possible de rester à [kayanupassi|observer le corps] dans le [kaya|corps]."
+    }
+  ],
+  "keywords": ["dhamma", "bhikkhu", "kayanupassi", "kaya", "@f_samvara", "@f_bhojan"],
+  "translator": "Rémy"
+}

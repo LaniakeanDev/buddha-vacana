@@ -1,0 +1,38 @@
+{
+  "identifier": "SN 35.123",
+  "plTitle": "Upādāniya Sutta",
+  "frTitle": "Qui engendrent l'attachement",
+  "description": "Voici cinq phénomènes qui engendrent l'attachement et ce en quoi consiste cet attachement envers eux.",
+  "body": [
+    {
+      "pl": "“upādāniye ca, bhikkhave, dhamme desessāmi upādānañca. taṃ suṇātha.",
+      "fr": "Mendiants, je vais vous enseigner quels sont les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], ainsi que ce qu'est l'[upadana|attachement]. Écoutez cela."
+    },
+    {
+      "pl": "katame ca, bhikkhave, upādāniyā dhammā, katamañca upādānaṃ? santi, bhikkhave, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Et quels sont, [bhikkhu|mendiants], les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], qu'est-ce que l'[upadana|attachement]? Il y a des formes visibles connaissables par l'œil qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    },
+    {
+      "pl": "santi, bhikkhave, sotaviññeyyā saddā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Il y a des sons connaissables par l'oreille qui sont agréables, plaisants, charmants, attrayants, entretenant la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    },
+    {
+      "pl": "santi, bhikkhave, ghānaviññeyyā gandhā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Il y a des odeurs connaissables par le nez qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    },
+    {
+      "pl": "santi, bhikkhave, jivhāviññeyyā rasā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Il y a des saveurs connaissables par la langue qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    },
+    {
+      "pl": "santi, bhikkhave, kāyaviññeyyāphoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Il y a des sensations connaissables par le corps qui sont souhaitables, attrayantes, plaisantes, agréables, liées à la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    },
+    {
+      "pl": "santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. ime vuccanti, bhikkhave, upādāniyā dhammā. yo tattha chandarāgo taṃ tattha upādānan”ti.",
+      "fr": "Il y a des phénomènes mentaux connaissables par l'esprit qui sont agréables, plaisants, charmants, attrayants, entretenant la [kama|sensualité], provoquant l'[raga|avidité]. Voici ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement].Tout [@m_chandaraga|désir avide] envers eux constitue l'[upadana|attachement] envers eux."
+    }
+  ],
+  "keywords": ["dhamma", "upadana", "bhikkhu", "kama", "raga", "@m_chandaraga"],
+  "translator": "Rémy"
+}

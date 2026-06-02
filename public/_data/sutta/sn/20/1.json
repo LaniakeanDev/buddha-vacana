@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 20.1",
+  "plTitle": "Kūṭa Sutta",
+  "frTitle": "Le faîte",
+  "description": "Une allégorie pour comprendre comment l'ignorance est la racine ultime de tous les maux.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "Bhikkhavo ti.[@nl]— Bhadante ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhikkhu|Mendiants]![@nl]— [bhadante|Badhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "— “seyyathāpi, bhikkhave, kūṭāgārassa yā kāci gopānasiyo sabbā tā kūṭaṅgamā kūṭasamosaraṇā kūṭasamugghātā sabbā tā samugghātaṃ gacchanti; evameva kho, bhikkhave, ye keci akusalā dhammā sabbe te avijjāmūlakā avijjāsamosaraṇā avijjāsamugghātā, sabbe te samugghātaṃ gacchanti.",
+      "fr": "—Tout comme, [bhikkhu|mendiants], toutes les poutres d'une maison au toit pointu mènent au faîte, se rejoignent au faîte, et lorsque le faîte est retiré, elles sont toutes retirées [également], de la même manière, tous les [dhamma|états mentaux] [akusala|désavantageux] son enracinés dans l'[avijja|ignorance], se rejoignent dans l'[avijja|ignorance], et lorsque l'[avijja|ignorance] est retirée, ils sont tous retirés [également]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘appamattā viharissāmā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous resterons [appamada|assidus]”[/i]. Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "dhamma", "akusala", "avijja", "appamada"],
+  "translator": "Rémy"
+}

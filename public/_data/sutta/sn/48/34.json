@@ -1,0 +1,39 @@
+{
+  "identifier": "SN 48.34",
+  "plTitle": "Samaṇabrāhmaṇa Sutta",
+  "frTitle": "Renonçants & brahmanes",
+  "description": "Une définition d'un véritable renonçant ou brahmane en lien avec les cinq facultés.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, indriyāni. katamāni pañca? sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [indriya|facultés [de ressenti]]. Quelles sont ces cinq? La [sukhindriya|faculté de plaisir], la [dukkhindriya|faculté de douleur], la [somanassindriya|faculté de plaisance mentale], la [domanassindriya|faculté de déplaisance mentale], et la [upekkhindriya|faculté d'équanimité]."
+    },
+    {
+      "pl": "ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "fr": "[bhikkhu|Mendiants], les [samana|renonçants] ou les [brahmana|brahmanes] qui ne discernent pas [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage], et l'[nissarana|émancipation] par rapport à ces cinq [indriya|facultés], ne sont pas pour moi des [samana|renonçants] parmi les [samana|renonçants] ou des [brahmana|brahmanes] parmi les [brahmana|brahmanes], et ces vénérables n'entrent pas et ne demeurent pas [ditthevadhamme|dans le monde visible] dans l'accomplissement du renoncement, dans l'accomplissement du brahmanisme, en l'ayant réalisé pour eux-mêmes par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "“ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī”ti.",
+      "fr": "Mais, [bhikkhu|mendiants], les [samana|renonçants] ou les brahmanes qui discernent [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage], et l'[nissarana|émancipation] par rapport à ces cinq [indriya|facultés], sont pour moi des [samana|renonçants] parmi les [samana|renonçants] ou des brahmanes parmi les brahmanes, et ces vénérables entrent et demeurent [ditthevadhamme|dans le monde visible] dans l'accomplissement du renoncement, dans l'accomplissement du brahmanisme, en l'ayant réalisé pour eux-mêmes par [abhinna|connaissance directe]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "sukhindriya",
+    "dukkhindriya",
+    "somanassindriya",
+    "domanassindriya",
+    "upekkhindriya",
+    "samana",
+    "brahmana",
+    "yathabhutam",
+    "samudaya",
+    "assada",
+    "adinava",
+    "nissarana",
+    "ditthevadhamme",
+    "abhinna"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

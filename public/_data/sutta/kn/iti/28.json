@@ -1,0 +1,51 @@
+{
+  "identifier": "Iti 28",
+  "plTitle": "Dukkhavihāra Sutta",
+  "frTitle": "Séjourne dans le mal-être",
+  "description": "Deux qualités dont le défaut fait qu'un mendiant séjourne dans le mal-être.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“dvīhi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ; kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā. katamehi dvīhi? indriyesu aguttadvāratāya ca, bhojane amattaññutāya ca. imehi kho, bhikkhave, dvīhi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savidhātaṃ saupāyāsaṃ sapariḷāhaṃ; kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā””ti.",
+      "fr": "«[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de deux [dhamma|états] vit dans le [dukkha|mal-être] [ditthevadhamme|dans ce monde visible], avec contrariétés, adversité et fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [duggati|mauvaise destination]. Quels sont ces deux? L'absence de [indriyesuguttadvarata|protection à l'entrée des facultés sensorielles], et l'absence de [bmt|connaissance de la [bonne] mesure avec la nourriture]. Voici, [bhikkhu|mendiants], quels sont ces deux [dhamma|états] pourvu desquels un [bhikkhu|mendiant] vit dans le [dukkha|mal-être] [ditthevadhamme|dans ce monde visible], avec contrariétés, adversité et fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [duggati|mauvaise destination].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“cakkhu sotañca ghānañca,[@v]jivhā kāyo tathā mano.[@v]etāni yassa dvārāni,[@v]aguttānidha bhikkhuno.",
+      "fr": "L'œil, l'oreille, le nez[@v]La langue, le corps et également le [mana|mental][@v]Lorsque ces portes[@v]Ne sont pas protégées par un [bhikkhu|mendiant]"
+    },
+    {
+      "pl": "“bhojanamhi amattaññū,[@v]indriyesu asaṃvuto.[@v]kāyadukkhaṃ cetodukkhaṃ,[@v]dukkhaṃ so adhigacchati.",
+      "fr": "Ne [bmt|connaissant pas la [bonne] mesure avec la nourriture][@v]Sans [indriyesuguttadvarata|protection à l'entrée des facultés sensorielles][@v]Il subit le [dukkha|mal-être][@v]En corps et en esprit."
+    },
+    {
+      "pl": "“ḍayhamānena kāyena,[@v]ḍayhamānena cetasā.[@v]divā vā yadi vā rattiṃ,[@v]dukkhaṃ viharati tādiso””ti.",
+      "fr": "Brûlant en corps[@v]Brûlant en esprit[@v]Que ce soit le jour ou la nuit[@v]Une telle personne séjourne dans le [dukkha|mal-être]."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "bhikkhu",
+    "dhamma",
+    "dukkha",
+    "ditthevadhamme",
+    "kaya",
+    "marana",
+    "duggati",
+    "igdt",
+    "bmt",
+    "mana"
+  ],
+  "translator": "Sekha"
+}

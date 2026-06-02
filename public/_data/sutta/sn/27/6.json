@@ -1,0 +1,22 @@
+{
+  "identifier": "SN 27.6",
+  "plTitle": "Saññā Sutta",
+  "frTitle": "Perceptions",
+  "description": "Le désir et l'avidité envers les perceptions des objets des sens sont des impuretés auxquelles il faut renoncer.",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "Yo, bhikkhave, rūpa·saññāya chanda·rāgo, cittasseso upakkileso. Yo sadda·saññāya chanda·rāgo, cittasseso upakkileso. Yo gandha·saññāya chanda·rāgo, cittasseso upakkileso. Yo rasa·saññāya chanda·rāgo, cittasseso upakkileso. Yo phoṭṭhabba·saññāya chanda·rāgo, cittasseso upakkileso. Yo dhamma·saññāya chanda·rāgo, cittasseso upakkileso.",
+      "fr": "Le [chanda|désir] [raga|avide] envers la [sanna|perception] des formes (visibles), [bhikkhu|mendiants], sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [sanna|perception] des sons sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [sanna|perception] des odeurs sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [sanna|perception] des goûts sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [sanna|perception] des sensations corporelles sont une [upakkilesa|souillure] de l'[citta|esprit]. Le [chanda|désir] [raga|avide] envers la [sanna|perception] des phénomènes mentaux sont une [upakkilesa|souillure] de l'[citta|esprit]."
+    },
+    {
+      "pl": "Yato kho, bhikkhave, bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhamma·ninnañcassa cittaṃ hoti. Nekkhamma·paribhāvitaṃ cittaṃ kammaniyaṃ khāyati, abhiññā sacchikaraṇīyesu dhammesū ti.",
+      "fr": "Lorsque, [bhikkhu|mendiants], un mendiant a abandonné les [upakkilesa|souillures] de l'[citta|esprit] dans ces six cas, l'[citta|esprit] s'incline au [nekkhamma|renoncement]. Un esprit rempli de [nekkhamma|renoncement] devient utilisable pour atteindre les [dhamma|phénomènes] à être réalisés par [abhinna|connaissance directe]."
+    }
+  ],
+  "keywords": ["chanda", "raga", "sanna", "bhikkhu", "upakkilesa", "citta", "nekkhamma", "dhamma", "abhinna"],
+  "translator": "Rémy"
+}

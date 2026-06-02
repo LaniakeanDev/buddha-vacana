@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 22.121",
+  "plTitle": "Upādāniya Sutta",
+  "frTitle": "Qui engendrent l'attachement",
+  "description": "Voici cinq phénomènes qui engendrent l'attachement et ce en quoi consiste cet attachement envers eux. ",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“upādāniye ca, bhikkhave, dhamme desessāmi upādānañca. taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner quels sont les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], ainsi que ce qu'est l'[upadana|attachement]. Écoutez cela."
+    },
+    {
+      "pl": "katame ca, bhikkhave, upādāniyā dhammā, katamaṃ upādānaṃ? rūpaṃ, bhikkhave, upādāniyo dhammo. yo tattha chandarāgo, taṃ tattha upādānaṃ. vedanā upādāniyo dhammo. yo tattha chandarāgo, taṃ tattha upādānaṃ. saññā upādāniyo dhammo. yo tattha chandarāgo, taṃ tattha upādānaṃ. saṅkhārāupādāniyo dhammo. yo tattha chandarāgo, taṃ tattha upādānaṃ. viññāṇaṃ upādāniyo dhammo; yo tattha chandarāgo, taṃ tattha upādānaṃ.",
+      "fr": "Et quels sont, [bhikkhu|mendiants], les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], qu'est-ce que l'[upadana|attachement]? La [rupa|Forme], [bhikkhu|mendiants], est un [dhamma|phénomène] qui engendre l'[upadana|attachement]. Tout [@m_chandaraga|désir avide] envers elle y constitue l'[upadana|attachement].Le [vedana|Ressenti] est un [dhamma|phénomène] qui engendre l'[upadana|attachement]. Tout [@m_chandaraga|désir avide] envers lui y constitue l'[upadana|attachement].La [sanna|Perception] est un [dhamma|phénomène] qui engendre l'[upadana|attachement]. Tout [@m_chandaraga|désir avide] envers elle y constitue l'[upadana|attachement].Les [sankhara|Constructions] sont des phénomènes qui engendrent l'[upadana|attachement]. Tout [@m_chandaraga|désir avide] envers elles y constitue l'[upadana|attachement].La [vinnana|Conscience] est un [dhamma|phénomène] qui engendre l'[upadana|attachement]. Tout [@m_chandaraga|désir avide] envers elle y constitue l'[upadana|attachement]."
+    },
+    {
+      "pl": "ime vuccanti, bhikkhave, upādāniyā dhammā, idaṃ upādānan”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle les [dhamma|phénomènes] qui engendrent l'[upadana|attachement], voici ce qu'est l'[upadana|attachement]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "upadana", "rupa", "@m_chandaraga", "vedana", "sanna", "sankhara", "vinnana"],
+  "translator": "Rémy"
+}

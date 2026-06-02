@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 36.4",
+  "plTitle": "Pātāla Sutta",
+  "frTitle": "Un abysse sans fond",
+  "description": "Voici quelle est la différence entre un individu ordinaire et un noble disciple dans la capacité à faire face aux ressentis douloureux.",
+  "body": [
+    {
+      "pl": "Assutavā, bhikkhave, puthujjano yaṃ vācaṃ bhāsati: ‘atthi mahāsamudde pātālo’ti, taṃ kho panetaṃ, bhikkhave, assutavā puthujjano asantaṃ avijjamānaṃ evaṃ vācaṃ bhāsati: ‘atthi mahāsamudde pātālo’ti. Sārīrikānaṃ kho etaṃ, bhikkhave, dukkhānaṃ vedanānaṃ adhivacanaṃ yadidaṃ ‘pātālo’ti.",
+      "fr": "[bhikkhu|Mendiants], lorsqu'un [puthujjana|individu ordinaire] [assutava|sans instruction] affirme qu'il y a un abysse sans fond dans l'océan, c'est au sujet de quelque chose qui n'est pas, qui n'existe pas, qu'il affirme qu'il y a un abysse sans fond dans l'océan. [bhikkhu|Mendiants], [i]“un abysse sans fond”[/i] est plutôt une image désignant les [dukkhavedana|ressentis désagréables] dans le corps."
+    },
+    {
+      "pl": "Assutavā, bhikkhave, puthujjano sārīrikāya dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati. Ayaṃ vuccati, bhikkhave, ‘assutavā puthujjano pātāle na paccuṭṭhāsi, gādhañca nājjhagā’.",
+      "fr": "[bhikkhu|Mendiants], lorsqu'un [puthujjana|individu ordinaire] [assutava|sans instruction] est touché par un [vedana|ressenti] corporel [dukkha|désagréable], il est abattu, il est affligé, il se lamente, il se frappe la poitrine, il pleure et est en proie à la [moha|confusion]. C'est ce qu'on appelle, [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction] qui ne s'est pas élevé de l'abysse, qui n'a pas pris pied."
+    },
+    {
+      "pl": "Sutavā ca kho, bhikkhave, ariyasāvako sārīrikāya dukkhāya vedanāya phuṭṭho samāno neva socati, na kilamati, na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati. Ayaṃ vuccati, bhikkhave, ‘sutavā ariyasāvako pātāle paccuṭṭhāsi, gādhañca ajjhagā’ti.",
+      "fr": "Mais, [bhikkhu|mendiants], lorsqu'un [ariyasavaka|noble disciple] [sutava|instruit] est touché par un [vedana|ressenti] corporel [dukkha|désagréable], il n'est pas abattu, il n'est pas affligé, il ne se lamente pas, il ne se frappe pas la poitrine, il ne pleure pas et n'est pas en proie à la [moha|confusion]. C'est ce qu'on appelle, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] qui s'est élevé de l'abysse, qui a pris pied."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "puthujjana",
+    "assutava",
+    "dukkhavedana",
+    "vedana",
+    "dukkha",
+    "moha",
+    "ariyasavaka",
+    "sutava"
+  ],
+  "translator": "Rémy"
+}

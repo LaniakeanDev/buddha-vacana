@@ -1,0 +1,29 @@
+{
+  "identifier": "SN 36.14",
+  "plTitle": "Agāra Sutta",
+  "frTitle": "La maison",
+  "description": "Divers types de ressentis apparaît dans le corps, tout comme différents types visiteurs séjournent dans une maison de passage.",
+  "body": [
+    {
+      "pl": "Seyyathāpi, bhikkhave, āgantukāgāraṃ. Tattha puratthimāyapi disāya āgantvā vāsaṃ kappenti, pacchimāyapi disāya āgantvā vāsaṃ kappenti, uttarāyapi disāya āgantvā vāsaṃ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṃ kappenti; khattiyāpi āgantvā vāsaṃ kappenti, brāhmaṇāpi āgantvā vāsaṃ kappenti, vessāpi āgantvā vāsaṃ kappenti, suddāpi āgantvā vāsaṃ kappenti.",
+      "fr": "C'est tout comme, [bhikkhu|mendiants], [dans] une maison de passage. Des [visiteurs venant] de l'ouest viennent y séjourner, des [visiteurs venant] de l'est viennent y séjourner, des [visiteurs venant] du nord viennent y séjourner, des [visiteurs venant] du sud viennent y séjourner. Des [khattiya|aristocrates] viennent y séjourner, des [brahmana|brahmanes] viennent y séjourner, des vessas viennent y séjourner, des souddas viennent y séjourner."
+    },
+    {
+      "pl": "Evameva kho, bhikkhave, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti. Sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati. Sāmisāpi sukhā vedanā uppajjati, sāmisāpi dukkhā vedanā uppajjati, sāmisāpi adukkhamasukhā vedanā uppajjati. Nirāmisāpi sukhā vedanā uppajjati, nirāmisāpi dukkhā vedanā uppajjati, nirāmisāpi adukkhamasukhā vedanā uppajjatīti.",
+      "fr": "De la même manière, [bhikkhu|mendiants], dans ce [kaya|corps] apparaissent différentes sortes de [vedana|ressentis]. Le [sukhavedana|ressenti agréable] y apparaît, le [dukkhavedana|ressenti désagréable] y apparaît, et le [adukkhamasukhavedana|ressenti neutre] y apparaît. Le [sukhavedana|ressenti agréable] [samisa|attaché à la chair] y apparaît, le [dukkhavedana|ressenti désagréable] [samisa|attaché à la chair] y apparaît, le [adukkhamasukhavedana|ressenti neutre] [samisa|attaché à la chair] y apparaît. Le [sukhavedana|ressenti agréable] [niramisa|détaché de la chair] y apparaît, le [dukkhavedana|ressenti désagréable] [niramisa|détaché de la chair] y apparaît, le [adukkhamasukhavedana|ressenti neutre] [niramisa|détaché de la chair] y apparaît."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "khattiya",
+    "brahmana",
+    "kaya",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "samisa",
+    "niramisa"
+  ],
+  "translator": "Rémy"
+}

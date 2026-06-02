@@ -1,0 +1,280 @@
+{
+  "id": "aam",
+  "title": "ariya aṭṭhaṅgika magga",
+  "breakdown": "[[ariya|ariya] [@m_a.ttha|aṭṭha]+[@m_anga|aṅga]+[@m_ika|ika] [magga|magga]]",
+  "translation": ["noble voie à huit composantes."],
+  "body": [
+    {
+      "p": [
+        "L'expression, ainsi que chacune de ses composantes [i](aṅgā)[/i], sont expliquées en détail dans le [b]Vibhaṅga Sutta [/b]:"
+      ]
+    },
+    {
+      "list": [
+        "1. [sammaditthi|sammā·diṭṭhi]",
+        "2. [sammasankappa|sammā·saṅkappa]",
+        "3. [sammavaca|sammā·vācā]",
+        "4. [sammakammanta|sammā·kammanta]]",
+        "5. [sammaajiva|sammā·ājīva]",
+        "6. [sammavayama|sammā·vāyāma]",
+        "7. [sammasati|sammā·sati]",
+        "8. [sammasamadhi|sammā·samādhi]"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.8]",
+        "text": [
+          {
+            "pl": "Katamo ca, bhikkhave, ariyo aṭṭhaṅgiko maggo? Seyyathidaṃ sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammā-ājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.",
+            "fr": "Et qu'est-ce, mendiants, que la noble voie à huit composantes? C'est la vue correcte, l'aspiration correcte, la parole correcte, l'action correcte, le moyen de subsistance correct, l'effort correct, la présence d'esprit correcte et la concentration correcte. "
+          },
+          {
+            "pl": "Katamā ca, bhikkhave, sammādiṭṭhi? Yaṃ kho, bhikkhave, dukkhe ñāṇaṃ, dukkha-samudaye ñāṇaṃ , dukkha-nirodhe ñāṇaṃ, dukkha-nirodha-gāminiyā paṭipadāya ñāṇaṃ ayaṃ vuccati, bhikkhave, sammādiṭṭhi.",
+            "fr": "Et qu'est-ce, mendiants, que la vue correcte? C'est la connaissance du mal-être, la connaissance de l'origine du mal-être, la connaissance de la cessation du mal-être, la connaissance de la voie menant à la cessation du mal-être. Voici ce qu'on appelle la vue correcte. "
+          },
+          {
+            "pl": "Katamo ca, bhikkhave, sammāsaṅkappo? Yo kho, bhikkhave, nekkhamma-saṅkappo , abyāpāda-saṅkappo, avihiṃsā-saṅkappo ayaṃ vuccati, bhikkhave, sammāsaṅkappo.",
+            "fr": "Et qu'est-ce, mendiants, que l'aspiration correcte? L'aspiration de renoncement, l'aspiration dénuée de malveillance et l'aspiration de non-nuisance. Voici ce qu'on appelle l'aspiration correcte. "
+          },
+          {
+            "pl": "Katamā ca, bhikkhave, sammāvācā? Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī ayaṃ vuccati, bhikkhave, sammāvācā.",
+            "fr": "Et qu'est-ce, mendiants, que la parole correcte? S'abstenir des paroles mensongères, s'abstenir des paroles médisantes, s'abstenir des paroles acerbes, s'abstenir des bavardages infructueux. Voici ce qu'on appelle la parole correcte. "
+          },
+          {
+            "pl": "Katamo ca, bhikkhave, sammā-kammanto? Yā kho, bhikkhave, pāṇātipātā veramaṇī, adinnādānā veramaṇī, abrahmacariyā veramaṇī ayaṃ vuccati, bhikkhave, sammā-kammanto.",
+            "fr": "Et qu'est-ce, mendiants, que l'action correcte? S'abstenir de tuer, s'abstenir de s'approprier ce qui n'a pas été donné et s'abstenir de ce qui est contraire à la vie brahmique. Voici ce qu'on appelle l'action correcte. "
+          },
+          {
+            "pl": "Katamo ca, bhikkhave, sammā-ājīvo? Idha, bhikkhave, ariya-sāvako micchā-ājīvaṃ pahāya sammā-ājīvena jīvitaṃ kappeti ayaṃ vuccati, bhikkhave, sammā-ājīvo.",
+            "fr": "Et que sont, mendiants, les moyens de subsistance corrects? En cela, un noble disciple, ayant abandonné les moyens de subsistance erronés, gagne sa vie par des moyens corrects. Voici ce qu'on appelle les moyens de subsistance corrects."
+          },
+          {
+            "pl": "Katamo ca, bhikkhave, sammāvāyāmo? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, sammāvāyāmo.",
+            "fr": "Et qu'est-ce, mendiants, que l'effort correct? En cela, un mendiant génère le désir de non-apparition des états mentaux mauvais et désavantageux qui ne sont pas encore apparus, il s'exerce, active son énergie, applique son esprit et s'efforce; il génère le désir d'abandon des états mentaux mauvais et désavantageux qui sont déjà apparus, il s'exerce, active son énergie, applique son esprit et s'efforce; il génère le désir d'apparition des états mentaux avantageux qui ne sont pas encore apparus, il s'exerce, active son énergie, applique son esprit et s'efforce; il génère le désir de maintien, de non-confusion, de multiplication, d'abondance, de développement et de plénitude des états mentaux avantageux qui sont déjà apparus, il s'exerce, active son énergie, applique son esprit et s'efforce. Voici ce qu'on appelle l'effort correct. "
+          },
+          {
+            "pl": " Katamā ca, bhikkhave, sammāsati? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. Ayaṃ vuccati, bhikkhave, sammāsati.",
+            "fr": "Et qu'est-ce, mendiants, que la présence d'esprit correcte? En cela, un mendiant reste à observer le corps dans le corps, ardent, doué d'une compréhension attentive, présent d'esprit, ayant abandonné convoitise et affliction mentale vis-à-vis du monde; il reste à observer les ressentis dans les ressentis, ardent, doué d'une compréhension attentive, présent d'esprit, ayant abandonné convoitise et affliction mentale vis-à-vis du monde; il reste à observer l'esprit dans l'esprit, ardent, doué d'une compréhension attentive, présent d'esprit, ayant abandonné convoitise et affliction mentale vis-à-vis du monde; il reste à observer le Dhamma dans les phénomènes, ardent, doué d'une compréhension attentive, présent d'esprit, ayant abandonné convoitise et affliction mentale vis-à-vis du monde. Voici ce qu'on appelle la présence d'esprit correcte."
+          },
+          {
+            "pl": " Katamo ca, bhikkhave, sammāsamādhi? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati; vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati; pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati; sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave, sammāsamādhi ti.",
+            "fr": "Et qu'est-ce, mendiants, que la concentration correcte? En cela, un mendiant, séparé des plaisirs de la sensualité, séparé des états mentaux désavantageux, entre et demeure dans le premier jhāna, qui s'accompagne de pensées et réflexions, avec exaltation et bien-être engendrés par la séparation; avec l'apaisement des pensées et réflexions, il entre et demeure dans le deuxième jhāna, avec tranquillisation intérieure et unification de l'esprit, sans pensées ni réflexions, avec exaltation et bien-être engendrés par la concentration; avec la disparition de l'exaltation, il demeure équanime, présent d'esprit et doué d'une compréhension attentive, il entre et demeure dans le troisième jhāna et ressent dans le corps le bien-être que les êtres nobles décrivent: ‘équanime et présent d'esprit, quelqu'un qui séjourne dans le bien-être’; abandonnant le bien-être et abandonnant le mal-être, la plaisance et l'affliction mentales ayant auparavant disparu, il entre et demeure dans le quatrième jhāna, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité. Voici ce qu'on appelle la concentration correcte."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] est introduit dans le célèbre [@$sn56-011|Dhammacakkappavattana Sutta] comme constituant la Voie du Milieu [i](majjhimā paṭipadā)[/i], c'est à dire la voie évitant à la fois l'hédonisme et la mortification de soi:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$SN 56.11]",
+        "text": [
+          {
+            "pl": "Dve·me, bhikkhave, antā pabbajitena na sevitabbā. Katame dve? Yo c·āyaṃ kāmesu kāma·sukh·allik·ānuyogo hīno gammo pothujjaniko an·ariyo an·attha·saṃhito, yo c·āyaṃ attakilamath·ānuyogo dukkho an·ariyo an·attha·saṃhito. Ete kho, bhikkhave, ubho ante an·upagamma majjhimā paṭipadā tathāgatena abhisambuddhā cakkhu·karaṇī ñāṇa·karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+            "fr": "Mendiants, ces deux extrêmes ne devraient pas être poursuivis par ceux qui ont quitté le foyer. Quels sont ces deux? La poursuite du bien-être sensuel dans la sensualité, qui est inférieure, vulgaire, qui est caractéristique des gens ordinaires, ig·noble et non-bénéfique, et la poursuite de la mortification de soi, qui est douloureuse, ig·noble et non-bénéfique. Évitant ces deux extrêmes, mendiants, la voie médiane à laquelle le Tathāgata s'est pleinement éveillé, qui apporte la vision et la connaissance, mène à la paix, à la connaissance directe, à l'Éveil complet, à l'Extinction."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] est également introduit un peu plus loin dans le même soutta comme constituant la quatrième [ariyasacca|ariya·sacca]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$SN 56.11]",
+        "text": [
+          {
+            "pl": "Idaṃ kho pana, bhikkhave, dukkha·nirodha·gāminī paṭipadā ariya·saccaṃ: ayam·eva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ: sammā·diṭṭhi sammā·saṅkappo sammā·vācā sammā·kammanto sammā·ājīvo sammā·vāyāmo sammā·sati sammā·samādhi.",
+            "fr": "De plus, mendiants, voici la noble vérité de la voie menant à la cessation du mal-être: c'est cette noble voie à huit composantes, c'est à dire la vue correcte, l'aspiration correcte, la parole correcte, l'action correcte, le moyen de subsistance correct, l'effort correct, la présence d'esprit correcte, la concentration correcte."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Comme il est expliqué ci-dessus à [@$SN 56.11], l'[i]ariya aṭṭh·aṅg·ika magga[/i] est ce qui mène à [nibbana|nibbāna]. À SN 45.62, il y mène tout comme le fleuve Gange s'incline, s'infléchit et s'écoule vers l'est [i](seyyathāpi gaṅgā nadī [@m_pacina|pācīna]·ninnā [@m_pacina|pācīna]·poṇā [@m_pacina|pācīna]·pabbhārā)[/i]. À SN 45.86, la voie est comme un arbre s'inclinant, s'infléchissant et se penchant vers l'est [i](seyyathāpi rukkho [@m_pacina|pācīna]·ninno [@m_pacina|pācīna]·poṇo [@m_pacina|pācīna]·pabbhāro)[/i] et qui ne pourrait tomber que dans cette direction si on le coupait à la racine. C'est également la voie menant à [amata|amata] [i]([amata|amata]·gāmi·maggo, SN 45.7)[/i], ou l'inconditionné [i]([@m_a|a]·[sankhata|saṅkhata]·gāmi·maggo, [@$SN 43.11])[/i].",
+        "Un saṃyutta tout entier ([@$SN 45]), riche en allégories et explications, est dédié à l'[i]ariya aṭṭh·aṅg·ika magga[/i].",
+        "Différentes désignations sont données à l'[i]ariya aṭṭh·aṅg·ika magga[/i]. À [@$MN 19], il est appelé [i]«La voie paisible et sûre qui est à suivre gaiement/avec exaltation' (khemo maggo sovatthiko [piti|pīti]·gamanīyo)[/i]. Il est souvent assimilé à la [brahmacariya|brahmacariya] (e.g. [@$SN 45.6]), à l'ascétisme [i](sāmañña)[/i] comme à [@$SN 45.35], ou au statut de brahmane [i](brahmañña)[/i] comme à [@$SN 45.36]. À [@$SN 12.65], c'est une voie ancienne, l'ancien chemin arpenté par les [sammasambuddha|sammā·Sambuddha]s du passé. À SN 35.191, l'[i]ariya aṭṭh·aṅg·ika magga[/i] est comparé à un radeau utilisé pour traverser de l'identité (au soi) jusqu'à [i]«l'autre rive»[/i], qui représente [nibbana|nibbāna]. À [@$SN 45.4], après qu'Ananda ait vu un brahmane sur un char luxueux et l'ait appelé un [i]«véhicule brahmique' (brahma·yāna)[/i], le Bouddha lui dit que c'est en fait une expression plus appropriée à l'[i]ariya aṭṭh·aṅg·ika magga[/i], aux côtés du [i]«véhicule du Dhamma' (dhamma·yāna)[/i], et la [i]«suprême victoire dans la bataille' (anuttara saṅgāma·vijaya)[/i]. L'[i]ariya aṭṭh·aṅg·ika magga[/i] est aussi appelé correctitude [i](sammatta, SN 45.21)[/i], [kusala|kusalā] [dhamma|dhammā] ([@$SN 45.22]), la voie correcte [i](sammā·paṭipada, SN 45.23)[/i], et la pratique correcte [i](sammā·paṭipatti, SN 45.31)[/i].",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] fait partie d'un ensemble de 37 [dhamma|dhamma]s qui sont parfois mentionnés tous ensemble (e.g. à AN 10.90, [@$SN 22.81]). Ils sont parfois appelés [i]bodhipakkhiyā dhammā[/i], bien que cette expression n'ait pas de définition stricte dans les souttas et soit également utilisée pour décrire d'autres ensembles. Il est dit à SN 45.155 que l'[i]ariya aṭṭh·aṅg·ika magga[/i] développe ces [bodhipakkhiyadhamma|bodhi·pakkhiya·dhammā].",
+        "Il est dit que chaque composante [i](aṅga)[/i] de la voie mène à la suivante:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@AN 10.103]",
+        "text": [
+          {
+            "pl": "“sammattaṃ, bhikkhave, āgamma ārādhanā hoti, no virādhanā. kathañca, bhikkhave, sammattaṃ āgamma ārādhanā hoti, no virādhanā? sammādiṭṭhikassa, bhikkhave, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti, sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti.",
+            "fr": "En venant à la correctitude, mendiants, il y a succès et non pas échec. Et comment est-ce, mendiants, qu'en venant à la correctitude, il y a succès et non pas échec? Chez celui qui a la vue correcte, l'aspiration correcte apparaît. Chez celui qui a l'aspiration correcte, la parole correcte apparaît. Chez celui qui a la parole correcte, l'action correcte apparaît. Chez celui qui a l'action correcte, le moyen de subsistence correct apparaît. Chez celui qui a le moyen de subsistence correct, l'effort correct apparaît. Chez celui qui a l'effort correct, la présence d'esprit correcte apparaît. Chez celui qui a la présence d'esprit correcte, la concentration correcte apparaît. "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "On trouve notamment une progression de ce type à [@$SN 45.1]. AN 7.45 déclare quant à lui que les sept autres composantes de la voie sont les 'supports' [i](upanisa)[/i] et les 'équipements' [i](parikkhāra)[/i] de [sammasamadhi|sammā·samādhi]. [@$MN 117] explique plus en détail comment ces facteurs interagissent, selon le schéma suivant:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$MN 117]",
+        "text": [
+          {
+            "pl": "“tatra, bhikkhave, sammādiṭṭhi pubbaṅgamā hoti. kathañca, bhikkhave, sammādiṭṭhi pubbaṅgamā hoti? micchāsaṅkappaṃ ‘micchāsaṅkappo’ti pajānāti, sammāsaṅkappaṃ ‘sammāsaṅkappo’ti pajānāti, sāssa hoti sammādiṭṭhi.",
+            "fr": "En ceci, mendiants, la vue correcte est le précurseur. Et comment, mendiants, la vue correcte est-elle le précurseur? Il discerne une aspiration erronée comme étant une aspiration erronée, et il discerne une aspiration correcte comme étant une aspiration correcte: c'est sa vue correcte."
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "so micchāsaṅkappassa pahānāya vāyamati, sammāsaṅkappassa upasampadāya, svāssa hoti sammāvāyāmo. so sato micchāsaṅkappaṃ pajahati, sato sammāsaṅkappaṃ upasampajja viharati; sāssa hoti sammāsati. itiyime tayo dhammā sammāsaṅkappaṃ anuparidhāvanti anuparivattanti, seyyathidaṃ sammādiṭṭhi, sammāvāyāmo, sammāsati.",
+            "fr": "Il s'efforce d'abandonner l'aspiration erronée et d'acquérir l'aspiration correcte: c'est son effort correct. Il abandonne l'aspiration erronée en étant présent d'esprit et il acquiert l'aspiration correcte en étant présent d'esprit: c'est sa présence d'esprit correcte. Ainsi, ces trois qualités tournent et gravitent autour de l'aspiration correcte, c'est à dire la vue correcte, l'effort correct et la présence d'esprit correcte."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'énumération des composantes de la voie est parfois ponctuée par quatre formules différentes. On trouve un exemple de la première à [@$SN 45.2]. Elle est en fait souvent utilisée pour illustrer les [bojjhanga|bojjhaṅga]s, et occasionnellement avec les [indriya|indriya]s (spirituelles) ou les [bala|bala]s: [i]«basée sur l'isolement, sur le détachement, sur la cessation, se parachevant dans le lâcher-prise' ([viveka|viveka]·nissita [viraga|virāga]·nissita [nirodha|nirodha]·nissita vossagga·pariṇāmi)[/i].",
+        "La deuxième formule se trouve par exemple à [@$SN 45.4]: [i]«qui a pour objectif final l'élimination de l'avidité, qui a pour objectif final l'élimination de l'aversion, qui a pour objectif final l'élimination de la délusion' ([raga|rāga]·vinaya·pariyosāna [dosa|dosa]·vinaya·pariyosāna [moha|moha]·vinaya·pariyosāna)[/i].",
+        "La troisième se trouve par exemple à SN 45.115: [i]«qui a le Sans-mort pour fondation, qui a le Sans-mort pour destination, qui a le Sans-mort pour objectif final' ([amata|amat]·ogadha [amata|amata]·parāyana [amata|amata]·pariyosāna)[/i].",
+        "La quatrième se trouve par exemple à SN 45.91: [i]«qui s'incline vers [nibbana|Nibbāna], qui descend vers [nibbana|Nibbāna], qui coule vers [nibbana|Nibbāna]' (nibbāna·ninna nibbāna·poṇa nibbāna·pabbhāra)[/i].",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i], s'il n'est pas présent, n'apparaît pas sans un Bouddha [i](n·āññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa, SN 45.14)[/i] ou la Discipline d'un Sublime [i](n·āññatra sugata·vinaya, SN 45.15)[/i].",
+        "À [@$SN 55.5], l'[i]ariya aṭṭh·aṅg·ika magga[/i] est ce qui définit [sotapatti|sotāpatti], puisque [i]sota (le courant)[/i] n'est autre que l'[i]ariya aṭṭh·aṅg·ika magga[/i], et un [sotapanna|sotāpanna] est celui qui le possède:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@SN 55.5]",
+        "text": [
+          {
+            "pl": "—“‘soto, soto’ti hidaṃ, sāriputta, vuccati. katamo nu kho, sāriputta, soto”ti?",
+            "fr": "—Sāripoutta, on entend dire: 'Le courant, le courant'. Qu'est-ce donc, Sāripoutta, que le courant? "
+          },
+          {
+            "pl": "—“ayameva hi, bhante, ariyo aṭṭhaṅgiko maggo soto",
+            "fr": "— Le courant n'est autre que cette noble voie à huit composantes, Bhanté"
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "—“‘sotāpanno, sotāpanno’ti hidaṃ, sāriputta, vuccati. katamo nu kho, sāriputta, sotāpanno”ti?",
+            "fr": "—Sāripoutta, on entend dire: 'Quelqu'un qui est entré dans le courant, quelqu'un qui est entré dans le courant'. Qui donc, Sāripoutta, est celui qui est entré dans le courant? "
+          },
+          {
+            "pl": "—“yo hi, bhante, iminā ariyena aṭṭhaṅgikena maggena samannāgato ayaṃ vuccati sotāpanno",
+            "fr": "—Quiconque, Bhanté, est pourvu de cette noble voie à huit composantes, est appelé quelqu'un qui est entré dans le courant"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À MN 126, les 8 composantes de l'[i]ariya aṭṭh·aṅg·ika magga[/i] sont présentées comme une technologie de l'esprit [i]('une technique appropriée pour obtenir un résultat': yoni hesā phalassa adhigamāya)[/i] dont les résultats ne dépendent pas du fait qu'on formule des souhaits ou des prières, mais qui au contraire se base uniquement sur les lois de la nature, ce qui est illustré métaphoriquement par la manière dont on obtient de l'huile de sésame en utilisant une technique appropriée (presser les graines arrosées d'eau), par la manière dont on obtient du lait (par traite d'une vache ayant récemment mis bas), du beurre (en barattant de la crème), ou du feu (en frottant un bout de bois sec, sans sève avec un bâton à feu approprié).",
+        "À [@$AN 4.237], les huit composantes de l'[i]ariya aṭṭh·aṅg·ika magga[/i] constituent '[kamma|kamma] qui n'est ni sombre ni lumineux, avec des résultats ni sombres ni lumineux, qui mène à la destruction du [kamma|kamma]' [i]([kamma|kammaṃ] a·kaṇhā·sukkaṃ a·kaṇhā·sukka·[vipaka|vipākaṃ], [kamma|kamma]·kkhayāya saṃvattati)[/i].",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] est régulièrement augmenté pour former un ensemble à dix composantes, avec l'addition de [@m_samma|sammā]·[nana|ñāṇa] et [@m_samma|sammā]·[vimutti|vimutti]. SN 45.26 semble indiquer que ces deux composantes ne sont applicables qu'aux [arahant|arahant]s, puisqu'elles constituent ce qui fait la différence entre un [sappurisa|sappurisa] et quelqu'un qui est meilleur qu'un [sappurisa|sappurisa] [i](sappurisena sappurisataro)[/i].",
+        "Dix phénomènes sont présentés comme précurseurs de l'apparition de l'[i]ariya aṭṭh·aṅg·ika magga[/i], les sept premiers selon l'allégorie suivante:"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ, aruṇuggaṃ; evameva kho, bhikkhave, bhikkhuno ariyassa aṭṭhaṅgikassa maggassa uppādāya etaṃ pubbaṅgamaṃ etaṃ pubbanimmittaṃ...",
+            "fr": "Voici, mendiants, quel est le précurseur et le signe avant-coureur du lever du soleil, c'est-à-dire l'aurore. De la même manière, pour un mendiant, voici quel est le précurseur et le signe avant-coureur de l'apparition de la noble voie à huit composantes..."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans chaque cas, il est dit que lorsqu'un mendiant satisfait la condition, [i]«on peut s'attendre à ce qu'il cultive la noble voie à huit composantes, à ce qu'il pratique fréquemment la noble voie à huit composantes (pāṭikaṅkhaṃ ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati)[/i]:",
+        "1. [kalyanamittata|Kalyāṇa·mittatā] est le précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] le plus souvent mentionné (en conjonction avec l'allégorie ci-dessus à SN 45.49). Il est même déclaré à [@$SN 45.2] qu'elle représente en fait la [brahmacariya|brahmacariya] toute entière [i](sakalam·ev·idaṃ brahmacariyaṃ)[/i], puisqu'on peut s'attendre à ce que celui qui développe la première pratiquera l'[i]ariya aṭṭh·aṅg·ika magga[/i], d'autant plus que, comme nous l'avons vu précédemment (e.g. à SN 45.6), la [brahmacariya|brahmacariya] est également définie comme étant l'[i]ariya aṭṭh·aṅg·ika magga[/i] lui-même. ",
+        "On trouve également une formule qui rappelle les souttas qui se trouvent dans [b][@&an1|AN 1][/b]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@SN 45.77]",
+        "text": [
+          {
+            "pl": "nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi, yena anuppanno vā ariyo aṭṭhaṅgiko maggo uppajjati, uppanno vā ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṃ gacchati, yathayidaṃ, bhikkhave, kalyāṇamittatā.",
+            "fr": "Je ne vois aucune autre chose, mendiants, à cause de laquelle la noble voie à huit composantes qui n'était pas apparue vient à apparaître, ou la noble voie à huit composantes qui était apparue augmente et va à sa plénitude, autant qu'à cause d'une amitié bénéfique."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "2. [sila|Sīla] est également mentionnée plusieurs fois comme précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] indépendamment de l'allégorie du lever de soleil (dans le contexte duquel elle est introduite à SN 45.50 comme l'accomplissement en vertu [i](sīla·sampadā)[/i]. Parmi ces exemples, on trouve les suivants:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.149]",
+        "text": [
+          {
+            "pl": " seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṃ nissāya pathaviyaṃ patiṭṭhāya evamete balakaraṇīyā kammantā karīyanti; evameva kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti.",
+            "fr": "Tout comme, mendiants, toutes les actions devant être réalisées par la force sont réalisées sur la base de la terre, supportées par la terre, de la même manière, c'est sur la base de la vertu, supporté par la vertu qu'un mendiant cultive la noble voie à huit composantes, qu'il pratique fréquemment la noble voie à huit composantes."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.150]",
+        "text": [
+          {
+            "pl": "seyyathāpi, bhikkhave, ye kecime bījagāmabhūtagāmā vuḍḍhiṃ virūḷhiṃ vepullaṃ āpajjanti, sabbe te pathaviṃ nissāya pathaviyaṃ patiṭṭhāya evamete bījagāmabhūtagāmā vuḍḍhiṃ virūḷhiṃ vepullaṃ āpajjanti; evameva kho, bhikkhave, bhikkhu sīlaṃ nissāya sīle patiṭṭhāya ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto vuḍḍhiṃ virūḷhiṃ vepullaṃ pāpuṇāti dhammesu.",
+            "fr": "Tout comme, mendiants, toutes les graines et les plantes atteignent leur prospérité, leur développement et leur plénitude sur la base de la terre, supportées par la terre, de la même manière, c'est sur la base de la vertu, supporté par la vertu qu'un mendiant cultivant la noble voie à huit composantes, pratiquant fréquemment la noble voie à huit composantes, atteint sa prospérité, son développement et sa plénitude dans les états mentaux [avantageux]."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "3. [appamada|Appamāda] est également mentionnée plusieurs fois comme précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] indépendamment de l'allégorie du lever de soleil (dans le contexte de laquelle elle est introduite à SN 45.54 comme l'accomplissement en assiduité [i](appamāda·sampadā)[/i]). On trouve de tels exemples à [@$SN 45.139 et SN 45.140].",
+        "4. [sammaditthi|Sammā·diṭṭhi] (AN 10.121) ou l'accomplissement dans le domaine des vues [i](diṭṭhi·sampadā, SN 45.53)[/i], sont mentionnés avec l'allégorie du lever de soleil comme constituant des précurseurs de la voie, ce qui n'est pas surprenant, puisque comme nous l'avons vu plus haut, chaque composante de la voie mène à la suivante, et [sammaditthi|sammā·diṭṭhi] est toujours mentionnée en premier.",
+        "5. L'accomplissement en désir [i](chanda·sampadā)[/i] est mentionné comme précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] dans le contexte de l'allégorie du lever de soleil à SN 45.51. Le commentaire explique le terme comme s'agissant d'un désir pour les [akusala|kusalā] [dhamma|dhammā]. Le mot [chanda|chanda] apparaît avec une connotation semblable dans la formule standard décrivant [sammavayama|sammā·vāyāma].",
+        "6. L'accomplissement par rapport au Soi [i]([atta|atta]·sampadā)[/i] est mentionné comme précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] dans le contexte de l'allégorie du lever de soleil à SN 45.52. Le commentaire explique l'expression comme étant synonyme de [i]sampanna·citta·tā[/i] (accomplissement en esprit), lequel suggère l'atteinte de [samadhi|samādhi] (voir [adhicittasikkha|adhi·citta·sikkhā]). L'expression [i]«atta·ññū hoti' (se connaît lui-même)[/i] pourrait aussi expliquer le terme. À SN 7.68, le terme est expliqué comme le fait de savoir que l'on a [saddha|saddhā], [sila|sīla], connaissance/érudition [i](suta)[/i], [caga|cāga], [panna|paññā] et compréhension [i](paṭibhāna)[/i].",
+        "7. L'accomplissement en considération à bon escient ([ymk|yoniso·manasikāra]-sampadā) est mentionné comme précurseur de l'[i]ariya aṭṭh·aṅg·ika magga[/i] dans le contexte de l'allégorie du lever de soleil à SN 45.52. ",
+        "8, 9 & 10. [vijja|Vijjā] suivi de [hiri|hiri] et [ottappa|ottappa] [i](anva·d·eva hir·ottappa)[/i] sont déclarés être les précurseurs [i](pubb·aṅgama)[/i] de l'entrée dans les [kusala|kusalā] [dhamma|dhammā] [i](kusalānaṃ dhammānaṃ samāpatti)[/i] à [@$SN 45.1] et AN 10.105. ",
+        "Il est dit à [@$AN 4.34] que l'[i]ariya aṭṭh·aṅg·ika magga[/i] est le plus élevé [i](agga)[/i] des [sankhata|saṅkhatā] [dhamma|dhammā] et qu'il apporte les plus élevés des [vipaka|vipākā]. ",
+        "Comme nous l'avons vu plus haut, à [@$SN 56.11], l'[i]ariya aṭṭh·aṅg·ika magga[/i] produit [nanadassana|ñāṇa·dassana] et mène à [upasama|upasama], [sambodhi|sambodhi] et [nibbana|Nibbāna]. Entre SN 45.161 et SN 45.180, il est aussi déclaré qu'il mène à [abhinna|abhiññā], à la compréhension complète [i](pariññā)[/i], à la destruction complète [i](parikkhaya)[/i], et l'abandon [i]([pahana|pahāna])[/i] de divers phénomènes: les trois discriminations [i](vidhā)[/i], <span >i.e. 'Je suis supérieur' (‘seyyo·ham·asmī’ti), 'Je suis égal' (‘sadiso·ham·asmī’ti), 'Je suis inférieur' (hīno·ham·asmī’ti)[/i]</span>; les trois quêtes [i](esanā)[/i], <span >i.e. la quête de sensualité [i](kām·esanā)[/i], la quête d'[une bonne] existence [i](bhav·esanā)[/i], la quête d'une vie brahmique [i](brahmacariy·esanā)[/i]</span>; les trois [asava|āsavā]s; les trois [bhava|bhavā]s; les trois souffrances [i](dukkhatā)[/i], <span >i.e. la souffrance causée par la douleur [i](dukkha·dukkhatā)[/i], la souffrance causée par les Constructions [i](saṅkhāra·dukkhatā)[/i], la souffrance causée par le changement [i](vipariṇāma·dukkhatā)[/i]</span>; les trois [akusalamula|akusalamulā]s; les trois types de [vedana|vedanā]; [kama|kāma], [ditthi|diṭṭhi] et [avijja|avijjā]; les quatre [upadana|upādānā]s; [abhijjha|abhijjhā], [byapada|byāpāda], [silabbataparamasa|sīla·bbata parāmāsa] et l'adhérence à [la vue] [i]«Ceci [seulement] est la vérité' (idaṃ·sacc·ābhinivesa)[/i]; les sept [anusaya|anusayā]s; les cinq [kamaguna|kāma·guṇā]s; les cinq [nivarana|nīvaraṇā]s; les cinq [upadanakkhandha|upādāna·kkhandha]s; et les dix [samyojana|saṃyojanā]s.",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] mène également à la cessation [i]([nirodha|nirodha])[/i] des phénomènes: MN 9 mentionne les douze liens de [paticcasamuppada|paṭicca·samuppāda], les quatre [ahara|āhārā]s et les trois [asava|āsavā]s; [@$AN 6.63] mentionne de plus la cessation de [kama|kāma] et [kamma|kamma]; [@$SN 22.56] mentionne la cessation de chacun des cinq [upadanakkhandha|upādāna·kkhandha]s.",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] est l'outil qui élimine les [akusala|akusalā] [dhamma|dhammā]. MN 3 mentionne explicitement les 16 [upakkilesa|upakkilesā]s (avec [dosa|dosa] à la place de [byapada|byāpāda]). On trouve dans le [b][@Magga Saṃyutta][/b] un certain nombre d'allégories illustrant ce point: à SN 45.153, les [akusala|akusalā] [dhamma|dhammā] sont abandonnés par l'esprit comme un bol retourné 'abandonne' son eau; à SN 45.156, ils sont désintégrés comme un nuage de pluie désintègre une tempête de poussière; à [@$SN 45.157], ils sont dispersés comme un vent puissant disperse un grand nuage de pluie; à SN 45.158, ils sont comme des cordes sur un navire qui pourrissent sous l'effet de climats incléments.",
+        "L'[i]ariya aṭṭh·aṅg·ika magga[/i] donne de la force à l'esprit, comme l'allégorie de SN 45.27 l'explique: la voie y est comparée au pied (double cône dont l'un est inversé) d'un bol (rond), qui fait en sorte que ce dernier ne soit que difficilement renversé. À SN 45.160, les gens, qu'ils soient puissants ou non, qui souhaitent convaincre un mendiant cultivant l'[i]ariya aṭṭh·aṅg·ika magga[/i] d'abandonner la vie monacale en lui offrant des richesses n'auront pas plus de succès que ceux qui souhaiteraient changer la direction du Gange, parce que son esprit s'incline à l'isolement."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$SN 45.159]",
+        "text": [
+          {
+            "pl": "“seyyathāpi, bhikkhave, āgantukāgāraṃ. tattha puratthimāyapi disāya āgantvā vāsaṃ kappenti, pacchimāyapi disāya āgantvā vāsaṃ kappenti, uttarāyapi disāya āgantvā vāsaṃ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṃ kappenti, khattiyāpi āgantvā vāsaṃ kappenti, brāhmaṇāpi āgantvā vāsaṃ kappenti, vessāpi āgantvā vāsaṃ kappenti, suddāpi āgantvā vāsaṃ kappenti; evameva kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto ye dhammā abhiññā pariññeyyā, te dhamme abhiññā parijānāti, ye dhammā abhiññā pahātabbā, te dhamme abhiññā pajahati, ye dhammā abhiññā sacchikātabbā, te dhamme abhiññā sacchikaroti, ye dhammā abhiññā bhāvetabbā, te dhamme abhiññā bhāveti.",
+            "fr": "C'est tout comme, mendiants, [dans] une maison de passage. Des [visiteurs venant] de l'ouest viennent y séjourner, des [visiteurs venant] de l'est viennent y séjourner, des [visiteurs venant] du nord viennent y séjourner, des [visiteurs venant] du sud viennent y séjourner. Des aristocrates viennent y séjourner, des brahmanes viennent y séjourner, des vessas viennent y séjourner, des sūdra viennent y séjourner. De la même manière, mendiants, lorsqu'un mendiant cultive la noble voie à huit composantes, qu'il pratique fréquemment la noble voie à huit composantes, il comprend complètement par connaissance directe les états mentaux devant être compris complètement par connaissance directe, il abandonne par connaissance directe les états mentaux devant être abandonnés par connaissance directe, il atteint par connaissance directe les états mentaux devant être atteints par connaissance directe, il cultive par connaissance directe les états mentaux devant être cultivés par connaissance directe. "
+          },
+          {
+            "pl": "“katame ca, bhikkhave, dhammā abhiññā pariññeyyā? pañcupādānakkhandhātissa vacanīyaṃ...",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être compris complètement par connaissance directe? Les cinq accumulations d'attachement, devrait-on dire..."
+          },
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā pahātabbā? avijjā ca bhavataṇhā ca...",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être abandonnés par connaissance directe? L'ignorance et l'appétence pour l'existence..."
+          },
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? vijjā ca vimutti ca...",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être atteints par connaissance directe? La connaissance correcte et la libération..."
+          },
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā bhāvetabbā? samatho ca vipassanā ca.",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être cultivés par connaissance directe? La tranquillité et la vision discernante."
+          }
+        ]
+      }
+    }
+  ]
+}

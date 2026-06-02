@@ -1,0 +1,42 @@
+{
+  "identifier": "AN 6.102",
+  "plTitle": "Anavaṭṭhita Sutta",
+  "frTitle": "Instables",
+  "description": "Six bienfaits à considérer pour se motiver à établir la perception de l'impermanence dans tous les phénomènes.",
+  "body": [
+    {
+      "pl": "“cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ. katame cha? ",
+      "fr": "[bhikkhu|Mendiants], il est suffisant pour un [bhikkhu|mendiant] de considérer six [anisamsa|bienfaits] afin d'établir la [aniccasanna|perception de l'impermanence] dans tous les [sankhara|phénomènes construits] sans exception. Quels sont ces six?"
+    },
+    {
+      "pl": "‘sabbasaṅkhārā ca me anavaṭṭhitato khāyissanti,",
+      "fr": "Tous les [sankhara|phénomènes construits] me paraîtront instables,"
+    },
+    {
+      "pl": "sabbaloke ca me mano nābhiramissati,",
+      "fr": "mon [mana|mental] ne se complaira dans aucun [loka|monde],"
+    },
+    {
+      "pl": "sabbalokā ca me mano vuṭṭhahissati,",
+      "fr": "mon [mana|mental] s'extirpera du [loka|monde] entier,"
+    },
+    {
+      "pl": "nibbānapoṇañca me mānasaṃ bhavissati,",
+      "fr": "mon [mana|mental] sera incliné vers l'[nibbana|Extinction]"
+    },
+    {
+      "pl": "saṃyojanā ca me pahānaṃ gacchissanti,",
+      "fr": "les [samyojana|entraves spirituelles] seront abandonnées en moi,"
+    },
+    {
+      "pl": "paramena ca sāmaññena samannāgato bhavissāmī’ti.",
+      "fr": "et je serai doué de l'excellence de la vie de renoncement."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cha ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetun”ti.",
+      "fr": "Il est suffisant pour un [bhikkhu|mendiant] de considérer ces six [anisamsa|bienfaits] afin d'établir la [aniccasanna|perception de l'impermanence] dans tous les [sankhara|phénomènes construits] sans exception."
+    }
+  ],
+  "keywords": ["bhikkhu", "anisamsa", "aniccasanna", "sankhara", "mana", "loka", "nibbana", "samyojana"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,49 @@
+{
+  "identifier": "SN 9.1",
+  "plTitle": "Viveka Sutta",
+  "frTitle": "En isolement",
+  "description": "Un mendiant en isolement est assailli par des pensées liées à la vie de foyer. Un déva vient l'aider.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ — ",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite. atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi —",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] séjournait dans le Kosala, dans un certain maquis forestier. Ce jour-là, ce [bhikkhu|mendiant], faisant sa session de la journée, pensait des [vitakka|pensées] [papaka|mauvaises] et [akusala|désavantageuses] liées à la vie de foyer. Alors le [deva|déva] qui vivait dans ce maquis forestier, par compassion pour ce [bhikkhu|mendiant], voulant son bien, souhaitant susciter chez lui le [samvega|sens de la motivation], s'approcha et s'adressa à lui en vers:"
+    },
+    {
+      "pl": "“vivekakāmosi vanaṃ paviṭṭho, atha te mano niccharatī bahiddhā. jano janasmiṃ vinayassu chandaṃ, tato sukhī hohisi vītarāgo. ",
+      "fr": "Tu es entré dans la forêt en cherchant l'[viveka|isolement]Mais maintenant ton [mana|mental] est distrait vers l'extérieur.Homme, élimine le [chanda|désir] pour les gensEt tu seras dans le [sukha|bien-être], sans [raga|avidité]."
+    },
+    {
+      "pl": "“aratiṃ pajahāsi sato, bhavāsi sataṃ taṃ sārayāmase. pātālarajo hi duttaro, mā taṃ kāmarajo avāhari. ",
+      "fr": "[sati|Présent d'esprit], abandonne le mécontentement,Développe la [sati|présence d'esprit] que nous te rappelons.Le fossé rempli de saletés (avidités) est difficile à traverser,Ne laisse pas la saleté [kama|sensuelle] t'abattre."
+    },
+    {
+      "pl": "“sakuṇo yathā paṃsukunthito, vidhunaṃ pātayati sitaṃ rajaṃ. evaṃ bhikkhu padhānavā satimā, vidhunaṃ pātayati sitaṃ rajan””ti. ",
+      "fr": "Tout comme un oiseau couvert de saletéEn se secouant, se débarrasse de la saleté attachéeDe même, un [bhikkhu|mendiant] voué à l'[padhana|effort], [sati|présent d'esprit],En se secouant, se débarrasse de la saleté attachée."
+    },
+    {
+      "pl": "atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+      "fr": "Alors ce [bhikkhu|mendiant], rappelé à l'ordre par le [deva|déva], acquit le [samvega|sens de la motivation]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "vitakka",
+    "papaka",
+    "akusala",
+    "deva",
+    "samvega",
+    "viveka",
+    "mana",
+    "chanda",
+    "sukha",
+    "raga",
+    "sati",
+    "kama",
+    "padhana"
+  ],
+  "translator": "Sekha"
+}

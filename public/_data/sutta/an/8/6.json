@@ -1,0 +1,127 @@
+{
+  "identifier": "AN 8.6",
+  "plTitle": "Lokadhamma Sutta",
+  "frTitle": "Huit phénomènes mondains",
+  "description": "Voici huit phénomènes qui tournent autour du monde et autour desquels le monde tourne lui aussi, ainsi que la manière dont ils soulignent la différence entre un individu ordinaire sans instruction et un [ariyasavaka|noble disciple] [sutava|instruit].",
+  "body": [
+    {
+      "pl": "“aṭṭhime, bhikkhave, lokadhammā lokaṃ anuparivattanti, loko ca aṭṭha lokadhamme anuparivattati. katame aṭṭha? lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṃsā ca, sukhañca, dukkhañca. ime kho, bhikkhave, aṭṭha lokadhammā lokaṃ anuparivattanti, loko ca ime aṭṭha lokadhamme anuparivattati.",
+      "fr": "[bhikkhu|Mendiants], ces huit [dhamma|phénomènes] mondains tournent autour du [loka|monde], et le [loka|monde] tourne autour de ces huit [dhamma|phénomènes] mondains. Quels sont ces huit? Le gain et la perte, la gloire et l'humiliation, la condamnation et l'éloge, le [sukha|bien-être] et le [dukkha|mal-être]. [bhikkhu|Mendiants], ces huit [dhamma|phénomènes] mondains tournent autour du [loka|monde], et le [loka|monde] tourne autour de ces huit [dhamma|phénomènes] mondains."
+    },
+    {
+      "pl": "“assutavato, bhikkhave, puthujjanassa uppajjati lābhopi alābhopi yasopi ayasopi nindāpi pasaṃsāpi sukhampi dukkhampi. sutavatopi, bhikkhave, ariyasāvakassa uppajjati lābhopi alābhopi yasopi ayasopi nindāpi pasaṃsāpi sukhampi dukkhampi. tatra, bhikkhave, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ sutavato ariyasāvakassa assutavatā puthujjanenā”ti?",
+      "fr": "[bhikkhu|Mendiants], le gain et la perte, la gloire et l'humiliation, la condamnation et l'éloge, le [sukha|bien-être] et le [dukkha|mal-être] apparaissent à un [puthujjana|individu ordinaire] [assutava|sans instruction]. [bhikkhu|Mendiants], le gain et la perte, la gloire et l'humiliation, la condamnation et l'éloge, le [sukha|bien-être] et le [dukkha|mal-être] apparaissent à un [ariyasavaka|noble disciple] [sutava|instruit]. Quelle est donc la différence, quelle est la distinction, qu'est-ce qui fait la différence entre un [ariyasavaka|noble disciple] [sutava|instruit] et un [puthujjana|individu ordinaire] [assutava|sans instruction]?"
+    },
+    {
+      "pl": "“bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. bhagavato sutvā bhikkhū dhāressantī”ti.",
+      "fr": "—Pour nous, [bhante|Bhanté], le [dhamma|Dhamma] est enraciné dans le [bhagava|Fortuné], il est guidé par le [bhagava|Fortuné], il est protégé par le [bhagava|Fortuné]. Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] clarifie lui-même la [@m_attha|signification] de cette parole. L'ayant entendue de la part du [bhagava|Fortuné], les [bhikkhu|mendiants] la retiendront."
+    },
+    {
+      "pl": "“tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti.",
+      "fr": "—Alors écoutez cela, [bhikkhu|mendiants], et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté], répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "— “assutavato, bhikkhave, puthujjanassa uppajjati lābho. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti.",
+      "fr": "—[bhikkhu|Mendiants], lorsque le gain apparaît à un [puthujjana|individu ordinaire] [assutava|sans instruction], il ne considère pas ceci: [i]“Ce gain qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati alābho. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ alābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque la perte lui apparaît, il ne considère pas ceci: [i]“Cette perte qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati yaso. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ yaso; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque la gloire lui apparaît, il ne considère pas ceci: [i]“Cette gloire qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati ayaso. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ ayaso; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque l'humiliation lui apparaît, il ne considère pas ceci: [i]“Cette humiliation qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati nindā. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ nindā; sā ca kho aniccā dukkhā vipariṇāmadhammā’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque la condamnation lui apparaît, il ne considère pas ceci: [i]“Cette condamnation qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati pasaṃsā. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ pasaṃsā; sā ca kho aniccā dukkhā vipariṇāmadhammā’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque l'éloge lui apparaît, il ne considère pas ceci: [i]“Cet éloge qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati sukhaṃ. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; tañca kho aniccaṃ dukkhaṃ vipariṇāmadhamman’ti yathābhūtaṃ nappajānāti.",
+      "fr": "Lorsque le [sukha|bien-être] lui apparaît, il ne considère pas ceci: [i]“Ce [sukha|bien-être] qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati dukkhaṃ. so na iti paṭisañcikkhati: ‘uppannaṃ kho me idaṃ dukkhaṃ; tañca kho aniccaṃ dukkhaṃ vipariṇāmadhamman’ti yathābhūtaṃ nappajānāti”.",
+      "fr": "Lorsque le [dukkha|mal-être] lui apparaît, il ne considère pas ceci: [i]“Ce [dukkha|mal-être] qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et ne le comprend pas [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "“tassa lābhopi cittaṃ pariyādāya tiṭṭhati, alābhopi cittaṃ pariyādāya tiṭṭhati, yasopi cittaṃ pariyādāya tiṭṭhati, ayasopi cittaṃ pariyādāya tiṭṭhati, nindāpi cittaṃ pariyādāya tiṭṭhati, pasaṃsāpi cittaṃ pariyādāya tiṭṭhati, sukhampi cittaṃ pariyādāya tiṭṭhati, dukkhampi cittaṃ pariyādāya tiṭṭhati. so uppannaṃ lābhaṃ anurujjhati, alābhe paṭivirujjhati; uppannaṃ yasaṃ anurujjhati, ayase paṭivirujjhati; uppannaṃ pasaṃsaṃ anurujjhati, nindāya paṭivirujjhati; uppannaṃ sukhaṃ anurujjhati, dukkhe paṭivirujjhati. so evaṃ anurodhavirodhasamāpanno na parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. ‘na parimuccati dukkhasmā’ti vadāmi”.",
+      "fr": "Le gain s'empare de son [citta|esprit], la perte s'empare de son [citta|esprit], la gloire s'empare de son [citta|esprit], l'humiliation s'empare de son [citta|esprit], la condamnation s'empare de son [citta|esprit], l'éloge s'empare de son [citta|esprit], le [sukha|bien-être] s'empare de son [citta|esprit], le [dukkha|mal-être] s'empare de son [citta|esprit]. Il est attiré par le gain qui est apparu et répugne à la perte, il est attiré par la gloire qui est apparue et répugne à l'humiliation, il est attiré par l'éloge qui est apparu et répugne à la condamnation, il est attiré par le [sukha|bien-être] qui est apparu et répugne au [dukkha|mal-être]. Ainsi engagé dans l'attraction et la répulsion, il n'est pas délivré de la [jati|naissance], du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Je dis qu'il n'est pas délivré du [dukkha|mal-être]."
+    },
+    {
+      "pl": "“sutavato ca kho, bhikkhave, ariyasāvakassa uppajjati lābho. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti.",
+      "fr": "[bhikkhu|Mendiants], lorsque le gain apparaît à un [ariyasavaka|noble disciple] [sutava|instruit], il considère ceci: [i]“Ce gain qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati alābho. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ alābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque la perte lui apparaît, il considère ceci: [i]“Cette perte qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati yaso. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ yaso; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque la gloire lui apparaît, il considère ceci: [i]“Cette gloire qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati ayaso. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ ayaso; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque l'humiliation lui apparaît, il considère ceci: [i]“Cette humiliation qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati nindā. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ nindā; sā ca kho aniccā dukkhā vipariṇāmadhammā’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque la condamnation lui apparaît, il considère ceci: [i]“Cette condamnation qui m'est apparue est [anicca|impermanent]e, [dukkha|insatisfaisant]e, [dhamma|par nature] sujette au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati pasaṃsā. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ pasaṃsā; sā ca kho aniccā dukkhā vipariṇāmadhammā’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque l'éloge lui apparaît, il considère ceci: [i]“Cet éloge qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati sukhaṃ. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; tañca kho aniccaṃ dukkhaṃ vipariṇāmadhamman’ti yathābhūtaṃ pajānāti.",
+      "fr": "Lorsque le [sukha|bien-être] lui apparaît, il considère ceci: [i]“Ce [sukha|bien-être] qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "uppajjati dukkhaṃ. so iti paṭisañcikkhati: ‘uppannaṃ kho me idaṃ dukkhaṃ; tañca kho aniccaṃ dukkhaṃ vipariṇāmadhamman’ti yathābhūtaṃ pajānāti”.",
+      "fr": "Lorsque le [dukkha|mal-être] lui apparaît, il considère ceci: [i]“Ce [dukkha|mal-être] qui m'est apparu est [anicca|impermanent], [dukkha|insatisfaisant], [dhamma|par nature] sujet au changement”[/i] et le comprend [yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "“tassa lābhopi cittaṃ na pariyādāya tiṭṭhati, alābhopi cittaṃ na pariyādāya tiṭṭhati, yasopi cittaṃ na pariyādāya tiṭṭhati, ayasopi cittaṃ na pariyādāya tiṭṭhati, nindāpi cittaṃ na pariyādāya tiṭṭhati, pasaṃsāpi cittaṃ na pariyādāya tiṭṭhati, sukhampi cittaṃ na pariyādāya tiṭṭhati, dukkhampi cittaṃ na pariyādāya tiṭṭhati. so uppannaṃ lābhaṃ nānurujjhati, alābhe nappaṭivirujjhati; uppannaṃ yasaṃ nānurujjhati, ayase nappaṭivirujjhati; uppannaṃ pasaṃsaṃ nānurujjhati, nindāya nappaṭivirujjhati; uppannaṃ sukhaṃ nānurujjhati, dukkhe nappaṭivirujjhati. so evaṃ anurodhavirodhavippahīno parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. ‘parimuccati dukkhasmā’ti vadāmi.",
+      "fr": "Le gain ne s'empare pas de son [citta|esprit], la perte ne s'empare pas de son [citta|esprit], la gloire ne s'empare pas de son [citta|esprit], l'humiliation ne s'empare pas de son [citta|esprit], la condamnation ne s'empare pas de son [citta|esprit], l'éloge ne s'empare pas de son [citta|esprit], le [sukha|bien-être] ne s'empare pas de son [citta|esprit], le [dukkha|mal-être] ne s'empare pas de son [citta|esprit]. Il n'est pas attiré par le gain qui est apparu et ne répugne pas à la perte, il n'est pas attiré par la gloire qui est apparue et ne répugne pas à l'humiliation, il n'est pas attiré par l'éloge qui est apparu et ne répugne pas à la condamnation, il n'est pas attiré par le [sukha|bien-être] qui est apparu et ne répugne pas au [dukkha|mal-être]. Ayant ainsi abandonné l'attraction et la répulsion, il est délivré de la [jati|naissance], du [jara|vieillissement] et de la [marana|mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse]. Je dis qu'il est délivré du [dukkha|mal-être]."
+    },
+    {
+      "pl": "ayaṃ kho, bhikkhave, viseso ayaṃ adhippayāso idaṃ nānākaraṇaṃ sutavato ariyasāvakassa assutavatā puthujjanenā”ti.",
+      "fr": "Voici, mendiants, quelle est la différence, quelle est la distinction, voici ce qui fait la différence entre un [ariyasavaka|noble disciple] [sutava|instruit] et un [puthujjana|individu ordinaire] [assutava|sans instruction]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "loka",
+    "sukha",
+    "dukkha",
+    "puthujjana",
+    "assutava",
+    "ariyasavaka",
+    "sutava",
+    "bhante",
+    "bhagava",
+    "@m_attha",
+    "anicca",
+    "yathabhutam",
+    "citta",
+    "jati",
+    "jara",
+    "marana",
+    "domanassa",
+    "upayasa"
+  ],
+  "translator": "Rémy"
+}

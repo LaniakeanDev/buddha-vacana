@@ -1,0 +1,78 @@
+{
+  "identifier": "MN 58",
+  "plTitle": "Abhayarājakumāra Sutta",
+  "frTitle": "La question du prince Abhaya",
+  "description": "Toute vérité est-elle bonne à dire? Le Bouddha clarifie ici sa position à ce sujet.",
+  "body": [
+    {
+      "pl": "...",
+      "fr": "..."
+    },
+    {
+      "pl": "tena kho pana samayena daharo kumāro mando uttānaseyyako abhayassa rājakumārassa aṅke nisinno hoti. atha kho bhagavā abhayaṃ rājakumāraṃ etadavoca:",
+      "fr": "À ce moment-là, un jeune et tendre enfant était allongé sur les genoux du prince Abhaya. Alors le [bhgava|Fortuné] lui dit :"
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, rājakumāra, sacāyaṃ kumāro tuyhaṃ vā pamādamanvāya dhātiyā vā pamādamanvāya kaṭṭhaṃ vā kaṭhalaṃ vā mukhe āhareyya, kinti naṃ kareyyāsī”ti?",
+      "fr": "—Qu'en pensez-vous, prince, si cet enfant, à cause de votre [pamada|négligence] ou de celle de sa nourrice, mettait un bout de bois ou un gravier dans sa bouche, que feriez-vous?"
+    },
+    {
+      "pl": "“āhareyyassāhaṃ, bhante. sace, bhante na sakkuṇeyyaṃ ādikeneva āhattuṃ, vāmena hatthena sīsaṃ pariggahetvā dakkhiṇena hatthena vaṅkaṅguliṃ karitvā salohitampi āhareyyaṃ. taṃ kissa hetu? atthi me, bhante kumāre anukampā”ti.",
+      "fr": "—Je l'en sortirais, [bhante|Bhanté]. Et si je n'étais pas capable de l'en sortir toute de suite, je saisirais sa tête dans ma main gauche, je plierais un doigt de la main droite, et je l'en sortirais, même si cela le faisait saigner. Pourquoi cela? Parce que, [bhante|Bhanté], j'ai de la sympathie pour l'enfant."
+    },
+    {
+      "pl": "“evameva kho, rājakumāra, yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, na taṃ tathāgato vācaṃ bhāsati.",
+      "fr": "—De la même manière, prince, les paroles que le [tathagata|Tathagata] sait être non-factuelles, fausses, non profitables, et qui de plus sont désagréables et déplaisantes, il ne les prononce pas."
+    },
+    {
+      "pl": "yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tampi tathāgato vācaṃ na bhāsati.",
+      "fr": "Les paroles que le [tathagata|Tathagata] sait être factuelles, correctes, mais qui sont non profitables, et qui de plus sont désagréables et déplaisantes, il ne les prononce pas."
+    },
+    {
+      "pl": "yañca kho tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasaṃhitaṃ sā ca paresaṃ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya.",
+      "fr": "Les paroles que le [tathagata|Tathagata] sait être factuelles, correctes, [@m_atthasamhita|profitables], mais qui sont désagréables et déplaisantes, il connaît le moment opportun pour les exposer."
+    },
+    {
+      "pl": "yaṃ tathāgato vācaṃ jānāti abhūtaṃ atacchaṃ anatthasaṃhitaṃ sā ca paresaṃ piyā manāpā, na taṃ tathāgato vācaṃ bhāsati.",
+      "fr": "Les paroles que le [tathagata|Tathagata] sait être non-factuelles, fausses, non profitables, mais qui sont agréables et plaisantes, il ne les prononce pas."
+    },
+    {
+      "pl": "yampi tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ anatthasaṃhitaṃ sā ca paresaṃ piyā manāpā tampi tathāgato vācaṃ na bhāsati.",
+      "fr": "Les paroles que le [tathagata|Tathagata] sait être factuelles et correctes, mais qui sont non profitables, même si elles sont agréables et plaisantes, il ne les prononce pas."
+    },
+    {
+      "pl": "yañca tathāgato vācaṃ jānāti bhūtaṃ tacchaṃ atthasaṃhitaṃ sā ca paresaṃ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. taṃ kissa hetu? atthi, rājakumāra, tathāgatassa sattesu anukampā”ti.",
+      "fr": "Et les paroles que le [tathagata|Tathagata] sait être factuelles, correctes, [@m_atthasamhita|profitables], et qui de plus sont agréables et plaisantes, il connaît le moment opportun pour les exposer. Pourquoi cela? Parce que, prince, le [tathagata|Tathagata] a de la sympathie pour les [satta|êtres]."
+    },
+    {
+      "pl": "“yeme, bhante khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṃ abhisaṅkharitvā tathāgataṃ upasaṅkamitvā pucchanti, pubbeva nu kho, etaṃ, bhante bhagavato cetaso parivitakkitaṃ hoti ‘ye maṃ upasaṅkamitvā evaṃ pucchissanti tesāhaṃ evaṃ puṭṭho evaṃ byākarissāmī’ti, udāhu ṭhānasovetaṃ tathāgataṃ paṭibhātī”ti?",
+      "fr": "—[bhante|Bhanté], lorsque de sages [khattiya|aristocrates], de sages brahmanes, de sages hommes de maison, de sages [samana|renonçants] viennent voir le [tathagata|Tathagata] avec une question qu'ils ont formulée et la lui posent, est-ce que le [bhgava|Fortuné] a auparavant la pensée suivante à l'esprit: [i]“S'ils viennent me voir et me demandent ceci, étant questionné comme ceci, je leur répondrai comme cela?”[/i], ou bien est-ce que la réponse lui vient dans l'instant?"
+    },
+    {
+      "pl": "“tena hi, rājakumāra, taññevettha paṭipucchissāmi, yathā te khameyya tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, rājakumāra, kusalo tvaṃ rathassa aṅgapaccaṅgānan”ti?",
+      "fr": "—Pour cela, prince, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous: est-ce que vous êtes connaisseur en matière de pièces constituantes de chars?"
+    },
+    {
+      "pl": "“evaṃ, bhante kusalo ahaṃ rathassa aṅgapaccaṅgānan”ti.",
+      "fr": "—Oui , [bhante|Bhanté], je suis connaisseur en matière de pièces de char."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, rājakumāra, ye taṃ upasaṅkamitvā evaṃ puccheyyuṃ: ‘kiṃ nāmidaṃ rathassa aṅgapaccaṅgan’ti? pubbeva nu kho te etaṃ cetaso parivitakkitaṃ assa ‘ye maṃ upasaṅkamitvā evaṃ pucchissanti tesāhaṃ evaṃ puṭṭho evaṃ byākarissāmī’ti, udāhu ṭhānasovetaṃ paṭibhāseyyā”ti?",
+      "fr": "—Qu'en pensez-vous, prince, s'ils viennent vous voir et vous demandent: [i]“Quel est le nom de cette pièce?”[/i], est-ce que vous avez auparavant la pensée suivante à l'esprit: [i]“S'ils viennent me voir et me demandent ceci, étant questionné comme ceci, je leur répondrai comme cela”[/i], ou bien est-ce que la réponse vous vient dans l'instant?"
+    },
+    {
+      "pl": "“ahañhi, bhante rathiko saññāto kusalo rathassa aṅgapaccaṅgānaṃ. sabbāni me rathassa aṅgapaccaṅgāni suviditāni. ṭhānasovetaṃ maṃ paṭibhāseyyā”ti.",
+      "fr": "—[bhante|Bhanté], je suis un conducteur de char compétent, connaisseur en matière de pièces constituantes de char. Je connais bien toutes les pièces d'un char. La réponse me vient dans l'instant."
+    },
+    {
+      "pl": "“evameva kho, rājakumāra, ye te khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṃ abhisaṅkharitvā tathāgataṃ upasaṅkamitvā pucchanti, ṭhānasovetaṃ tathāgataṃ paṭibhāti. taṃ kissa hetu? sā hi, rājakumāra, tathāgatassa dhammadhātu suppaṭividdhā yassā dhammadhātuyā suppaṭividdhattā ṭhānasovetaṃ tathāgataṃ paṭibhātī”ti.",
+      "fr": "—De la même manière, prince, lorsque de sages [khattiya|aristocrates], de sages brahmanes, de sages hommes de maison, de sages [samana|renonçants] viennent voir le [tathagata|Tathagata] avec une question et la lui posent, la réponse lui vient dans l'instant. Pourquoi cela? Parce que, prince, le [tathagata|Tathagata] comprend complètement le [dhamma|Dhamma], et puisqu'il comprend complètement le [dhamma|Dhamma], la réponse lui vient dans l'instant."
+    },
+    {
+      "pl": "...",
+      "fr": "..."
+    }
+  ],
+  "keywords": ["bhgava", "pamada", "bhante", "tathagata", "@m_atthasamhita", "satta", "khattiya", "samana", "dhamma"],
+  "translator": "Rémy"
+}

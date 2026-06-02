@@ -1,0 +1,80 @@
+{
+  "identifier": "AN 10.31",
+  "plTitle": "Upāli Sutta",
+  "frTitle": "La question d'Oupali",
+  "description": "Le Bouddha explique à Oupali les dix raisons pour lesquelles il met en place des règles de conduite pour ses disciples.",
+  "body": [
+    {
+      "pl": "atha kho āyasmā upāli yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā upāli bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [ayasma|vénérable] Oupali vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“kati nukho, bhante atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhan”ti?",
+      "fr": "— [bhante|Bhanté], pour quelle raison le [tathagata|Tathagata] a-t-il stipulé les [sikkhapada|règles de l'entraînement] pour ses [savaka|disciples] et mis en place le [patimokkha|Pātimokkha]?"
+    },
+    {
+      "pl": "“dasa kho, upāli, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ. katame dasa?",
+      "fr": "— Il y a, Oupali, dix raisons pour lesquelles le [tathagata|Tathagata] a stipulé les [sikkhapada|règles de l'entraînement] pour ses [savaka|disciples] et mis en place le [patimokkha|Pātimokkha]. Quelles sont ces dix?"
+    },
+    {
+      "pl": "saṅghasuṭṭhutāya,",
+      "fr": "Pour l'excellence de la [sangha|communauté],"
+    },
+    {
+      "pl": "saṅghaphāsutāya,",
+      "fr": "pour le confort de la [sangha|communauté],"
+    },
+    {
+      "pl": "dummaṅkūnaṃ puggalānaṃ niggahāya,",
+      "fr": "pour la restreinte des individus récalcitrants,"
+    },
+    {
+      "pl": "pesalānaṃ bhikkhūnaṃ phāsuvihārāya,",
+      "fr": "pour le séjour confortable des [bhikkhu|mendiants] de bon caractère,"
+    },
+    {
+      "pl": "diṭṭhadhammikānaṃ āsavānaṃ saṃvarāya,",
+      "fr": "pour la restreinte des [asava|impuretés mentales] liées [ditthevadhamme|au monde visible],"
+    },
+    {
+      "pl": "samparāyikānaṃ āsavānaṃ paṭighātāya,",
+      "fr": "pour l'élimination des [asava|impuretés mentales] liées à l'autre monde,"
+    },
+    {
+      "pl": "appasannānaṃ pasādāya,",
+      "fr": "pour le gain de confiance de ceux qui n'ont pas confiance,"
+    },
+    {
+      "pl": "pasannānaṃ bhiyyobhāvāya,",
+      "fr": "pour [son] augmentation chez ceux qui ont confiance,"
+    },
+    {
+      "pl": "saddhammaṭṭhitiyā,",
+      "fr": "pour la conservation du [saddhamma|Dhamma authentique],"
+    },
+    {
+      "pl": "vinayānuggahāya.",
+      "fr": "et pour le maintien de la [vinaya|discipline]."
+    },
+    {
+      "pl": "ime kho, upāli, dasa atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhan”ti.",
+      "fr": "Voici, Oupali, quelles sont les dix raisons pour lesquelles le [tathagata|Tathagata] a stipulé les [sikkhapada|règles de l'entraînement] pour ses [savaka|disciples] et mis en place le [patimokkha|Pātimokkha]."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "tathagata",
+    "sikkhapada",
+    "savaka",
+    "patimokkha",
+    "sangha",
+    "bhikkhu",
+    "asava",
+    "ditthevadhamme",
+    "saddhamma",
+    "vinaya"
+  ],
+  "translator": "Rémy"
+}

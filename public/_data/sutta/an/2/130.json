@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 2.130 à AN 2.133",
+  "plTitle": "Āyāceyya Sutta",
+  "frTitle": "Devrait souhaiter",
+  "description": "Voici les huit figures qui devraient servir de modèle et de référence pour les quatre types de disciples du Bouddha.",
+  "body": [
+    {
+      "pl": "130. “saddho, bhikkhave, bhikkhu evaṃ sammā āyācamāno āyāceyya: ‘tādiso homi yādisā sāriputtamoggallānā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūnaṃ yadidaṃ sāriputtamoggallānā”ti. ",
+      "fr": "130. Un [bhikkhu|mendiant] doué de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme Saripoutta et Moggallāna!”[/i] Car Saripoutta et Moggallāna sont le modèle, ils sont la référence en ce qui concerne mes [upasaka|disciples] [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "131. “saddhā, bhikkhave, bhikkhunī evaṃ sammā āyācamānā āyāceyya: ‘tādisī homi yādisī khemā ca bhikkhunī uppalavaṇṇā cā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ bhikkhunīnaṃ yadidaṃ khemā ca bhikkhunī uppalavaṇṇā cā”ti.",
+      "fr": "131. Une mendiante pourvue de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme les [bhikkhuni|mendiantes] Khéma et Ouppalavanna!”[/i] Car les [bhikkhuni|mendiantes] Khéma et Ouppalavanna sont le modèle, elles sont la référence en ce qui concerne mes [upasaka|disciples] [bhikkhuni|mendiantes]."
+    },
+    {
+      "pl": "132. “saddho, bhikkhave, upāsako evaṃ sammā āyācamāno āyāceyya: ‘tādiso homi yādiso citto ca gahapati hatthako ca āḷavako’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ upāsakānaṃ yadidaṃ citto ca gahapati hatthako ca āḷavako”ti.",
+      "fr": "132. Un [upasaka|disciple laïc] doué de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme Tchitta le chef de foyer et Hatthaka Alavaka!”[/i] Car Tchitta le chef de foyer et Hatthaka Alavaka sont le modèle, ils sont la référence en ce qui concerne mes [savaka|disciples] [upasaka|laïcs]."
+    },
+    {
+      "pl": "133. “saddhā, bhikkhave, upāsikā evaṃ sammā āyācamānā āyāceyya: ‘tādisī homi yādisī khujjuttarā ca upāsikā veḷukaṇḍakiyā ca nandamātā’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvikānaṃ upāsikānaṃ yadidaṃ khujjuttarā ca upāsikā veḷukaṇḍakiyā ca nandamātā”ti.",
+      "fr": "133. Une [upasaka|disciple laïque] pourvue de [saddha|conviction] ayant des souhaits corrects devrait souhaiter: [i]“Que je devienne comme la [upasaka|disciple laïque] Khoujjouttara et Véloukandakiya la mère de Nanda!”[/i] Car la [upasaka|disciple laïque] Khoujjouttara et Véloukandakiya la mère de Nanda sont le modèle, elles sont la référence en ce qui concerne mes [savaka|disciples] [upasaka|laïques]."
+    }
+  ],
+  "keywords": ["bhikkhu", "saddha", "upasaka", "bhikkhuni", "savaka", "upasika"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,43 @@
+{
+  "identifier": "AN 10.197",
+  "plTitle": "Anussaritabba Sutta",
+  "frTitle": "À ne pas être remémoré",
+  "description": "Voici le Dhamma qu'il ne faut pas se remémorer, et celui qu'il faut au contraire se remémorer.",
+  "body": [
+    {
+      "pl": "“anussaritabbañca vo, bhikkhave, dhammaṃ desessāmi nānussaritabbañca. taṃ suṇātha, sādhukaṃ manasi karotha. bhāsissāmī”ti.",
+      "fr": "Je vais vous enseigner, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il faudrait se remémorer et le [dhamma|Dhamma] qu'il ne faudrait pas se remémorer. Écoutez cela et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "evaṃ, bhante ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhadante|Bhanté], répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "katamo ca, bhikkhave, nānussaritabbo dhammo? pāṇātipāto, adinnādānaṃ, kāmesumicchācāro, musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo, abhijjhā, byāpādo, micchādiṭṭhi. ayaṃ vuccati, bhikkhave, na anussaritabbo dhammo.",
+      "fr": "— Et quel est, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il ne faudrait pas se remémorer? La [panatipata|destruction de la vie], l'[adinnadana|appropriation de ce qui n'a pas été donné], la [kamesumicchacara|méconduite en raison des plaisirs sensuels], la [musavada|parole mensongère], la [pisunavaca|parole médisante], la [pharusavaca|parole acerbe], la [samphappalapa|parole frivole], la [abhijjha|convoitise], la [byapada|malveillance] et la [ditthi|vue] erronée. Voici, [bhikkhu|mendiants], ce qu'on appellele [dhamma|Dhamma] qu'il ne faudrait pas se remémorer."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, anussaritabbo dhammo? pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi. ayaṃ vuccati, bhikkhave, anussaritabbo dhammo”ti.",
+      "fr": "Et quel est, [bhikkhu|mendiants], le [dhamma|Dhamma] qu'il faudrait se remémorer? L'abstention de la [panatipata|destruction de la vie], l'abstention de l'[adinnadana|appropriation de ce qui n'a pas été donné], l'abstention de la [kamesumicchacara|méconduite en raison des plaisirs sensuels], l'abstention de la [musavada|parole mensongère], l'abstention de la [pisunavaca|parole médisante], l'abstention de la [pharusavaca|parole acerbe], l'abstention de la [samphappalapa|parole frivole], la non-[abhijjha|convoitise], la [abyapada|bienveillance] et la [sammaditthi|vue correcte]. Voici, [bhikkhu|mendiants], ce qu'on appellele [dhamma|Dhamma] qu'il faudrait se remémorer."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "bhadante",
+    "bhagava",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "abhijjha",
+    "byapada",
+    "ditthi",
+    "abyapada",
+    "sammaditthi"
+  ],
+  "translator": "Rémy"
+}

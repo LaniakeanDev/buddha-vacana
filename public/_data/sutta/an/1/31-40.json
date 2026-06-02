@@ -1,0 +1,50 @@
+{
+  "identifier": "AN 1.31 à 1.40",
+  "plTitle": "Adanta Vagga",
+  "frTitle": "Indompté",
+  "description": "Des bienfaits de dompter, protéger, sauvegarder et restreindre son esprit.",
+  "body": [
+    {
+      "pl": "31. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī”ti.",
+      "fr": "31. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est indomptée, mène à un aussi grand préjudice que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est indompté, mène à un grand préjudice."
+    },
+    {
+      "pl": "32. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī”ti.",
+      "fr": "32. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est domptée, mène à un aussi grand [@m_attha|bienfait] que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est dompté, mène à un grand [@m_attha|bienfait]."
+    },
+    {
+      "pl": "33. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ aguttaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, aguttaṃ mahato anatthāya saṃvattatī”ti.",
+      "fr": "33. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle n'est pas gardée, mène à un aussi grand préjudice que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il n'est pas gardé, mène à un grand préjudice."
+    },
+    {
+      "pl": "34. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, guttaṃ mahato atthāya saṃvattatī”ti.",
+      "fr": "34. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est gardée, mène à un aussi grand [@m_attha|bienfait] que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est gardé, mène à un grand [@m_attha|bienfait]."
+    },
+    {
+      "pl": "35. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ arakkhitaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, arakkhitaṃ mahato anatthāya saṃvattatī”ti.",
+      "fr": "35. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle n'est pas protégée, mène à un aussi grand préjudice que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il n'est pas protégé, mène à un grand préjudice."
+    },
+    {
+      "pl": "36. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ rakkhitaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, rakkhitaṃ mahato atthāya saṃvattatī”ti.",
+      "fr": "36. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est protégée, mène à un aussi grand [@m_attha|bienfait] que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est protégé, mène à un grand [@m_attha|bienfait]."
+    },
+    {
+      "pl": "37. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, asaṃvutaṃ mahato anatthāya saṃvattatī”ti.",
+      "fr": "37. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle n'est pas [samvara|restreint]e, mène à un aussi grand préjudice que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il n'est pas [samvara|restreint], mène à un grand préjudice."
+    },
+    {
+      "pl": "38. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, saṃvutaṃ mahato atthāya saṃvattatī”ti.",
+      "fr": "38. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est [samvara|restreint]e, mène à un aussi grand [@m_attha|bienfait] que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est [samvara|restreint], mène à un grand [@m_attha|bienfait]."
+    },
+    {
+      "pl": "39. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī”ti.",
+      "fr": "39. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle n'est pas domptée, pas gardée, pas protégée, pas [samvara|restreint]e, mène à un aussi grand préjudice que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il n'est pas dompté, pas gardé, pas protégé, pas [samvara|restreint], mène à un grand préjudice."
+    },
+    {
+      "pl": "40. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī”ti.",
+      "fr": "40. [bhikkhu|Mendiants], je ne vois aucune autre [dhamma|chose] qui, lorsqu'elle est domptée, gardée, protégée, [samvara|restreint]e, mène à un aussi grand [@m_attha|bienfait] que l'[citta|esprit]. L'[citta|esprit], [bhikkhu|mendiants], lorsqu'il est dompté, gardé, protégé, [samvara|restreint], mène à un grand [@m_attha|bienfait]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "citta", "@m_attha", "samvara"],
+  "translator": "Bhikkhu Sekha"
+}

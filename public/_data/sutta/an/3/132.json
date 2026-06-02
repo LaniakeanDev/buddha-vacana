@@ -1,0 +1,30 @@
+{
+  "identifier": "AN 3.132",
+  "plTitle": "Lekha Sutta",
+  "frTitle": "Comme une inscription gravée",
+  "description": "Le Bouddha distingue les êtres vivants en trois catégories, selon la profondeur à laquelle ils sont marqués par leurs émotions négatives.",
+  "body": [
+    {
+      "pl": "“tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame tayo? pāsāṇalekhūpamo puggalo, pathavilekhūpamo puggalo, udakalekhūpamo puggalo. ",
+      "fr": "Mendiants, on trouve dans le [loka|monde] ces trois [types d']individus. Quels sont ces trois? L'individu comparable à une ligne gravée dans la pierre, l'individu comparable à une ligne dessinée dans la terre, et l'individu comparable à une ligne dessinée sur l'eau."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, pāsāṇalekhūpamo puggalo? idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. so ca khvassa kodho dīgharattaṃ anuseti. seyyathāpi, bhikkhave, pāsāṇe lekhā na khippaṃ lujjati vātena vā udakena vā, ciraṭṭhitikā hoti; evamevaṃ kho, bhikkhave, idhekacco puggalo abhiṇhaṃ kujjhati. so ca khvassa kodho dīgharattaṃ anuseti. ayaṃ vuccati, bhikkhave, pāsāṇalekhūpamo puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu comparable à une ligne gravée dans la pierre? À cet égard, [bhikkhu|mendiants], un certain individu se met souvent en colère, et sa colère s'exprime pendant longtemps. Tout comme une ligne gravée dans la pierre ne s'efface pas rapidement, que ce soit sous l'action du vent ou de l'eau, et reste longtemps, de la même manière, [bhikkhu|mendiants], un certain individu se met souvent en colère, et sa colère s'exprime pendant longtemps. Voici, [bhikkhu|mendiants], ce qu'on appelle un individu comparable à une ligne gravée dans la pierre."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, pathavilekhūpamo puggalo? idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. so ca khvassa kodho na dīgharattaṃ anuseti. seyyathāpi, bhikkhave, pathaviyā lekhā khippaṃ lujjati vātena vā udakena vā, na ciraṭṭhitikā hoti; evamevaṃ kho, bhikkhave, idhekacco puggalo abhiṇhaṃ kujjhati. so ca khvassa kodho na dīgharattaṃ anuseti. ayaṃ vuccati, bhikkhave, pathavilekhūpamo puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu comparable à une ligne dessinée dans la terre? À cet égard, [bhikkhu|mendiants], un certain individu se met souvent en colère, mais sa colère ne s'exprime pas pendant longtemps. Tout comme une ligne dessinée dans la terre s'efface rapidement, sous l'action du vent ou de l'eau, et ne reste pas longtemps, de la même manière, [bhikkhu|mendiants], un certain individu se met souvent en colère, mais sa colère ne s'exprime pas pendant longtemps. Voici, [bhikkhu|mendiants], ce qu'on appelle un individu comparable à une ligne dessinée dans la terre."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, udakalekhūpamo puggalo? idha, bhikkhave, ekacco puggalo āgāḷhenapi vuccamāno pharusenapi vuccamāno amanāpenapi vuccamāno sandhiyatimeva saṃsandatimeva sammodatimeva. seyyathāpi, bhikkhave, udake lekhā khippaṃyeva paṭivigacchati, na ciraṭṭhitikā hoti; evamevaṃ kho, bhikkhave, idhekacco puggalo āgāḷhenapi vuccamāno pharusenapi vuccamāno amanāpenapi vuccamāno sandhiyatimeva saṃsandatimeva sammodatimeva. ayaṃ vuccati, bhikkhave, udakalekhūpamo puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu comparable à une ligne dessinée sur l'eau? À cet égard, [bhikkhu|mendiants], un certain individu, même lorsqu'on s'adresse à lui durement, de manière acerbe, déplaisante, reste en bons termes, maintient la compréhension et reste sympathique. Tout comme une ligne dessinée sur l'eau disparaît rapidement et ne reste pas longtemps, de la même manière, un certain individu, même lorsqu'on s'adresse à lui durement, de manière acerbe, déplaisante, reste en bons termes, maintient la compréhension et reste sympathique. Voici, [bhikkhu|mendiants], ce qu'on appelle un individu comparable à une ligne dessinée sur l'eau."
+    },
+    {
+      "pl": "ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces trois [types d']individus que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["loka", "bhikkhu"],
+  "translator": "Rémy"
+}

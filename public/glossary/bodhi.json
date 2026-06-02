@@ -1,0 +1,65 @@
+{
+  "id": "bodhi",
+  "title": "bodhi",
+  "translation": ["Éveil, connaissance suprême, sagesse ultime, la connaissance que possède un Bouddha"],
+  "body": [
+    {
+      "p": [
+        "Le verbe [i]bodheti[/i] signifie se réveiller (du sommeil), s'éveiller (à le vérité), éclairer. C'est le verbe causatif associé à [i]bujjhati[/i] (être éveillé, percevoir, savoir, reconnaître, comprendre). Il est utilisé à SN 7.10 dans la phrase [i]“sottaṃ pādena bodheti” (elle le réveille avec le pied / d'un coup de pied)[/i]. Le mot [i]bodhi[/i] est de la famille de [i]buddha[/i] (l'Éveillé).",
+        "[i]Bodha[/i] est un terme équivalent que l'on trouve également dans les souttas.",
+        "Voir aussi «Éveil complet» ([sambodhi|sambodhi]) et «Éveil correct et complet» ([sammasambodhi|sammāsambodhi]): ces deux termes sont utilisés plus fréquemment dans les souttas.",
+        "Le mot pourrait être assimilé au Mérite ([arahatta|arahatta]) et est utilisé explicitement pour désigner l'Éveil du Bouddha sous un arbre banyan à Ourouvéla (assimilé à Bodhgaya):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 4.1[/b]",
+        "text": [
+          {
+            "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi:",
+            "fr": "Un jour, le Fortuné séjournait près d'Ourouvéla, au bord du fleuve Nerañjarā, au pied du banian des chevriers, peu après avoir atteint l'Éveil. Ce jour-là, tandis qu'il était en isolement dans un endroit retiré, la réflexion suivante apparut dans son esprit: "
+          },
+          {
+            "pl": "“mutto vatamhi tāya dukkarakārikāya. sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya. sādhu vatamhi mutto [b]bodhiṃ[/b] samajjhagan”ti",
+            "fr": "“Enfin, Je suis libéré de ces austérités! C'est une bonne chose que je sois libéré de ces austérités inutiles! C'est une bonne chose que je sois libéré et que j'aie atteint l'[b]Éveil[/b]!”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Parfois (e.g. [@$Ud 1.1]), l'expression [i]“bodhi·rukkha·mūle” (au pied [litt: à la racine] de l'arbre de l'Éveil)[/i] est utilisée pour expliquer que le Bouddha se trouve assis sous l'arbre où il a atteint l'Éveil.",
+        "[i]Bodha (=bodhi)[/i] est explicitement déclaré à [@$chris_035|MN 35] comme étant le but de l'enseignement: [i]“buddho so bhagavā bodhāya dhammaṃ deseti” (le Fortuné, étant éveillé, enseigne le Dhamma pour l'Éveil)[/i].",
+        "Le cas dans lequel le terme est le plus utilisé (surtout dans l'AN) est la définition de la conviction ([saddha|saddhā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 5.2]",
+        "text": [
+          {
+            "pl": "ariyasāvako saddho hoti, saddahati tathāgatassa [b]bodhiṃ[/b]: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti.",
+            "fr": "un noble disciple a de la conviction, il est convaincu de l'[b]Éveil[/b] du Tathagata: “Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le terme “facteur de l'Éveil” ([bojjhanga|bojjhaṅga] [[i]bodhi[/i]+[@m_anga|aṅga]]) est un dérivé utilisé fréquemment dans les souttas. “Etats mentaux étant associés à l'Éveil” ([bodhipakkhiyadhamma|bodhi·pakkhiyā dhammā]) en est un autre. Ces deux termes dénotent les qualités à développer pour atteindre l'Éveil (voir les détails dans leurs définitions respectives).",
+        "Dans le [@$sn12-065|Nagara Sutta], la compréhension de l'apparition conditionnée ([paticcasamuppada|paṭicca·samuppāda]) est le chemin de l'Éveil ([i]bodha[/i]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 12.65]",
+        "text": [
+          {
+            "pl": "“tassa mayhaṃ, bhikkhave, etadahosi: adhigato kho myāyaṃ [b]maggo bodhāya[/b]. yadidaṃ: nāmarūpanirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho ... pe ... evametassa kevalassa dukkhakkhandhassa nirodho hoti.",
+            "fr": "Alors, mendiants, je me suis dit: “J'ai découvert la [b]voie de l'Éveil[/b], c'est-à-dire: la cessation du Nom-et-Forme amène la cessation de la conscience; la cessation de la conscience amène la cessation du Nom-et-Forme; la cessation du Nom-et-Forme amène la cessation des organes des sens; la cessation des organes des sens amène la cessation du contact... Telle est la cessation de toute cette accumulation de mal-être.”"
+          }
+        ]
+      }
+    }
+  ]
+}

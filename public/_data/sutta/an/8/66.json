@@ -1,0 +1,60 @@
+{
+  "identifier": "AN 8.66",
+  "plTitle": "Vimokkha Sutta",
+  "frTitle": "Les délivrances",
+  "description": "Un exposé des huit délivrances (vimokkha).",
+  "body": [
+    {
+      "pl": "Aṭṭhime, bhikkhave, vimokkhā. Katame aṭṭha? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces huit délivrances. Quelles sont ces huit?"
+    },
+    {
+      "pl": "Rūpī rūpāni passati. Ayaṃ paṭhamo vimokkho.",
+      "fr": "Étant doué de [rupa|forme], on voit les [rupa|formes]. Voici quelle est la première [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Ajjhattaṃ arūpasaññī, bahiddhā rūpāni passati. Ayaṃ dutiyo vimokkho.",
+      "fr": "Ne percevant pas les [rupa|formes] intérieurement, on voit les [rupa|formes] extérieurement. Voici quelle est la deuxième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Subhanteva adhimutto hoti. Ayaṃ tatiyo vimokkho.",
+      "fr": "On est incliné à ne voir que la [subha|beauté]. Voici quelle est la troisième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati. Ayaṃ catuttho vimokkho.",
+      "fr": "[@f_arupajjhana#5|Ayant complètement transcendé la perception de la matérialité, la perception de la répulsion ayant disparu, ne portant pas son attention à la perception de la diversité, [percevant:] [i]“l'espace [est] infini»[/i], on entre et demeure dans la sphère de l'infinité de l'espace.] Voici quelle est la quatrième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ upasampajja viharati. Ayaṃ pañcamo vimokkho.",
+      "fr": "[@f_arupajjhana#6|Ayant complètement transcendé la sphère de l'infinité de l'espace, [percevant:] [i]“la Conscience [est] infinie»[/i], on entre et demeure dans la sphère de l'infinité de la Conscience.] Voici quelle est la cinquième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati. Ayaṃ chaṭṭho vimokkho.",
+      "fr": "[@f_arupajjhana#7|Ayant complètement transcendé la sphère de l'infinité de la Conscience, [percevant:] [i]“il n'y a rien»[/i], on entre et demeure dans la sphère du néant.] Voici quelle est la sixième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati. Ayaṃ sattamo vimokkho.",
+      "fr": "[@f_arupajjhana#8|Ayant complètement transcendé la sphère du néant, on entre et demeure dans la sphère de ni-perception-ni-non-perception.] Voici quelle est la septième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Ayaṃ aṭṭhamo vimokkho.",
+      "fr": "[@f_arupajjhana#9|Ayant transcendé la sphère de ni-perception-ni-non-perception, on entre et demeure dans la cessation de la perception et du ressenti.] Voici quelle est la huitième [vimokkha|délivrance]."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, aṭṭha vimokkhā ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces huit [vimokkha|délivrances]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "rupa",
+    "vimokkha",
+    "subha",
+    "@f_arupajjhana#5",
+    "@f_arupajjhana#6",
+    "@f_arupajjhana#7",
+    "@f_arupajjhana#8",
+    "@f_arupajjhana#9"
+  ],
+  "translator": "Rémy"
+}

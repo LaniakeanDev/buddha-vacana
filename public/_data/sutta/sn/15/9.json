@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 15.9",
+  "plTitle": "Daṇḍa Sutta",
+  "frTitle": "Comme un bâton",
+  "description": "En l'absence de contact avec la connaissance de la réalité, on erre aléatoirement et indéfiniment dans le cycle de transmigration. Un discours qui parle tout spécialement à ceux qui ont appris à se rappeler leurs vies passées.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“anamataggoyaṃ, bhikkhave, saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ.",
+      "fr": "Ce [samsara|cycle de renaissances], [bhikkhu|mendiants], est sans commencement connu. On ne discerne pas de commencement à l'errance, à la transmigration des êtres obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, daṇḍo uparivehāsaṃ khitto sakimpi mūlena nipatati, sakimpi majjhena nipatati, sakimpi antena nipatati; evameva kho, bhikkhave, avijjānīvaraṇā sattā taṇhāsaṃyojanā sandhāvantā saṃsarantā sakimpi asmā lokā paraṃ lokaṃ gacchanti, sakimpi parasmā lokā imaṃ lokaṃ āgacchanti.",
+      "fr": "Tout comme, [bhikkhu|mendiants], un bâton jeté en l'air retombe parfois sur sa base, parfois au milieu et parfois sur son sommet, de la même manière, les êtres, transmigrant et errant, obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité], vont parfois de ce [loka|monde]-ci vers un autre [loka|monde], et parfois viennent d'un autre [loka|monde] dans ce [loka|monde]-ci."
+    },
+    {
+      "pl": "taṃ kissa hetu? anamataggoyaṃ, bhikkhave, saṃsāro. pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. evaṃ dīgharattaṃ vo, bhikkhave, dukkhaṃ paccanubhūtaṃ tibbaṃ paccanubhūtaṃ byasanaṃ paccanubhūtaṃ, kaṭasī vaḍḍhitā.",
+      "fr": "Pourquoi cela? Ce [samsara|cycle de renaissances], [bhikkhu|mendiants], est sans commencement connu. On ne discerne pas de commencement à l'errance, à la transmigration des êtres obstrués par l'[avijja|ignorance] et entravés par l'[tanha|avidité]. Pendant tellement longtemps, [bhikkhu|mendiants], vous avez subi du [dukkha|mal-être], vous avez subi des tourments, vous avez subi des infortunes, vous avez rempli les cimetières."
+    },
+    {
+      "pl": "yāvañcidaṃ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccitun”ti.",
+      "fr": "Ceci est suffisant, [bhikkhu|mendiants], pour que vous vous désenchantiez, suffisant pour que vous vous dépassionniez, suffisant pour que vous vous délivriez de tous les [sankhara|phénomènes construits]."
+    }
+  ],
+  "keywords": ["samsara", "bhikkhu", "avijja", "tanha", "loka", "dukkha", "sankhara"],
+  "translator": "Rémy"
+}

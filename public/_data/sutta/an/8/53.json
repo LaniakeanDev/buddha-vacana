@@ -1,0 +1,40 @@
+{
+  "identifier": "AN 8.53",
+  "plTitle": "Saṅkhitta Sutta",
+  "frTitle": "En Bref",
+  "description": "Mahāpajāpatī Gotamī, l'ancienne nourrice du Bouddha, se voit instruire huit critères à partir desquels un individu sage peut discriminer ce qui est son enseignement de ce qui ne l'est pas.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahā-vane kūṭāgāra-sālāyaṃ. Atha kho mahāpajāpatī gotamī yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho mahāpajāpatī gotamī bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait séjournait près de Vessali, dans le grand bois, dans la salle [couverte d'un] toit pointu. Ce jour-là, Mahāpajāpatī Gotamī vint voir le [bhagava|Fortuné;] s'étant approchée, elle lui rendit hommage puis se tint debout d'un côté. Se tenant debout d'un côté, Mahāpajāpatī Gotamī dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "Sādhu me, bhante bhagavā saṅkhittena dhammaṃ desetu, yam'ahaṃ bhagavato dhammaṃ sutvā ekā vūpakaṭṭhā appamattā ātāpinī pahitattā vihareyya nti.",
+      "fr": "— Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seule, isolée, [appamada|assidue], ardente et vouée à l'effort."
+    },
+    {
+      "pl": "Ye kho tvaṃ, gotami, dhamme jāneyyāsi: ‘ime dhammā sarāgāya saṃvattanti, no virāgāya; saṃyogāya saṃvattanti, no visaṃyogāya; ācayāya saṃvattanti, no apacayāya; mahicchatāya saṃvattanti, no appicchatāya; asantuṭṭhiyā saṃvattanti, no santuṭṭhiyā; saṅgaṇikāya saṃvattanti, no pavivekāya; kosajjāya saṃvattanti, no vīriyārambhāya; dubbharatāya saṃvattanti, no subharatāyā’ ti, ekaṃsena, gotami, dhāreyyāsi: ‘n'eso dhammo n'eso vinayo n'etaṃ satthu-sāsana’ nti.",
+      "fr": "— De ces [dhamma|choses], Gotami, dont tu saurais: [i]“Ces [dhamma|choses] mènent à avoir de l'[raga|avidité], pas au [viraga|désintéressement;] elles mènent à l'attachement, pas au détachement; elles mènent à l'accumulation, pas à la diminution; elles mènent à [mahicchata|avoir des désirs impérieux], pas à[appicchata|avoir peu de désirs;] elles mènent à l'[asantutthita|insatisfaction[avec ce qu'on a] ], pas à la [santuttha|satisfaction [avec ce qu'on a]]; elles mènent à la socialisation, pas à l'[paviveka|isolement]; elles mènent à la paresse, pas à l'[viriyarambha|activation de l'énergie;] elles mènent à être difficile à sustenter, pas à être facile à sustenter”[/i], tu peux assurément considérer, Gotami: 'Ce n'est pas le [dhamma|Dhamma], ce n'est pas la [vinaya|Discipline], ce n'est pas l'instruction de l'Enseignant'."
+    },
+    {
+      "pl": "Ye kho tvaṃ, gotami, dhamme jāneyyāsi: ‘ime dhammā virāgāya saṃvattanti, no sarāgāya; visaṃyogāya saṃvattanti, no saṃyogāya; apacayāya saṃvattanti, no ācayāya; appicchatāya saṃvattanti, no mahicchatāya; santuṭṭhiyā saṃvattanti, no asantuṭṭhiyā; pavivekāya saṃvattanti, no saṅgaṇikāya; vīriyārambhāya saṃvattanti, no kosajjāya; subharatāya saṃvattanti, no dubbharatāyā’ ti, ekaṃsena, gotami, dhāreyyāsi: ‘n'eso dhammo n'eso vinayo n'etaṃ satthu-sāsana’ nti.",
+      "fr": "De ces [dhamma|choses], Gotami, dont tu saurais: [i]“Ces [dhamma|choses] mènent au [viraga|désintéressement], pas à avoir de l'[raga|avidité]; elles mènent au détachement, pas à l'attachement; elles mènent à la diminution, pas à l'accumulation; elles mènent à [appicchata|avoir peu de désirs], pas à [mahicchata|avoir des désirs impérieux]; elles mènent à la [santuttha|satisfaction [avec ce qu'on a]], pas à l'[asantutthita|insatisfaction [avec ce qu'on a]]; elles mènent à l'[paviveka|isolement], pas à la socialisation; elles mènent à l'[viriyarambha|activation de l'énergie], pas à la paresse; elles mènent à être facile à sustenter, pas à être difficile à sustenter',[/i] tu peux assurément considérer, Gotami: 'C'est le [dhamma|Dhamma], c'est la [vinaya|Discipline], c'est l'instruction de l'Enseignant'."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "raga",
+    "viraga",
+    "mahicchata",
+    "appicchata",
+    "asantutthita",
+    "santuttha",
+    "paviveka",
+    "viriyarambha",
+    "vinaya"
+  ],
+  "translator": "Rémy"
+}

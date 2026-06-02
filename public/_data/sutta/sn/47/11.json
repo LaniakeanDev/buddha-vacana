@@ -1,0 +1,63 @@
+{
+  "identifier": "SN 47.11",
+  "plTitle": "Mahāpurisa Sutta",
+  "frTitle": "Un grand homme",
+  "description": "Saripoutta demande au Bouddha ce qui définit un grand homme.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā sāriputto bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Saripoutta alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "—“‘mahāpuriso, mahāpuriso’ti, bhante, vuccati. kittāvatā nu kho, bhante, mahāpuriso hotī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“Un grand homme, un grand homme”[/i]. Qu'est-ce donc, [bhante|Bhanté], qui définit un grand homme?"
+    },
+    {
+      "pl": "— “vimuttacittattā khvāhaṃ, sāriputta, ‘mahāpuriso’ti vadāmi. avimuttacittattā ‘no mahāpuriso’ti vadāmi”.",
+      "fr": "—Saripoutta, je dis de quelqu'un qui est [cetovimutti|libéré en esprit] que c'est un grand homme; je dis de quelqu'un qui n'est pas [cetovimutti|libéré en esprit] que ce n'est pas un grand homme."
+    },
+    {
+      "pl": "“kathañca, sāriputta, vimuttacitto hoti? idha, sāriputta, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. tassa kāye kāyānupassino viharato cittaṃ virajjati, vimuccati anupādāya āsavehi.",
+      "fr": "Et comment, Saripoutta, est on [cetovimutti|libéré en esprit]? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Tandis qu'il reste à observer le [kaya|corps] dans le [kaya|corps], son esprit [viraga|se détache], se [vimutti|libère] de ses [asava|impuretés] par le non-[upadana|attachement]."
+    },
+    {
+      "pl": "vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. tassa vedanāsu vedanānupassino viharato cittaṃ virajjati, vimuccati anupādāya āsavehi.",
+      "fr": "[@f_stp#vedana-cl|Il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Tandis qu'il reste à observer les [vedana|ressentis] dans les [vedana|ressentis], son esprit [viraga|se détache], se [vimutti|libère] de ses [asava|impuretés] par le non-[upadana|attachement]."
+    },
+    {
+      "pl": "citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. tassa citte cittānupassino viharato cittaṃ virajjati, vimuccati anupādāya āsavehi.",
+      "fr": "[@f_stp#citta-cl|Il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Tandis qu'il reste à observer l'[citta|esprit] dans l'[citta|esprit], son esprit [viraga|se détache], se [vimutti|libère] de ses [asava|impuretés] par le non-[upadana|attachement]."
+    },
+    {
+      "pl": "dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. tassa dhammesu dhammānupassino viharato cittaṃ virajjati, vimuccati anupādāya āsavehi.",
+      "fr": "[@f_stp#dhamma-cl|Il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Tandis qu'il reste à observer le [dhamma|Dhamma] dans les [dhamma|phénomènes], son esprit [viraga|se détache], se [vimutti|libère] de ses [asava|impuretés] par le non-[upadana|attachement]."
+    },
+    {
+      "pl": "evaṃ kho, sāriputta, vimuttacitto hoti. vimuttacittattā khvāhaṃ, sāriputta, ‘mahāpuriso’ti vadāmi. avimuttacittattā ‘no mahāpuriso’ti vadāmī”ti.",
+      "fr": "Voici, Saripoutta, comment on est [cetovimutti|libéré en esprit]. Je dis de quelqu'un qui est [cetovimutti|libéré en esprit] que c'est un grand homme; je dis de quelqu'un qui n'est pas [cetovimutti|libéré en esprit] que ce n'est pas un grand homme."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "cetovimutti",
+    "@f_stp#kaya-cl",
+    "kaya",
+    "viraga",
+    "vimutti",
+    "asava",
+    "upadana",
+    "@f_stp#vedana-cl",
+    "vedana",
+    "@f_stp#citta-cl",
+    "citta",
+    "@f_stp#dhamma-cl",
+    "dhamma"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

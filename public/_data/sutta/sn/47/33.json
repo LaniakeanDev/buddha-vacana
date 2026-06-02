@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 47.33",
+  "plTitle": "Viraddha Sutta",
+  "frTitle": "Quiconque a abandonné",
+  "description": "Le Bouddha équivaut ici les quatre satipaṭṭhānas à la noble voie.",
+  "body": [
+    {
+      "pl": "“yesaṃ kesañci, bhikkhave, cattāro satipaṭṭhānā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. yesaṃ kesañci, bhikkhave, cattāro satipaṭṭhānā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī.",
+      "fr": "[bhikkhu|Mendiants], quiconque a abandonné les quatre [satipatthana|mises en place de la présence d'esprit] a abandonné la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Et quiconque a poursuivi les quatre [satipatthana|mises en place de la présence d'esprit] a poursuivi la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]."
+    },
+    {
+      "pl": "“katame cattāro? idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ;vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Quels sont ces quatre? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "yesaṃ kesañci, bhikkhave, ime cattāro satipaṭṭhānā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. yesaṃ kesañci, bhikkhave, ime cattāro satipaṭṭhānā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī”ti.",
+      "fr": "[bhikkhu|Mendiants], quiconque a abandonné ces quatre [satipatthana|mises en place de la présence d'esprit] a abandonné la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Et quiconque a poursuivi ces quatre [satipatthana|mises en place de la présence d'esprit] a poursuivi la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. "
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "satipatthana",
+    "ariya",
+    "magga",
+    "dukkha",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

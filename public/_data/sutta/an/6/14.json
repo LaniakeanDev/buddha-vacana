@@ -1,0 +1,42 @@
+{
+  "identifier": "AN 6.14",
+  "plTitle": "Bhaddaka Sutta",
+  "frTitle": "Un trépas favorable",
+  "description": "Saripoutta explique ce qui fait la différence entre un mendiant dont la mort ne sera pas favorable et celui qui aura une mort favorable.",
+  "body": [
+    {
+      "pl": "Tatra kho āyasmā sāriputto bhikkhū āmantesi:",
+      "fr": "Un jour, le [ayasma|vénérable] Saripoutta s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "Āvuso, bhikkhavo ti.",
+      "fr": "— Mes amis, [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "— Āvuso ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. Āyasmā sāriputto etadavoca:",
+      "fr": "— Ami, répondirent les [bhikkhu|mendiants]. Le [ayasma|vénérable] Saripoutta dit:"
+    },
+    {
+      "pl": "Tathā tathā, āvuso, bhikkhu vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato na bhaddakaṃ maraṇaṃ hoti, na bhaddikā kālakiriyā. Kathañcāvuso, bhikkhu tathā tathā vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato na bhaddakaṃ maraṇaṃ hoti, na bhaddikā kālakiriyā?",
+      "fr": "— Mes amis, [il y a le cas où] un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] qui n'est pas favorable, à un trépas qui n'est pas favorable. Et comment est-ce qu'un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] qui n'est pas favorable, à un trépas qui n'est pas favorable?"
+    },
+    {
+      "pl": "Idhāvuso, bhikkhu kammārāmo hoti kammarato kammārāmataṃ anuyutto; bhassārāmo hoti bhassarato bhassārāmataṃ anuyutto; niddārāmo hoti niddārato niddārāmataṃ anuyutto; saṅgaṇikārāmo hoti saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto; saṃsaggārāmo hoti saṃsaggarato saṃsaggārāmataṃ anuyutto; papañcārāmo hoti papañcarato papañcārāmataṃ anuyutto. Evaṃ kho, āvuso, bhikkhu tathā tathā vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato na bhaddakaṃ maraṇaṃ hoti, na bhaddikā kālakiriyā. Ayaṃ vuccatāvuso ‘bhikkhu sakkāyābhirato na pahāsi sakkāyaṃ sammā dukkhassa antakiriyāya’.",
+      "fr": "À cet égard, mes amis, un [bhikkhu|mendiant] se plaît aux activités, se complaît dans les activités et s'adonne à la complaisance dans les activités; il se plaît aux conversations, se complaît dans les conversations et s'adonne à la complaisance dans les conversations; il se plaît au sommeil, se complaît dans le sommeil et s'adonne à la complaisance dans le sommeil; il se plaît à la socialisation, se complaît dans la socialisation et s'adonne à la complaisance dans la socialisation; il se plaît à l'association [avec les autres], il se complaît dans l'association et s'adonne à la complaisance dans l'association; il se plaît à la [papanca|prolifération mentale], se complaît dans la [papanca|prolifération mentale] et s'adonne à la complaisance dans la [papanca|prolifération mentale]. Voici, mes amis, comment un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] qui n'est pas favorable, à un trépas qui n'est pas favorable. C'est ce qu'on appelle [i]“un [bhikkhu|mendiant] qui se complaît dans l'[sakkaya|identité personnelle], qui n'a pas abandonné l'[sakkaya|identité personnelle] pour mettre correctement un terme au [dukkha|mal-être].”[/i]"
+    },
+    {
+      "pl": "Tathā tathāvuso, bhikkhu vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato bhaddakaṃ maraṇaṃ hoti, bhaddikā kālakiriyā. Kathañcāvuso, bhikkhu tathā tathā vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato bhaddakaṃ maraṇaṃ hoti, bhaddikā kālakiriyā?",
+      "fr": "Mes amis, [il y a le cas où] un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] favorable, à un trépas favorable. Et comment est-ce qu'un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] favorable, à un trépas favorable?"
+    },
+    {
+      "pl": "Idhāvuso, bhikkhu na kammārāmo hoti na kammarato na kammārāmataṃ anuyutto; na bhassārāmo hoti na bhassarato na bhassārāmataṃ anuyutto; na niddārāmo hoti na niddārato niddārāmataṃ anuyutto; na saṅgaṇikārāmo hoti na saṅgaṇikarato na saṅgaṇikārāmataṃ anuyutto; na saṃsaggārāmo hoti na saṃsaggarato na saṃsaggārāmataṃ anuyutto; na papañcārāmo hoti na papañcarato na papañcārāmataṃ anuyutto. Evaṃ kho, āvuso, bhikkhu tathā tathā vihāraṃ kappeti yathā yathāssa vihāraṃ kappayato bhaddakaṃ maraṇaṃ hoti, bhaddikā kālakiriyā. Ayaṃ vuccatāvuso ‘bhikkhu nibbānābhirato pajahāsi sakkāyaṃ sammā dukkhassa antakiriyāyā’ ti.",
+      "fr": "À cet égard, mes amis, un [bhikkhu|mendiant] ne se plaît pas aux activités, ne se complaît pas dans les activités et ne s'adonne pas à la complaisance dans les activités; il ne se plaît pas aux conversations, ne se complaît pas dans les conversations et ne s'adonne pas à la complaisance dans les conversations; il ne se plaît pas au sommeil, ne se complaît pas dans le sommeil et ne s'adonne pas à la complaisance dans le sommeil; il ne se plaît pas à la socialisation, ne se complaît pas dans la socialisation et ne s'adonne pas à la complaisance dans la socialisation; il ne se plaît pas à l'association [avec les autres], il ne se complaît pas dans l'association et ne s'adonne pas à la complaisance dans l'association; il ne se plaît pas à la [papanca|prolifération mentale], ne se complaît pas dans la [papanca|prolifération mentale] et ne s'adonne pas à la complaisance dans la [papanca|prolifération mentale]. Voici, mes amis, comment un [bhikkhu|mendiant] vit d'une manière menant à une [marana|mort] favorable, à un trépas favorable. C'est ce qu'on appelle [i]“un [bhikkhu|mendiant] qui se plaît à l'[extinction|Extinction], qui abandonne l'illusion du soi pour mettre correctement un terme au [dukkha|mal-être].”[/i]"
+    },
+    {
+      "pl": "[i]Yo papañcamanuyuttoPapañcābhirato magoVirādhayī so nibbānaṃ,Yogakkhemaṃ anuttaraṃ.Yo ca papañcaṃ hitvāna, Nippapañcapade rato;Ārādhayī so nibbānaṃ, Yogakkhemaṃ anuttaran ti.[/i]",
+      "fr": "[i]Celui qui s'adonne à la [papanca|prolifération mentale],Le sot qui se complaît dans la [papanca|prolifération], N'a pas appréhendé l'[extinction|Extinction],Le suprême soulagement du joug.Mais celui qui a détruit la [papanca|prolifération mentale],Qui se plaît aux mots sans [papanca|prolifération],A appréhendé l'[extinction|Extinction],Le suprême soulagement du joug.[/i]"
+    }
+  ],
+  "keywords": ["ayasma", "bhikkhu", "marana", "papanca", "sakkaya", "dukkha", "extinction"],
+  "translator": "Rémy"
+}

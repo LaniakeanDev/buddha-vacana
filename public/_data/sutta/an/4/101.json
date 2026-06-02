@@ -1,0 +1,46 @@
+{
+  "identifier": "AN 4.101",
+  "plTitle": "Valāhaka Sutta",
+  "frTitle": "Nuages orageux",
+  "description": "Quatre types d'individus comparables à des nuages orageux, en fonction de leur propension à parler ou à agir.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "Bhikkhavo ti.[@nl]— Bhadante ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca:",
+      "fr": "«[bhikkhu|Mendiants]![@nl]— [bhadante|Badhanté]», répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "Cattārome, bhikkhave, valāhakā. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca. Ime kho, bhikkhave, cattāro valāhakā. Evamevaṃ kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca.",
+      "fr": "— «Il y a, [bhikkhu|mendiants], ces quatre [types de] nuages orageux. Quels sont ces quatre? Celui qui tonne mais qui ne donne pas de pluie, celui qui donne de la pluie mais ne tonne pas, celui qui ne tonne pas ni ne donne de pluie, et celui qui tonne et donne de la pluie. Voici, [bhikkhu|mendiants], quels sont ces quatre [types de] nuages orageux. De le même manière, [bhikkhu|mendiants], on trouve dans le [loka|monde] quatre [types d']individus comparables à des nuages orageux. Quels sont ces quatre? Celui qui tonne mais qui ne donne pas de pluie, celui qui donne de la pluie mais ne tonne pas, celui qui ne tonne pas ni ne donne de pluie, et celui qui tonne et donne de la pluie."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo gajjitā hoti no vassitā? Idha, bhikkhave, ekacco puggalo bhāsitā hoti, no kattā. Evaṃ kho, bhikkhave, puggalo gajjitā hoti, no vassitā, seyyathāpi so, bhikkhave, valāhako gajjitā, no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+      "fr": "Et comment, [bhikkhu|mendiants], est-ce qu'un individu tonne sans donner de la pluie? À cet égard, [bhikkhu|mendiants], un certain individu parle mais n'agit pas. Ainsi, [bhikkhu|mendiants], un individu tonne mais ne donne pas de pluie, tout comme un nuage tonne mais ne donne pas de pluie, et je dis que cet individu y est comparable."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo vassitā hoti, no gajjitā? Idha, bhikkhave, ekacco puggalo kattā hoti, no bhāsitā. Evaṃ kho, bhikkhave, puggalo vassitā hoti, no gajjitā, seyyathāpi so, bhikkhave, valāhako vassitā, no gajjitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+      "fr": "Et comment, [bhikkhu|mendiants], est-ce qu'un individu donne de la pluie sans tonner? À cet égard, [bhikkhu|mendiants], un certain individu agit mais ne parle pas. Ainsi, [bhikkhu|mendiants], un individu donne de la pluie mais ne tonne pas, tout comme un nuage donne de la pluie mais ne tonne pas, et je dis que cet individu y est comparable."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo neva gajjitā hoti, no vassitā? Idha, bhikkhave, ekacco puggalo neva bhāsitā hoti, no kattā. Evaṃ kho, bhikkhave, puggalo neva gajjitā hoti, no vassitā, seyyathāpi so, bhikkhave, valāhako neva gajjitā, no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+      "fr": "Et comment, [bhikkhu|mendiants], est-ce qu'un individu ne tonne pas et ne donne pas de pluie? À cet égard, [bhikkhu|mendiants], un certain individu ne parle pas et n'agit pas. Ainsi, [bhikkhu|mendiants], un individu ne tonne pas et ne donne pas de pluie, tout comme un nuage ne tonne pas et ne donne pas de pluie, et je dis que cet individu y est comparable."
+    },
+    {
+      "pl": "Kathañca, bhikkhave, puggalo gajjitā ca hoti vassitā ca? Idha, bhikkhave, ekacco puggalo bhāsitā ca hoti kattā ca. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca, seyyathāpi so, bhikkhave, valāhako gajjitā ca vassitā ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+      "fr": "Et comment, [bhikkhu|mendiants], est-ce qu'un individu tonne et donne de la pluie? À cet égard, [bhikkhu|mendiants], un certain individu parle et agit. Ainsi, [bhikkhu|mendiants], un individu tonne et donne de la pluie, tout comme un nuage tonne et donne de la pluie, et je dis que cet individu y est comparable."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmin ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus que l'on trouve dans le [loka|monde] et qui sont comparables à des nuages orageux.»"
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "loka"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "SN 22.12",
+  "plTitle": "Anicca Sutta",
+  "frTitle": "Impermanent",
+  "description": "Les cinq accumulations d'attachement sont impermanentes.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ — sāvatthiyaṃ. tatra kho ... pe ...",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“rūpaṃ, bhikkhave, aniccaṃ, vedanā aniccā, saññā aniccā, saṅkhārā aniccā, viññāṇaṃ aniccaṃ. evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. nibbindaṃ virajjati; virāgā vimuccati. vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānātī”ti.",
+      "fr": "[bhikkhu|Mendiants], la [rupa|Forme] est [anicca|impermanente], le [vedana|Ressenti] est [anicca|impermanent], la [sanna|Perception] est [anicca|impermanente], les [sankhara|Constructions] sont [anicca|impermanentes], la [vinnana|Conscience] est [anicca|impermanente]. En voyant ainsi, [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] est [nibbida|désenchanté] vis-à-vis de la [rupa|Forme], [nibbida|désenchanté] vis-à-vis du [vedana|Ressenti], [nibbida|désenchanté] vis-à-vis de la [sanna|Perception], [nibbida|désenchanté] vis-à-vis des [sankhara|Constructions], [nibbida|désenchanté] vis-à-vis de la [vinnana|Conscience]. Étant [nibbida|désenchanté], il devient détaché. Étant [viraga|détaché], il est libéré. Étant [vimutta|libéré], il sait: [i]“Je suis libéré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "rupa",
+    "anicca",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "ariyasavaka",
+    "sutava",
+    "nibbida",
+    "viraga",
+    "vimutta",
+    "jati",
+    "brahmacariya"
+  ],
+  "translator": "Sekha"
+}

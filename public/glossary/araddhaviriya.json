@@ -1,0 +1,75 @@
+{
+  "id": "araddhaviriya",
+  "title": "āraddhavīriya",
+  "breakdown": "[[@m_araddha|āraddha]+[viriya|vīriya]]",
+  "translation": [
+    "1) (n): énergie tonifiée/activée",
+    "2) (n): celui qui est énergique, qui a activé ou tonifié son énergie, qui a une vigueur affermie.",
+    "[b]3)[/b] (adj): énergique, vigoureux, ayant affermi sa vigueur."
+  ],
+  "body": [
+    {
+      "p": [
+        "[bala|Bala]·[@m_sampanna|sampanna] (doué de force) est un synonyme ([@misc#an03096|AN 3.96]) et [i]kusīta (paresseux)[/i] est l'antonyme ([sn12-22|SN 12.22] voir ci-dessous). Asallīna (persistant, tenace) est un synonyme pour [i]āraddha[/i] (e.g. à [@misc#mn004|MN 4]). Le substantif associé est [viriyarambha|vīriy·ārambha]. Être [i]āraddha·vīriya[/i] est défini de deux manières principales. La définition générale est comme suit (e.g. à [@$AN 8.30]):"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "Bhikkhu āraddha·vīriyo viharati a·kusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷha·parakkamo anikkhitta·dhuro kusalesu dhammesu",
+            "fr": "Un bhikkhu garde son énergie tonifiée pour l'abandon des états mentaux désavantageux, pour l'obtention des états mentaux avantageux, il est persévérant, ferme dans son effort, sans se relâcher de sa tâche par rapport aux états mentaux avantageux."
+          }
+        ]
+      }
+    },
+    { "p": ["On trouve parfois une autre définition, plus impressionnante (e.g. à [b]SN 21.3[/b]):"] },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": " ‘āraddhavīriyo āraddhavīriyoti, [bhante|Bhanté] vuccati. kittāvatā nukho, bhante āraddhavīriyo hotī’ti? ... bhikkhu āraddha·vīriyo viharati: ‘kāmaṃ taco ca nhāru ca aṭṭhī ca avasissatu, sarīre upasussatu maṃsa·lohitaṃ, yaṃ taṃ purisa·thāmena purisa·vīriyena purisa·parakkamena pattabbaṃ na taṃ a·pāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti.",
+            "fr": "'Quelqu'un qui a affermi son effort, quelqu'un qui a affermi son effort', entend-on dire, Bhante. Mais comment, [bhante|Bhanté] est-on quelqu'un qui a affermi son effort? ... Un bhikkhu garde son effort affermi: 'S'il le faut, qu'il ne me reste que la peau, les tendons et les os, que les chairs et le sang de mon corps s'assèchent, mais je ne relâcherai pas mon énergie sans avoir atteint ce qui est à atteindre par persévérance virile, par énergie virile, par ténacité virile.'"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [@misc#sn48050|SN 48.50], être [i]āraddha·vīriya[/i] est vu comme une conséquence du fait d'avoir [saddha|saddhā], et comme une base pour le développement de [sati|sati], puis de [samadhi|samādhi].",
+        "D'après [@$AN 1.18], être [i]āraddha·vīriya[/i], détruit et prévient l'apparition de [thinamiddha|thīna·middhā], qui est l'un des cinq [nivarana|nīvaraṇa]s.",
+        "D'après [@$AN 1.61], être [i]āraddha·vīriya[/i], constitue le meilleur moyen de développer les [kusala|kusalā] [dhamma|dhammā] et de faire disparaître les [akusala|akusalā] [dhamma|dhammā].",
+        "D'après [@$MN 118], chez celui qui est [i]āraddha·vīriya[/i] apparaît [piti|pīti] [niramisa|nirāmisa] (exaltation non-mondaine).",
+        "Les paroles qui suscitent probablement le plus d'inspiration à propos de l'activation de l'énergie se trouvent à [@$SN 12.22]:"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "“dukkhaṃ, bhikkhave, kusīto viharati vokiṇṇo pāpakehi akusalehi dhammehi, mahantañca sadatthaṃ parihāpeti. āraddhavīriyo ca kho, bhikkhave, sukhaṃ viharati pavivitto pāpakehi akusalehi dhammehi, mahantañca sadatthaṃ paripūreti. na, bhikkhave, hīnena aggassa patti hoti. aggena ca kho, bhikkhave, aggassa patti hoti.",
+            "fr": "Un paresseux, bhikkhus, demeure dans le mal-être, rempli d'états mentaux mauvais et désavantageux, et grands sont les bienfaits personnels qu'il laisse passer. Mais celui qui a son énergie tonifiée, bhikkhus, demeure dans le bien-être, séparé des états mentaux mauvais et désavantageux, et grands sont les bienfaits personnels qu'il concrétise. Ce n'est pas au moyen de ce qui est inférieur, bhikkhus, que le supérieur est atteint; c'est au moyen de ce qui est supérieur que le supérieur est atteint."
+          },
+          {
+            "pl": "maṇḍapeyyamidaṃ, bhikkhave, brahmacariyaṃ, satthā sammukhībhūto. tasmātiha, bhikkhave, vīriyaṃ ārabhatha appattassa pattiyā, anadhigatassa adhigamāya, asacchikatassa sacchikiriyāya. ‘evaṃ no ayaṃ amhākaṃ pabbajjā avañjhā bhavissati saphalā saudrayā. yesañca mayaṃ paribhuñjāma cīvara-piṇḍapāta-senāsana-gilāna-ppaccaya-bhesajja-parikkhāraṃ tesaṃ te kārā amhesu mahapphalā bhavissanti mahānisaṃsā’ti. evañhi vo, bhikkhave, sikkhitabbaṃ.",
+            "fr": "Cette vie brahmique, bhikkhus, est la crème des breuvages, et l'Enseignant est face à vous. C'est pourquoi, bhikkhus, vous devriez affermir votre effort pour obtenir ce que vous n'avez pas obtenu, pour atteindre ce que vous n'avez pas atteint, pour réaliser ce que vous n'avez pas réalisé. Vous devriez vous entraîner ainsi: 'De cette manière, ce départ du foyer qui est le nôtre ne sera pas stérile, il portera ses fruits, il apportera ses résultats; et en ce qui concerne ceux grâce à qui nous faisons usage de robes, de nourriture, de logements et de remèdes pour les malades, ce qu'ils font pour nous portera beaucoup de fruits, leur apportera de grands bienfaits."
+          },
+          {
+            "pl": "attatthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetuṃ; paratthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetuṃ; ubhayatthaṃ vā hi, bhikkhave, sampassamānena alameva appamādena sampādetun”ti.",
+            "fr": "Considérer votre bénéfice personnel, bhikkhus, est suffisant pour que vous vous efforciez avec assiduité; considérer le bénéfice des autres, bhikkhus, est suffisant pour que vous vous efforciez avec assiduité; considérer le bénéfice des deux, bhikkhus, est suffisant pour que vous vous efforciez avec assiduité."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "D'après [@$AN 6.55], [i]acc·āraddha·vīriya (énergie excessive)[/i] mène à [uddhacca|uddhacca] [i]('acc·āraddha·vīriyaṃ uddhaccāya saṃvattati')[/i] et d'après [@misc#mn128|MN 128], elle peut mener à perdre son [samadhi|samādhi], tout comme une personne tuerait une caille si elle la tenait trop fermement par le cou. D'ailleurs, ceci pourrait expliquer de manière intéressante ce qui se passe à [@$AN 9.35], où l'on perd également son [samadhi|samādhi] en essayant d'atteindre le second [jhana|jhāna] à partir du premier de manière inadaptée. [@misc#mn128|MN 128] explique également qu'être [i]atilīna·vīriya (insuffisance en énergie)[/i] peut mener à perdre son [samadhi|samādhi], tout comme une personne laisserait s'échapper une caille en ne la tenant pas assez fermement.",
+        "[viriya|Vīriy]·[indriya|indriya] (faculté spirituelle d'énergie) est définie comme consistant à être [i]āraddha·vīriya[/i] ([@misc#sn48009|SN 48.9]).",
+        "D'après [@$AN 10.76], être [i]āraddha·vīriya[/i] rend un individu capable d'abandonner [uddhacca|uddhacca], a·[samvara|saṃvara] (non-restreinte) et dus·[sila|sīla] (comportement non-vertueux).",
+        "À AN 4.11, supprimer continuellement les trois types de [vitakka|vitakka]s désavantageux dans les quatre postures (marche, debout, assis, couché) est décrit comme être [i]āraddha·vīriya[/i].",
+        "À AN 4.12, avoir abandonné les cinq [nivarana|nīvaraṇa]s, avoir établi [sati|sati], [passaddhi|passaddhi] et être finalement devenu [samahita|samāhita] est décrit comme être [i]āraddha·vīriya[/i].",
+        "D'après [@$AN 1.324] et [@$AN 1.325], être [i]āraddha·vīriya[/i] mène à [dukkha|dukkha] dans un enseignement mal exposé [i](dur·akkhāta dhamma·vinaya)[/i] et à [sukha|sukha] dans un enseignement bien exposé [i](sv·ākkhāta dhamma·vinaya)[/i]."
+      ]
+    }
+  ]
+}

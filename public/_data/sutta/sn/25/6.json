@@ -1,0 +1,49 @@
+{
+  "identifier": "SN 25.6",
+  "plTitle": "Rūpasaññā Sutta",
+  "frTitle": "La perception des formes",
+  "description": "Voici une condition suffisante pour l'entrée dans le courant ayant trait à l'observation de l'impermanence dans les perceptions des six types d'objets des sens.",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "Rūpasaññā, bhikkhave, aniccā vipariṇāmī aññathābhāvī; saddasaññā aniccā vipariṇāmī aññathābhāvī; gandhasaññā aniccā vipariṇāmī aññathābhāvī; rasasaññā aniccā vipariṇāmī aññathābhāvī; phoṭṭhabbasaññā aniccā vipariṇāmī aññathābhāvī; dhammasaññā aniccā vipariṇāmī aññathābhāvī.",
+      "fr": "[bhikkhu|Mendiants], la [sanna|perception] des formes (visibles) est [anicca|impermanente], changeante, variable; la [sanna|perception] des sons est [anicca|impermanente], changeante, variable; la [sanna|perception] des odeurs est [anicca|impermanente], changeante, variable; la [sanna|perception] des saveurs est [anicca|impermanente], changeante, variable; la [sanna|perception] des sensations corporelles est [anicca|impermanente], changeante, variable; la [sanna|perception] des [dhamma|phénomènes mentaux] est [anicca|impermanente], changeante, variable."
+    },
+    {
+      "pl": "Yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati saddhānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ; abhabbo taṃ kammaṃ kātuṃ, yaṃ kammaṃ katvā nirayaṃ vā tiracchānayoniṃ vā pettivisayaṃ vā upapajjeyya; abhabbo ca tāva kālaṃ kātuṃ yāva na sotāpattiphalaṃ sacchikaroti.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui est ainsi [saddha|convaincu] de ces [dhamma|choses] et s'y résout qu'il est [saddhanusari|mû-par-la-conviction], qu'il est entré dans la pratique de la rectitude, qu'il est entré dans la sphère des [sappurisa|hommes de bien], et qu'il a transcendé la sphère des [puthujjana|gens ordinaires]. Il est impossible qu'il réalise une [kamma|action] à cause de laquelle il réapparaîtrait en [niraya|enfer], dans le [tiracchanayoni|monde animal] ou dans le [pettivisaya|plan d'existence des esprits affligés], et il est impossible qu'il trépasse sans atteindre le fruit de l'[sotapatti|entrée dans le courant]."
+    },
+    {
+      "pl": "Yassa kho, bhikkhave, ime dhammā evaṃ paññāya mattaso nijjhānaṃ khamanti, ayaṃ vuccati dhammānusārī, okkanto sammattaniyāmaṃ, sappurisabhūmiṃ okkanto, vītivatto puthujjanabhūmiṃ; abhabbo taṃ kammaṃ kātuṃ, yaṃ kammaṃ katvā nirayaṃ vā tiracchānayoniṃ vā pettivisayaṃ vā upapajjeyya; abhabbo ca tāva kālaṃ kātuṃ yāva na sotāpattiphalaṃ sacchikaroti’.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui accepte ainsi ces [dhamma|choses] après les avoir suffisamment méditées avec [panna|discernement] qu'il est [dhammanusari|mû-par-le-Dhamma], qu'il est entré dans la pratique de la rectitude, qu'il est entré dans la sphère des [sappurisa|hommes de bien], et qu'il a transcendé la sphère des [puthujjana|gens ordinaires]. Il est impossible qu'il réalise une [kamma|action] à cause de laquelle il réapparaîtrait en [niraya|enfer], dans le [tiracchanayoni|monde animal] ou dans le [pettivisaya|plan d'existence des esprits affligés], et il est impossible qu'il trépasse sans atteindre le fruit de l'[sotapatti|entrée dans le courant]."
+    },
+    {
+      "pl": "Yo, bhikkhave, ime dhamme evaṃ pajānāti evaṃ passati, ayaṃ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’ti.",
+      "fr": "[bhikkhu|Mendiants], on dit de celui qui discerne ainsi et voit ainsi ces [dhamma|choses] qu'il est [sotapanna|parvenu au courant], [dhamma|par nature] délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "sanna",
+    "anicca",
+    "dhamma",
+    "saddha",
+    "saddhanusari",
+    "sappurisa",
+    "puthujjana",
+    "kamma",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "sotapatti",
+    "panna",
+    "dhammanusari",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
+  "translator": "Rémy"
+}

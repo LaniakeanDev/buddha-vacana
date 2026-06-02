@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 56.19",
+  "plTitle": "Saṅkāsanā Sutta",
+  "frTitle": "Significations",
+  "description": "L'énoncé des quatre nobles vérités, bien qu'extrêmement a d'innombrables corollaires.",
+  "body": [
+    {
+      "pl": "‘Idaṃ dukkhaṃ ariyasacca’nti bhikkhave, mayā paññattaṃ; tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā: ‘itipidaṃ dukkhaṃ ariyasacca’nti. ",
+      "fr": "[bhikkhu|Mendiants], j'ai enseigné: [i]“Voici la [ariyasacca|noble vérité] du [dukkha|mal-être];”[/i] il y a en cela d'innombrables aspects, d'innombrables particularités, d'innombrables significations: [i]“Voici la [ariyasacca|noble vérité] du [dukkha|mal-être]”[/i]."
+    },
+    {
+      "pl": "‘Idaṃ dukkhasamudayaṃ ariyasacca’nti bhikkhave, mayā paññattaṃ; tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā: ‘itipidaṃ dukkhaṃ ariyasacca’nti.",
+      "fr": "J'ai enseigné: [i]“Voici la [ariyasacca|noble vérité] de l'[dukkhasamudaya|apparition du mal-être];”[/i] il y a en cela d'innombrables aspects, d'innombrables particularités, d'innombrables significations: [i]“Voici la [ariyasacca|noble vérité] de l'[dukkhasamudaya|apparition du mal-être]”[/i]."
+    },
+    {
+      "pl": "‘Idaṃ dukkhanirodhaṃ ariyasacca’nti bhikkhave, mayā paññattaṃ; tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā: ‘itipidaṃ dukkhaṃ ariyasacca’nti.",
+      "fr": "J'ai enseigné: [i]“Voici la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être];”[/i] il y a en cela d'innombrables aspects, d'innombrables particularités, d'innombrables significations: [i]“Voici la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être]”[/i]."
+    },
+    {
+      "pl": "‘Idaṃ dukkhanirodhagāminī paṭipadā ariyasacca’nti, bhikkhave, mayā paññattaṃ; tattha aparimāṇā vaṇṇā aparimāṇā byañjanā aparimāṇā saṅkāsanā: ‘itipidaṃ dukkhanirodhagāminī paṭipadā ariyasacca’nti.",
+      "fr": "J'ai enseigné: [i]“Voici la [ariyasacca|noble vérité] du [dngp|sentier menant à la cessation du mal-être];”[/i] il y a en cela d'innombrables aspects, d'innombrables particularités, d'innombrables significations: [i]“Voici la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]”[/i]."
+    },
+    {
+      "pl": "Tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    }
+  ],
+  "keywords": ["bhikkhu", "ariyasacca", "dukkha", "dukkhasamudaya", "dukkhanirodha", "dngp"],
+  "translator": "Rémy"
+}

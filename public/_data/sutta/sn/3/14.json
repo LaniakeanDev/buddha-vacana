@@ -1,0 +1,34 @@
+{
+  "identifier": "SN 3.14",
+  "plTitle": "Saṅgāma Sutta",
+  "frTitle": "Après la bataille",
+  "description": "Passénadi perd une bataille contre l'armée d'Ajatassattou. Le Bouddha en profite pour commenter sur l'abandon de la victoire et la défaite.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi. assosi kho rājā pasenadi kosalo — “rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī””ti. atha kho rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi. atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ. tasmiṃ kho pana saṅgāme rājā māgadho ajātasattu vedehiputto rājānaṃ pasenadiṃ kosalaṃ parājesi. parājito ca rājā pasenadi kosalo sakameva rājadhāniṃ sāvatthiṃ paccuyyāsi .",
+      "fr": "Ce jour-là, Ajatassattou Védéhipoutta le roi du Magadha rassembla son armée avec ses quatre corps et la mit en marche vers Kassi, à l'encontre du roi Passénadi du Kossala. En l'apprenant, le roi Passénadi du Kossala rassembla son armée avec ses quatre corps et se dirigea vers Kassi, à la rencontre d'Ajatassattou Védéhipoutta le roi du Magadha. Alors Ajatassattou Védéhipoutta le roi du Magadha et le roi Passénadi du Kossala entrèrent en bataille. Au cours de cette bataille, Ajatassattou Védéhipoutta le roi du Magadha vainquit le roi Passénadi du Kossala. Vaincu, le roi Passénadi du Kossala se replia sur sa capitle, Savatthi."
+    },
+    {
+      "pl": "atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisiṃsu. sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ — “idha, bhante, rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi. assosi kho, bhante, rājā pasenadi kosalo — ‘rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī’’ti. atha kho, bhante, rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi. atha kho, bhante, rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ. tasmiṃ kho pana, bhante, saṅgāme rājā māgadho ajātasattu vedehiputto rājānaṃ pasenadiṃ kosalaṃ parājesi. parājito ca, bhante, rājā pasenadi kosalo sakameva rājadhāniṃ sāvatthiṃ paccuyyāsī””ti.",
+      "fr": "Le matin suivant, un grand nombre de [bhikkhu|mendiants] s'habillèrent, emportèrent leur [patta|bol] et leurs [civara|robes], et se rendirent à Savatthi pour leurs aumônes de nourriture. Ayant parcouru Savatthi pour leurs aumônes de nourriture, après leur repas, de retour de leur [pindapata|quête de nourriture d'aumônes], ils vinrent voir le [bhagava|Fortuné], lui rendirent hommage, s'assirent d'un côté, et lui rapportèrent ce qui s'était passé."
+    },
+    {
+      "pl": "“rājā, bhikkhave, māgadho ajātasattu vedehiputto pāpamitto pāpasahāyo pāpasampavaṅko; rājā ca kho, bhikkhave, pasenadi kosalo kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko. ajjeva, bhikkhave, rājā pasenadi kosalo imaṃ rattiṃ dukkhaṃ seti parājito””ti.",
+      "fr": "«[bhikkhu|Mendiants], Ajatassattou Védéhipoutta le roi du Magadha a de mauvais amis, de mauvais camarades, de mauvais compagnons, mais le roi Passénadi du Kossala a des [kalyanamittata|amis bénéfiques], des camarades [kalyana|bénéfiques], des compagnons [kalyana|bénéfiques]. Cette nuit, le roi Passénadi du Kossala a dormi dans le [dukkha|mal-être], vaincu. »"
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "“jayaṃ veraṃ pasavati, [@v]dukkhaṃ seti parājito.[@v]upasanto sukhaṃ seti, [@v]hitvā jayaparājayan”ti.",
+      "fr": "La victoire engendre le ressentiment,[@v]Celui qui est vaincu dort dans le [dukkha|mal-être].[@v]Celui qui est paisible dort dans le [sukha|bien-être],[@v]Ayant éliminé victoire et défaite."
+    }
+  ],
+  "keywords": ["bhikkhu", "patta", "civara", "pindapata", "bhagava", "kalyanamittata", "kalyana", "dukkha", "sukha"],
+  "translator": "Sekha"
+}

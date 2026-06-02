@@ -1,0 +1,46 @@
+{
+  "identifier": "SN 22.113",
+  "plTitle": "Avijjā Sutta",
+  "frTitle": "L'ignorance",
+  "description": "Qu'est-ce que l'ignorance?",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “‘avijjā avijjā’ti, bhante, vuccati. katamā nu kho, bhante, avijjā, kittāvatā ca avijjāgato hotī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“[avijja|ignorance], [avijja|ignorance]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que l'[avijja|ignorance], et de quelle manière est-on ignorant?"
+    },
+    {
+      "pl": "“idha, bhikkhu, assutavā puthujjano rūpaṃ nappajānāti, rūpasamudayaṃ nappajānāti, rūpanirodhaṃ nappajānāti, rūpanirodhagāminiṃ paṭipadaṃ nappajānāti; vedanaṃ nappajānāti, vedanāsamudayaṃ nappajānāti, vedanānirodhaṃ nappajānāti, vedanānirodhagāminiṃ paṭipadaṃ nappajānāti; saññaṃ, saññasamudayaṃ nappajānāti, saññanirodhaṃ nappajānāti, saññanirodhagāminiṃ paṭipadaṃ nappajānāti; saṅkhāre nappajānāti, saṅkhārasamudayaṃ nappajānāti, saṅkhāranirodhaṃ nappajānāti, saṅkhāranirodhagāminiṃ paṭipadaṃ nappajānāti;viññāṇaṃ nappajānāti, viññāṇasamudayaṃ nappajānāti, viññāṇanirodhaṃ nappajānāti, viññāṇanirodhagāminiṃ paṭipadaṃ nappajānāti.",
+      "fr": "—À cet égard, [bhikkhu|mendiant], un [puthujjana|individu ordinaire] [assutava|sans instruction] ne discerne pas la [rupa|Forme], ne discerne pas l'[samudaya|apparition] de la [rupa|Forme], ne discerne pas la [nirodha|cessation] de la [rupa|Forme], et ne discerne pas la [patipada|voie] menant à la [nirodha|cessation] de la [rupa|Forme]; il ne discerne pas le [vedana|Ressenti], ne discerne pas l'[samudaya|apparition] du [vedana|Ressenti], ne discerne pas la [nirodha|cessation] du [vedana|Ressenti], et ne discerne pas la [patipada|voie] menant à la [nirodha|cessation] du [vedana|Ressenti]; il ne discerne pas la [sanna|Perception], ne discerne pas l'[samudaya|apparition] de la [sanna|Perception], ne discerne pas la [nirodha|cessation] de la [sanna|Perception], et ne discerne pas la [patipada|voie] menant à la [nirodha|cessation] de la [sanna|Perception]; il ne discerne pas les [sankhara|Constructions], ne discerne pas l'[samudaya|apparition] des [sankhara|Constructions], ne discerne pas la [nirodha|cessation] des [sankhara|Constructions], et ne discerne pas la [patipada|voie] menant à la [nirodha|cessation] des [sankhara|Constructions]; il ne discerne pas la [vinnana|Conscience], ne discerne pas l'[samudaya|apparition] de la [vinnana|Conscience], ne discerne pas la [nirodha|cessation] de la [vinnana|Conscience], et ne discerne pas la [patipada|voie] menant à la [nirodha|cessation] de la [vinnana|Conscience]."
+    },
+    {
+      "pl": "ayaṃ vuccati, bhikkhu, avijjā. ettāvatā ca avijjāgato hotī”ti.",
+      "fr": "Voici, [bhikkhu|mendiant], ce qu'on appelle l'[avijja|ignorance], et voici de quelle manière on est ignorant."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“[avijja",
+    "avijja",
+    "puthujjana",
+    "assutava",
+    "rupa",
+    "samudaya",
+    "nirodha",
+    "patipada",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana"
+  ],
+  "translator": "Rémy"
+}

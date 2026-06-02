@@ -1,0 +1,50 @@
+{
+  "identifier": "SN 35.82",
+  "plTitle": "Lokapañhā Sutta",
+  "frTitle": "Une question à propos du monde",
+  "description": "Dans quel sens dit-on [i]“le monde”?",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā ... pe ... ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca —",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“‘loko, loko’ti, bhante, vuccati. kittāvatā nu kho, bhante, lokoti vuccatī”ti?",
+      "fr": "«[bhante|Bhanté], on entend dire [i]“Le [loka|monde], le [loka|monde]”[/i]. Dans quel sens dit-on [i]“le [loka|monde]”[/i]?"
+    },
+    {
+      "pl": "“‘lujjatī’ti kho, bhikkhu, tasmā lokoti vuccati. kiñca lujjati?",
+      "fr": "—Ça se désintègre, [bhikkhu|mendiant], c'est pourquoi on l'appelle [i]“le [loka|monde]”[/i]. Et qu'est-ce qui se désintègre?"
+    },
+    {
+      "pl": "cakkhu kho, bhikkhu, lujjati. rūpā lujjanti, cakkhuviññāṇaṃ lujjati, cakkhusamphasso lujjati, yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi lujjati",
+      "fr": "L'œil se désintègre, les formes visibles se désintègrent, la [vinnana|conscience] oculaire se désintègre, le contact oculaire se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] oculaire, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "... pe...",
+      "fr": "L'oreille se désintègre, les sons se désintègrent, la [vinnana|conscience] auditive se désintègre, le contact auditif se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] auditif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "...",
+      "fr": "Le nez se désintègre, les odeurs se désintègrent, la [vinnana|conscience] olfactive se désintègre, le contact olfactif se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] olfactif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "jivhā lujjati ...",
+      "fr": "La langue se désintègre, les goûts se désintègrent, la [vinnana|conscience] gustative se désintègre, le contact gustatif se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] gustatif, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "pe ...",
+      "fr": "Le corps se désintègre, les sensations corporelles se désintègrent, la [vinnana|conscience] corporelle se désintègre, le contact corporel se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] corporel, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "mano lujjati, dhammā lujjanti, manoviññāṇaṃ lujjati, manosamphasso lujjati, yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi lujjati.",
+      "fr": "Le mental se désintègre, les phénomènes mentaux se désintègrent, la [vinnana|conscience] mentale se désintègre, le contact mental se désintègre, et tout ce qui apparaît sur la base du [phassa|contact] mental, que ce soit ressenti comme [sukha|agréable], [dukkha|désagréable] ou [adukkhamasukha|neutre], se désintègre également."
+    },
+    {
+      "pl": "lujjatīti kho, bhikkhu, tasmā lokoti vuccatī”ti.",
+      "fr": "Ça se désintègre, [bhikkhu|mendiant], c'est pourquoi on l'appelle [i]“le [loka|monde]”[/i].»"
+    }
+  ],
+  "keywords": ["bhikkhu", "bhagava", "bhante", "loka", "vinnana", "phassa", "sukha", "dukkha", "adas"],
+  "translator": "Rémy"
+}

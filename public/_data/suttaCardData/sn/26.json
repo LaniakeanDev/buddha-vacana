@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "identifier": "SN 26.1",
+    "plTitle": "Cakkhu Sutta",
+    "frTitle": "L'œil",
+    "description": "Les organes des sens ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "dukkha", "jaramarana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 26.2",
+    "plTitle": "Rūpa Sutta",
+    "frTitle": "Les formes",
+    "description": "Les objets des sens ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "dukkha", "jaramarana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 26.3",
+    "plTitle": "Viññāṇa Sutta",
+    "frTitle": "La Conscience",
+    "description": "Les consciences sensorielles ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "vinnana", "dukkha", "jaramarana", "mana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 26.4",
+    "plTitle": "Samphassa Sutta",
+    "frTitle": "Le contact",
+    "description": "Les six types de contact ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "phassa", "dukkha", "jaramarana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "4",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 26.5",
+    "plTitle": "Samphassaja Sutta",
+    "frTitle": "Engendrés par le contact",
+    "description": "Les ressentis engendrés par les six types de contacts ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "vedana", "phassa", "dukkha", "jaramarana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "5",
+    "readingTime": 3
+  },
+  {
+    "identifier": "SN 26.6",
+    "plTitle": "Saññā Sutta",
+    "frTitle": "La conscience",
+    "description": "Les six types de consciences ne sont rien que mal-être et leur disparition est nécessaire à l'extinction du mal-être.",
+    "keywords": ["bhikkhu", "sanna", "dukkha", "jaramarana", "nirodha"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "6",
+    "readingTime": 2
+  }
+]

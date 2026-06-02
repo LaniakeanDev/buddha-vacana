@@ -1,18 +1,15 @@
 {
   "id": "bhagava",
-  "content": {
-    "title": "abhijjhā",
-    "translation": "convoitise, envie, jalousie, désir d'acquérir ce que l'on n'a pas.",
-    "body": [
-      {
-        "parags": [
-          "Etre abhijjhā·lu est défini à AN 10.176 en termes de convoitise ou jalousie envers les possessions d'autrui. À AN 3.66, lobha est expliquée comme ayant abhijjhā pour synonyme.",
-          "Abhijjhā est l'un des trois akusala·kamma·pathas mentaux.",
-          "Abhijjhā est souvent combiné avec domanassa, pour former un composé (abhijjhā·domanassa), qui apparaît exclusivement soit dans les Formules des Satipaṭṭhānas soit dans les Formules de la Restreinte des Sens.",
-          "Abhijjhā est parfois mentionné parmi les cinq nīvaraṇas, comme une alternative à kāma·cchanda.",
-          "Abhijjhā est parfois mentionné parmi les cinq nīvaraṇas, comme une alternative à kāma·cchanda. ♦ Abhijjhā fait partie du premier upakkilesa mentionné à MN 7: abhijjhā·visama·lobha (convoitise et désir illégitime)."
-        ]
-      }
-    ]
-  }
+  "title": "Bhagavā",
+  "translation": ["Fortuné, Bienheureux, parfois traduit par Seigneur ou «Béni du ciel»."],
+  "body": [
+    {
+      "p": [
+        "C'est l'épithète la plus couramment utilisée dans les souttas pour désigner le Bouddha à la troisième personne. Le même mot est utilisé dans l'hindouïsme comme un terme respectueux pour désigner les déités telles que Krishna, Vishnou ou Shiva, ou encore dans le jaïnisme pour les figures telles que les Tirthankaras. ",
+        "Le terme est dérivé de la racine verbale [i]√bhaj[/i] (partager, obtenir, servir, révérer, aimer) et du mot [i]bhaga[/i] (portion, lot, destinée, sort, richesse, bonne fortune). On en trouve une définition dans Vishnu Purana, VI.5.78 : «Celui qui comprend la création et la dissolution, l'apparition et la disparition des êtres, la sagesse et l'ignorance, devrait être appelé Bhagavān.»",
+        "Le terme n'apparaît pas dans les textes sanskrits anciens tels que les Vedas ou les Upanishads, alors qu'on le retrouve dans les textes plus récents tels que la Bhagavad Gita ou les Puranas.",
+        "Il est notablement utilisé dans la remémoration du Bouddha ([buddhanussati|Buddh·ānussati]) comme sa première et dernière épithète."
+      ]
+    }
+  ]
 }

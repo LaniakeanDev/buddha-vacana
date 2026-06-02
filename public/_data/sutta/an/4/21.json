@@ -1,0 +1,98 @@
+{
+  "identifier": "AN 4.21",
+  "plTitle": "Uruvela Sutta",
+  "frTitle": "À Ourouvéla",
+  "description": "Le Bouddha raconte comment, juste après son éveil, Brahma Sahampati l'a visité pour le convaincre d'enseigner aux hommes.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhadante|Bhadanté]», répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhikkhave, samayaṃ uruvelāyaṃ viharāmi najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. tassa mayhaṃ, bhikkhave, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi: ‘dukkhaṃ kho agāravo viharati appatisso. kiṃ nu kho ahaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyan’”ti?",
+      "fr": "«Un jour, [bhikkhu|mendiants], je séjournais près d'Ourouvéla, au bord du fleuve Nerañjara, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. Là, tandis que j'étais en [patisallana|isolement] dans un endroit retiré, la réflexion suivante apparut dans mon esprit: [i]“Celui qui est sans respect, sans déférence, vit dans le [dukkha|mal-être]. En dépendance vis-à-vis de quel [samana|renonçant] ou [brahmana|brahmane] devrais-je vivre en l'honorant et le révérant?”[/i]"
+    },
+    {
+      "pl": "“tassa mayhaṃ, bhikkhave, etadahosi: aparipūrassa kho ahaṃ sīlakkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā sīlasampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "Alors, [bhikkhu|mendiants], je me suis dit: [i]“Ce serait pour parfaire une [khandha|accumulation] de [sila|vertu] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [sila|vertu], et en dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa kho samādhikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā samādhisampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [samadhi|concentration] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [samadhi|concentration], et en dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa paññākkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā paññāsampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [panna|discernement] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [panna|discernement], et en dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“aparipuṇṇassa kho vimuttikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ. na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya attanā vimuttisampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ.",
+      "fr": "[i]“Ce serait pour parfaire une [khandha|accumulation] de [vimutti|libération] imparfaite, que je vivrais en dépendance vis-à-vis d'un autre [samana|renonçant] ou [brahmana|brahmane] en l'honorant et le révérant. Mais je ne vois dans le [loka|monde] avec ses [deva|dévas], [mara|Maras], [brahma|Brahmas], avec ses [samana|renonçants] et [brahmana|brahmane]s, dans cette population avec ses [deva|dévas] et humains, aucun autre [samana|renonçant] ou [brahmana|brahmane] qui soit plus accompli que moi en [vimutti|libération], et en dépendance vis-à-vis de qui je pourrais vivre en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“tassa mayhaṃ, bhikkhave, etadahosi: ‘yaṃnūnāhaṃ yvāyaṃ dhammo mayā abhisambuddho tameva dhammaṃ sakkatvā garuṃ katvā upanissāya vihareyyan’”ti.",
+      "fr": "Alors, [bhikkhu|mendiants], je me suis dit: [i]“Je n'ai qu'à vivre en dépendance vis-à-vis de ce [dhamma|Dhamma] auquel je me suis éveillé, en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "“atha kho, bhikkhave, brahmā sahampati mama cetasā cetoparivitakkamaññāya seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya, evamevaṃ brahmaloke antarahito mama purato pāturahosi. atha kho, bhikkhave, brahmā sahampati ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇaṃ jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yenāhaṃ tenañjaliṃ paṇāmetvā maṃ etadavoca:",
+      "fr": "Alors [brahma|Brahma] Sahampati, ayant appréhendé avec son [citta|esprit] les réflexions [qui se faisaient] dans mon [citta|esprit], tout comme un homme en bonne santé pourrait étendre son bras replié ou replier son bras étendu, disparut du [loka|monde] [brahma|brahmique] et apparut devant moi. Il ajusta son vêtement du haut sur une épaule, leva les mains en une salutation respectueuse envers moi et me dit:"
+    },
+    {
+      "pl": "‘evametaṃ bhagavā, evametaṃ sugata! yepi te, bhante, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā tepi bhagavanto dhammaṃyeva sakkatvā garuṃ katvā upanissāya vihariṃsu; yepi te, bhante, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā tepi bhagavanto dhammaṃyeva sakkatvā garuṃ katvā upanissāya viharissanti; bhagavāpi, bhante, etarahi arahaṃ sammāsambuddho dhammaṃyeva sakkatvā garuṃ katvā upanissāya viharatū’”ti.",
+      "fr": "[i]“Il en est ainsi, ô [bhagava|Fortuné], il en est ainsi, ô [sugata|Sublime]! [bhante|Bhanté], ceux qui étaient des [arahant|Méritants], des [sammasambuddha|Bouddhas pleinement réalisés] dans les temps passés, ces [bhagava|Fortunés] ont vécu en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant; [bhante|Bhanté], ceux qui seront des [arahant|Méritants], des [sammasambuddha|Bouddhas pleinement réalisés] dans les temps futurs, ces [bhagava|Fortunés] vivront en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant. Que le [bhagava|Fortuné] lui aussi, [bhante|Bhanté], vive à présent en dépendance vis-à-vis du [dhamma|Dhamma] lui-même, en l'honorant et le révérant.”[/i]"
+    },
+    {
+      "pl": "idamavoca brahmā sahampati. idaṃ vatvā athāparaṃ etadavoca:",
+      "fr": "Ainsi parla [brahma|Brahma] Sahampati. Ayant dit cela, il ajouta:"
+    },
+    {
+      "pl": "[i]“ye ca atītā sambuddhā, [@v]ye ca buddhā anāgatā,[@v]yo cetarahi sambuddho, [@v]bahūnaṃ sokanāsano.[@v][@v]“sabbe saddhammagaruno, [@v]vihaṃsu viharanti ca.[@v]tathāpi viharissanti, [@v]esā buddhāna dhammatā.[@v][@v]“tasmā hi attakāmena, [@v]mahattamabhikaṅkhatā.[@v]saddhammo garukātabbo, [@v]saraṃ buddhāna sāsanan”ti. [/i]",
+      "fr": "[i]Les [buddha|Bouddhas] du passé,[@v]Les [buddha|Bouddhas] du futur,[@v]Et le [buddha|Bouddha] du présent,[@v]Détruisant le [soka|chagrin] de beaucoup[@v][@v]Tous ont vécus, vivent et vivront[@v]En révérant le [saddhamma|Dhamma authentique][@v]Car pour les [buddha|Bouddhas][@v]C'est une loi de la nature.[@v][@v]C'est pourquoi celui qui désire son propre [bonheur][@v]Qui souhaite [atteindre] la grandeur,[@v]Devrait révérer le [saddhamma|Dhamma authentique],[@v]Se remémorant l'enseignement du [buddha|Bouddha].[/i]"
+    },
+    {
+      "pl": "“idamavoca, bhikkhave, brahmā sahampati. idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi. atha khvāhaṃ, bhikkhave, brahmuno ca ajjhesanaṃ viditvā attano ca patirūpaṃ yvāyaṃ dhammo mayā abhisambuddho tameva dhammaṃ sakkatvā garuṃ katvā upanissāya vihāsiṃ. yato ca kho, bhikkhave, saṅghopi mahattena samannāgato, atha me saṅghepi gāravo”ti.",
+      "fr": "Ainsi parla [brahma|Brahma] Sahampati. Ayant dit cela, m'ayant rendu hommage en me maintenant à sa droite, il disparut sur-le-champ. Alors, [bhikkhu|mendiants], ayant entendu la requête de [brahma|Brahma] et ce qui était approprié à mon cas, j'ai vécu en dépendance vis-à-vis de ce [dhamma|Dhamma] auquel je me suis éveillé, en l'honorant et le révérant. Et maintenant que la [sangha|Communauté] a elle aussi atteint sa grandeur, [bhikkhu|mendiants], j'ai du respect envers elle."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "bhadante",
+    "sambodhi",
+    "patisallana",
+    "dukkha",
+    "samana",
+    "brahmana",
+    "khandha",
+    "sila",
+    "loka",
+    "deva",
+    "mara",
+    "brahma",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "dhamma",
+    "citta",
+    "sugata",
+    "bhante",
+    "arahant",
+    "sammasambuddha",
+    "buddha",
+    "soka",
+    "saddhamma",
+    "sangha"
+  ],
+  "translator": "Rémy"
+}

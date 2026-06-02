@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 6.107",
+  "plTitle": "Rāga Sutta",
+  "frTitle": "L'avidité",
+  "description": "Trois choses devant être cultivées pour abandonner les trois racines ultimes de tout ce qui est désavantageux.",
+  "body": [
+    {
+      "pl": "“tayome, bhikkhave, dhammā. katame tayo? rāgo, doso, moho. ime kho, bhikkhave, tayo dhammā. ",
+      "fr": "Il y a, [bhikkhu|mendiants], ces trois [dhamma|états mentaux]. Quels sont ces trois? [raga|Avidité], [dosa|aversion] et [moha|délusion]. Voici, [bhikkhu|mendiants], quels sont ces trois [dhamma|états mentaux]."
+    },
+    {
+      "pl": "imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. katame tayo? rāgassa pahānāya asubhā bhāvetabbā, dosassa pahānāya mettā bhāvetabbā, mohassa pahānāya paññā bhāvetabbā.",
+      "fr": "Pour abandonner ces trois [dhamma|états mentaux], [bhikkhu|mendiants], trois [autres] [dhamma|états mentaux] sont à cultiver. Quels sont ces trois? Pour abandonner l'[raga|avidité], le [asubha|répugnant] est à cultiver. Pour abandonner l'[dosa|aversion], la [metta|bienveillance] est à cultiver. Pour abandonner la [moha|délusion], le [panna|discernement] est à cultiver."
+    },
+    {
+      "pl": "imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā”ti.",
+      "fr": "Pour vaincre et abandonner les trois [premiers] [dhamma|états mentaux], [bhikkhu|mendiants], ces trois [derniers] [dhamma|états mentaux] sont à cultiver."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "raga", "dosa", "moha", "asubha", "metta", "panna"],
+  "translator": "Rémy"
+}

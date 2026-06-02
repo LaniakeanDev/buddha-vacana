@@ -1,0 +1,103 @@
+{
+  "identifier": "AN 5.31",
+  "plTitle": "Sumanā Sutta",
+  "frTitle": "La princesseSoumana",
+  "description": "Cinq bienfaits de la générosité dans les existences futures, et ce qu'ils deviennent dans le cas d'arahants.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho sumanā rājakumārī pañcahi rathasatehi pañcahi rājakumārisatehi parivutā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnā kho sumanā rājakumārī bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Ce jour-là, la princesse Soumana, accompagnée de cinq cents chars et cinq cents princesses, alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assise là, la princesse Soumana dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“idhassu, bhante, bhagavato dve sāvakā samasaddhā samasīlā samapaññā, eko dāyako, eko adāyako. te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjeyyuṃ. devabhūtānaṃ pana nesaṃ, bhante, siyā viseso, siyā nānākaraṇan”ti?",
+      "fr": "—[bhante|Bhanté], en imaginant qu'il y ait deux [savaka|disciples] du [bhagava|Fortuné] égaux en termes de [saddha|conviction], égaux en termes de [sila|vertu], et égaux en termes de [panna|discernement], l'un étant un donneur [d'offrandes], l'autre n'en étant pas un; lors de la rupture du [kaya|corps], après la [marana|mort], ils réapparaîtraient dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]; une fois devenus [deva|dévas], [bhante|Bhanté], y aurait-il une différence, y aurait-il quelque chose faisant une différence entre eux?"
+    },
+    {
+      "pl": "“siyā, sumane”ti bhagavā avoca. “yo so, sumane, dāyako so amuṃ adāyakaṃ devabhūto samāno pañcahi ṭhānehi adhigaṇhāti: dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena. yo so, sumane, dāyako so amuṃ adāyakaṃ devabhūto samāno imehi pañcahi ṭhānehi adhigaṇhāti”.",
+      "fr": "—Il y en aurait une, Soumana, dit le [bhagava|Fortuné]. Une fois devenus [deva|dévas], celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de cinq manières: en longévité [deva|dévique], en beauté [deva|dévique], en [sukha|bien-être] [deva|dévique], en réputation [deva|dévique], et en autorité [deva|dévique]. Soumana, une fois devenus [deva|dévas], celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de ces cinq manières."
+    },
+    {
+      "pl": "“sace pana te, bhante, tato cutā itthattaṃ āgacchanti, manussabhūtānaṃ pana nesaṃ, bhante, siyā viseso, siyā nānākaraṇan”ti?",
+      "fr": "—[bhante|Bhanté], et si, ayant décédé de là, ils revenaient ici en tant qu'êtres humains, y aurait-il aussi une différence, y aurait-il quelque chose faisant une différence entre eux?"
+    },
+    {
+      "pl": "“siyā, sumane”ti bhagavā avoca. “yo so, sumane, dāyako so amuṃ adāyakaṃ manussabhūto samāno pañcahi ṭhānehi adhigaṇhāti: mānusakena āyunā, mānusakena vaṇṇena, mānusakena sukhena, mānusakena yasena, mānusakena ādhipateyyena. yo so, sumane, dāyako so amuṃ adāyakaṃ manussabhūto samāno imehi pañcahi ṭhānehi adhigaṇhāti”.",
+      "fr": "—Il y en aurait une, Soumana, dit le [bhagava|Fortuné]. Une fois devenus humains, celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de cinq manières: en longévité humaine, en beauté humaine, en [sukha|bien-être] humain, en réputation humaine, et en autorité humaine. Soumana, une fois devenus humains, celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de ces cinq manières."
+    },
+    {
+      "pl": "“sace pana te, bhante, ubho agārasmā anagāriyaṃ pabbajanti, pabbajitānaṃ pana nesaṃ, bhante, siyā viseso, siyā nānākaraṇan”ti?",
+      "fr": "—[bhante|Bhanté], et s'ils [pabbaja|quittaient tous les deux la vie de foyer] pour le [anagariya|sans-foyer], en tant que sans-foyer, y aurait-il aussi une différence, y aurait-il quelque chose faisant une différence entre eux?"
+    },
+    {
+      "pl": "“siyā, sumane”ti bhagavā avoca. “yo so, sumane, dāyako so amuṃ adāyakaṃ pabbajito samāno pañcahi ṭhānehi adhigaṇhāti: yācitova bahulaṃ cīvaraṃ paribhuñjati appaṃ ayācito, yācitova bahulaṃ piṇḍapātaṃ paribhuñjati appaṃ ayācito, yācitova bahulaṃ senāsanaṃ paribhuñjati appaṃ ayācito, yācitova bahulaṃ gilānappaccaya-bhesajja-parikkhāraṃ paribhuñjati appaṃ ayācito.",
+      "fr": "—Il y en aurait une, Soumana, dit le [bhagava|Fortuné]. [pabbaja|Ayant [pabbaja|quitté la vie de foyer]], celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de cinq manières: il porterait souvent une [civara|robe] qu'on lui aurait demandé [d'accepter] et rarement une qu'on ne lui aurait pas demandé [d'accepter], il mangerait souvent de la [pindapata|nourriture d'aumônes] qu'on lui aurait demandé [d'accepter] et rarement une qu'on ne lui aurait pas demandé [d'accepter], il séjournerait souvent dans un [senasana|gîte] qu'on lui aurait demandé [d'accepter] et rarement dans un qu'on ne lui aurait pas demandé [d'accepter], il prendrait souvent les remèdes & provisions pour les malades qu'on lui aurait demandé [d'accepter] et rarement ceux qu'on ne lui aurait pas demandé [d'accepter]."
+    },
+    {
+      "pl": "yehi kho pana sabrahmacārīhi saddhiṃ viharati tyassa manāpeneva bahulaṃ kāyakammena samudācaranti appaṃ amanāpena, manāpeneva bahulaṃ vacīkammena samudācaranti appaṃ amanāpena, manāpeneva bahulaṃ manokammena samudācaranti appaṃ amanāpena, manāpaṃyeva bahulaṃ upahāraṃ upaharanti appaṃ amanāpaṃ. yo so, sumane, dāyako so amuṃ adāyakaṃ pabbajito samāno imehi pañcahi ṭhānehi adhigaṇhātī”ti.",
+      "fr": "De plus, les compagnons dans la [brahmacariya|vie brahmique] avec lesquels il résiderait se comporteraient généralement de manière plaisante à son égard dans leurs [kamma|actions] [kaya|corporelles] et rarement de manière déplaisante, ils se comporteraient généralement de manière plaisante à son égard dans leurs [kamma|actions] verbales et rarement de manière déplaisante, ils se comporteraient généralement de manière plaisante à son égard dans leurs [kamma|actions] [mana|mentales] et rarement de manière déplaisante, et ils lui présenteraient généralement ce qui est agréable, rarement ce qui est désagréable. Soumana, [pabbaja|ayant [pabbaja|quitté la vie de foyer]], celui qui aurait été un donneur surpasserait celui qui ne l'aurait pas été de ces cinq manières."
+    },
+    {
+      "pl": "“sace pana te, bhante, ubho arahattaṃ pāpuṇanti, arahattappattānaṃ pana nesaṃ, bhante, siyā viseso, siyā nānākaraṇan”ti?",
+      "fr": "—[bhante|Bhanté], et s'ils devenaient tous les deux des [arahant|Méritants], étant devenus [arahant|Méritants], y aurait-il aussi une différence, y aurait-il quelque chose faisant une différence entre eux?"
+    },
+    {
+      "pl": "“ettha kho panesāhaṃ, sumane, na kiñci nānākaraṇaṃ vadāmi, yadidaṃ vimuttiyā vimuttin”ti.",
+      "fr": "—Ici, Soumana, je dis que rien ne ferait de différence entre eux, en ce qui concerne la libération [de l'un] et la libération [de l'autre]."
+    },
+    {
+      "pl": "“acchariyaṃ, bhante, abbhutaṃ, bhante! yāvañcidaṃ, bhante, alameva dānāni dātuṃ alaṃ puññāni kātuṃ; yatra hi nāma devabhūtassāpi upakārāni puññāni, manussabhūtassāpi upakārāni puññāni, pabbajitassāpi upakārāni puññānī”ti.",
+      "fr": "—C'est formidable, [bhante|Bhanté], c'est inouï! Ceci constitue une bonne raison, [bhante|Bhanté], pour donner des dons et accumuler du [punna|mérite], puisque le [punna|mérite] est utile lorsqu'on devient un [deva|déva], le [punna|mérite] est utile lorsqu'on devient un être humain, le [punna|mérite] est utile lorsqu'on [pabbaja|devient un sans-foyer]."
+    },
+    {
+      "pl": "“evametaṃ, sumane! alañhi, sumane, dānāni dātuṃ alaṃ puññāni kātuṃ! devabhūtassāpi upakārāni puññāni, manussabhūtassāpi upakārāni puññāni, pabbajitassāpi upakārāni puññānī”ti.",
+      "fr": "—Il en est ainsi, Soumana! Ceci constitue une bonne raison, Soumana, pour donner des dons et accumuler du [punna|mérite], puisque le [punna|mérite] est utile lorsqu'on devient un [deva|déva], le [punna|mérite] est utile lorsqu'on devient un être humain, le [punna|mérite] est utile lorsqu'on [pabbaja|devient un sans-foyer]."
+    },
+    {
+      "pl": "idamavoca bhagavā. idaṃ vatvāna sugato athāparaṃ etadavoca satthā:",
+      "fr": "Ainsi parla le [bhagava|Fortuné]. Ayant dit cela, le Sublime, l'Enseignant ajouta:"
+    },
+    {
+      "pl": "[i]“yathāpi cando vimalo, [@v]gacchaṃ ākāsadhātuyā.[@v]sabbe tārāgaṇe loke, [@v]ābhāya atirocati[@v]tatheva sīlasampanno, [@v]saddho purisapuggalo.[@v]sabbe maccharino loke, [@v]cāgena atirocati.[/i]",
+      "fr": "[i]Tout comme la lune, pure,[@v]Traversant les cieux,[@v]Brille plus fort par son éclat[@v]Que toutes les étoiles de l'univers,[@v]De la même manière, un individu[@v]Accompli en [sila|vertu], doué de [saddha|conviction],[@v]Brille plus fort par sa [caga|générosité][@v]Que tous les avares du [loka|monde].[/i]"
+    },
+    {
+      "pl": "[i]“yathāpi megho thanayaṃ, [@v]vijjumālī satakkaku.[@v]thalaṃ ninnañca pūreti, [@v]abhivassaṃ vasundharaṃ,[@v]evaṃ dassanasampanno, [@v]sammāsambuddhasāvako[@v]macchariṃ adhigaṇhāti, [@v]pañcaṭhānehi paṇḍito.[/i]",
+      "fr": "[i]Tout comme un nuage de pluie grondant,[@v]Alimentant des chaînes d'éclairs, arborant cent protubérances,[@v]Fait tomber beaucoup de pluie sur la terre,[@v]Remplissant les terres hautes aussi bien que les basses,[@v]De la même manière, le [pandita|sage]accompli en [dassana|vision],[@v][savaka|disciple] de celui qui est [sammasambuddha|véritablement éveillé],[@v]Surpasse un avare[@v]De cinq manières:[/i]"
+    },
+    {
+      "pl": "[i]“āyunā yasasā ceva, [@v]vaṇṇena ca sukhena ca[@v]sa ve bhogaparibbūḷho, [@v]pecca sagge pamodatī”ti.[/i]",
+      "fr": "[i]En longévité et en réputation, [@v]En beauté et en [sukha|bien-être],[@v]Entouré de richesses,[@v]Il se réjouit après la mort dans un [sagga|paradis].[/i]"
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "savaka",
+    "saddha",
+    "sila",
+    "panna",
+    "kaya",
+    "marana",
+    "sugati",
+    "loka",
+    "sagga",
+    "deva",
+    "sukha",
+    "pabbaja",
+    "anagariya",
+    "civara",
+    "pindapata",
+    "senasana",
+    "brahmacariya",
+    "kamma",
+    "mana",
+    "arahant",
+    "punna",
+    "caga",
+    "pandita",
+    "dassana",
+    "@v][savaka",
+    "sammasambuddha"
+  ],
+  "translator": "Rémy"
+}

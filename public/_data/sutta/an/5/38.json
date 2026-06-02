@@ -1,0 +1,34 @@
+{
+  "identifier": "AN 5.38",
+  "plTitle": "Saddha Sutta",
+  "frTitle": "La conviction",
+  "description": "Cinq avantages qu'il y a pour un disciple laïc à être un homme de conviction.",
+  "body": [
+    {
+      "pl": "Pañcime, bhikkhave, saddhe kulaputte ānisaṃsā. Katame pañca?",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [anisamsa|avantages] de la [saddha|conviction] pour un fils de famille. Quels sont ces cinq?"
+    },
+    {
+      "pl": "Ye te, bhikkhave, loke santo sappurisā te saddhaññeva paṭhamaṃ anukampantā anukampanti, no tathā assaddhaṃ; saddhaññeva paṭhamaṃ upasaṅkamantā upasaṅkamanti, no tathā assaddhaṃ; saddhaññeva paṭhamaṃ paṭiggaṇhantā paṭiggaṇhanti, no tathā assaddhaṃ; saddhaññeva paṭhamaṃ dhammaṃ desentā desenti, no tathā assaddhaṃ; saddho kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Ime kho, bhikkhave, pañca saddhe kulaputte ānisaṃsā.",
+      "fr": "Lorsque les [sappurisa|hommes de bien] font preuve de compassion dans le monde, ils font preuve de compassion en premier envers ceux qui ont de la [saddha|conviction], et non envers ceux qui n'ont pas de [saddha|conviction]; lorsqu'ils rendent visite, ils rendent visite en premier à ceux qui ont de la [saddha|conviction], et non à ceux qui n'ont pas de [saddha|conviction]; lorsqu'ils reçoivent [des offrandes], ils reçoivent en premier [les offrandes] de ceux qui ont de la [saddha|conviction], et non celles de ceux qui n'ont pas de [saddha|conviction]; lorsqu'ils enseignent le [dhamma|Dhamma], ils enseignent en premier à ceux qui ont de la [saddha|conviction], et non à ceux qui n'ont pas de [saddha|conviction]; un homme de [saddha|conviction], lors de la dissolution du corps, après la mort, réapparaît dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]. Voici, [bhikkhu|mendiants], quels sont les cinq [anisamsa|avantages] de la [saddha|conviction] pour un fils de famille."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, subhūmiyaṃ catumahāpathe mahānigrodho samantā pakkhīnaṃ paṭisaraṇaṃ hoti; evamevaṃ kho, bhikkhave, saddho kulaputto bahuno janassa paṭisaraṇaṃ hoti: bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānanti.",
+      "fr": "Tout comme un grand (arbre) banian sur un sol plat à un carrefour de quatre routes constitue un refuge pour les oiseaux venant de partout, de la même manière, un fils de famille doué de [saddha|conviction] est un refuge pour beaucoup de gens:[bhikkhu|mendiants],[bhikkhuni|mendiantes], [upasaka|disciples laïcs masculins] et [upasaka|féminins]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "anisamsa",
+    "saddha",
+    "sappurisa",
+    "dhamma",
+    "sugati",
+    "loka",
+    "sagga",
+    "bhikkhuni",
+    "upasaka",
+    "upasika"
+  ],
+  "translator": "Rémy"
+}

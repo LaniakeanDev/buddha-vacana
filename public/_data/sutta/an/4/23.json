@@ -1,0 +1,50 @@
+{
+  "identifier": "AN 4.23",
+  "plTitle": "Loka Sutta",
+  "frTitle": "Le monde",
+  "description": "Ce soutta explique de différentes manières pourquoi le Bouddha faisait référence à lui-même comme 'l'Ainsi-Allant' (Tathagata).",
+  "body": [
+    {
+      "pl": "“loko, bhikkhave, tathāgatena abhisambuddho. lokasmā tathāgato visaṃyutto. lokasamudayo, bhikkhave, tathāgatena abhisambuddho. lokasamudayo tathāgatassa pahīno. lokanirodho, bhikkhave, tathāgatena abhisambuddho. lokanirodho tathāgatassa sacchikato. lokanirodhagāminī paṭipadā, bhikkhave, tathāgatena abhisambuddhā. lokanirodhagāminī paṭipadā tathāgatassa bhāvitā.",
+      "fr": "[bhikkhu|Mendiants], le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement au [loka|monde]. Le [tathagata|Tathagata] est détaché du [loka|monde]. Le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement à [ce qui cause] l'[samudaya|apparition] du [loka|monde]. [Ce qui cause] l'[samudaya|apparition] du [loka|monde] a été abandonné par le [tathagata|Tathagata]. Le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement à la [nirodha|cessation] du [loka|monde]. La [nirodha|cessation] du [loka|monde] a été atteinte par le [tathagata|Tathagata]. Le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement à la [patipada|voie] menant à la [nirodha|cessation] du [loka|monde]. La [patipada|voie] menant à la [nirodha|cessation] du [loka|monde] a été [bhavana|cultivée] par le [tathagata|Tathagata]."
+    },
+    {
+      "pl": "“yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ taṃ tathāgatena abhisambuddhaṃ. tasmā ‘tathāgato’ti vuccati.",
+      "fr": "[bhikkhu|Mendiants], dans le [loka|monde] avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] et [brahmana|brahmanes], avec cette génération de [deva|dévas] et d'êtres humains, le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement à tout ce qui est vu, entendu, senti, appréhendé, atteint, recherché, ou pensé par le [mana|mental]. C'est pourquoi on l'appelle [i]“l'[tathagata|Ainsi-Allant]”[/i]."
+    },
+    {
+      "pl": "“yañca, bhikkhave, rattiṃ tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati yañca rattiṃ anupādisesāya nibbānadhātuyā parinibbāyati, yaṃ etasmiṃ antare bhāsati lapati niddisati sabbaṃ taṃ tatheva hoti, no aññathā. tasmā ‘tathāgato’ti vuccati.",
+      "fr": "[bhikkhu|Mendiants], tout ce à quoi le [tathagata|Tathagata] [sambuddha|s'est éveillé] complètement la nuit de son suprême [sammasambodhi|Éveil véritable], la nuit où il [parinibbana|s'est éteint complètement] dans l'[dhatu|élément] d'[nibbana|Extinction], et tout ce qu'il dit, qu'il déclare, qu'il professe depuis lors est ainsi et pas autrement. C'est pourquoi on l'appelle [i]“l'[tathagata|Ainsi-Allant]”[/i]."
+    },
+    {
+      "pl": "“yathāvādī, bhikkhave, tathāgato tathākārī, yathākārī tathāvādī. iti yathāvādī tathākārī, yathākārī tathāvādī, tasmā ‘tathāgato’ti vuccati.",
+      "fr": "[bhikkhu|Mendiants], le [tathagata|Tathagata] fait ce qu'il dit et dit ce qu'il fait. Puisqu'il fait ce qu'il dit et qu'il dit ce qu'il fait, c'est pour cela qu'on l'appelle [i]“l'[tathagata|Ainsi-Allant]”[/i]."
+    },
+    {
+      "pl": "“sadevake, bhikkhave, loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthu daso vasavattī. tasmā ‘tathāgato’ti vuccati”.",
+      "fr": "[bhikkhu|Mendiants], dans le [loka|monde] avec ses [deva|dévas], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] et [brahmana|brahmanes], avec cette génération de [deva|dévas] et d'êtres humains, le [tathagata|Tathagata] est un vainqueur non défait, voyant tout, celui qui détient le pouvoir [suprême]. C'est pourquoi on l'appelle [i]“l'[tathagata|Ainsi-Allant]”[/i]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "tathagata",
+    "sambuddha",
+    "loka",
+    "samudaya",
+    "nirodha",
+    "patipada",
+    "bhavana",
+    "deva",
+    "mara",
+    "brahma",
+    "samana",
+    "brahmana",
+    "mana",
+    "i]“l'[tathagata",
+    "sammasambodhi",
+    "parinibbana",
+    "dhatu",
+    "nibbana"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,38 @@
+{
+  "identifier": "Iti 73",
+  "plTitle": "Santatara Sutta",
+  "frTitle": "Plus paisible",
+  "description": "L'immatériel est plus paisible que le matériel, mais il y a encore plus paisible que l'immatériel.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“rūpehi, bhikkhave, arūpā santatarā, arūpehi nirodho santataro””ti.",
+      "fr": "«[bhikkhu|Mendiants], les [phénomènes] immatériels sont plus paisibles que les[phénomènes] matériels, et la [nirodha|cessation] est plus paisible que les [phénomènes] immatériels.»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“ye ca rūpūpagā sattā, ye ca arūpaṭṭhāyino . nirodhaṃ appajānantā, āgantāro punabbhavaṃ. ",
+      "fr": "Les être attachés à la matièreEt ceux qui se maintiennent dans [un état] immatérielNe discernant pas la [nirodha|cessation],Reviennent à l'existence répétée."
+    },
+    {
+      "pl": "“ye ca rūpe pariññāya, arūpesu asaṇṭhitā. nirodhe ye vimuccanti, te janā maccuhāyino. ",
+      "fr": "Mais ceux qui, ayant complètement compris les [rupa|[phénomènes] matériels],Ne s'établissent pas dans l'immatériel,Se libèrent dans la [nirodha|cessation],Ces personnes abandonnent la mort."
+    },
+    {
+      "pl": "“kāyena amataṃ dhātuṃ, phusayitvā nirūpadhiṃ. upadhippaṭinissaggaṃ, sacchikatvā anāsavo. deseti sammāsambuddho,asokaṃ virajaṃ padan””ti. ",
+      "fr": "Ayant touché avec le [kaya|corps]L'élément [amata|sans-mort], sans attachement,Ayant fait l'expérience du rejet de l'attachement,Sans [asava|impureté mentale][sammasambuddha|Celui qui est véritablement éveillé] enseigneLa voie sans chagrin, sans tache."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": ["bhagava", "arahant", "bhikkhu", "nirodha", "rupa", "kaya", "amata", "asava", "sammasambuddha"],
+  "translator": "Sekha"
+}

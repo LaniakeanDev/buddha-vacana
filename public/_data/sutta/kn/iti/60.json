@@ -1,0 +1,46 @@
+{
+  "identifier": "Iti 60",
+  "plTitle": "Puññakiriyavatthu Sutta",
+  "frTitle": "Manières de générer du mérite",
+  "description": "Le Bouddha liste les trois manières de générer du mérite.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“tīṇimāni, bhikkhave, puññakiriyavatthūni. katamāni tīṇi? dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu — imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī””ti.",
+      "fr": "«[bhikkhu|Mendiants], il y a ces trois manières de générer du [punna|mérite]. Quelles sont ces trois manières? On peut générer du [punna|mérite] par le [dana|don], on peut générer du [punna|mérite] par la [sila|vertu], et on peut générer du [punna|mérite] par la [bhavana|pratique].Voici, [bhikkhu|mendiants], quelles sont ces trois manières de générer du [punna|mérite].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“puññameva so sikkheyya, āyataggaṃ sukhudrayaṃ. dānañca samacariyañca, mettacittañca bhāvaye. ",
+      "fr": "Il faudrait s'entraîner aux actes [punna|méritoires]Qui engendrent un [sukha|bien-être] durable:Le [dana|don], un comportement équilibréEt le développement d'un [citta|esprit] de [metta|bienveillance]."
+    },
+    {
+      "pl": "“ete dhamme bhāvayitvā, tayo sukhasamuddaye. abyāpajjhaṃ sukhaṃ lokaṃ, paṇḍito upapajjatī””ti.",
+      "fr": "Ayant développé ces choses,Ces trois qui font apparaître le [sukha|bien-être],Dans un monde de [sukha|bien-être] et bienveillant,Le [pandita|sage] réapparaît."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "bhikkhu",
+    "punna",
+    "dana",
+    "sila",
+    "bhavana",
+    "sukha",
+    "citta",
+    "metta",
+    "pandita"
+  ],
+  "translator": "Sekha"
+}

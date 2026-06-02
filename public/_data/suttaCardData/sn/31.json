@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "identifier": "SN 31.1",
+    "plTitle": "Suddhika Sutta",
+    "frTitle": "Version simple",
+    "description": "Les différents types de dévas Gandhabbas.",
+    "keywords": ["bhikkhu", "deva"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 1
+  }
+]

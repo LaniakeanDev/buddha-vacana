@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 20.3",
+  "plTitle": "Kula Sutta",
+  "frTitle": "Les familles",
+  "description": "Une allégorie pour expliquer que développer la bienveillance est la meilleure des protections contre les êtres non-humains.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati … pe …",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṃsiyāni honti corehi kumbhatthenakehi ; evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti abhāvitā abahulīkatā so suppadhaṃsiyo hoti amanussehi.",
+      "fr": "[bhikkhu|Mendiants], tout comme les familles dans lesquelles il y a beaucoup de femmes et peu d'hommes sont facilement attaquées par les voleurs et les bandits, de la même manière un [bhikkhu|mendiant] qui n'a pas développé, qui n'a pas cultivé la [cetovimutti|libération de l'esprit] par la [metta|bienveillance] est facilement attaqué par les êtres non-humains."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, yāni kānici kulāni appitthikāni bahupurisāni tāni duppadhaṃsiyāni honti corehi kumbhatthenakehi, evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā so duppadhaṃsiyo hoti amanussehi.",
+      "fr": "Tout comme les familles dans lesquelles il y a peu de femmes et beaucoup d'hommes sont difficilement attaquées par les voleurs et les bandits, de la même manière un [bhikkhu|mendiant] qui a développé et cultivé la [cetovimutti|libération de l'esprit] par la [metta|bienveillance] est difficilement attaqué par les êtres non-humains."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ — ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’’ti. evañhi vo, bhikkhave, sikkhitabban””ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous développerons la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], nous la cultiverons, nous en ferons notre véhicule, nous en ferons notre terrain, nous l'établirons, nous l'accumulerons, nous la perfectionnerons.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "cetovimutti", "metta"],
+  "translator": "Sekha"
+}

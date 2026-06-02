@@ -1,0 +1,50 @@
+{
+  "id": "caganussati",
+  "title": "cāgānussati",
+  "breakdown": "[[4caga|cāga]+[anussati|anussati]]",
+  "translation": ["remémoration de [sa propre] générosité."],
+  "body": [
+    {
+      "quote": {
+        "source": "[@$@$AN 6.10]",
+        "text": [
+          {
+            "pl": "ariyasāvako attano cāgaṃ anussarati: ‘lābhā vata me, suladdhaṃ vata me! yohaṃ maccheramalapariyuṭṭhitāya pajāya vigatamalamaccherena cetasā agāraṃ ajjhāvasāmi muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato’ti. …",
+            "fr": "un noble disciple se remémore sa propre générosité: “Vraiment, c'est un gain pour moi! Vraiment, c'est un bénéfice pour moi, que dans cette population vouée à la souillure de l'avarice, je vis à la maison avec un esprit dépourvu de la souillure de l'avarice, librement généreux, la main ouverte, me plaisant à faire des dons, accessible aux demandes, me plaisant à donner et à partager.” (…)"
+          },
+          {
+            "pl": "ayaṃ vuccati, mahānāma ‘ariyasāvako … cāgānussatiṃ bhāveti’",
+            "fr": "Voici, Mahanama, ce qu'on appelle “un noble disciple (…) qui développe la remémoration de la générosité.”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La remémoration de sa propre générosité constitue l'un des six types de remémorations ([anussati|anussati]) fréquemment recommandées."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 1.300]",
+        "text": [
+          {
+            "pl": "“ekadhammo, bhikkhave, bhāvito bahulīkato ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. katamo ekadhammo? cāgānussati.",
+            "fr": "Il y a une chose, mendiants, qui lorsqu'elle est développée et cultivée abondamment, mène exclusivement au désenchantement, au désintéressement, à la cessation, à la quiétude, à la connaissance directe, à l'éveil, à l'Extinction. Quelle est cette chose? La remémoration de la générosité."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 1.489]",
+        "text": [
+          {
+            "pl": "“accharāsaṅghātamattampi ce, bhikkhave, bhikkhu cāgānussatiṃ bhāveti, ayaṃ vuccati, bhikkhave, ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’. ko pana vādo ye naṃ bahulīkarontī”ti!",
+            "fr": "Mendiants, si un mendiant pratique la remémoration de la générosité, ne serait-ce que pour une fraction de seconde, on dit de lui que c'est un mendiant qui n'est pas dépourvu de méditation, qui suit les instructions de l'Enseignant, qui répond aux exhortations, et qui ne mange pas la nourriture du pays en vain. Et que dire de ceux qui la cultivent abondamment!"
+          }
+        ]
+      }
+    }
+  ]
+}

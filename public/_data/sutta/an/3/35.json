@@ -1,0 +1,91 @@
+{
+  "identifier": "AN 3.35",
+  "plTitle": "Hatthaka Sutta",
+  "frTitle": "Hatthaka d'Alavi",
+  "description": "Un jeune homme rencontre le Bouddha sur un sentier forestier et s'étonne de le voir bivouaquer dans des conditions très inconfortables. ",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā āḷaviyaṃ viharati gomagge siṃsapāvane paṇṇasanthare. atha kho hatthako āḷavako jaṅghāvihāraṃ anucaṅkamamāno anuvicaramāno addasa bhagavantaṃ gomagge siṃsapāvane paṇṇasanthare nisinnaṃ. disvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho hatthako āḷavako bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Alavi, dans la forêt de simsapas, sur un tas de feuilles le long d'un sentier à bétail. Ce jour-là, Hatthaka d'Alavi, en marchant et se promenant pour exercer ses mollets, vit le [bhagava|Fortuné] assis sur un tas de feuilles le long d'un sentier à bétail dans la forêt de simsapas. L'ayant vu, il alla le voir, lui rendit hommage, puis s'assit d'un côté. Une fois assis là, Hatthaka d'Alavi dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“kacci, bhante, bhagavā sukhamasayitthā”ti?",
+      "fr": "«[bhante|Bhanté], le [bhagava|Fortuné] a-t-il [sukha|bien] dormi?"
+    },
+    {
+      "pl": "“evaṃ, kumāra, sukhamasayitthaṃ. ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro”ti.",
+      "fr": "—Oui, jeune homme, j'ai [sukha|bien] dormi. Je fais partie de ceux dans le monde qui dorment [sukha|bien]."
+    },
+    {
+      "pl": "“sītā, bhante, hemantikā ratti, antaraṭṭhako himapātasamayo, kharā gokaṇṭakahatā bhūmi, tanuko paṇṇasantharo, viraḷāni rukkhassa pattāni, sītāni kāsāyāni vatthāni, sīto ca verambho vāto vāyati. atha ca pana bhagavā evamāha: ‘evaṃ, kumāra, sukhamasayitthaṃ. ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro’”ti.",
+      "fr": "—[bhante|Bhanté], une nuit d'hiver est froide; c'est la période la plus rude de l'hiver, où il neige; le sol couvert de traces de sabots faites par le bétail est accidenté, ce tas de feuilles est peu épais, le feuillage des arbres est clairsemé, les robes ocres sont perméables au froid, et le vent qui souffle en rafales est froid. Pourtant, le [bhagava|Fortuné] dit: [i]“Oui, jeune homme, j'ai [sukha|bien] dormi. Je fais partie de ceux dans le monde qui dorment [sukha|bien].”[/i]"
+    },
+    {
+      "pl": "“tena hi, kumāra, taññevettha paṭipucchissāmi. yathā te khameyya tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, kumāra, idhassa gahapatissa vā gahapatiputtassa vā kūṭāgāraṃ ullittāvalittaṃ nivātaṃ phusitaggaḷaṃ pihitavātapānaṃ. tatrassa pallaṅko gonakatthato paṭikatthato paṭalikatthato kadalimiga-pavarapaccattharaṇo sauttaracchado ubhato lohitakūpadhāno, telappadīpo cettha jhāyeyya; catasso ca pajāpatiyo manāpāmanāpena paccupaṭṭhitā assu. taṃ kiṃ maññasi, kumāra, sukhaṃ vā so sayeyya no vā? kathaṃ vā te ettha hotī”ti?",
+      "fr": "—Pour cela, jeune homme, je vais te questionner en retour, réponds comme bon te semble. Qu'en penses-tu:un chef de foyer ou un enfant de chef de foyer aurait une maison au toit pointu, enduite de plâtre à l'intérieur et à l'extérieur, à l'abri des courants d'air, [sukha|bien] verrouillée, avec les fenêtres fermées. Il y aurait un divan, couvert d'un couvre-lit à long poils, d'un couvre-lit en laine blanche, d'un couvre-lit en laine avec figures de fleurs, d'un couvre-lit fait de peau raffinée de daim kadali, avec un dais et des coussins rouges des deux côtés, une lampe à huile y serait allumée, et ses quatre femmes s'occuperaient de lui de manière très plaisante. Qu'en penses-tu, jeune homme: est-ce qu'il dormirait [sukha|bien] ou pas, ou qu'est-ce qu'il te semble?"
+    },
+    {
+      "pl": "“sukhaṃ so, bhante, sayeyya. ye ca pana loke sukhaṃ senti, so tesaṃ aññataro”ti.",
+      "fr": "—Il dormirait [sukha|bien], [bhante|Bhanté]. Il ferait partie de ceux dans le monde qui dorment [sukha|bien]."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, kumāra, api nu tassa gahapatissa vā gahapatiputtassa vā uppajjeyyuṃ rāgajā pariḷāhā kāyikā vā cetasikā vā yehi so rāgajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyā”ti?",
+      "fr": "—Qu'en penses-tu, jeune homme? Se peut-il qu'apparaisse chez ce chef de foyer ou chez cet enfant de chef de foyer une passion corporelle ou mentale engendrée par l'[raga|avidité], de telle manière que brûlant de cette passion engendrée par l'[raga|avidité], il dormirait [dukkha|mal]?"
+    },
+    {
+      "pl": "“evaṃ, bhante”ti.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“yehi kho so, kumāra, gahapati vā gahapatiputto vā rāgajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyya, so rāgo tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo. tasmāhaṃ sukhamasayitthaṃ.",
+      "fr": "—Jeune homme, en ce qui concerne la passion engendrée par l'[raga|avidité] brûlant de laquelle un chef de foyer ou le fils d'un chef de foyer pourrait [dukkha|mal] dormir, l'[raga|avidité] a été abandonnée par le [tathagata|Tathagata], coupée à la racine, rendue telle une souche de palmier, anéantie, rendue incapable de réapparaître dans le futur. C'est pourquoi j'ai [sukha|bien] dormi."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, kumāra, api nu tassa gahapatissa vā gahapatiputtassa vā uppajjeyyuṃ dosajā pariḷāhā kāyikā vā cetasikā vā yehi so dosajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyā”ti?",
+      "fr": "Qu'en penses-tu, jeune homme? Se peut-il qu'apparaisse chez ce chef de foyer ou chez cet enfant de chef de foyer une passion corporelle ou mentale engendrée par l'[dosa|aversion], de telle manière que brûlant de cette passion engendrée par l'[dosa|aversion], il dormirait [dukkha|mal]?"
+    },
+    {
+      "pl": "“evaṃ, bhante”ti.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye hi kho so, kumāra, gahapati vā gahapatiputto vā dosajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyya, so doso tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo. tasmāhaṃ sukhamasayitthan”ti.",
+      "fr": "—Jeune homme, en ce qui concerne la passion engendrée par l'[dosa|aversion] brûlant de laquelle un chef de foyer ou le fils d'un chef de foyer pourrait [dukkha|mal] dormir, l'[dosa|aversion] a été abandonnée par le [tathagata|Tathagata], coupée à la racine, rendue telle une souche de palmier, anéantie, rendue incapable de réapparaître dans le futur. C'est pourquoi j'ai [sukha|bien] dormi."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, kumāra, api nu tassa gahapatissa vā gahapatiputtassa vā uppajjeyyuṃ mohajā pariḷāhā kāyikā vā cetasikā vā yehi so mohajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyā”ti?",
+      "fr": "Qu'en penses-tu, jeune homme? Se peut-il qu'apparaisse chez ce chef de foyer ou chez cet enfant de chef de foyer une passion corporelle ou mentale engendrée par la [moha|délusion], de telle manière que brûlant de cette passion engendrée par la [moha|délusion], il dormirait [dukkha|mal]?"
+    },
+    {
+      "pl": "“evaṃ, bhante”ti.",
+      "fr": "—Oui, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye hi kho so, kumāra, gahapati vā gahapatiputto vā mohajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyya, so moho tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṃ anuppādadhammo. tasmāhaṃ sukhamasayitthan”ti.",
+      "fr": "—Jeune homme, en ce qui concerne la passion engendrée par la [moha|délusion] brûlant de laquelle un chef de foyer ou le fils d'un chef de foyer pourrait [dukkha|mal] dormir, la [moha|délusion] a été abandonnée par le [tathagata|Tathagata], coupée à la racine, rendue telle une souche de palmier, anéantie, rendue incapable de réapparaître dans le futur. C'est pourquoi j'ai [sukha|bien] dormi.»"
+    },
+    {
+      "pl": "[i]“sabbadā ve sukhaṃ seti, [@v]brāhmaṇo parinibbuto,[@v]yo na limpati kāmesu, [@v]sītibhūto nirūpadhi.[@v][@v]“sabbā āsattiyo chetvā, [@v]vineyya hadaye daraṃ,[@v]upasanto sukhaṃ seti, [@v]santiṃ pappuyya cetaso”ti.[/i]",
+      "fr": "[i]Vraiment, il dort toujours [sukha|bien],[@v]Le [brahmana|brahmane] ayant atteint l'[parinibbana|Extinction complète],[@v]Lui qui ne se souille pas dans la [kama|sensualité][@v]Apaisé, sans acquisition.[@v][@v]Ayant sectionné tous les attachements,[@v]Ayant éliminé la détresse du cœur,[@v]Celui qui est apaisé dort [sukha|bien],[@v]Ayant obtenu la paix de l'[citta|esprit].[/i]"
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "sukha",
+    "raga",
+    "dukkha",
+    "tathagata",
+    "dosa",
+    "moha",
+    "brahmana",
+    "parinibbana",
+    "kama",
+    "citta"
+  ],
+  "translator": "Rémy"
+}

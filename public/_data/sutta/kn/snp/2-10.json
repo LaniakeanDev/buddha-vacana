@@ -1,0 +1,26 @@
+{
+  "identifier": "Snp 2.10",
+  "plTitle": "Uṭṭhāna Sutta",
+  "frTitle": "Réveille-toi!",
+  "description": "Debout!",
+  "body": [
+    {
+      "pl": "uṭṭhahatha nisīdatha,[@v]ko attho supitena vo.[@v]āturānañhi kā niddā,[@v]sallaviddhāna ruppataṃ.",
+      "fr": "Réveille-toi! Assieds-toi![@v]Quel bénéfice y a-t-il à dormir?[@v]Quel repos y a-t-il pour celui qui est blessé,[@v]Meurtri par la flèche qui le transperce?"
+    },
+    {
+      "pl": "uṭṭhahatha nisīdatha,[@v]daḷhaṃ sikkhatha santiyā.[@v]mā vo pamatte viññāya,[@v]maccurājā amohayittha vasānuge.",
+      "fr": "Réveille-toi! Assieds-toi![@v]Entraîne-toi fermement pour la paix[@v]Ne laisse pas, te sachant négligeant,[@v]Le roi de la mort te tromper, t'asservir."
+    },
+    {
+      "pl": "yāya devā manussā ca,[@v]sitā tiṭṭhanti atthikā,[@v]tarathetaṃ visattikaṃ.[@v]khaṇo vo mā upaccagā,[@v]khaṇātītā hi socanti,[@v]nirayamhi samappitā.",
+      "fr": "Surmonte l'attachement[@v]Auquel dévas et humains[@v]Restent accrochés, qu'ils désirent.[@v]Ne laisse pas passer l'opportunité,[@v]Car ceux qui la laissent passer s'affligent[@v]Lorsqu'ils sont consignés en enfer."
+    },
+    {
+      "pl": "pamādo rajo pamādo,[@v]pamādānupatito rajo.[@v]appamādena vijjāya,[@v]abbahe sallamattanoti.",
+      "fr": "La négligence est une impureté,[@v]L'impureté suit la négligence.[@v]Par [appamada|assiduité] et [vijja|véritable connaissance],[@v]On arrête de se réjouir d'avoir été transpercé par une flèche."
+    }
+  ],
+  "keywords": ["appamada", "vijja"],
+  "translator": "Rémy"
+}

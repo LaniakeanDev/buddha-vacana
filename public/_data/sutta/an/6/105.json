@@ -1,0 +1,36 @@
+{
+  "identifier": "AN 6.105",
+  "plTitle": "Bhava Sutta",
+  "frTitle": "Les types d'existence",
+  "description": "Les trois entraînements à parachever pour mettre fin aux trois types d'existence.",
+  "body": [
+    {
+      "pl": "“tayome, bhikkhave, bhavā pahātabbā, tīsu sikkhāsu sikkhitabbaṃ. katame tayo bhavā pahātabbā? kāmabhavo, rūpabhavo, arūpabhavo. ime tayo bhavā pahātabbā. ",
+      "fr": "[bhikkhu|Mendiants], vous devriez abandonner ces trois [types d'][bhava|existence] et vous devriez vous entraîner avec trois [sikkha|entraînements]. Quels sont les trois [types d'][bhava|existence] que vous devriez abandonner? L'[kamabhava|existence [dans la sphère] sensuelle],l'[rupabhava|existence [dans la sphère] matérielle], et l'[arupabhava|existence [dans la sphère] immatérielle]. Vous devriez abandonner ces trois [types d'][bhava|existence]."
+    },
+    {
+      "pl": "katamāsu tīsu sikkhāsu sikkhitabbaṃ? adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya. imāsu tīsu sikkhāsu sikkhitabbaṃ.",
+      "fr": "Quels sont les trois [sikkha|entraînements] avec lesquels vous devriez vous entraîner? L'[adhisilasikkha|entraînement à la vertu supérieure], l'[adhicittasikkha|entraînement à l'esprit supérieur] et l'[adhipannasikkha|entraînement au discernement supérieur]. Vous devriez vous entraîner avec ces trois [sikkha|entraînements]."
+    },
+    {
+      "pl": "yato kho, bhikkhave, bhikkhuno ime tayo bhavā pahīnā honti, imāsu ca tīsu sikkhāsu sikkhitasikkho hoti ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā”ti.",
+      "fr": "Un [bhikkhu|mendiant] chez qui ces trois [types d'][bhava|existence] sont abandonnées et qui a parachevé ces trois [sikkha|entraînements] est appelé un [bhikkhu|mendiant] qui a éliminé la [tanha|Soif], rompu les [samyojana|entraves], et qui par la compréhension correcte de la [maana|prétention] a mis fin au [dukkha|mal-être]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhava",
+    "sikkha",
+    "kamabhava",
+    "rupabhava",
+    "arupabhava",
+    "adhisilasikkha",
+    "adhicittasikkha",
+    "adhipannasikkha",
+    "tanha",
+    "samyojana",
+    "maana",
+    "dukkha"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 56.1",
+  "plTitle": "Samādhi Sutta",
+  "frTitle": "La concentration",
+  "description": "Le Bouddha rappelle l'importance fondamentale de la concentration, puis explique quelle observation liée aux quatre nobles vérités elle rend possible.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "samādhiṃ, bhikkhave, bhāvetha. samāhito, bhikkhave, bhikkhu yathā·bhūtaṃ pajānāti. kiñca yathā·bhūtaṃ pajānāti?",
+      "fr": "«[bhikkhu|Mendiants], cultivez la [samadhi|concentration]. Un [bhikkhu|mendiant] concentré discerne[yathabhutam|tel que c'est réellement]. Et que discerne-t-il[yathabhutam|tel que c'est réellement]?"
+    },
+    {
+      "pl": "‘idaṃ dukkha’nti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·samudayo’ti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·nirodho’ti yathā·bhūtaṃ pajānāti, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yathā·bhūtaṃ pajānāti.",
+      "fr": "Il discerne,[yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”;[/i] il discerne,[yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|origine du mal-être]”;[/i] il discerne,[yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”;[/i] il discerne,[yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”.[/i]"
+    },
+    {
+      "pl": "samādhiṃ, bhikkhave, bhāvetha. samāhito, bhikkhave, bhikkhu yathā·bhūtaṃ pajānāti.",
+      "fr": "[bhikkhu|Mendiants], cultivez la [samadhi|concentration]. Un [bhikkhu|mendiant] concentré discerne[yathabhutam|tel que c'est réellement]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "keywords": ["bhikkhu", "samadhi", "yathabhutam", "dukkha", "dukkhasamudaya", "dukkhanirodha", "dngp"],
+  "translator": "Rémy"
+}

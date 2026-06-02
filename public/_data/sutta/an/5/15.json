@@ -1,0 +1,51 @@
+{
+  "identifier": "AN 5.15",
+  "plTitle": "Daṭṭhabba Sutta",
+  "frTitle": "À voir",
+  "description": "Le Bouddha définit ce que sont les cinq puissances et explique où elles se révèlent.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, balāni. katamāni pañca? saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ. ",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [bala|forces]. Quelles sont ces cinq? La [bala|force] de la [saddha|conviction], la [bala|force] de l'[viriya|énergie], la [bala|force] de la [sati|présence d'esprit], la [bala|force] de la [samadhi|concentration], et la [bala|force] du [panna|discernement]."
+    },
+    {
+      "pl": "kattha ca, bhikkhave, saddhābalaṃ daṭṭhabbaṃ? catūsu sotāpattiyaṅgesu. ettha saddhābalaṃ daṭṭhabbaṃ.",
+      "fr": "Et où la [bala|force] de la [saddha|conviction] est-elle à voir? Dans les quatre [sotappatiyanga|facteurs d'entrée dans le courant]. C'est ici que la [bala|force] de la [saddha|conviction] est à voir."
+    },
+    {
+      "pl": "kattha ca, bhikkhave, vīriyabalaṃ daṭṭhabbaṃ? catūsu sammappadhānesu. ettha vīriyabalaṃ daṭṭhabbaṃ.",
+      "fr": "Et où la [bala|force] de l'[viriya|énergie] est-elle à voir? Dans les quatre [sammappadhana|efforts corrects]. C'est ici que la [bala|force] de l'[viriya|énergie] est à voir."
+    },
+    {
+      "pl": "kattha ca, bhikkhave, satibalaṃ daṭṭhabbaṃ? catūsu satipaṭṭhānesu. ettha satibalaṃ daṭṭhabbaṃ.",
+      "fr": "Et où la [bala|force] de la [sati|présence d'esprit] est-elle à voir? Dans les quatre [satipatthana|mises en place de la présence d'esprit]. C'est ici que la [bala|force] de la [sati|présence d'esprit] est à voir."
+    },
+    {
+      "pl": "kattha ca, bhikkhave, samādhibalaṃ daṭṭhabbaṃ? catūsu jhānesu. ettha samādhibalaṃ daṭṭhabbaṃ.",
+      "fr": "Et où la [bala|force] de la [samadhi|concentration] est-elle à voir? Dans les quatre [jhana|jhanas]. C'est ici que la [bala|force] de la [samadhi|concentration] est à voir."
+    },
+    {
+      "pl": "kattha ca, bhikkhave, paññābalaṃ daṭṭhabbaṃ? catūsu ariyasaccesu. ettha paññābalaṃ daṭṭhabbaṃ.",
+      "fr": "Et où la [bala|force] du [panna|discernement] est-elle à voir? Dans les quatre [ariyasacca|nobles vérités]. C'est ici que la [bala|force] du [panna|discernement] est à voir."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, pañca balānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces cinq [bala|force]s."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bala",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "sotappatiyanga",
+    "sammappadhana",
+    "satipatthana",
+    "jhana",
+    "ariyasacca"
+  ],
+  "translator": "Rémy"
+}

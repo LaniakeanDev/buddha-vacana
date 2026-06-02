@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 3.47",
+  "plTitle": "Saṅkhatalakkhaṇa Sutta",
+  "frTitle": "Les caractéristiques du Construit",
+  "description": "Ce soutta définit quelles sont les caractéristiques de ce qui est appelé le Construit et l'Inconstruit.",
+  "body": [
+    {
+      "pl": "Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni. Katamāni tīṇi? Uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṃ paññāyati. Imāni kho, bhikkhave, tīṇi saṅkhatassa saṅkhatalakkhaṇānī ti.",
+      "fr": "Ces trois [choses], [bhikkhu|mendiants], sont les caractéristiques construites du [asankhata|Construit]. Quelles sont ces trois? On y discerne l'apparition, on y discerne l'extinction, on y discerne un changement pendant son maintien. Voici, [bhikkhu|mendiants], quelles sont ces trois caractéristiques construites du [sankhata|Construit]."
+    },
+    {
+      "pl": "Tīṇimāni, bhikkhave, asaṅkhatassa asaṅkhatalakkhaṇāni. Katamāni tīṇi? Na uppādo paññāyati, na vayo paññāyati, na ṭhitassa aññathattaṃ paññāyati. Imāni kho, bhikkhave, tīṇi asaṅkhatassa asaṅkhatalakkhaṇānī ti.",
+      "fr": "Ces trois [choses], [bhikkhu|mendiants], sont les caractéristiques inconstruites de l'[asankhata|Inconstruit]. Quelles sont ces trois? On n'y discerne pas d'apparition, on n'y discerne pas d'extinction, et on n'y discerne pas de changement pendant son maintien. Voici, [bhikkhu|mendiants], quelles sont ces trois caractéristiques inconstruites de l'[asankhata|Inconstruit]."
+    }
+  ],
+  "keywords": ["bhikkhu", "asankhata", "sankhata"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,28 @@
+{
+  "identifier": "SN 36.2",
+  "plTitle": "Sukha Sutta",
+  "frTitle": "Agréable",
+  "description": "Les trois types de ressentis sont ici expliqués simplement, avec quelques vers en complément.",
+  "body": [
+    {
+      "pl": "“tisso imā, bhikkhave, vedanā. katamā tisso? sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā — imā kho, bhikkhave, tisso vedanāti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces trois [types de] de [vedana|ressentis]. Quels sont ces trois [types]? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables] et les [adukkhamasukhavedana|ressentis neutres]. Voici, [bhikkhu|mendiants], quels sont ces trois [types de] de [vedana|ressentis]."
+    },
+    {
+      "pl": "“sukhaṃ vā yadi vā dukkhaṃ, [@v]adukkhamasukhaṃ saha.[@v]ajjhattañca bahiddhā ca, [@v]yaṃ kiñci atthi veditaṃ.[@v]“etaṃ dukkhanti ñatvāna, [@v]mosadhammaṃ palokinaṃ.[@v]phussa phussa vayaṃ passaṃ, [@v]evaṃ tattha virajjatī”ti.",
+      "fr": "[i]Que ce soit [sukha|agréable], [dukkha|désagréable],[/i][@v][i]Que ce soit [adukkhamasukha|neutre],[/i][@v][i]Que ce soit interne ou externe,[/i][@v][i]Tout ce qui est ressenti:[/i][@v][i]Ayant reconnu: [/i]“cela est [dukkha|insatisfaisant],[i][/i][@v][dhamma|Par nature] deceptif, voué à la destruction.”[@v][i]L'ayant touché encore et encore, voyant son extinction,[/i][@v][i]C'est ainsi qu'on s'y désintéresse.[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "sukha",
+    "dukkha",
+    "adukkhamasukha",
+    "i][/i][@v][dhamma"
+  ],
+  "translator": "Sekha"
+}

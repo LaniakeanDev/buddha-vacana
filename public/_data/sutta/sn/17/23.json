@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 17.23",
+  "plTitle": "Ekaputta Sutta",
+  "frTitle": "Son fils unique",
+  "description": "Voici comment une mère remplie de conviction devrait aviser son fils.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ...",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.",
+      "fr": "Cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug."
+    },
+    {
+      "pl": "saddhā, bhikkhave, upāsikā ekaputtakaṃ piyaṃ manāpaṃ evaṃ sammā āyācamānā āyāceyya: ‘tādiso, tāta, bhavāhi yādiso citto ca gahapati hatthako ca āḷavako’ti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ upāsakānaṃ, yadidaṃ citto ca gahapati hatthako ca āḷavako. sace kho tvaṃ, tāta, agārasmā anagāriyaṃ pabbajasi; tādiso, tāta, bhavāhi yādisā sāriputtamoggallānāti. esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūnaṃ, yadidaṃ sāriputtamoggalānā. mā ca kho tvaṃ, tāta, sekhaṃ appattamānasaṃ lābhasakkārasiloko anupāpuṇātūti. tañce, bhikkhave, bhikkhuṃ sekhaṃ appattamānasaṃ lābhasakkārasiloko anupāpuṇāti, so tassa hoti antarāyāya.",
+      "fr": "Une [upasaka|disciple laïque] remplie de [saddha|conviction], [bhikkhu|mendiants], avisant correctement son fils unique, cher et bien-aimé, l'aviserait ainsi: [i]“Cher fils, tu devrais devenir comme Citta l'homme de foyer et comme Hatthaka Āḷavaka.”[/i] Car ceux-ci, [bhikkhu|mendiants], sont les étalons de mesure en ce qui concerne mes [savaka|disciples] [upasaka|séculiers], c'est-à-dire Citta l'homme de foyer et Hatthaka Āḷavaka. [Elle continuerait:] [i]“Et si tu [pabbajja|quittes la vie de foyer] pour le [anagariya|sans-foyer], cher fils, tu devrais devenir comme Sāriputta et Moggallāna.”[/i] Car ceux-ci, [bhikkhu|mendiants], sont les étalons de mesure en ce qui concerne mes [savaka|disciples] [bhikkhu|mendiants], c'est-à-dire Sāriputta et Moggallāna. [Elle continuerait:] [i]“Mais tant que tu es [sekha|en entraînement], cher fils, et que tu n'as pas encore atteint ton but, puisse-tu ne pas rencontrer [lss|les acquisitions, honneurs et renommée]!”[/i] Car, [bhikkhu|mendiants], pour un mendiant [sekha|en entraînement] qui n'a pas encore atteint son but, s'il rencontre [lss|les acquisitions, honneurs et renommée], c'est un danger pour lui."
+    },
+    {
+      "pl": "evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya. tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘uppannaṃ lābhasakkārasilokaṃ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṃ pariyādāya ṭhassatī’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "Si cruels, [bhikkhu|mendiants], sont [lss|les acquisitions, honneurs et renommée], ils sont amers, rudes, ils sont un obstacle à l'obtention du suprême soulagement du joug. C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous abandonnerons [lss|les acquisitions, honneurs & renommée] qui seront apparues, et nous ne laisserons pas [lss|les acquisitions, honneurs & renommée] apparues s'emparer de notre [citta|esprit].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhikkhu", "lss", "upasaka", "saddha", "savaka", "pabbajja", "anagariya", "sekha", "citta"],
+  "translator": "Rémy"
+}

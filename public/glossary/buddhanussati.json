@@ -1,0 +1,171 @@
+{
+  "id": "buddhanussati",
+  "title": "Buddhānussati",
+  "breakdown": "[[4buddha|buddha]+[anussati|anussati]],",
+  "translation": ["remémoration du Bouddha."],
+  "body": [
+    {
+      "p": [
+        "Celle-ci est expliquée par le Bouddha à [@$AN 6.10]. La formule est analysée en détail [@f_anussati#anussati-1|ici].",
+        "Dans le Nagaropama Sutta, il y a une alllégorie expliquant que lorsque la conviction ([saddha|saddhā]) d'un disciple est exprimée avec tout son sens par cette formule, ils pratiquent ce qui est avantageux ([kusala|kusala]) et abandonnent ce qui est désavantageux ([akusala|akusala]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 7.67]",
+        "text": [
+          {
+            "pl": "“seyyathāpi, bhikkhave, rañño paccantime nagare esikā hoti gambhīranemā sunikhātā acalā asampavedhī abbhantarānaṃ guttiyā bāhirānaṃ paṭighātāya. evamevaṃ kho, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ ‘itipi so... buddho bhagavā’ti. saddhesiko, bhikkhave, ariyasāvako akusalaṃ pajahati, kusalaṃ bhāveti; sāvajjaṃ pajahati, anavajjaṃ bhāveti; suddhaṃ attānaṃ pariharati.",
+            "fr": "Tout comme, mendiants, il y a dans une citadelle royale de frontière un pilier enfoncé profondément, bien planté, inamovible et inébranlable, pour la protection des résidents et pour repousser ceux qui sont extérieurs, de la même manière, un noble disciple a de la conviction, il est convaincu de l'éveil du Tathagata: “Assurément, ce Fortuné est (…) un Fortuné éveillé.” Mendiants, un noble disciple pourvu du pilier [que représente] la conviction abandonne ce qui est désavantageux, cultive ce qui est avantageux, abandonne ce qui est répréhensible, cultive ce qui est irréprochable, et se maintient purifié."
+          }
+        ]
+      }
+    },
+    { "p": ["La remémoration du Bouddha mène à l'Extinction ([nibbana|Nibbāna]):"] },
+    {
+      "quote": {
+        "source": "[@$b]AN 1.296[/b]",
+        "text": [
+          {
+            "pl": "“ekadhammo, bhikkhave, bhāvito bahulīkato ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. katamo ekadhammo? buddhānussati.",
+            "fr": "Il y a une chose, mendiants, qui lorsqu'elle est développée et cultivée abondamment, mène exclusivement au désenchantement, au désintéressement, à la cessation, à la quiétude, à la connaissance directe, à l'éveil, à l'Extinction. Quelle est cette chose? La remémoration du Bouddha."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La remémoration du Bouddha contribue à la confiance dans le Bouddha confirmée par l'expérience ([buddheaveccappasada|Buddhe aveccappasāda]), l'un des quatre facteurs de l'entrée dans le courant ([sotapattiyanga|sot·āpattiy·aṅga]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 9.27]",
+        "text": [
+          {
+            "pl": "“katamehi catūhi sotāpattiyaṅgehi samannāgato hoti? idha, gahapati, ariyasāvako buddhe aveccappasādena samannāgato hoti: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’”ti.",
+            "fr": "Quels sont les quatre facteurs d'entrée dans le courant dont il est pourvu? À cet égard, chef de foyer, un noble disciple possède une confiance vérifiée dans le Bouddha: “Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Ainsi, dans le Nivesaka Sutta, le Bouddha dit à Ananda qu'il devrait encourager la pratique de la remémoration du Bouddha jusqu'au point où elle devient confiance dans le Bouddha confirmée par l'expérience ([buddheaveccappasada|Buddhe aveccappasāda]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.75]",
+        "text": [
+          {
+            "pl": "“ye, ānanda, anukampeyyātha ye ca sotabbaṃ maññeyyuṃ mittā vā amaccā vā ñātī vā sālohitā vā te vo, ānanda, tīsu ṭhānesu samādapetabbā nivesetabbā patiṭṭhāpetabbā. katamesu tīsu? buddhe aveccappasāde samādapetabbā nivesetabbā patiṭṭhāpetabbā: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi; satthā devamanussānaṃ, buddho bhagavā’ti,",
+            "fr": "Ananda, tu devrais exhorter, installer, et établir ceux envers qui tu éprouves de la sympathie, qui pensent qu'ils devraient t'écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans trois choses. Quelles sont ces trois? Tu devrais les exhorter, les installer, les établir dans la confiance confirmée dans le Bouddha: “Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.”"
+          },
+          { "pl": "…", "fr": "(…)" },
+          {
+            "pl": "“siyā, ānanda, catunnaṃ mahābhūtānaṃ aññathattaṃ: pathavīdhātuyā āpodhātuyā tejodhātuyā vāyodhātuyā, na tveva buddhe aveccappasādena samannāgatassa ariyasāvakassa siyā aññathattaṃ tatridaṃ aññathattaṃ. so vatānanda, buddhe aveccappasādena samannāgato ariyasāvako nirayaṃ vā tiracchānayoniṃ vā pettivisayaṃ vā upapajjissatīti netaṃ ṭhānaṃ vijjati.",
+            "fr": "Il se peut, Ananda, que survienne une altération dans les quatre grands éléments, à savoir l'élément terre, l'élément eau, l'élément feu et l'élément air, mais il est impossible que survienne une telle altération chez un noble disciple qui a acquis une confiance confirmée dans le Bouddha. Voici quelle serait une telle altération: qu'un noble disciple ayant acquis une confiance confirmée dans le Bouddha réapparaisse en enfer, dans le sein animal ou dans le plan d'existence des esprits affligés. Cela est impossible."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La remémoration du Bouddha purifie l'esprit et facilite l'apparition de la joie ([pamojja|pāmojja], qui est souvent décrite comme menant au premier [jhana|jhāna]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.71]",
+        "text": [
+          {
+            "pl": "tassa tathāgataṃ anussarato cittaṃ pasīdati, pāmojjaṃ uppajjati. ye cittassa upakkilesā te pahīyanti, seyyathāpi, visākhe, upakkiliṭṭhassa sīsassa upakkamena pariyodapanā hoti. kathañca, visākhe, upakkiliṭṭhassa cittassa upakkamena pariyodapanā hoti? idha, visākhe, ariyasāvako tathāgataṃ anussarati: ‘itipi so bhagavā... buddho bhagavā’ti. tassa tathāgataṃ anussarato cittaṃ pasīdati, pāmojjaṃ uppajjati, ye cittassa upakkilesā te pahīyanti.",
+            "fr": "Lorsqu'il se remémore le Tathagata, son esprit devient serein et la joie apparaît. Les souillures de l'esprit sont alors abandonnées tout comme la tête, lorsqu'elle est souillée, est purifiée au moyen d'une technique appropriée. Et comment, Visakha, la tête, lorsqu'elle est souillée, est-elle purifiée au moyen d'une technique appropriée? En utilisant du savon, de l'argile, de l'eau et au moyen de l'effort humain approprié: voici comment la tête, lorsqu'elle est souillée, est purifiée au moyen d'une technique appropriée. De la même manière, Visakha, l'esprit souillé est purifié au moyen d'une technique appropriée. Et comment l'esprit souillé est-il purifié au moyen d'une technique appropriée? À cet égard, un noble disciple se remémore le Tathagata: “Assurément, ce Fortuné est (…) un Fortuné éveillé.” Lorsqu'il se remémore le Tathagata, son esprit devient serein, la joie apparaît, et les souillures de l'esprit sont alors abandonnées."
+          }
+        ]
+      }
+    },
+    { "p": ["D'autres effets positifs de la remémoration du Bouddha sont mentionnés ailleurs:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.25]",
+        "text": [
+          {
+            "pl": "yasmiṃ, bhikkhave, samaye ariyasāvako tathāgataṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti, nikkhantaṃ muttaṃ vuṭṭhitaṃ gedhamhā. ‘gedho’ti kho, bhikkhave, pañcannetaṃ kāmaguṇānaṃ adhivacanaṃ. idampi kho, bhikkhave, ārammaṇaṃ karitvā evamidhekacce sattā visujjhanti.",
+            "fr": "Lorsque, mendiants, un noble disciple se remémore le Tathagata, à ce moment-là son esprit n'est ni sous l'emprise de l'avidité, ni sous l'emprise de la haine, ni sous l'emprise de la délusion. À ce moment-là, son esprit est bien droit, il a laissé la cupidité derrière lui, il s'en est délivré, il en a émergé. “Cupidité”, mendiants, est une figure pour les cinq agréments des plaisirs sensuels. Ayant fait de ceci une fondation, certains êtres sont purifiés de cette manière."
+          }
+        ]
+      }
+    },
+    { "p": ["La remémoration du Bouddha mène à la concentration ([samadhi|samādhi]):"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 11.11]",
+        "text": [
+          {
+            "pl": "yasmiṃ, mahānāma, samaye ariyasāvako tathāgataṃ anussarati, nevassa tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti, na dosapariyuṭṭhitaṃ cittaṃ hoti, na mohapariyuṭṭhitaṃ cittaṃ hoti; ujugatamevassa tasmiṃ samaye cittaṃ hoti tathāgataṃ ārabbha. ujugatacitto kho pana, mahānāma, ariyasāvako labhati atthavedaṃ, labhati dhammavedaṃ, labhati dhammūpasaṃhitaṃ pāmojjaṃ. pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vediyati, sukhino cittaṃ samādhiyati. ayaṃ vuccati, mahānāma, ariyasāvako visamagatāya pajāya samappatto viharati, sabyāpajjāya pajāya abyāpajjo viharati, dhammasotasamāpanno buddhānussatiṃ bhāveti.",
+            "fr": "Lorsque, Mahanama, un noble disciple se remémore le Tathagata, à ce moment-là son esprit n'est ni sous l'emprise de l'avidité, ni sous l'emprise de la haine, ni sous l'emprise de la délusion. À ce moment-là, son esprit est bien droit, en s'appuyant sur le Tathagata. De plus, Mahanama, un noble disciple dont l'esprit est droit acquiert l'enthousiasme pour l'objectif, il acquiert l'enthousiasme pour le Dhamma, il acquiert une joie liée au Dhamma. Chez celui qui est dans la joie, l'exaltation apparaît. Chez celui qui a un mental exalté, le corps se calme. Celui dont le corps est calme demeure dans le bien-être. L'esprit de celui qui est dans le bien-être se concentre. Voici, Mahanama, ce qu'on appelle “un noble disciple qui reste équilibré au sein d'une population déséquilibrée, qui reste sans malveillance au sein d'une population malveillante, qui a atteint le courant du Dhamma, qui développe la remémoration du Bouddha.”"
+          }
+        ]
+      }
+    },
+    { "p": ["La remémoration du Bouddha devrait être partiquée dans toutes les postures:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 11.12]",
+        "text": [
+          {
+            "pl": "imaṃ kho tvaṃ, mahānāma, buddhānussatiṃ gacchantopi bhāveyyāsi, ṭhitopi bhāveyyāsi, nisinnopi bhāveyyāsi, sayānopi bhāveyyāsi, kammantaṃ adhiṭṭhahantopi bhāveyyāsi, puttasambādhasayanaṃ ajjhāvasantopi bhāveyyāsi.",
+            "fr": "Mahanama, tu devrais pratiquer cette remémoration du Bouddha en marchant, en te tenant debout, en te tenant assis, en te tenant couché, en travaillant, ou en t'occupant de ta famille."
+          }
+        ]
+      }
+    },
+    { "p": ["La remémoration du Bouddha sert à mettre en place la présence d'esprit ([sati|sati]):"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 11.13]",
+        "text": [
+          {
+            "pl": "“idha tvaṃ, nandiya, tathāgataṃ anussareyyāsi: ‘itipi so... bhagavā’ti. iti kho te, nandiya, tathāgataṃ ārabbha ajjhattaṃ sati upaṭṭhāpetabbā.",
+            "fr": "À cet égard, Nandiya, tu devrais te remémorer le Tathagata: “Assurément, ce Fortuné est (…) un Fortuné éveillé.” Ainsi, Nandiya, tu devrais établir ta présence d'esprit intérieurement, en te basant sur le Tathagata."
+          }
+        ]
+      }
+    },
+    { "p": ["Elle sert également à vaincre la peur:"] },
+    {
+      "quote": {
+        "source": "[@$b]SN 11.3[/b]",
+        "text": [
+          {
+            "pl": "“ahañca kho, bhikkhave, evaṃ vadāmi: ‘sace tumhākaṃ, bhikkhave, araññagatānaṃ vā rukkhamūlagatānaṃ vā suññāgāragatānaṃ vā uppajjeyya bhayaṃ vā chambhitattaṃ vā lomahaṃso vā, mameva tasmiṃ samaye anussareyyātha: itipi so... bhagavā’ti. mamañhi vo, bhikkhave, anussarataṃ yaṃ bhavissati bhayaṃ vā chambhitattaṃ vā lomahaṃso vā, so pahīyissati.",
+            "fr": "Mais, mendiants, je déclare ceci: si, lorsque vous vous êtes rendu dans la forêt, au pied d'un arbre ou dans un local vide, et qu'apparaît peur, panique ou chair de poule, remémorez-vous de moi: “Assurément, ce Fortuné est (…) un Fortuné éveillé.” En vous remémorant de moi, la peur, panique ou chair de poule disparaîtra."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La formule de remémoration du Bouddha apparaît régulièrement dans la narration, notamment pour décrire le fait que les gens entendent la réputation du Bouddha:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.63]",
+        "text": [
+          {
+            "pl": "taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato: ‘itipi so... bhagavā’ti . so imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti. sādhu kho pana tathārūpānaṃ arahataṃ dassanaṃ hotī”ti.",
+            "fr": "La bonne réputation de ce vénérable Gotama s'est répandue ainsi: ‘Assurément, ce Fortuné est (…) un Fortuné éveillé. Il fait connaître ce monde avec ses dévas, ses māras, ses brahmās, ses renonçants-et-brahmanes, à cette génération de dévas et d'êtres humains, en en ayant fait lui-même l'expérience par connaissance directe. Il enseigne un Dhamma qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la vie brahmique qui est entièrement complète et pure. Il est bon de voir un tel Méritant.’"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La formule de remémoration du Bouddha décrit la conviction ([saddha|saddhā]) d'un disciple: la faculté de conviction (saddh·[indriya|indriya], SN 48.9), l'accomplissement en conviction (saddhā·sampadā, [@$AN 4.61]), la force de la conviction (saddhā·[bala|bala], [@$AN 5.2]), la richesse de la conviction (saddhā·dhana, [@$AN 5.47])."
+      ]
+    }
+  ]
+}

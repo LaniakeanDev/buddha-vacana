@@ -1,0 +1,134 @@
+{
+  "identifier": "AN 3.100",
+  "plTitle": "Loṇakapalla Sutta",
+  "frTitle": "L'allégorie de la poignée de sel",
+  "description": "Le Bouddha explique que les résultats d'une mauvaise action donnée ne sont pas fixes et qu'ils dépendent fortement du degré de développement mental de celui qui la commet.",
+  "body": [
+    {
+      "pl": "“yo, bhikkhave, evaṃ vadeyya: ‘yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya. yo ca kho, bhikkhave, evaṃ vadeyya: ‘yathā yathā vedanīyaṃ ayaṃ puriso kammaṃ karoti tathā tathāssa vipākaṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso hoti, okāso paññāyati sammā dukkhassa antakiriyāya. ",
+      "fr": "Mendiants, si quelqu'un disait: [i]“Une personne fait l'expérience [des effets] d'une [kamma|action], exactement de la même manière qu'elle l'a réalisée”[/i], dans ce cas-là on ne pourrait pas vivre la [brahmacariya|vie brahmique], et aucune opportunité de mettre correctement un terme au [dukkha|mal-être] ne serait discernée. Mais, [bhikkhu|mendiants], si quelqu'un dit: [i]“Lorsqu'une personne réalise une [kamma|action] [dont les effets sont] à ressentir d'une certaine manière, c'est de cette même manière qu'elle fait l'expérience de son résultat”[/i], dans ce cas-là on peut vivre la [brahmacariya|vie brahmique], et une opportunité de mettre correctement un terme au [dukkha|mal-être] est discernée."
+    },
+    {
+      "pl": "idha, bhikkhave, ekaccassa puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti. idha pana, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nā’ṇupi khāyati, kiṃ bahudeva.",
+      "fr": "À cet égard, [bhikkhu|mendiants], pour un certain individu, une mauvaise [kamma|action] anodine mène en [niraya|enfer], tandis que pour un certain autre, [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti? idha pana, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto abhāvitapañño paritto appātumo appadukkhavihārī. evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]? À cet égard, un certain individu n'est pas développé en [kaya|corps], n'est pas développé en [sila|vertu], n'est pas développé en [citta|esprit], n'est pas développé en [panna|discernement], il est limité, il a une personnalité médiocre et il demeure dans le [dukkha|mal-être]. C'est pour un individu de cette sorte, [bhikkhu|mendiants], qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nā’ṇupi khāyati, kiṃ bahudeva? idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto bhāvitapañño aparitto mahatto appamāṇavihārī. evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important? À cet égard, un certain individu est développé en [kaya|corps], développé en [sila|vertu], développé en [citta|esprit], développé en [panna|discernement], il n'est pas limité, il a une personnalité admirable et il demeure sans limite. C'est pour un individu de cette sorte, [bhikkhu|mendiants], que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, puriso loṇakapallaṃ paritte udakamallake pakkhipeyya. taṃ kiṃ maññatha, bhikkhave, api nu taṃ parittaṃ udakamallake udakaṃ amunā loṇakapallena loṇaṃ assa apeyyan”ti?",
+      "fr": "Imaginez, [bhikkhu|mendiants], qu'un homme jette une poignée de sel dans un verre d'eau. Qu'en pensez-vous, [bhikkhu|mendiants], est-ce qu'une telle poignée de sel rendrait la petite quantité d'eau dans le verre salée et imbuvable?"
+    },
+    {
+      "pl": "“evaṃ, bhante”.",
+      "fr": "—En effet, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
+    {
+      "pl": "“aduñhi, bhante, parittaṃ udakakapallake udakaṃ, taṃ amunā loṇakapallena loṇaṃ assa apeyyan”ti.",
+      "fr": "—[bhante|Bhanté], la quantité d'eau dans le verre est si petite qu'une telle poignée de sel la rendrait salée et imbuvable."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, puriso loṇakapallakaṃ gaṅgāya nadiyā pakkhipeyya. taṃ kiṃ maññatha, bhikkhave, api nu sā gaṅgā nadī amunā loṇakapallena loṇaṃ assa apeyyā”ti?",
+      "fr": "—Imaginez, [bhikkhu|mendiants], qu'un homme jette une poignée de sel dans le fleuve Gange. Qu'en pensez-vous, [bhikkhu|mendiants], est-ce qu'une telle poignée de sel rendrait le fleuve Gange salé et imbuvable?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]"
+    },
+    {
+      "pl": "“taṃ kissa hetu”?",
+      "fr": "—Pourquoi cela?"
+    },
+    {
+      "pl": "“asu hi, bhante, gaṅgāya nadiyā mahā udakakkhandho so amunā loṇakapallena loṇo na assa apeyyo”ti.",
+      "fr": "—[bhante|Bhanté], l'accumulation d'eau du fleuve Gange est si grande qu'une telle poignée de sel ne la rendrait pas salée ni imbuvable."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, idhekaccassa puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti. idha, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "—De la même manière, [bhikkhu|mendiants], pour un certain individu, une mauvaise [kamma|action] anodine mène en [niraya|enfer], tandis que pour un certain autre, [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti? idha pana, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto abhāvitapañño paritto appātumo appadukkhavihārī. evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]? À cet égard, un certain individu n'est pas développé en [kaya|corps], n'est pas développé en [sila|vertu], n'est pas développé en [citta|esprit], n'est pas développé en [panna|discernement], il est limité, il a une personnalité médiocre et il demeure dans le [dukkha|mal-être]. C'est pour un individu de cette sorte, [bhikkhu|mendiants], qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nā’ṇupi khāyati, kiṃ bahudeva? idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto bhāvitapañño aparitto mahatto appamāṇavihārī. evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important? À cet égard, un certain individu est développé en [kaya|corps], développé en [sila|vertu], développé en [citta|esprit], développé en [panna|discernement], il n'est pas limité, il a une personnalité admirable et il demeure sans limite. C'est pour un individu de cette sorte, [bhikkhu|mendiants], que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“idha, bhikkhave, ekacco aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati. idha, bhikkhave, ekacco aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ nigacchati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], quelqu'un va en prison pour un demi kahapana, ou pour un kahapana, ou pour cent kahapanas, tandis que quelqu'un d'autre ne va pas en prison pour un demi kahapana, ni pour un kahapana, ni pour cent kahapanas."
+    },
+    {
+      "pl": "“kathaṃrūpo, bhikkhave, aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati? idha, bhikkhave, ekacco daliddo hoti appassako appabhogo. evarūpo, bhikkhave, aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati.",
+      "fr": "Et quel genre de personne, [bhikkhu|mendiants], va en prison pour un demi kahapana, ou pour un kahapana, ou pour cent kahapanas? À cet égard, [bhikkhu|mendiants], une certaine personne est pauvre, avec peu de possessions et de biens. Voici, [bhikkhu|mendiants], quel genre de personne va en prison pour un demi kahapana, ou pour un kahapana, ou pour cent kahapanas."
+    },
+    {
+      "pl": "“kathaṃrūpo, bhikkhave, aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ nigacchati? idha, bhikkhave, ekacco aḍḍho hoti mahaddhano mahābhogo. evarūpo, bhikkhave, aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ nigacchati.",
+      "fr": "Et quel genre de personne, [bhikkhu|mendiants], ne va pas en prison pour un demi kahapana, ni pour un kahapana, ni pour cent kahapanas? À cet égard, [bhikkhu|mendiants], une certaine personne est riche, avec de grandes richesses et une grande fortune. Voici, [bhikkhu|mendiants], quel genre de personne ne va pas en prison pour un demi kahapana, ni pour un kahapana, ni pour cent kahapanas."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, idhekaccassa puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti. idha, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "De la même manière, [bhikkhu|mendiants], pour un certain individu, une mauvaise [kamma|action] anodine mène en [niraya|enfer], tandis que pour un certain autre, [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti? idha pana, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto abhāvitapañño paritto appātumo appadukkhavihārī. evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]? À cet égard, un certain individu n'est pas développé en [kaya|corps], n'est pas développé en [sila|vertu], n'est pas développé en [citta|esprit], n'est pas développé en [panna|discernement], il est limité, il a une personnalité médiocre et il demeure dans le [dukkha|mal-être]. C'est pour un individu de cette sorte, [bhikkhu|mendiants], qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nā’ṇupi khāyati, kiṃ bahudeva? idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto bhāvitapañño aparitto mahatto appamāṇavihārī. evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important? À cet égard, un certain individu est développé en [kaya|corps], développé en [sila|vertu], développé en [citta|esprit], développé en [panna|discernement], il n'est pas limité, il a une personnalité admirable et il demeure sans limite. C'est pour un individu de cette sorte, [bhikkhu|mendiants], que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, orabbhiko vā urabbhaghātako vā appekaccaṃ urabbhaṃ adinnaṃ ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ, appekaccaṃ urabbhaṃ adinnaṃ ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ.",
+      "fr": "Mendiants, c'est tout comme un marchand ou un boucher de moutons: il peut faire exécuter ou emprisonner un certain individu qui a volé un des moutons, ou bien lui faire payer une amende, ou faire de lui ce qu'il veut, tandis qu'il ne peut pas faire exécuter ni emprisonner un autre individu qui a volé un des moutons, ni lui faire payer une amende, ni faire de lui ce qu'il veut."
+    },
+    {
+      "pl": "“kathaṃrūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ? idha, bhikkhave, ekacco daliddo hoti appassako appabhogo. evarūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ.",
+      "fr": "Et quel genre de personne ayant volé un mouton est-ce qu'un marchand ou un boucher de moutons peut faire exécuter ou emprisonner, ou bien lui faire payer une amende, ou faire de lui ce qu'il veut? À cet égard, [bhikkhu|mendiants], une certaine personne est pauvre, avec peu de possessions et de biens. Voici, [bhikkhu|mendiants], quel genre de personne ayant volé un mouton un marchand ou un boucher de moutons peut faire exécuter ou emprisonner, ou bien lui faire payer une amende, ou faire de lui ce qu'il veut."
+    },
+    {
+      "pl": "“kathaṃrūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ. idha, bhikkhave, ekacco aḍḍho hoti mahaddhano mahābhogo rājā vā rājamahāmatto vā. evarūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ. aññadatthu pañjalikova naṃ yācati: ‘dehi me, mārisa, urabbhaṃ vā urabbhadhanaṃ vā’ti.",
+      "fr": "Et quel genre de personne ayant volé un mouton est-ce qu'un marchand ou un boucher de moutons ne peut pas faire exécuter ni emprisonner, ni lui faire payer une amende, ni faire de lui ce qu'il veut? À cet égard, [bhikkhu|mendiants], une certaine personne est riche, avec de grandes richesses et une grande fortune, ou bien il est roi ou ministre d'un roi. Voici, [bhikkhu|mendiants], quel genre de personne ayant volé un mouton un marchand ou un boucher de moutons ne peut pas faire exécuter ni emprisonner, ni lui faire payer une amende, ni faire de lui ce qu'il veut. Tout ce qu'il peut faire, c'est implorer avec les mains jointes: [i]“Mon cher, veuillez me rendre mon mouton ou bien me payer.”[/i]"
+    },
+    {
+      "pl": "evamevaṃ kho, bhikkhave, idhekaccassa puggalassa tādisaṃyeva appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti. idha pana, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "De la même manière, [bhikkhu|mendiants], pour un certain individu, une mauvaise [kamma|action] anodine mène en [niraya|enfer], tandis que pour un certain autre, [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti? idha pana, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto abhāvitapañño paritto appātumo appadukkhavihārī. evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]? À cet égard, un certain individu n'est pas développé en [kaya|corps], n'est pas développé en [sila|vertu], n'est pas développé en [citta|esprit], n'est pas développé en [panna|discernement], il est limité, il a une personnalité médiocre et il demeure dans le [dukkha|mal-être]. C'est pour un individu de cette sorte, [bhikkhu|mendiants], qu'une mauvaise [kamma|action] anodine mène en [niraya|enfer]."
+    },
+    {
+      "pl": "“kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nā’ṇupi khāyati, kiṃ bahudeva? idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto bhāvitapañño aparitto mahatto appamāṇavihārī. evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva.",
+      "fr": "Et pour quelle sorte d'individu, [bhikkhu|mendiants], est-ce que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important? À cet égard, un certain individu est développé en [kaya|corps], développé en [sila|vertu], développé en [citta|esprit], développé en [panna|discernement], il n'est pas limité, il a une personnalité admirable et il demeure sans limite. C'est pour un individu de cette sorte, [bhikkhu|mendiants], que [les effets de] la même sorte de mauvaise [kamma|action] anodine sont à ressentir [ditthevadhamme|dans le monde visible], sans qu'[un reste] même minime soit perçu, et encore moins qu'il y en ait un important."
+    },
+    {
+      "pl": "“yo, bhikkhave, evaṃ vadeyya: ‘yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya. yo ca kho, bhikkhave, evaṃ vadeyya: ‘yathā yathā vedanīyaṃ ayaṃ puriso kammaṃ karoti tathā tathāssa vipākaṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso hoti, okāso paññāyati sammā dukkhassa antakiriyāya.",
+      "fr": "Mendiants, si quelqu'un disait: [i]“Une personne fait l'expérience [des effets] d'une [kamma|action], exactement de la même manière qu'elle l'a réalisée”[/i], dans ce cas-là on ne pourrait pas vivre la [brahmacariya|vie brahmique], et aucune opportunité de mettre correctement un terme au [dukkha|mal-être] ne serait discernée. Mais, [bhikkhu|mendiants], si quelqu'un dit: [i]“Lorsqu'une personne réalise une [kamma|action] [dont les effets sont] à ressentir d'une certaine manière, c'est de cette même manière qu'elle fait l'expérience de son résultat”[/i], dans ce cas-là on peut vivre la [brahmacariya|vie brahmique], et une opportunité de mettre correctement un terme au [dukkha|mal-être] est discernée. "
+    }
+  ],
+  "keywords": [
+    "kamma",
+    "brahmacariya",
+    "dukkha",
+    "bhikkhu",
+    "niraya",
+    "ditthevadhamme",
+    "kaya",
+    "sila",
+    "citta",
+    "panna",
+    "bhante"
+  ],
+  "translator": "Rémy"
+}

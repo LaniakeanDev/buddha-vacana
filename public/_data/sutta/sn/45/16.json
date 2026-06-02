@@ -1,0 +1,40 @@
+{
+  "identifier": "SN 45.16",
+  "plTitle": "Parisuddha Sutta",
+  "frTitle": "Purifiées",
+  "description": "Huit qualités qui n'apparaissent dans le monde que grâce à un Bouddha.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“aṭṭhime, bhikkhave, dhammā parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. katame aṭṭha?",
+      "fr": "—[bhikkhu|Mendiants], lorsque ces huit [dhamma|qualités], purifiées, immaculées, sans tache, dénuées de souillure ne sont pas apparues, elles n'apparaissent que grâce à la manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé]. Quelles sont ces huit?"
+    },
+    {
+      "pl": "seyyathidaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.",
+      "fr": "—C'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, aṭṭha dhammā parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti.",
+      "fr": "[bhikkhu|Mendiants], lorsque ces huit [dhamma|qualités], purifiées, immaculées, sans tache, dénuées de souillure ne sont pas apparues, elles n'apparaissent que grâce à la manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,173 @@
+{
+  "identifier": "SN 35.95",
+  "plTitle": "Mālukyaputta Sutta",
+  "frTitle": "Pour Maloukyapoutta",
+  "description": "Maloukyapoutta demande une exhortation courte au Bouddha avant d'aller s'isoler pour pratiquer jusqu'à devenir un arahant. Il explique alors en détail le conseil donné, qui est le même que celui donné à Bahiya (Ud 1.10).",
+  "body": [
+    {
+      "pl": "atha kho āyasmā mālukyaputto yena bhagavā tenupasaṅkami ... pe ... ekamantaṃ nisinno kho āyasmā mālukyaputto bhagavantaṃ etadavoca — ",
+      "fr": "En cette occasion, le [ayasma|vénérable] Maloukyapoutta vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.",
+      "fr": "«Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'effort."
+    },
+    {
+      "pl": "“ettha dāni, mālukyaputta, kiṃ dahare bhikkhū vakkhāma! yatra hi nāma tvaṃ, bhikkhu, jiṇṇo vuddho mahallako addhagato vayoanuppatto saṃkhittena ovādaṃ yācasī”ti.",
+      "fr": "—Hé bien, Maloukyapoutta, que devrais-je dire aux jeunes [bhikkhu|mendiants], lorsque même toi, qui es vieux, ancien, d'âge avancé, qui as fait ton temps, qui as atteint ta limite d'âge, tu demandes une brève exhortation!"
+    },
+    {
+      "pl": "“kiñcāpāhaṃ, bhante, jiṇṇo vuddho mahallako addhagato vayoanuppatto. desetu me, bhante, bhagavā saṃkhittena dhammaṃ, desetu sugato saṃkhittena dhammaṃ, appeva nāmāhaṃ bhagavato bhāsitassa atthaṃ ājāneyyaṃ. appeva nāmāhaṃ bhagavato bhāsitassa dāyādo assan”ti.",
+      "fr": "—[bhante|Bhanté], même si je suis vieux, ancien, d'âge avancé, que j'ai fait mon temps, que j'ai atteint ma limite d'âge, que le [bhagava|Fortuné] m'expose l'[dhamma|Enseignement] en bref, que le [sugata|Sublime] m'expose l'[dhamma|Enseignement] en bref, peut-être que je comprendrai le sens de la parole du [bhagava|Fortuné], peut-être que je deviendrai l'héritier de sa parole."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, mālukyaputta, ye te cakkhuviññeyyā rūpā adiṭṭhā adiṭṭhapubbā, na ca passasi, na ca te hoti passeyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Qu'en penses-tu, Maloukyapoutta, est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les formes connaissables par l'œil que tu n'as pas vues, que tu n'as jamais vues, que tu ne vois pas, et que tu ne penses pas pouvoir voir?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye te sotaviññeyyā saddā assutā assutapubbā, na ca suṇāsi, na ca te hoti suṇeyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les sons connaissables par l'oreille que tu n'as pas entendus, que tu n'as jamais entendus, que tu n'entends pas, et que tu ne penses pas pouvoir entendre?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye te ghānaviññeyyā gandhā aghāyitā aghāyitapubbā, na ca ghāyasi, na ca te hoti ghāyeyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les odeurs connaissables par le nez que tu n'as pas senties, que tu n'as jamais senties, que tu ne sens pas, et que tu ne penses pas pouvoir sentir?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye te jivhāviññeyyā rasā asāyitā asāyitapubbā, na ca sāyasi, na ca te hoti sāyeyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les saveurs connaissables par la langue que tu n'as pas goûtées, que tu n'as jamais goûtées, que tu ne goûtes pas, et que tu ne penses pas pouvoir goûter?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi, na ca te hoti phuseyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les sensations corporelles connaissables par le corps que tu n'as pas touchées, que tu n'as jamais touchées, que tu ne touches pas, et que tu ne penses pas pouvoir toucher?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti? atthi te tattha chando vā rāgo vā pemaṃ vā”ti?",
+      "fr": "—Est-ce que tu as du [chanda|désir], de l'[raga|avidité], ou de l'affection envers les [dhamma|phénomènes mentaux] connaissables par le mental que tu n'as pas appréhendés, que tu n'as jamais appréhendés, que tu n'appréhendes pas, et que tu ne penses pas pouvoir appréhender?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati. yato kho te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati; tato tvaṃ, mālukyaputta, na tena. yato tvaṃ, mālukyaputta, na tena; tato tvaṃ, mālukyaputta, na tattha. yato tvaṃ, mālukyaputta, na tattha; tato tvaṃ, mālukyaputta, nevidha, na huraṃ, na ubhayamantarena. esevanto dukkhassā”ti.",
+      "fr": "—Maintenant, Maloukyapoutta, pour toi, en ce qui concerne les [dhamma|phénomènes] qui sont vus, entendus, perçus, conçus: dans ce qui est vu, il n'y aura que ce qui est vu, dans ce qui est entendu, il n'y aura que ce qui est entendu, dans ce qui est perçu, il n'y aura que ce qui est perçu, dans ce qui est conçu, il n'y aura que ce qui est conçu. Lorsque pour toi, en ce qui concerne les [dhamma|phénomènes] qui sont vus, entendus, perçus, conçus, que dans ce qui est vu, il n'y aura que ce qui est vu, que dans ce qui est entendu, il n'y aura que ce qui est entendu, que dans ce qui est perçu, il n'y aura que ce qui est perçu, que dans ce qui est conçu, il n'y aura que ce qui est conçu, alors tu ne seras plus par cela. Lorsque tu ne seras plus par cela, tu ne seras plus là. Lorsque tu ne seras plus là, Maloukyapoutta, tu ne seras plus dans ce monde, ni dans un autre monde, ni entre les deux. C'est ça qu'est la fin du [dukkha|mal-être]."
+    },
+    {
+      "pl": "“imassa khvāhaṃ, bhante, bhagavatā saṃkhittena bhāsitassa vitthārena atthaṃ ājānāmi —",
+      "fr": "—[bhante|Bhanté], je discerne en détail le sens de ce bref exposé du [bhagava|Fortuné] de la manière suivante:"
+    },
+    {
+      "pl": "“rūpaṃ disvā sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā rūpasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbāna vuccati.",
+      "fr": "Ayant vu une forme en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il le ressent avec un [citta|esprit] avide,[@v]Et s'attache [à cette forme].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur la forme visible,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“saddaṃ sutvā sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā saddasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbānamuccati.",
+      "fr": "Ayant entendu un son en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il le ressent avec un [citta|esprit] avide,[@v]Et s'attache [à ce son].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur le son,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“gandhaṃ ghatvā sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā gandhasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbānamuccati.",
+      "fr": "Ayant senti une odeur en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il la ressent avec un [citta|esprit] avide,[@v]Et s'attache [à cette odeur].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur l'odeur,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“rasaṃ bhotvā sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā rasasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbānamuccati.",
+      "fr": "Ayant goûté une saveur en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il la ressent avec un [citta|esprit] avide,[@v]Et s'attache [à cette saveur].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur la saveur,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“phassaṃ phussa sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā phassasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbānamuccati.",
+      "fr": "Ayant touché un contact corporel en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il le ressent avec un [citta|esprit] avide,[@v]Et s'attache [à ce contact].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur le contact,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“dhammaṃ ñatvā sati muṭṭhā, [@v]piyaṃ nimittaṃ manasi karoto.[@v]sārattacitto vedeti, [@v]tañca ajjhosa tiṭṭhati.[@v]“tassa vaḍḍhanti vedanā, [@v]anekā dhammasambhavā.[@v]abhijjhā ca vihesā ca, [@v]cittamassūpahaññati.[@v]evaṃ ācinato dukkhaṃ, [@v]ārā nibbānamuccati.",
+      "fr": "Ayant appréhendé un phénomène mental en étant étourdi d'esprit, [@v]Il porte son attention à un aspect agréable.[@v]Il le ressent avec un [citta|esprit] avide,[@v]Et s'attache [à ce phénomène mental].[@v]De nombreux [vedana|ressentis] apparaissent,[@v]Basés sur le phénomène mental,[@v]Ainsi que la [abhijjha|convoitise] et le désagrément,[@v]Qui dérangent son [citta|esprit].[@v]Voici comment s'accumule le [dukkha|mal-être],[@v]On dit qu'il est loin de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati rūpesu, [@v]rūpaṃ disvā paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati.[@v]“yathāssa passato rūpaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccati.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les formes,[@v]Ayant vu une forme visible, reste présent d'esprit.[@v]Il la ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à cette forme].[@v]Même lorsqu'il voit la forme,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati saddesu, [@v]saddaṃ sutvā paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati. [@v]“yathāssa suṇato saddaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccati.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les sons,[@v]Ayant entendu un son, reste présent d'esprit.[@v]Il le ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à ce son].[@v]Même lorsqu'il entend le son,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati gandhesu, [@v]gandhaṃ ghatvā paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati.[@v]“yathāssa ghāyato gandhaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccati.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les odeurs,[@v]Ayant senti une odeur, reste présent d'esprit.[@v]Il la ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à cette odeur].[@v]Même lorsqu'il sent l'odeur,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati rasesu, [@v]rasaṃ bhotvā paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati.[@v]“yathāssa sāyato rasaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccati.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les saveurs,[@v]Ayant goûté une saveur, reste présent d'esprit.[@v]Il la ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à cette saveur].[@v]Même lorsqu'il goûte la saveur,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati phassesu, [@v]phassaṃ phussa paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati.[@v]“yathāssa phusato phassaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccati.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les sensations corporelles,[@v]Ayant ressenti une sensation corporelle, reste présent d'esprit.[@v]Il la ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à cette sensation corporelle].[@v]Même lorsqu'il ressent la sensation corporelle,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“na so rajjati dhammesu, [@v]dhammaṃ ñatvā paṭissato.[@v]virattacitto vedeti, [@v]tañca nājjhosa tiṭṭhati.[@v]“yathāssa jānato dhammaṃ, [@v]sevato cāpi vedanaṃ.[@v]khīyati nopacīyati, [@v]evaṃ so caratī sato.[@v]evaṃ apacinato dukkhaṃ, [@v]santike nibbānamuccatī”ti.",
+      "fr": "Celui qui n'a pas d'[raga|avidité] pour les [dhamma|phénomènes mentaux],[@v]Ayant appréhendé un phénomène mental, reste présent d'esprit.[@v]Il le ressent avec un [citta|esprit] dénué d'[raga|avidité],[@v]Et ne s'attache pas [à ce phénomène mental].[@v]Même lorsqu'il appréhende le phénomène mental,[@v]Et qu'il fait l'expérience du ressenti,[@v][Celui-ci] se consume et ne se renforce pas.[@v]Il vit ainsi présent d'esprit.[@v]Voici comment se consume le [dukkha|mal-être],[@v]On dit qu'il est près de l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“imassa khvāhaṃ, bhante, bhagavatā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmī”ti.",
+      "fr": "Voici, [bhante|Bhanté], comment je discerne en détail le sens de ce bref exposé du [bhagava|Fortuné]."
+    },
+    {
+      "pl": "“sādhu sādhu, mālukyaputta! sādhu kho tvaṃ, mālukyaputta, mayā saṃkhittena bhāsitassa vitthārena atthaṃ ājānāsi —",
+      "fr": "—Excellent, Maloukyapoutta, excellent! Il est excellent que tu discerne en détail le sens de mon bref exposé de la manière suivante:"
+    },
+    {
+      "pl": "“rūpaṃ disvā… santike nibbānamuccatī”ti.",
+      "fr": "(Le Bouddha répète ce que vient de déclarer Maloukyapoutta)"
+    },
+    {
+      "pl": "“imassa kho, mālukyaputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo”ti.",
+      "fr": "C'est bien ainsi, Maloukyapoutta, que le détail du sens de mon bref exposé devrait être vu.»"
+    },
+    {
+      "pl": "atha kho āyasmā mālukyaputto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. atha kho āyasmā mālukyaputto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva — yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. aññataro ca panāyasmā mālukyaputto arahataṃ ahosīti.",
+      "fr": "Le [ayasma|vénérable] Maloukyapoutta, ayant approuvé les paroles du [bhagava|Fortuné], le salua, puis s'étant levé de son siège et ayant rendu hommage au [bhagava|Fortuné] en le tenant sur sa droite, s'en alla. Alors le [ayasma|vénérable] Maloukyapoutta, demeurant seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'[padhana|effort], en peu de temps, il entra et demeura [dittheva|dans ce monde visible], en l'ayant réalisé pour lui-même par [abhinna|connaissance directe], dans le suprême achèvement de la [brahmacariya|vie brahmique] pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le [anagariya|sans-foyer].Il réalisa: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i] Alors le [ayasma|vénérable] Maloukyapoutta devint l'un des [arahant|Méritants]."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "atapi",
+    "bhikkhu",
+    "sugata",
+    "chanda",
+    "raga",
+    "dukkha",
+    "citta",
+    "vedana",
+    "abhijjha",
+    "nibbana",
+    "padhana",
+    "dittheva",
+    "abhinna",
+    "brahmacariya",
+    "anagariya",
+    "jati",
+    "arahant"
+  ],
+  "translator": "Sekha"
+}

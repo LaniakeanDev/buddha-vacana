@@ -1,0 +1,34 @@
+{
+  "identifier": "Ud 1.4",
+  "plTitle": "Huṃhuṅka Sutta",
+  "frTitle": "Un de ceux qui récitent le mantra Hum",
+  "description": "Peu après son éveil, le Bouddha est abordé par un brahmane qui récite le mantra Hum (comme dans Om Mani Padme Hum) et qui lui demande ce qui fait de quelqu'un un brahmane.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. tena kho pana samayena bhagavā sattāhaṃ ekapallaṅkena nisinno hoti vimuttisukhapaṭisaṃvedī. atha kho bhagavā tassa sattāhassa accayena tamhā samādhimhā vuṭṭhāsi.",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près d'Ourouvéla, au bord du fleuve Nerañjara, au pied du banian des chevriers, peu après avoir atteint l'[sambodhi|éveil]. À ce moment-là, le [bhagava|Fortuné] était resté assis jambes croisées pendant une semaine, ressentant le bien-être de la [vimutti|libération]. À la fin de cette semaine, le [bhagava|Fortuné] émergea de cette [samadhi|concentration]."
+    },
+    {
+      "pl": "atha kho aññataro huṃhuṅkajātiko brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho so brāhmaṇo bhagavantaṃ etadavoca —",
+      "fr": "Alors un certain brahmane, un de ceux qui récitent le mantra Hum, vint voir le [bhagava|Fortuné], échangea avec lui des courtoisies et des salutations amicales, puis se tint debout d'un côté et lui dit:"
+    },
+    {
+      "pl": "“kittāvatā nu kho, bho gotama, brāhmaṇo hoti, katame ca pana brāhmaṇakaraṇā dhammā””ti?",
+      "fr": "«[bho|Honorable] Gotama, dans quelle mesure est-on un brahmane, et quelles sont les [dhamma|caractéristiques] qui font de quelqu'un un brahmane?»"
+    },
+    {
+      "pl": "atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi —",
+      "fr": "Alors le [bhagava|Fortuné], ayant compris ce que cela signifiait, en cette occasion-là, exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“yo brāhmaṇo bāhitapāpadhammo, nihuṃhuṅko nikkasāvo yatatto. vedantagū vūsitabrahmacariyo, dhammena so brahmavādaṃ vadeyya. yassussadā natthi kuhiñci loke””ti.",
+      "fr": "Un brahmane qui évite les [dhamma|états] [papa|malsains]Qui ne récite pas le mantra Hum, qui est sans tache, sous contrôle,Qui excelle dans la connaissance des védas, qui a accompli la [brahmacariya|vie brahmique],Peut [dhamma|légitimement] professer la doctrine de Brahma,Lui qui n'a aucun orgueil par rapport à quoi que ce soit dans le monde."
+    }
+  ],
+  "keywords": ["bhagava", "sambodhi", "vimutti", "samadhi", "bho", "dhamma", "udana", "papa", "brahmacariya"],
+  "translator": "Sekha"
+}

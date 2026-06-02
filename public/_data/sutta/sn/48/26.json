@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 48.26",
+  "plTitle": "Sotāpanna Sutta",
+  "frTitle": "Parvenu-au-courant",
+  "description": "Voici une condition à laquelle on entre dans le courant (sotāpanna), en rapport aux facultés sensorielles.",
+  "body": [
+    {
+      "pl": "“chayimāni, bhikkhave, indriyāni. katamāni cha? cakkhundriyaṃ, sotindriyaṃ, ghāṇindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces six [indriya|facultés]. Quelles sont ces six? La [indriya|faculté] de l'œil, la [indriya|faculté] de l'oreille, la [indriya|faculté] du nez, la [indriya|faculté] de la langue, la [indriya|faculté] du [kaya|corps], et la [indriya|faculté] de l'[mana|esprit]."
+    },
+    {
+      "pl": "yato kho, bhikkhave, ariyasāvako imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti, ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti.",
+      "fr": "Lorsqu'un [ariyasavaka|noble disciple] discerne [yathabhutam|tels qu'ils sont réellement] l'[samudaya|apparition], la disparition, l'[assada|agrément], le [adinava|désavantage], et l'[nissarana|émancipation] par rapport à ces six [indriya|facultés], on dit de lui qu'il est un [ariyasavaka|noble disciple] [sotapanna|parvenu-au-courant], délivré des [vinipata|mondes inférieurs], infailliblement destiné à l'[sambodhi|éveil]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "kaya",
+    "mana",
+    "ariyasavaka",
+    "yathabhutam",
+    "samudaya",
+    "assada",
+    "adinava",
+    "nissarana",
+    "sotapanna",
+    "vinipata",
+    "sambodhi"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

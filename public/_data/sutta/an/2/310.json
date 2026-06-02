@@ -1,0 +1,703 @@
+{
+  "identifier": "AN 2.310",
+  "plTitle": "Rāga Peyyāla",
+  "frTitle": "Les répétitions commençant par l'avidité",
+  "description": "Une série de 170 répétitions qui soulignent l'importance de la Tranquillité (samatha) et de la Vision Discernante (vipassanā).",
+  "body": [
+    {
+      "pl": "Rāga Peyyāla[@nl]310. “rāgassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'avidité[@nl]310. Pour la [abhinna|connaissance directe] de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "311. “rāgassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "311. Pour la compréhension complète de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "312. rāgassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "312. Pour la destruction complète de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "313. rāgassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "313. Pour l'abandon de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "314. rāgassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "314. Pour la destruction de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "315. rāgassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "315. Pour l'extinction de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "316. rāgassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "316. Pour la [viraga|disparition] de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "317. rāgassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "317. Pour la [nirodha|cessation] de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "318. rāgassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "318. Pour le [caga|renoncement] à l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "319. rāgassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. rāgassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "319. Pour la renonciation de l'[raga|avidité], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'[raga|avidité], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Dosa Peyyāla[@nl]320. “dosassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'aversion[@nl]320. Pour la [abhinna|connaissance directe] de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "321. “dosassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "321. Pour la compréhension complète de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "322. dosassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "322. Pour la destruction complète de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "323. dosassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "323. Pour l'abandon de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "324. dosassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "324. Pour la destruction de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "325. dosassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "325. Pour l'extinction de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "326. dosassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "326. Pour la [viraga|disparition] de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "327. dosassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "327. Pour la [nirodha|cessation] de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "328. dosassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "328. Pour le [caga|renoncement] à l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "329. dosassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti. ",
+      "fr": "329. Pour la renonciation de l'[dosa|aversion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'[dosa|aversion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Moha Peyyāla[@nl]330. “mohassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la délusion[@nl]330. Pour la [abhinna|connaissance directe] de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "331. “mohassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "331. Pour la compréhension complète de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "332. mohassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "332. Pour la destruction complète de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "333. mohassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "333. Pour l'abandon de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "334. mohassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "334. Pour la destruction de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "335. mohassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "335. Pour l'extinction de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "336. mohassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "336. Pour la [viraga|disparition] de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "337. mohassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "337. Pour la [nirodha|cessation] de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "338. mohassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "338. Pour le [caga|renoncement] à la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "339. mohassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mohassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "339. Pour la renonciation de la [moha|délusion], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la [moha|délusion], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Kodha Peyyāla[@nl]340. “kodhassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la colère[@nl]340. Pour la [abhinna|connaissance directe] de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "341. “kodhassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "341. Pour la compréhension complète de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "342. kodhassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "342. Pour la destruction complète de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "343. kodhassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "343. Pour l'abandon de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "344. kodhassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "344. Pour la destruction de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "345. kodhassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "345. Pour l'extinction de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "346. kodhassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "346. Pour la [viraga|disparition] de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "347. kodhassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "347. Pour la [nirodha|cessation] de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "348. kodhassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "348. Pour le [caga|renoncement] à la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "349. kodhassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. kodhassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "349. Pour la renonciation de la colère, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la colère, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Upanāha Peyyāla[@nl]350. “upanāhassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'hostilité[@nl]350. Pour la [abhinna|connaissance directe] de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "351. “upanāhassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "351. Pour la compréhension complète de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "352. upanāhassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "352. Pour la destruction complète de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "353. upanāhassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "353. Pour l'abandon de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "354. upanāhassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "354. Pour la destruction de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "355. upanāhassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "355. Pour l'extinction de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "356. upanāhassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "356. Pour la [viraga|disparition] de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "357. upanāhassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "357. Pour la [nirodha|cessation] de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "358. upanāhassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "358. Pour le [caga|renoncement] à l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "359. upanāhassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. upanāhassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "359. Pour la renonciation de l'hostilité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'hostilité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Makkha Peyyāla[@nl]360. “makkhassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur le dénigrement[@nl]360. Pour la [abhinna|connaissance directe] du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "361. “makkhassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "361. Pour la compréhension complète du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "362. makkhassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "362. Pour la destruction complète du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "363. makkhassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "363. Pour l'abandon du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "364. makkhassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "364. Pour la destruction du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "365. makkhassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "365. Pour l'extinction du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "366. makkhassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "366. Pour la [viraga|disparition] du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "367. makkhassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "367. Pour la [nirodha|cessation] du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "368. makkhassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "368. Pour le [caga|renoncement]au dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] au dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "369. makkhassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. makkhassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "369. Pour la renonciation du dénigrement, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation du dénigrement, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Paḷāsa Peyyāla[@nl]370. “paḷāsassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'insolence[@nl]370. Pour la [abhinna|connaissance directe] de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "371. “paḷāsassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "371. Pour la compréhension complète de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "372. paḷāsassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "372. Pour la destruction complète de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "373. paḷāsassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "373. Pour l'abandon de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "374. paḷāsassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "374. Pour la destruction de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "375. paḷāsassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "375. Pour l'extinction de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "376. paḷāsassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "376. Pour la [viraga|disparition] de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "377. paḷāsassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "377. Pour la [nirodha|cessation] de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "378. paḷāsassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "378. Pour le [caga|renoncement] à l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "379. paḷāsassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. paḷāsassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "379. Pour la renonciation de l'insolence, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'insolence, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Issā Peyyāla[@nl]380. “issāya, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la jalousie[@nl]380. Pour la [abhinna|connaissance directe] de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "381. “issāya, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "381. Pour la compréhension complète de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "382. issāya, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "382. Pour la destruction complète de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "383. issāya, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "383. Pour l'abandon de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "384. issāya, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "384. Pour la destruction de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "385. issāya, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "385. Pour l'extinction de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "386. issāya, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "386. Pour la [viraga|disparition] de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "387. issāya, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "387. Pour la [nirodha|cessation] de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "388. issāya, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "388. Pour le [caga|renoncement] à la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "389. issāya, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. issāya, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "389. Pour la renonciation de la jalousie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la jalousie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Macchariya Peyyāla[@nl]390. “macchariyassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'avarice[@nl]390. Pour la [abhinna|connaissance directe] de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "391. “macchariyassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "391. Pour la compréhension complète de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "392. macchariyassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "392. Pour la destruction complète de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "393. macchariyassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "393. Pour l'abandon de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "394. macchariyassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "394. Pour la destruction de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "395. macchariyassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "395. Pour l'extinction de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "396. macchariyassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "396. Pour la [viraga|disparition] de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "397. macchariyassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "397. Pour la [nirodha|cessation] de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "398. macchariyassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "398. Pour le [caga|renoncement] à l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "399. macchariyassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. macchariyassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "399. Pour la renonciation de l'avarice, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'avarice, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Māyā Peyyāla[@nl]400. “māyāya, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'hypocrisie[@nl]400. Pour la [abhinna|connaissance directe] de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "401. “māyāya, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "401. Pour la compréhension complète de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "402. māyāya, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "402. Pour la destruction complète de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "403. māyāya, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "403. Pour l'abandon de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "404. māyāya, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "404. Pour la destruction de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "405. māyāya, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "405. Pour l'extinction de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "406. māyāya, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "406. Pour la [viraga|disparition] de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "407. māyāya, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "407. Pour la [nirodha|cessation] de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "408. māyāya, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "408. Pour le [caga|renoncement] à l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "409. māyāya, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. māyāya, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "409. Pour la renonciation de l'hypocrisie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'hypocrisie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Sāṭheyya Peyyāla[@nl]410. “sāṭheyyassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la tricherie[@nl]410. Pour la [abhinna|connaissance directe] de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "411. “sāṭheyyassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "411. Pour la compréhension complète de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "412. sāṭheyyassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "412. Pour la destruction complète de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "413. sāṭheyyassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "413. Pour l'abandon de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "414. sāṭheyyassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "414. Pour la destruction de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "415. sāṭheyyassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "415. Pour l'extinction de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "416. sāṭheyyassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "416. Pour la [viraga|disparition] de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "417. sāṭheyyassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "417. Pour la [nirodha|cessation] de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "418. sāṭheyyassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "418. Pour le [caga|renoncement] à la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "419. sāṭheyyassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sāṭheyyassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "419. Pour la renonciation de la tricherie, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la tricherie, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Thambha Peyyāla[@nl]420. “thambhassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'obstination[@nl]420. Pour la [abhinna|connaissance directe] de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "421. “thambhassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "421. Pour la compréhension complète de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "422. thambhassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "422. Pour la destruction complète de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "423. thambhassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "423. Pour l'abandon de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "424. thambhassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "424. Pour la destruction de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "425. thambhassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "425. Pour l'extinction de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "426. thambhassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "426. Pour la [viraga|disparition] de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "427. thambhassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "427. Pour la [nirodha|cessation] de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "428. thambhassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "428. Pour le [caga|renoncement] à l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "429. thambhassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. thambhassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "429. Pour la renonciation de l'obstination, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'obstination, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Sārambha Peyyāla[@nl]430. “sārambhassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la brutalité[@nl]430. Pour la [abhinna|connaissance directe] de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "431. “sārambhassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "431. Pour la compréhension complète de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "432. sārambhassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "432. Pour la destruction complète de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "433. sārambhassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "433. Pour l'abandon de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "434. sārambhassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "434. Pour la destruction de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "435. sārambhassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "435. Pour l'extinction de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "436. sārambhassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "436. Pour la [viraga|disparition] de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "437. sārambhassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "437. Pour la [nirodha|cessation] de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "438. sārambhassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "438. Pour le [caga|renoncement] à la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "439. sārambhassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. sārambhassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "439. Pour la renonciation de la brutalité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la brutalité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Māna Peyyāla[@nl]440. “mānassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'orgueil[@nl]440. Pour la [abhinna|connaissance directe] de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "441. “mānassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "441. Pour la compréhension complète de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "442. mānassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "442. Pour la destruction complète de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "443. mānassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "443. Pour l'abandon de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "444. mānassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "444. Pour la destruction de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "445. mānassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "445. Pour l'extinction de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "446. mānassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "446. Pour la [viraga|disparition] de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "447. mānassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "447. Pour la [nirodha|cessation] de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "448. mānassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "448. Pour le [caga|renoncement] à l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "449. mānassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. mānassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "449. Pour la renonciation de l'[maana|orgueil], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'[maana|orgueil], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Atimāna Peyyāla[@nl]450. “atimānassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la supériorité[@nl]450. Pour la [abhinna|connaissance directe] de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "451. “atimānassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "451. Pour la compréhension complète de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "452. atimānassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "452. Pour la destruction complète de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "453. atimānassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "453. Pour l'abandon de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "454. atimānassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "454. Pour la destruction de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "455. atimānassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "455. Pour l'extinction de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "456. atimānassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "456. Pour la [viraga|disparition] de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "457. atimānassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "457. Pour la [nirodha|cessation] de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "458. atimānassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "458. Pour le [caga|renoncement] à la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "459. atimānassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. atimānassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "459. Pour la renonciation de la supériorité, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la supériorité, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Mada Peyyāla[@nl]460. “dosassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur l'intoxication[@nl]460. Pour la [abhinna|connaissance directe] de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "461. “dosassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "461. Pour la compréhension complète de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "462. dosassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "462. Pour la destruction complète de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "463. dosassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "463. Pour l'abandon de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "464. dosassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "464. Pour la destruction de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "465. dosassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "465. Pour l'extinction de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "466. dosassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "466. Pour la [viraga|disparition] de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "467. dosassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "467. Pour la [nirodha|cessation] de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "468. dosassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "468. Pour le [caga|renoncement] à l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "469. dosassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. dosassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "469. Pour la renonciation de l'intoxication, [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de l'intoxication, [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "Pamāda Peyyāla[@nl]470. “pamādassa, bhikkhave, abhiññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "Répétitions sur la négligence[@nl]470. Pour la [abhinna|connaissance directe] de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [abhinna|connaissance directe] de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "471. “pamādassa, bhikkhave, pariññāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, pariññā ime dve dhammā bhāvetabbā.",
+      "fr": "471. Pour la compréhension complète de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la compréhension complète de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "472. pamādassa, bhikkhave, parikkhayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, parikkhayā ime dve dhammā bhāvetabbā.",
+      "fr": "472. Pour la destruction complète de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction complète de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "473. pamādassa, bhikkhave, pahānāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, pahānā ime dve dhammā bhāvetabbā.",
+      "fr": "473. Pour l'abandon de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'abandon de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "474. pamādassa, bhikkhave, khayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, khayā ime dve dhammā bhāvetabbā.",
+      "fr": "474. Pour la destruction de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la destruction de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "475. pamādassa, bhikkhave, vayāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, vayā ime dve dhammā bhāvetabbā.",
+      "fr": "475. Pour l'extinction de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'extinction de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "476. pamādassa, bhikkhave, virāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, virāgā ime dve dhammā bhāvetabbā.",
+      "fr": "476. Pour la [viraga|disparition] de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [viraga|disparition] de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "477. pamādassa, bhikkhave, nirodhāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, nirodhā ime dve dhammā bhāvetabbā.",
+      "fr": "477. Pour la [nirodha|cessation] de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la [nirodha|cessation] de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "478. pamādassa, bhikkhave, cāgāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, cāgā ime dve dhammā bhāvetabbā.",
+      "fr": "478. Pour le [caga|renoncement] à la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour l'[caga|renoncement] à la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    },
+    {
+      "pl": "479. pamādassa, bhikkhave, paṭinissaggāya dve dhammā bhāvetabbā. katame dve? samatho ca vipassanā ca. pamādassa, bhikkhave, paṭinissaggāya ime dve dhammā bhāvetabbā”ti.",
+      "fr": "479. Pour la renonciation de la [dosa|négligence], [bhikkhu|mendiants], deux [dhamma|choses] sont à cultiver. Quelles sont ces deux? La [samatha|Tranquillité] et la [vipassana|Vision Discernante]. Pour la renonciation de la [dosa|négligence], [bhikkhu|mendiants], ces deux [dhamma|choses] sont à cultiver."
+    }
+  ],
+  "keywords": [
+    "abhinna",
+    "raga",
+    "bhikkhu",
+    "dhamma",
+    "samatha",
+    "vipassana",
+    "viraga",
+    "nirodha",
+    "caga",
+    "dosa",
+    "moha",
+    "maana"
+  ],
+  "translator": "Rémy"
+}

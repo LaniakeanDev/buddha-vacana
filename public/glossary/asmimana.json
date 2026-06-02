@@ -1,0 +1,92 @@
+{
+  "id": "asmimana",
+  "title": "asmimāna",
+  "breakdown": "[[4@m_asmi|asmi]+[maana|māna]]",
+  "translation": ["la prétention [i]«Je suis»[/i]."],
+  "body": [
+    {
+      "p": [
+        "Le terme [i]asmi·māna[/i] peut être considéré comme une variante de [maana|māna], qui constitue l'un des cinq [samyojana|saṃyojana]s ne disparaissant qu'avec [arahatta|arahatta], ainsi que l'un des sept [anusaya|anusaya]s. Il s'agit donc essentiellement de quelque chose dont il faut se débarrasser. ",
+        "À cet égard, [aniccasanna|anicca·saññā] appliquée aux cinq [upadanakkhandha|upādāna·kkhandha]s est souvent présentée comme le moyen d'éradiquer [i]asmi·māna[/i], e.g.:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 22.102[/b]",
+        "text": [
+          {
+            "pl": "“kathaṃ bhāvitā ca, bhikkhave, aniccasaññā kathaṃ bahulīkatā... sabbaṃ asmimānaṃ samūhanati? ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā... iti saññā... iti saṅkhārā... iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. evaṃ bhāvitā kho, bhikkhave, aniccasaññā evaṃ bahulīkatā... sabbaṃ asmimānaṃ samūhanatī”ti.",
+            "fr": "Et comment, mendiants, la perception de l'impermanence est-elle développée et pratiquée souvent, de telle manière à éradiquer... toute prétention 'Je suis'? [i]«Voici la forme, voici l'apparition de la Forme, voici l'extinction de la Forme; voici le Ressenti... voici la Perception... voici les Fabrications... voici la Conscience, voici l'apparition de la Conscience, voici l'extinction de la Conscience':[/i] voici comment la perception de l'impermanence est développée et pratiquée souvent, de telle manière à éradiquer... toute prétention 'Je suis'."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans une déclaration équivalente, le terme [i]asmi·māna[/i] est mentionné comme s'appliquant aux cinq [upadanakkhandha|upādāna·kkhandha]s, et l'expression [aniccasanna|anicca·saññā] est remplacée par [i]«udayabbay·ānupassī' (observant l'apparition et l'extinction)[/i]."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]MN 122[/b]",
+        "text": [
+          {
+            "pl": "pañca kho ime, ānanda, upādānakkhandhā yattha bhikkhunā udayabbayānupassinā vihātabbaṃ. ‘iti rūpaṃ iti rūpassa samudayo iti rūpassa atthaṅgamo, iti vedanā... iti saññā... iti saṅkhārā... iti viññāṇaṃ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamo’ti. tassa imesu pañcasu upādānakkhandhesu udayabbayānupassino viharato yo pañcasu upādānakkhandhesu asmimāno so pahīyati.",
+            "fr": "Il y a ces cinq accumulations d'attachement, dont un mendiant devrait rester à observer l'apparition et l'extinction: [i]«voici la Forme, voici l'apparition de la Forme, voici l'extinction de la Forme; voici le Ressenti... voici la Perception... voici les Fabrications... voici la Conscience, voici l'apparition de la Conscience, voici l'extinction de la Conscience'.[/i] Tandis qu'il reste à observer l'apparition et l'extinction dans ces cinq accumulations d'attachement, il abandonne la prétention 'Je suis' par rapport aux cinq accumulations d'attachement."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "En fait, il est révélé à [@$AN 9.1] qu'[aniccasanna|anicca·saññā] ne mène pas directement à [i]asmi·māna·samugghāta (éradication de la prétention 'Je suis')[/i]: [aniccasanna|anicca·saññā] mène dans un premier temps à [anattasanna|anatta·saññā], qui est la cause réelle de cette éradication:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 9.1]",
+        "text": [
+          {
+            "pl": "Aniccasaññā bhāvetabbā asmimānasamugghātāya. Aniccasaññino, bhikkhave, anattasaññā saṇṭhāti. anattasaññī asmimānasamugghātaṃ pāpuṇāti diṭṭheva dhamme nibbānan”ti",
+            "fr": "La perception de l'impermanence devrait être développée pour l'éradication de la prétention 'Je suis'. Chez celui qui perçoit l'impermanence, la perception du non-soi s'installe. Celui qui perçoit le non-soi atteint l'éradication de la prétention 'Je suis', [c'est à dire] l'Extinction dans ce monde visible."
+          }
+        ]
+      }
+    },
+    { "p": ["Un outil complémentaire pour abandonner [i]asmi·māna[/i] est [kayagatasati|kāyagatāsati]:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 1.588]",
+        "text": [
+          {
+            "pl": "ekadhamme, bhikkhave, bhāvite bahulīkate asmimāno pahīyati. katamasmiṃ ekadhamme? kāyagatāya satiyā.",
+            "fr": "Il y a une chose, mendiants, qui lorsqu'elle est développée et pratiquée fréquemment, la prétention 'Je suis' est abandonnée. Quelle est cette chose? La présence de l'esprit dirigée vers le corps."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "AN 6.29, qui présente une liste singulière d'[anussati|anussati]s, fournit une information plus spécifique: ce sont les neuf contemplations de [sivathika|sivathika]s qui aident à éradiquer [i]asmi·māna[/i]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 6.29[/b]",
+        "text": [
+          {
+            "pl": "so imameva kāyaṃ evaṃ upasaṃharati: ‘ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ti. idaṃ, bhante, anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahulīkataṃ asmimānasamugghātāya saṃvattati.",
+            "fr": "Il compare ce même corps avec lui [le cadavre]: [i]«ce corps a également cette nature, il deviendra comme cela, il n'en n'est pas exempt.»[/i] Ce sujet de remémoration, lorsqu'il est développé et pratiqué souvent de cette manière, mène à l'éradication de la prétention 'Je suis'."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "On trouve dans les souttas plusieurs évocations illustratives d'[i]asmi·māna[/i] ou de son éradication. À SN 35.214, le pratiquant est comparé à une bûche qui flotte sur un fleuve et qui ira jusqu'à l'océan (qui représente [nibbana|nibbāna]), si elle n'est pas arrêtée en route. L'un des obstacles possibles est [i]asmi·māna[/i], qui est comparé à 'se trouver échoué sur un haut-fond' [i](thale ussādo)[/i].",
+        "À AN 4.38, après l'éradication d'[i]asmi·māna[/i], un mendiant est appelé [i]«patilīna»[/i], qui pourrait signifier 'réservé', 'calme', 'non ostentatoire', 'sans prétention', et que le commentaire explique comme signifiant 'caché' ou 's'étant isolé'.",
+        "À AN 5.71, celui qui a abandonné [i]asmi·māna[/i] est appelé un [ariya|ariya] 'dont la bannière est descendue' [i](panna·ddhajo)[/i], 'dont le fardeau est posé' [i](panna·bhāra)[/i] et qui est 'détaché' ou 'désentravé' [i](visaṃyutta)[/i]."
+      ]
+    }
+  ]
+}

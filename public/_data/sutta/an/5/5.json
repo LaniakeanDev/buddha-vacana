@@ -1,0 +1,47 @@
+{
+  "identifier": "AN 5.5",
+  "plTitle": "Sikkha Sutta",
+  "frTitle": "L'entraînement",
+  "description": "Le Dhamma est à bien des égards anti-intuitif. Ici, une personne qui passe par des états de mal-être manifestes peut très bien être en train de pratiquer correctement la voie menant à la fin du mal-être.",
+  "body": [
+    {
+      "pl": "“yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sikkhaṃ paccakkhāya hīnāyāvattati, tassa diṭṭheva dhamme pañca sahadhammikā vādānupātā gārayhā ṭhānā āgacchanti. katame pañca? ",
+      "fr": "Tout bhikkhu ou toute mendiante qui, ayant abandonné l'[sikkha|entraînement], retourne à la vie inférieure, peut rencontrer [ditthevadhamme|dans ce monde visible] cinq reproches justifiés, autant de raisons de se faire critiquer. Quels sont ces cinq?"
+    },
+    {
+      "pl": "saddhāpi nāma te nāhosi kusalesu dhammesu, hirīpi nāma te nāhosi kusalesu dhammesu, ottappampi nāma te nāhosi kusalesu dhammesu, vīriyampi nāma te nāhosi kusalesu dhammesu, paññāpi nāma te nāhosi kusalesu dhammesu.",
+      "fr": "[i]“Tu n'as pas eu de [saddha|foi] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu n'as pas eu de [hiri|honte morale] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu n'as pas eu de [ottappa|crainte morale] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu n'as pas mis d'[viriya|énergie] pour les [dhamma|états mentaux] [kusala|avantageux],' 'tu n'as pas eu de [panna|discernement] dans les [dhamma|états mentaux] [kusala|avantageux].”[/i]"
+    },
+    {
+      "pl": "yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sikkhaṃ paccakkhāya hīnāyāvattati, tassa diṭṭheva dhamme ime pañca sahadhammikā vādānupātā gārayhā ṭhānā āgacchanti.",
+      "fr": "Tout bhikkhu ou toute mendiante qui, ayant abandonné l'[sikkha|entraînement], retourne à la vie inférieure, peut rencontrer [ditthevadhamme|dans ce monde visible] ces cinq reproches justifiés, autant de raisons de se faire critiquer."
+    },
+    {
+      "pl": "“yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sahāpi dukkhena sahāpi domanassena assumukho rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, tassa diṭṭheva dhamme pañca sahadhammikā pāsaṃsā ṭhānā āgacchanti. katame pañca?",
+      "fr": "Tout bhikkhu ou toute mendiante qui suit la [brahmacariya|vie brahmique] complète et pure, même si c'est dans le [dukkha|mal-être], même si c'est avec [domanassa|déplaisance mentale], les larmes au visage, en pleurs, peut rencontrer [ditthevadhamme|dans ce monde visible] cinq raisons justifiées d'être complimenté. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "saddhāpi nāma te ahosi kusalesu dhammesu, hirīpi nāma te ahosi kusalesu dhammesu, ottappampi nāma te ahosi kusalesu dhammesu, vīriyampi nāma te ahosi kusalesu dhammesu, paññāpi nāma te ahosi kusalesu dhammesu.",
+      "fr": "[i]“Tu as eu de la [saddha|foi] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu as eu de la [hiri|honte morale] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu as eu du [ottappa|crainte morale] envers les [dhamma|états mentaux] [kusala|avantageux],' 'tu as mis de l'[viriya|effort] pour les [dhamma|états mentaux] [kusala|avantageux],' 'tu as eu du [panna|discernement] dans les [dhamma|états mentaux] [kusala|avantageux].”[/i]"
+    },
+    {
+      "pl": "yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sahāpi dukkhena sahāpi domanassena assumukho rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, tassa diṭṭheva dhamme ime pañca sahadhammikā pāsaṃsā ṭhānā āgacchantī”ti.",
+      "fr": "Tout bhikkhu ou toute mendiante qui suit la [brahmacariya|vie brahmique] complète et pure, même si c'est dans le [dukkha|mal-être], même si c'est avec [domanassa|déplaisance mentale], les larmes au visage, en pleurs, peut rencontrer [ditthevadhamme|dans ce monde visible] ces cinq raisons justifiées d'être complimenté."
+    }
+  ],
+  "keywords": [
+    "sikkha",
+    "ditthevadhamme",
+    "saddha",
+    "dhamma",
+    "kusala",
+    "hiri",
+    "ottappa",
+    "viriya",
+    "panna",
+    "brahmacariya",
+    "dukkha",
+    "domanassa"
+  ],
+  "translator": "Rémy"
+}

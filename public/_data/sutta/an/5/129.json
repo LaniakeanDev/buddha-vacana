@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 5.129",
+  "plTitle": "Parikuppa Sutta",
+  "frTitle": "Complètement instables",
+  "description": "Cinq individus voués à un mal-être extrême et pour qui personne ne peut rien.",
+  "body": [
+    {
+      "pl": "Pañcime, bhikkhave, āpāyikā nerayikā parikuppā atekicchā. Katame pañca? ",
+      "fr": "Ces cinq [individus], [bhikkhu|mendiants], sont voués à une existence infortunée, à l'[niraya|enfer], ils sont complètement instables et incurables. Quels sont ces cinq?"
+    },
+    {
+      "pl": "Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṃ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, saṅgho bhinno hoti.",
+      "fr": "Celui qui a pris la vie de (tué) sa mère, celui qui a pris la vie de son père, celui qui a pris la vie dun [arahant|Méritant], celui qui, avec un esprit haineux, a fait couler le sang du [tathagata|Tathagata], et celui qui a créé une division de la [sangha|Communauté]."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, pañca āpāyikā nerayikā parikuppā atekicchā ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces cinq [individus] qui sont voués à une existence infortunée, à l'[niraya|enfer], qui sont complètement instables et incurables."
+    }
+  ],
+  "keywords": ["bhikkhu", "niraya", "arahant", "tathagata", "sangha"],
+  "translator": "Rémy"
+}

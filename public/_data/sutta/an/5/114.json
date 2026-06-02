@@ -1,0 +1,60 @@
+{
+  "identifier": "AN 5.114",
+  "plTitle": "Andhakavinda Sutta",
+  "frTitle": "À Andhakavinda",
+  "description": "Cinq exhortations au moyen desquelles le Bouddha demande à Ānanda d'encourager les mendiants néophytes.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā magadhesu viharati andhakavinde. atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Magadhans, à Andhakavinda. Ce jour-là, le [ayasma|vénérable] Ānanda vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois qu'il fut assis d'un côté, le [bhagava|Fortuné] lui dit:"
+    },
+    {
+      "pl": "“ye te, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū pañcasu dhammesu samādapetabbā nivesetabbā patiṭṭhāpetabbā. katamesu pañcasu?",
+      "fr": "Les [bhikkhu|mendiants], Ānanda, qui sont néophytes, [pabbaja|ayant quitté le foyer] depuis peu, qui sont récemment venus à cet [dhamma|Enseignement] & [vinaya|Discipline], tu devrais les exhorter, les installer et les établir dans cinq [dhamma|choses]. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "‘etha tumhe, āvuso, sīlavā hotha, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino, samādāya sikkhatha sikkhāpadesū’ti. iti pātimokkhasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[i]“Venez, mes amis, soyez vertueux, restez restreints par la [samvara|restreinte] du [patimokkha|Pātimokkha], accomplis en [bonne] conduite et dans votre domaine [d'activité], voyant le danger dans la moindre des fautes, et les ayant entreprises, entraînez-vous avec les [sikkhapada|règles de l'entraînement].”[/i] Ainsi devraient-ils être exhortés, installés et établis dans la [samvara|restreinte] du [patimokkha|Pātimokkha]."
+    },
+    {
+      "pl": "“‘etha tumhe, āvuso, indriyesu guttadvārā viharatha ārakkhasatino nipakkasatino, sārakkhitamānasā satārakkhena cetasā samannāgatā’ti. iti indriyasaṃvare samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[i]“Venez, mes amis, restez [indriyesuguttadvarata|protégés à l'entrée de ses facultés sensorielles], soyez protégés par la [sati|présence d'esprit], fervents dans la [sati|présence d'esprit], protégés [mana|mentalement], avec un [citta|esprit] doué de la protection [fournie] par la [sati|présence d'esprit].”[/i] Ainsi devraient-ils être exhortés, installés et établis dans la [samvara|restreinte] des facultés sensorielles."
+    },
+    {
+      "pl": "“‘etha tumhe, āvuso, appabhassā hotha, bhasse pariyantakārino’ti. iti bhassapariyante samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[i]“Venez, mes amis, soyez peu bavards, fixez une limite à vos conversations.”[/i] Ainsi devraient-ils être exhortés, installés et établis dans la limitation des conversations."
+    },
+    {
+      "pl": "“‘etha tumhe, āvuso, āraññikā hotha, araññavanapatthāni pantāni senāsanāni paṭisevathā’ti. iti kāyavūpakāse samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[i]“Venez, mes amis, séjournez en [aranna|forêt], fréquentez des [senasana|gîtes] éloignés en pleine [aranna|forêt].”[/i] Ainsi devraient-ils être exhortés, installés et établis dans l'isolement en [kaya|corps]."
+    },
+    {
+      "pl": "“‘etha tumhe, āvuso, sammādiṭṭhikā hotha sammādassanena samannāgatā’ti. iti sammādassane samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[i]“Venez, mes amis, ayez la [sammaditthi|vue correcte], soyez doués d'une vision correcte.”[/i] Ainsi devraient-ils être exhortés, installés et établis dans la vision correcte."
+    },
+    {
+      "pl": "ye te, ānanda, bhikkhū navā acirapabbajitā adhunāgatā imaṃ dhammavinayaṃ, te vo, ānanda, bhikkhū imesu pañcasu dhammesu samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti.",
+      "fr": "Les [bhikkhu|mendiants], Ānanda, qui sont nouveaux, [pabbaja|ayant quitté le foyer] depuis peu, qui sont récemment venus à cet [dhamma|Enseignement] & [vinaya|Discipline], tu devrais les exhorter, les installer et les établir dans ces cinq [dhamma|choses]."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "ayasma",
+    "bhikkhu",
+    "pabbaja",
+    "dhamma",
+    "vinaya",
+    "samvara",
+    "patimokkha",
+    "sikkhapada",
+    "igdt",
+    "sati",
+    "mana",
+    "citta",
+    "aranna",
+    "senasana",
+    "kaya",
+    "sammaditthi"
+  ],
+  "translator": "Rémy"
+}

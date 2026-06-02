@@ -1,11 +1,19 @@
 'use strict';
-// import { ISuttaCardData } from '@/types/exports';
+var __importDefault =
+  (this && this.__importDefault) ||
+  function (mod) {
+    return mod && mod.__esModule ? mod : { default: mod };
+  };
 Object.defineProperty(exports, '__esModule', { value: true });
 exports.isCorrectKNSuttaId = exports.isKNBook = exports.isToolCardDataArray = void 0;
 exports.isIDisplaySuttaCardDataArray = isIDisplaySuttaCardDataArray;
 exports.isISuttaData = isISuttaData;
 exports.isISuttaDataArray = isISuttaDataArray;
+exports.isIGlossEntryBodyParagsSection = isIGlossEntryBodyParagsSection;
 exports.isIGlossEntryData = isIGlossEntryData;
+// import { ISuttaCardData } from '@/types/exports';
+const fs_1 = __importDefault(require('fs'));
+const path_1 = __importDefault(require('path'));
 const hasRequiredProperties = (obj, keys) => {
   return keys.every((key) => key in obj);
 };
@@ -146,6 +154,7 @@ function isISuttaData(data) {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
+  const logPath = path_1.default.join(process.cwd(), 'scripts/log.txt');
   // Type assertion to access properties
   const potentialSutta = data;
   // Check required top-level properties
@@ -153,29 +162,41 @@ function isISuttaData(data) {
     typeof potentialSutta.identifier !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
-    typeof potentialSutta.description !== 'string'
+    typeof potentialSutta.description !== 'string' ||
+    typeof potentialSutta.translator !== 'string'
   ) {
+    logError(logPath, 'top level type error');
     return false;
   }
   // Check body is an array
   if (!Array.isArray(potentialSutta.body)) {
+    logError(logPath, 'body is not array');
     return false;
   }
   // Validate each block in body
   for (const block of potentialSutta.body) {
     if (typeof block !== 'object' || block === null) {
+      logError(logPath, `${block} is null or not an object`);
       return false;
     }
     // Check required block properties
     if (typeof block.fr !== 'string' || typeof block.pl !== 'string') {
+      logError(logPath, `${block.pl} | ${block.fr} misses fr or pl`);
       return false;
     }
   }
-  if (!Array.isArray(potentialSutta.keywords)) return false;
-  for (const keyword of potentialSutta.keywords) {
-    if (typeof keyword !== 'string') return false;
-  }
+  // if (!Array.isArray(potentialSutta.keywords)) return false;
+  // for (const keyword of potentialSutta.keywords) {
+  //   if (typeof keyword !== 'string') return false;
+  // }
   return true;
+}
+function logError(outputFile, message) {
+  try {
+    fs_1.default.writeFileSync(outputFile, message, 'utf8');
+  } catch (error) {
+    console.error('Failed to write to log file:', error);
+  }
 }
 /**
  * Check that the contents are correctly structured as an array of ISuttaData
@@ -189,13 +210,52 @@ function isISuttaDataArray(data) {
   }
   return data.every((item) => isISuttaData(item));
 }
+function isISuttaBlock(data) {
+  const potentialISuttaBlock = data;
+  if (typeof potentialISuttaBlock.pl !== 'string' || typeof potentialISuttaBlock.fr !== 'string') return false;
+  return true;
+}
+function isIGlossEntryBodyParagsSection(data) {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyParagsSection = data;
+  if (!Array.isArray(potentialGlossEntryBodyParagsSection.parags)) {
+    return false;
+  }
+  const parags = potentialGlossEntryBodyParagsSection.parags;
+  return parags.every((parag) => typeof parag == 'string');
+}
+function isIGlossEntryBodyQuoteSection(data) {
+  if (typeof data !== 'object' || data === null) {
+    return false;
+  }
+  const potentialGlossEntryBodyQuoteSection = data;
+  if (!potentialGlossEntryBodyQuoteSection.quote) return false;
+  const potentialGlossEntryBodyQuoteSectionQuote = potentialGlossEntryBodyQuoteSection.quote;
+  if (typeof potentialGlossEntryBodyQuoteSectionQuote.source !== 'string') return false;
+  if (!Array.isArray(potentialGlossEntryBodyQuoteSectionQuote.parags)) {
+    return false;
+  }
+  return potentialGlossEntryBodyQuoteSectionQuote.parags.every((section) => isISuttaBlock(section));
+}
 function isIGlossEntryData(data) {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
   const potentialGlossEntry = data;
-  if (typeof potentialGlossEntry.id !== 'string' || typeof potentialGlossEntry.content !== 'string') {
+  if (typeof potentialGlossEntry.id !== 'string') {
     return false;
   }
-  return true;
+  if (!potentialGlossEntry.content) return false;
+  const potentialGlossContent = potentialGlossEntry.content;
+  if (typeof potentialGlossContent.title !== 'string' || typeof potentialGlossContent.translation !== 'string')
+    return false;
+  const potentialGlossContentBody = potentialGlossContent.body;
+  if (!Array.isArray(potentialGlossContentBody)) {
+    return false;
+  }
+  return potentialGlossContentBody.every(
+    (block) => isIGlossEntryBodyParagsSection(block) || isIGlossEntryBodyQuoteSection(block),
+  );
 }

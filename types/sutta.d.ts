@@ -9,6 +9,7 @@ interface ISuttaData {
   frTitle: string;
   description: string;
   body: ISuttaBlock[];
+  translator: string;
   keywords: string[];
 }
 

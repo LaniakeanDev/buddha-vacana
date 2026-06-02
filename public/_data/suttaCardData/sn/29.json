@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "identifier": "SN 29.1",
+    "plTitle": "Suddhika Sutta",
+    "frTitle": "Version simple",
+    "description": "Quatre types de nagas selon leur type de naissance.",
+    "keywords": ["bhikkhu", "naga"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 0
+  }
+]

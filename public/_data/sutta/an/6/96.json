@@ -1,0 +1,33 @@
+{
+  "identifier": "AN 6.96",
+  "plTitle": "Pātubhāva Sutta",
+  "frTitle": "Rares manifestations",
+  "description": "Six choses qui sont rares dans le monde.",
+  "body": [
+    {
+      "pl": "“channaṃ, bhikkhave, pātubhāvo dullabho lokasmiṃ. katamesaṃ channaṃ? ",
+      "fr": "Il y a, [bhikkhu|mendiants], six manifestations qui sont rares dans le [loka|monde]. Quelles sont ces six?"
+    },
+    {
+      "pl": "tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane paccājāti dullabhā lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando dullabho lokasmiṃ.",
+      "fr": "La manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé] est rare dans le [loka|monde], une personne qui expose l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata] est rare dans le [loka|monde], une renaissance dans la sphère des [ariya|nobles personnes] est rare dans le [loka|monde], l'absence de déficience dans les [indriya|facultés [sensorielles]] est rare dans le [loka|monde], l'intelligence et la perspicacité sont rares dans le [loka|monde], le désir du [dhamma|Dhamma] [kusala|avantageux] est rare dans le [loka|monde]."
+    },
+    {
+      "pl": "imesaṃ kho, bhikkhave, channaṃ pātubhāvo dullabho lokasmin”ti.",
+      "fr": "Ces six manifestations, [bhikkhu|mendiants], sont rares dans le [loka|monde]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "dhamma",
+    "vinaya",
+    "ariya",
+    "indriya",
+    "kusala"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 2.138 à 140",
+  "plTitle": "Dvedhamma Suttāni",
+  "frTitle": "Deux états",
+  "description": "Trois paires d'états mentaux.",
+  "body": [
+    {
+      "pl": "138. “dveme, bhikkhave, dhammā. katame dve? sacittavodānañca na ca kiñci loke upādiyati. ime kho, bhikkhave, dve dhammā”ti. ",
+      "fr": "138. [bhikkhu|Mendiants], il y a ces deux [dhamma|états]. Quels sont ces deux états? La purification de son propre [citta|esprit] et ne pas s'[upadana|attacher] à quoi que ce soit dans le [loka|monde]. Voici, [bhikkhu|mendiants], quels sont ces deux [dhamma|états]."
+    },
+    {
+      "pl": "139. “dveme, bhikkhave, dhammā. katame dve? kodho ca upanāho ca. ime kho, bhikkhave, dve dhammā”ti.",
+      "fr": "139. [bhikkhu|Mendiants], il y a ces deux [dhamma|états]. Quels sont ces deux états? La colère et le ressentiment. Voici, [bhikkhu|mendiants], quels sont ces deux [dhamma|états]."
+    },
+    {
+      "pl": "140. “dveme, bhikkhave, dhammā. katame dve? kodhavinayo ca upanāhavinayo ca. ime kho, bhikkhave, dve dhammā”ti.",
+      "fr": "140. [bhikkhu|Mendiants], il y a ces deux [dhamma|états]. Quels sont ces deux états? L'élimination de la colère et l'élimination du ressentiment. Voici, [bhikkhu|mendiants], quels sont ces deux [dhamma|états]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "citta", "upadana", "loka"],
+  "translator": "Sekha"
+}

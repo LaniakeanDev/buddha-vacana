@@ -1,0 +1,31 @@
+{
+  "identifier": "AN 3.85",
+  "plTitle": "Sekha Sutta",
+  "frTitle": "L'apprenant",
+  "description": "Dans ce soutta, on trouve une définition de ce qu'est 'quelqu'un en entraînement'.",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il lui dit:"
+    },
+    {
+      "pl": "“‘sekho, sekho’ti, bhante, vuccati. kittāvatā nu kho, bhante, sekho hotī”ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“[sekha|Quelqu'un en entraînement], [sekha|quelqu'un en entraînement]”[/i]. De quelle manière, [bhante|Bhanté], est-on [sekha|quelqu'un en entraînement]?"
+    },
+    {
+      "pl": "“sikkhatīti kho, bhikkhu, tasmā sekhoti vuccati. kiñca sikkhati? adhisīlampi sikkhati, adhicittampi sikkhati, adhipaññampi sikkhati. sikkhatīti kho, bhikkhu, tasmā sekhoti vuccatī”ti.",
+      "fr": "—C'est parce qu'on s'entraîne, [bhikkhu|mendiant], qu'on est appelé [i]“[sekha|quelqu'un en entraînement]”[/i]. Et à quoi s'entraîne-t-on? On [adhisilasikkha|s'entraîne à la vertu supérieure], on [adhicittasikkha|s'entraîne à l'esprit supérieur], on [adhipannasikkha|s'entraîne au discernement supérieur]. C'est parce qu'on s'entraîne, [bhikkhu|mendiant], qu'on est appelé [i]“[sekha|quelqu'un en entraînement]”[/i].»"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“[sekha",
+    "sekha",
+    "adhisilasikkha",
+    "adhicittasikkha",
+    "adhipannasikkha"
+  ],
+  "translator": "Rémy"
+}

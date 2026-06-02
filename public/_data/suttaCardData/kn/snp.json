@@ -1,0 +1,60 @@
+[
+  {
+    "identifier": "Snp 1.5",
+    "plTitle": "Cunda Sutta",
+    "frTitle": "La question de Tchounda",
+    "description": "Ayant apparemment été confronté à des mendiants corrompus, Tchounda demande au Bouddha quels sont les différents types de renonçants.",
+    "keywords": [
+      "Tchounda:]Je demande au sage rempli de [panna",
+      "dhamma",
+      "tanha",
+      "Le Fortuné:]Il y a quatre types de renonçants, et pas de cinquième,Ayant été pris pour témoin, je vais les expliquer.Il y a le vainqueur de la [magga",
+      "magga",
+      "Tchounda:]Quel est le vainqueur de la [magga",
+      "Le Fortuné:]Celui qui a traversé au-delà de la perplexité, qui a retiré la flèche [qui le blessait],Se plaisant à l'[nibbana",
+      "deva",
+      "bhikkhu",
+      "satima",
+      "anavajja",
+      "ariyasavaka",
+      "sutava",
+      "panna",
+      "saddha"
+    ],
+    "translator": "Rémy",
+    "nikaya": "kn",
+    "id": "1-5",
+    "readingTime": 2
+  },
+  {
+    "identifier": "Snp 2.10",
+    "plTitle": "Uṭṭhāna Sutta",
+    "frTitle": "Réveille-toi!",
+    "description": "Debout!",
+    "keywords": ["@v]L'impureté suit la négligence.[@v]Par [appamada", "vijja"],
+    "translator": "Rémy",
+    "nikaya": "kn",
+    "id": "2-10",
+    "readingTime": 0
+  },
+  {
+    "identifier": "Snp 2.4",
+    "plTitle": "Maṅgala Sutta",
+    "frTitle": "La prospérité",
+    "description": "Un [deva|déva] questionne le Bouddha, qui lui explique douze choses qui constituent la plus haute prospérité.",
+    "keywords": [
+      "bhagava",
+      "deva",
+      "[deva",
+      "le Bouddha:]Ne pas s'associer avec les sots, S'associer avec les hommes sages,Et rendre hommage à ceux qui en sont dignes, C'est la plus haute prospérité.Vivre dans un endroit convenable, Avoir effectué des actions méritoires dans le passé, Avoir soi-même des aspirations correctes,C'est la plus haute prospérité.Etre doué d'une vaste connaissance, De talents, être bien entraîné à la discipline,Et (faire preuve d')une parole agréable, C'est la plus haute prospérité.Supporter sa mère et son père, Etre bienveillant envers femme et enfants,Et ne pas avoir des occupations compliquées, C'est la plus haute prospérité.Etre généreux, vivre en accord avec le [dhamma",
+      "dhamma",
+      "samana",
+      "brahmacariya",
+      "nibbana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "2-4",
+    "readingTime": 2
+  }
+]

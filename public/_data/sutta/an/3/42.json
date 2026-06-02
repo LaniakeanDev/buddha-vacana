@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 3.42",
+  "plTitle": "Tiṭhāna Sutta",
+  "frTitle": "Trois manières",
+  "description": "Ce à quoi on voit qu'une personne a de la conviction.",
+  "body": [
+    {
+      "pl": "“tīhi, bhikkhave, ṭhānehi saddho pasanno veditabbo. katamehi tīhi? sīlavantānaṃ dassanakāmo hoti, saddhammaṃ sotukāmo hoti, vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato. imehi kho, bhikkhave, tīhi ṭhānehi saddho pasanno veditabbo”.",
+      "fr": "[bhikkhu|Mendiants], celui qui a de la [saddha|conviction], de la confiance, se reconnaît de trois manières. Quelles sont ces trois? Il désire voir ceux qui sont [sila|vertueux], il désire entendre le [saddhamma|Dhamma authentique], et il vit à la maison avec un [citta|esprit] dépourvu de la souillure de l'avarice, librement généreux, la main ouverte, se plaisant à faire des dons, accessible aux demandes, se plaisant à donner et à partager. [bhikkhu|Mendiants], celui qui a de la [saddha|conviction], de la confiance, se reconnaît de ces trois manières."
+    },
+    {
+      "pl": "[i]“dassanakāmo sīlavataṃ,[@v]saddhammaṃ sotumicchati.[@v]vinaye maccheramalaṃ,[@v]sa ve saddhoti vuccatī”ti.[/i]",
+      "fr": "[i][Celui qui] désire voir les [sila|vertueux],[@v]Qui désire entendre le [saddhamma|Dhamma authentique][@v]Ayant dissipé la souillure de l'avarice,[@v]On dit bien de lui qu'il a de la [saddha|conviction].[/i]"
+    }
+  ],
+  "keywords": ["bhikkhu", "saddha", "sila", "saddhamma", "citta"],
+  "translator": "Rémy"
+}

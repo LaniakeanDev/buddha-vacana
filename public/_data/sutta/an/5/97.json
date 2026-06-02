@@ -1,0 +1,54 @@
+{
+  "identifier": "AN 5.97",
+  "plTitle": "Kathā Sutta",
+  "frTitle": "Des conversations",
+  "description": "Une autre version des cinq conditions sous lesquelles un mendiant pratiquant la présence de l'esprit sur la respiration devient rapidement un arahant.",
+  "body": [
+    {
+      "pl": "Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi?",
+      "fr": "Doué de cinq [dhamma|choses], [bhikkhu|mendiants], un mendiant pratiquant la [anapanassati|présence de l'esprit sur la respiration] atteint en peu de temps l'Inébranlable. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu;",
+      "fr": "À cet égard, [bhikkhu|mendiants], un mendiant a peu de projets, peu d'obligations, il est facile à sustenter, facile à contenter avec les accessoires de la vie;"
+    },
+    {
+      "pl": "appāhāro hoti anodarikattaṃ anuyutto;",
+      "fr": "il mange peu, il se voue à la frugalité;"
+    },
+    {
+      "pl": "appamiddho hoti jāgariyaṃ anuyutto;",
+      "fr": "il a peu d'indolence, il [jagariyamanuyoga|se voue à la veille];"
+    },
+    {
+      "pl": "yāyaṃ kathā ābhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ appicchakathā santuṭṭhīkathā pavivekathā asaṃsaggakathā viriyāramhakathā sīlakathā samādhikathā paññākathā vimuttikathā vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī;",
+      "fr": "il obtient à volonté, aisément et sans difficulté des conversations austères qui aident à ouvrir l'[citta|esprit], c'est-à-dire les allocutions à propos du [appicchata|peu de désirs], à propos de la [santuttha|satisfaction [avec ce qu'on a]], à propos de l'[paviveka|isolement], à propos de la non-[@m_samsagga|association [avec les autres]], à propos de l'[viriyarambha|activation de l'énergie], à propos de la [sila|vertu], à propos de la [samadhi|concentration], à propos du [panna|discernement], à propos de la [vimutti|libération], à propos de la [nanadassana|connaissance & vision] de la [vimutti|libération];"
+    },
+    {
+      "pl": "yathāvimuttaṃ cittaṃ paccavekkhati.",
+      "fr": "il passe en revue la manière dont l'[citta|esprit] a été [vimutti|libéré]."
+    },
+    {
+      "pl": "Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhatī ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont les cinq [dhamma|choses] doué desquelles un mendiant pratiquant la [anapanassati|présence de l'esprit sur la respiration] atteint en peu de temps l'Inébranlable."
+    }
+  ],
+  "keywords": [
+    "dhamma",
+    "bhikkhu",
+    "anapanassati",
+    "jagariyamanuyoga",
+    "citta",
+    "appicchata",
+    "santuttha",
+    "paviveka",
+    "@m_samsagga",
+    "viriyarambha",
+    "sila",
+    "samadhi",
+    "panna",
+    "vimutti",
+    "nanadassana"
+  ],
+  "translator": "Rémy"
+}

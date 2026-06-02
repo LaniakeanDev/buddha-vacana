@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 1.10",
+  "plTitle": "Arañña Sutta",
+  "frTitle": "Dans la forêt",
+  "description": "Bien que vivant dans la forêt, s'interdisant tous les plaisirs et ne mangeant qu'une seule fois par jour, ils sont radieux. Comment cela est-il possible? Qu'est-ce donc qui les rend si heureux?",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi:",
+      "fr": "Alors qu'il se tenait debout d'un côté, le [deva|déva] s'adresse en vers au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "[devatā:] [i]“araññe viharantānaṃ,santānaṃ brahmacārinaṃ.ekabhattaṃ bhuñjamānānaṃ, kena vaṇṇo pasīdatī”ti. [/i]",
+      "fr": "[Le [deva|déva]:][i]Ceux qui séjournent dans la [aranna|forêt],Calmes, suivant la [brahmacariya|vie brahmique],Ne mangeant qu'un seul repas par jour,Pourquoi sont-ils d'apparence si sereine?[/i]"
+    },
+    {
+      "pl": "[bhagavā:][i]“atītaṃ nānusocanti, nappajappanti nāgataṃ,paccuppannena yāpenti,tena vaṇṇo pasīdati”.“anāgatappajappāya,atītassānusocanā,etena bālā sussanti, naḷova harito luto”ti.[/i]",
+      "fr": "[Le [bhagava|Fortuné]:][i]Ils n'ont pas de regrets pour le passé,Ils n'ont pas d'attentes pour le futur,Ils se maintiennent dans le présent,C'est pourquoi ils sont d'apparence sereine.En ayant des attentes pour le futur,En ayant des regrets pour le passé,Les [bala|sots] se fanent et s'assèchent,Tels des roseaux verts coupés.[/i]"
+    }
+  ],
+  "keywords": ["deva", "bhagava", "aranna", "brahmacariya", "bala"],
+  "translator": "Rémy"
+}

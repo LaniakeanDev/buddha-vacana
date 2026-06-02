@@ -1,0 +1,67 @@
+{
+  "identifier": "AN 4.162",
+  "plTitle": "Vitthāra Sutta",
+  "frTitle": "Quatre manières de pratiquer en détail",
+  "description": "Le Bouddha détaille les quatre manières de progresser vers la réalisation, analysées dans une double grille de lecture,en termes d'agrément et de rapidité.",
+  "body": [
+    {
+      "pl": "“catasso imā, bhikkhave, paṭipadā. katamā catasso? dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [patipada|manières de pratiquer]. Quelles sont ces quatre? La [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] lente, la [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] rapide, la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] lente, et la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] rapide."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, dukkhā paṭipadā dandhābhiññā? idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] lente? À cet égard, [bhikkhu|mendiants], un certain individu est par tempérament fortement incliné à l'[raga|avidité] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par l'[raga|avidité]. Il est par tempérament fortement incliné à l'[dosa|aversion] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par l'[dosa|aversion]. Il est par tempérament fortement incliné à la [moha|délusion] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par la [moha|délusion]."
+    },
+    {
+      "pl": "tassimāni pañcindriyāni mudūni pātubhavanti: saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. so imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. ayaṃ vuccati, bhikkhave, dukkhā paṭipadā dandhābhiññā.",
+      "fr": "Ces cinq [indriya|facultés spirituelles] n'apparaissent que faiblement en lui: la [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration], et la [indriya|faculté] de [panna|discernement]. Comme ces cinq [indriya|facultés spirituelles] n'apparaissent que faiblement en lui, il n'atteint la condition immédiate de l'élimination complète des [asava|impuretés mentales] que lentement. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] lente."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, dukkhā paṭipadā khippābhiññā? idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] rapide? À cet égard, [bhikkhu|mendiants], un certain individu est par tempérament fortement incliné à l'[raga|avidité] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par l'[raga|avidité]. Il est par tempérament fortement incliné à l'[dosa|aversion] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par l'[dosa|aversion]. Il est par tempérament fortement incliné à la [moha|délusion] et ressent souvent [dukkha|mal-être] et [domanassa|déplaisance mentale] engendrés par la [moha|délusion]."
+    },
+    {
+      "pl": "tassimāni pañcindriyāni adhimattāni pātubhavanti: saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. so imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. ayaṃ vuccati, bhikkhave, dukkhā paṭipadā khippābhiññā.",
+      "fr": "Ces cinq [indriya|facultés spirituelles] apparaissent en abondance en lui: la [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration], et la [indriya|faculté] de [panna|discernement]. Comme ces cinq [indriya|facultés spirituelles] apparaissent en abondance en lui, il atteint la condition immédiate de l'élimination complète des [asava|impuretés mentales] rapidement. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] [dukkha|désagréable] avec une [abhinna|connaissance directe] rapide."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, sukhā paṭipadā dandhābhiññā? idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] lente? À cet égard, [bhikkhu|mendiants], un certain individu n'est pas par tempérament fortement incliné à l'[raga|avidité] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par l'[raga|avidité]. Il n'est pas par tempérament fortement incliné à l'[dosa|aversion] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par l'[dosa|aversion]. Il n'est pas par tempérament fortement incliné à la [moha|délusion] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par la [moha|délusion]."
+    },
+    {
+      "pl": "tassimāni pañcindriyāni mudūni pātubhavanti: saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. so imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. ayaṃ vuccati, bhikkhave, sukhā paṭipadā dandhābhiññā.",
+      "fr": "Ces cinq [indriya|facultés spirituelles] n'apparaissent que faiblement en lui: la [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration], et la [indriya|faculté] de [panna|discernement]. Comme ces cinq [indriya|facultés spirituelles] n'apparaissent que faiblement en lui, il n'atteint la condition immédiate de l'élimination complète des [asava|impuretés mentales] que lentement. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] lente."
+    },
+    {
+      "pl": "“katamā ca, bhikkhave, sukhā paṭipadā khippābhiññā? idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] rapide? À cet égard, [bhikkhu|mendiants], un certain individu n'est pas par tempérament fortement incliné à l'[raga|avidité] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par l'[raga|avidité]. Il n'est pas par tempérament fortement incliné à l'[dosa|aversion] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par l'[dosa|aversion]. Il n'est pas par tempérament fortement incliné à la [moha|délusion] et ne ressent pas souvent de [dukkha|mal-être] ni de [domanassa|déplaisance mentale] engendrés par la [moha|délusion]."
+    },
+    {
+      "pl": "tassimāni pañcindriyāni adhimattāni pātubhavanti: saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. so imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. ayaṃ vuccati, bhikkhave, sukhā paṭipadā khippābhiññā.",
+      "fr": "Ces cinq [indriya|facultés spirituelles] apparaissent en abondance en lui: la [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration], et la [indriya|faculté] de [panna|discernement]. Comme ces cinq [indriya|facultés spirituelles] apparaissent en abondance en lui, il atteint la condition immédiate de l'élimination complète des [asava|impuretés mentales] rapidement. Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|manière de pratiquer] [sukha|agréable] avec une [abhinna|connaissance directe] rapide."
+    },
+    {
+      "pl": "imā kho, bhikkhave, catasso paṭipadā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [patipada|manières de pratiquer]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "patipada",
+    "dukkha",
+    "abhinna",
+    "sukha",
+    "raga",
+    "domanassa",
+    "dosa",
+    "moha",
+    "indriya",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "asava"
+  ],
+  "translator": "Rémy"
+}

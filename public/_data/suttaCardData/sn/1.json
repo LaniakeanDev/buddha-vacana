@@ -1,24 +1,163 @@
 [
   {
-    "identifier": "SN 1.1",
-    "plTitle": "Premier Sutta SN",
-    "frTitle": "C'est le 2e premier",
-    "description": "Premier soutta dans cette autre collection.",
-    "translator": "Remy",
-    "keywords": [],
+    "identifier": "SN 1.10",
+    "plTitle": "Arañña Sutta",
+    "frTitle": "Dans la forêt",
+    "description": "Bien que vivant dans la forêt, s'interdisant tous les plaisirs et ne mangeant qu'une seule fois par jour, ils sont radieux. Comment cela est-il possible? Qu'est-ce donc qui les rend si heureux?",
+    "keywords": [
+      "deva",
+      "bhagava",
+      "Le [deva",
+      "i]Ceux qui séjournent dans la [aranna",
+      "brahmacariya",
+      "Le [bhagava",
+      "i]Ils n'ont pas de regrets pour le passé,Ils n'ont pas d'attentes pour le futur,Ils se maintiennent dans le présent,C'est pourquoi ils sont d'apparence sereine.En ayant des attentes pour le futur,En ayant des regrets pour le passé,Les [bala"
+    ],
+    "translator": "Rémy",
     "nikaya": "sn",
-    "id": "1",
+    "id": "10",
     "readingTime": 0
   },
   {
-    "identifier": "SN 1.2",
-    "plTitle": "Deuxieme Sutta SN",
-    "frTitle": "C'est le 2e",
-    "description": "Deuxieme soutta dans cette autre collection.",
-    "translator": "Remy",
-    "keywords": [],
+    "identifier": "SN 1.12",
+    "plTitle": "Nandati Sutta",
+    "frTitle": "Il jouit",
+    "description": "Les possessions constituent-elles le bonheur suprême?",
+    "keywords": [
+      "deva",
+      "bhagava",
+      "Déva:][i]Celui qui a des enfants jouit de ses enfantsCelui qui a du bétail jouit en vérité de son bétailLes [upadhi",
+      "upadhi",
+      "Le [bhagava",
+      "i]Celui qui a des enfants est tourmenté à cause de ses enfantsCelui qui a du bétail est tourmenté en vérité à cause de son bétailLes [upadhi"
+    ],
+    "translator": "Rémy",
     "nikaya": "sn",
-    "id": "2",
+    "id": "12",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 1.20",
+    "plTitle": "Samiddhi Sutta",
+    "frTitle": "Le vénérable Samiddhi",
+    "description": "Un déva essaie de persuader le vénérable Samiddhi, mais ce dernier a de la répartie.",
+    "keywords": [
+      "bhikkhu",
+      "pabbajja",
+      "kama",
+      "sanditthika",
+      "à obtenir]. Je sacrifie ce qui prend du temps [à obtenir] pour poursuivre ce qui est [sanditthika",
+      "bhagava",
+      "à obtenir], qu'ils [procurent] beaucoup de [dukkha",
+      "upayasa",
+      "adinava",
+      "dhamma",
+      "@f_anussati#anussati-2"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "20",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 1.23",
+    "plTitle": "Jaṭā Sutta",
+    "frTitle": "Les nœuds",
+    "description": "Qui peut démêler ces nœuds?",
+    "keywords": [
+      "Le Fortuné:][i]Un homme [panna",
+      "sila",
+      "citta",
+      "panna",
+      "bhikkhu",
+      "raga",
+      "dosa",
+      "avijja",
+      "arahant",
+      "asava",
+      "nama",
+      "rupa",
+      "patigha",
+      "sanna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "23",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 1.25",
+    "plTitle": "Arahanta Sutta",
+    "frTitle": "Un Méritant",
+    "description": "Un Méritant peut-il encore s'exprimer en utilisant le pronom [i]“Je”[/i]?",
+    "keywords": [
+      "bhikkhu",
+      "arahant",
+      "@v]Ayant détruit les [asava",
+      "@v]Ne serait-ce pas sous le coup de l'[mana",
+      "mana",
+      "@v]Pour lui, tous les noeuds de l'[mana",
+      "@v]Bien qu'un sage ait dépassé l'[mana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "25",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 1.3",
+    "plTitle": "Upanīya Sutta",
+    "frTitle": "Vite passée",
+    "description": "Courte est la vie. Que vaut-il donc mieux faire?",
+    "keywords": [
+      "deva",
+      "bhagava",
+      "Le déva:][i]La vie est courte et vite passéeIl n'y a pas de refuge pour celui qui est âgé.Voyant ce danger de la [marana",
+      "punna",
+      "Le Fortuné:][i]La vie est courte et vite passéeIl n'y a pas de refuge pour celui qui est âgé.Voyant ce danger de la [marana",
+      "loka"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 1.59",
+    "plTitle": "Dutiya Sutta",
+    "frTitle": "Le partenaire",
+    "description": "Quel et le partenaire d'un homme? Qu'est-ce qui l'instruit? Comment se délivrer du mal-être?",
+    "keywords": [
+      "Déva:][i]Quel est le partenaire d'un homme?Qu'est-ce donc qui l'instruit?En se plaisant à quoi un mortelSe délivre-t-il de tout [dukkha",
+      "Le [bhagava",
+      "i] La [saddha",
+      "panna",
+      "nibbana",
+      "dukkha"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "59",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 1.63",
+    "plTitle": "Taṇhā Sutta",
+    "frTitle": "La Soif",
+    "description": "Qu'est-ce qui mène le monde? Quelle est cette chose qui a tout sous son contrôle?",
+    "keywords": [
+      "Déva:][@v][i]Par quoi le [loka",
+      "@v]Qu'est-ce qui le tire de ci, de là?[@v]Quelle est cette [dhamma",
+      "Le [bhagava",
+      "@v][i] C'est la [tanha",
+      "loka",
+      "@v]C'est la [tanha",
+      "@v]La [tanha",
+      "dhamma"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "63",
     "readingTime": 0
   }
 ]

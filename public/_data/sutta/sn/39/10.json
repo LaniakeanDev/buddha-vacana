@@ -1,0 +1,64 @@
+{
+  "identifier": "SN 39.10",
+  "plTitle": "Taṇhāpañhā Sutta",
+  "frTitle": "Des questions concernant la Soif",
+  "description": "La Soif (taṇhā) expliquée succinctement.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ āyasmā sāriputto vajjīsu viharati ukkacelāyaṃ gaṅgāya nadiyā tīre. Atha kho sāmaṇḍako paribbājako yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho sāmaṇḍako paribbājako āyasmantaṃ sāriputtaṃ etadavoca:",
+      "fr": "Un jour, [ayasma|le vénérable] Saripoutta séjournait chez les Vajjiis, à Oukkatchéla, sur les berges du Gange. Ce jour-là, le [samana|vagabond spirituel] Samandaka vint voir le [ayasma|vénérable] Saripoutta et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [paribbajaka|vagabond spirituel] Samandaka dit au [ayasma|vénérable] Saripoutta:"
+    },
+    {
+      "pl": "‘Taṇhā, taṇhā’ti, āvuso sāriputta, vuccati. Katamā nu kho, āvuso, taṇhā ti?",
+      "fr": "— [avuso|Ami] Saripoutta, on entend dire: [i]“[tanha|Soif], [tanha|Soif]”[/i]. Mais qu'est-ce donc, ami, que la [tanha|Soif]?"
+    },
+    {
+      "pl": "Tisso imā, āvuso, taṇhā. Kāmataṇhā, bhavataṇhā, vibhavataṇhā. Imā kho, āvuso, tisso taṇhā ti.",
+      "fr": "— [avuso|Ami], il y a ces trois [types de] [tanha|Soif]: la [kamatanha|Soif de sensualité], la [bhavatanha|Soif d'existence], et la [vibhavatanha|Soif de non-existence]. Voici, ami, quels sont ces trois [types de] [tanha|Soif]."
+    },
+    {
+      "pl": "Atthi panāvuso, maggo atthi paṭipadā, etesaṃ taṇhānaṃ pahānāyā ti?",
+      "fr": "— [avuso|Ami], il y a une [magga|voie], il y a une [patipada|pratique] pour l'abandon de cette [tanha|Soif]?"
+    },
+    {
+      "pl": "Atthi kho, āvuso, maggo atthi paṭipadā, etesaṃ taṇhānaṃ pahānāyā ti.",
+      "fr": "— [avuso|Ami], il y a une [magga|voie], il y a une [patipada|pratique] pour l'abandon de cette [tanha|Soif]."
+    },
+    {
+      "pl": "Katamo panāvuso, maggo katamā paṭipadā, etesaṃ taṇhānaṃ pahānāyā ti?",
+      "fr": "— Quelle est donc, [avuso|ami], la [magga|voie], quelle est la [patipada|pratique] pour l'abandon de cette [tanha|Soif]?"
+    },
+    {
+      "pl": "Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etesaṃ taṇhānaṃ pahānāya, seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Ayaṃ kho, āvuso, maggo ayaṃ paṭipadā, etesaṃ taṇhānaṃ pahānāyā ti.",
+      "fr": "— [avuso|Ami], pour l'abandon de cette [tanha|Soif], il y a cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]. Voici donc, [avuso|ami], quelle est la [magga|voie], quelle est la [patipada|pratique] pour l'abandon de cette [tanha|Soif]."
+    },
+    {
+      "pl": "Bhaddako, āvuso, maggo bhaddikā paṭipadā, etesaṃ taṇhānaṃ pahānāya. Alañca panāvuso sāriputta, appamādāyā ti.",
+      "fr": "— [avuso|Ami], la [magga|voie] est excellente, la [patipada|pratique] est excellente pour l'abandon de cette [tanha|Soif]. Et c'est suffisant, [avuso|ami] Saripoutta, pour l'[appamada|assiduité]."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "samana",
+    "paribbajaka",
+    "avuso",
+    "i]“[tanha",
+    "tanha",
+    "kamatanha",
+    "bhavatanha",
+    "vibhavatanha",
+    "magga",
+    "patipada",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "appamada"
+  ],
+  "translator": "Rémy"
+}

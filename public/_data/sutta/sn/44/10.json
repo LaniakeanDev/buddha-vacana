@@ -1,0 +1,62 @@
+{
+  "identifier": "SN 44.10",
+  "plTitle": "Ānanda Sutta",
+  "frTitle": "Avec Ananda",
+  "description": "Un renonçant sans-foyer vient voir le Bouddha pour lui poser une question sur l'existence du Soi mais le Bouddha refuse de répondre. Ananda lui demande alors pourquoi.",
+  "body": [
+    {
+      "pl": "atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca — ",
+      "fr": "Ce jour-là, le [paribbajaka|sans-foyer] Vacchagotta vint voir le [bhagava|Fortuné], échangea avec lui des courtoisies et des salutations amicales, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“kiṃ nu kho, bho gotama, atthattā”ti?",
+      "fr": "«Qu'en est-il, [bho|Honorable] Gotama, est-ce que le [atta|Soi] existe?»"
+    },
+    {
+      "pl": "evaṃ vutte, bhagavā tuṇhī ahosi.",
+      "fr": "Lorsque cela fut dit, le [bhagava|Fortuné] garda le silence."
+    },
+    {
+      "pl": "“kiṃ pana, bho gotama, natthattā”ti?",
+      "fr": "«Qu'en est-il alors, [bho|Honorable] Gotama, est-ce que le [atta|Soi] n'existe pas?»"
+    },
+    {
+      "pl": "dutiyampi kho bhagavā tuṇhī ahosi. atha kho vacchagotto paribbājako uṭṭhāyāsanā pakkāmi.",
+      "fr": "Pour la deuxième fois, le [bhagava|Fortuné] garda le silence. Alors le [paribbajaka|sans-foyer] Vacchagotta se leva de son siège et s'en alla."
+    },
+    {
+      "pl": "atha kho āyasmā ānando acirapakkante vacchagotte paribbājake bhagavantaṃ etadavoca —",
+      "fr": "Peu après que le [paribbajaka|sans-foyer] Vacchagotta soit parti, le [ayasma|vénérable] Ananda dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“kiṃ nu kho, bhante, bhagavā vacchagottassa paribbājakassa pañhaṃ puṭṭho na byākāsī”ti?",
+      "fr": "«[bhante|Bhanté], pourquoi donc le [bhagava|Fortuné] n'a-t-il pas répondu à la question du [paribbajaka|sans-foyer] Vacchagotta?"
+    },
+    {
+      "pl": "“ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā sassatavādā tesametaṃ saddhiṃ abhavissa. ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ, ye te, ānanda, samaṇabrāhmaṇā ucchedavādā tesametaṃ saddhiṃ abhavissa. ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṃ, api nu me taṃ, ānanda, anulomaṃ abhavissa ñāṇassa uppādāya — ‘sabbe dhammā anattā’”ti?",
+      "fr": "—Ananda, si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] existe?”[/i] en disant [i]“Le [atta|Soi] existe”[/i], j'aurais pris le parti des [samana|renonçants] & [brahmana|brahmanes] éternalistes. Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] n'existe pas?”[/i] en disant [i]“Le [atta|Soi] n'existe pas”[/i], j'aurais pris le parti des [samana|renonçants] & [brahmana|brahmanes] annihilationistes. Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] existe?”[/i] en disant [i]“Le [atta|Soi] existe”[/i], est-ce que cela aurait été cohérent de ma part avec l'apparition de la [nana|connaissance]: [i]“Tous les [dhamma|phénomènes] sont [anatta|dépourvus de propriétaire]”[/i]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṃ, sammūḷhassa, ānanda, vacchagottassa paribbājakassa bhiyyo sammohāya abhavissa — ‘ahuvā me nūna pubbe attā, so etarahi natthī’”ti.",
+      "fr": "—Et si j'avais répondu à la question [i]“Est-ce que le [atta|Soi] n'existe pas?”[/i] en disant [i]“Le [atta|Soi] n'existe pas”[/i], le [paribbajaka|sans-foyer] Vacchagotta, qui était déjà confus, serait devenu encore plus confus [en se disant]: [i]“Sûrement, le [atta|Moi] que j'avais auparavant a maintenant disparu.”[/i]»"
+    }
+  ],
+  "keywords": [
+    "paribbajaka",
+    "bhagava",
+    "bho",
+    "atta",
+    "ayasma",
+    "bhante",
+    "samana",
+    "brahmana",
+    "nana",
+    "dhamma",
+    "anatta"
+  ],
+  "translator": "Sekha"
+}

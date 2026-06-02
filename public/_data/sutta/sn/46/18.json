@@ -1,0 +1,31 @@
+{
+  "identifier": "SN 46.18",
+  "plTitle": "Viraddha Sutta",
+  "frTitle": "Quiconque néglige",
+  "description": "Quiconque souhaite la desctruction du mal-être doit les entreprendre et ne pas les négliger.",
+  "body": [
+    {
+      "pl": "“yesaṃ kesañci, bhikkhave, satta bojjhaṅgā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. yesaṃ kesañci, bhikkhave, satta bojjhaṅgā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. katame satta? satisambojjhaṅgo dhammavicayasambojjhaṅgo vīriyasambojjhaṅgo pītisambojjhaṅgo passaddhisambojjhaṅgo samādhisambojjhaṅgo upekkhāsambojjhaṅgo. ",
+      "fr": "[bhikkhu|Mendiants], quiconque néglige les sept [sambojjhanga|facteurs d'Éveil] néglige la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. [bhikkhu|Mendiants], quiconque entreprend les sept [sambojjhanga|facteurs d'Éveil] entreprend la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. Quels sont ces sept? La [sati|présence d'esprit] en tant que [sambojjhanga|facteur d'Éveil], le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes], le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie], le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation], le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité], le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration], et le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité]."
+    },
+    {
+      "pl": "yesaṃ kesañci, bhikkhave, ime satta bojjhaṅgā viraddhā, viraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī. yesaṃ kesañci, bhikkhave, ime satta bojjhaṅgā āraddhā, āraddho tesaṃ ariyo maggo sammā dukkhakkhayagāmī”ti.",
+      "fr": "[bhikkhu|Mendiants], quiconque néglige ces sept [sambojjhanga|facteurs d'Éveil] néglige la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. [bhikkhu|Mendiants], quiconque entreprend ces sept [sambojjhanga|facteurs d'Éveil] entreprend la [ariya|noble] [magga|voie] menant à la destruction correcte du [dukkha|mal-être]. "
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "sambojjhanga",
+    "ariya",
+    "magga",
+    "dukkha",
+    "sati",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha"
+  ],
+  "translator": "Rémy"
+}

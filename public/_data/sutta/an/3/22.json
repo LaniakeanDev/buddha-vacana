@@ -1,0 +1,58 @@
+{
+  "identifier": "AN 3.22",
+  "plTitle": "Gilāna Sutta",
+  "frTitle": "Les patients",
+  "description": "Trois types de patients pour trois types d'individus, capables ou non de s'en sortir.",
+  "body": [
+    {
+      "pl": "“tayome, bhikkhave, gilānā santo saṃvijjamānā lokasmiṃ. katame tayo? ",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces trois [types de] patients. Quels sont ces trois?"
+    },
+    {
+      "pl": "idha, bhikkhave, ekacco gilāno labhanto vā sappāyāni bhojanāni alabhanto vā sappāyāni bhojanāni, labhanto vā sappāyāni bhesajjāni alabhanto vā sappāyāni bhesajjāni, labhanto vā patirūpaṃ upaṭṭhākaṃ alabhanto vā patirūpaṃ upaṭṭhākaṃ neva vuṭṭhāti tamhā ābādhā.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un certain patient ne guérit pas de cette maladie, qu'il reçoive ou non de la nourriture adaptée, qu'il reçoive ou non des remèdes adaptés, qu'il reçoive ou non un garde-malade compétent."
+    },
+    {
+      "pl": "“idha pana, bhikkhave, ekacco gilāno labhanto vā sappāyāni bhojanāni alabhanto vā sappāyāni bhojanāni, labhanto vā sappāyāni bhesajjāni alabhanto vā sappāyāni bhesajjāni, labhanto vā patirūpaṃ upaṭṭhākaṃ alabhanto vā patirūpaṃ upaṭṭhākaṃ vuṭṭhāti tamhā ābādhā.",
+      "fr": "Ou bien, [bhikkhu|mendiants], un certain patient guérit de cette maladie, qu'il reçoive ou non de la nourriture adaptée, qu'il reçoive ou non des remèdes adaptés, qu'il reçoive ou non un garde-malade compétent."
+    },
+    {
+      "pl": "“idha pana, bhikkhave, ekacco gilāno labhantova sappāyāni bhojanāni no alabhanto, labhantova sappāyāni bhesajjāni no alabhanto, labhantova patirūpaṃ upaṭṭhākaṃ no alabhanto vuṭṭhāti tamhā ābādhā.",
+      "fr": "Ou encore, [bhikkhu|mendiants], un certain patient guérit de sa maladie s'il reçoit de la nourriture adaptée et pas s'il n'en reçoit pas, s'il reçoit des remèdes adaptés et pas s'il n'en reçoit pas, s'il reçoit un garde-malade compétent et pas s'il n'en reçoit pas."
+    },
+    {
+      "pl": "“tatra, bhikkhave, yvāyaṃ gilāno labhantova sappāyāni bhojanāni no alabhanto, labhantova sappāyāni bhesajjāni no alabhanto, labhantova patirūpaṃ upaṭṭhākaṃ no alabhanto vuṭṭhāti tamhā ābādhā, imaṃ kho, bhikkhave, gilānaṃ paṭicca gilānabhattaṃ anuññātaṃ gilānabhesajjaṃ anuññātaṃ gilānupaṭṭhāko anuññāto. imañca pana, bhikkhave, gilānaṃ paṭicca aññepi gilānā upaṭṭhātabbā.",
+      "fr": "C'est particulièrement pour le [type de] patient qui guérit de sa maladie s'il reçoit de la nourriture adaptée et pas s'il n'en reçoit pas, s'il reçoit des remèdes adaptés et pas s'il n'en reçoit pas, s'il reçoit un garde-malade compétent et pas s'il n'en reçoit pas, que la nourriture pour les patients est prescrite, que les remèdes pour les patients sont prescrits, que les garde-malade sont prescrits. De plus, c'est pour ce [type de] patient que les autres[types de] patients devraient également être soignés."
+    },
+    {
+      "pl": "ime kho, bhikkhave, tayo gilānā santo saṃvijjamānā lokasmiṃ.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces trois [types de] patients que l'on trouve dans le [loka|monde]."
+    },
+    {
+      "pl": "“evamevaṃ kho, bhikkhave, tayome gilānūpamā puggalā santo saṃvijjamānā lokasmiṃ. katame tayo?",
+      "fr": "De la même manière, [bhikkhu|mendiants], on trouve dans le [loka|monde] trois [types de] personnes comparables à ces trois [types de] patients. Quels sont ces trois?"
+    },
+    {
+      "pl": "idha, bhikkhave, ekacco puggalo labhanto vā tathāgataṃ dassanāya alabhanto vā tathāgataṃ dassanāya, labhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya alabhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya neva okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+      "fr": "À cet égard, [bhikkhu|mendiants], une certaine personne n'entre pas sur le chemin sûr [qui consiste en] la droiture des [dhamma|états mentaux] [kusala|avantageux], qu'il voie ou non le [tathagata|Tathagata], qu'il entende ou non l'[dhamma|enseignement] & [vinaya|discipline] professés par le [tathagata|Tathagata]."
+    },
+    {
+      "pl": "“idha, pana, bhikkhave, ekacco puggalo labhanto vā tathāgataṃ dassanāya alabhanto vā tathāgataṃ dassanāya, labhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya alabhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+      "fr": "Ou bien, [bhikkhu|mendiants], une certaine personne entre sur le chemin sûr [qui consiste en] la droiture des [dhamma|états mentaux] [kusala|avantageux], qu'il voie ou non le [tathagata|Tathagata], qu'il entende ou non l'[dhamma|enseignement] & [vinaya|discipline] professés par le [tathagata|Tathagata]."
+    },
+    {
+      "pl": "“idha pana, bhikkhave, ekacco puggalo labhantova tathāgataṃ dassanāya no alabhanto, labhantova tathāgatappaveditaṃ dhammavinayaṃ savanāya no alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+      "fr": "Ou encore, [bhikkhu|mendiants], une certaine personne entre sur le chemin sûr [qui consiste en] la droiture des [dhamma|états mentaux] [kusala|avantageux] s'il voit le [tathagata|Tathagata] et pas s'il ne le voit pas, s'il entend l'[dhamma|enseignement] & [vinaya|discipline] professés par le [tathagata|Tathagata] et pas s'il ne l'entend pas."
+    },
+    {
+      "pl": "“tatra, bhikkhave, yvāyaṃ puggalo labhantova tathāgataṃ dassanāya no alabhanto, labhantova tathāgatappaveditaṃ dhammavinayaṃ savanāya no alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ, imaṃ kho bhikkhave, puggalaṃ paṭicca dhammadesanā anuññātā. imañca pana, bhikkhave, puggalaṃ paṭicca aññesampi dhammo desetabbo.",
+      "fr": "C'est particulièrement pour le [type de] personne qui entre sur le chemin sûr [qui consiste en] la droiture des [dhamma|états mentaux] [kusala|avantageux] s'il voit le [tathagata|Tathagata] et pas s'il ne le voit pas, s'il entend l'[dhamma|enseignement] & [vinaya|discipline] professés par le [tathagata|Tathagata] et pas s'il ne l'entend pas, que l'enseignement du [dhamma|Dhamma] est prescrit. De plus, c'est pour ce [type de] personne que les autres[types de] personnes devraient également recevoir l'enseignement du [dhamma|Dhamma]."
+    },
+    {
+      "pl": "“ime kho, bhikkhave, tayo gilānūpamā puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces trois [types de] personnes comparables à ces trois [types de] patients que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["bhikkhu", "loka", "dhamma", "kusala", "tathagata", "vinaya"],
+  "translator": "Rémy"
+}

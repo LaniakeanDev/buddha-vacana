@@ -1,0 +1,22 @@
+{
+  "identifier": "Iti 48",
+  "plTitle": "Āpāyika Sutta",
+  "frTitle": "Voués à une existence infortunée",
+  "description": "Deux types de personnes qui sont voués à une existence infortunée, voire à l'enfer s'ils ne changent pas leur attitude par rapport à la chasteté.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“dveme, bhikkhave, āpāyikā nerayikā idamappahāya. katame dve? yo ca abrahmacārī brahmacāripaṭiñño, yo ca paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carantaṃ amūlakena abrahmacariyena anuddhaṃseti. ime kho, bhikkhave, dve āpāyikā nerayikā idamappahāyā””ti.",
+      "fr": "«[bhikkhu|Mendiants], ces deux [types de personnes] sont voués à une [apaya|existence infortunée], voire à l'[niraya|enfer], s'ils n'abandonnent pas [leur comportement]. Quels sont ces deux? Celui qui, ne vivant pas la [brahmacariya|vie chaste], prétend la vivre, et celui qui accuse sans raison valable quelqu'un qui vit la [brahmacariya|vie chaste] complète et pure de ne pas être chaste. Voici, mendiants, quels sont ces deux [types de personnes] qui sont voués à une [apaya|existence infortunée], voire à l'[niraya|enfer], s'ils n'abandonnent pas [leur comportement].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca.",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet."
+    }
+  ],
+  "keywords": ["bhagava", "arahant", "bhikkhu", "apaya", "niraya", "brahmacariya"],
+  "translator": "Sekha"
+}

@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "identifier": "SN 28.1",
+    "plTitle": "Vivekaja Sutta",
+    "frTitle": "Engendré par la séparation",
+    "description": "Ananda demande à Saripoutta pourquoi il a l'air en si bonne forme. Ce dernier lui explique qu'il a passé la journée dans le premier jhana.",
+    "keywords": [
+      "ayasma",
+      "patta",
+      "civara",
+      "pindapata",
+      "patisallana",
+      "indriya",
+      "@f_4jhana#1-cl",
+      "i]“J'atteins le premier [jhana",
+      "/i], [i]“J'ai atteint le premier [jhana",
+      "/i], ni [i]“Je suis sorti du premier [jhana",
+      "anusaya",
+      "i]“Moi”[/i] et du [i]“Mien”[/i] qu'il ne se dit pas [i]“J'atteins le premier [jhana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 28.2",
+    "plTitle": "Avitakka Sutta",
+    "frTitle": "Sans pensées",
+    "description": "Ananda demande à Saripoutta pourquoi il a l'air en si bonne forme. Ce dernier lui explique qu'il a passé la journée dans le deuxième jhana.",
+    "keywords": [
+      "ayasma",
+      "patta",
+      "civara",
+      "pindapata",
+      "patisallana",
+      "indriya",
+      "@f_4jhana#2-cl",
+      "i]“J'atteins le deuxième [jhana",
+      "/i], [i]“J'ai atteint le deuxième [jhana",
+      "/i], ni [i]“Je suis sorti du deuxième [jhana",
+      "anusaya",
+      "i]“Moi”[/i] et du [i]“Mien”[/i] qu'il ne se dit pas [i]“J'atteins le deuxième [jhana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 28.3",
+    "plTitle": "Pīti Sutta",
+    "frTitle": "Exaltation",
+    "description": "Ananda demande à Saripoutta pourquoi il a l'air en si bonne forme. Ce dernier lui explique qu'il a passé la journée dans le troisième jhana.",
+    "keywords": [
+      "ayasma",
+      "patta",
+      "civara",
+      "pindapata",
+      "patisallana",
+      "indriya",
+      "@f_4jhana#3-cl",
+      "i]“J'atteins le troisième [jhana",
+      "/i], [i]“J'ai atteint le troisième [jhana",
+      "/i], ni [i]“Je suis sorti du troisième [jhana",
+      "anusaya",
+      "i]“Moi”[/i] et du [i]“Mien”[/i] qu'il ne se dit pas [i]“J'atteins le troisième [jhana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 28.4",
+    "plTitle": "Upekkhā Sutta",
+    "frTitle": "Équanimité",
+    "description": "Ananda demande à Saripoutta pourquoi il a l'air en si bonne forme. Ce dernier lui explique qu'il a passé la journée dans le quatrième jhana.",
+    "keywords": [
+      "ayasma",
+      "patta",
+      "civara",
+      "pindapata",
+      "patisallana",
+      "indriya",
+      "@f_4jhana#4-cl",
+      "i]“J'atteins le quatrième [jhana",
+      "/i], [i]“J'ai atteint le quatrième [jhana",
+      "/i], ni [i]“Je suis sorti du quatrième [jhana",
+      "anusaya",
+      "i]“Moi”[/i] et du [i]“Mien”[/i] qu'il ne se dit pas [i]“J'atteins le quatrième [jhana"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "4",
+    "readingTime": 1
+  }
+]

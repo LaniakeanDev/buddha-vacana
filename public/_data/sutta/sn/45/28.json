@@ -1,0 +1,33 @@
+{
+  "identifier": "SN 45.28",
+  "plTitle": "Samādhi Sutta",
+  "frTitle": "La concentration",
+  "description": "La noble concentration correcte, avec ses supports et ses équipements.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“ariyaṃ vo, bhikkhave, sammāsamādhiṃ desessāmi saupanisaṃ saparikkhāraṃ. taṃ suṇātha. katamo ca, bhikkhave, ariyo sammāsamādhi saupaniso saparikkhāro? seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati. yā kho, bhikkhave, imehi sattahaṅgehi cittassa ekaggatā saparikkhāratā, ayaṃ vuccati, bhikkhave, ariyo sammāsamādhi saupaniso itipi saparikkhāro itipī”ti.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner la [ariya|noble] [sammasamadhi|concentration correcte], avec ses [@m_upanisa|supports] et ses [@m_parikkhara|équipements]. Écoutez cela. Et qu'est-ce, [bhikkhu|mendiants], que la [ariya|noble] [sammasamadhi|concentration correcte], avec ses [@m_upanisa|supports] et ses [@m_parikkhara|équipements]? C'est-à-dire la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. [bhikkhu|Mendiants], l'[ekaggata|unification] de l'[citta|esprit] équipée de ces sept facteurs est ce qu'on appelle la [ariya|noble] [sammasamadhi|concentration correcte], avec ses [@m_upanisa|supports] et ses [@m_parikkhara|équipements]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "ariya",
+    "sammasamadhi",
+    "@m_upanisa",
+    "@m_parikkhara",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "ekaggata",
+    "citta"
+  ],
+  "translator": "Rémy"
+}

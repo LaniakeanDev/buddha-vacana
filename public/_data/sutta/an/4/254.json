@@ -1,0 +1,46 @@
+{
+  "identifier": "AN 4.254",
+  "plTitle": "Abhiññā Sutta",
+  "frTitle": "La connaissance directe",
+  "description": "Quatre types de phénomènes mentaux devant être abordés au moyen de la connaissance directe.",
+  "body": [
+    {
+      "pl": "Cattārome, bhikkhave, dhammā. Katame cattāro? Atthi, bhikkhave, dhammā abhiññā pariññeyyā; atthi, bhikkhave, dhammā abhiññā pahātabbā; atthi, bhikkhave, dhammā abhiññā bhāvetabbā; atthi, bhikkhave, dhammā abhiññā sacchikātabbā.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [types de] [dhamma|phénomènes mentaux]. Quels sont ces quatre? Il y a les [dhamma|phénomènes mentaux] à comprendre complètement par [abhinna|connaissance directe;] il y a les [dhamma|phénomènes mentaux] à abandonner par [abhinna|connaissance directe;] il y a les [dhamma|phénomènes mentaux] à développer par [abhinna|connaissance directe;] il y a les [dhamma|phénomènes mentaux] à réaliser par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "Katame ca, bhikkhave, dhammā abhiññā pariññeyyā? Pañc·upādānakkhandhā. Ime vuccanti, bhikkhave, dhammā abhiññā pariññeyyā.",
+      "fr": "Et quels sont les [dhamma|phénomènes mentaux] à comprendre complètement par [abhinna|connaissance directe]? Les cinq [upadanakkhandha|accumulations d'attachement]. Voici, [bhikkhu|mendiants], ce qu'on appelle [dhamma|phénomènes mentaux] à comprendre complètement par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "Katame ca, bhikkhave, dhammā abhiññā pahātabbā? Avijjā ca bhavataṇhā ca. Ime, bhikkhave, dhammā abhiññā pahātabbā.",
+      "fr": "Et quels sont les [dhamma|phénomènes mentaux] à abandonner par [abhinna|connaissance directe]? L'[avijja|Ignorance] et la [tanha|Soif] d'[bhava|Existence]. Voici, [bhikkhu|mendiants], ce qu'on appelle [dhamma|phénomènes mentaux] à abandonner par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "Katame ca, bhikkhave, dhammā abhiññā bhāvetabbā? Samatho ca vipassanā ca. Ime, bhikkhave, dhammā abhiññā bhāvetabbā.",
+      "fr": "Et quels sont les [dhamma|phénomènes mentaux] à développer par [abhinna|connaissance directe]? Le [samatha|Calme] et la [vipassana|Vision Discernante]. Voici, [bhikkhu|mendiants], ce qu'on appelle [dhamma|phénomènes mentaux] à développer par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? Vijjā ca vimutti ca. Ime, bhikkhave, dhammā abhiññā sacchikātabbā.",
+      "fr": "Et quels sont les [dhamma|phénomènes mentaux] à réaliser par [abhinna|connaissance directe]? La [vijja|Connaissance] et la [vimutti|Délivrance]. Voici, [bhikkhu|mendiants], ce qu'on appelle [dhamma|phénomènes mentaux] à réaliser par [abhinna|connaissance directe]."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, cattāro dhammā ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types de] [dhamma|phénomènes mentaux]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "abhinna",
+    "upadanakkhandha",
+    "avijja",
+    "tanha",
+    "bhava",
+    "samatha",
+    "vipassana",
+    "vijja",
+    "vimutti"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,35 @@
+{
+  "identifier": "AN 11.6",
+  "plTitle": "Byasana Sutta",
+  "frTitle": "Infortunes",
+  "description": "Un mendiant qui insulte ses camarades peut s'attendre à l'une de ces onze infortunes.",
+  "body": [
+    {
+      "pl": "“yo so, bhikkhave, bhikkhu akkosako paribhāsako ariyūpavādo sabrahmacārīnaṃ, ṭhānametaṃ avakāso yaṃ so ekādasannaṃ byasanānaṃ aññataraṃ byasanaṃ nigaccheyya. katamesaṃ ekādasannaṃ?",
+      "fr": "Mendiants, il est probable qu'un [bhikkhu|mendiant] qui insulte et invective ses compagnons dans la [brahmacariya|vie brahmique], qui injurie les [ariya|êtres nobles], rencontre l'une ou l'autre de onze infortunes. Quelles sont ces onze?"
+    },
+    {
+      "pl": "anadhigataṃ nādhigacchati, adhigatā parihāyati, saddhammassa na vodāyanti, saddhammesu vā adhimāniko hoti, anabhirato vā brahmacariyaṃ carati, aññataraṃ vā saṃkiliṭṭhaṃ āpattiṃ āpajjati, sikkhaṃ vā paccakkhāya hīnāyāvattati, gāḷhaṃ vā rogātaṅkaṃ phusati, ummādaṃ vā pāpuṇāti cittakkhepaṃ vā, sammūḷho kālaṃ karoti, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+      "fr": "Soit (1) il ne parvient pas à ce à quoi il n'était pas encore parvenu, ou (2) il perd ce à quoi il était parvenu, ou (3) ses [saddhamma|bonnes qualités] ne sont pas purifiées, ou (4) il surestime ses [saddhamma|bonnes qualités], ou (5) il mène la [brahmacariya|vie brahmique] sans s'y plaire, ou (6) il commet une certaine [apatti|transgression] impure, ou (7) il abandonne l'[sikkha|entraînement] et retourne à la vie inférieure, ou (8) il tombe gravement malade, ou (9) il devient fou ou agité d'esprit, ou (10) il meurt dans la confusion, ou bien (11) lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "yo so, bhikkhave, bhikkhu akkosako paribhāsako ariyūpavādo sabrahmacārīnaṃ, ṭhānametaṃ avakāso yaṃ so imesaṃ ekādasannaṃ byasanānaṃ aññataraṃ byasanaṃ nigaccheyya.",
+      "fr": "Mendiants, il est probable qu'un [bhikkhu|mendiant] qui insulte et invective ses compagnons dans la vie brahmique, qui injurie les [ariya|êtres nobles], rencontre l'une ou l'autre de ces onze infortunes."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "brahmacariya",
+    "ariya",
+    "saddhamma",
+    "apatti",
+    "sikkha",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

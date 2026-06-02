@@ -1,0 +1,49 @@
+{
+  "identifier": "SN 45.34",
+  "plTitle": "Pāraṅgama Sutta",
+  "frTitle": "Traverser de l'autre côté",
+  "description": "Comment traverser de la rive proche à l'autre rive.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“aṭṭhime, bhikkhave, dhammā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattanti. katame aṭṭha? seyyathidaṃ: sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. ime kho, bhikkhave, aṭṭha dhammā bhāvitā bahulīkatā apārā pāraṃ gamanāya saṃvattantī”ti.",
+      "fr": "[bhikkhu|Mendiants], lorsque ces huit [dhamma|choses] sont développées et cultivées, elles permettent de traverser de la rive proche à l'autre rive. Quelles sont ces huit? C'est la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct] et la [sammasati|présence d'esprit correcte]. Voici, [bhikkhu|mendiants], quelles sont ces huit [dhamma|choses] qui, lorsqu'elles sont développées et cultivées, permettent de traverser de la rive proche à l'autre rive."
+    },
+    {
+      "pl": "[i]“appakā te manussesu, ye janā pāragāmino.athāyaṃ itarā pajā, tīramevānudhāvati.[/i]",
+      "fr": "[i]Peu sont parmi les humainsCeux qui traversent jusqu'à l'autre rive.Le reste des gens ne fait queCourir le long de la rive.[/i]"
+    },
+    {
+      "pl": "[i]“ye ca kho sammadakkhāte, dhamme dhammānuvattino.te janā pāramessanti, maccudheyyaṃ suduttaraṃ.[/i]",
+      "fr": "[i]Lorsque la [dhamma|Loi de la nature] est bien exposée,Ceux qui agissent en conformité avec la [dhamma|Loi]Sont ceux qui traversent de l'autre côtéDe la sphère de la mort dont il est si difficile de s'échapper.[/i]"
+    },
+    {
+      "pl": "[i]“kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito.okā anokamāgamma, viveke yattha dūramaṃ.tatrābhiratimiccheyya, hitvā kāme akiñcano.pariyodapeyya attānaṃ, cittaklesehi paṇḍito.[/i]",
+      "fr": "[i]Ayant laissé derrière lui les [dhamma|états mentaux] sombres,Que le [pandita|sage] développe ceux qui sont lumineux.Ayant quitté le foyer pour le sans-foyer,En [viveka|isolement] dans un endroit éloigné,Là où il est difficile de se complaire,Ayant détruit l'attachement aux [kama|plaisirs sensuels],Le [pandita|sage] se purifie lui-mêmeDes [kilesa|souillures] de l'[citta|esprit].[/i]"
+    },
+    {
+      "pl": "[i]“yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ.ādānapaṭinissagge, anupādāya ye ratā.khīṇāsavā jutimanto, te loke parinibbutā”ti.[/i]",
+      "fr": "[i]Ceux dans l'esprit desquels les facteurs d'ÉveilSont bien correctement cultivés,Qui se plaisent à la renonciationAu désintéressement vis-à-vis de la saisie,Brillants, ayant détruit les impuretés mentales,Ceux-là dans le monde parviennent à l'Extinction complète.[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "pandita",
+    "viveka",
+    "kama",
+    "kilesa",
+    "citta"
+  ],
+  "translator": "Rémy"
+}

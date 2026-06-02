@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 9.44",
+  "plTitle": "Kāyasakkhī Suttāni",
+  "frTitle": "Un témoin du corps",
+  "description": "Dans ces trois souttas visiblement datés d'après la mort du Bouddha, Ananda explique ce que celui-ci entendait par les expressions «témoin du corps» (kāyasakkhī), «libéré par le discernement» (paññāvimutto) et «libéré des deux manières» (ubhatobhāgavimutto).",
+  "body": [
+    {
+      "pl": "“‘paññāvimutto paññāvimutto’ti, āvuso, vuccati. kittāvatā nu kho, āvuso, paññāvimutto vutto bhagavatā”ti?",
+      "fr": "«Ami, on entend dire: [i]“Libéré par le [panna|discernement], libéré par le [panna|discernement]”[/i]. Dans quel sens le [bhagava|Fortuné] parlait-il de quelqu'un libéré par le [panna|discernement]?"
+    },
+    {
+      "pl": "“idhāvuso, bhikkhu vivicceva kāmehi ... pe ... paṭhamaṃ jhānaṃ upasampajja viharati, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, paññāvimutto vutto bhagavatā pariyāyena",
+      "fr": "—À cet égard, cher ami, un [bhikkhu|mendiant], [@f_4jhana#1-cl|séparé des plaisirs sensuels, séparé des états désavantageux, entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation], et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré par le [panna|discernement], de manière intermédiaire."
+    },
+    {
+      "pl": "... pe ....",
+      "fr": "En outre, cher ami, un [bhikkhu|mendiant], [@f_4jhana#2-cl|avec l'apaisement des pensées actives et passives, entre et demeure dans le deuxième jhana](…) le troisième [jhana|jhana](…) le quatrième [jhana|jhana], et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré par le [panna|discernement], de manière intermédiaire.(…)"
+    },
+    {
+      "pl": "“puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti, paññāya ca naṃ pajānāti. ettāvatāpi kho, āvuso, paññāvimutto vutto bhagavatā nippariyāyenā”ti.",
+      "fr": "En outre, cher ami, un [bhikkhu|mendiant],[@f_arupajjhana#9|ayant transcendé la sphère de ni-perception-ni-non-perception, entre et demeure dans la cessation de la perception et du ressenti], et l'ayant vue avec [panna|discernement], ses [asava|impuretés mentales] sont complètement épuisées, et il le discerne avec [panna|discernement]. Voici le sens dans lequel le [bhagava|Fortuné] parlait de quelqu'un libéré par le [panna|discernement], de manière définitive.»"
+    }
+  ],
+  "keywords": ["panna", "bhagava", "bhikkhu", "@f_4jhana#1-cl", "@f_4jhana#2-cl", "jhana", "@f_arupajjhana#9", "asava"],
+  "translator": "Sekha"
+}

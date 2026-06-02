@@ -1,0 +1,74 @@
+{
+  "id": "arahant",
+  "title": "arahant",
+  "translation": ["Méritant."],
+  "body": [
+    {
+      "p": [
+        "Il s'agit d'une personne qui a suivi l'enseignement du Bouddha jusqu'au bout et a atteint le but ultime.",
+        "Le Bouddha lui-même est défini comme un arahant, comme par exemple dans l'expression “namo tassa bhagavato arahato sammāsambuddhassa” (Hommage au Fortuné, au Méritant, à celui qui est véritablement éveillé, [@$AN 2.37]) ou encore dans l'ubiquitaire remémoration du Bouddha ([buddhanussati|Buddh·ānussati]): “itipi so Bhagavā arahaṃ sammā·sambuddho” (voir l'analyse de la [@f_anussati#anussati-1|formule]).",
+        "Il y a plusieurs manières équivalentes de définir un.e Méritant.e:",
+        "Il s'agit d'une personne ayant déjà atteint l'Extinction ([nibbana|Nibbāna]) et qui atteindra l'Extinction complète ([parinibbana|Parinibbāna]) à la fin de sa vie. Une fois décédé, les cinq accumulations d'attachement ([upadanakkhandha|upādāna·kkhandha]) cessent d'exister de manière définitive, éliminant ainsi toute trace d'existence et constituant la libération totale des souffrances du cycle des renaissances ([samsara|saṃsara]).",
+        "Le Méritant a éliminé complètement la Soif ([tanha|taṇhā]) qui est la source des renaissances et la cause ultime de toute souffrance ([dukkha|dukkha]).",
+        "Le Méritant a pleinement compris et appliqué les quatre nobles vérités ([ariyasacca|ariyasacca]).",
+        "Le Méritant est parvenu à la cessation de l'insatisfaction ([dukkha|dukkha]).",
+        "Plus largement, il a éliminé les trois racines de ce qui est désavantageux ([akusalamula|akusala·mūla]).",
+        "Ou bien il a éliminé les dix entraves spirituelles ([samyojana|saṃyojana]).",
+        "Ou encore, il a éliminé les trois impuretés mentales ([asava|āsavā]).",
+        "Lorsqu'une personne devient un.e Méritant.e, la formule standard est la suivante: "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.55]",
+        "text": [
+          {
+            "pl": "atha kho āyasmā soṇo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva, yassatthāya kulaputtā sammadeva agārasmā anāgāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi. aññataro ca panāyasmā soṇo arahataṃ ahosi.",
+            "fr": "Demeurant seul, isolé, assidu, ardent et voué à l'effort, en peu de temps, il entra et demeura dans ce monde visible, en l'ayant réalisé pour lui-même par connaissance directe, dans le suprême achèvement de la vie brahmique pour lequel les enfants de [bonne] famille quittent à juste titre la vie de foyer pour le sans-foyer. Il réalisa: “C'en est fini de la naissance, la vie brahmique a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.” Alors le vénérable Soṇa devint l'un des Méritants."
+          }
+        ]
+      }
+    },
+    { "p": ["On trouve aussi parfois une autre formule:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.55]",
+        "text": [
+          {
+            "pl": "“bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññāvimutto",
+            "fr": "Les mendiants qui sont des Méritants, qui ont complètement éliminé les impuretés mentales, qui sont accomplis, qui ont fait ce qui devait l'être, qui ont déposé le fardeau, qui ont atteint l'objectif, qui ont complètement épuisé les entraves spirituelles de l'existence, et qui sont délivrés par connaissance correcte"
+          }
+        ]
+      }
+    },
+    { "p": ["Lorsque le Bouddha raconte son propre Éveil, on trouve l'expression suivante:"] },
+    {
+      "quote": {
+        "source": "[@$@$SN 56.11]",
+        "text": [
+          {
+            "pl": "ñāṇañca pana me dassanaṃ udapādi: ‘akuppā me vimutti, ayamantimā jāti, natthidāni punabbhavo’”ti.",
+            "fr": "La connaissance & vision apparut en moi: “La libération de mon esprit est inébranlable, ceci est ma dernière naissance, maintenant il n'y aura plus d'existence supplémentaire.”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Un Méritant appartient à la catégorie des êtres nobles ([ariya|ariya]·puggala).",
+        "Les Méritants sont enclins à certains comportements:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.55]",
+        "text": [
+          {
+            "pl": "“yo so, bhante, bhikkhu arahaṃ … so cha ṭhānāni adhimutto hoti: nekkhammādhimutto hoti, pavivekādhimutto hoti, abyāpajjādhimutto hoti, taṇhākkhayādhimutto hoti, upādānakkhayādhimutto hoti, asammohādhimutto hoti.",
+            "fr": "Les mendiants qui sont des Méritants (…) sont enclins à six choses: ils sont enclins au renoncement, à l'isolement, à l'absence de préjudice, à l'élimination complète de la Soif, à l'élimination complète de l'attachement, et au dés·illusionnement."
+          }
+        ]
+      }
+    }
+  ]
+}

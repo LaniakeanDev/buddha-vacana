@@ -1,0 +1,30 @@
+{
+  "identifier": "AN 9.68",
+  "plTitle": "Gati Sutta",
+  "frTitle": "Les destinations",
+  "description": "Les mises en place de l'attention (satipaṭṭhāna) comme moyen d'abandonner les cinq destinations.",
+  "body": [
+    {
+      "pl": "“pañcimā, bhikkhave, gatiyo. katamā pañca? nirayo, tiracchānayoni, pettivisayo, manussā, devā — imā kho, bhikkhave, pañca gatiyo.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [gati|destinations]. Quelles sont ces cinq? L'[niraya|enfer], le [tiracchanayoni|sein animal], le [pettivisaya|plan d'existence des esprits affligés], l'état humain, et l'[deva|état dévique]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [gati|destinations]."
+    },
+    {
+      "pl": "“imesaṃ kho, bhikkhave, pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ pahānāya ... pe ... ime cattāro satipaṭṭhānā bhāvetabbā”ti.",
+      "fr": "[bhikkhu|Mendiants], pour l'abandon de ces cinq [gati|destinations], les quatre [satipatthana|mises en place de la présence d'esprit] sont à développer. Quelles sont ces quatre? À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] [bhikkhu|Mendiants], pour l'abandon de ces cinq [gati|destinations], ces quatre [satipatthana|mises en place de la présence d'esprit] sont à développer."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "gati",
+    "niraya",
+    "tiracchanayoni",
+    "pettivisaya",
+    "deva",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
+  "translator": "Sekha"
+}

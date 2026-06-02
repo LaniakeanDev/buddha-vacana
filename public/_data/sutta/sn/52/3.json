@@ -1,0 +1,37 @@
+{
+  "identifier": "SN 52.3",
+  "plTitle": "Sutanu Sutta ",
+  "frTitle": "À Soutanou",
+  "description": "Quels sont les états mentaux que le vénérable Anourouddha a développé et cultivé pour atteindre la grandeur de la compréhension directe?",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ āyasmā anuruddho sāvatthiyaṃ viharati sutanutīre. atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṃ sammodiṃsu. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ anuruddhaṃ etadavocuṃ:",
+      "fr": "Un jour, le [ayasma|vénérable] Anourouddha séjournait près de Savatthi, sur les berges du Soutanou. Ce jour-là, un certain nombre de [bhikkhu|mendiants] allèrent voir le [ayasma|vénérable] Anourouddha, échangèrent des courtoisies avec lui, et après cet échange de courtoisies et de paroles amicales, s'assirent d'un côté. Une fois assis là, ces [bhikkhu|mendiants] demandèrent au [ayasma|vénérable] Anourouddha:"
+    },
+    {
+      "pl": "— “katamesaṃ āyasmā anuruddho dhammānaṃ bhāvitattā bahulīkatattā mahābhiññataṃ patto”ti?",
+      "fr": "—Quels sont les [dhamma|états mentaux] que le [ayasma|vénérable] Anourouddha a développé et cultivé pour atteindre la grandeur de la [abhinna|compréhension directe]?"
+    },
+    {
+      "pl": "“catunnaṃ khvāhaṃ, āvuso, satipaṭṭhānānaṃ bhāvitattā bahulīkatattā mahābhiññataṃ patto. katamesaṃ catunnaṃ? idhāhaṃ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharāmi ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; citte cittānupassī viharāmi ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ; dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. imesaṃ khvāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā mahābhiññataṃ patto.",
+      "fr": "[avuso|Amis], c'est en ayant développé et en ayant cultivé les quatre [satipatthana|mises en place de la présence d'esprit] que j'ai atteint la grandeur de la [abhinna|compréhension directe]. Quelles sont ces quatre? À cet égard, [avuso|amis], [@f_stp#kaya-cl|je reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|je reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|je reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|je reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] [avuso|Amis], c'est en ayant développé et en ayant cultivé ces quatre [satipatthana|mises en place de la présence d'esprit] que j'ai atteint la grandeur de la [abhinna|compréhension directe]."
+    },
+    {
+      "pl": "imesañca panāhaṃ, āvuso, catunnaṃ satipaṭṭhānānaṃ bhāvitattā bahulīkatattā hīnaṃ dhammaṃ hīnato abbhaññāsiṃ, majjhimaṃ dhammaṃ majjhimato abbhaññāsiṃ, paṇītaṃ dhammaṃ paṇītato abbhaññāsin”ti.",
+      "fr": "De plus, [avuso|amis], c'est en ayant développé et en ayant cultivé ces quatre [satipatthana|mises en place de la présence d'esprit] que j'ai compris directement l'[dhamma|état] inférieur comme étant inférieur, que j'ai compris directement l'[dhamma|état] intermédiaire comme étant intermédiaire, et que j'ai compris directement l'[dhamma|état] élevé comme étant élevé."
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhikkhu",
+    "dhamma",
+    "abhinna",
+    "avuso",
+    "satipatthana",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
+  "translator": "Rémy"
+}

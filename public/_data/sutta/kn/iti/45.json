@@ -1,0 +1,43 @@
+{
+  "identifier": "Iti 45",
+  "plTitle": "Paṭisallāna Sutta",
+  "frTitle": "L'isolement",
+  "description": "Le Bouddha fait l'éloge de l'isolement, qui mène au calme de l'esprit, à vipassanā et finalement à Nibbāna.",
+  "body": [
+    {
+      "pl": "Vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ:",
+      "fr": "Ceci a été dit par le [bhagava|Fortuné], dit par le [arahant|Méritant], ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Paṭisallān'ārāmā, bhikkhave, viharatha paṭisallāna-ratā, ajjhattaṃ ceto-samatha-manuyuttā, anirākatajjhānā, vipassanāya samannāgatā, brūhetā suññā-gārānaṃ. Paṭisallān'ārāmānaṃ, bhikkhave, viharataṃ paṭisallāna-ratānaṃ ajjhattaṃ ceto-samatha-manuyuttānaṃ anirākata-j'jhānānaṃ vipassanāya samannāgatānaṃ brūhetānaṃ suññā-gārānaṃ dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā ti.",
+      "fr": "Mendiants, vivez en vous plaisant à l'isolement, en vous vouant à l'isolement, en vous appliquant au [samatha|calme] intérieur de l'esprit, sans négliger les [jhana|jhānas], doués de [vipassana|vision intérieure], et en fréquentant les habitations vides. Si vousvivez en vous plaisant à l'isolement, en vous vouant à l'isolement, en vous appliquant [samatha|calme] intérieur de l'esprit, sans négliger les [jhana|jhānas], doués de [vipassana|vision intérieure], et en fréquentant les habitations vides, vous pouvez vous attendre à l'un de ces deux résultats: ou bien [l'atteinte] dans ce monde visible de la [anna|connaissance finale], ou bien, s'il y a un restant d'attachement, le [anagamita|non-retour]."
+    },
+    {
+      "pl": "Etamatthaṃ bhagavā avoca. Tatthetaṃ iti vuccati:",
+      "fr": "Voici la signification de ce que le [bhagava|Fortuné] a dit. C'est en référence à ceci qu'il a été dit:"
+    },
+    {
+      "pl": "[i]Ye santacittā nipakā, [@v]Satimanto ca jhāyino;[@v]Sammā dhammaṃ vipassanti, [@v]Kāmesu anapekkhino.[@v]Appamādaratā santā, [@v]Pamāde bhayadassino;[@v]Abhabbā parihānāya, [@v]Nibbānasseva santike ti.[/i]",
+      "fr": "Ceux qui ont un esprit calme, maîtres [d'eux-mêmes],[@v][sati|Doués de présence d'esprit] et pratiquant les [jhana|jhānas],[@v]Ont une [vipassana|vision discernante] correcte des [dhamma|phénomènes],[@v]Étant indifférents à la [kama|sensualité].[@v]Se plaisant à l'[appamada|assiduité], calmes,[@v]Ayant vu le danger dans la négligence,[@v]Incapables de tomber,[@v]Ils sont tout près de [nibbana|Nibbāna]."
+    },
+    {
+      "pl": "Ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici quelle est la signification de ce que dit le [bhagava|Fortuné], ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "samatha",
+    "jhana",
+    "vipassana",
+    "anna",
+    "anagamita",
+    "d'eux-mêmes],[@v][sati",
+    "dhamma",
+    "kama",
+    "appamada",
+    "nibbana"
+  ],
+  "translator": "Rémy"
+}

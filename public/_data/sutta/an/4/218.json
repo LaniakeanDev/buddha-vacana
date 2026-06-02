@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 4.218",
+  "plTitle": "Vohārapatha Sutta",
+  "frTitle": "Chemins de parole",
+  "description": "De l'importance de parler vrai. Version positive.",
+  "body": [
+    {
+      "pl": "“catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. katamehi catūhi? diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti. imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de quatre [dhamma|attitudes] va en [niraya|enfer] comme s'il y était emmené et déposé. Quelles sont ces quatre? Il dit ne pas avoir vu ce qu'il a vu, il dit ne pas avoir entendu ce qu'il a entendu, il dit ne pas avoir perçu ce qu'il a perçu, il dit ne pas avoir connu ce qu'il a connu. Celui qui est pourvu de ces quatre [dhamma|attitudes], [bhikkhu|mendiants], va en [niraya|enfer] comme s'il y était emmené et déposé."
+    },
+    {
+      "pl": "“catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. katamehi catūhi? diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti. imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge”ti.",
+      "fr": "[bhikkhu|Mendiants], celui qui est pourvu de quatre [dhamma|attitudes] va au [sagga|paradis] comme s'il y était emmené et déposé. Quelles sont ces quatre? Il dit avoir vu ce qu'il a vu, il dit avoir entendu ce qu'il a entendu, il dit avoir perçu ce qu'il a perçu, il dit avoir connu ce qu'il a connu. Celui qui est pourvu de ces quatre [dhamma|attitudes], [bhikkhu|mendiants], va au [sagga|paradis] comme s'il y était emmené et déposé."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "niraya", "sagga"],
+  "translator": "Rémy"
+}

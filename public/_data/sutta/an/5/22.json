@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 5.22",
+  "plTitle": "Agārava Sutta",
+  "frTitle": "Sans respect",
+  "description": "Ce discours souligne l'importance du respect, de la déférence et de la politesse par rapport à la pratique de la voie.",
+  "body": [
+    {
+      "pl": "“so vata, bhikkhave, bhikkhu agāravo appatisso asabhāgavuttiko ‘sabrahmacārīsu ābhisamācārikaṃ dhammaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘ābhisamācārikaṃ dhammaṃ aparipūretvā sekhaṃ dhammaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘sekhaṃ dhammaṃ aparipūretvā sīlakkhandhaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘sīlakkhandhaṃ aparipūretvā samādhikkhandhaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘samādhikkhandhaṃ aparipūretvā paññākkhandhaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati.",
+      "fr": "[bhikkhu|Mendiants], il est impossible qu'un [bhikkhu|mendiant] sans respect, sans déférence, qui ne se comporte pas poliment envers ses compagnons dans la [brahmacariya|vie brahmique], porte à leur complétude les [dhamma|qualités] de la conduite appropriée. Ne portant pas à leur complétude les [dhamma|qualités] de la conduite appropriée, il est impossible qu'il porte à leur complétude les [dhamma|qualités] de [sekha|celui qui est en entraînement]. Ne portant pas à leur complétude les [dhamma|qualités] de [sekha|celui qui est en entraînement], il est impossible qu'il porte à sa complétude l'[khandha|accumulation] de [sila|vertu]. Ne portant pas à sa complétude l'[khandha|accumulation] de [sila|vertu], il est impossible qu'il porte à sa complétude l'[khandha|accumulation] de [samadhi|concentration]. Ne portant pas à sa complétude l'[khandha|accumulation] de [samadhi|concentration], il est impossible qu'il porte à sa complétude l'[khandha|accumulation] de [panna|discernement]."
+    },
+    {
+      "pl": "“so vata, bhikkhave, bhikkhu sagāravo sappatisso sabhāgavuttiko ‘sabrahmacārīsu ābhisamācārikaṃ dhammaṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘ābhisamācārikaṃ dhammaṃ paripūretvā sekhaṃ dhammaṃ paripūressatī’ti ṭhānametaṃ vijjati. sekhaṃ dhammaṃ paripūretvā sīlakkhandhaṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘sīlakkhandhaṃ paripūretvā samādhikkhandhaṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘samādhikkhandhaṃ paripūretvā paññākkhandhaṃ paripūressatī’ti ṭhānametaṃ vijjatī”ti.",
+      "fr": "[bhikkhu|Mendiants], il est possible qu'un [bhikkhu|mendiant] doué de respect et déférence, qui se comporte poliment envers ses compagnons dans la [brahmacariya|vie brahmique], porte à leur complétude les [dhamma|qualités] de la conduite appropriée. Portant à leur complétude les [dhamma|qualités] de la conduite appropriée, il est possible qu'il porte à leur complétude les [dhamma|qualités] de [sekha|celui qui est en entraînement]. Portant à leur complétude les [dhamma|qualités] de [sekha|celui qui est en entraînement], il est possible qu'il porte à sa complétude l'[khandha|accumulation] de [sila|vertu]. Portant à sa complétude l'[khandha|accumulation] de [sila|vertu], il est possible qu'il porte à sa complétude l'[khandha|accumulation] de [samadhi|concentration]. Portant à sa complétude l'[khandha|accumulation] de [samadhi|concentration], il est possible qu'il porte à sa complétude l'[khandha|accumulation] de [panna|discernement]."
+    }
+  ],
+  "keywords": ["bhikkhu", "brahmacariya", "dhamma", "sekha", "khandha", "sila", "samadhi", "panna"],
+  "translator": "Rémy"
+}

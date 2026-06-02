@@ -1,0 +1,50 @@
+{
+  "identifier": "AN 2.98 à 107",
+  "plTitle": "Bālapaṇḍita Vagga",
+  "frTitle": "Section sur les sots et les sages",
+  "description": "Des exemples de ce que le Bouddha considère comme sot ou sage.",
+  "body": [
+    {
+      "pl": "98. “dveme, bhikkhave, bālā. katame dve? yo ca anāgataṃ bhāraṃ vahati, yo ca āgataṃ bhāraṃ na vahati. ime kho, bhikkhave, dve bālā”ti. ",
+      "fr": "98. [bhikkhu|Mendiants], ces deux [personnes] sont [bala|sottes]. Quelles sont ces deux personnes? Celui qui prend une charge qui ne lui revient pas et celui qui ne prend pas une charge qui lui revient. Voici, [bhikkhu|mendiants], quels sont ces deux [bala|sots]."
+    },
+    {
+      "pl": "99. “dveme, bhikkhave, paṇḍitā. katame dve? yo ca anāgataṃ bhāraṃ na vahati, yo ca āgataṃ bhāraṃ vahati. ime kho, bhikkhave, dve paṇḍitā”ti.",
+      "fr": "99. [bhikkhu|Mendiants], ces deux [personnes] sont [pandita|sages]. Quelles sont ces deux personnes? Celui qui ne prend pas une charge qui ne lui revient pas et celui qui prend une charge qui lui revient. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    },
+    {
+      "pl": "100. “dveme, bhikkhave, bālā. katame dve? yo ca akappiye kappiyasaññī, yo ca kappiye akappiyasaññī. ime kho, bhikkhave, dve bālā”ti.",
+      "fr": "100. [bhikkhu|Mendiants], ces deux [personnes] sont [bala|sottes]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] comme [kappiya|permis] ce qui est [akappiya|prohibé] et celui qui [sanna|perçoit] comme [akappiya|prohibé] ce qui est [kappiya|permis]. Voici, [bhikkhu|mendiants], quels sont ces deux [bala|sots]."
+    },
+    {
+      "pl": "101. “dveme, bhikkhave, paṇḍitā. katame dve? yo ca akappiye akappiyasaññī, yo ca kappiye kappiyasaññī. ime kho, bhikkhave, dve paṇḍitā”ti.",
+      "fr": "101. [bhikkhu|Mendiants], ces deux [personnes] sont [pandita|sages]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] comme [akappiya|prohibé] ce qui est [akappiya|prohibé] et celui qui [sanna|perçoit] comme [kappiya|permis] ce qui est [kappiya|permis]. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    },
+    {
+      "pl": "102. “dveme, bhikkhave, bālā. katame dve? yo ca anāpattiyā āpattisaññī, yo ca āpattiyā anāpattisaññī. ime kho, bhikkhave, dve bālā”ti.",
+      "fr": "102. [bhikkhu|Mendiants], ces deux [personnes] sont [bala|sottes]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] ce qui n'est pas une [apatti|transgression] comme étant une [apatti|transgression] et celui qui [sanna|perçoit] une [apatti|transgression] comme n'étant pas une [apatti|transgression]. Voici, [bhikkhu|mendiants], quels sont ces deux [bala|sots]."
+    },
+    {
+      "pl": "103. “dveme, bhikkhave, paṇḍitā. katame dve? yo ca anāpattiyā anāpattisaññī, yo ca āpattiyā āpattisaññī. ime kho, bhikkhave, dve paṇḍitā”ti.",
+      "fr": "103. [bhikkhu|Mendiants], ces deux [personnes] sont [pandita|sages]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] ce qui n'est pas une [apatti|transgression] comme n'étant pas une [apatti|transgression] et celui qui [sanna|perçoit] ce qui est une [apatti|transgression] comme étant une [apatti|transgression]. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    },
+    {
+      "pl": "104. “dveme, bhikkhave, bālā. katame dve? yo ca adhamme dhammasaññī, yo ca dhamme adhammasaññī. ime kho, bhikkhave, dve bālā”ti.",
+      "fr": "104. [bhikkhu|Mendiants], ces deux [personnes] sont [bala|sottes]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] ce qui n'est pas le [dhamma|Dhamma] comme étant le [dhamma|Dhamma] et celui qui [sanna|perçoit] le [dhamma|Dhamma] comme n'étant pas le [dhamma|Dhamma]. Voici, [bhikkhu|mendiants], quels sont ces deux [bala|sots]."
+    },
+    {
+      "pl": "105. “dveme, bhikkhave, paṇḍitā. katame dve? yo ca dhamme dhammasaññī, yo ca adhamme adhammasaññī. ime kho, bhikkhave, dve paṇḍitā”ti.",
+      "fr": "105. [bhikkhu|Mendiants], ces deux [personnes] sont [pandita|sages]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] le [dhamma|Dhamma] comme étant le [dhamma|Dhamma] et celui qui [sanna|perçoit] ce qui n'est pas le [dhamma|Dhamma] comme n'étant pas le [dhamma|Dhamma]. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    },
+    {
+      "pl": "106. “dveme, bhikkhave, bālā. katame dve? yo ca avinaye vinayasaññī, yo ca vinaye avinayasaññī. ime kho, bhikkhave, dve bālā”ti.",
+      "fr": "106. [bhikkhu|Mendiants], ces deux [personnes] sont [bala|sottes]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] ce qui n'est pas le [vinaya|Vinaya] comme étant le [vinaya|Vinaya] et celui qui [sanna|perçoit] le [vinaya|Vinaya] comme n'étant pas le [vinaya|Vinaya]. Voici, [bhikkhu|mendiants], quels sont ces deux [bala|sots]."
+    },
+    {
+      "pl": "107. “dveme, bhikkhave, paṇḍitā. katame dve? yo ca avinaye avinayasaññī, yo ca vinaye vinayasaññī. ime kho, bhikkhave, dve paṇḍitā”ti.",
+      "fr": "107. [bhikkhu|Mendiants], ces deux [personnes] sont [pandita|sages]. Quelles sont ces deux personnes? Celui qui [sanna|perçoit] ce qui n'est pas le [vinaya|Vinaya] comme n'étant pas le [vinaya|Vinaya] et celui qui [sanna|perçoit] le [vinaya|Vinaya] comme étant le [vinaya|Vinaya]. Voici, [bhikkhu|mendiants], quels sont ces deux [pandita|sages]."
+    }
+  ],
+  "keywords": ["bhikkhu", "bala", "pandita", "sanna", "kappiya", "akappiya", "apatti", "dhamma", "vinaya"],
+  "translator": "Sekha"
+}

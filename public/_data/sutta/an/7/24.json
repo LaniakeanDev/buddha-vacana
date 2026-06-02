@@ -1,0 +1,50 @@
+{
+  "identifier": "AN 7.24",
+  "plTitle": "Sattaka Sutta",
+  "frTitle": "Les Sept critères",
+  "description": "Sept critères de non-déclin pour les mendiants. Aussi longtemps qu'ils perdureront, leur croissance, et non leur déclin sera attendue.",
+  "body": [
+    {
+      "pl": "“satta vo, bhikkhave, aparihāniye dhamme desessāmi. taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī”ti. ",
+      "fr": "Mendiants, je vais vous enseigner les sept [dhamma|critères] de non-déclin. Écoutez cela, et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— Oui, [bhante|Bhanté] répondirent les [bhikkhu|mendiants]. Le [bhagava|Fortuné] dit alors:"
+    },
+    {
+      "pl": "katame ca, bhikkhave, satta aparihāniyā dhammā? yāvakīvañca, bhikkhave, bhikkhū na kammārāmā bhavissanti, na kammaratā, na kammārāmataṃ anuyuttā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Et quels sont, [bhikkhu|mendiants], les sept [dhamma|critères] de non-déclin? Aussi longtemps que les [bhikkhu|mendiants] ne se plairont pas dans les activités, ne se complairont pas dans les activités, ne s'adonneront pas à la complaisance dans les activités, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na bhassārāmā bhavissanti, na kammaratā, na kammārāmataṃ anuyuttā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] ne se plairont pas dans les conversations, ne se complairont pas dans les conversations, ne s'adonneront pas à la complaisance dans les conversations, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na niddārāmā bhavissanti, na kammaratā, na kammārāmataṃ anuyuttā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] ne se plairont pas dans le sommeil, ne se complairont pas dans le sommeil, ne s'adonneront pas à la complaisance dans le sommeil, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na saṅgaṇikārāmā bhavissanti, na kammaratā, na kammārāmataṃ anuyuttā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] ne se plairont pas dans la socialisation, ne se complairont pas dans la socialisation, ne s'adonneront pas à la complaisance dans la socialisation, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na pāpicchā bhavissanti na pāpikānaṃ icchānaṃ vasaṃ gatā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] n'auront pas de mauvais souhaits, qu'ils ne seront pas sous l'influence de mauvais souhaits, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na pāpamittā bhavissanti na pāpasahāyā na pāpasampavaṅkā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] n'auront pas d'amis malsains, qu'ils n'auront pas de compagnons malsains, qu'ils n'auront pas de camarades malsains, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, bhikkhū na oramattakena visesādhigamena antarāvosānaṃ āpajjissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+      "fr": "Aussi longtemps que les [bhikkhu|mendiants] ne s'arrêteront pas mi-chemin après avoir atteint une distinction ou un accomplissement de nature inférieure, on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    },
+    {
+      "pl": "“yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī”ti.",
+      "fr": "Aussi longtemps que ces sept [dhamma|critères] de non-déclin perdurent chez les [bhikkhu|mendiants] et que ces sept [dhamma|critères] de non-déclin seront vus chez les [bhikkhu|mendiants], on ne peut attendre des [bhikkhu|mendiants] que leur croissance, et non leur déclin."
+    }
+  ],
+  "keywords": ["dhamma", "bhante", "bhikkhu", "bhagava"],
+  "translator": "Bhikkhu Sekha"
+}

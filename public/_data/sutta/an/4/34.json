@@ -1,0 +1,54 @@
+{
+  "identifier": "AN 4.34",
+  "plTitle": "Aggappasāda Sutta",
+  "frTitle": "Les confiances les plus éminentes",
+  "description": "Voici les quatre confiances les plus éminentes.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, aggappasādā. katame cattāro? ",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre confiances les plus éminentes. Quelles sont ces quatre?"
+    },
+    {
+      "pl": "yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṃ aggamakkhāyati arahaṃ sammāsambuddho. ye, bhikkhave, buddhe pasannā, agge te pasannā. agge kho pana pasannānaṃ aggo vipāko hoti.",
+      "fr": "[bhikkhu|Mendiants], parmi les êtres, qu'ils soient sans pieds, à deux pieds, à quatre pattes ou à multiples pattes, matériels ou immatériels, [sanna|percetifs], apercetifs ou [nsna|ni-perceptifs-ni-aperceptifs], le [tathagata|Tathagata], le [arahant|Méritant] [sammasambuddha|véritablement éveillé] est déclaré être le plus éminent. [bhikkhu|Mendiants], ceux qui ont confiance dans le [buddha|Bouddha] ont confiance dans ce qui est le plus éminent. Et pour ceux qui ont confiance dans ce qui est le plus éminent, le [vipaka|résultat] est le plus éminent."
+    },
+    {
+      "pl": "“yāvatā, bhikkhave, dhammā saṅkhatā, ariyo aṭṭhaṅgiko maggo tesaṃ aggamakkhāyati. ye, bhikkhave, ariye aṭṭhaṅgike magge pasannā, agge te pasannā. agge kho pana pasannānaṃ aggo vipāko hoti.",
+      "fr": "[bhikkhu|Mendiants], parmi les [dhamma|phénomènes] [sankhata|construits], la [aam|noble voie à huit composantes] est déclarée être la plus éminente. [bhikkhu|Mendiants], ceux qui ont confiance dans la [aam|noble voie à huit composantes] ont confiance dans ce qui est le plus éminent. Et pour ceux qui ont confiance dans ce qui est le plus éminent, le [vipaka|résultat] est le plus éminent."
+    },
+    {
+      "pl": "“yāvatā, bhikkhave, dhammā saṅkhatā vā asaṅkhatā vā, virāgo tesaṃ aggamakkhāyati, yadidaṃ madanimmadano pipāsavinayo ālayasamugghāto vaṭṭupacchedo taṇhākkhayo virāgo nirodho nibbānaṃ. ye, bhikkhave, virāge dhamme pasannā, agge te pasannā. agge kho pana pasannānaṃ aggo vipāko hoti.",
+      "fr": "[bhikkhu|Mendiants], parmi les [dhamma|phénomènes], [sankhata|construits] ou [asankhata|inconstruits], le [viraga|désintéressement] est déclaré être le plus éminent, c'est-à-dire la maîtrise la fierté, l'élimination de la soif, la suppression de l'attachement, l'arrêt du cycle [des renaissances], l'élimination complète de la [tanha|Soif], le [viraga|désintéressement], la [nirodha|cessation], l'[nibbana|Extinction]. [bhikkhu|Mendiants], ceux qui ont confiance dans le [viraga|désintéressement] ont confiance dans ce qui est le plus éminent. Et pour ceux qui ont confiance dans ce qui est le plus éminent, le [vipaka|résultat] est le plus éminent."
+    },
+    {
+      "pl": "“yāvatā, bhikkhave, saṅghā vā gaṇā vā, tathāgatasāvakasaṅgho tesaṃ aggamakkhāyati, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa. ye, bhikkhave, saṅghe pasannā, agge te pasannā. agge kho pana pasannānaṃ aggo vipāko hoti.",
+      "fr": "[bhikkhu|Mendiants], parmi les [sangha|communautés] et les congrégations, la [sangha|Communauté] des [savaka|disciples] du [tathagata|Tathagata] est déclarée être la plus éminente, [@f_anussati#anussati-3-cl|c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné qui est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, qui est un incomparable champ de mérite pour le monde.] [bhikkhu|Mendiants], ceux qui ont confiance dans la [sangha|Communauté] ont confiance dans ce qui est le plus éminent. Et pour ceux qui ont confiance dans ce qui est le plus éminent, le [vipaka|résultat] est le plus éminent."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro aggappasādā”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre confiances les plus éminentes."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "sanna",
+    "nsna",
+    "tathagata",
+    "arahant",
+    "sammasambuddha",
+    "buddha",
+    "vipaka",
+    "dhamma",
+    "sankhata",
+    "aam",
+    "asankhata",
+    "viraga",
+    "tanha",
+    "nirodha",
+    "nibbana",
+    "sangha",
+    "savaka",
+    "@f_anussati#anussati-3-cl"
+  ],
+  "translator": "Rémy"
+}

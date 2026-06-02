@@ -1,0 +1,41 @@
+{
+  "identifier": "SN 36.10",
+  "plTitle": "Phassamūlaka Sutta",
+  "frTitle": "Enracinés dans le contact",
+  "description": "Les différents types de ressentis apparaissent et cessent sur la base des contacts correspondants.",
+  "body": [
+    {
+      "pl": "Tisso imā, bhikkhave, vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā.",
+      "fr": "[bhikkhu|Mendiants], ces trois [types de] [vedana|ressentis], sont engendrés par le [phassa|contact], enracinés dans le [phassa|contact], causés par le [phassa|contact], basés sur le [phassa|contact]. Quels sont ces trois? Les [sukhavedana|ressentis agréables], les [dukkhavedana|ressentis désagréables], et les [adukkhamasukhavedana|ressentis neutres]."
+    },
+    {
+      "pl": "Sukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati sukhā vedanā. Tasseva sukhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannā sukhā vedanā, sā nirujjhati, sā vūpasammati.",
+      "fr": "[bhikkhu|Mendiants], c'est sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable] qu'apparaît un [sukhavedana|ressenti agréable]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [sukha|agréable], le ressenti ainsi engendré, ce [sukhavedana|ressenti agréable] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [sukha|agréable], cesse et s'éteint."
+    },
+    {
+      "pl": "Dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati dukkhā vedanā. Tasseva dukkhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannā dukkhā vedanā, sā nirujjhati, sā vūpasammati.",
+      "fr": "[bhikkhu|Mendiants], c'est sur la base d'un [phassa|contact] pouvant être ressenti comme [dukkha|désagréable] qu'apparaît un [dukkhavedana|ressenti désagréable]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [dukkha|désagréable], le ressenti ainsi engendré, ce [dukkhavedana|ressenti désagréable] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [dukkha|désagréable], cesse et s'éteint."
+    },
+    {
+      "pl": "Adukkhamasukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati adukkhamasukhā vedanā. Tasseva adukkhamasukhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ adukkhamasukhavedaniyaṃ phassaṃ paṭicca uppannā adukkhamasukhā vedanā, sā nirujjhati, sā vūpasammati.",
+      "fr": "[bhikkhu|Mendiants], c'est sur la base d'un [phassa|contact] pouvant être ressenti comme [adukkhamasukha|neutre] qu'apparaît un [adukkhamasukhavedana|ressenti neutre]. Avec la [nirodha|cessation] de ce même [phassa|contact] pouvant être ressenti comme [adukkhamasukha|neutre], le ressenti ainsi engendré, ce [adukkhamasukhavedana|ressenti neutre] apparu sur la base d'un [phassa|contact] pouvant être ressenti comme [adukkhamasukha|neutre], cesse et s'éteint."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, dvinnaṃ kaṭṭhānaṃ saṅghaṭṭanasamodhānā usmā jāyati, tejo abhinibbattati, tesaṃyeva kaṭṭhānaṃ nānābhāvā vinikkhepā, yā tajjā usmā, sā nirujjhati, sā vūpasammati; evameva kho, bhikkhave, imā tisso vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Tajjaṃ phassaṃ paṭicca tajjā vedanā uppajjanti. Tajjassa phassassa nirodhā tajjā vedanā nirujjhantī ti.",
+      "fr": "Tout comme, [bhikkhu|mendiants], la mise contact et la friction de deux bâtons engendre de la chaleur et produit du feu, et lorsque ces bâtons sont séparés et mis de côtés, la chaleur ainsi engendrée cesse et s'éteint; de la même manière, ces trois [types de] [vedana|ressentis], sont engendrés par le [phassa|contact], enracinés dans le [phassa|contact], causés par le [phassa|contact], basés sur le [phassa|contact]. Sur la base du [phassa|contact] ainsi engendré apparaissent les [vedana|ressentis] correspondants. Avec la [nirodha|cessation] du [phassa|contact] ainsi engendré, les [vedana|ressentis] correspondants cessent."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "vedana",
+    "phassa",
+    "sukhavedana",
+    "dukkhavedana",
+    "adukkhamasukhavedana",
+    "sukha",
+    "nirodha",
+    "dukkha",
+    "adas"
+  ],
+  "translator": "Rémy"
+}

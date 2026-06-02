@@ -1,0 +1,61 @@
+{
+  "identifier": "SN 45.7",
+  "plTitle": "Aññatarabhikkhu Sutta",
+  "frTitle": "Un certain mendiant",
+  "description": "Qu'est-ce que l'élimination de l'avidité, de l'aversion et de la délusion? Qu'est-ce que le Sans-mort?",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘rāgavinayo dosavinayo mohavinayo’ti, bhante, vuccati. kissa nu kho etaṃ, bhante, adhivacanaṃ: ‘rāgavinayo dosavinayo mohavinayo’”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“l'[vinaya|élimination] de l'[raga|avidité], l'[vinaya|élimination] de l'[dosa|aversion], l'[vinaya|élimination] de la [moha|délusion]”[/i]. [bhante|Bhanté], de quoi est-ce que [i]“l'[vinaya|élimination] de l'[raga|avidité], l'[vinaya|élimination] de l'[dosa|aversion], l'[vinaya|élimination] de la [moha|délusion]”[/i] est une appellation?"
+    },
+    {
+      "pl": "“nibbānadhātuyā kho etaṃ, bhikkhu, adhivacanaṃ: ‘rāgavinayo dosavinayo mohavinayo’ti. āsavānaṃ khayo tena vuccatī”ti.",
+      "fr": "—[bhikkhu|Mendiant], [i]“l'[vinaya|élimination] de l'[raga|avidité], l'[vinaya|élimination] de l'[dosa|aversion], l'[vinaya|élimination] de la [moha|délusion]”[/i] est une appellation pour l'[dathu|élément] d'[nibbana|Extinction]. On l'appelle aussi l'élimination complète des [asava|impuretés mentales]."
+    },
+    {
+      "pl": "evaṃ vutte, so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, ce [bhikkhu|mendiant] dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “‘amataṃ, amatan’ti, bhante, vuccati. katamaṃ nu kho, bhante, amataṃ, katamo amatagāmimaggo”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“le [amata|Sans-mort], le [amata|Sans-mort]”[/i]. Qu'est-ce donc, [bhante|Bhanté], que le [amata|Sans-mort], et quelle est la [magga|voie] menant au [amata|Sans-mort]?"
+    },
+    {
+      "pl": "“yo kho, bhikkhu, rāgakkhayo dosakkhayo mohakkhayo: idaṃ vuccati amataṃ. ayameva ariyo aṭṭhaṅgiko maggo amatagāmimaggo, seyyathidaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī”ti.",
+      "fr": "—[bhikkhu|Mendiant], l'[vinaya|élimination] de l'[raga|avidité], l'[vinaya|élimination] de l'[dosa|aversion], et l'[vinaya|élimination] de la [moha|délusion] est ce qu'on appelle le [amata|Sans-mort]. La [magga|voie] menant au [amata|Sans-mort] est cette [aam|noble voie à huit composantes], c'est-à-dire: la [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte] et la [sammasamadhi|concentration correcte]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“l'[vinaya",
+    "raga",
+    "vinaya",
+    "dosa",
+    "moha",
+    "dathu",
+    "nibbana",
+    "asava",
+    "amata",
+    "magga",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 5.12",
+  "plTitle": "Kūṭa Sutta",
+  "frTitle": "Le du faîte du toit",
+  "description": "Ici, le Bouddha explique ce qu'il entend par les cinq puissances de celui qui est en entraînement (sekhabala), et explique quelle est celle qui est la plus importante.",
+  "body": [
+    {
+      "pl": "Pañcimāni, bhikkhave, sekhabalāni. Katamāni pañca? Saddhābalaṃ, hirībalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ. Imāni kho, bhikkhave, pañca sekhabalāni. Imesaṃ kho, bhikkhave, pañcannaṃ sekhabalānaṃ etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghātaniyaṃ: yadidaṃ paññābalaṃ.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [bala|forces] de [sekha|celui qui est en entraînement]. Quelles sont ces cinq? La [bala|force] de la [saddha|conviction], la [bala|force] de la [hiri|honte morale], la [bala|force] de la [ottappa|crainte morale], la [bala|force] de l'[viriya|énergie] et la [bala|force] du [panna|discernement]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [bala|forces] de [sekha|celui qui est en entraînement]. Parmi ces cinq [bala|forces] de [sekha|celui qui est en entraînement], [bhikkhu|mendiants], c'est la [bala|force] du [panna|discernement] qui est la plus éminente, qui assure la cohésion et qui rassemble."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, kūṭāgārassa etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghātaniyaṃ, yadidaṃ kūṭaṃ; evamevaṃ kho, bhikkhave, imesaṃ pañcannaṃ sekhabalānaṃ etaṃ aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghātaniyaṃ, yadidaṃ paññābalaṃ.",
+      "fr": "Tout comme, [bhikkhu|mendiants], dans une maison au toit pointu, c'est le faîte du toit qui est le plus élevé, qui assure la cohésion d'entre elles et qui [les] rassemble, de la même manière, parmi ces cinq [bala|forces] de [sekha|celui qui est en entraînement], [bhikkhu|mendiants], c'est la [bala|force] du [panna|discernement] qui est la plus élevée, qui assure la cohésion et qui rassemble."
+    },
+    {
+      "pl": "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘saddhābalena samannāgatā bhavissāma sekhabalena, hirībalena samannāgatā bhavissāma sekhabalena,ottappabalena samannāgatā bhavissāma sekhabalena,vīriyabalena samannāgatā bhavissāma sekhabalena,paññābalena samannāgatā bhavissāma sekhabalenā’ti. Evañhi vo, bhikkhave, sikkhitabba nti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous serons pourvus de la [bala|force] de la [saddha|conviction] en tant que [bala|force] de [sekha|celui qui est en entraînement], nous serons pourvus de la [bala|force] de la [hiri|honte morale] en tant que [bala|force] de [sekha|celui qui est en entraînement], nous serons pourvus de la [bala|force] de la [ottappa|crainte morale] en tant que [bala|force] de [sekha|celui qui est en entraînement], nous serons pourvus de la [bala|force] de l'[viriya|énergie] en tant que [bala|force] de [sekha|celui qui est en entraînement], nous serons pourvus de la [bala|force] du [panna|discernement] en tant que [bala|force] de [sekha|celui qui est en entraînement].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhikkhu", "bala", "sekha", "saddha", "hiri", "ottappa", "viriya", "panna"],
+  "translator": "Rémy"
+}

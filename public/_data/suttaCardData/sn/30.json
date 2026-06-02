@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "identifier": "SN 30.1",
+    "plTitle": "Suddhika Sutta",
+    "frTitle": "Version simple",
+    "description": "Quatre types de soupannas (ou garoudas) selon leur type de naissance.",
+    "keywords": ["bhikkhu"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 0
+  }
+]

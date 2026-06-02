@@ -1,0 +1,30 @@
+{
+  "identifier": "AN 4.95",
+  "plTitle": "Chavālāta Sutta",
+  "frTitle": "Un brandon tiré d'un bûcher funéraire",
+  "description": "Qui est le plus excellent? Celui qui pratique pour le bénéfice des autres, ou celui qui pratique pour son propre bénéfice?",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame cattāro? nevattahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, attahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca.",
+      "fr": "Mendiants, on trouve dans le [loka|monde] ces quatre [types d']individus. Quels sont ces quatre? Celui qui n'œuvre ni à son propre avantage ni à celui des autres, celui qui œuvre à l'avantage des autres mais pas au sien, celui qui œuvre à son propre avantage mais pas à celui des autres, et celui qui œuvre à la fois à son avantage et à celui des autres."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, chavālātaṃ ubhato padittaṃ, majjhe gūthagataṃ, neva gāme kaṭṭhatthaṃ pharati na araññe; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi yvāyaṃ puggalo nevattahitāya paṭipanno no parahitāya.",
+      "fr": "[bhikkhu|Mendiants], tout comme un brandon tiré d'un bûcher funéraire, brûlé aux deux extrémités et enduit d'excréments au milieu, ne peut être utilisé comme bois de construction ni dans un village ni dans la forêt, je dis que l'individu qui n'œuvre ni à son propre avantage ni à celui des autres y est comparable."
+    },
+    {
+      "pl": "“tatra, bhikkhave, yvāyaṃ puggalo parahitāya paṭipanno no attahitāya, ayaṃ imesaṃ dvinnaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. tatra, bhikkhave, yvāyaṃ puggalo attahitāya paṭipanno no parahitāya, ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. tatra, bhikkhave, yvāyaṃ puggalo attahitāya ceva paṭipanno parahitāya ca, ayaṃ imesaṃ catunnaṃ puggalānaṃ aggo ca seṭṭho ca pāmokkho ca uttamo ca pavaro ca.",
+      "fr": "[bhikkhu|Mendiants], l'individu qui œuvre à l'avantage des autres mais pas au sien est le plus excellent et le plus élevé de ces deux individus. L'individu qui œuvre à son propre avantage mais pas à celui des autres est le plus excellent et le plus élevé de ces trois individus. L'individu qui œuvre à la fois à son avantage et à celui des autres est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué de ces quatre individus."
+    },
+    {
+      "pl": "“seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati; evamevaṃ kho, bhikkhave, yvāyaṃ puggalo attahitāya ceva paṭipanno parahitāya ca, ayaṃ imesaṃ catunnaṃ puggalānaṃ aggo ca seṭṭho ca pāmokkho ca uttamo ca pavaro ca.",
+      "fr": "Tout comme, [bhikkhu|mendiants], de la vache vient le lait, du lait la crème, de la crème le beurre, du beurre le ghee et du ghee la crème de ghee, qui est considérée comme la plus raffinée [de ces choses], de la même manière, l'individu qui œuvre à la fois à son avantage et à celui des autres est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué de ces quatre individus."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["loka", "bhikkhu"],
+  "translator": "Rémy"
+}

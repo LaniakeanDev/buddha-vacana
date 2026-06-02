@@ -1,0 +1,33 @@
+{
+  "identifier": "SN 51.3",
+  "plTitle": "Ariya Sutta ",
+  "frTitle": "Nobles",
+  "description": "Les chemins du pouvoir psychique sont nobles et émancipateurs.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, iddhipādā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāya. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], ces quatre [iddhipada|chemins du pouvoir psychique], lorsqu'ils sont développés et cultivés, sont [ariya|nobles], libérateurs, ils mènent celui qui les possède vers la destruction correcte du [dukkha|mal-être]. Quels sont ces quatre?"
+    },
+    {
+      "pl": "idha, bhikkhave, chanda·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, vīriya·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, citta·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhipādaṃ bhāveti, vīmaṃsā·samādhi-ppadhāna·saṅkhāra-samannāgataṃ iddhi·pādaṃ bhāveti.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un mendiant développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due au[chanda|désir] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'[viriya|énergie] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'[citta|esprit] et aux [sankhara|constructions] d'[padhana|effort], il développe le [iddhipada|chemin du pouvoir psychique] pourvu de [samadhi|concentration] due à l'investigation et aux [sankhara|constructions] d'[padhana|effort]."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro iddhipādā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāyā”ti.",
+      "fr": "[bhikkhu|Mendiants], ces quatre [iddhipada|chemins du pouvoir psychique], lorsqu'ils sont développés et cultivés, sont [ariya|nobles], libérateurs, ils mènent celui qui les possède vers la destruction correcte du [dukkha|mal-être]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "iddhipada",
+    "ariya",
+    "dukkha",
+    "samadhi",
+    "chanda",
+    "sankhara",
+    "padhana",
+    "viriya",
+    "citta"
+  ],
+  "translator": "Rémy"
+}

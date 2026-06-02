@@ -1,0 +1,31 @@
+{
+  "identifier": "SN 47.45",
+  "plTitle": "Kusalarāsi Sutta",
+  "frTitle": "Amoncellements de ce qui est avantageux",
+  "description": "Voici ce qui serait correctement décrit comme des amoncellements de ce qui est avantageux.",
+  "body": [
+    {
+      "pl": "“‘kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ cattāro satipaṭṭhānā. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [kusala|ce qui est avantageux]»[/i], il serait correct qu'il parle des quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit] sont en effet de complets amoncellements de [akusala|ce qui est avantageux]. Et quelles sont ces quatre?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ;vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "À cet égard, [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.]"
+    },
+    {
+      "pl": "‘kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. kevalo hāyaṃ, bhikkhave, kusalarāsi, yadidaṃ cattāro satipaṭṭhānā”ti.",
+      "fr": "[bhikkhu|Mendiants], si quelqu'un devait parler d'[i]«amoncellements de [kusala|ce qui est avantageux]»[/i], il serait correct qu'il parle de ces quatre [satipatthana|mises en place de la présence d'esprit]. Les quatre [satipatthana|mises en place de la présence d'esprit] sont en effet de complets amoncellements de [akusala|ce qui est avantageux]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "kusala",
+    "satipatthana",
+    "akusala",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl"
+  ],
+  "translator": "Sekha"
+}

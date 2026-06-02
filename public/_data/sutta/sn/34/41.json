@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 34.41 à 45",
+  "plTitle": "Ārammaṇamūlaka Suttāni",
+  "frTitle": "Par rapport au socle",
+  "description": "Une série de cinq souttas qui compare diverses capacités liées à la concentration à l'habilité au socle de cette dernière.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(41) samādhismiṃ ārammaṇakusalo hoti, na samādhismiṃ gocarakusalo... samādhismiṃ gocarakusalo hoti, na samādhismiṃ ārammaṇakusalo... neva samādhismiṃ ārammaṇakusalo hoti, na ca samādhismiṃ gocarakusalo... samādhismiṃ ārammaṇakusalo ca hoti, samādhismiṃ gocarakusalo ca.",
+      "fr": "(41) un certain méditant est habile au socle dans la [samadhi|concentration], mais n'est pas habile au nourrissement dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile au nourrissement dans la [samadhi|concentration], mais il n'est pas habile au socle dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile au socle dans la [samadhi|concentration], ni habile au nourrissement dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile au socle dans la [samadhi|concentration] et habile au nourrissement dans la [samadhi|concentration]."
+    },
+    {
+      "pl": "tatra, bhikkhave, yvāyaṃ jhāyī samādhismiṃ ārammaṇakusalo ca hoti, samādhismiṃ gocarakusalo ca ayaṃ imesaṃ catunnaṃ jhāyīnaṃ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.",
+      "fr": "Parmi ces quatre [types de] méditants, [bhikkhu|mendiants], celui qui est habile au socle dans la [samadhi|concentration] et habile au nourrissement dans la [samadhi|concentration] est le plus élevé, le plus excellent, le plus avancé, le plus éminent et le plus distingué.(…)"
+    },
+    {
+      "pl": "(purimamūlakāni viya yāva pañcacattālīsamā ārammaṇamūlakasappāyakārīsuttā pañca suttāni pūretabbāni)",
+      "fr": "(42 à 45: Les quatre souttas qui restent dans cette série suivent le modèle ci-dessus, en remplaçant «nourrissement» par les termes de la série précédente, de «être résolu» à «ce qui est adéquat», comme dans SN 34.16 à 19.)"
+    }
+  ],
+  "keywords": ["bhikkhu", "samadhi"],
+  "translator": "Sekha"
+}

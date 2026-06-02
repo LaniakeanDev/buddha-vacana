@@ -1,0 +1,31 @@
+{
+  "identifier": "AN 4.262",
+  "plTitle": "Arañña Sutta",
+  "frTitle": "En pleine forêt",
+  "description": "Quatre qualités indispensables à un mendiant pour être en mesure de séjourner en pleine forêt.",
+  "body": [
+    {
+      "pl": "“catūhi, bhikkhave, dhammehi samannāgato bhikkhu nālaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ. katamehi catūhi? kāmavitakkena, byāpādavitakkena, vihiṃsāvitakkena, duppañño hoti jaḷo elamūgo. imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu nālaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ.",
+      "fr": "[bhikkhu|Mendiant]s, un [bhikkhu|mendiant] doué de quatre [dhamma|qualités] n'est pas prêt à pratiquer dans un [senasana|gîte] isolé en pleine [aranna|forêt]. Quelles sont ces quatre? Les [vitakka|pensées] de [kama|sensualité], les [vitakka|pensées] de [byapada|malveillance], les [vitakka|pensées] de [vihimsa|non-inoffensivité], et le manque de [panna|discernement], idiot et inepte. Doué de ces quatre [dhamma|qualités], [bhikkhu|mendiants], un [bhikkhu|mendiant] n'est pas prêt à pratiquer dans un [senasana|gîte] isolé en pleine [aranna|forêt]."
+    },
+    {
+      "pl": "“catūhi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ. katamehi catūhi? nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena, paññavā hoti ajaḷo anelamūgo. imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu alaṃ araññavanappatthāni pantāni senāsanāni paṭisevitun”ti.",
+      "fr": "[bhikkhu|Mendiant]s, un [bhikkhu|mendiant] doué de quatre [dhamma|qualités] est prêt à pratiquer dans un [senasana|gîte] isolé en pleine [aranna|forêt]. Quelles sont ces quatre? Les [vitakka|pensées] de [nekkhamma|renoncement], les [vitakka|pensées] de [abyapada|bienveillance], les [vitakka|pensées] de [avihimsa|non-nuisance], et il a du [panna|discernement], intelligent et perspicace. Doué de ces quatre [dhamma|qualités], [bhikkhu|mendiants], un [bhikkhu|mendiant] est prêt à pratiquer dans un [senasana|gîte] isolé en pleine [aranna|forêt]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "senasana",
+    "aranna",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "panna",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa"
+  ],
+  "translator": "Rémy"
+}

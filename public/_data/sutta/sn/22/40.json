@@ -1,0 +1,41 @@
+{
+  "identifier": "SN 22.40",
+  "plTitle": "Anudhamma Sutta",
+  "frTitle": "Au niveau des phénomènes",
+  "description": "Une autre version de ce que signifie l'expression 'pratiquer l'Enseignement au niveau des phénomènes' en rapport à la contemplation de l'impermanence.",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“dhammānudhammappaṭipannassa, bhikkhave, bhikkhuno ayamanudhammo hoti: yaṃ rūpe aniccānupassī vihareyya, vedanāya aniccānupassī vihareyya, saññā aniccānupassī vihareyya, saṅkhāresu aniccānupassī vihareyya, viññāṇe aniccānupassī vihareyya.",
+      "fr": "[bhikkhu|Mendiants], pour un [bhikkhu|mendiant] [dadp|pratiquant l'Enseignement au niveau des phénomènes], voici ce qui est au niveau des [dhamma|phénomènes]: il devrait rester à contempler l'[anicca|impermanence] de la [rupa|Forme], à contempler l'[anicca|impermanence] du [vedana|Ressenti], à contempler l'[anicca|impermanence] de la [sanna|Perception], à contempler l'[anicca|impermanence] des [sankhara|Constructions], à contempler l'[anicca|impermanence] de la [vinnana|Conscience]."
+    },
+    {
+      "pl": "yo rūpe aniccānupassī viharanto, vedanāya aniccānupassī viharanto, saññāya aniccānupassī viharanto, saṅkhāresu aniccānupassī viharanto, viññāṇe aniccānupassī viharanto rūpaṃ parijānāti, vedanaṃ parijānāti, saññaṃ parijānāti, saṅkhāre parijānāti, viññāṇaṃ parijānāti.",
+      "fr": "Celui qui reste à contempler l'[anicca|impermanence] de la [rupa|Forme], à contempler l'[anicca|impermanence] du [vedana|Ressenti], à contempler l'[anicca|impermanence] de la [sanna|Perception], à contempler l'[anicca|impermanence] des [sankhara|Constructions], à contempler l'[anicca|impermanence] de la [vinnana|Conscience] comprend complètement la [rupa|Forme], comprend complètement le [vedana|Ressenti], comprend complètement la [sanna|Perception], comprend complètement les [sankhara|Constructions], comprend complètement la [vinnana|Conscience]."
+    },
+    {
+      "pl": "so rūpaṃ parijānaṃ, vedanaṃ parijānaṃ, saññaṃ parijānaṃ, saṅkhāre parijānaṃ, viññāṇaṃ parijānaṃ parimuccati rūpamhā, parimuccati vedanā, parimuccati saññāya, parimuccati saṅkhārehi, parimuccati viññāṇamhā, parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, parimuccati dukkhasmāti vadāmī”ti.",
+      "fr": "Celui qui comprend complètement la [rupa|Forme], qui comprend complètement le [vedana|Ressenti], qui comprend complètement la [sanna|Perception], qui comprend complètement les [sankhara|Constructions], qui comprend complètement la [vinnana|Conscience] est complètement délivré de la [rupa|Forme], est complètement délivré du [vedana|Ressenti], est complètement délivré de la [sanna|Perception], est complètement délivré des [sankhara|Constructions], est complètement délivré de la [vinnana|Conscience], il est complètement délivré de la [jati|naissance], du [jaramarana|vieillissement-et-mort], du chagrin, des lamentations, des [dukkha|douleurs], des [domanassa|déplaisances mentales] et de la [upayasa|détresse], et je déclare qu'il est complètement délivré du [dukkha|mal-être]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dadp",
+    "dhamma",
+    "anicca",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "jati",
+    "jaramarana",
+    "dukkha",
+    "domanassa",
+    "upayasa"
+  ],
+  "translator": "Rémy"
+}

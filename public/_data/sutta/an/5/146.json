@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 5.146",
+  "plTitle": "Mitta Sutta",
+  "frTitle": "En tant qu'ami",
+  "description": "Des caractéristiques qui font qu'un mendiant peut ou ne devrait pas être fréquenté en tant qu'ami.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu mitto na sevitabbo. katamehi pañcahi? kammantaṃ kāreti, adhikaraṇaṃ ādiyati, pāmokkhesu bhikkhūsu paṭiviruddho hoti, dīghacārikaṃ anavatthacārikaṃ anuyutto viharati, nappaṭibalo hoti kālena kālaṃ dhammiyā kathāya sandassetuṃ samādapetuṃ samuttejetuṃ sampahaṃsetuṃ. imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu mitto na sevitabbo.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de cinq [dhamma|caractéristiques] n'est pas à fréquenter en tant qu'[mitta|ami]. Quelles sont ces cinq? Il fait réaliser des projets, il prend en charge des affaires de discipline, il s'oppose à des [bhikkhu|mendiants] éminents, il se voue aux longs errements, aux errements sans résidence, et il n'a pas les compétences pour de temps en temps éclairer, exhorter, motiver et enthousiasmer [son interlocuteur] avec un discours sur le [dhamma|Dhamma]. [bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de cinq [dhamma|caractéristiques] n'est pas à fréquenter en tant qu'[mitta|ami]."
+    },
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu mitto sevitabbo. katamehi pañcahi? na kammantaṃ kāreti, na adhikaraṇaṃ ādiyati, na pāmokkhesu bhikkhūsu paṭiviruddho hoti, na dīghacārikaṃ anavatthacārikaṃ anuyutto viharati, paṭibalo hoti kālena kālaṃ dhammiyā kathāya sandassetuṃ samādapetuṃ samuttejetuṃ sampahaṃsetuṃ. imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu mitto sevitabbo”ti.",
+      "fr": "[bhikkhu|Mendiants],un [bhikkhu|mendiant] pourvu de cinq [dhamma|caractéristiques] peut être fréquenté en tant qu'[mitta|ami]. Quelles sont ces cinq? Il ne fait pas réaliser des projets, il ne prend pas en charge des affaires de discipline, il ne s'oppose pas à des [bhikkhu|mendiants] éminents, il ne se voue pas aux longs errements, aux errements sans résidence, et il a les compétences pour de temps en temps éclairer, exhorter, motiver et enthousiasmer [son interlocuteur] avec un discours sur le [dhamma|Dhamma]. [bhikkhu|Mendiants],un [bhikkhu|mendiant] pourvu de ces cinq [dhamma|caractéristiques] peut être fréquenté en tant qu'[mitta|ami]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "mitta"],
+  "translator": "Rémy"
+}

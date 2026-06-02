@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 5.143",
+  "plTitle": "Sārandada Sutta",
+  "frTitle": "Au sanctuaire de Sārandada",
+  "description": "Un groupe de Litchavis discutent des cinq joyaux spécifiques dont la manifestation est rare: un éléphant, un cheval, un bijou, une femme, un intendant (ces joyaux sont décrits à MN 129). Le Bouddha propose une liste alternative.",
+  "body": [
+    {
+      "pl": "...",
+      "fr": "..."
+    },
+    {
+      "pl": "pañcannaṃ, licchavī, ratanānaṃ pātubhāvo dullabho lokasmiṃ. katamesaṃ pañcannaṃ?",
+      "fr": "Litchavis, il y a cinq joyaux dont la manifestation est rare dans le [loka|monde]. Quels sont ces cinq?"
+    },
+    {
+      "pl": "tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desitassa viññātā puggalo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desitassa viññātā dhammānudhammappaṭipanno puggalo dullabho lokasmiṃ, kataññū katavedī puggalo dullabho lokasmiṃ.",
+      "fr": "La manifestation d'un [tathagata|Tathagata], d'un [arahant|Méritant] [sammasambuddha|véritablement éveillé] est rare dans le [loka|monde], une personne qui expose l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata] est rare dans le [loka|monde], lorsque l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata] sont exposés, un individu qui le comprend est rare dans le [loka|monde], lorsque l'[dhamma|Enseignement] & [vinaya|Discipline] professés par le [tathagata|Tathagata] sont exposés et compris, un individu qui [dadp|pratique l'enseignement au niveau des phénomènes] est rare dans le [loka|monde], et une personne qui qui se sent obligée et reconnaissante est rare dans le [loka|monde]."
+    },
+    {
+      "pl": "imesaṃ kho, licchavī, pañcannaṃ ratanānaṃ pātubhāvo dullabho lokasmin”ti.",
+      "fr": "Litchavis, la manifestation de ces cinq joyaux est rare dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["loka", "tathagata", "arahant", "sammasambuddha", "dhamma", "vinaya", "dadp"],
+  "translator": "Rémy"
+}

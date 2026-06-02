@@ -1,0 +1,139 @@
+{
+  "id": "brahmacariya",
+  "title": "brahmacariya",
+  "breakdown": "[[brahma|brahmā]+[@m_cariya|cariya]]",
+  "translation": ["vie brahmique, célibat complet."],
+  "body": [
+    {
+      "p": [
+        "Plus généralement, il s'agit d'une vie droite, morale, une vie de renoncement aux plaisirs sensuels ([kama|kāma]) et de pratique de la méditation menant entre autres à la maîtrise des [jhana|jhāna]. Elle est appelée ainsi car elle constitue le seul moyen d'atteindre le monde de [brahma|Brahmā].",
+        "La base de la vie brahmique est définie à partir de sa négation:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@DN 2]",
+        "text": [
+          {
+            "pl": "abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā",
+            "fr": "Ayant abandonné ce qui est contraire à la vie brahmique, il vit la vie brahmique, distant, s'abstenant de tout acte sexuel, qui est une chose du village."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [@$SN 45.6], [@$SN 45.39] et [@$SN 45.40], la vie brahmique est définie explicitement comme étant la noble voie à huit composantes ([aam|ariya aṭṭhaṅgika magga]).",
+        "À [@$SN 45.6], elle est définie comme l'amitié favorable ([kalyanamittata|kalyāṇa·mittatā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.2]",
+        "text": [
+          {
+            "pl": "“upaḍḍhamidaṃ, bhante, brahmacariyaṃ, yadidaṃ — kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti.",
+            "fr": "«Ceci, Bhanté, constitue la moitié de la vie brahmique: l'amitié bénéfique, la camaraderie bénéfique, le compagnonage bénéfique."
+          },
+          {
+            "pl": "“mā hevaṃ, ānanda, mā hevaṃ, ānanda! sakalamevidaṃ, ānanda, brahmacariyaṃ, yadidaṃ — kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā. kalyāṇamittassetaṃ, ānanda, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa — ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati.",
+            "fr": "— Il n'en est pas ainsi, Ānanda, il n'en est pas ainsi! Ceci constitue en fait la vie brahmique toute entière, Ānanda: l'amitié bénéfique, la camaraderie bénéfique, le compagnonage bénéfique. On peut attendre, Ānanda, d'un mendiant qui a des amis bénéfiques, des camarades bénéfiques, des compagnons bénéfiques qu'il développe la noble voie à huit composantes, qu'il cultive la noble voie à huit composantes.»"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "La vie brahmique proposée par le Bouddha est souvent décrite comme «entièrement complète et pure» ([i]kevalaparipuṇṇaṃ parisuddhaṃ[/i]). Ceux qui cherchent à la vivre la décrivent selon la formule «absolument complète et pure, polie comme une conque» ([i]ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ[/i]), se disent qu'il n'est pas facile de la vivre au foyer et en concluent qu'ils doivent quitter la vie de foyer (e.g. [@$DN 2], [@$MN 27], [@$51], [@$125], [@$AN 4.198], [@$AN 10.99]).",
+        "Un grand nombre de souttas mentionnent le but de la vie brahmique, ou le résultat d'une vie brahmique menée à son terme. Dans ce cadre, la formule suivante revient souvent:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 8.30]",
+        "text": [
+          {
+            "pl": "eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva, yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ, brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. “khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti abbhaññāsi.",
+            "fr": "Demeurant seul, isolé, assidu, ardent et voué à l'effort, en peu de temps, il entra et demeura dans ce monde visible, en l'ayant réalisé pour lui-même par connaissance directe, dans le suprême achèvement de la vie brahmique pour lequel les gentilhommes quittent à juste titre la vie de foyer pour le sans-foyer. Il réalisa: “C'en est fini de la naissance, la vie brahmique a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”"
+          }
+        ]
+      }
+    },
+    { "p": ["Un certain nombre de buts corrects de la vie brahmique sont mentionnés au fil des souttas:"] },
+    {
+      "list": [
+        "Pour l'Exctinction ([nibbana|nibbāna]): [@$SN 23.1], aussi appelé inébranlable libération de l'esprit ([cetovimutti|cetovimutti]): [@$chris_029|MN 29]",
+        "Pour la destruction de l'avidité ([raga|rāga]), l'aversion ([dosa|dosa]), la délusion ([moha|moha]): [@$SN 45.6].",
+        "Pour la compréhension complète de la souffrance / l'insatisfaction ([dukkha|dukkha]): SN 35.81, SN 35.152, ou pour sa destruction: [@$DN 16], [@$MN 12], [@$12.51], [@$SN 51.3], [@$AN 5.105], [@$AN 6.12]",
+        "Pour la disparition de l'avidité ([raga|rāga]·[viraga|virāga]: [@$SN 45.41]), l'abandon des entraves spirituelles ([samyojana|saṃyojana]·[pahana|ppahāna]: [@$SN 45.42]), le déracinement des penchants latents ([samyojana|saṃyojana]·[pahana|ppahāna]: [@$SN 45.43]), la compréhension complète du parcours ([@$SN 45.44]), l'élimination complète des impuretés mentales ([asava|āsava]: [@$SN 45.45]), l'obtention du fruit de la véritable connaissance & libération ([vijja|vijjā]·[vimutti|vimutti]: [@$SN 45.46]), la connaissance & vision ([nanadassana|ñāṇa·dassana]: [@$SN 45.47]), l'Extinction complète sans attachement (an·[upadana|upādā]·[parinibbana|parinibbāna]: [@$SN 45.48]).",
+        "Pour l'abandon du désir ([chanda|chanda]·[pahana|ppahāna]: [@$SN 51.15])",
+        "Pour l'abandon et la destruction des sept penchants latents ([anusaya|anusaya]: [@$AN 7.12])",
+        "Pour la connaissance, la vision, l'atteinte, la réalisation, la compréhension complète de ce qui n'est pas connu, pas vu, pas atteint, pas réalisé, pas connu complètement, notamment les quatre nobles vérités ([ariyasacca|ariyasacca]: AN 9.13)",
+        "Pour l'abandon et la destruction de cinq types d'avarice ([@$AN 5.255])",
+        "Pour la restreinte ([samvara|saṃvara]), pour l'abandon, pour le désintéressement ([viraga|virāga]), pour la cessation ([nirodha|nirodha]): [@$AN 4.25]",
+        "Pour devenir parvenu-au-courant ([sotapanna|sotāpanna]), retournant unique ([sakadagami|sakadāgāmī]), non-retournant ([anagami|anāgāmī]) ou Méritant ([arahant|arahant]), ce qui est appelé le fruit de la vie brahmique: [@$SN 45.39], DN 6."
+      ]
+    },
+    { "p": ["Cependant, certaines mauvaises raisons de vivre la vie brahmique sont également mentionnées:"] },
+    {
+      "list": [
+        "On trouve régulièrement une mention des personnes qui vivent la vie brahmique dans le but d'une renaissance parmi les dévas: [@$AN 5.206], [@$AN 7.50], [@$chris_016|MN 16]. À [@$SN 35.241], cela est appelé «être saisi par les êtres non-humains».",
+        "[@$chris_029|MN 29] liste de mauvaises raisons de vivre la vie brahmique:"
+      ]
+    },
+    {
+      "list": [
+        "Pour les acquisitions, les honneurs et la renommée ([labhasakkarasiloka|lābhasakkārasiloka]), ce qui est comparé à chercher du bois de cœur (pour la construction?), et finalement se contenter de prendre les rameaux et les feuilles de la vie brahmique.",
+        "Pour acquérir la vertu ([sila|sīla]), s'en contenter et mépriser ceux qui n'y sont pas parvenu",
+        "Pour atteindre la concentration ([samadhi|samādhi]), s'en contenter et mépriser ceux qui n'y sont pas parvenu",
+        "Pour atteindre la connaissance et vision ([nanadassana|ñāṇadassana]), s'en contenter et mépriser ceux qui n'y sont pas parvenu"
+      ]
+    },
+    {
+      "p": [
+        "La vie brahmique n'est pas vécue pour tromper les gens, ni pour les flatter, ni pour [obtenir] acquisitions, honneurs et renommée, ni pour gagner dans des débats, ni [en pensant:] “Que les gens sachent que je suis ainsi!” ([@$AN 4.25])."
+      ]
+    },
+    {
+      "p": [
+        "Il est parfois fait mention de personnes menant la vie brahmique sans s'y plaire: [@$AN 5.56], [@$AN 5.80], [@$AN 5.128], [@$AN 5.256], [@$AN 10.34], [@$AN 11.6].",
+        "Cependant, toute personne qui vit la vie brahmique, même si c'est sans s'y plaire, mérite d'être complimentée: [@$AN 5.5].",
+        "D'après [@$SN 35.120], le moyen de prévenir l'émergence d'un tel état est de protéger l'entrée de ses facultés sensorielles ([indriyesuguttadvarata|indriyesu guttadvāratā]), connaître la [bonne] mesure avec la nourriture ([bmt|bhojane matt·aññutā]) et se dédier à l'état de veille ([jagariyamanuyoga|jāgariyaṃ anuyoga]).",
+        "À [@$AN 6.63], la vie brahmique est envisagée comme la cessation ([nirodha|nirodha]) de:"
+      ]
+    },
+    {
+      "list": [
+        "la sensualité ([kama|kāma])",
+        "le ressenti ([vedana|vedanā])",
+        "la perception ([sanna|saññā])",
+        "les impuretés mentales ([asava|āsava])",
+        "les Actes ([kamma|kamma])",
+        "le mal-être ([dukkha|dukkha])"
+      ]
+    },
+    {
+      "p": [
+        "AN 8.29 discute du bon et des mauvais moments pour mener la vie brahmique. Le moment opportun est la négation de tous les moments inopportuns, c'est à dire lorsque:"
+      ]
+    },
+    {
+      "list": [
+        "on vit en enfer ([niraya|niraya])",
+        "on est un animal",
+        "on est un esprit affligé ([peta|peta])",
+        "on est un certain type de [deva|déva] à la vie très longue",
+        "on vit à l'étranger, là où l'enseignement du Bouddha ne parvient pas",
+        "on a des vues erronées ([micchaditthi|micchā·diṭṭhi]) et une vision (spirituelle) distordue",
+        "on manque de discernement, on est idiot, inepte, incapable de comprendre le sens des paroles bien dites ou mal dites",
+        "le [tathagata|Tathagata] qui est apparu dans le monde n'enseigne pas le [dhamma|Dhamma]"
+      ]
+    },
+    {
+      "p": [
+        "DN 29 explique que la vie brahmique n'est parfaite que si elle s'est bien répandue dans le monde, qu'elle est soutenue par un public large, qu'il y a de nombreux disciples qui l'ont totalement maîtrisée (des Méritants), des disciples de niveau intermédiaire, des laïcs sages.",
+        "[@$chris_076|MN 76] expose quatre types d'enseignement qui nient l'utilité de la vie brahmique, et quatre types de vie brahmique sans consolation."
+      ]
+    }
+  ]
+}

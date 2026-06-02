@@ -1,0 +1,42 @@
+{
+  "identifier": "AN 1.320 à 1.327",
+  "plTitle": "Svākkhāta Peyyāla",
+  "frTitle": "Bien exprimé",
+  "description": "Une petite série de souttas qui expliquent combien les choses sont différentes quand l'enseignement qu'on suit est incorrect.",
+  "body": [
+    {
+      "pl": "320. “durakkhāte, bhikkhave, dhammavinaye yo ca samādapeti yañca samādapeti yo ca samādapito tathattāya paṭipajjati sabbe te bahuṃ apuññaṃ pasavanti. taṃ kissa hetu? durakkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "320. [bhikkhu|Mendiants], celui qui exhorte [les autres] dans un [dhamma|enseignement] & [vinaya|discipline] mal exposé, la personne qu'il exhorte, ainsi que celui qui, ainsi exhorté, pratique en conséquence, accumulent tous beaucoup de dé·[punna|mérite]. Pourquoi cela? À cause de la mauvaise exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "321. “svākkhāte, bhikkhave, dhammavinaye yo ca samādapeti yañca samādapeti yo ca samādapito tathattāya paṭipajjati sabbe te bahuṃ puññaṃ pasavanti. taṃ kissa hetu? svākkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "321. [bhikkhu|Mendiants], celui qui exhorte [les autres] dans un [dhamma|enseignement] & [vinaya|discipline] bien exposé, la personne qu'il exhorte, ainsi que celui qui, ainsi exhorté, pratique en conséquence, accumulent tous beaucoup de [punna|mérite]. Pourquoi cela? À cause de la bonne exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "322. “durakkhāte, bhikkhave, dhammavinaye dāyakena mattā jānitabbā, no paṭiggāhakena. taṃ kissa hetu? durakkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "322. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] mal exposé, c'est le donateur qui devrait se modérer, et non pas le donataire. Pourquoi cela? À cause de la mauvaise exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "323. “svākkhāte, bhikkhave, dhammavinaye paṭiggāhakena mattā jānitabbā, no dāyakena. taṃ kissa hetu? svākkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "323. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] bien exposé, c'est le donataire qui devrait se modérer, et non pas le donateur. Pourquoi cela? À cause de la bonne exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "324. “durakkhāte, bhikkhave, dhammavinaye yo āraddhavīriyo so dukkhaṃ viharati. taṃ kissa hetu? durakkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "324. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] mal exposé, [araddhaviriya|celui qui a activé son énergie] vit dans le [dukkha|mal-être]. Pourquoi cela? À cause de la mauvaise exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "325. “svākkhāte, bhikkhave, dhammavinaye yo kusīto so dukkhaṃ viharati. taṃ kissa hetu? svākkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "325. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] bien exposé, celui qui est paresseux vit dans le [dukkha|mal-être]. Pourquoi cela? À cause de la bonne exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "326. “durakkhāte, bhikkhave, dhammavinaye yo kusīto so sukhaṃ viharati. taṃ kissa hetu? durakkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "326. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] mal exposé, celui qui est paresseux vit dans le [sukha|bien-être]. Pourquoi cela? À cause de la mauvaise exposition de l'[dhamma|enseignement]."
+    },
+    {
+      "pl": "327. “svākkhāte, bhikkhave, dhammavinaye yo āraddhavīriyo so sukhaṃ viharati. taṃ kissa hetu? svākkhātattā, bhikkhave, dhammassā”ti.",
+      "fr": "327. [bhikkhu|Mendiants], dans un [dhamma|enseignement] & [vinaya|discipline] bien exposé, [araddhaviriya|celui qui a activé son énergie] vit dans le [sukha|bien-être]. Pourquoi cela? À cause de la bonne exposition de l'[dhamma|enseignement]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "vinaya", "punna", "araddhaviriya", "dukkha", "sukha"],
+  "translator": "Bhikkhu Sekha"
+}

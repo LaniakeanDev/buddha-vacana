@@ -1,0 +1,27 @@
+{
+  "identifier": "SN 56.37",
+  "plTitle": "Sūriya Sutta",
+  "frTitle": "Le soleil",
+  "description": "Le signe avant-coureur de la compréhension complète des quatre nobles vérités.",
+  "body": [
+    {
+      "pl": "“sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ aruṇuggaṃ. evameva kho, bhikkhave, bhikkhuno catunnaṃ ariyasaccānaṃ yathābhūtaṃ abhisamayāya etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ sammādiṭṭhi. sammādiṭṭhikassetaṃ bhikkhave, bhikkhuno pāṭikaṅkhaṃ: ‘idaṃ dukkhan’ti yathābhūtaṃ pajānissati, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānissati, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānissati, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānissati.",
+      "fr": "[bhikkhu|Mendiants], voici quel est le précurseur et le signe avant-coureur du lever du soleil: l'aurore. De la même manière, voici quel est le précurseur et le signe avant-coureur chez un [bhikkhu|mendiant] de la compréhension complète des quatre [ariyasacca|nobles vérités] [yathabhutam|telles qu'elles sont réellement]: la [sammaditthi|vue correcte]. On peut attendre d'un [bhikkhu|mendiant] ayant la [sammaditthi|vue correcte] qu'il discernera,[yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i], qu'il discernera,[yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|origine du mal-être]”[/i], qu'il discernera,[yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i], et qu'il discernera,[yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "ariyasacca",
+    "yathabhutam",
+    "sammaditthi",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
+  "translator": "Rémy"
+}

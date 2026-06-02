@@ -1,0 +1,30 @@
+{
+  "identifier": "AN 4.179",
+  "plTitle": "Nibbāna Sutta",
+  "frTitle": "L'extinction dans ce monde visible",
+  "description": "Le vénérable Ananda demande au vénérable Saripoutta pourquoi certains n'atteignent pas l'Extinction (Nibbāna) dans cette vie, tandis que d'autres y parviennent.",
+  "body": [
+    {
+      "pl": "atha kho āyasmā ānando yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando āyasmantaṃ sāriputtaṃ etadavoca:",
+      "fr": "Ce jour-là, le [ayasma|vénérable] Ananda vint voir le [ayasma|vénérable] Saripoutta et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Tandis qu'il était assis là, le [ayasma|vénérable] Ananda dit au [ayasma|vénérable] Saripoutta:"
+    },
+    {
+      "pl": "— “ko nu kho, āvuso sāriputta, hetu ko paccayo, yena midhekacce sattā diṭṭheva dhamme na parinibbāyantī”ti?",
+      "fr": "—Ami Saripoutta, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle certains [satta|êtres] ne [parinibbana|s'éteignent pas complètement] [ditthevadhamma|dans ce monde visible]?"
+    },
+    {
+      "pl": "“idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṃ nappajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṃ nappajānanti, imā visesabhāgiyā saññāti yathābhūtaṃ nappajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṃ nappajānanti. ayaṃ kho, āvuso ānanda, hetu ayaṃ paccayo, yena midhekacce sattā diṭṭheva dhamme na parinibbāyantī”ti.",
+      "fr": "—À cet égard, ami Ananda, les [satta|êtres] ne discernent pas: [i]“Ces [sanna|perceptions] contribuent à la dégradation”[/i], ils ne discernent pas: [i]“Ces [sanna|perceptions] contribuent au maintien”[/i], ils ne discernent pas: [i]“Ces [sanna|perceptions] contribuent à l'accomplissement”[/i], et ils ne discernent pas: [i]“Ces [sanna|perceptions] contribuent à la compréhension profonde”[/i]. Voici, ami Ananda, quelle est la [hetu|cause], voici quelle est la [paccaya|raison] pour laquelle certains [satta|êtres] ne [parinibbana|s'éteignent pas complètement] [ditthevadhamma|dans ce monde visible]."
+    },
+    {
+      "pl": "“ko panāvuso sāriputta, hetu ko paccayo, yena midhekacce sattā diṭṭheva dhamme parinibbāyantī”ti?",
+      "fr": "—Ami Saripoutta, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle certains [satta|êtres] [parinibbana|s'éteignent complètement] [ditthevadhamma|dans ce monde visible]?"
+    },
+    {
+      "pl": "“idhāvuso ānanda, sattā imā hānabhāgiyā saññāti yathābhūtaṃ pajānanti, imā ṭhitibhāgiyā saññāti yathābhūtaṃ pajānanti, imā visesabhāgiyā saññāti yathābhūtaṃ pajānanti, imā nibbedhabhāgiyā saññāti yathābhūtaṃ pajānanti. ayaṃ kho, āvuso ānanda, hetu ayaṃ paccayo, yena midhekacce sattā diṭṭheva dhamme parinibbāyantī”ti.",
+      "fr": "—À cet égard, ami Ananda, les [satta|êtres] discernent: [i]“Ces [sanna|perceptions] contribuent à la dégradation”[/i], ils discernent: [i]“Ces [sanna|perceptions] contribuent au maintien”[/i], ils discernent: [i]“Ces [sanna|perceptions] contribuent à l'accomplissement”[/i], et ils discernent: [i]“Ces [sanna|perceptions] contribuent à la compréhension profonde”[/i]. Voici, ami Ananda, quelle est la [hetu|cause], voici quelle est la [paccaya|raison] pour laquelle certains [satta|êtres] [parinibbana|s'éteignent complètement] [ditthevadhamma|dans ce monde visible]."
+    }
+  ],
+  "keywords": ["ayasma", "hetu", "paccaya", "satta", "parinibbana", "ditthevadhamma", "sanna"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,42 @@
+{
+  "identifier": "AN 8.36",
+  "plTitle": "Puññakiriyavatthu Sutta",
+  "frTitle": "Les manières de générer du mérite",
+  "description": "Ce soutta présente trois manières de générer du mérite et différents cas de figure qui peuvent se produire.",
+  "body": [
+    {
+      "pl": "“tīṇimāni, bhikkhave, puññakiriyavatthūni. katamāni tīṇi? dānamayaṃ puññakiriyavatthu, sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu. ",
+      "fr": "[bhikkhu|Mendiants], il y a ces trois manières de générer du [punna|mérite]. Quelles sont ces trois manières? On peut générer du [punna|mérite] par le [dana|don], on peut générer du [punna|mérite] par la [sila|vertu], et on peut générer du [punna|mérite] par la [bhavana|pratique]."
+    },
+    {
+      "pl": "idha, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. so kāyassa bhedā paraṃ maraṇā manussadobhagyaṃ upapajjati.",
+      "fr": "À cet égard, quelqu'un a généré une petite quantité de [punna|mérite] par le [dana|don], il a généré une petite quantité de [punna|mérite] par la [sila|vertu], mais n'a pas généré de [sila|vertu] par la [bhavana|pratique]. Lors de la dissolution du [kaya|corps], après la [marana|mort], il réapparaît parmi les humains dans de bonnes conditions."
+    },
+    {
+      "pl": "“idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu mattaso kataṃ hoti, sīlamayaṃ puññakiriyavatthu mattaso kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. so kāyassa bhedā paraṃ maraṇā manussasobhagyaṃ upapajjati.",
+      "fr": "Ou bien quelqu'un a généré une certaine quantité de [punna|mérite] par le [dana|don], il a généré une certaine quantité de [punna|mérite] par la [sila|vertu], mais n'a pas généré de [sila|vertu] par la [bhavana|pratique]. Lors de la dissolution du [kaya|corps], après la [marana|mort], il réapparaît parmi les humains dans de bonnes conditions."
+    },
+    {
+      "pl": "“idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. so kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ … tāvatiṃsānaṃ … yāmānaṃ …tusitānaṃ … nimmānaratīnaṃ devānaṃ sahabyataṃ upapajjati. tatra, bhikkhave, vasavattī devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, paranimmitavasavattīdeve dasahi ṭhānehi adhigaṇhāti — dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi.",
+      "fr": "Ou bien quelqu'un a généré une grande quantité de [punna|mérite] par le [dana|don], il a généré une grande quantité de [punna|mérite] par la [sila|vertu], mais n'a pas généré de [sila|vertu] par la [bhavana|pratique]. Lors de la dissolution du [kaya|corps], après la [marana|mort], il réapparaît en compagnie des [deva|dévas] des quatre Maharajas (…) de Tavatimsa (…) de Yama (…) de Toussita (…) des [deva|dévas] [nimmanarati|qui se plaisent à créer] (…) [parinimmitavasavatti|qui contrôlent les créations des autres]. Là, Vassavatti l'enfant des dévas, ayant généré davantage de [punna|mérite] par le [dana|don], ayant généré davantage de [punna|mérite] par la [sila|vertu], surpasse les [deva|dévas] [parinimmitavasavatti|qui contrôlent les créations des autres] de dix manières: en longévité [deva|dévique], en beauté [deva|dévique], en [sukha|bien-être] [deva|dévique], en réputation [deva|dévique], en autorité [deva|dévique], en formes visibles [deva|déviques], en sons [deva|déviques], en odeurs [deva|déviques], en goûts [deva|déviques], et en sensations corporelles [deva|déviques]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī”ti.",
+      "fr": "Voici, mendiants, quelles sont ces trois manières de générer du [punna|mérite]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "punna",
+    "dana",
+    "sila",
+    "bhavana",
+    "kaya",
+    "marana",
+    "deva",
+    "nimmanarati",
+    "parinimmitavasavatti",
+    "sukha"
+  ],
+  "translator": "Sekha"
+}

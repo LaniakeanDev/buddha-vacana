@@ -1,0 +1,34 @@
+{
+  "identifier": "SN 34.46 à 49",
+  "plTitle": "Gocaramūlaka Suttāni",
+  "frTitle": "Par rapport au nourrissement",
+  "description": "Une série de quatre souttas qui compare diverses capacités liées à la concentration à l'habilité au nourrissement dans cette dernière.",
+  "body": [
+    {
+      "pl": "sāvatthinidānaṃ.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "“cattārome, bhikkhave, jhāyī. katame cattāro?",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types de] méditants. Quels sont ces quatre?"
+    },
+    {
+      "pl": "(46) “samādhismiṃ gocarakusalo hoti, na samādhismiṃ abhinīhārakusalo... samādhismiṃ abhinīhārakusalo hoti, na samādhismiṃ gocarakusalo... neva samādhismiṃ gocarakusalo hoti, na ca samādhismiṃ abhinīhārakusalo... samādhismiṃ gocarakusalo ca hoti, samādhismiṃ abhinīhārakusalo ca...",
+      "fr": "(46) (…) un certain méditant est habile au nourrissement dans la [samadhi|concentration], mais n'est pas habile à être résolu dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile à être résolu dans la [samadhi|concentration], mais il n'est pas habile au nourrissement dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant n'est ni habile au nourrissement dans la [samadhi|concentration], ni habile à être résolu dans la [samadhi|concentration]. Ou bien, [bhikkhu|mendiants], un certain méditant est habile au nourrissement dans la [samadhi|concentration] et habile à être résolu dans la [samadhi|concentration]. (…)"
+    },
+    {
+      "pl": "(47) samādhismiṃ gocarakusalo hoti, na samādhismiṃ sakkaccakārī ... pe ....",
+      "fr": "(47) (…) est habile au nourrissement dans la [samadhi|concentration], mais n'est pas habile à la minutie dans la [samadhi|concentration] (…)"
+    },
+    {
+      "pl": "(48)samādhismiṃ gocarakusalo hoti, na samādhismiṃ sātaccakārī... pe ....",
+      "fr": "(48) (…) est habile au nourrissement dans la [samadhi|concentration], mais n'est pas habile à la persévérance dans la [samadhi|concentration] (…)"
+    },
+    {
+      "pl": "(49)samādhismiṃ gocarakusalo hoti, na samādhismiṃ sappāyakārī ... pe ....",
+      "fr": "(49) (…) est habile au nourrissement dans la [samadhi|concentration], mais n'est pas habile à ce qui est adéquat dans la [samadhi|concentration] (…) "
+    }
+  ],
+  "keywords": ["bhikkhu", "samadhi"],
+  "translator": "Sekha"
+}

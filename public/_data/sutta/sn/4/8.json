@@ -1,0 +1,30 @@
+{
+  "identifier": "SN 4.8",
+  "plTitle": "Nandati Sutta",
+  "frTitle": "Se réjouissent",
+  "description": "Le Bouddha réfute Māra au sujet de ce qui produit la jouissance.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato santike imaṃ gāthaṃ abhāsi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Ce jour-là, [mara|Mara] le Malin vint voir le [bhagava|Fortuné] et prononça ces vers en sa présence:"
+    },
+    {
+      "pl": "[Māra:][i]“nandati puttehi puttimā,gomā gobhi tatheva nandati.upadhīhi narassa nandanā,na hi so nandati yo nirūpadhī”ti. [/i]",
+      "fr": "[Māra:][i]Celui qui a des enfants jouit de ses enfantsCelui qui a du bétail jouit en vérité de son bétailLes [upadhi|possessions] sont la jouissance des hommesEt celui qui n'a pas de [upadhi|possessions] ne jouit pas.[/i]"
+    },
+    {
+      "pl": "[Bhagavā:][i]“socati puttehi puttimā,gomā gobhi tatheva socati.upadhīhi narassa socanā,na hi so socati yo nirūpadhī”ti. [/i]",
+      "fr": "[Le [bhagava|Fortuné]:][i]Celui qui a des enfants est tourmenté à cause de ses enfantsCelui qui a du bétail est tourmenté en vérité à cause de son bétailLes [upadhi|possessions] sont le tourment des hommesEt celui qui n'a pas de [upadhi|possessions] n'est pas tourmenté.[/i]"
+    },
+    {
+      "pl": "atha kho māro pāpimā “jānāti maṃ bhagavā, jānāti maṃ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+      "fr": "Alors [mara|Mara] le Malin, peiné et contrarié, [pensant:] [i]“Le [bhagava|Fortuné] me connaît, le Sublime me connaît”[/i], disparut sur-le-champ."
+    }
+  ],
+  "keywords": ["bhagava", "mara", "upadhi"],
+  "translator": "Rémy"
+}

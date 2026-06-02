@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 6.33",
+  "plTitle": "Aparihāna Sutta",
+  "frTitle": "Non-détérioration",
+  "description": "Un déva révèle six attitudes qui mènent à la non-détérioration des mendiants.",
+  "body": [
+    {
+      "pl": "“imaṃ, bhikkhave, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhitā kho, bhikkhave, sā devatā maṃ etadavoca:",
+      "fr": "[bhikkhu|Mendiants], cette nuit, à une heure avancée de la nuit, un certain [deva|déva], illuminant tout le bois de Jéta de son apparence superbe, est venu me voir, m'a rendu hommage, puis s'est tenu debout d'un côté. Tandis qu'il se tenait debout, ce [deva|déva] m'a dit:"
+    },
+    {
+      "pl": "‘chayime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. katame cha? satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, hirigāravatā, ottappagāravatā. ime kho, bhante, cha dhammā bhikkhuno aparihānāya saṃvattantī’ti.",
+      "fr": "—Ces six [dhamma|choses], [bhante|Bhanté], mènent à la non-détérioration d'un [bhikkhu|mendiant]. Quelles sont ces six? La révérence envers l'Enseignant, la révérence envers l'[dhamma|Enseignement], la révérence envers la [sangha|Communauté], la révérence envers l'[sikkha|Entraînement], la révérence envers la [hiri|honte morale], et la révérence envers la [ottappa|crainte morale]. Voici, [bhante|Bhanté], quelles sont ces six [dhamma|choses] qui mènent à la non-détérioration d'un [bhikkhu|mendiant]."
+    },
+    {
+      "pl": "idamavoca, bhikkhave, sā devatā. idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī”ti.",
+      "fr": "Ainsi, [bhikkhu|mendiants], parla ce [deva|déva]. Ayant dit cela, m'ayant rendu hommage en me maintenant à sa droite, il disparut sur-le-champ."
+    }
+  ],
+  "keywords": ["bhikkhu", "deva", "dhamma", "bhante", "sangha", "sikkha", "hiri", "ottappa"],
+  "translator": "Bhikkhu Sekha"
+}

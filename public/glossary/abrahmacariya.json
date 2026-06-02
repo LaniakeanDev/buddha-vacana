@@ -1,0 +1,32 @@
+{
+  "id": "abrahmacariya",
+  "title": "abrahmacariya",
+  "breakdown": "[[@m_a|a]+[brahmacariya|brahmacariya]],",
+  "translation": [
+    "ce qui est contraire à la vie brahmique, ou qui serait interprété comme un non-respect de l'un des cinq préceptes."
+  ],
+  "body": [
+    {
+      "p": [
+        "En effet [i]a·brahmacariya[/i] remplace [kamesumicchacara|kāmesu·micchā·cāra] dans la liste des [pancasila|pañcasīla]s lorsqu'elle est adressée aux [bhikkhu|bhikkhu]s (e.g. [@misc#an05286|AN 5.286]). Dans ce contexte, [i]a·brahmacariya[/i] constitue une transgression [parajika|pārājika]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$pr1]",
+        "text": [
+          {
+            "pl": "‘Yo pana bhikkhu bhikkhūnaṃ sikkhā·sājīva·samāpanno sikkhaṃ apaccakkhāya dubbalyaṃ an·āvi·katvā methunaṃ dhammaṃ paṭiseveyya antamaso tiracchāna·gatāyapi, pārājiko hoti asaṃvāso’ ti.",
+            "fr": "Si un bhikkhu participant à l'entraînement et aux moyens de subsistance des bhikkhus, sans avoir renoncé à l'entraînement, sans avoir déclaré sa faiblesse, s'engage dans l'acte sexuel, même si c'est avec une femelle animale, il mérite l'expulsion, il est banni."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Une définition d'[i]a·brahmacariya[/i] est également donnée par Ānanda à [@misc#sn45018|SN 45.18] comme consistant à [@m_miccha|micchā]·[magga|magga], i.e. [@m_miccha|micchā]·[ditthi|diṭṭhi], [@m_miccha|micchā]·[sankappa|saṅkappa] etc.",
+        "[i]A·brahmacariya[/i] est listée parmi les choses qui mènent un bhikkhu à un [apaya|apāya] ou à [niraya|niraya] (e.g. [@misc#an05286|AN 5.286])."
+      ]
+    }
+  ]
+}

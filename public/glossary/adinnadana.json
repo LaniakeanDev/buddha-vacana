@@ -1,0 +1,30 @@
+{
+  "id": "adinnadana",
+  "title": "adinnādāna",
+  "breakdown": "[[@m_a|a]+[@m_dinna|dinna]+[@m_adana|ādāna]]",
+  "translation": ["appropriation de ce qui n'a pas été donné."],
+  "body": [
+    {
+      "p": [
+        "C'est l'un des trois [akusalakammapatha|akusala·kamma·patha]s corporels, et est définie par le Bouddha à [@$AN 10.176]. Pour les bhikkhus, cela constitue la seconde transgression [parajika|pārājika]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$pr2]",
+        "text": [
+          {
+            "pl": "Yo pana bhikkhu adinnaṃ theyyasaṅkhātaṃ ādiyeyya - yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā: ‘corosi bālosi mūḷhosi thenosī’ ti - tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso ti.",
+            "fr": "Si un bhikkhu s'empare au moyen d'un vol de ce qui ne lui a pas été donné, d'une telle manière que les rois, prenant un voleur en flagrant délit, le ferait bastonner, emprisonner ou bannir, en disant: 'tu es un ravisseur, tu es un ignorant, tu t'es perdu, tu es un voleur', un tel bhikkhu, prenant ce qui ne lui a pas été donné, mérite l'expulsion, il est banni."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Voir des détails supplémentaires à [@$Pr 2.1] et [@$Pr 2.3].",
+        "Les mauvaises conséquences d'[i]adinn·ādāna[/i] sont décrites à [@$AN 8.40]: son résultat le plus léger est la perte des biens."
+      ]
+    }
+  ]
+}

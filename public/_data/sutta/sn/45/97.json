@@ -1,0 +1,37 @@
+{
+  "identifier": "SN 45.97",
+  "plTitle": "Gaṅgā Sutta",
+  "frTitle": "Le Gange",
+  "description": "Ce soutta compare le mouvement d'un fleuve vers l'océan et celui d'un mendiant vers l'Extinction (Nibbāna).",
+  "body": [
+    {
+      "pl": "“seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. kathañca, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro?",
+      "fr": "[bhikkhu|Mendiants], tout comme le fleuve Gange s'incline vers l'océan, s'infléchit vers l'océan et tend vers l'océan, de la même manière, mendiants, un mendiant qui développe la [aam|noble voie à huit composantes], qui cultive la [aam|noble voie à huit composantes], est incliné vers l'[nibbana|Extinction], est infléchi vers l'[nibbana|Extinction], est penché vers l'[nibbana|Extinction]. Et comment, [bhikkhu|mendiants], un mendiant développe-t-il la [aam|noble voie à huit composantes], cultive-t-il la [aam|noble voie à huit composantes], de manière à être incliné vers l'[nibbana|Extinction], à être infléchi vers l'[nibbana|Extinction], à être penché vers l'[nibbana|Extinction]?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāsaṅkappaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāvācaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammākammantaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāājīvaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāvāyāmaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāsatiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ; sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+      "fr": "À cet égard, un [bhikkhu|mendiant] développe la [sammaditthi|vue correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe l'[sammasankappa|aspiration correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe la [sammavaca|parole correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe l'[sammakammanta|action correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe les [sammaajiva|moyens de subsistance corrects], basés sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe l'[sammavayama|effort correct], basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe la [sammasati|présence d'esprit correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Il développe la [sammasamadhi|concentration correcte], basée sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise."
+    },
+    {
+      "pl": "evaṃ kho, bhikkhave, bhikkhu ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvento ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], comment un mendiant développe la [aam|noble voie à huit composantes], cultive la [aam|noble voie à huit composantes], de manière à être incliné vers l'[nibbana|Extinction], à être infléchi vers l'[nibbana|Extinction], à être penché vers l'[nibbana|Extinction]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "aam",
+    "nibbana",
+    "sammaditthi",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

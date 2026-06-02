@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 48.12",
+  "plTitle": "Saṃkhitta Sutta",
+  "frTitle": "En bref",
+  "description": "Ce soutta établit une hiérarchie entre les différents pratiquants, de l'arahant au mû-par-la-conviction, en passant par le mû-par-le-Dhamma.",
+  "body": [
+    {
+      "pl": "“pañcimāni, bhikkhave, indriyāni. katamāni pañca? saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. imāni kho, bhikkhave, pañcindriyānī”ti.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [indriya|facultés spirituelles]. Quelles sont ces cinq? La [indriya|faculté] de [saddha|conviction], la [indriya|faculté] d'[viriya|énergie], la [indriya|faculté] de [sati|présence d'esprit], la [indriya|faculté] de [samadhi|concentration] et la [indriya|faculté] de [panna|discernement]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [indriya|facultés spirituelles]. Voici, [bhikkhu|mendiants], quelles sont ces cinq [indriya|facultés]."
+    },
+    {
+      "pl": "imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī”ti.",
+      "fr": "[bhikkhu|Mendiants], celui qui a complété ces [indriya|facultés] et les a portées à leur complétude est un [arahant|Méritant]. Si elles sont plus faibles que cela, c'est un [anagami|non-retournant]. Si elles sont plus faibles que cela, c'est un [sakadagami|retournant-unique]. Si elles sont plus faibles que cela, c'est un [sotapanna|parvenu-au-courant]. Si elles sont plus faibles que cela, c'est un [dhammanussari|mû-par-le-Dhamma]. Si elles sont plus faibles que cela, c'est un [saddhanussari|mû-par-la-conviction]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "indriya",
+    "saddha",
+    "viriya",
+    "sati",
+    "samadhi",
+    "panna",
+    "arahant",
+    "anagami",
+    "sakadagami",
+    "sotapanna",
+    "dhammanussari",
+    "saddhanussari"
+  ],
+  "translator": "Bhikkhu Sekha"
+}

@@ -1,0 +1,436 @@
+{
+  "identifier": "SN 42.13",
+  "plTitle": "Pāṭaliya Sutta",
+  "frTitle": "La question de Pataliya",
+  "description": "Pataliya demande au Bouddha s'il est vrai qu'il connaît la magie. La conversation évolue ensuite vers la confusion créée par les opinions contradictoires des renonçants et brahmanes au sujet de la nature des actions et de leurs conséquences.",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā koliyesu viharati uttaraṃ nāma koliyānaṃ nigamo. atha kho pāṭaliyo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho pāṭaliyo gāmaṇi bhagavantaṃ etadavoca",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Koliyans, près d'un village koliyan appelé Outtara. Ce jour-là,Pataliya le chef de village alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté et lui dit:"
+    },
+    {
+      "pl": "“sutaṃ metaṃ, bhante — ‘samaṇo gotamo māyaṃ jānātī’ti. ye te, bhante, evamāhaṃsu — ‘samaṇo gotamo māyaṃ jānātī’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṃ abhūtena abbhācikkhanti, dhammassa cānudhammaṃ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchati? anabbhācikkhitukāmā hi mayaṃ, bhante, bhagavantan”ti.",
+      "fr": "«[bhante|Bhanté], j'ai entendu dire: [i]“Le [samana|renonçant] Gotama connaît la Magie”[/i]. Est-ce que ceux qui disent cela répètent ce qui a été dit par le [bhagava|Fortuné] et évitent de le représenter faussement avec ce qui est incorrect? Est-ce qu'ils parlent en toute vérité, sans être sujets à un légitime reproche? Car nous ne voudrions pas parler faussement du [bhagava|Fortuné]."
+    },
+    {
+      "pl": "“ye te, gāmaṇi, evamāhaṃsu — ‘samaṇo gotamo māyaṃ jānātī’ti, vuttavādino ceva me, te na ca maṃ abhūtena abbhācikkhanti, dhammassa cānudhammaṃ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchatīti.",
+      "fr": "—Chef de village, ceux qui disent cela répètent ce que j'ai dit et évitent de me représenter faussement avec ce qui est incorrect. Ils parlent en toute vérité, sans être sujets à un légitime reproche"
+    },
+    {
+      "pl": "saccaṃyeva kira, bho, mayaṃ tesaṃ samaṇabrāhmaṇānaṃ na saddahāma — ‘samaṇo gotamo māyaṃ jānātīti, samaṇo khalu bho gotamo māyāvī’ti.",
+      "fr": "—Il est vrai que nous n'avons pas cru ces [samana|renonçants] et [brahmana|brahmanes] lorsqu'ils ont dit: [i]“Le renonçant Gotama connaît la Magie, il est un vrai magicien.”[/i]"
+    },
+    {
+      "pl": "yo nu kho, gāmaṇi, evaṃ vadeti — ‘ahaṃ māyaṃ jānāmī’ti, so evaṃ vadeti — ‘ahaṃ māyāvī’ti.",
+      "fr": "—Chef de village, est-ce que dire [i]“Je connais la Magie”[/i] est équivalent à dire [i]“Je suis un magicien”[/i]?"
+    },
+    {
+      "pl": "tatheva taṃ bhagavā hoti, tatheva taṃ sugata hotī”ti.",
+      "fr": "—Il en est ainsi, ô [bhagava|Fortuné]. Il en est ainsi, ô Sublime."
+    },
+    {
+      "pl": "tena hi, gāmaṇi, taññevettha paṭipucchissāmi; yathā te khameyya, tathā taṃ byākareyyāsi. taṃ kiṃ maññasi, gāmaṇi, jānāsi tvaṃ koliyānaṃ lambacūḷake bhaṭe”ti?",
+      "fr": "—Pour cela, je vais te questionner en retour, réponds comme bon te semble. Qu'en penses-tu, chef de village: est-ce que tu connais les mercenaires koliyans qui portent des chignons?"
+    },
+    {
+      "pl": "“jānāmahaṃ, bhante, koliyānaṃ lambacūḷake bhaṭe”ti.",
+      "fr": "—Oui, [bhante|Bhanté], je connais les mercenaires koliyans qui portent des chignons."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, gāmaṇi, kimatthiyā koliyānaṃ lambacūḷakā bhaṭā”ti?",
+      "fr": "—Qu'en penses-tu, chef de village: quel est le rôle des mercenaires koliyans qui portent des chignons?"
+    },
+    {
+      "pl": "“ye ca, bhante, koliyānaṃ corā te ca paṭisedhetuṃ, yāni ca koliyānaṃ dūteyyāni tāni ca vahātuṃ, etadatthiyā, bhante, koliyānaṃ lambacūḷakā bhaṭā”ti.",
+      "fr": "—[bhante|Bhanté], leur rôle est d'arrêter les voleurs parmi les Koliyans et de porter les messages des Koliyans."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, gāmaṇi, jānāsi tvaṃ koliyānaṃ lambacūḷake bhaṭe sīlavante vā te dussīle vā”ti?",
+      "fr": "—Qu'en penses-tu, chef de village: est-ce que les mercenaires koliyans qui portent des chignons sont [sila|vertueux] ou [dussila|immoraux]?"
+    },
+    {
+      "pl": "“jānāmahaṃ, bhante, koliyānaṃ lambacūḷake bhaṭe dussīle pāpadhamme; ye ca loke dussīlā pāpadhammā koliyānaṃ lambacūḷakā bhaṭā tesaṃ aññatarā”ti.",
+      "fr": "—[bhante|Bhanté], je sais que les mercenaires koliyans qui portent des chignons sont [dussila|immoraux], qu'ils ont un [dhamma|caractère] dépravé, qu'ils font partie de ceux dans le monde qui sont [dussila|immoraux] et qui ont un [dhamma|caractère] dépravé."
+    },
+    {
+      "pl": "“yo nu kho, gāmaṇi, evaṃ vadeyya — ‘pāṭaliyo gāmaṇi jānāti koliyānaṃ lambacūḷake bhaṭe dussīle pāpadhamme, pāṭaliyopi gāmaṇi dussīlo pāpadhammo’ti, sammā nu kho so vadamāno vadeyyā”ti?",
+      "fr": "—Maintenant, est-ce qu'il serait correct de dire: [i]“Puisque Pataliya sait que les mercenaires koliyans qui portent des chignons sont [dussila|immoraux], qu'ils ont un [dhamma|caractère] dépravé, cela signifie que Pataliya lui-même est immoral, qu'il a un [dhamma|caractère] dépravé”[/i]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante! aññe, bhante, koliyānaṃ lambacūḷakā bhaṭā, aññohamasmi. aññathādhammā koliyānaṃ lambacūḷakā bhaṭā, aññathādhammohamasmī”ti.",
+      "fr": "—Non, [bhante|Bhanté], je suis différent des mercenaires koliyans qui portent des chignons. Mon [dhamma|caractère] est différent du leur."
+    },
+    {
+      "pl": "“tvañhi nāma, gāmaṇi, lacchasi — ‘pāṭaliyo gāmaṇi jānāti koliyānaṃ lambacūḷake bhaṭe dussīle pāpadhamme, na ca pāṭaliyo gāmaṇi dussīlo pāpadhammo’ti, kasmā tathāgato na lacchati — ‘tathāgato māyaṃ jānāti, na ca tathāgato māyāvī’ti? māyaṃ cāhaṃ, gāmaṇi, pajānāmi, māyāya ca vipākaṃ, yathāpaṭipanno ca māyāvī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi”.",
+      "fr": "—Chef de village, s'il est possible que tu saches que les mercenaires koliyans qui portent des chignons sont [dussila|immoraux], qu'ils ont un [dhamma|caractère] dépravé, sans pour autant que tu sois toi-même immoral, que tu aies un [dhamma|caractère] dépravé, pourquoi ne serait-il pas possible que le [tathagata|Tathagata] connaisse la magie, sans qu'il soit lui-même un magicien? Chef de village, je [panna|discerne] la magie, les [vipaka|conséquences] de la magie, et je [panna|discerne] aussi comment un magicien, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "“pāṇātipātaṃ cāhaṃ, gāmaṇi, pajānāmi, pāṇātipātassa ca vipākaṃ, yathāpaṭipanno ca pāṇātipātī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [panatipata|destruction de la vie], les [vipaka|conséquences] de la [panatipata|destruction de la vie], et comment celui qui détruit la vie, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "adinnādānaṃ cāhaṃ, gāmaṇi, pajānāmi, adinnādānassa ca vipākaṃ, yathāpaṭipanno ca adinnādāyī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] l'[adinnadana|appropriation de ce qui n'a pas été donné], les [vipaka|conséquences] de l'[adinnadana|appropriation de ce qui n'a pas été donné], et comment celui qui s'approprie ce qui n'a pas été donné, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "kāmesumicchācāraṃ cāhaṃ, gāmaṇi, pajānāmi, kāmesumicchācārassa ca vipākaṃ, yathāpaṭipanno ca kāmesumicchācārī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [kamesumicchacara|méconduite en raison des [kama|plaisirs sensuels]], les [vipaka|conséquences] de la [kamesumicchacara|méconduite en raison des [kama|plaisirs sensuels]], et comment celui qui se méconduit en raison des [kama|plaisirs sensuels], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "musāvādaṃ cāhaṃ, gāmaṇi, pajānāmi, musāvādassa ca vipākaṃ, yathāpaṭipanno ca musāvādī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [musavada|parole mensongère], les [vipaka|conséquences] de la [musavada|parole mensongère], et comment celui qui parle de manière mensongère, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "pisuṇavācaṃ cāhaṃ, gāmaṇi, pajānāmi, pisuṇavācāya ca vipākaṃ, yathāpaṭipanno ca pisuṇavāco kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [pisunavaca|parole médisante], les [vipaka|conséquences] de la [pisunavaca|parole médisante], et comment celui qui a des paroles médisantes, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "pharusavācaṃ cāhaṃ, gāmaṇi, pajānāmi, pharusavācāya ca vipākaṃ, yathāpaṭipanno ca pharusavāco kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [pharusavaca|parole agressive], les [vipaka|conséquences] de la [pharusavaca|parole agressive], et comment celui qui parle de manière agressive, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "samphappalāpaṃ cāhaṃ, gāmaṇi, pajānāmi, samphappalāpassa ca vipākaṃ, yathāpaṭipanno ca samphappalāpī kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] le [samphappalapa|bavardage infructueux], les [vipaka|conséquences] du [samphappalapa|bavardage infructueux], et comment celui qui pratique le [samphappalapa|bavardage infructueux], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "abhijjhaṃ cāhaṃ, gāmaṇi, pajānāmi, abhijjhāya ca vipākaṃ, yathāpaṭipanno ca abhijjhālu kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [abhijjhha|convoitise], les [vipaka|conséquences] de la [abhijjhha|convoitise], et comment celui qui convoite, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "byāpādapadosaṃ cāhaṃ, gāmaṇi, pajānāmi, byāpādapadosassa ca vipākaṃ, yathāpaṭipanno ca byāpannacitto kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [byapada|malveillance] et la haine, les [vipaka|conséquences] de la [byapada|malveillance] et de la haine, et comment celui qui a l'esprit malveillant, lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "micchādiṭṭhiṃ cāhaṃ, gāmaṇi, pajānāmi, micchādiṭṭhiyā ca vipākaṃ, yathāpaṭipanno ca micchādiṭṭhiko kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati tañca pajānāmi.",
+      "fr": "Je [panna|discerne] la [micchaditthi|vue erronée], les [vipaka|conséquences] de la [micchaditthi|vue erronée], et comment celui qui a la [micchaditthi|vue erronée], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "“santi hi, gāmaṇi, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci pāṇamatipāteti, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayati. yo koci adinnaṃ ādiyati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayati. yo koci kāmesu micchā carati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayati. yo koci musā bhaṇati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’”ti.",
+      "fr": "Il y a des [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui détruit la vie ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible]. Toute personne qui s'approprie ce qui n'a pas été donné ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible]. Toute personne qui se méconduit en raison des [kama|plaisirs sensuels] ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible]. Toute personne qui dit des mensonges ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i]"
+    },
+    {
+      "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rañño paccatthikaṃ pasayha jīvitā voropesi. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī sunhāto suvilitto kappitakesamassu, itthikāmehi rājā maññe paricāretī’”ti.",
+      "fr": "On voit quelqu'un portant des guirlandes, des boucles d'oreille, bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes, des boucles d'oreille, être bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi?”[/i] Et on répond: [i]“Cet homme a utilisé la force contre un ennemi du roi et lui a ôté la vie. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes, des boucles d'oreille, est bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi.”[/i]"
+    },
+    {
+      "pl": "“dissati kho, gāmaṇi, idhekacco daḷhāya rajjuyā pacchābāhaṃ gāḷhabandhanaṃ bandhitvā khuramuṇḍaṃ karitvā kharassarena paṇavena rathikāya rathikaṃ siṅghāṭakena siṅghāṭakaṃ parinetvā, dakkhiṇena dvārena nikkhāmetvā, dakkhiṇato nagarassa sīsaṃ chijjamāno. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi, daḷhāya rajjuyā pacchābāhaṃ gāḷhabandhanaṃ bandhitvā khuramuṇḍaṃ karitvā kharassarena paṇavena rathiyāya rathiyaṃ siṅghāṭakena siṅghāṭakaṃ parinetvā dakkhiṇena dvārena nikkhāmetvā dakkhiṇato nagarassa sīsaṃ chindatī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rājaverī itthiṃ vā purisaṃ vā jīvitā voropesi, tena naṃ rājāno gahetvā evarūpaṃ kammakāraṇaṃ kārentī’”ti.",
+      "fr": "Maintenant on voit quelqu'un attaché avec une grosse corde bien serrée, les bras dans le dos, complètement rasé, traîné au son du tambour de rue en rue, de carrefour en carrefour, et après l'avoir fait sortir par la porte sud, on lui coupe la tête au sud de la ville. On demande alors: [i]“Qu'a fait cet homme pour être attaché avec une grosse corde bien serrée, les bras dans le dos, complètement rasé, traîné au son du tambour de rue en rue, de carrefour en carrefour, et qu'après l'avoir fait sortir par la porte sud, on lui coupe la tête au sud de la ville?”[/i] Et on répond: [i]“Cet homme est un ennemi du roi, et il a ôté la vie à une femme ou à un homme. C'est pourquoi le roi, l'ayant capturé, lui fait subir une telle punition.”[/i]"
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, gāmaṇi, api nu te evarūpaṃ diṭṭhaṃ vā sutaṃ vā”ti?",
+      "fr": "Qu'en penses-tu, chef de village: as-tu déjà vu ou entendu parler de faits similaires?"
+    },
+    {
+      "pl": "“diṭṭhañca no, bhante, sutañca suyyissati cā”ti.",
+      "fr": "—J'en ai vu, [bhante|Bhanté], j'en ai entendu parler, et j'en entendrai encore parler."
+    },
+    {
+      "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci pāṇamatipāteti, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vā”ti?",
+      "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui détruit la vie ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement?"
+    },
+    {
+      "pl": "“musā, bhante”.",
+      "fr": "—Faussement, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te tucchaṃ musā vilapanti, sīlavanto vā te dussīlā vā”ti?",
+      "fr": "—Et ceux qui racontent n'importe quoi, sont-ils [sila|vertueux] ou [dussila|manquent-ils de vertu]?"
+    },
+    {
+      "pl": "“dussīlā, bhante”.",
+      "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te dussīlā pāpadhammā micchāpaṭipannā vā te sammāpaṭipannā vā”ti?",
+      "fr": "—Et ceux qui [dussila|manquent de vertu], qui ont un [dhamma|caractère] mauvais, est-ce qu'ils pratiquent de manière erronée ou est-ce qu'ils pratiquent correctement?"
+    },
+    {
+      "pl": "“micchāpaṭipannā, bhante”.",
+      "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te micchāpaṭipannā micchādiṭṭhikā vā te sammādiṭṭhikā vā”ti?",
+      "fr": "—Et ceux qui pratiquent de manière erronée, est-ce qu'ils ont la [micchaditthi|vue erronée], ou est-ce qu'ils ont la [sammaditthi|vue correcte]?"
+    },
+    {
+      "pl": "“micchādiṭṭhikā, bhante”.",
+      "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te micchādiṭṭhikā kallaṃ nu tesu pasīditun”ti?",
+      "fr": "—Est-il raisonnable de faire confiance à ceux qui ont la [micchaditthi|vue erronée]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rañño paccatthikassa pasayha ratanaṃ ahāsi. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’”ti.",
+      "fr": "—On voit quelqu'un portant des guirlandes (…) comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes (…) comme un roi?”[/i] Et on répond: [i]“Cet homme a utilisé la force contre un ennemi du roi et lui a volé son trésor. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes (…) comme un roi.”[/i]"
+    },
+    {
+      "pl": "“dissati kho, gāmaṇi, idhekacco daḷhāya rajjuyā ... pe ... dakkhiṇato nagarassa sīsaṃ chijjamāno tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi daḷhāya rajjuyā ... pe ... dakkhiṇato nagarassa sīsaṃ chindatī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyi. tena naṃ rājāno gahetvā evarūpaṃ kammakāraṇaṃ kārentī’ti. taṃ kiṃ maññasi, gāmaṇi, api nu te evarūpaṃ diṭṭhaṃ vā sutaṃ vā”ti?",
+      "fr": "Maintenant on voit quelqu'un attaché avec une grosse corde bien serrée (…) on lui coupe la tête au sud de la ville. On demande alors: [i]“Qu'a fait cet homme pour être attaché avec une grosse corde bien serrée (…) qu'on lui coupe la tête au sud de la ville?”[/i] Et on répond: [i]“Cet homme a volé quelque chose dans un village ou dans la forêt. C'est pourquoi le roi, l'ayant capturé, lui fait subir une telle punition.”[/i] Qu'en penses-tu, chef de village: as-tu déjà vu ou entendu parler de faits similaires?"
+    },
+    {
+      "pl": "“diṭṭhañca no, bhante, sutañca suyyissati cā”ti.",
+      "fr": "—J'en ai vu, [bhante|Bhanté], j'en ai entendu parler, et j'en entendrai encore parler."
+    },
+    {
+      "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci adinnaṃ ādiyati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vāti ... pe ... kallaṃ nu tesu pasīditun”ti?",
+      "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui s'approprie ce qui n'a pas été donné ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement? (…) Est-il raisonnable de leur faire confiance?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rañño paccatthikassa dāresu cārittaṃ āpajji. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī ... pe ... itthikāmehi rājā maññe paricāretī’”ti.",
+      "fr": "—On voit quelqu'un portant des guirlandes (…) comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes (…) comme un roi?”[/i] Et on répond: [i]“Cet homme a eu une liaison avec la femme d'un ennemi du roi. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes (…) comme un roi.”[/i]"
+    },
+    {
+      "pl": "“dissati kho, gāmaṇi, idhekacco daḷhāya rajjuyā ... pe ... dakkhiṇato nagarassa sīsaṃ chijjamāno. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi daḷhāya rajjuyā ... pe ... dakkhiṇato nagarassa sīsaṃ chindatī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kulitthīsu kulakumārīsu cārittaṃ āpajji, tena naṃ rājāno gahetvā evarūpaṃ kammakāraṇaṃ kārentī’ti. taṃ kiṃ maññasi, gāmaṇi, api nu te evarūpaṃ diṭṭhaṃ vā sutaṃ vā”ti?",
+      "fr": "Maintenant on voit quelqu'un attaché avec une grosse corde bien serrée (…) on lui coupe la tête au sud de la ville. On demande alors: [i]“Qu'a fait cet homme pour être attaché avec une grosse corde bien serrée (…) qu'on lui coupe la tête au sud de la ville?”[/i] Et on répond: [i]“Cet homme a eu une liaison avec une femme ou une jeune fille de bonne famille. C'est pourquoi le roi, l'ayant capturé, lui fait subir une telle punition.”[/i] Qu'en penses-tu, chef de village: as-tu déjà vu ou entendu parler de faits similaires?"
+    },
+    {
+      "pl": "“diṭṭhañca no, bhante, sutañca suyyissati cā”ti.",
+      "fr": "—J'en ai vu, [bhante|Bhanté], j'en ai entendu parler, et j'en entendrai encore parler."
+    },
+    {
+      "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci kāmesu micchā carati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vāti ... pe ... kallaṃ nu tesu pasīditun”ti?",
+      "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui se méconduit en raison des [kama|plaisirs sensuels] ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement? (…) Est-il raisonnable de leur faire confiance?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“dissati kho pana, gāmaṇi, idhekacco mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricārento. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricāretī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso rājānaṃ musāvādena hāsesi. tassa rājā attamano abhihāramadāsi. tenāyaṃ puriso mālī kuṇḍalī sunhāto suvilitto kappitakesamassu itthikāmehi rājā maññe paricāretī’”ti.",
+      "fr": "—On voit quelqu'un portant des guirlandes, des boucles d'oreille, bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi. On demande alors: [i]“Qu'a fait cet homme pour porter des guirlandes, des boucles d'oreille, être bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi?”[/i] Et on répond: [i]“Cet homme a fait rire le roi avec des mensonges. Le roi en a été ravi et lui a offert des cadeaux. C'est pourquoi cet homme porte des guirlandes, des boucles d'oreille, est bien baigné, bien parfumé, les cheveux et la barbe taillés, jouissant des [kama|plaisirs sensuels] avec des femmes, comme un roi.”[/i]"
+    },
+    {
+      "pl": "“dissati kho, gāmaṇi, idhekacco daḷhāya rajjuyā pacchābāhaṃ gāḷhabandhanaṃ bandhitvā khuramuṇḍaṃ karitvā kharassarena paṇavena rathiyāya rathiyaṃ siṅghāṭakena siṅghāṭakaṃ parinetvā dakkhiṇena dvārena nikkhāmetvā dakkhiṇato nagarassa sīsaṃ chijjamāno. tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso kiṃ akāsi daḷhāya rajjuyā pacchābāhaṃ gāḷhabandhanaṃ bandhitvā khuramuṇḍaṃ karitvā kharassarena paṇavena rathiyāya rathiyaṃ siṅghāṭakena siṅghāṭakaṃ parinetvā, dakkhiṇena dvārena nikkhāmetvā, dakkhiṇato nagarassa sīsaṃ chindatī’ti? tamenaṃ evamāhaṃsu — ‘ambho! ayaṃ puriso gahapatissa vā gahapatiputtassa vā musāvādena atthaṃ bhañji, tena naṃ rājāno gahetvā evarūpaṃ kammakāraṇaṃ kārentī’ti.",
+      "fr": "Maintenant on voit quelqu'un attaché avec une grosse corde bien serrée, les bras dans le dos, complètement rasé, traîné au son du tambour de rue en rue, de carrefour en carrefour, et après l'avoir fait sortir par la porte sud, on lui coupe la tête au sud de la ville. On demande alors: [i]“Qu'a fait cet homme pour être attaché avec une grosse corde bien serrée, les bras dans le dos, complètement rasé, traîné au son du tambour de rue en rue, de carrefour en carrefour, et qu'après l'avoir fait sortir par la porte sud, on lui coupe la tête au sud de la ville?”[/i] Et on répond: [i]“Cet homme a escroqué un chef de foyer ou un fils de chef de foyer par le mensonge. C'est pourquoi le roi, l'ayant capturé, lui fait subir une telle punition.”[/i]"
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, gāmaṇi, api nu te evarūpaṃ diṭṭhaṃ vā sutaṃ vā”ti?",
+      "fr": "Qu'en penses-tu, chef de village: as-tu déjà vu ou entendu parler de faits similaires?"
+    },
+    {
+      "pl": "“diṭṭhañca no, bhante, sutañca suyyissati cā”ti.",
+      "fr": "—J'en ai vu, [bhante|Bhanté], j'en ai entendu parler, et j'en entendrai encore parler."
+    },
+    {
+      "pl": "“tatra, gāmaṇi, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino — ‘yo koci musā bhaṇati, sabbo so diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedayatī’ti, saccaṃ vā te āhaṃsu musā vā”ti?",
+      "fr": "—Maintenant, chef de village, les [samana|renonçants] et [brahmana|brahmanes] qui adhèrent à cette doctrine, à cette [ditthi|vue]: [i]“Toute personne qui dit des mensonges ressent de l'[dukkha|insatisfaction] et de la [domanassa|déplaisance mentale] [ditthevadhamme|dans le monde visible].”[/i] Parlent-ils vrai ou faussement?"
+    },
+    {
+      "pl": "“musā, bhante”.",
+      "fr": "—Faussement, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te tucchaṃ musā vilapanti, sīlavanto vā te dussīlā vā”ti?",
+      "fr": "—Et ceux qui racontent n'importe quoi, sont-ils [sila|vertueux] ou [dussila|manquent-ils de vertu]?"
+    },
+    {
+      "pl": "“dussīlā, bhante”.",
+      "fr": "—Ils [dussila|manquent de vertu], [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te dussīlā pāpadhammā micchāpaṭipannā vā te sammāpaṭipannā vā”ti?",
+      "fr": "—Et ceux qui [dussila|manquent de vertu], qui ont un [dhamma|caractère] mauvais, est-ce qu'ils pratiquent de manière erronée ou est-ce qu'ils pratiquent correctement?"
+    },
+    {
+      "pl": "“micchāpaṭipannā, bhante”.",
+      "fr": "—Ils pratiquent de manière erronée, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te micchāpaṭipannā micchādiṭṭhikā vā te sammādiṭṭhikā vā”ti?",
+      "fr": "—Et ceux qui pratiquent de manière erronée, est-ce qu'ils ont la [micchaditthi|vue erronée], ou est-ce qu'ils ont la [sammaditthi|vue correcte]?"
+    },
+    {
+      "pl": "“micchādiṭṭhikā, bhante”.",
+      "fr": "—Ils ont la [micchaditthi|vue erronée], [bhante|Bhanté]."
+    },
+    {
+      "pl": "“ye pana te micchādiṭṭhikā kallaṃ nu tesu pasīditun”ti?",
+      "fr": "—Est-il raisonnable de faire confiance à ceux qui ont la [micchaditthi|vue erronée]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“acchariyaṃ, bhante, abbhutaṃ, bhante! atthi me, bhante, āvasathāgāraṃ. tattha atthi mañcakāni, atthi āsanāni, atthi udakamaṇiko, atthi telappadīpo. tattha yo samaṇo vā brāhmaṇo vā vāsaṃ upeti, tenāhaṃ yathāsatti yathābalaṃ saṃvibhajāmi. bhūtapubbaṃ, bhante, cattāro satthāro nānādiṭṭhikā nānākhantikā nānārucikā, tasmiṃ āvasathāgāre vāsaṃ upagacchuṃ”.",
+      "fr": "C'est formidable, [bhante|Bhanté], inouï! [bhante|Bhanté], j'ai un havre de repos, où l'on trouve des lits, des sièges, des jarres remplies d'eau et des lampes à huile. Je partage tout cela avec le [samana|renonçant] ou le [brahmana|brahmane] qui y séjourne, dans la mesure de mes moyens. Dans le passé, quatre enseignants ayant différentes [ditthi|vues], différentes croyances, différentes préférences ont pris résidence dans ce havre de repos."
+    },
+    {
+      "pl": "“eko satthā evaṃvādī evaṃdiṭṭhi — ‘natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko. natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’”ti.",
+      "fr": "L'un de ces enseignants adhérait à cette doctrine, à cette [ditthi|vue]: [i]“Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il n'y a pas ce [loka|monde], il n'y a pas d'autre [loka|monde], il n'y a pas de mère, pas de père, pas d'êtres [opapatika|nés spontanément], il n'y a pas dans le [loka|monde] de [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui fassent connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe].”[/i]"
+    },
+    {
+      "pl": "“eko satthā evaṃvādī evaṃdiṭṭhi — ‘atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’”ti.",
+      "fr": "Un autre de ces enseignants adhérait à cette doctrine, à cette [ditthi|vue]: [i]“Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il y a ce [loka|monde], il y a l'autre [loka|monde], il y a la mère, le père, les êtres [opapatika|nés spontanément], il y a dans le [loka|monde] des [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui font connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe].”[/i]"
+    },
+    {
+      "pl": "“eko satthā evaṃvādī evaṃdiṭṭhi — ‘karoto kārayato, chindato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto na karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. dakkhiṇaṃ cepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. uttaraṃ cepi gaṅgāya tīraṃ gaccheyya dadanto dāpento yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. dānena damena saṃyamena saccavajjena natthi puññaṃ, natthi puññassa āgamo’”ti.",
+      "fr": "L'un de ces enseignants adhérait à cette doctrine, à cette [ditthi|vue]: [i]“En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit ne fait pas de mal. Même si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela ne causerait pas de [punna|mérite], il n'y aurait pas de conséquence du [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il n'y a pas de [punna|mérite], il n'y a pas de conséquence au [punna|mérite].”[/i]"
+    },
+    {
+      "pl": "“eko satthā evaṃvādī evaṃdiṭṭhi — ‘karoto kārayato, chindato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. dakkhiṇaṃ cepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. uttaraṃ cepi gaṅgāya tīraṃ gaccheyya dadanto dāpento, yajanto yajāpento, atthi tatonidānaṃ puññaṃ, atthi puññassa āgamo. dānena damena saṃyamena saccavajjena atthi puññaṃ, atthi puññassa āgamo’”ti.",
+      "fr": "Un autre de ces enseignants adhérait à cette doctrine, à cette [ditthi|vue]: [i]“En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit fait du mal. Et si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela causerait du mal, il y aurait des conséquences au mal. Et si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela causerait du mal, il y aurait des conséquences au mal. Et si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela causerait du [punna|mérite], il y aurait des conséquences au [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il y a du [punna|mérite], il y a des conséquences au [punna|mérite].”[/i]"
+    },
+    {
+      "pl": "“tassa mayhaṃ, bhante, ahudeva kaṅkhā, ahu vicikicchā — ‘kosu nāma imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha, ko musā’”ti?",
+      "fr": "Suite à cela, [bhante|Bhanté], j'ai été sujet à l'incertitude et au [vicikiccha|doute]: [i]“Lequel de ces honorables [samana|renonçants] et [brahmana|brahmanes] dit la vérité, lequel dit une fausseté?”[/i]"
+    },
+    {
+      "pl": "“alañhi te, gāmaṇi, kaṅkhituṃ, alaṃ vicikicchituṃ. kaṅkhanīye ca pana te ṭhāne vicikicchā uppannā”ti.",
+      "fr": "—Bien sûr, chef de village, que tu es en proie à l'incertitude, bien sûr que tu es en proie au [vicikiccha|doute]. Le [vicikiccha|doute] est apparu en toi à cause de matières qui engendrent l'incertitude."
+    },
+    {
+      "pl": "“evaṃ pasannohaṃ, bhante, bhagavati. pahoti me bhagavā tathā dhammaṃ desetuṃ yathāhaṃ imaṃ kaṅkhādhammaṃ pajaheyyan”ti.",
+      "fr": "—[bhante|Bhanté], j'ai confiance envers le [bhagava|Fortuné]. Puisse le [bhagava|Fortuné] m'enseigner le [dhamma|Dhamma] de telle manière que je puisse abandonner cet état d'incertitude."
+    },
+    {
+      "pl": "“atthi, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi. evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi. katamo ca, gāmaṇi, dhammasamādhi? idha, gāmaṇi, ariyasāvako pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti, adinnādānaṃ pahāya adinnādānā paṭivirato hoti, kāmesumicchācāraṃ pahāya kāmesumicchācārā paṭivirato hoti, musāvādaṃ pahāya musāvādā paṭivirato hoti, pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti, pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti, samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti, abhijjhaṃ pahāya anabhijjhālu hoti, byāpādapadosaṃ pahāya abyāpannacitto hoti, micchādiṭṭhiṃ pahāya sammādiṭṭhiko hoti.",
+      "fr": "—Chef de village, il y a la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude. Et qu'est-ce que la [samadhi|concentration] du [dhamma|Dhamma]? À cet égard, un [ariyasavaka|noble disciple], ayant abandonné la [panatipata|destruction de la vie], s'abstient de [panatipata|détruire la vie]. Ayant abandonné l'[adinnadana|appropriation de ce qui n'a pas été donné], il s'abstient de s'emparer de ce qui n'a pas été donné. Ayant abandonné la [kamesumicchacara|méconduite en raison des [kama|plaisirs sensuels]], il s'abstient de la [kamesumicchacara|méconduite en raison des [kama|plaisirs sensuels]]. Ayant abandonné les [musavada|fausses paroles], il s'abstient des [musavada|fausses paroles]. Ayant abandonné les [pisunavaca|paroles médisantes], il s'abstient des [pisunavaca|paroles médisantes]. Ayant abandonné les [pharusavaca|paroles agressives], il s'abstient des [pharusavaca|paroles agressives]. Ayant abandonné les [samphappalapa|bavardages infructueux], il s'abstient des [samphappalapa|bavardages infructueux]. Ayant abandonné la [abhijjha|convoitise], il n'est pas [abhijjha|envieux]. Ayant abandonné la [byapada|malveillance] et la haine, son [citta|esprit] est dénué de [byapada|malveillance]. Ayant abandonné la [micchaditthi|vue erronée], il adopte la [sammaditthi|vue correcte]."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#metta-cl|reste à imprégner une direction d'un esprit rempli de bienveillance, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā, sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti. ‘sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il n'y a pas ce [loka|monde], il n'y a pas d'autre [loka|monde], il n'y a pas de mère, pas de père, pas d'êtres [opapatika|nés spontanément], il n'y a pas dans le [loka|monde] de [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui fassent connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#metta-cl|reste à imprégner une direction d'un esprit rempli de bienveillance, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā, sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti. ‘sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il y a ce [loka|monde], il y a l'autre [loka|monde], il y a la mère, le père, les êtres [opapatika|nés spontanément], il y a dans le [loka|monde] des [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui font connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#metta-cl|reste à imprégner une direction d'un esprit rempli de bienveillance, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — karoto kārayato, chindato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto na karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. dakkhiṇañcepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento, yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. dānena damena saṃyamena saccavajjena natthi puññaṃ, natthi puññassa āgamo’ti. ‘sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit ne fait pas de mal. Même si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela ne causerait pas de [punna|mérite], il n'y aurait pas de conséquence du [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il n'y a pas de [punna|mérite], il n'y a pas de conséquence au [punna|mérite]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#metta-cl|reste à imprégner une direction d'un esprit rempli de bienveillance, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli de bienveillance, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — karoto kārayato, chindato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. dakkhiṇañcepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento, yajanto yajāpento, atthi tatonidānaṃ puññaṃ, atthi puññassa āgamo. dānena damena saṃyamena saccavajjena atthi puññaṃ atthi puññassa āgamoti. sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit fait du mal. Et si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela causerait du mal, il y aurait des conséquences au mal. Si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela causerait du mal, il y aurait des conséquences au mal. Et si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela causerait du [punna|mérite], il y aurait des conséquences au [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il y a du [punna|mérite], il y a des conséquences au [punna|mérite]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato karuṇāsahagate cetasā ekaṃ disaṃ pharitvā viharati ... pe ... muditāsahagatena cetasā ekaṃ disaṃ pharitvā viharati ... pe ....",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#karuna-cl|reste à imprégner une direction d'un esprit rempli de compassion] (…) [@f_appam#mudita-cl| reste à imprégner une direction d'un esprit rempli de joie altruiste] (…)"
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato upekkhāsahagate cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#upekkha-cl|reste à imprégner une direction d'un esprit rempli d'équanimité, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli d'équanimité, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko natthi paro loko, natthi mātā natthi pitā natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti. sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘Il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il n'y a pas ce [loka|monde], il n'y a pas d'autre [loka|monde], il n'y a pas de mère, pas de père, pas d'êtres [opapatika|nés spontanément], il n'y a pas dans le [loka|monde] de [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui fassent connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato upekkhāsahagate cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#upekkha-cl|reste à imprégner une direction d'un esprit rempli d'équanimité, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli d'équanimité, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko atthi paro loko, atthi mātā atthi pitā atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti. sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘Il y a ce qui est donné, ce qui est sacrifié, ce qui est offert, il y a des [vipaka|résultats] aux [kamma|actions] bonnes ou mauvaises, il y a ce [loka|monde], il y a l'autre [loka|monde], il y a la mère, le père, les êtres [opapatika|nés spontanément], il y a dans le [loka|monde] des [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui font connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato upekkhāsahagate cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#upekkha-cl|reste à imprégner une direction d'un esprit rempli d'équanimité, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli d'équanimité, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — karoto kārayato, chedato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto na karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. dakkhiṇañcepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento, yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. dānena damena saṃyamena saccavajjena natthi puññaṃ, natthi puññassa āgamo’ti. ‘sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsi.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit ne fait pas de mal. Même si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela ne causerait pas de mal, il n'y aurait pas de conséquence du mal. Même si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela ne causerait pas de [punna|mérite], il n'y aurait pas de conséquence du [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il n'y a pas de [punna|mérite], il n'y a pas de conséquence au [punna|mérite]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude."
+    },
+    {
+      "pl": "“sa kho so, gāmaṇi, ariyasāvako evaṃ vigatābhijjho vigatabyāpādo asammūḷho sampajāno paṭissato upekkhāsahagate cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ, iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+      "fr": "Un tel [ariyasavaka|noble disciple], chef de village, ainsi dénué de [abhijjha|convoitise], dénué de [byapada|malveillance], sans confusion, [sampajana|doué de discernement attentif], constamment [sata|présent d'esprit], [@f_appam#upekkha-cl|reste à imprégner une direction d'un esprit rempli d'équanimité, de même la deuxième, la troisième et la quatrième. Vers le haut et le bas, transversalement, dans toutes les directions, envers tous comme envers lui-même, il reste ainsi à imprégner le monde entier d'un esprit rempli d'équanimité, étendu, transcendant, sans limite, sans hostilité, sans malveillance.]"
+    },
+    {
+      "pl": "so iti paṭisañcikkhati — ‘yvāyaṃ satthā evaṃvādī evaṃdiṭṭhi — karoto kārayato, chindato chedāpayato, pacato pācāpayato, socayato socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. dakkhiṇañcepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, atthi tatonidānaṃ pāpaṃ, atthi pāpassa āgamo. uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento, yajanto yajāpento, atthi tatonidānaṃ puññaṃ, atthi puññassa āgamo. dānena damena saṃyamena saccavajjena atthi puññaṃ, atthi puññassa āgamo’ti. ‘sace tassa bhoto satthuno saccaṃ vacanaṃ, apaṇṇakatāya mayhaṃ, yvāhaṃ na kiñci byābādhemi tasaṃ vā thāvaraṃ vā? ubhayamettha kaṭaggāho, yaṃ camhi kāyena saṃvuto vācāya saṃvuto manasā saṃvuto, yañca kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti. tassa pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vedayati. sukhino cittaṃ samādhiyati. ayaṃ kho, gāmaṇi, dhammasamādhi. tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi, evaṃ tvaṃ imaṃ kaṅkhādhammaṃ pajaheyyāsī”ti.",
+      "fr": "Il considère ceci: [i]“En ce qui concerne l'enseignant qui adhère à cette doctrine, à cette [ditthi|vue]: [/i]‘En agissant soi-même ou en faisant agir les autres, en mutilant ou en faisant mutiler, en torturant ou en faisant torturer, en créant de la peine ou en faisant créer de la peine, en opprimant ou en faisant opprimer, en intimidant ou en faisant intimider, en ôtant la vie, en s'appropriant ce qui n'a pas été donné, en pénétrant dans les maisons, en pillant, en cambriolant, en montant des embuscades le long des routes, en allant à la femme d'un autre, en disant des mensonges, celui qui agit fait du mal. Et si quelqu'un transformait tous les êtres vivants de cette Terre en une seule purée de chair, en un seul tas de chair, cela causerait du mal, il y aurait des conséquences au mal. Si quelqu'un parcourait la rive sud du Gange, tuant, massacrant, mutilant et faisant mutiler, torturant et faisant torturer, cela causerait du mal, il y aurait des conséquences au mal. Et si quelqu'un parcourait la rive nord du Gange, donnant et faisant donner, faisant des offrandes et faisant faire des offrandes, cela causerait du [punna|mérite], il y aurait des conséquences au [punna|mérite]. Dans le don, la modération, la restreinte, le fait de dire la vérité, il y a du [punna|mérite], il y a des conséquences au [punna|mérite]’[i]. Si la parole de ce vénérable enseignant est vraie, il n'en reste pas moins que je ne fais de mal à personne, faible ou fort. Dans ces deux perspectives, j'ai joué un coup chanceux: puisque je suis restreint en corps, restreint en parole, restreint en esprit, lors de la rupture du [kaya|corps], après la [marana|mort], je réapparaîtrai dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].”[/i] La joie sereine apparaît en lui. Chez celui qui est dans la [pamojja|joie] sereine, l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Voici, chef de village, ce qu'est la [samadhi|concentration] du [dhamma|Dhamma]. Si tu obtiens cette [samadhi|concentration] du [dhamma|Dhamma], tu abandonneras cet état d'incertitude.»"
+    },
+    {
+      "pl": "evaṃ vutte, pāṭaliyo gāmaṇi bhagavantaṃ etadavoca —",
+      "fr": "Lorsque cela fut dit, Pataliya le chef de village dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“abhikkantaṃ, bhante, abhikkantaṃ, bhante ... pe ... ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "«C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], nous allons en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "samana",
+    "brahmana",
+    "sila",
+    "dussila",
+    "dhamma",
+    "tathagata",
+    "panna",
+    "vipaka",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "panatipata",
+    "adinnadana",
+    "kamesumicchacara",
+    "kama",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "abhijjhha",
+    "byapada",
+    "micchaditthi",
+    "ditthi",
+    "dukkha",
+    "domanassa",
+    "ditthevadhamme",
+    "sammaditthi",
+    "kamma",
+    "loka",
+    "opapatika",
+    "abhinna",
+    "punna",
+    "vicikiccha",
+    "samadhi",
+    "ariyasavaka",
+    "abhijjha",
+    "citta",
+    "sampajana",
+    "sata",
+    "@f_appam#metta-cl",
+    "sugati",
+    "sagga",
+    "pamojja",
+    "piti",
+    "mana",
+    "sukha",
+    "@f_appam#karuna-cl",
+    "@f_appam#mudita-cl",
+    "@f_appam#upekkha-cl",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
+  "translator": "Sekha"
+}

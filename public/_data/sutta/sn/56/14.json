@@ -1,0 +1,65 @@
+{
+  "identifier": "SN 56.14",
+  "plTitle": "Ajjhattikāyatana Sutta",
+  "frTitle": "Les sphères internes",
+  "description": "Une définition des quatre nobles vérités faisant appel aux six sphères (des sens) internes.",
+  "body": [
+    {
+      "pl": "“cattārimāni, bhikkhave, ariyasaccāni. katamāni cattāri? dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ariyasaccaṃ, dukkhanirodhaṃ ariyasaccaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ.",
+      "fr": "Il y a, [bhikkhu|mendiants], ces quatre [ariyasacca|nobles vérités]. Quelles sont ces quatre? La [ariyasacca|noble vérité] du [dukkha|mal-être], la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être], la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être], et la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, dukkhaṃ ariyasaccaṃ? ‘cha ajjhattikāni āyatanānī’ tissa vacanīyaṃ. katamāni cha? cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, manāyatanaṃ. idaṃ vuccati, bhikkhave, dukkhaṃ ariyasaccaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [ariyasacca|noble vérité] du [dukkha|mal-être]? Les six [ayatana|sphères] internes, devrait-on dire. Quelles sont ces six? La [ayatana|sphère] de l'œil, la [ayatana|sphère] de l'oreille, la [ayatana|sphère] du nez, la [ayatana|sphère] de la langue, la [ayatana|sphère] du [kaya|corps], et la [ayatana|sphère] du [mana|mental]. Voici, [bhikkhu|mendiants], ce qu'on appelle la [ariyasacca|noble vérité] du [dukkha|mal-être]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ? yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ kāmataṇhā, bhavataṇhā, vibhavataṇhā. idaṃ vuccati, bhikkhave, dukkhasamudayaṃ ariyasaccaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être]? C'est cette[tanha|Soif] menant à la continuation de l'[bhava|existence], liée à la complaisance et l'[raga|avidité], se complaisant ici et là, c'est-à-dire la [kamatanha|Soif de sensualité], la [bhavatanha|Soif d'existence], la [vibhavatanha|Soif de non-existence]. Voici, [bhikkhu|mendiants], ce qu'on appelle la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ? yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. idaṃ vuccati, bhikkhave, dukkhanirodhaṃ ariyasaccaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être]? C'est la [viraga|disparition] complète & [nirodha|cessation] de cette même[tanha|Soif], son abandon, la renonciation à son égard, ainsi que la délivrance et le détachement par rapport à elle. Voici, [bhikkhu|mendiants], ce qu'on appelle la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ? ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. idaṃ vuccati, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]? C'est cette [aam|noble voie à huit composantes], c'est-à-direla [sammaditthi|vue correcte], l'[sammasankappa|aspiration correcte], la [sammavaca|parole correcte], l'[sammakammanta|action correcte], les [sammaajiva|moyens de subsistance corrects], l'[sammavayama|effort correct], la [sammasati|présence d'esprit correcte], et la [sammasamadhi|concentration correcte]. Voici, [bhikkhu|mendiants], ce qu'on appelle la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, cattāri ariyasaccāni.",
+      "fr": "Voici, [bhikkhu|mendiants], quelles sont ces quatre [ariyasacca|nobles vérités]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "ariyasacca",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "ayatana",
+    "kaya",
+    "mana",
+    "tanha",
+    "bhava",
+    "raga",
+    "kamatanha",
+    "bhavatanha",
+    "vibhavatanha",
+    "viraga",
+    "nirodha",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

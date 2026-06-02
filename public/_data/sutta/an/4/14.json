@@ -1,0 +1,88 @@
+{
+  "identifier": "AN 4.14",
+  "plTitle": "Saṃvara Sutta",
+  "frTitle": "La restreinte",
+  "description": "Ce soutta distingue quatre types d'effort et les explique en détail.",
+  "body": [
+    {
+      "pl": "“cattārimāni, bhikkhave, padhānāni. katamāni cattāri? saṃvarappadhānaṃ, pahānappadhānaṃ, bhāvanāppadhānaṃ, anurakkhaṇāppadhānaṃ. ",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types d'][padhana|effort].Quels sont ces quatre? L'[padhana|effort] de [samvara|restreinte], l'[padhana|effort] d'abandon, l'[padhana|effort] de [bhavana|développement], et l'[padhana|effort] de préservation."
+    },
+    {
+      "pl": "katamañca, bhikkhave, saṃvarappadhānaṃ? idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[padhana|effort] de [samvara|restreinte]? À cet égard, [@f_samvara#is-eye|un mendiant, en voyant une forme avec l'œil, ne saisit pas un aspect, ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'œil, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'œil; il entreprend la restreinte de la faculté de l'œil.]"
+    },
+    {
+      "pl": "sotena saddaṃ sutvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ sotindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati sotindriyaṃ; sotindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-ear|En entendant un son avec l'oreille, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'oreille, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'oreille; il entreprend la restreinte de la faculté de l'oreille.]"
+    },
+    {
+      "pl": "ghāṇena gandhaṃ ghāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ ghāṇindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati ghāṇindriyaṃ; ghāṇindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-nose|En sentant une odeur avec le nez, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du nez, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du nez; il entreprend la restreinte de la faculté du nez.]"
+    },
+    {
+      "pl": "jivhāya rasaṃ sāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ jivhindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati jivhindriyaṃ; jivhindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-tongue|En goûtant une saveur avec la langue, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de la langue, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de la langue; il entreprend la restreinte de la faculté de la langue.]"
+    },
+    {
+      "pl": "kāyena phoṭṭhabbaṃ phusitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ kāyindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati kāyindriyaṃ; kāyindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-body|En touchant une sensation corporelle avec le corps, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du corps, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du corps; il entreprend la restreinte de la faculté du corps.]"
+    },
+    {
+      "pl": "manasā dhammaṃ viññāya na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati manindriyaṃ; manindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-mind|En prenant conscience d'un phénomène mental avec l'esprit, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'esprit, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'esprit; il entreprend la restreinte de la faculté de l'esprit.]"
+    },
+    {
+      "pl": "idaṃ vuccati, bhikkhave, saṃvarappadhānaṃ.",
+      "fr": "Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de [samvara|restreinte]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, pahānappadhānaṃ? idha, bhikkhave, bhikkhu uppannaṃ kāmavitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannaṃ byāpādavitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannaṃ vihiṃsāvitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti. idaṃ vuccati, bhikkhave, pahānappadhānaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[padhana|effort] d'abandon? À cet égard, un mendiant ne consent pas à une [vitakka|pensée] de [kama|sensualité] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; ilne consent pas à une [vitakka|pensée] de [byapada|malveillance] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; ilne consent pas à une [vitakka|pensée] de [vihimsa|non-inoffensivité] ayant fait surface, il l'abandonne, il la dissipe, il l'élimine et la fait disparaître; il ne consent pas à un [dhamma|état mental] [papaka|malsain] et [akusala|désavantageux] ayant fait surface, il l'abandonne, le dissipe, l'élimine et le fait disparaître. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] d'abandon."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, bhāvanāppadhānaṃ? idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, dhammavicayasambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, vīriyasambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, pītisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, passaddhisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, samādhisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ,vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. idaṃ vuccati, bhikkhave, bhāvanāppadhānaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'[padhana|effort] de [bhavana|développement]? À cet égard, un mendiant développe le [sambojjhanga|facteur d'Éveil] de [sati|présence d'esprit] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de [bhavana|développement]."
+    },
+    {
+      "pl": "“katamañca, bhikkhave, anurakkhaṇāppadhānaṃ? idha, bhikkhave, bhikkhu uppannaṃ bhaddakaṃ samādhinimittaṃ anurakkhati aṭṭhikasaññaṃ puḷavakasaññaṃ vinīlakasaññaṃ vicchiddakasaññaṃ uddhumātakasaññaṃ. idaṃ vuccati, bhikkhave, anurakkhaṇāppadhānaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants] que l'[padhana|effort] de préservation? À cet égard, un mendiant préserve un bon objet de [samadhi|concentration] s'étant présenté, tel que la [sanna|perception] d'un squelette, la [sanna|perception] d'un corps infesté de vers, la [sanna|perception] d'un cadavre bleui, la [sanna|perception] d'un cadavre ouvert, ou la [sanna|perception] d'un cadavre gonflé. Voici, [bhikkhu|mendiants], ce qu'on appelle l'[padhana|effort] de préservation."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, cattāri padhānānī”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d'][padhana|effort]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "padhana",
+    "samvara",
+    "bhavana",
+    "@f_samvara#is-eye",
+    "@f_samvara#is-ear",
+    "@f_samvara#is-nose",
+    "@f_samvara#is-tongue",
+    "@f_samvara#is-body",
+    "@f_samvara#is-mind",
+    "vitakka",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "dhamma",
+    "papaka",
+    "akusala",
+    "sambojjhanga",
+    "sati",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha",
+    "sanna"
+  ],
+  "translator": "Rémy"
+}

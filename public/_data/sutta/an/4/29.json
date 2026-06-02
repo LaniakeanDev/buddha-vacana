@@ -1,0 +1,34 @@
+{
+  "identifier": "AN 4.29",
+  "plTitle": "Dhammapada Sutta",
+  "frTitle": "Éléments du Dhamma",
+  "description": "Le Bouddha insiste sur quatre choses à cultiver.",
+  "body": [
+    {
+      "pl": "“cattārimāni, bhikkhave, dhammapadāni aggaññāni rattaññāni vaṃsaññāni porāṇāni asaṃkiṇṇāni asaṃkiṇṇapubbāni, na saṃkīyanti na saṃkīyissanti, appaṭikuṭṭhāni samaṇehi brāhmaṇehi viññūhi. katamāni cattāri? ",
+      "fr": "Ces quatre éléments du [dhamma|Dhamma], [bhikkhu|mendiants], sont originels, antiques, traditionnels, anciens, non dénaturés, non dénaturés auparavant, ils ne sont pas dénaturés, ils ne seront pas dénaturés, et ne sont pas réprouvés par les sages [samana|renonçants] et [brahmana|brahmanes]. Quels sont ces quatre?"
+    },
+    {
+      "pl": "anabhijjhā, bhikkhave, dhammapadaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkīyati na saṃkīyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi.",
+      "fr": "La non-[abhijjha|convoitise], [bhikkhu|mendiants], est un élément du [dhamma|Dhamma] qui est originel, antique, traditionnel, ancien, non dénaturé, non dénaturé auparavant, qui n'est pas dénaturé, qui ne sera pas dénaturé, et qui n'est pas réprouvé par les sages [samana|renonçants] et [brahmana|brahmanes]."
+    },
+    {
+      "pl": "“abyāpādo, bhikkhave, dhammapadaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkīyati na saṃkīyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi.",
+      "fr": "La [abyapada|bienveillance], [bhikkhu|mendiants], est un élément du [dhamma|Dhamma] qui est originel, antique, traditionnel, ancien, non dénaturé, non dénaturé auparavant, qui n'est pas dénaturé, qui ne sera pas dénaturé, et qui n'est pas réprouvé par les sages [samana|renonçants] et [brahmana|brahmanes]."
+    },
+    {
+      "pl": "“sammāsati, bhikkhave, dhammapadaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkīyati na saṃkīyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi.",
+      "fr": "La [sammasati|présence d'esprit correcte], [bhikkhu|mendiants], est un élément du [dhamma|Dhamma] qui est originel, antique, traditionnel, ancien, non dénaturé, non dénaturé auparavant, qui n'est pas dénaturé, qui ne sera pas dénaturé, et qui n'est pas réprouvé par les sages [samana|renonçants] et [brahmana|brahmanes]."
+    },
+    {
+      "pl": "“sammāsamādhi, bhikkhave, dhammapadaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkīyati na saṃkīyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi.",
+      "fr": "La [sammasamadhi|concentration correcte], [bhikkhu|mendiants], est un élément du [dhamma|Dhamma] qui est originel, antique, traditionnel, ancien, non dénaturé, non dénaturé auparavant, qui n'est pas dénaturé, qui ne sera pas dénaturé, et qui n'est pas réprouvé par les sages [samana|renonçants] et [brahmana|brahmanes]."
+    },
+    {
+      "pl": "imāni kho, bhikkhave, cattāri dhammapadāni aggaññāni rattaññāni vaṃsaññāni porāṇāni asaṃkiṇṇāni asaṃkiṇṇapubbāni, na saṃkīyanti na saṃkīyissanti, appaṭikuṭṭhāni samaṇehi brāhmaṇehi viññūhī”ti.",
+      "fr": "Ces quatre éléments du Dhamma, [bhikkhu|mendiants], sont originels, antiques, traditionnels, anciens, non dénaturés, non dénaturés auparavant, ils ne sont pas dénaturés, ils ne seront pas dénaturés, et ne sont pas réprouvés par les sages [samana|renonçants] et [brahmana|brahmanes]."
+    }
+  ],
+  "keywords": ["dhamma", "bhikkhu", "samana", "brahmana", "abhijjha", "abyapada", "sammasati", "sammasamadhi"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,51 @@
+{
+  "identifier": "AN 4.5",
+  "plTitle": "Anusota Sutta",
+  "frTitle": "Avec le courant",
+  "description": "Le Bouddha classifie les êtres humains en quatre catégories, en utilisant une analogie avec des personnes devant traverser une rivière.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame cattāro? anusotagāmī puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo. ",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces quatre [types d']individus. Quels sont ces quatre? L'individu qui va avec le courant, celui qui va à contre-courant, celui qui se tient debout, et le [brahmana|brahmane] qui a traversé, qui a atteint l'autre rive et qui se tient debout sur le sol ferme."
+    },
+    {
+      "pl": "katamo ca, bhikkhave, anusotagāmī puggalo? idha, bhikkhave, ekacco puggalo kāme ca paṭisevati, pāpañca kammaṃ karoti. ayaṃ vuccati, bhikkhave, anusotagāmī puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui va avec le courant? À cet égard, un certain individu recherche les [kama|plaisirs sensuels], et réalise des [kamma|actions] mauvaises. Voici, [bhikkhu|mendiants], ce qu'on appelle l'individu qui va avec le courant."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, paṭisotagāmī puggalo? idha, bhikkhave, ekacco puggalo kāme ca nappaṭisevati, pāpañca kammaṃ na karoti, sahāpi dukkhena sahāpi domanassena assumukhopi rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati. ayaṃ vuccati, bhikkhave, paṭisotagāmī puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui va à contre-courant? À cet égard, un certain individu ne recherche pas les [kama|plaisirs sensuels], ne réalise pas d'[kamma|actions]mauvaises, et vit la [brahmacariya|vie brahmique] complète et pure dans le [dukkha|mal-être], avect de la [domanassa|déplaisance mentale], les larmes au visage, en pleurs. Voici, [bhikkhu|mendiants], ce qu'on appelle l'individu qui va à contre-courant."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, ṭhitatto puggalo? idha, bhikkhave, ekacco puggalo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. ayaṃ vuccati, bhikkhave, ṭhitatto puggalo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui se tient debout? À cet égard, un certain individu, ayant complètement détruit les cinq [samyojana|entraves spirituelles] inférieures, a une naissance spontanée, et y atteint l'[parinibbana|Extinction complète], sans jamais revenir de ce [loka|monde]-là. Voici, [bhikkhu|mendiants], ce qu'on appelle l'individu qui se tient debout."
+    },
+    {
+      "pl": "“katamo ca, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo? idha, bhikkhave, ekacco puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. ayaṃ vuccati, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo.",
+      "fr": "Et quel est, [bhikkhu|mendiants], l'individu qui est un [brahmana|brahmane] ayant traversé, ayant atteint l'autre rive, se tenant debout sur le sol ferme? À cet égard, un certain individu, avec la destruction des [asava|impuretés mentales], entre et demeure [ditthevadhamme|dans ce [loka|monde] visible] dans la [cetovimutti|libération de l'esprit] sans [asava|impureté], dans la [vimutti|libération] par le [panna|discernement], en l'ayant réalisée pour lui-même par [abhinna|connaissance directe]. Voici, [bhikkhu|mendiants], ce qu'on appelle l'individu qui est un [brahmana|brahmane] ayant traversé, ayant atteint l'autre rive, se tenant debout sur le sol ferme."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types d']individus qu'on trouve dans le [loka|monde]. "
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "loka",
+    "brahmana",
+    "kama",
+    "kamma",
+    "brahmacariya",
+    "dukkha",
+    "domanassa",
+    "samyojana",
+    "parinibbana",
+    "asava",
+    "ditthevadhamme",
+    "cetovimutti",
+    "vimutti",
+    "panna",
+    "abhinna"
+  ],
+  "translator": "Rémy"
+}

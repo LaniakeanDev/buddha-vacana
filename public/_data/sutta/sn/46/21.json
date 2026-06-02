@@ -1,0 +1,43 @@
+{
+  "identifier": "SN 46.21",
+  "plTitle": "Bodhāya Sutta",
+  "frTitle": "L'éveil",
+  "description": "Un mendiant demande au Bouddha: pourquoi sont-ils appelés 'facteurs d'Éveil?'",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca:",
+      "fr": "Un jour, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘bojjhaṅgā, bojjhaṅgā’ti, bhante, vuccanti. kittāvatā nu kho, bhante, ‘bojjhaṅgā’ti vuccantī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire [i]“[sambojjhanga|facteurs d'Éveil], [sambojjhanga|facteurs d'Éveil]”[/i]. Dans quelle mesure, [bhante|Bhanté], sont-ils appellés [i]“[sambojjhanga|facteurs d'Éveil]”[/i]?"
+    },
+    {
+      "pl": "“‘bodhāya saṃvattantī’ti kho, bhikkhu, tasmā bojjhaṅgāti vuccanti. idha, bhikkhu, satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, dhamma-vicaya-sambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, vīriya-sambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, pīti-sambojjhaṅgaṃbhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, passaddhi-sambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, samādhi-sambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, upekkhā-sambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.",
+      "fr": "—[bhikkhu|Mendiant], ils mènent à l'[bodhi|éveil], c'est pourquoi ils sont appelés [i]“[sambojjhanga|facteurs d'Éveil]”[/i]. À cet égard, un [bhikkhu|mendiant] développe le [sambojjhanga|facteur d'Éveil] de [sati|présence d'esprit] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[dhammavicaya|investigation des phénomènes] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[viriya|énergie] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[piti|exaltation] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] de [passaddhi|tranquillité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] de [samadhi|concentration] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise; il développe le [sambojjhanga|facteur d'Éveil] d'[upekkha|équanimité] basé sur l'[viveka|isolement], sur le [viraga|désintéressement], sur la [nirodha|cessation], mûrissant dans le lâcher-prise."
+    },
+    {
+      "pl": "‘bodhāya saṃvattantī’ti kho, bhikkhu, tasmā ‘bojjhaṅgā’ti vuccantī”ti.",
+      "fr": "Ils mènent à l'[bodhi|éveil], [bhikkhu|mendiant], c'est pourquoi ils sont appelés [i]“[sambojjhanga|facteurs d'Éveil]”[/i]. "
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "i]“[sambojjhanga",
+    "sambojjhanga",
+    "bodhi",
+    "sati",
+    "viveka",
+    "viraga",
+    "nirodha",
+    "dhammavicaya",
+    "viriya",
+    "piti",
+    "passaddhi",
+    "samadhi",
+    "upekkha"
+  ],
+  "translator": "Rémy"
+}

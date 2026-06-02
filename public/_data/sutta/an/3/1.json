@@ -1,0 +1,38 @@
+{
+  "identifier": "AN 3.1",
+  "plTitle": "Bhaya Sutta",
+  "frTitle": "Dangers",
+  "description": "D'après ce soutta, les dangers, les désastres et les périls n'apparaissent jamais de manière aléatoire. Voulons-nous nous assurer de ne pas en être la cause?",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi: ",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anathapindika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“bhikkhavo”ti.",
+      "fr": "«[bhikkhu|Mendiants]!"
+    },
+    {
+      "pl": "“bhadante”ti te bhikkhū bhagavato paccassosuṃ. bhagavā etadavoca:",
+      "fr": "— [bhadante|Bhadanté],» répondirent les [bhikkhu|mendiants] au [bhagava|Fortuné]. Le [bhagava|Fortuné] leur dit alors:"
+    },
+    {
+      "pl": "“yāni kānici, bhikkhave, bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato. ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato.",
+      "fr": "«[bhikkhu|Mendiants], tous les dangers qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]. Tous les désastres qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]. Tous les périls qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]."
+    },
+    {
+      "pl": "seyyathāpi, bhikkhave, naḷāgārā vā tiṇāgārā vā aggi mutto kūṭāgārānipi ḍahati ullittāvalittāni nivātāni phusitaggaḷāni pihitavātapānāni; evamevaṃ kho, bhikkhave, yāni kānici bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato. ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato.",
+      "fr": "Tout comme, [bhikkhu|mendiants], lorsque le feu se déclare dans une maison en roseaux ou une maison faite d'herbes, il brûle même les maisons couvertes d'un toit pointu, enduites de plâtre à l'intérieur et à l'extérieur, à l'abri des courants d'air, [sukha|bien] verrouillées, avec les fenêtres fermées; de la même manière, [bhikkhu|mendiants], tous les dangers qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]. Tous les désastres qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]. Tous les périls qui apparaissent apparaissent à cause des [baala|sots], pas à cause des [pandita|sages]."
+    },
+    {
+      "pl": "“iti kho, bhikkhave, sappaṭibhayo bālo, appaṭibhayo paṇḍito. saupaddavo bālo, anupaddavo paṇḍito. saupasaggo bālo, anupasaggo paṇḍito. natthi, bhikkhave, paṇḍitato bhayaṃ, natthi paṇḍitato upaddavo, natthi paṇḍitato upasaggo.",
+      "fr": "Ainsi, [bhikkhu|mendiants], le [baala|sot] est dangereux et le [pandita|sage] est sans danger. Le [baala|sot] apporte le désastre et le [pandita|sage] n'apporte aucun désastre. Le [baala|sot] apporte le péril et le [pandita|sage] n'apporte aucun péril. Mendiants, il n'y a pas de danger [qui soit dû] au sage, il n'y a pas de désastre [qui soit dû] au sage, il n'y a pas de péril [qui soit dû] au sage."
+    },
+    {
+      "pl": "“tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ: ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. evañhi vo, bhikkhave, sikkhitabban”ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous nous déferons des trois [dhamma|états] pourvu desquels on est reconnu comme un [baala|sot], et nous entreprendrons et observerons les[dhamma|états] pourvu desquels on est reconnu comme un [pandita|sage].”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner.»"
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "bhadante", "baala", "pandita", "sukha", "dhamma"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,685 @@
+{
+  "identifier": "DN 22",
+  "plTitle": "Mahāsatipaṭṭhāna Sutta",
+  "frTitle": "Le grand discours sur l'établissement de l'attention",
+  "description": "Le Mahāsatipaṭṭhāna Sutta est une référence fondamentaledans l'enseignement du Bouddha, car il expose en détail ce qu'il décrivait comme la voie la plus directe menant à [nibbana|Nibbāna]. Ce long discours décrit les instructions relatives aux différentes pratiques de méditations recommandées par le Bouddha, et contient également une explication détaillée des quatre nobles vérités.",
+  "body": [
+    {
+      "pl": "[evammesutam|Evaṃ me sutaṃ]:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "Ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma kurūnaṃ nigamo. tatra kho bhagavā bhikkhū āmantesi, [@nl] ‘Bhikkhavo’ ti.‘[@nl] Bhaddante’ ti te bhikkhū bhagavato paccassosuṃ. [@nl] bhagavā etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait chez les Kurus, à Kammāsadhamma, une ville marchande des Kurus. Ce jour-là, le [bhagava|Fortuné] s’adressa aux [bhikkhu|mendiants] ainsi: [@nl]— [bhikkhu|Mendiants]! et ils répondirent: [@nl]— Bhaddante. [@nl]Alors le [bhagava|Fortuné] s’exprima en ces termes:"
+    },
+    {
+      "pl": "Uddeso",
+      "fr": "Introduction"
+    },
+    {
+      "pl": "Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya, dukkhadomanassānaṃ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā.",
+      "fr": "Voici le seul et unique moyen, [bhikkhu|mendiants], pour la purification des êtres, pour vaincre le chagrin et les lamentations, pour mettre fin au mal-être et à la douleur, pour marcher sur le sentier de la vérité, pour la réalisation de [nibbana|Nibbāna] : c'est-à-dire les quatre [satipatthana|satipaṭṭhānas]."
+    },
+    {
+      "pl": "Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Vedanāsu vedanānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Citte cittānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Dhammesu dhammānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. ",
+      "fr": "Et quels sont ces quatre? À cet égard, un [bhikkhu|mendiant] demeure ardent, attentif, et [sampajana|sampajāno], observant le corps dans le corps, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant les sensations dans les sensations, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant l’esprit dans l’esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno],observant les phénomènes mentaux dans les phénomènes mentaux, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde."
+    },
+    {
+      "pl": "I. Kāyānupassanā",
+      "fr": "I. Observation du corps"
+    },
+    {
+      "pl": "A. Ānāpānapabbaṃ",
+      "fr": "A. La respiration"
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu kāye kāyānupassī viharati?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant le corps dans le corps?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā. So [sata|sato] va assasati, [sata|sato] va passasati. Dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ ti pajānāti. Rassaṃ vā assasanto ‘rassaṃ assasāmī’ ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ ti pajānāti. ‘Sabbakāyapaṭisaṃvedī assasissāmī’ ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ ti sikkhati. ‘Passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ ti sikkhati.",
+      "fr": "À cet égard, un [bhikkhu|mendiant], étant allé dans une forêt, ou au pied d’un arbre, ou dans une pièce vide, s’assoit jambes croisées, maintient son corps droit et fixe son attention sur la zone autour de la bouche. Avec cette attention, il inspire; avec cette attention, il expire. Lorsqu’il inspire longuement, il comprend justement: “Je suis en train d’inspirer longuement.” Lorsqu’il inspire brièvement, il comprend justement: “Je suis en train d’inspirer brièvement.” Lorsqu’il expire longuement, il comprend justement: “Je suis en train d’expirer longuement.” Lorsqu’il expire brièvement, il comprend justement: “Je suis en train d’expirer brièvement.” De cette manière, il s’entraîne: “Percevant le corps tout entier, j'inspire.” “Percevant le corps tout entier, j'expire.” Ainsi, il s’entraîne: “Avec les activités corporelles calmées, j'inspire.” “Avec les activités corporelles calmées, j'expire.” Ainsi s’entraîne-t-il."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto ‘dīghaṃ añchāmī’ ti pajānāti, rassaṃ vā añchanto ‘rassaṃ añchāmī’ ti pajānāti. Evameva kho, bhikkhave, bhikkhu dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ ti pajānāti, dīghaṃ vā passasanto ‘dīghaṃ passasāmī’ ti pajānāti, rassaṃ vā assasanto ‘rassaṃ assasāmī’ ti pajānāti, rassaṃ vā passasanto ‘rassaṃ passasāmī’ ti pajānāti. ‘Sabbakāyapaṭisaṃvedī assasissāmī’ ti sikkhati, ‘sabbakāyapaṭisaṃvedī passasissāmī’ ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’ ti sikkhati, ‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’ ti sikkhati.",
+      "fr": "De la même manière qu’un tourneur habile, ou l’apprenti d’un tourneur, lorsqu’il fait un tour long comprend justement : “Je suis en train de faire un tour long.” Et lorsqu’il fait un tour bref, il comprend justement : “Je suis en train de faire un tour bref.” De cette même manière, le [bhikkhu|mendiant], lorsqu’il inspire longuement, comprend justement: “Je suis en train d’inspirer longuement.” Lorsqu’il inspire brièvement, il comprend justement: “Je suis en train d’inspirer brièvement.” Lorsqu’il expire longuement, il comprend justement: “Je suis en train d’expirer longuement.” Lorsqu’il expire brièvement, il comprend justement: “Je suis en train d’expirer brièvement.” De cette manière, il s’entraîne: “Percevant le corps tout entier, j'inspire.” “Percevant le corps tout entier, j'expire.” Ainsi, il s’entraîne: “Avec les activités corporelles calmées, j'inspire.” “Avec les activités corporelles calmées, j'expire.” Ainsi s’entraîne-t-il.."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāyaanissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "Ainsi, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "B. Iriyāpathapabbaṃ",
+      "fr": "B. Les postures"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ ti pajānāti, ṭhito vā ‘ṭhitomhī’ ti pajānāti, nisinno vā ‘nisinnomhī’ ti pajānāti, sayāno vā ‘sayānomhī’ ti pajānāti. Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] marche, il comprend justement: “Je suis en train de marcher.” Lorsqu’il se tient debout, il comprend justement: “Je suisdebout”. Lorsqu’il est assis, il comprend justement: “Je suis assis”. Lorsqu’il est couché, il comprend justement: “Je suis couché”. Quelle que soit la position dans laquelle il dispose son corps, il la comprend avec justesse."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "C. Sampajānapabbaṃ",
+      "fr": "C. Sampajañña"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.",
+      "fr": "Lorsqu’il va ou qu'il vient, un [bhikkhu|mendiant] le fait avec [sampajanna|sampajañña]. Qu’il pose le regard ou qu'il détourne le regard, il le fait avec [sampajanna|sampajañña]. Lorsqu’il se penche ou s’étire, il le fait avec [sampajanna|sampajañña]. Lorsqu’il porte ses robes ou son bol, il le fait avec [sampajanna|sampajañña]. Lorsqu'il est en train de manger, de boire, de mâcher ou de savourer, il le fait avec [sampajanna|sampajañña]. Lorsqu’il répond aux appels de la nature (urination/défécation), il le fait avec [sampajanna|sampajañña]. Qu’il soit en train de marcher, qu’il soit debout, assis, en train de dormir ou éveillé, en train de parler ou en silence, il le fait avec [sampajanna|sampajañña]."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "D. Paṭikūlamanasikārapabbaṃ",
+      "fr": "D. La réflexion à propos de la répugnance du corps"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ, uddhaṃ pādatalā adho kesamatthakā, tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘Atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṃ’ ti.",
+      "fr": "Un [bhikkhu|mendiant] réfléchit à propos de ce corps, qui est recouvert d’une peau et rempli d’impuretés de toutes sortes en partant de la plante des pieds vers le haut, et en partant des cheveux vers le bas, considérant ceci : “Dans ce corps, il y a des cheveux, des poils, des ongles, des dents, une peau, de la chair, des tendons, des os, de la moelle, des reins, un cœur, un foie, des poumons, des intestins, le mésentère, l’estomac et son contenu, des fèces, de la bile, de la flegme, du pus, du sang, de la graisse, des larmes, du gras, de la salive, du mucus nasal, du fluide synovial et de l’urine.”"
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṃ sālīnaṃ vīhīnaṃ muggānaṃ māsānaṃ tilānaṃ taṇḍulānaṃ. Tamenaṃ cakkhumā puriso muñcitvā paccavekkheyya: ‘Ime sālī ime vīhī, ime muggā, ime māsā, ime tilā, ime taṇḍulā’ ti; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ, uddhaṃ pādatalā adho kesamatthakā, tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhati: ‘Atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttaṃ’ ti.",
+      "fr": "Comme s’il y avait un sac à provisions à deux ouvertures, plein de différents types degraines et de haricots, telles que des grains de riz brut, des haricots mung, des haricots blancs, des graines de sésame et du riz décortiqué, et qu’il y avait un homme à la vue perçante, qui, après avoir ouvert ce sac, examinerait son contenu en disant: “Voici un grain de blé brut; ceci est un haricot mung; voici un haricot blanc; ceci est une graine de sésame; voici du riz décortiqué.” De cette même manière, [bhikkhu|mendiants], un [bhikkhu|mendiant] réfléchit à propos de ce corps, qui est recouvert d’une peau et rempli d’impuretés de toutes sortes en partant de la plante des pieds vers le haut, et en partant des cheveux vers le bas, considérant ceci : “Dans ce corps, il y a des cheveux, des poils, des ongles, des dents, une peau, de la chair, des tendons, des os, de la moelle, des reins, un cœur, un foie, des poumons, des intestins, le mésentère, l’estomac et son contenu, des fèces, de la bile, de la flegme, du pus, du sang, de la graisse, des larmes, du gras, de la salive, du mucus nasal, du fluide synovial et de l’urine.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "E. Dhātumanasikārapabbaṃ",
+      "fr": "E. Les réflexions à propos des éléments matériels"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘Atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ ti.",
+      "fr": "Un [bhikkhu|mendiant] réfléchit sur ce corps, quelle que soit la manière dont il est placé ou disposé, en le considérant par rapport aux caractéristiques de chaque élément : “Dans ce corps, il y a l’élément Terre, il y a l’élément Eau, il y a l’élément Feu, et il y a l’élément Air.”"
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṃ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa; evameva kho, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: ‘Atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ ti.",
+      "fr": "De la même manière qu’un habile abatteur de vaches ou son apprenti, ayant abattu une vache et l’ayant divisée en parties, se tiendrait assis à la jonction de quatre routes; de cette même manière, un [bhikkhu|mendiant] réfléchit sur son corps, quelque soit la manière dont il est placé ou disposé, en le considérant par rapport aux caractéristiques de chaque élément: “Dans ce corps, il y a l’élément Terre, il y a l’élément Eau, il y a l’élément Feu, et il y a l’élément Air.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "F. Navasivathikapabbaṃ",
+      "fr": "F. Les neuf observations de charniers"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre qui a été jeté dans un charnier, mort depuis un, deux ou trois jours, gonflé, bleu et suppurant, considérant son propre corps, il pense ainsi : “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ kākehi vā khajjamānaṃ kulalehi vā khajjamānaṃ gijjhehi vā khajjamānaṃ kaṅkehi vā khajjamānaṃ sunakhehi vā khajjamānaṃ byagghehi vā khajjamānaṃ dīpīhi vā khajjamānaṃ siṅgālehi vā khajjamānaṃ vividhehi vā pāṇakajātehi khajjamānaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre qui a été jeté dans un charnier, dévoré par les corbeaux, dévoré par les vautours, dévoré par les faucons, les hérons, les chiens, les tigres, les léopards, les chacals, dévoré par toutes sortes de créatures, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ samaṃsalohitaṃ nhārusambandhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à un squelette auquel sont encore attachés de la chair et du sang, maintenu par les tendons, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ nimaṃsalohitamakkhitaṃ nhārusambandhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à un squelette sans chair, mais encore enduit de sang et maintenu par les tendons, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à un squelette sans chair ni sang, maintenu par les tendons, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikasaṅkhalikaṃ apagatamaṃsalohitaṃ nhārusambandhaṃ. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à des os éparpillés, répandus dans toutes les directions, ici un os de la main et là un os du pied, ici un os de la cheville et là un os du genou, ici un os de la cuisse et là un os du pelvis, ici un os de la colonne vertébrale et là un os du dos, ici un os de l’épaule et là un os de la gorge, ici un os du menton et là un os de la mâchoire, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à des os décolorés, de la couleur d’une conque, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikāni puñjakitāni terovassikāni. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, réduit à un tas d’os constitué depuis plus d’un an, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ aṭṭhikāni pūtīni cuṇṇakajātāni. So imameva kāyaṃ upasaṃharati: ‘ayaṃ pi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto’ ti.",
+      "fr": "Lorsqu’un [bhikkhu|mendiant] voit un cadavre jeté dans un charnier, dont les os se sont décomposés en poudre, considérant son propre corps, pense ainsi: “En effet, ce corps est de la même nature, il deviendra comme cela et ne peut y échapper.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati, samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati, ‘atthi kāyo’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.",
+      "fr": "De cette manière, il demeure en observant le corps dans le corps intérieurement, ou il demeure observant le corps dans le corps extérieurement, ou il demeure observant le corps dans le corps à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans le corps, il demeure en observant le phénomène d’extinction dans le corps, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans le corps. Maintenant son attention est établie: “Voici le corps!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant le corps dans le corps."
+    },
+    {
+      "pl": "II. Vedanānupassanā",
+      "fr": "II. Observation des sensations"
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati?",
+      "fr": "Comment un [bhikkhu|mendiant] demeure-t-il observant les sensations dans les sensations?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu sukhaṃ vā vedanaṃ vedayamāno ‘sukhaṃ vedanaṃ vedayāmī’ ti pajānāti; dukkhaṃ vā vedanaṃ vedayamāno ‘dukkhaṃ vedanaṃ vedayāmī’ ti pajānāti; adukkhamasukhaṃ vā vedanaṃ vedayamāno ‘adukkhamasukhaṃ vedanaṃ vedayāmī’ ti pajānāti. Sāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ sukhaṃ vedanaṃ vedayāmī’ ti pajānāti; nirāmisaṃ vā sukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ sukhaṃ vedanaṃ vedayāmī’ ti pajānāti. Sāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘sāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ ti pajānāti; nirāmisaṃ vā dukkhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ dukkhaṃ vedanaṃ vedayāmī’ ti pajānāti. Sāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘sāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ ti pajānāti; nirāmisaṃ vā adukkhamasukhaṃ vedanaṃ vedayamāno ‘nirāmisaṃ adukkhamasukhaṃ vedanaṃ vedayāmī’ ti pajānāti. ",
+      "fr": "Lorsqu’il ressent une sensation agréable, un [bhikkhu|mendiant] comprend justement : “Je suis en train de ressentir une sensation agréable.” Lorsqu’il ressent une sensation désagréable, il comprend justement : “Je suis en train de ressentir une sensation désagréable.” Lorsqu’il ressent une sensation ni agréable ni désagréable, il comprend justement : “Je suis en train de ressentir une sensation ni agréable, ni désagréable.” Lorsqu’il ressent une sensation agréable avec attachement, il comprend justement : “Je suis en train de ressentir une sensation agréable avecattachement.” Lorsqu’il ressent une sensation agréable sans attachement, il comprend justement : “Je suis en train de ressentir une sensation agréable sans attachement.” Lorsqu’il ressent une sensation désagréable avec attachement, il comprend justement : “Je suis en train de ressentir une sensation désagréable avecattachement.” Lorsqu’il ressent une sensation désagréable sans attachement, il comprend justement : “Je suis en train de ressentir une sensation désagréable sansattachement.” Lorsqu’il ressent une sensation ni agréable ni désagréable avec attachement, il comprend justement : “Je suis en train de ressentir une sensation ni agréable ni désagréable avecattachement.” Lorsqu’il ressent une sensation ni agréable ni désagréable sans attachement, il comprend justement : “Je suis en train de ressentir une sensation ni agréable ni désagréable sansattachement.”"
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati, samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati, ‘atthi vedanā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, [bhikkhu|mendiant] vedanāsu vedanānupassī viharati.",
+      "fr": "Ainsi il demeure en observant les sensations dans les sensations intérieurement, ou il demeure observant les sensations dans les sensations extérieurement, ou il demeure observant les sensations dans les sensations à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les sensations, il demeure en observant le phénomène d’extinction dans les sensations, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les sensations. Maintenant son attention est établie: “Voici les sensations!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], ceci est la manière dont un [bhikkhu|mendiant] demeure observant les sensations dans les sensations."
+    },
+    {
+      "pl": "III. Cittānupassanā",
+      "fr": "III. Observation de l’esprit"
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu citte cittānupassī viharati?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il observant l’esprit dans l’esprit?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu sarāgaṃ vā cittaṃ ‘sarāgaṃ cittaṃ’ ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittaṃ’ ti pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittaṃ’ ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittaṃ’ ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittaṃ’ ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittaṃ’ ti pajānāti, saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittaṃ’ ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittaṃ’ ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittaṃ’ ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittaṃ’ ti pajānāti, sa-uttaraṃ vā cittaṃ ‘sa-uttaraṃ cittaṃ’ ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittaṃ’ ti pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittaṃ’ ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittaṃ’ ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittaṃ’ ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittaṃ’ ti pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend justement un esprit en proie à l’avidité comme étant un esprit en proie à l’avidité, il comprend justement un esprit libéré de l’avidité comme étant un esprit libéré de l’avidité, il comprend justement un esprit en proie à l’aversion comme étant un esprit en proie à l’aversion, il comprend justement un esprit libéré de l’aversion comme étant un esprit libéré de l’aversion, il comprend justement un esprit en proie à la délusion comme étant un esprit en proie à la délusion, il comprend justement un esprit libéré de la délusion comme étant un esprit libéré de la délusion, il comprend justement un esprit calme comme étant un esprit calme, il comprend justement un esprit dispersé comme étant un esprit dispersé, il comprend justement un esprit développé comme étant un esprit développé, il comprend justement un esprit non développé comme étant un esprit non développé, il comprend justement un esprit surpassable comme étant un esprit surpassable, il comprend justement un esprit insurpassablecomme étant un esprit insurpassable, il comprend justement un esprit concentré comme étant un esprit concentré, il comprend justement un esprit déconcentré comme étant un esprit déconcentré, il comprend justement un esprit libéré comme étant un esprit libéré, il comprend justement un esprit non libéré comme étant un esprit non libéré."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati, samudayadhammānupassī vā cittasmiṃ viharati, vayadhammānupassī vā cittasmiṃ viharati, samudayavayadhammānupassī vā cittasmiṃ viharati, ‘atthi cittaṃ’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, [bhikkhu|mendiant] citte cittānupassī viharati.",
+      "fr": "Ainsi il demeure en observant l’esprit dans l’esprit intérieurement, ou il demeure observant l’esprit dans l’esprit extérieurement, ou il demeure observant l’esprit dans l’esprit à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans l’esprit, il demeure en observant le phénomène d’extinction dans l’esprit, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans l’esprit. Maintenant son attention est établie : “Voici l’esprit!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant l’esprit dans l’esprit."
+    },
+    {
+      "pl": "IV. Dhammānupassanā",
+      "fr": "IV. Observation des phénomènes mentaux"
+    },
+    {
+      "pl": "A. Nīvaraṇapabbaṃ",
+      "fr": "A. Les entraves"
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il observant les phénomènes mentaux dans les phénomènes mentaux?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati - pañcasu nīvaraṇesu.",
+      "fr": "À cet égard, un [bhikkhu|mendiant] observe les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq entraves."
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati - pañcasu nīvaraṇesu?",
+      "fr": "Et comment un [bhikkhu|mendiant] observe-t-il les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq entraves?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ ‘atthi me ajjhattaṃ kāmacchando’ ti pajānāti, asantaṃ vā ajjhattaṃ kāmacchandaṃ ‘natthi me ajjhattaṃ kāmacchando’ ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant], lorsque le désir sensuel est présent en lui, comprend avec justesse : “Le désir sensuel est présent en moi.” Lorsque le désir sensuel est absent de lui, il comprend avec justesse : “Le désir sensuel est absent de moi.” Il comprend avec justesse comment le désir sensuel qui n’est pas [encore] apparu en lui vient à apparaître. Il comprend avec justesse comment le désir sensuel qui est maintenant apparu en lui est éradiqué. Il comprend avec justesse comment le désir sensuel qui a maintenant été éradiqué n’apparaîtra plus en lui dans le futur."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ byāpādaṃ ‘atthi me ajjhattaṃ byāpādo’ ti pajānāti, asantaṃ vā ajjhattaṃ byāpādaṃ ‘natthi me ajjhattaṃ byāpādo’ ti pajānāti, yathā ca anuppannassa byāpādassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa byāpādassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa byāpādassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Lorsque l’aversion est présente en lui, il comprend avec justesse : “L’aversion est présente en moi.” Lorsque l’aversion est absente de lui, il comprend avec justesse : “L’aversion est absente de moi.” Il comprend avec justesse comment l’aversion qui n’est pas [encore] apparue en lui vient à apparaître. Il comprend avec justesse comment l’aversion qui est maintenant apparue en lui est éradiquée. Il comprend avec justesse comment l’aversion qui a maintenant été éradiquée n’apparaîtra plus en lui dans le futur."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ thinamiddhaṃ ‘atthi me ajjhattaṃ thinamiddhaṃ’ ti pajānāti, asantaṃ vā ajjhattaṃ thinamiddhaṃ ‘natthi me ajjhattaṃ thinamiddhaṃ’ ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Lorsque la paresse et la torpeur sont présentes en lui, il comprend avec justesse : “La paresse et la torpeur sont présentes en moi.” Lorsque la paresse et la torpeur sont absentes de lui, il comprend avec justesse : “La paresse et la torpeur sont absentes de moi.” Il comprend avec justesse comment la paresse et la torpeur qui ne sont pas [encore] apparues en lui viennent à apparaître. Il comprend avec justesse comment la paresse et la torpeur qui sont maintenant apparues en lui sont éradiquées. Il comprend avec justesse comment la paresse et la torpeur qui ont maintenant été éradiquées n’apparaîtront plus en lui dans le futur."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘atthi me ajjhattaṃ uddhaccakukkuccaṃ’ ti pajānāti, asantaṃ vā ajjhattaṃ uddhaccakukkuccaṃ ‘natthi me ajjhattaṃ uddhaccakukkuccaṃ’ ti pajānāti, yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Lorsque l’agitation mentale & préoccupation sont présents en lui, il comprend avec justesse : “L’agitation mentale & préoccupation sont présents en moi.” Lorsque l’agitation mentale & préoccupation sont absents de lui, il comprend avec justesse : “L’agitation mentale & préoccupation sont absents de moi.” Il comprend avec justesse comment l’agitation mentale & préoccupation qui ne sont pas [encore] apparus en lui viennent à apparaître. Il comprend avec justesse comment l’agitation mentale & préoccupation qui sont maintenant apparus en lui sont éradiquées. Il comprend avec justesse comment l’agitation mentale & préoccupation qui ont maintenant été éradiqués n’apparaîtront plus en lui dans le futur."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ vicikicchaṃ ‘atthi me ajjhattaṃ vicikicchā’ ti pajānāti, asantaṃ vā ajjhattaṃ vicikicchaṃ ‘natthi me ajjhattaṃ vicikicchā’ ti pajānāti, yathā ca anuppannāya vicikicchāya uppādo hoti taṃ ca pajānāti, yathā ca uppannāya vicikicchāya pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant], lorsque le doute est présent en lui, comprend avec justesse : “Le doute est présent en moi.” Lorsque le doute est absent de lui, il comprend avec justesse : “Le doute est absent de moi.” Il comprend avec justesse comment le doute qui n’est pas [encore] apparu en lui vient à apparaître. Il comprend avec justesse comment le doute qui est maintenant apparu en lui est éradiqué. Il comprend avec justesse comment le doute qui a maintenant été éradiqué n’apparaîtra plus en lui dans le futur."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.",
+      "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq entraves."
+    },
+    {
+      "pl": "B. Khandhapabbaṃ",
+      "fr": "B. Les khandhas"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
+      "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq [upadanakkhandha|upādānakkhandhas]."
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq [upadanakkhandha|upādānakkhandhas]?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu, ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti [vedana|vedanā], iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti [sanna|saññā], iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo; iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ ti. ",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse : Telle est [rupa|Rūpa], telle est l’apparition de la Forme, telle est l’extinction de la Forme; telle est [vedana|Vedanā], telle est l’apparition de la Sensation, telle est l’extinction de la Sensation; telle est [sanna|Saññā], telle est l’apparition de la Perception, telle est l’extinction de la Perception; telle est [sankhara|Saṅkhāra], telle est l’apparition de [sankhara|Saṅkhāra], telle est l’extinction de [sankhara|Saṅkhāra;] telle est [vinnana|Viññāṇa], telle est l’apparition de la Conscience, telle est l’extinction de la Conscience."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.",
+      "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux cinq [khandha|khandhas]."
+    },
+    {
+      "pl": "C. Āyatanapabbaṃ",
+      "fr": "C. Les sphères des sens"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
+      "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux six sphères sensorielles internes et externes."
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux six sphères sensorielles internes et externes?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu cakkhuṃ ca pajānāti, rūpe ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse l’œil, il comprend avec justesse l’objet visible, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Sotaṃ ca pajānāti, sadde ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Il comprend avec justesse l’oreille, il comprend avec justesse le son, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Ghānaṃ ca pajānāti, gandhe ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Il comprend avec justesse le nez, il comprend avec justesse les odeurs, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Jivhaṃ ca pajānāti, rase ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Il comprend avec justesse la langue, il comprend avec justesse le goût, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Kāyaṃ ca pajānāti, phoṭṭhabbe ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Il comprend avec justesse le corps, il comprend avec justesse le toucher, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Manaṃ ca pajānāti, dhamme ca pajānāti, yaṃ ca tadubhayaṃ paṭicca uppajjati saṃyojanaṃ taṃ ca pajānāti, yathā ca anuppannassa saṃyojanassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa saṃyojanassa pahānaṃ hoti taṃ ca pajānāti, yathā ca pahīnassa saṃyojanassa āyatiṃ anuppādo hoti taṃ ca pajānāti.",
+      "fr": "Il comprend avec justesse l’esprit, il comprend avec justesse les phénomènes mentaux, et il comprend avec justesse la servitude qui apparaît à cause d’eux deux. Il comprend avec justesse comment la servitude qui n’est pas [encore] apparut vient à apparaître. Il comprend avec justesse comment la servitude qui est maintenant apparue est éradiquée. Il comprend avec justesse comment cette servitude qui a maintenant été éradiquée, n’apparaîtra plus dans le futur."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.",
+      "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux sphères des sens."
+    },
+    {
+      "pl": "D. Bojjhaṅgapabbaṃ",
+      "fr": "D. Les facteurs de l’Eveil"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
+      "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux sept facteurs de l’Eveil."
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant les phénomènes mentaux dans les phénomènes mentaux , en rapport aux sept facteurs de l’Eveil?"
+    },
+    {
+      "pl": "Idha, bhikkhave, bhikkhu santaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘atthi me ajjhattaṃ satisambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ satisambojjhaṅgaṃ ‘natthi me ajjhattaṃ satisambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] attention est présent en lui : “Le [bojjhanga|Bojjhaṅga] attention est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] attention est absent de lui : “Le [bojjhanga|Bojjhaṅga] attention est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] attention, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le facteur d’Eveil attention, qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘atthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ dhammavicayasambojjhaṅgaṃ ‘natthi me ajjhattaṃ dhammavicayasambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] investigation des phénomènes est présent en lui : “Le [bojjhanga|Bojjhaṅga] investigation des phénomènes est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] investigation des phénomènes est absent de lui : “Le [bojjhanga|Bojjhaṅga] investigation des phénomènes est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] investigation des phénomènes, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] investigation des phénomènes, qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘atthi me ajjhattaṃ vīriyasambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ vīriyasambojjhaṅgaṃ ‘natthi me ajjhattaṃ vīriyasambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] effort est présent en lui : “Le [bojjhanga|Bojjhaṅga] effort est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] effort est absent de lui : “Le [bojjhanga|Bojjhaṅga] effort est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] effort, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] effort, qui est maintenant apparu, est développé et perfectionné. "
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘atthi me ajjhattaṃ pītisambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ pītisambojjhaṅgaṃ ‘natthi me ajjhattaṃ pītisambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque l'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil] est présent en lui : “L'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil] est présente en moi.” Il comprend avec justesse, lorsque l'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil] est absente de lui : “L'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil] est absente de moi.” Il comprend avec justesse comment l'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil], qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment l'[piti|exaltation] en tant que [bojjhanga|facteur d'Éveil], qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ passaddhisambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ passaddhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ passaddhisambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] tranquillité est présent en lui : “Le [bojjhanga|Bojjhaṅga] tranquillité est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] tranquillité est absent de lui : “Le [bojjhanga|Bojjhaṅga] tranquillité est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] tranquillité, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] tranquillité, qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘atthi me ajjhattaṃ samādhisambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ samādhisambojjhaṅgaṃ ‘natthi me ajjhattaṃ samādhisambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] concentration est présent en lui : “Le [bojjhanga|Bojjhaṅga] concentration est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] concentration est absent de lui : “Le [bojjhanga|Bojjhaṅga] concentration est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] concentration, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] concentration, qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Santaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘atthi me ajjhattaṃ upekkhāsambojjhaṅgo’ ti pajānāti, asantaṃ vā ajjhattaṃ upekkhāsambojjhaṅgaṃ ‘natthi me ajjhattaṃ upekkhāsambojjhaṅgo’ ti pajānāti, yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti taṃ ca pajānāti, yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti taṃ ca pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] équanimité est présent en lui : “Le [bojjhanga|Bojjhaṅga] équanimité est présent en moi.” Il comprend avec justesse, lorsque le [bojjhanga|Bojjhaṅga] équanimité est absent de lui : “Le [bojjhanga|Bojjhaṅga] équanimité est absent de moi.” Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] équanimité, qui n’est pas [encore] apparu en lui, vient à apparaître. Il comprend avec justesse comment le [bojjhanga|Bojjhaṅga] équanimité, qui est maintenant apparu, est développé et perfectionné."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.",
+      "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension avec une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux facteurs de l'Eveil."
+    },
+    {
+      "pl": "E. Saccapabbaṃ",
+      "fr": "E. Les nobles vérités"
+    },
+    {
+      "pl": "Puna caparaṃ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
+      "fr": "Un [bhikkhu|mendiant] demeure en observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux quatre nobles vérités."
+    },
+    {
+      "pl": "kathaṃ ca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu?",
+      "fr": "Et comment un [bhikkhu|mendiant] demeure-t-il en observant les phénomènes mentaux dans les phénomènes mentaux , en rapport aux quatre nobles vérités?"
+    },
+    {
+      "pl": "Idha bhikkhave, bhikkhu ‘idaṃ dukkhaṃ’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·samudayo’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·nirodho’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ ti [yathabhutam|yathā·bhūtaṃ] pajānāti.",
+      "fr": "Un [bhikkhu|mendiant] comprend avec justesse, telle qu’elle est: “Voici le mal-être”; il comprend avec justesse, telle qu’elle est: “Voici l'origine du mal-être”; il comprend avec justesse, telle qu’elle est: “Voici la cessation du mal-être”; il comprend avec justesse, telle qu’elle est: “Voici la voie menant à la cessation du mal-être."
+    },
+    {
+      "pl": "Dukkhasaccaniddeso",
+      "fr": "La vérité du mal-être"
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, dukkhaṃ ariyasaccaṃ? ",
+      "fr": "Et qu’est-ce que la noble vérité du mal-être, [bhikkhu|mendiants]?"
+    },
+    {
+      "pl": "[jati|Jāti] pi dukkhā, [jara|jarā] pi dukkhā, (byādhi pi dukkhā,) maraṇaṃ pi dukkhaṃ, sokaparidevadukkha-domanassupāyāsā pi dukkhā, appiyehi sampayogo pi dukkho, piyehi vippayogo pi dukkho, yampicchaṃ na labhati taṃ pi dukkhaṃ, saṅkhittena pañcupādānakkhandhā dukkhā.",
+      "fr": "La naissance est mal-être, la vieillissement est mal-être, (la maladie est mal-être), la mort est mal-être, le chagrin, la lamentation, la douleur, l’affliction et la détresse sont mal-être, l’association avec ce que l’on n’aime pas est mal-être, la séparation d’avec ce que l’on aime est mal-être, ne pas obtenir ce que l’on désire est mal-être; en bref, les cinq [upadanakkhandha|upādānakkhandhas] sont mal-être."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, [jati|jāti]? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye [jati|jāti] sañjāti okkanti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho, ayaṃ vuccati, bhikkhave, [jati|jāti].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la naissance? Lorsqu'il y a naissance, pour toutes les sortes d'êtres, quelle que soit leur sorte d'existence,leur conception, le moment de leur naissance, leur devenir, la manifestation de leurs [khandha|khandhas], l'acquisition de leurs facultés sensorielles&mdash voici, [bhikkhu|mendiants], ce qu'on appelle naissance."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, [jara|jarā]? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye [jara|jarā] jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko, ayaṃ vuccati, bhikkhave, [jara|jarā]. ",
+      "fr": "Et qu'est ce, [bhikkhu|mendiants], que le vieillissement? Lorsqu'il y a vieillissement, pour toutes sortes d'êtres, quelle que soit leur sorte d'existence,lorqu'il deviennent frêles et décrépits, la cassure [de leurs dents], lorsqu'ils deviennent gris et ridés, la consomption de leur temps de vie,la détérioration de leurs facultés sensorielles &mdash voici, [bhikkhu|mendiants], ce qu'on appelle vieillissement."
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, maraṇaṃ? Yaṃ tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo, idaṃ vuccati, bhikkhave, maraṇaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la mort? Lorsqu'il y a disparition et trépas, pour toutes sortes d'êtres, quelle que soit leur sorte d'existence,leur désintégration, leur disparition, leur mort, l'épuisement de leur temps de vie, la dissolution des [khandha|khandhas], la dissociation du corps, la destruction de leur vitalité &mdash voici, [bhikkhu|mendiants], ce qu'on appelle mort."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, soko? Yo kho, bhikkhave, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṃ antosoko antoparisoko, ayaṃ vuccati, bhikkhave, soko.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que le chagrin? Lorsque quelqu'un est affecté par différentes sortes d'infortunes et de malchances, qui sont suivies par tel ou tel état d'esprit douloureux, par le chagrin, les pleurs, le chagrin, l'affliction intérieure, et par un profond malheur intérieur &mdashvoici, [bhikkhu|mendiants], ce qu'on appelle chagrin."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, paridevo? Yo kho, bhikkhave, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṃ paridevitattaṃ, ayaṃ vuccati, bhikkhave, paridevo.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la lamentation? Lorsque quelqu'un est affecté par différentes sortes d'infortunes et de malchances, qui sont suivies par tel ou tel état d'esprit douloureux, par les hurlements et les pleurs, par la lamentation, par les hurlements profonds, par la lamentation profonde,par l'état de profonds hurlements et lamentations &mdash voici, [bhikkhu|mendiants], ce qu'on appelle lamentation."
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, dukkhaṃ? Yaṃ kho, bhikkhave, kāyikaṃ dukkhaṃ kāyikaṃ asātaṃ kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ, idaṃ vuccati, bhikkhave, dukkhaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la douleur? Lorsqu'il y a quelque sorte de douleur physique, quelque sorte de déplaisance physique, ou quelque sorte de sensation douloureuse ou déplaisante à la suite d'un contact physique &mdash voici, [bhikkhu|mendiants], ce qu'on appelle douleur."
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, domanassaṃ? Yaṃ kho, bhikkhave, cetasikaṃ dukkhaṃ cetasikaṃ asātaṃ manosamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ, idaṃ vuccati, bhikkhave, domanassaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'affliction ([domanassa|domanassa])? Lorsqu'il y a quelque sorte de douleur mentale, quelque sorte de déplaisance mentale, ou quelque sorte de sensation douloureuse ou déplaisante à la suite d'un contact mental &mdash voici, [bhikkhu|mendiants], ce qu'on appelle affliction."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, upāyāso? Yo kho, bhikkhave, aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṃ upāyāsitattaṃ, ayaṃ vuccati, bhikkhave, upāyāso.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la détresse? Lorsque quelqu'un est affecté par différentes sortes d'infortunes et de malchances, qui sont suivies par tel ou tel état d'esprit douloureux, par les tribulations, par la détresse, par l'affliction avec détresse, par l'affliction avec profonde détresse &mdash voici, [bhikkhu|mendiants], ce qu'on appelle détresse."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, appiyehi sampayogo dukkho? Idha yassa te honti aniṭṭhā akantā amanāpā rūpā saddā gandhā rasā phoṭṭhabbā dhammā, ye vā panassa te honti anatthakāmā ahitakāmā aphāsukakāmā ayogakkhemakāmā, yā tehi saddhiṃ saṅgati samāgamo samodhānaṃ missībhāvo, ayaṃ vuccati, bhikkhave, appiyehi sampayogo dukkho.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que le mal-être du à l'association à ce que l'on n'aime pas? Lorsqu'on trouve des objets de la vue, de l'ouïe, de l'odorat, du goût, du toucher, ou de l'esprit déplaisants, désagréables ou repoussants, ou lorsqu'on trouve qu'il y a des personnes souhaitant son malheur, sa ruine, des difficultés, ou son insécurité; si on rencontre, on entre en contact ou on se trouve associé avec elles: voici, [bhikkhu|mendiants], ce qu'on appelle le mal-être du à l'association avec ce que l'on n'aime pas."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, piyehi vippayogo dukkho? Idha yassa te honti iṭṭhā kantā manāpā rūpā saddā gandhā rasā phoṭṭhabbā dhammā, ye vā panassa te honti atthakāmā hitakāmā phāsukakāmā yogakkhemakāmā mātā vā pitā vā bhātā vā bhaginī vā mittā vā amaccā vā ñātisālohitā vā, yā tehi saddhiṃ asaṅgati asamāgamo asamodhānaṃ amissībhāvo, ayaṃ vuccati, bhikkhave, piyehi vippayogo dukkho.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que le mal-être du à la dissociation d'avec ce que l'on aime? Lorsqu'on trouve des objets de la vue, de l'ouïe, de l'odorat, du goût, du toucher, ou de l'esprit souhaitables, attrayants et plaisants, ou lorsqu'on trouve qu'il y a des personnes souhaitant son bonheur, sa prospérité, son confort ou sa sécurité, comme mère et père, frère et sœur, amis et collègues ou proches;si on est dissocié, on ne rencontre pas, on n'entre pas en contact ou on ne se trouve pas associé avec elles&mdash voici, [bhikkhu|mendiants], ce qu'on appelle le mal-être du à la dissociation d'avec ce ce que l'on aime."
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, yampicchaṃ na labhati taṃ pi dukkhaṃ? Jātidhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na jātidhammā assāma na ca vata no [jati|jāti] āgaccheyyā’ ti. Na kho panetaṃ icchāya pattabbaṃ. Idaṃ pi yampicchaṃ na labhati taṃ pi dukkhaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que le mal-être de ne pas obtenir ce que l'on désire? Chez les êtres, [bhikkhu|mendiants], quisont soumis à la naissance, le désir apparaît: “Oh, vraiment, que nous ne soyons pas soumis à la naissance! Oh, vraiment, qu'il n'y ait plus de naissance pour nous!” Mais ceci ne peut être obtenu par simple désir; et ne pas obtenir ce que l'on veut est mal-être."
+    },
+    {
+      "pl": "Jarādhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na jarādhammā assāma, na ca vata no [jara|jarā] āgaccheyyā’ ti. Na kho panetaṃ icchāya pattabbaṃ. Idaṃ pi yampicchaṃ na labhati taṃ pi dukkhaṃ.",
+      "fr": "Chez les êtres, [bhikkhu|mendiants], qui sont soumis à la vieillesse, le désir apparaît: “Oh, vraiment, que nous ne soyons pas soumis à la vieillesse! Oh, vraiment, qu'il n'y ait plus de vieillesse pour nous!” Mais ceci ne peut être obtenu par simple désir; et ne pas obtenir ce que l'on veut est mal-être."
+    },
+    {
+      "pl": "Byādhidhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na byādhidhammā assāma, na ca vata no byādhi āgaccheyyā’ ti. Na kho panetaṃ icchāya pattabbaṃ. Idaṃ pi yampicchaṃ na labhati taṃ pi dukkhaṃ.",
+      "fr": "Chez les êtres, [bhikkhu|mendiants], qui sont soumis à la maladie, le désir apparaît: “Oh, vraiment, que nous ne soyons pas soumis à la maladie! Oh, vraiment, qu'il n'y ait plus de maladie pour nous!” Mais ceci ne peut être obtenu par simple désir; et ne pas obtenir ce que l'on veut est mal-être."
+    },
+    {
+      "pl": "Maraṇadhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na maraṇadhammā assāma, na ca vata no maraṇaṃ āgaccheyyā’ ti. Na kho panetaṃ icchāya pattabbaṃ. Idaṃ pi yampicchaṃ na labhati taṃ pi dukkhaṃ.",
+      "fr": "Chez les êtres, [bhikkhu|mendiants], qui sont soumis à la mort, le désir apparaît: “Oh, vraiment, que nous ne soyons pas soumis à la mort! Oh, vraiment, qu'il n'y ait plus de mort pour nous!” Mais ceci ne peut être obtenu par simple désir; et ne pas obtenir ce que l'on veut est mal-être."
+    },
+    {
+      "pl": "Sokaparidevadukkhadomanassupāyāsadhammānaṃ, bhikkhave, sattānaṃ evaṃ icchā uppajjati: ‘aho vata mayaṃ na soka·parideva·dukkha·domanass·upāyā-sadhammā assāma, na ca vata no sokaparidevadukkha-domanassupāyāsadhammā āgaccheyyuṃ’ ti. Na kho panetaṃ icchāya pattabbaṃ. Idaṃ pi yampicchaṃ na labhati taṃ pi dukkhaṃ. ",
+      "fr": "Chez les êtres, [bhikkhu|mendiants], qui sont soumis au chagrin, à la lamentation, à la douleur, à l'affliction ou à la détresse, le désir apparaît: “Oh, vraiment, que nous ne soyons pas soumis au chagrin, à la lamentation, à la douleur, à l'affliction ou à la détresse! Oh, vraiment, qu'il n'y ait plus de chagrin, de lamentation, de douleur, d'affliction ou de détresse!” Mais ceci ne peut être obtenu par simple désir; et ne pas obtenir ce que l'on veut est mal-être."
+    },
+    {
+      "pl": "Katame ca, bhikkhave, saṅkhittena pañcupādānakkhandhā dukkhā? Seyyathidaṃ - rūpupādānakkhandho vedanupādānakkhandho saññupādānakkhandho saṅkhārupādānakkhandho viññāṇupādānakkhandho. Ime vuccanti, bhikkhave, saṅkhittena pañcupādānakkhandhā dukkhā.",
+      "fr": "Et comment, [bhikkhu|mendiants], en bref, les cinq [upadanakkhandha|upādānakkhandhas] sont-ils souffrance? L'attachement à l'[upadanakkhandha|upādānakkhandha] de [rupa|Rūpa] est mal-être,l'attachement à l'[upadanakkhandha|upādānakkhandha] de [vedana|Vedanā] est mal-être, l'attachement à l'[upadanakkhandha|upādānakkhandha] de [sanna|Saññā] est mal-être, l'attachement à l'[upadanakkhandha|upādānakkhandha] de [sankhara|Saṅkhāra] est mal-être, l'attachement à l'[upadanakkhandha|upādānakkhandha] de [vinnana|Viññāṇa] est mal-être. Ceci, [bhikkhu|mendiants], en bref, est appelé souffrance due aux cinq [upadanakkhandha|upādānakkhandhas]."
+    },
+    {
+      "pl": "Idaṃ vuccati, bhikkhave, dukkhaṃ ariyasaccaṃ.",
+      "fr": "Et ceci, [bhikkhu|mendiants], est la Noble Vérité de la Souffrance."
+    },
+    {
+      "pl": "Samudayasaccaniddeso",
+      "fr": "La Vérité de la Cause de la Souffrance"
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, dukkha·samudayaṃ ariyasaccaṃ?",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Noble Vérité de la Cause de la Souffrance?"
+    },
+    {
+      "pl": "Yāyaṃ [tanha|taṇhā] ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṃ, [kamatanha|kāmataṇhā] [bhavatanha|bhavataṇhā] vibhavataṇhā.",
+      "fr": "C'est cette Soif ([tanha|taṇhā]), qui apparaît encore et encore, qui est profondément liée au plaisir et au désir, et qui trouve de la satisfaction ici et là. C'est-à-dire, le désir des plaisirs sensuels, le désir de renaître de façon répétée, et le désir d'être annihilé."
+    },
+    {
+      "pl": "Sā kho panesā, bhikkhave, [tanha|taṇhā] kattha uppajjamānā uppajjati, kattha nivisamānā nivisati?",
+      "fr": "Mais où cette Soif, bhikhhus, apparaît-elle et où s'établit-elle?"
+    },
+    {
+      "pl": "Yaṃ loke piyarūpaṃ sātarūpaṃ etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "Partout où il y a dans le monde quelque chose d'attirant et d'agréable, là même cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Kiñca loke piyarūpaṃ sātarūpaṃ? [cakkhu|Cakkhu] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Ghānaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. [jivha|Jivhā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Kayo loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Mano loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "Mais qu'est-ce qui, dans le monde, est attirant et agréable? L'œil, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. L'oreille, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le nez, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. La langue, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le corps, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. L'esprit, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Rūpā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "Les formes visibles, dans le monde, sont attirantes et agréables; là, cette Soif apparaît et s'établit. Les sons, dans le monde, sont attirants et agréables; là, cette Soif apparaît et s'établit. Les odeurs, dans le monde, sont attirants et agréables; là, cette Soif apparaît et s'établit. Les goûts, dans le monde, sont attirants et agréables; là, cette Soif apparaît et s'établit. Les sensations corporelles, dans le monde, sont attirants et agréables; là, cette Soif apparaît et s'établit. Les contenus de l'esprit, dans le monde, sont attirants et agréables; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Cakkhuviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Ghānaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Jivhāviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Kāyaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "La conscience oculaire, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La conscience auditive, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La conscience olfactive, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La conscience gustative, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La conscience corporelle, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La conscience mentale, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Cakkhusamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Ghānasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Jivhāsamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Kāyasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "Le contact oculaire, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le contact auditif, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le contact olfactif, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le contact gustatif, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le contact corporel, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit. Le contact mental, dans le monde, est attirant et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Cakkhusamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Ghānasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Jivhāsamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Kāyasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Manosamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. ",
+      "fr": "La sensation ([vedana|vedanā]) apparaissant lors du contact oculaire, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La sensation apparaissant lors du contact auditif, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La sensation apparaissant lors du contact olfactif, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La sensation apparaissant lors du contact gustatif, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La sensation apparaissant lors du contact corporel, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La sensation apparaissant lors du contact mental, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Rūpasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "La perception ([sanna|saññā]) d'formes visibles, de formes matérielles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La perception des sons, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La perception des odeurs, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La perception des goûts, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La perception des sensations corporelles La perception des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Rūpasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "La réaction mentale aux formes visibles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La réaction mentale aux sons, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La réaction mentale aux odeurs, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La réaction mentale aux goûts, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La réaction mentale aux sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La réaction mentale aux contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Rūpataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "La Soif de formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif d'odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie.La Soif de contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati.",
+      "fr": "La formation de pensées ([vitakka|vitakka]) à propos des formes visibles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La formation de pensées à propos des sons, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La formation de pensées à propos des odeurs, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La formation de pensées à propos des goûts, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La formation de pensées à propos des sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La formation de pensées à propos des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Rūpavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Gandhavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Rasavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Phoṭṭhabbavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. Dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] uppajjamānā uppajjati, ettha nivisamānā nivisati. ",
+      "fr": "La poursuite des pensées (vicāra) à propos des formes visibles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La poursuite des pensées à propos des sons, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La poursuite des pensées à propos des odeurs, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La poursuite des pensées à propos des goûts, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La poursuite des pensées à propos des sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit. La poursuite des pensées à propos des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif apparaît et s'établit."
+    },
+    {
+      "pl": "Idaṃ vuccati, bhikkhave, dukkha·samudayaṃ ariyasaccaṃ.",
+      "fr": "Ceci, [bhikkhu|mendiants], est la Noble Vérité de la Cause de la Souffrance."
+    },
+    {
+      "pl": "Nirodhasaccaniddeso",
+      "fr": "La Vérité de la Cessation de la Souffrance"
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, dukkha·nirodhaṃ ariyasaccaṃ?",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Noble Vérité de la Cessation de la Souffrance?"
+    },
+    {
+      "pl": "Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. Sā kho panesā, bhikkhave, [tanha|taṇhā] kattha pahīyamānā pahīyati, kattha nirujjhamānā nirujjhati? Yaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "C'est l'extinction complète et la cessation de cette même Soif, son abandon, la renonciation à son égard; la libération de cette Soif,ne lui laissant plus aucune place. Mais où cette Soif doit-elle être éradiquée? Où peut-elle être anéantie? Partout où il y a dans le monde quelque chose d'attirant et d'agréable, là même cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Kiñca loke piyarūpaṃ sātarūpaṃ? [cakkhu|Cakkhu] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Ghānaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. [jivha|Jivhā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Kāyo loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Mano loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "Mais qu'est-ce qui, dans le monde, est attirant et agréable? L'œil, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. L'oreille, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. Le nez, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. La langue, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. Le corps, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. L'esprit, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "Les formes visibles, dans le monde, sont attirantes et agréables; là, cette Soif doit être éradiquée et anéantie. Les sons, dans le monde, sont attirants et agréables; là, cette Soif doit être éradiquée et anéantie. Les odeurs, dans le monde, sont attirantes et agréables; là, cette Soif doit être éradiquée et anéantie. Les goûts, dans le monde, sont attirants et agréables; là, cette Soif doit être éradiquée et anéantie. Les sensations corporelles, dans le monde, sont attirantes et agréables; là, cette Soif doit être éradiquée et anéantie. Les contenus de l'esprit, dans le monde, sont attirants et agréables; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Cakkhuviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Ghānaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Jivhāviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Kāyaviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Manoviññāṇaṃ loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La conscience oculaire, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La conscience auditive, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La conscience olfactive, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La conscience gustative, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La conscience corporelle, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La conscience mentale, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Cakkhusamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Ghānasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Jivhāsamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Kāyasamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Manosamphasso loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "Le contact oculaire, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. Le contact auditif, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. Le contact olfactif, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. Le contact gustatif, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. Le contact corporel, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie. Le contact mental, dans le monde, est attirant et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Cakkhusamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Ghānasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Jivhāsamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Kāyasamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Manosamphassajā [vedana|vedanā] loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La sensation ([vedana|vedanā]) apparaissant lors du contact oculaire, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La sensation apparaissant lors du contact auditif, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La sensation apparaissant lors du contact olfactif, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La sensation apparaissant lors du contact gustatif, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La sensation apparaissant lors du contact corporel, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La sensation apparaissant lors du contact mental, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammasaññā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La perception ([sanna|saññā]) de formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La perception des sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La perception des odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La perception des goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie.La perception des sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La perception des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammasañcetanā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La réaction mentale aux formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La réaction mentale aux sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La réaction mentale aux odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La réaction mentale aux goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La réaction mentale aux sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La réaction mentale aux contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammataṇhā loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La Soif de formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif d'odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La Soif de sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie.La Soif de contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammavitakko loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati.",
+      "fr": "La formation de pensées à propos des formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La formation de pensées à propos des sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La formation de pensées à propos des odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La formation de pensées à propos des goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La formation de pensées à propos des sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La formation de pensées à propos des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Rūpavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Saddavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Gandhavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rasavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Phoṭṭhabbavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Dhammavicāro loke piyarūpaṃ sātarūpaṃ, etthesā [tanha|taṇhā] pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. ",
+      "fr": "La poursuite des pensées à propos des formes visibles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La poursuite des pensées à propos des sons, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La poursuite des pensées à propos des odeurs, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La poursuite des pensées à propos des goûts, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La poursuite des pensées à propos des sensations corporelles, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie. La poursuite des pensées à propos des contenus de l'esprit, dans le monde, est attirante et agréable; là, cette Soif doit être éradiquée et anéantie."
+    },
+    {
+      "pl": "Idaṃ vuccati, bhikkhave, dukkha·nirodhaṃ ariyasaccaṃ.",
+      "fr": "Ceci, [bhikkhu|mendiants], est la Noble Vérité de la Cessation de la Souffrance."
+    },
+    {
+      "pl": "Maggasaccaniddeso",
+      "fr": "La Vérité du Sentier"
+    },
+    {
+      "pl": "Katamaṃ ca, bhikkhave, [dngp|dukkha·nirodha·gāminī paṭipadā] ariyasaccaṃ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ, [sammaditthi|sammādiṭṭhi], sammāsaṅkappo, [sammavaca|sammāvācā], sammākammanto, sammā-ājīvo, sammāvāyāmo, [sammasati|sammāsati], [sammasamadhi|sammāsamādhi].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la Vérité du Sentier menant à la Cessation de la Souffrance? C'est l'Octuple Noble Sentier, c'est-à-dire:compréhension juste, pensée juste, parole juste, action juste, moyens de subsistance justes, effort juste, attention juste et concentration juste."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, [sammaditthi|sammādiṭṭhi]? Yaṃ kho, bhikkhave, dukkhe ñāṇaṃ, dukkha·samudaye ñāṇaṃ, dukkha·nirodhe ñāṇaṃ, dukkha·nirodhagāminiyā paṭipadāya ñāṇaṃ. Ayaṃ vuccati, bhikkhave, [sammaditthi|sammādiṭṭhi].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la compréhension juste? C'est la connaissance de la Souffrance, la connaissance de la Cause de la Souffrance,la connaissance de la Cessation de la Souffrance, la connaissance de la voie menant à la cessation du mal-être. Ceci, [bhikkhu|mendiants], est appelécompréhension juste."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, sammāsaṅkappo? [nekkhamma|Nekkhamma]-saṅkappo, abyāpādasaṅkappo, avihiṃsā-saṅkappo. Ayaṃ vuccati, bhikkhave, sammāsaṅkappo.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la pensée juste? Les pensées de renonciation, les pensées qui sont libres de l'aversion et les penséesqui sont libres de violence. Ceci, [bhikkhu|mendiants], est appelé pensée juste."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, [sammavaca|sammāvācā]? Musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī. Ayaṃ vuccati, bhikkhave, [sammavaca|sammāvācā].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la parole juste? S'abstenir de mentir, des calomnies et des médisances, s'abstenir de paler durement ets'abstenir des conversations frivoles. Ceci, [bhikkhu|mendiants], est appelé parole juste."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, sammākammanto? Pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī. Ayaṃ vuccati, bhikkhave, sammākammanto.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'action juste? S'abstenir de tuer, s'abstenir de s'emparer de ce qui n'a pas été donné et s'abstenirde la mauvaise conduite sexuelle. Ceci, [bhikkhu|mendiants], est appelé l'action juste."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, sammā-ājīvo? Idha, bhikkhave, ariyasāvako micchā-ājīvaṃ pahāya sammā-ājīvena jīvitaṃ kappeti. Ayaṃ vuccati, bhikkhave, sammā-ājīvo.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que les moyens de subsistance justes? À cet égard, [bhikkhu|mendiants], un noble disciple, ayant abandonné les mauvais moyens de subsistance, gagne sa vie par des moyens justes. Ceci, [bhikkhu|mendiants], est appelé moyens de subsistance justes."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, sammāvāyāmo? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, sammāvāyāmo.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'effort juste? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] génère la volonté d'empêcher l'apparition des états d'esprit malsains qui ne sont pas [encore] apparus, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté d'éradiquer les états d'esprit malsains ayant fait surface en lui, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté de développer les états d'esprits sains qui ne sont pas [encore] apparus en lui, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Il génère la volonté de maintenir les états d'esprit sains ayant fait surface en lui, pour ne pas les laisser disparaître, pour les multiplier, les mener à leur pleine maturité et leur plein développement, et pour cela il fait un effort résolu, il stimule son énergie, y applique son esprit et s'y efforce. Ceci, [bhikkhu|mendiants], est appelé effort juste."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, [sammasati|sammāsati]? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ, vedanāsu vedanānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ, citte cittānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ, dhammesu dhammānupassī viharati ātāpī [sampajana|sampajāno] satimā, vineyya loke abhijjhādomanassaṃ. Ayaṃ vuccati, bhikkhave, [sammasati|sammāsati].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que l'attention juste? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] demeure ardent, attentif et [sampajana|sampajāno], observant le corps dans le corps, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant les sensations dans les sensations, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], observant l'esprit dans l'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde; il demeure ardent, attentif et [sampajana|sampajāno], obervant les contenus de l'esprit dans les contenus de l'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde. Ceci, [bhikkhu|mendiants], est appelé attention juste."
+    },
+    {
+      "pl": "Katamo ca, bhikkhave, [sammasamadhi|sammāsamādhi]? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati, vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati, pītiyā ca virāgā [upekkhako|upekkhako] ca viharati [sata|sato] ca [sampajana|sampajāno] sukhaṃ ca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ ti tatiyaṃ jhānaṃ upasampajja viharati, sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave, [sammasamadhi|sammāsamādhi].",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la concentration juste? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant], relativement détourné des plaisirs sensuels, détourné des états mentaux malsains, entre et demeure dans le premier [jhana|jhāna], qui est accompagné de [sukha|sukha] et d'[piti|exaltation] engendrés par l'isolement, et de [vitakka|vitakka]-vicāra. Avec l'apaisement de [vitakka|vitakka]-vicāra, entre et demeure dans le second [jhana|jhāna], qui est accompagné de tranquillité intérieure, de [sukha|sukha] et d'[piti|exaltation] engendrés par la concentration, ainsi que d'une unité de l'attention, délivrée de [vitakka|vitakka] et de vicāra. Avec l'atténuation d'[piti|exaltation], demeurant équanime, attentif et [sampajana|sampajāno], ressentant [sukha|sukha] dans le corps, entre et demeure dans le troisième [jhana|jhāna], dont les êtres nobles déclarent: '[upekkhako|upekkhako satimā sukhavihārī]'. Avec l'abandon du plaisir et de la douleur, après la disparition préalable de la joie et de la tristesse, entre et demeure dans le quatrième [jhana|jhāna], qui est accompagné d'une purification de l'attention par l'équanimité et de l'absence de plaisir et de douleur. Ceci, [bhikkhu|mendiants], est appelé concentration juste."
+    },
+    {
+      "pl": "Idaṃ vuccati, bhikkhave, [dngp|dukkha·nirodha·gāminī paṭipadā] ariyasaccaṃ.",
+      "fr": "Ceci, [bhikkhu|mendiants], est la Noble Vérité du Sentier menant à la Cessation de la Souffrance."
+    },
+    {
+      "pl": "Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati, samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati, ‘atthi dhammā’ ti vā panassa [sati|sati] paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati. Evaṃ pi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.",
+      "fr": "Ainsi il demeure en observant les phénomènes mentaux dans les phénomènes mentaux intérieurement, ou il demeure observant les contenus de l’esprit dans les phénomènes mentaux extérieurement, ou il demeure observant les phénomènes mentaux dans les phénomènes mentaux à la fois intérieurement et extérieurement. Ainsi, il demeure en observant le phénomène d’apparition dans les phénomènes mentaux, il demeure en observant le phénomène d’extinction dans les phénomènes mentaux, il demeure en observant à la fois les phénomènes d’apparition et d’extinction dans les phénomènes mentaux. Maintenant son attention est établie : “Voici les phénomènes mentaux!” Ainsi, il développe son attention à un tel degré qu’il ne reste plus qu’une simple compréhension accompagnée d'une simple attention. De cette manière il demeure détaché, sans s’accrocher à rien dans le monde. [bhikkhu|mendiants], voici la manière dont un [bhikkhu|mendiant] demeure observant les phénomènes mentaux dans les phénomènes mentaux, en rapport aux quatre nobles vérités."
+    },
+    {
+      "pl": "Satipaṭṭhānabhāvanānisaṃso",
+      "fr": "Les résultats de l'établissement de l'attention"
+    },
+    {
+      "pl": "Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattavassāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, [sati|sati] vā upādisese anāgāmitā.",
+      "fr": "En vérité, [bhikkhu|mendiants], quiconque pratique ce quadruple établissement de l'attention de cette manière pendant sept ans, peut s'attendre à l'un des deux résultats suivants : [ditthevadhamme|dans le monde visible] la sagesse la plus haute ou, si un substrat d'agrégats subsiste, le stade d'anāgāmi."
+    },
+    {
+      "pl": "Tiṭṭhantu, bhikkhave, sattavassāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya cha vassāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, [sati|sati] vā upādisese anāgāmitā.",
+      "fr": "Laissez tomber les sept ans, [bhikkhu|mendiants]. Quiconque pratiquece quadruple établissement de l'attention de cette manière pendant six ans, peut s'attendre à l'un des deux résultats suivants : [ditthevadhamme|dans le monde visible] la sagesse la plus haute ou, si un substrat d'agrégats subsiste, le stade d'anāgāmi."
+    },
+    {
+      "pl": "Tiṭṭhantu, bhikkhave, cha vassāni...pe.[@nl]Tiṭṭhantu, bhikkhave, pañca vassāni...pe.[@nl]Tiṭṭhantu, bhikkhave, cattāri vassāni...pe. [@nl]Tiṭṭhantu, bhikkhave, tīṇi vassāni...pe.[@nl]Tiṭṭhantu, bhikkhave, dve vassāni..pe.[@nl]Tiṭṭhatu, bhikkhave, ekaṃ vassaṃ. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattamāsāni, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, [sati|sati] vā upādisese anāgāmitā.",
+      "fr": "Laissez tomber les six ans, [bhikkhu|mendiants]...[@nl]Laissez tomber les cinq ans, [bhikkhu|mendiants]...[@nl]Laissez tomber les quatre ans, [bhikkhu|mendiants]...[@nl]Laissez tomber les trois ans, [bhikkhu|mendiants]...[@nl]Laissez tomber les deux ans, [bhikkhu|mendiants]...[@nl]Laissez tomber l'année, [bhikkhu|mendiants]. Quiconque pratiquece quadruple établissement de l'attention de cette manière pendant sept mois, peut s'attendre à l'un des deux résultats suivants : [ditthevadhamme|dans le monde visible] la sagesse la plus haute ou, si un substrat d'agrégats subsiste, le stade d'anāgāmi."
+    },
+    {
+      "pl": "Tiṭṭhantu, bhikkhave, satta māsāni...pe.[@nl]Tiṭṭhantu, bhikkhave, cha māsāni...pe.[@nl]Tiṭṭhantu, bhikkhave, pañca māsāni...pe.[@nl]Tiṭṭhantu, bhikkhave, cattāri māsāni...pe.[@nl]Tiṭṭhantu, bhikkhave, tīṇi māsāni...pe.[@nl]Tiṭṭhantu, bhikkhave, dve māsāni...pe.[@nl]Tiṭṭhatu, bhikkhave, aḍḍhamāsaṃ...pe.",
+      "fr": "Laissez tomber les sept mois, [bhikkhu|mendiants]...[@nl]Laissez tomber les six mois, [bhikkhu|mendiants]...[@nl]Laissez tomber les cinq mois, [bhikkhu|mendiants]...[@nl]Laissez tomber les quatre mois, [bhikkhu|mendiants]...[@nl]Laissez tomber les trois mois, [bhikkhu|mendiants]...[@nl]Laissez tomber les deux mois, [bhikkhu|mendiants]...[@nl]Laissez tomber un mois, [bhikkhu|mendiants]. Quiconque pratique... pendant un demi-mois..."
+    },
+    {
+      "pl": "Tiṭṭhatu, bhikkhave, ekaṃ māsaṃ...pe.[@nl]Tiṭṭhatu, bhikkhave, aḍḍhamāso. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṃ bhāveyya sattāhaṃ, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ: diṭṭheva dhamme aññā, [sati|sati] vā upādisese anāgāmitā.",
+      "fr": "Laissez tomber le demi-mois, [bhikkhu|mendiants]...[@nl]Laissez tomber le demi-mois, [bhikkhu|mendiants].Quiconque pratiquece quadruple établissement de l'attention de cette manière pendant sept jours, peut s'attendre à un des deux résultats suivants : [ditthevadhamme|dans le monde visible] la sagesse la plus haute ou, si un substrat d'agrégats subsiste, le stade d'anāgāmi."
+    },
+    {
+      "pl": "‘Ekāyano ayaṃ, bhikkhave, maggo sattānaṃ visuddhiyā, sokaparidevānaṃ samatikkamāya, dukkhadomanassānaṃ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya yadidaṃ cattāro satipaṭṭhānā’ ti. Iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vuttaṃ ti.",
+      "fr": "C'est pour cette raison qu'il a été dit: “Voici le seul et unique moyen, [bhikkhu|mendiants], pour la purification des êtres, pour vaincre la peine et les lamentations, pour mettre fin au mal-être et à la douleur, pour marcher sur le sentier de la vérité, pour la réalisation du [nibbana|Nibbāna] : c'est-à-dire le quadruple établissement de l’attention."
+    },
+    {
+      "pl": "Idamavoca [bhagava|Fortuné]. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinanduṃ ti.",
+      "fr": "Ainsi parla l'Eveillé. Heureux, les [bhikkhu|mendiants] accueillirent les mots de l'Eveillé."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhikkhu",
+    "nibbana",
+    "satipatthana",
+    "sampajana",
+    "sampajanna",
+    "upadanakkhandha",
+    "rupa",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana",
+    "khandha",
+    "bojjhanga",
+    "piti",
+    "domanassa",
+    "tanha",
+    "vitakka",
+    "jhana",
+    "sukha",
+    "upekkhako",
+    "ditthevadhamme"
+  ],
+  "translator": "Rémy"
+}

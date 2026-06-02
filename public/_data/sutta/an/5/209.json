@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 5.209",
+  "plTitle": "Gītassara Sutta",
+  "frTitle": "Une intonation mélodique",
+  "description": "Ce soutta explique qu'il interdit aux mendiants de chanter le Dhamma de manière mélodieuse.",
+  "body": [
+    {
+      "pl": "Pañc·ime, bhikkhave, ādīnavā āyatakena gīta·s·sarena dhammaṃ bhaṇantassa. Katame pañca?",
+      "fr": "Il y a, [bhikkhu|mendiants], ces cinq [adinava|désavantages] à réciter le [dhamma|Dhamma] avec une intonation mélodique. Quels sont ces cinq?"
+    },
+    {
+      "pl": "Attanā·pi tasmiṃ sare sārajjati, pare·pi tasmiṃ sare sārajjanti, gahapati·kā·pi ujjhāyanti: ‘yath·eva mayaṃ gāyāma, evam·evaṃ kho samaṇā sakyaputtiyā gāyantī’ti, sarakuttim·pi nikāmayamānassa samādhissa bhaṅgo hoti, pacchimā janatā diṭṭhānugatiṃ āpajjati.",
+      "fr": "On se passionne pour sa propre intonation, les autres se passionnent pour cette intonation, les maîtres de maison s'exaspèrent: [i]“Ces [samana|renonçants] fils de Sakyas chantent comme nous chantons nous-même!”[/i], la [samadhi|concentration] est rompue chez ceux qui veulent parfaire l'intonation, et les générations suivantes imitent ce qu'elles ont vues."
+    },
+    {
+      "pl": "Ime kho, bhikkhave, pañca ādīnavā āyatakena gīta·s·sarena dhammaṃ bhaṇantassā·ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont les ces cinq [adinava|désavantages] qu'il y a à réciter le [dhamma|Dhamma] avec une intonation mélodique."
+    }
+  ],
+  "keywords": ["bhikkhu", "adinava", "dhamma", "samana", "samadhi"],
+  "translator": "Rémy"
+}

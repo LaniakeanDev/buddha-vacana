@@ -1,5 +1,4 @@
 {
-  "**/*.(ts|tsx)": ["npm run lint", "npm run prettier-format"],
-
-  "**/*.(md|json)": "npm run prettier-format"
+  "**/*.(ts|tsx)": "eslint --fix",
+  "**/*.(md|json|ts|tsx|js|jsx|css)": "prettier --write"
 }

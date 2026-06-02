@@ -1,0 +1,38 @@
+{
+  "identifier": "AN 5.198",
+  "plTitle": "Vācā Sutta",
+  "frTitle": "Une parole bien dite",
+  "description": "Cinq caractéristiques qui, lorsqu'elles sont réunies, rendent une parole bien dite et au-dessus de tout reproche.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṃ. katamehi pañcahi? ",
+      "fr": "pourvue de cinq caractéristiques, [bhikkhu|mendiants], une [vaca|parole] est bien dite, pas mal dite, elle est [anavajja|irréprochable] et elle n'est pas critiquable par les sages. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "kālena ca bhāsitā hoti,",
+      "fr": "Elle est dite au bon moment,"
+    },
+    {
+      "pl": "saccā ca bhāsitā hoti,",
+      "fr": "elle est dite en vérité,"
+    },
+    {
+      "pl": "saṇhā ca bhāsitā hoti,",
+      "fr": "elle est dite avec gentillesse,"
+    },
+    {
+      "pl": "atthasaṃhitā ca bhāsitā hoti,",
+      "fr": "elle est dite en rapport à ce qui est [@m_atthasamhita|profitable],"
+    },
+    {
+      "pl": "mettacittena ca bhāsitā hoti.",
+      "fr": "et elle est dite avec un esprit de [metta|bienveillance]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.",
+      "fr": "pourvue de ces cinq caractéristiques, [bhikkhu|mendiants], une [vaca|parole] est bien dite, pas mal dite, elle est [anavajja|irréprochable] et elle n'est pas critiquable par les sages."
+    }
+  ],
+  "keywords": ["bhikkhu", "vaca", "anavajja", "@m_atthasamhita", "metta"],
+  "translator": "Rémy"
+}

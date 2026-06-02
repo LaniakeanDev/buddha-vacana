@@ -1,0 +1,54 @@
+{
+  "identifier": "AN 2.16",
+  "plTitle": "Brāhmaṇa Sutta",
+  "frTitle": "La question d'un brahmane",
+  "description": "Un brahmane vient voir le Bouddha et lui demande pourquoi certains réapparaissent dans un enfer ou dans un paradis après la mort.",
+  "body": [
+    {
+      "pl": "atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho so brāhmaṇo bhagavantaṃ etadavoca ",
+      "fr": "Un jour, un certain [brahmana|brahmane] vint voir le [bhagava|Fortuné] et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté et dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“ko nu kho, bho gotama, hetu ko paccayo yena midhekacce sattā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī”ti?",
+      "fr": "«[bho|Honorable] Gotama, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle certains [satta|êtres], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaissent dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]?"
+    },
+    {
+      "pl": "“adhammacariyāvisamacariyāhetu kho, brāhmaṇa, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī”ti.",
+      "fr": "—[brahmana|Brahmane], c'est à cause d'une conduite contraire au [dhamma|Dhamma], d'une conduite immorale que certains [satta|êtres], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaissent dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]."
+    },
+    {
+      "pl": "“ko nu kho, bho gotama, hetu ko paccayo yena midhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti?",
+      "fr": "— [bho|Honorable] Gotama, quelle est la [hetu|cause], quelle est la [paccaya|raison] pour laquelle certains [satta|êtres], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaissent dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]?"
+    },
+    {
+      "pl": "“dhammacariyāsamacariyāhetu kho, brāhmaṇa, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti.",
+      "fr": "—[brahmana|Brahmane], c'est à cause d'une conduite conforme au [dhamma|Dhamma], d'une conduite morale que certains [satta|êtres], lors de la rupture du [kaya|corps], après la [marana|mort], réapparaissent dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]."
+    },
+    {
+      "pl": "“abhikkantaṃ, bho gotama! abhikkantaṃ, bho gotama! seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya — ‘cakkhumanto rūpāni dakkhantī’ti, evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti.",
+      "fr": "—C'est excellent, [bho|Honorable] Gotama, excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou bien on montrerait le chemin à quelqu'un qui se serait perdu, ou bien on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière l'[bho|Honorable] Gotama a expliqué le [dhamma|Dhamma] de diverses façons. Je vais en refuge au vénérable Gotama, ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le vénérable Gotama nous considère comme des [upasaka|disciples] étant allés en refuge à compter d'aujourd'hui et pour la vie.»"
+    }
+  ],
+  "keywords": [
+    "brahmana",
+    "bhagava",
+    "bho",
+    "hetu",
+    "paccaya",
+    "satta",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "dhamma",
+    "sugati",
+    "loka",
+    "sagga",
+    "sangha",
+    "bhikkhu",
+    "upasaka"
+  ],
+  "translator": "Sekha"
+}

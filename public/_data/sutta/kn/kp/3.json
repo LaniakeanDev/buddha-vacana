@@ -1,0 +1,38 @@
+{
+  "identifier": "Kp 3",
+  "plTitle": "Dvattiṃsākāra",
+  "frTitle": "Les trente-deux composants du corps",
+  "description": "La récitation de ces trente-deux parties du corps est utile pour désenchanter un novice vis-à-vis du corps et l'aider à se rendre compte qu'il n'est qu'un ensemble de choses peu ragoûtantes.",
+  "body": [
+    {
+      "pl": "atthi imasmiṃ kāye — ",
+      "fr": "Dans ce corps, il y a:"
+    },
+    {
+      "pl": "kesā lomā nakhā dantā taco,",
+      "fr": "des cheveux, des poils, des ongles, des dents, de la peau,"
+    },
+    {
+      "pl": "maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ,",
+      "fr": "des muscles, des tendons, des os, de la moelle osseuse, des reins,"
+    },
+    {
+      "pl": "hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ,",
+      "fr": "un cœur, un foie, de la plèvre, une rate, des poumons,"
+    },
+    {
+      "pl": "antaṃ antaguṇaṃ udariyaṃ karīsaṃ matthaluṅgaṃ,",
+      "fr": "des intestins, un mésentère, un estomac, des excréments, du cerveau,"
+    },
+    {
+      "pl": "pittaṃ semhaṃ pubbo lohitaṃ sedo medo,",
+      "fr": "de la bile, des mucosités, du pus, du sang, de la sueur, du gras,"
+    },
+    {
+      "pl": "assu vasā kheḷo siṅghāṇikā lasikā muttanti.",
+      "fr": "des larmes, de la graisse, de la salive, de la morve, du liquide synovial et de l'urine."
+    }
+  ],
+  "keywords": [],
+  "translator": "Sekha"
+}

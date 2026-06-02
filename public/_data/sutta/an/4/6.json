@@ -1,0 +1,34 @@
+{
+  "identifier": "AN 4.6",
+  "plTitle": "Appasuta Sutta",
+  "frTitle": "Ayant peu appris",
+  "description": "Quatre types d'individus classés selon leurs connaissances et leur investissement dans la pratique.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. katame cattāro? appassuto sutena anupapanno, appassuto sutena upapanno, bahussuto sutena anupapanno, bahussuto sutena upapanno.",
+      "fr": "[bhikkhu|Mendiants], on trouve dans le [loka|monde] ces quatre [types de] personnes. Quels sont ces quatre? Celle qui est peu instruite et qui n'est pas résolue par rapport à ce qu'elle a appris, celle qui est peu instruite mais qui est résolue par rapport à ce qu'elle a appris, celle qui est [@m_bahussuta|très instruit]e mais qui n'est pas résolue par rapport à ce qu'elle a appris, et celle qui est [@m_bahussuta|très instruit]e et qui est résolue par rapport à ce qu'elle a appris."
+    },
+    {
+      "pl": "kathañca, bhikkhave, puggalo appassuto hoti sutena anupapanno? idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti, suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. so tassa appakassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. evaṃ kho, bhikkhave, puggalo appassuto hoti sutena anupapanno.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne qui est peu instruite et qui n'est pas résolue par rapport à ce qu'elle a appris? À cet égard, une certaine personne est peu instruite en ce qui concerne les souttas, les mélanges de prose et de versets, les explications, les versets, les [udana|exclamations], les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Ayant peu appris, elle [dadp|ne pratique pas l'enseignement au niveau des phénomènes] en ayant compris le [attha|sens], le [attha|bienfait], la [attha|finalité], en ayant compris l'[dhamma|Enseignement]. Voici, [bhikkhu|mendiants], quelle est la personne qui est peu instruite et qui n'est pas résolue par rapport à ce qu'elle a appris."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo appassuto hoti sutena upapanno? idha, bhikkhave, ekaccassa puggalassa appakaṃ sutaṃ hoti: suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. so tassa appakassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. evaṃ kho, bhikkhave, puggalo appassuto hoti sutena upapanno.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne qui est peu instruite mais qui est résolue par rapport à ce qu'elle a appris? À cet égard, une certaine personne est peu instruite en ce qui concerne les souttas, les mélanges de prose et de versets, les explications, les versets, les [udana|exclamations], les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Mais bien qu'ayant peu appris, elle [dadp|pratique l'enseignement au niveau des phénomènes] en ayant compris le [attha|sens], le [attha|bienfait], la [attha|finalité], en ayant compris l'[dhamma|Enseignement]. Voici, [bhikkhu|mendiants], quelle est la personne qui est peu instruite mais qui est résolue par rapport à ce qu'elle a appris."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo bahussuto hoti sutena anupapanno? idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti, suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. so tassa bahukassa sutassa na atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena anupapanno.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne qui est [@m_bahussuta|très instruit]e mais qui n'est pas résolue par rapport à ce qu'elle a appris? À cet égard, une certaine personne est [@m_bahussuta|très instruit]e en ce qui concerne les souttas, les mélanges de prose et de versets, les explications, les versets, les [udana|exclamations], les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Mais bien qu'ayant beaucoup appris, elle [dadp|ne pratique pas l'enseignement au niveau des phénomènes] en ayant compris le [attha|sens], le [attha|bienfait], la [attha|finalité], en ayant compris l'[dhamma|Enseignement]. Voici, [bhikkhu|mendiants], quelle est la personne qui est [@m_bahussuta|très instruit]e mais qui n'est pas résolue par rapport à ce qu'elle a appris."
+    },
+    {
+      "pl": "“kathañca, bhikkhave, puggalo bahussuto hoti sutena upapanno? idha, bhikkhave, ekaccassa puggalassa bahukaṃ sutaṃ hoti, suttaṃ geyyaṃ veyyākaraṇaṃ gāthā udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. so tassa bahukassa sutassa atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti. evaṃ kho, bhikkhave, puggalo bahussuto hoti sutena upapanno.",
+      "fr": "Et quelle est, [bhikkhu|mendiants], la personne qui est [@m_bahussuta|très instruit]e et qui est résolue par rapport à ce qu'elle a appris? À cet égard, une certaine personne est [@m_bahussuta|très instruit]e en ce qui concerne les souttas, les mélanges de prose et de versets, les explications, les versets, les [udana|exclamations], les [i]“ainsi a-t-il été dit”[/i], les histoires de naissances antérieures, les histoires édifiantes et les questions-réponses. Ayant beaucoup appris, elle [dadp|pratique l'enseignement au niveau des phénomènes] en ayant compris le [attha|sens], le [attha|bienfait], la [attha|finalité], en ayant compris l'[dhamma|Enseignement]. Voici, [bhikkhu|mendiants], quelle est la personne qui est [@m_bahussuta|très instruit]e et qui est résolue par rapport à ce qu'elle a appris."
+    },
+    {
+      "pl": "ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmin”ti.",
+      "fr": "Voici, [bhikkhu|mendiants], quels sont ces quatre [types de] personnes que l'on trouve dans le [loka|monde]."
+    }
+  ],
+  "keywords": ["bhikkhu", "loka", "@m_bahussuta", "udana", "dadp", "attha", "dhamma"],
+  "translator": "Rémy"
+}

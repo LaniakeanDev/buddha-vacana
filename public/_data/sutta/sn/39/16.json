@@ -1,0 +1,46 @@
+{
+  "identifier": "SN 39.16",
+  "plTitle": "Dukkarapañhā Sutta",
+  "frTitle": "Des questions concernant ce qui est difficile à faire ",
+  "description": "Saripoutta décrit ce qui est difficile à réaliser dans l'enseignement du Bouddha.",
+  "body": [
+    {
+      "pl": "Ekaṃ samayaṃ āyasmā sāriputto vajjīsu viharati ukkacelāyaṃ gaṅgāya nadiyā tīre. Atha kho sāmaṇḍako paribbājako yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho sāmaṇḍako paribbājako āyasmantaṃ sāriputtaṃ etadavoca:",
+      "fr": "Un jour, [ayasma|le vénérable] Saripoutta séjournait chez les vajjians, à Ukkatchelā, sur les berges du Gange. Ce jour-là, Sāmaṇḍaka le [samana|renonçant] vint voir [ayasma|le vénérable] Saripoutta et échangea des courtoisies avec lui. Après cet échange de courtoisies et de salutations amicales, il s'assit d'un côté. Une fois assis là, il dit au [ayasma|vénérable] Saripoutta:"
+    },
+    {
+      "pl": "Kiṃ nu kho, āvuso sāriputta, imasmiṃ dhammavinaye dukkara nti?",
+      "fr": "— Qu'est-ce, ami Saripoutta, qui est difficile à faire dans cet [dhamma|Enseignement] & [vinaya|Discipline]?"
+    },
+    {
+      "pl": "Pabbajjā kho, āvuso, imasmiṃ dhammavinaye dukkarā ti.",
+      "fr": "— [pabbajja|Quitter le foyer], ami, est difficile dans cet [dhamma|Enseignement] & [vinaya|Discipline]."
+    },
+    {
+      "pl": "Pabbajitena panāvuso, kiṃ dukkara nti?",
+      "fr": "— Et pour un sans-foyer, ami, qu'est-ce qui est difficile à faire?"
+    },
+    {
+      "pl": "Pabbajitena kho, āvuso, abhirati dukkarā ti.",
+      "fr": "— Pour un sans-foyer, ami, trouver l'agrément est difficile."
+    },
+    {
+      "pl": "Abhiratena panāvuso, kiṃ dukkara nti?",
+      "fr": "— Et pour celui qui a trouvé l'agrément, ami, qu'est-ce qui est difficile à faire?"
+    },
+    {
+      "pl": "Abhiratena kho, āvuso, dhammānudhammappaṭipatti dukkarā ti.",
+      "fr": "— Pour celui qui a trouvé l'agrément, ami, la [dadp|pratique de l'Enseignement au niveau des phénomènes] est difficile."
+    },
+    {
+      "pl": "Kīvaciraṃ panāvuso, dhammānudhammappaṭipanno bhikkhu arahaṃ assā ti?",
+      "fr": "— Pour celui qui [dadp|pratique l'Enseignement au niveau des phénomènes], amis, combien de temps cela prend-il pour devenir un [arahant|Méritant]?"
+    },
+    {
+      "pl": "Naciraṃ, āvuso ti.",
+      "fr": "— Pas longtemps, ami."
+    }
+  ],
+  "keywords": ["ayasma", "samana", "dhamma", "vinaya", "pabbajja", "dadp", "arahant"],
+  "translator": "Rémy"
+}

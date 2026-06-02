@@ -1,0 +1,85 @@
+{
+  "identifier": "SN 14.12",
+  "plTitle": "Sanidāna Sutta",
+  "frTitle": "Avec une cause",
+  "description": "Voici comment les différents types de pensées avantageuses ou désavantageuses apparaissent, et comment les deux attitudes possibles sont comparées à la manière de s'occuper d'une torche enflammée.",
+  "body": [
+    {
+      "pl": "Sāvatthinidāna.",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "Sanidānaṃ, bhikkhave, uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsā-vitakko, no anidānaṃ. Kathañca, bhikkhave, sanidānaṃ uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsā-vitakko, no anidānaṃ?",
+      "fr": "Une [vitakka|pensée] de [kama|sensualité], [bhikkhu|mendiants], apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [byapada|malveillance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [vihimsa|nuisance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Et comment, [bhikkhu|mendiants], une [vitakka|pensée] de [kama|sensualité] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause? Comment] une [vitakka|pensée] de [byapada|malveillance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause? Comment ] une [vitakka|pensée] de [vihimsa|nuisance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause]?"
+    },
+    {
+      "pl": "Kāmadhātuṃ, bhikkhave, paṭicca uppajjati kāmasaññā, kāmasaññaṃ paṭicca uppajjati kāmasaṅkappo, kāmasaṅkappaṃ paṭicca uppajjati kāmac·chando, kāmac·chandaṃ paṭicca uppajjati kāmapariḷāho, kāmapariḷāhaṃ paṭicca uppajjati kāmapariyesanā. Kāmapariyesanaṃ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [kama|sensualité], [bhikkhu|mendiants], apparaît une [sanna|perception] de [kama|sensualité]; sur la base d'une [sanna|perception] de [kama|sensualité] apparaît une [sankappa|aspiration] à la [kama|sensualité]; sur la base d'une [sankappa|aspiration] à la [kama|sensualité] apparaît un [kamacchanda|désir sensuel;] sur la base d'un [kamacchanda|désir sensuel] apparaît une [@m_parilaha|ardeur] de [kama|sensualité;] sur la base d'une [@m_parilaha|ardeur] de [kama|sensualité] apparaît une quête de [kama|sensualité]. En poursuivant une quête de [kama|sensualité], [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction] se conduit de manière erronée de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Byāpādadhātuṃ, bhikkhave, paṭicca uppajjati byāpāda-saññā, byāpāda-saññaṃ paṭicca uppajjati byāpāda-saṅkappo, byāpāda-saṅkappaṃ paṭicca uppajjati byāpāda-c·chando, byāpāda-c·chandaṃ paṭicca uppajjati byāpāda-pariḷāho, byāpāda-pariḷāhaṃ paṭicca uppajjati byāpāda-pariyesanā. Byāpādapariyesanaṃ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [byapada|malveillance], [bhikkhu|mendiants], apparaît une [sanna|perception] de [byapada|malveillance]; sur la base d'une [sanna|perception] de [byapada|malveillance] apparaît une [sankappa|aspiration] de [byapada|malveillance]; sur la base d'une [sankappa|aspiration] de [byapada|malveillance] apparaît un [chanda|désir] de [byapada|malveillance;] sur la base d'un [chanda|désir] de [byapada|malveillance] apparaît une [@m_parilaha|ardeur] de [byapada|malveillance;] sur la base d'une [@m_parilaha|ardeur] de [byapada|malveillance] apparaît une quête de [byapada|malveillance]. En poursuivant une quête de [byapada|malveillance], [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction] se conduit de manière erronée de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Vihiṃsādhātuṃ, bhikkhave, paṭicca uppajjati vihiṃsā-saññā; vihiṃsā-saññaṃ paṭicca uppajjati vihiṃsā-saṅkappo, vihiṃsā-saṅkappaṃ paṭicca uppajjati vihiṃsā-c·chando, vihiṃsā-c·chandaṃ paṭicca uppajjati vihiṃsā-pariḷāho, vihiṃsā-pariḷāhaṃ paṭicca uppajjati vihiṃsā-pariyesanā. Vihiṃsāpariyesanaṃ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [vihimsa|nuisance], [bhikkhu|mendiants], apparaît une [sanna|perception] de [vihimsa|nuisance]; sur la base d'une [sanna|perception] de [vihimsa|nuisance] apparaît une [sankappa|aspiration] de [vihimsa|nuisance]; sur la base d'une [sankappa|aspiration] de [vihimsa|nuisance] apparaît un [chanda|désir] de [vihimsa|nuisance;] sur la base d'un [chanda|désir] de [vihimsa|nuisance] apparaît une [@m_parilaha|ardeur] de [vihimsa|nuisance;] sur la base d'une [@m_parilaha|ardeur] de [vihimsa|nuisance] apparaît une quête de [vihimsa|nuisance]. En poursuivant une quête de [vihimsa|nuisance], [bhikkhu|mendiants], un [puthujjana|individu ordinaire] [assutava|sans instruction] se conduit de manière erronée de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, puriso ādittaṃ tiṇukkaṃ sukkhe tiṇadāye nikkhipeyya, no ce hatthehi ca pādehi ca khippameva nibbāpeyya, evañhi, bhikkhave, ye tiṇakaṭṭhanissitā pāṇā te anayabyasanaṃ āpajjeyyuṃ; evameva kho, bhikkhave, yo hi koci samaṇo vā brāhmaṇo vā uppannaṃ visamagataṃ saññaṃ na khippameva pajahati vinodeti byantīkaroti anabhāvaṃ gameti, so diṭṭhe ceva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ; kāyassa ca bhedā paraṃ maraṇā duggati pāṭikaṅkhā.",
+      "fr": "Tout comme, [bhikkhu|mendiants], si un homme faisait tomber une torche d'herbes enflammée dans un bois remplis d'herbes sèches et qu'il ne l'éteignait pas rapidement avec ses mains et ses pieds, les êtres vivant dans les herbes et le bois trouveraient leur malheur & infortune, de la même manière, [bhikkhu|mendiants], si un [samana|renonçant] ou un [brahmana|brahmane] n'abandonne pas rapidement une [sanna|perception] inappropriée apparue en lui, s'il ne la dissipe pas, s'il ne l'élimine pas, s'il ne la fait pas disparaître, il vit dans le [dukkha|mal-être] [ditthevadhamme|dans ce monde visible], avec contrariétés, adversité et fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [duggati|mauvaise destination]."
+    },
+    {
+      "pl": "Sanidānaṃ, bhikkhave, uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsā-vitakko, no anidānaṃ. Kathañca, bhikkhave, sanidānaṃ uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpāda-vitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsā-vitakko, no anidānaṃ?",
+      "fr": "Une [vitakka|pensée] de [nekkhamma|renoncement], [bhikkhu|mendiants], apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [abyapada|bienveillance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Une [vitakka|pensée] de [avihimsa|non-nuisance] apparaît avec une [nidana|cause], pas sans [nidana|cause]. Et comment, [bhikkhu|mendiants], une [vitakka|pensée] de [nekkhamma|renoncement] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause]? Comment une [vitakka|pensée] de [abyapada|bienveillance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause]? Comment une [vitakka|pensée] de [avihimsa|non-nuisance] apparaît-elle avec une [nidana|cause], pas sans [nidana|cause]?"
+    },
+    {
+      "pl": "Nekkhamma-dhātuṃ, bhikkhave, paṭicca uppajjati nekkhamma-saññā, nekkhamma-saññaṃ paṭicca uppajjati nekkhamma-saṅkappo, nekkhamma-saṅkappaṃ paṭicca uppajjati nekkhamma-c·chando, nekkhamma-c·chandaṃ paṭicca uppajjati nekkhamma-pariḷāho, nekkhamma-pariḷāhaṃ paṭicca uppajjati nekkhamma-pariyesanā. Nekkhamma-pariyesanaṃ, bhikkhave, pariyesamāno sutavā ariya·sāvako tīhi ṭhānehi sammā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [nekkhamma|renoncement], [bhikkhu|mendiants], apparaît une [sanna|perception] de [nekkhamma|renoncement]; sur la base d'une [sanna|perception] de [nekkhamma|renoncement] apparaît une [sankappa|aspiration] au [nekkhamma|renoncement]; sur la base d'une [sankappa|aspiration] au [nekkhamma|renoncement] apparaît un [chanda|désir] de [nekkhamma|renoncement;] sur la base d'un [chanda|désir] de [nekkhamma|renoncement] apparaît une [@m_parilaha|ardeur] de [nekkhamma|renoncement;] sur la base d'une [@m_parilaha|ardeur] de [nekkhamma|renoncement] apparaît une quête de [nekkhamma|renoncement]. En poursuivant une quête de [nekkhamma|renoncement], [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] se conduit correctement de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Abyāpāda-dhātuṃ, bhikkhave, paṭicca uppajjati abyāpāda-saññā, abyāpāda-saññaṃ paṭicca uppajjati abyāpāda-saṅkappo, abyāpāda-saṅkappaṃ paṭicca uppajjati abyāpāda-c·chando, abyāpāda-c·chandaṃ paṭicca uppajjati abyāpāda-pariḷāho, abyāpāda-pariḷāhaṃ paṭicca uppajjati abyāpāda-pariyesanā. Abyāpāda-pariyesanaṃ, bhikkhave, pariyesamāno sutavā ariya·sāvako tīhi ṭhānehi sammā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [abyapada|bienveillance], [bhikkhu|mendiants], apparaît une [sanna|perception] de [abyapada|bienveillance]; sur la base d'une [sanna|perception] de [abyapada|bienveillance] apparaît une [sankappa|aspiration] à la [abyapada|bienveillance]; sur la base d'une [sankappa|aspiration] à la [abyapada|bienveillance] apparaît un [chanda|désir] de [abyapada|bienveillance;] sur la base d'un [chanda|désir] de [abyapada|bienveillance] apparaît une [@m_parilaha|ardeur] de [abyapada|bienveillance;] sur la base d'une [@m_parilaha|ardeur] de [abyapada|bienveillance] apparaît une quête de [abyapada|bienveillance]. En poursuivant une quête de [abyapada|bienveillance], [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] se conduit correctement de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Avihiṃsā-dhātuṃ, bhikkhave, paṭicca uppajjati avihiṃsā-saññā, avihiṃsā-saññaṃ paṭicca uppajjati avihiṃsā-saṅkappo, avihiṃsā-saṅkappaṃ paṭicca uppajjati avihiṃsā-chando, avihiṃsā-chandaṃ paṭicca uppajjati avihiṃsā-pariḷāho, avihiṃsā-pariḷāhaṃ paṭicca uppajjati avihiṃsā-pariyesanā. Avihiṃsā-pariyesanaṃ, bhikkhave, pariyesamāno sutavā ariya·sāvako tīhi ṭhānehi sammā paṭipajjati: kāyena, vācāya, manasā.",
+      "fr": "Sur la base de l'[dhatu|élément] de [avihimsa|non-nuisance], [bhikkhu|mendiants], apparaît une [sanna|perception] de [avihimsa|non-nuisance]; sur la base d'une [sanna|perception] de [avihimsa|non-nuisance] apparaît une [sankappa|aspiration] de [avihimsa|non-nuisance]; sur la base d'une [sankappa|aspiration] de [avihimsa|non-nuisance] apparaît un [chanda|désir] de [avihimsa|non-nuisance;] sur la base d'un [chanda|désir] de [avihimsa|non-nuisance] apparaît une [@m_parilaha|ardeur] de [avihimsa|non-nuisance;] sur la base d'une [@m_parilaha|ardeur] de [avihimsa|non-nuisance] apparaît une quête de [avihimsa|non-nuisance]. En poursuivant une quête de [avihimsa|non-nuisance], [bhikkhu|mendiants], un [ariyasavaka|noble disciple] [sutava|instruit] se conduit correctement de trois manières: en [kaya|corps], en [vaca|parole] et [mana|mentalement]."
+    },
+    {
+      "pl": "Seyyathāpi, bhikkhave, puriso ādittaṃ tiṇukkaṃ sukkhe tiṇadāye nikkhipeyya; tamenaṃ hatthehi ca pādehi ca khippameva nibbāpeyya. Evañhi, bhikkhave, ye tiṇakaṭṭhanissitā pāṇā te na anayabyasanaṃ āpajjeyyuṃ. Evameva kho, bhikkhave, yo hi koci samaṇo vā brāhmaṇo vā uppannaṃ visamagataṃ saññaṃ khippameva pajahati vinodeti byantīkaroti anabhāvaṃ gameti, so diṭṭhe ceva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ; kāyassa ca bhedā paraṃ maraṇā sugati pāṭikaṅkhā ti.",
+      "fr": "Tout comme, [bhikkhu|mendiants], si un homme faisait tomber une torche d'herbes enflammée dans un bois remplis d'herbes sèches et qu'il l'éteignait rapidement avec ses mains et ses pieds, les êtres vivant dans les herbes et le bois ne trouveraient pas leur malheur & infortune, de la même manière, [bhikkhu|mendiants], si un [samana|renonçant] ou un [brahmana|brahmane] abandonne rapidement une [sanna|perception] inappropriée apparue en lui, s'il la dissipe, s'il l'élimine, s'il la fait disparaître, il vit dans le [sukha|bien-être] [ditthevadhamme|dans ce monde visible], sans contrariétés ni adversité ni fièvres, et lors de la rupture du [kaya|corps], après la [marana|mort], il peut s'attendre à une [sugati|bonne destination]."
+    }
+  ],
+  "keywords": [
+    "vitakka",
+    "kama",
+    "bhikkhu",
+    "nidana",
+    "byapada",
+    "vihimsa",
+    "dhatu",
+    "sanna",
+    "sankappa",
+    "kamacchanda",
+    "@m_parilaha",
+    "puthujjana",
+    "assutava",
+    "kaya",
+    "vaca",
+    "mana",
+    "chanda",
+    "samana",
+    "brahmana",
+    "dukkha",
+    "ditthevadhamme",
+    "marana",
+    "duggati",
+    "nekkhamma",
+    "abyapada",
+    "avihimsa",
+    "ariyasavaka",
+    "sutava",
+    "sukha",
+    "sugati"
+  ],
+  "translator": "Rémy"
+}

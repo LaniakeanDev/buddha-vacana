@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "identifier": "SN 4.13",
+    "plTitle": "Sakalika Sutta",
+    "frTitle": "Un éclat",
+    "description": "Mara tente de donner mauvaise conscience au Bouddha, qui se repose après avoir été blessé au pied par Devadatta.",
+    "keywords": ["bhagava", "dukkha", "sato", "sampajana", "mara", "pensant:] [i]“Le [bhagava"],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "13",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 4.20",
+    "plTitle": "Rajja Sutta",
+    "frTitle": "Le pouvoir",
+    "description": "Māra tente le Bouddha dans un épisode qui rappelle les tentations au désert de Jésus.",
+    "keywords": [
+      "bhagava",
+      "kuti",
+      "vitakka",
+      "citta",
+      "i]“Est-il possible d'exercer le pouvoir selon le [dhamma",
+      "mara",
+      "bhante",
+      "dhamma",
+      "iddhipada",
+      "i]S'il y avait une montagne d'or,Faite toute entière d'or,Même le double de cela ne suffirait pas à une personne,Alors ayant vu cela, calme toi.Celui qui a vu la [nidana",
+      "dukkha",
+      "kama",
+      "upadhi",
+      "loka",
+      "pensant:] [i]“Le [bhagava"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "20",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 4.21",
+    "plTitle": "Sambahula Sutta",
+    "frTitle": "Un grand nombre",
+    "description": "Mara tente de provoquer la confusion chez de jeunes mendiants en prenant la forme d'un vieux brahmane.",
+    "keywords": [
+      "bhagava",
+      "bhikkhu",
+      "appamada",
+      "atapi",
+      "padhana",
+      "mara",
+      "brahmana",
+      "kama",
+      "sanditthika",
+      "dukkha",
+      "upayasa",
+      "adinava",
+      "dhamma",
+      "@v]Comment pourrait-elle être encline aux [kama"
+    ],
+    "translator": "Sekha",
+    "nikaya": "sn",
+    "id": "21",
+    "readingTime": 2
+  },
+  {
+    "identifier": "SN 4.8",
+    "plTitle": "Nandati Sutta",
+    "frTitle": "Se réjouissent",
+    "description": "Le Bouddha réfute Māra au sujet de ce qui produit la jouissance.",
+    "keywords": [
+      "bhagava",
+      "mara",
+      "Māra:][i]Celui qui a des enfants jouit de ses enfantsCelui qui a du bétail jouit en vérité de son bétailLes [upadhi",
+      "upadhi",
+      "Le [bhagava",
+      "i]Celui qui a des enfants est tourmenté à cause de ses enfantsCelui qui a du bétail est tourmenté en vérité à cause de son bétailLes [upadhi",
+      "pensant:] [i]“Le [bhagava"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "8",
+    "readingTime": 0
+  }
+]

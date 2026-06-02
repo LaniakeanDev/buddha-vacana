@@ -1,0 +1,22 @@
+{
+  "identifier": "SN 14.35",
+  "plTitle": "Abhinanda Sutta",
+  "frTitle": "La complaisance",
+  "description": "Celui qui se complaît dans les quatre éléments n'est pas délivré.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati ... pe ...",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
+    {
+      "pl": "“yo, bhikkhave, pathavīdhātuṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi. yo āpodhātuṃ abhinandati … pe … yo tejodhātuṃ. yo vāyodhātuṃ abhinandati, dukkhaṃ so abhinandati. yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi”.",
+      "fr": "Mendiants, celui qui se complaît dans l'[dhatu|élément] Terre se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction]. Celui qui se complaît dans l'[dhatu|élément] Eau (…) l'[dhatu|élément] Feu(…) Celui qui se complaît dans l'[dhatu|élément] Air se complaît dans l'[dukkha|insatisfaction]. Je dis de celui qui se complaît dans l'[dukkha|insatisfaction] qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "“yo ca kho, bhikkhave, pathavīdhātuṃ nābhinandati, dukkhaṃ so nābhinandati. yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmi. yo āpodhātuṃ … pe … yo tejodhātuṃ. yo vāyodhātuṃ nābhinandati, dukkhaṃ so nābhinandati. yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmī””ti.",
+      "fr": "Mais, [bhikkhu|mendiants], celui qui ne se complaît pas dans l'[dhatu|élément] Terre ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction]. Celui qui ne se complaît pas dans l'[dhatu|élément] Eau (…) l'[dhatu|élément] Feu(…) Celui qui ne se complaît pas dans l'[dhatu|élément] Air ne se complaît pas dans l'[dukkha|insatisfaction]. Je dis de celui qui ne se complaît pas dans l'[dukkha|insatisfaction] qu'il est délivré de l'[dukkha|insatisfaction]."
+    }
+  ],
+  "keywords": ["bhagava", "dhatu", "dukkha", "bhikkhu"],
+  "translator": "Sekha"
+}

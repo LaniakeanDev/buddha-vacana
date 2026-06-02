@@ -1,0 +1,65 @@
+{
+  "identifier": "SN 47.40",
+  "plTitle": "Vibhaṅga Sutta",
+  "frTitle": "Un exposé des satipaṭṭhānas",
+  "description": "Une définition des satipaṭṭhānas complétée d'une définition de ce que signifie les développer, et de ce qu'est la voie menant à leur développement.",
+  "body": [
+    {
+      "pl": "Satipaṭṭhānañca vo, bhikkhave, desessāmi satipaṭṭhāna-bhāvanañca satipaṭṭhāna-bhāvanā-gāminiñca paṭipadaṃ. Taṃ suṇātha.",
+      "fr": "[bhikkhu|Mendiants], je vais vous enseigner les [satipatthana|mises en place de la présence d'esprit], le [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit] et la [patipada|voie] menant au [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]. Écoutez cela."
+    },
+    {
+      "pl": "Katamañca, bhikkhave, satipaṭṭhānaṃ? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; citte cittānupassī viharatiātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. Idaṃ vuccati, bhikkhave, satipaṭṭhānaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que les [satipatthana|mises en place de la présence d'esprit]? À cet égard, [bhikkhu|mendiants], [@f_stp#kaya-cl|un mendiant reste à observer le corps dans le corps, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#vedana-cl|il reste à observer les ressentis dans les ressentis, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#citta-cl|il reste à observer l'esprit dans l'esprit, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde;] [@f_stp#dhamma-cl|il reste à observer le Dhamma dans les phénomènes, ardent, doué d'un discernement attentif, présent d'esprit, ayant abandonné convoitise et déplaisance mentale vis-à-vis du monde.] Voici, [bhikkhu|mendiants], ce qu'on appelle les [satipatthana|mises en place de la présence d'esprit]."
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, satipaṭṭhānabhāvanā? Idha, bhikkhave, bhikkhu Samudaya-dhammānupassī kāyasmiṃ viharati, vaya-dhammānupassī kāyasmiṃ viharati, samudaya-vaya-dhammānupassī kāyasmiṃ viharati, ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que le [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] dans le [kaya|corps], il reste à observer ce qui est [dhamma|par nature sujet à] la disparition dans le [kaya|corps], il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] et la disparition dans le [kaya|corps], ardent, [sampajana|doué d'un discernement attentif], [sati|présent d'esprit], ayant abandonné [abhijjha|convoitise] et [domanassa|déplaisance mentale] vis-à-vis du monde."
+    },
+    {
+      "pl": "Samudaya-dhammānupassī vedanāsu viharati, vaya-dhammānupassī vedanāsu viharati, samudaya-vaya-dhammānupassī vedanāsu viharati, ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] dans les [vedana|ressentis], il reste à observer ce qui est [dhamma|par nature sujet à] la disparition dans les [vedana|ressentis], il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] et la disparition dans les [vedana|ressentis], ardent, [sampajana|doué d'un discernement attentif], [sati|présent d'esprit], ayant abandonné [abhijjha|convoitise] et [domanassa|déplaisance mentale] vis-à-vis du monde."
+    },
+    {
+      "pl": "Samudaya-dhammānupassī citte viharati, vaya-dhammānupassī citte viharati, samudaya-vaya-dhammānupassī citte viharati, ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ.",
+      "fr": "Il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] dans l'[citta|esprit], il reste à observer ce qui est [dhamma|par nature sujet à] la disparition dans l'[citta|esprit], il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] et la disparition dans l'[citta|esprit], ardent, [sampajana|doué d'un discernement attentif], [sati|présent d'esprit], ayant abandonné [abhijjha|convoitise] et [domanassa|déplaisance mentale] vis-à-vis du monde."
+    },
+    {
+      "pl": "Samudaya-dhammānupassī dhammesu viharati, vaya-dhammānupassī dhammesu viharati, samudaya-vaya-dhammānupassī dhammesu viharati, ātāpī sampajāno satimā, vineyya loke abhijjhā-domanassaṃ. Ayaṃ vuccati, bhikkhave, satipaṭṭhāna-bhāvanā.",
+      "fr": "Il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] dans les [dhamma|phénomènes], il reste à observer ce qui est [dhamma|par nature sujet à] la disparition dans les [dhamma|phénomènes], il reste à observer ce qui est [dhamma|par nature sujet à] l'[samudaya|apparition] et la disparition dans les [dhamma|phénomènes], ardent, [sampajana|doué d'un discernement attentif], [sati|présent d'esprit], ayant abandonné [abhijjha|convoitise] et [domanassa|déplaisance mentale] vis-à-vis du monde. Voici, [bhikkhu|mendiants], ce qu'on appelle le [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit.]"
+    },
+    {
+      "pl": "Katamā ca, bhikkhave, satipaṭṭhāna-bhāvanā-gāminī paṭipadā? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ: sammā-diṭṭhi, sammā-saṅkappo, sammā-vācā, sammā-kammanto, sammā-ājīvo, sammā-vāyāmo, sammā-sati, sammā-samādhi. Ayaṃ vuccati, bhikkhave, satipaṭṭhāna-bhāvanā-gāminī paṭipadā ti.",
+      "fr": "Et qu'est-ce, [bhikkhu|mendiants], que la [patipada|voie] menant au [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]? C'est cette [aam|noble voie à huit composantes], c'est-à-dire: [sammaditthi|vue correcte], [sammasankappa|aspiration correcte], [sammavaca|parole correcte], [sammakammanta|action correcte], [sammaajiva|moyens de subsistance corrects], [@m_sammavayama|effort correct], [sammasati|présence de l'esprit correcte], [sammasamadhi|concentration correcte] . Voici, [bhikkhu|mendiants], ce qu'on appelle la [patipada|voie] menant au [bhavana|développement] des [satipatthana|mises en place de la présence d'esprit]."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "satipatthana",
+    "bhavana",
+    "patipada",
+    "@f_stp#kaya-cl",
+    "@f_stp#vedana-cl",
+    "@f_stp#citta-cl",
+    "@f_stp#dhamma-cl",
+    "dhamma",
+    "samudaya",
+    "kaya",
+    "sampajana",
+    "sati",
+    "abhijjha",
+    "domanassa",
+    "vedana",
+    "citta",
+    "aam",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "@m_sammavayama",
+    "sammasati",
+    "sammasamadhi"
+  ],
+  "translator": "Rémy"
+}

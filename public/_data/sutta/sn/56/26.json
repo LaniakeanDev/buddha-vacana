@@ -1,0 +1,26 @@
+{
+  "identifier": "SN 56.26",
+  "plTitle": "Mitta Sutta",
+  "frTitle": "Les amis",
+  "description": "Voici ce que nous devrions faire pour nos amis.",
+  "body": [
+    {
+      "pl": "“ye hi keci, bhikkhave, anukampeyyātha, ye ca sotabbaṃ maññeyyuṃ, mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, catunnaṃ ariyasaccānaṃ yathābhūtaṃ abhisamayāya samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[bhikkhu|Mendiants], vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu'ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans la compréhension complète des quatre [ariyasacca|nobles vérités] [yathabhutam|telles qu'elles sont réellement]."
+    },
+    {
+      "pl": "katamesaṃ catunnaṃ? dukkhassa ariyasaccassa, dukkhasamudayassa ariyasaccassa, dukkhanirodhassa ariyasaccassa, dukkhanirodhagāminiyā paṭipadāya ariyasaccassa.",
+      "fr": "Quelles sont ces quatre? La [ariyasacca|noble vérité] du [dukkha|mal-être], la [ariyasacca|noble vérité] de l'[dukkhasamudaya|origine du mal-être], la [ariyasacca|noble vérité] de la [dukkhanirodha|cessation du mal-être], et la [ariyasacca|noble vérité] de la [dngp|voie menant à la cessation du mal-être]."
+    },
+    {
+      "pl": "ye hi keci, bhikkhave, anukampeyyātha, ye ca sotabbaṃ maññeyyuṃ, mittā vā amaccā vā ñātī vā sālohitā vā te vo, bhikkhave, imesaṃ catunnaṃ ariyasaccānaṃ yathābhūtaṃ abhisamayāya samādapetabbā nivesetabbā patiṭṭhāpetabbā.",
+      "fr": "[bhikkhu|Mendiants], vous devriez exhorter, installer, et établir ceux envers qui vous éprouvez de la sympathie, qui pensent qu'ils devraient vous écouter, que ce soient des amis ou des collègues, des proches ou des parents, dans la compréhension complète de ces quatre [ariyasacca|nobles vérités] [yathabhutam|telles qu'elles sont réellement]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    }
+  ],
+  "keywords": ["bhikkhu", "ariyasacca", "yathabhutam", "dukkha", "dukkhasamudaya", "dukkhanirodha", "dngp"],
+  "translator": "Rémy"
+}

@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 3.31",
+  "plTitle": "Sabrahmaka Sutta",
+  "frTitle": "Avec Brahma",
+  "description": "Le Bouddha insiste sur l'importance du respect envers les parents.",
+  "body": [
+    {
+      "pl": "“sabrahmakāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti. sapubbācariyakāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti. sāhuneyyāni, bhikkhave, tāni kulāni yesaṃ puttānaṃ mātāpitaro ajjhāgāre pūjitā honti.",
+      "fr": "[bhikkhu|Mendiants], les familles où à la maison les parents sont révérés par les enfants sont en compagnie de [brahma|Brahma]. Les familles où à la maison les parents sont révérés par les enfants sont en compagnie des enseignants des temps passés. Les familles où à la maison les parents sont révérés par les enfants sont en compagnie de ceux qui sont dignes de dons."
+    },
+    {
+      "pl": "“brahmāti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. pubbācariyāti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. āhuneyyāti, bhikkhave, mātāpitūnaṃ etaṃ adhivacanaṃ. taṃ kissa hetu? bahukārā, bhikkhave, mātāpitaro, puttānaṃ āpādakā posakā imassa lokassa dassetāro”ti.",
+      "fr": "[bhikkhu|Mendiants], [i]“[brahma|Brahma]”[/i] est une appellation pour les parents. [i]“Les anciens enseignants”[/i] est une appellation pour les parents. [i]“Ceux qui sont dignes de dons”[/i] est une appellation pour les parents. Pourquoi cela? Les parents en ont fait beaucoup, en s'occupant de leurs enfants, en les nourrissant, et en les guidant dans le monde."
+    },
+    {
+      "pl": "[i]“brahmāti mātāpitaro, [@v]pubbācariyāti vuccare.[@v]āhuneyyā ca puttānaṃ, [@v]pajāya anukampakā.[@v][@v]“tasmā hi ne namasseyya, [@v]sakkareyya ca paṇḍito.[@v]annena atha pānena, [@v]vatthena sayanena ca,[@v]ucchādanena nahāpanena, [@v]pādānaṃ dhovanena ca.[@v][@v]“tāya naṃ pāricariyāya, [@v]mātāpitūsu paṇḍitā.[@v]idheva naṃ pasaṃsanti, [@v]pecca sagge pamodatī”ti.[/i]",
+      "fr": "[i]Les parents devraient être appelés[@v][i]“[brahma|Brahmā]”[/i], [i]“les anciens enseignants”[/i],[@v]Et ils sont dignes de dons de la part des enfants,[@v]Par ce qu'ils ont eu de la sympathie pour leur progéniture.[@v][@v]C'est pourquoi une personne [pandita|sage][@v]Les honore et les traite avec respect,[@v]Avec nourriture et boissons,[@v]Avec des vêtements et des sièges,[@v]En les massant et en leur donnant des bains,[@v]Ainsi qu'en leur lavant les pieds.[@v][@v]Ces services aux parents,[@v]Les [pandita|sages] les préconisent,[@v]Et après la mort,[@v]On se réjouit dans un [sagga|paradis].[/i]"
+    }
+  ],
+  "keywords": ["bhikkhu", "brahma", "i]“[brahma", "@v][i]“[brahma", "pandita", "sagga"],
+  "translator": "Rémy"
+}

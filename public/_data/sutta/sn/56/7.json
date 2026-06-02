@@ -1,0 +1,43 @@
+{
+  "identifier": "SN 56.7",
+  "plTitle": "Vitakka Sutta",
+  "frTitle": "Les pensées",
+  "description": "Voici comment nous devrions travailler sur notre manière de penser.",
+  "body": [
+    {
+      "pl": "“mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṃ kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ. taṃ kissa hetu? nete, bhikkhave, vitakkā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti.",
+      "fr": "«[bhikkhu|Mendiants], vous ne devriez pas penser de [vitakka|pensées] [papaka|mauvaises] et [akusala|désavantageuses], c'est-à-dire des [vitakka|pensées] de [kama|sensualité], des [vitakka|pensées] de [byapada|malveillance] ou des [vitakka|pensées] de [vihimsa|non-inoffensivité]. Pourquoi cela? Parce que ces [vitakka|pensées] ne sont pas [@m_atthasamhita|profitables], qu'elles ne se rapportent pas aux principes de la [brahmacariya|vie brahmique], et qu'elles ne mènent pas au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“vitakkentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti vitakkeyyātha, ‘ayaṃ dukkhasamudayo’ti vitakkeyyātha, ‘ayaṃ dukkhanirodho’ti vitakkeyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti vitakkeyyātha. taṃ kissa hetu? ete, bhikkhave, vitakkā atthasaṃhitā ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+      "fr": "Lorsque vous pensez, [bhikkhu|mendiants], vous devriez penser: [i]“Voici le [dukkha|mal-être]”,[/i] vous devriez penser: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] vous devriez penser: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] vous devriez penser: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i] Pourquoi cela? Parce que ces pensées, [bhikkhu|mendiants], sont [@m_atthasamhita|profitables], qu'elles se rapportent aux principes de la [brahmacariya|vie brahmique], et qu'elles mènent au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "vitakka",
+    "papaka",
+    "akusala",
+    "kama",
+    "byapada",
+    "vihimsa",
+    "@m_atthasamhita",
+    "brahmacariya",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodhi",
+    "nibbana",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
+  "translator": "Rémy"
+}

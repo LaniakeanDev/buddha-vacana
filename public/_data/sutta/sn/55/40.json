@@ -1,0 +1,96 @@
+{
+  "identifier": "SN 55.40",
+  "plTitle": "Nandiya Sutta",
+  "frTitle": "Nandiya le Sakya",
+  "description": "Description de ce que signifie vivre de manière négligente ou au contraire assidue, en regard desquatre facteurs d'entrée dans le courant (sotāpattiyaṅga).",
+  "body": [
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme. atha kho nandiyo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho nandiyo sakko bhagavantaṃ etadavoca:",
+      "fr": "Un jour, le [bhagava|Fortuné] résidait parmi les Sakyas, à Kapilavatthou, dans le parc aux ficus banians. Ce jour-là, Nandiya le Sakya alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“yasseva nu kho, bhante, ariyasāvakassa cattāri sotāpattiyaṅgāni sabbena sabbaṃ sabbathā sabbaṃ natthi sveva nu kho, bhante, ariyasāvako pamādavihārī”ti.",
+      "fr": "«[bhante|Bhanté], si les quatre [sotapattiyanga|facteurs de l'entrée dans le courant] sont complètement et de toutes les façons possibles absents chez un [ariyasavaka|noble disciple], est-ce que c'est un [ariyasavaka|noble disciple] qui demeure [pamada|négligent]?"
+    },
+    {
+      "pl": "“‘yassa kho, nandiya, cattāri sotāpattiyaṅgāni sabbena sabbaṃ sabbathā sabbaṃ natthi tamahaṃ bāhiro puthujjanapakkhe ṭhito’ti vadāmi. api ca, nandiya, yathā ariyasāvako pamādavihārī ceva hoti, appamādavihārī ca taṃ suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti.",
+      "fr": "—Nandiya, de celui chez qui les quatre [sotapattiyanga|facteurs de l'entrée dans le courant] sont complètement et de toutes les façons possibles absents, je dis que c'est un étranger qui se tient du côté des [puthujjana|individus ordinaires]. Mais en ce qui concerne la manière dont un [ariyasavaka|noble disciple] demeure [pamada|négligent] ou [appamada|assidu], écoute cela et fais bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho nandiyo sakko bhagavato paccassosi. bhagavā etadavoca:",
+      "fr": "—Oui, [bhante|Bhanté], répondit Nandiya le Sakya au [bhagava|Fortuné]. Celui-ci lui dit alors:"
+    },
+    {
+      "pl": "“kathañca, nandiya, ariyasāvako pamādavihārī hoti? idha nandiya, ariyasāvako buddhe aveccappasādena samannāgato hoti: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. so tena buddhe aveccappasādena santuṭṭho na uttari vāyamati divā pavivekāya, rattiṃ paṭisallānāya. tassa evaṃ pamattassa viharato pāmojjaṃ na hoti. pāmojje asati, pīti na hoti. pītiyā asati, passaddhi na hoti. passaddhiyā asati, dukkhaṃ viharati. dukkhino cittaṃ na samādhiyati. asamāhite citte dhammā na pātubhavanti. dhammānaṃ apātubhāvā pamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "—Et comment, Nandiya, un [ariyasavaka|noble disciple] demeure-t-il [pamada|négligent]? À cet égard, un [ariyasavaka|noble disciple] possède une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i] Se satisfaisant de cette [buddheaveccappasada|confiance vérifiée dans le Bouddha], il ne fait pas d'effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [pamada|négligent], il n'y a pas de [pamojja|joie]. Là où il n'y a pas de [pamojja|joie], il n'y a pas d'[piti|exaltation]. Là où il n'y a pas d'[piti|exaltation], il n'y a pas de [passaddhi|tranquillité]. Là où il n'y a pas de [passaddhi|tranquillité], on séjourne dans le [dukkha|mal-être]. L'[citta|esprit] de celui qui est dans le [dukkha|mal-être] ne [samadhi|se concentre] pas. Pour un [citta|esprit] non [samahita|concentré], les [dhamma|phénomènes] ne deviennent pas manifestes. Celui pour qui les [dhamma|phénomènes] ne sont pas manifestes est considéré comme quelqu'un qui demeure [pamada|négligent]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako dhamme aveccappasādena samannāgato hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti. so tena dhamme aveccappasādena santuṭṭho na uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ pamattassa viharato pāmojjaṃ na hoti. pāmojje asati, pīti na hoti. pītiyā asati, passaddhi na hoti. passaddhiyā asati, dukkhaṃ viharati. dukkhino cittaṃ na samādhiyati. asamāhite citte dhammā na pātubhavanti. dhammānaṃ apātubhāvā pamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] est pourvu d'une [dhammeaveccappasada|confiance vérifiée dans le Dhamma]: [i]“[@f_anussati#anussati-2|Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.]”[/i] Se satisfaisant de cette [dhammeaveccappasada|confiance vérifiée dans le Dhamma], il ne fait pas d'effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [pamada|négligent], il n'y a pas de [pamojja|joie]. Là où il n'y a pas de [pamojja|joie], il n'y a pas d'[piti|exaltation]. Là où il n'y a pas d'[piti|exaltation], il n'y a pas de [passaddhi|tranquillité]. Là où il n'y a pas de [passaddhi|tranquillité], on séjourne dans le [dukkha|mal-être]. L'[citta|esprit] de celui qui est dans le [dukkha|mal-être] ne [samadhi|se concentre] pas. Pour un [citta|esprit] non [samahita|concentré], les [dhamma|phénomènes] ne deviennent pas manifestes. Celui pour qui les [dhamma|phénomènes] ne sont pas manifestes est considéré comme quelqu'un qui demeure [pamada|négligent]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako saṅghe aveccappasādena samannāgato hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. so tena saṅghe aveccappasādena santuṭṭho na uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ pamattassa viharato pāmojjaṃ na hoti. pāmojje asati, pīti na hoti. pītiyā asati, passaddhi na hoti. passaddhiyā asati, dukkhaṃ viharati. dukkhino cittaṃ na samādhiyati. asamāhite citte dhammā na pātubhavanti. dhammānaṃ apātubhāvā pamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] est pourvu d'une [sangheaveccappasada|confiance vérifiée dans la Communauté]: [i]“[@f_anussati#anussati-3-cl|La Communauté des disciples du Fortuné qui a bien pratiqué, la Communauté des disciples du Fortuné qui a pratiqué droitement, la Communauté des disciples du Fortuné qui a pratiqué méthodiquement, la Communauté des disciples du Fortuné qui a pratiqué adéquatement, c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.]”[/i] Se satisfaisant de cette [sangheaveccappasada|confiance vérifiée dans la Communauté], il ne fait pas d'effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [pamada|négligent], il n'y a pas de [pamojja|joie]. Là où il n'y a pas de [pamojja|joie], il n'y a pas d'[piti|exaltation]. Là où il n'y a pas d'[piti|exaltation], il n'y a pas de [passaddhi|tranquillité]. Là où il n'y a pas de [passaddhi|tranquillité], on séjourne dans le [dukkha|mal-être]. L'[citta|esprit] de celui qui est dans le [dukkha|mal-être] ne [samadhi|se concentre] pas. Pour un [citta|esprit] non [samahita|concentré], les [dhamma|phénomènes] ne deviennent pas manifestes. Celui pour qui les [dhamma|phénomènes] ne sont pas manifestes est considéré comme quelqu'un qui demeure [pamada|négligent]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehiviññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi. so tehi ariyakantehi sīlehi santuṭṭho na uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ pamattassa viharato pāmojjaṃ na hoti. pāmojje asati, pīti na hoti. pītiyā asati, passaddhi na hoti. passaddhiyā asati, dukkhaṃ viharati. dukkhino cittaṃ na samādhiyati. asamāhite citte dhammā na pātubhavanti. dhammānaṃ apātubhāvā pamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] possède des [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles], [@f_anussati#anussati-4|sans rupture, sans faille, sans tache, sans défaut, libératrices, louées par les sages, sans fanatisme, menant à la concentration.] Se satisfaisant de ces [sila|vertus] agréables aux [ariya|êtres nobles], il ne fait pas d'effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [pamada|négligent], il n'y a pas de [pamojja|joie]. Là où il n'y a pas de [pamojja|joie], il n'y a pas d'[piti|exaltation]. Là où il n'y a pas d'[piti|exaltation], il n'y a pas de [passaddhi|tranquillité]. Là où il n'y a pas de [passaddhi|tranquillité], on séjourne dans le [dukkha|mal-être]. L'[citta|esprit] de celui qui est dans le [dukkha|mal-être] ne [samadhi|se concentre] pas. Pour un [citta|esprit] non [samahita|concentré], les [dhamma|phénomènes] ne deviennent pas manifestes. Celui pour qui les [dhamma|phénomènes] ne sont pas manifestes est considéré comme quelqu'un qui demeure [pamada|négligent]."
+    },
+    {
+      "pl": "evaṃ kho, nandiya, ariyasāvako pamādavihārī hoti.",
+      "fr": "Voici, Nandiya, comment un [ariyasavaka|noble disciple] demeure [pamada|négligent]."
+    },
+    {
+      "pl": "“kathañca, nandiya, ariyasāvako appamādavihārī hoti? idha, nandiya, ariyasāvako buddhe aveccappasādena samannāgato hoti:‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. so tena buddhe aveccappasādena asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ appamattassa viharato pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vediyati. sukhino cittaṃ samādhiyati. samāhite citte dhammā pātubhavanti. dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "Et comment, Nandiya, un [ariyasavaka|noble disciple] demeure-t-il [appamada|assidu]? À cet égard, un [ariyasavaka|noble disciple]possède une [buddheaveccappasada|confiance vérifiée dans le Bouddha]: [i]“[@f_anussati#anussati-1-cl|Assurément, ce Fortuné est un Méritant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]”[/i] Ne se satisfaisant pas de cette [buddheaveccappasada|confiance vérifiée dans le Bouddha], il fait un effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [appamada|assidu], la [pamojja|joie] prend naissance. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Pour un [citta|esprit] concentré, les [dhamma|phénomènes] deviennent manifestes. Celui pour qui les [dhamma|phénomènes] sont manifestes est considéré comme quelqu'un qui demeure [appamada|assidu]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako dhamme aveccappasādena samannāgato hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhī’ti. so tena dhamme aveccappasādena asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ appamattassa viharato pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vediyati. sukhino cittaṃ samādhiyati. samāhite citte dhammā pātubhavanti. dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] est pourvu d'une [dhammeaveccappasada|confiance vérifiée dans le Dhamma]: [i]“[@f_anussati#anussati-2|Le Dhamma est bien exposé par le Fortuné: il est visible directement, immédiat, il invite à venir voir [par soi-même], il est efficace, à être expérimenté individuellement par les sages.]”[/i] Ne se satisfaisant pas de cette [dhammeaveccappasada|confiance vérifiée dans le Dhamma], il fait un effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [appamada|assidu], la [pamojja|joie] prend naissance. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Pour un [citta|esprit] concentré, les [dhamma|phénomènes] deviennent manifestes. Celui pour qui les [dhamma|phénomènes] sont manifestes est considéré comme quelqu'un qui demeure [appamada|assidu]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako saṅghe aveccappasādena samannāgato hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. so tena saṅghe aveccappasādena asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ appamattassa viharato pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vediyati. sukhino cittaṃ samādhiyati. samāhite citte dhammā pātubhavanti. dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] est pourvu d'une [sangheaveccappasada|confiance vérifiée dans la Communauté]: [i]“[@f_anussati#anussati-3-cl|La Communauté des disciples du Fortuné qui a bien pratiqué, la Communauté des disciples du Fortuné qui a pratiqué droitement, la Communauté des disciples du Fortuné qui a pratiqué méthodiquement, la Communauté des disciples du Fortuné qui a pratiqué adéquatement, c'est-à-dire les quatre paires de personnes, les huit [types d']individus, cette Communauté des disciples du Fortuné est digne de dons, digne d'hospitalité, digne d'offrandes, digne de salutations respectueuses, c'est le suprême champ de mérite pour le monde.]”[/i] Ne se satisfaisant pas de cette [sangheaveccappasada|confiance vérifiée dans la Communauté], il fait un effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [appamada|assidu], la [pamojja|joie] prend naissance. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Pour un [citta|esprit] concentré, les [dhamma|phénomènes] deviennent manifestes. Celui pour qui les [dhamma|phénomènes] sont manifestes est considéré comme quelqu'un qui demeure [appamada|assidu]."
+    },
+    {
+      "pl": "“puna caparaṃ, nandiya, ariyasāvako ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehiviññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi. so tehi ariyakantehi sīlehi asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya. tassa evaṃ appamattassa viharato pāmojjaṃ jāyati. pamuditassa pīti jāyati. pītimanassa kāyo passambhati. passaddhakāyo sukhaṃ vediyati. sukhino cittaṃ samādhiyati. samāhite citte dhammā pātubhavanti. dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati.",
+      "fr": "En outre, Nandiya, un [ariyasavaka|noble disciple] possède des [sila|vertus] qui sont attrayantes pour les [ariya|êtres nobles], [@f_anussati#anussati-4|sans rupture, sans faille, sans tache, sans défaut, libératrices, louées par les sages, sans fanatisme, menant à la concentration.] Ne se satisfaisant pas de ces [sila|vertus] agréables aux [ariya|êtres nobles], il fait un effort supplémentaire dans l'[paviveka|isolement] le jour et dans la [patisallana|solitude] la nuit. Chez celui qui demeure ainsi [appamada|assidu], la [pamojja|joie] prend naissance. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre. Pour un [citta|esprit] concentré, les [dhamma|phénomènes] deviennent manifestes. Celui pour qui les [dhamma|phénomènes] sont manifestes est considéré comme quelqu'un qui demeure [appamada|assidu]."
+    },
+    {
+      "pl": "evaṃ kho, nandiya, ariyasāvako appamādavihārī hotī”ti.",
+      "fr": "Voici, Nandiya, comment un [ariyasavaka|noble disciple] demeure [appamada|assidu].»"
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "bhante",
+    "sotapattiyanga",
+    "ariyasavaka",
+    "pamada",
+    "puthujjana",
+    "appamada",
+    "buddheaveccappasada",
+    "i]“[@f_anussati#anussati-1-cl",
+    "paviveka",
+    "patisallana",
+    "pamojja",
+    "piti",
+    "passaddhi",
+    "dukkha",
+    "citta",
+    "samadhi",
+    "samahita",
+    "dhamma",
+    "dhammeaveccappasada",
+    "i]“[@f_anussati#anussati-2",
+    "sangheaveccappasada",
+    "i]“[@f_anussati#anussati-3-cl",
+    "sila",
+    "ariya",
+    "@f_anussati#anussati-4",
+    "mana",
+    "kaya",
+    "sukha"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 5.113",
+  "plTitle": "Sammāsamādhi Sutta",
+  "frTitle": "La concentration correcte",
+  "description": "Ce soutta indique une condition liée aux objets des cinq sens pour pouvoir atteindre la concentration correcte.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ. katamehi pañcahi? idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṃ, akkhamo saddānaṃ, akkhamo gandhānaṃ, akkhamo rasānaṃ, akkhamo phoṭṭhabbānaṃ. imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṃ upasampajja viharituṃ.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de cinq [dhamma|caractéristiques] est incapable d'entrer et demeurer dans la [sammasamadhi|concentration correcte]. Quelles sont ces cinq? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] n'endure pas les formes [visibles], il n'endure pas les sons, il n'endure pas les odeurs, il n'endure pas les saveurs, et il n'endure pas les sensations corporelles. [bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces cinq caractéristiques est incapable d'entrer et demeurer dans la [sammasamadhi|concentration correcte]."
+    },
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharituṃ. katamehi pañcahi? idha, bhikkhave, bhikkhu khamo hoti rūpānaṃ, khamo saddānaṃ, khamo gandhānaṃ, khamo rasānaṃ, khamo phoṭṭhabbānaṃ. imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṃ upasampajja viharitun”ti.",
+      "fr": "[bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de cinq caractéristiques est capable d'entrer et demeurer dans la [sammasamadhi|concentration correcte]. Quelles sont ces cinq? À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] endure les formes [visibles], il endure les sons, il endure les odeurs, il endure les saveurs, et il endure les sensations corporelles. [bhikkhu|Mendiants], un [bhikkhu|mendiant] pourvu de ces cinq caractéristiques est capable d'entrer et demeurer dans la [sammasamadhi|concentration correcte]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dhamma", "sammasamadhi"],
+  "translator": "Rémy"
+}

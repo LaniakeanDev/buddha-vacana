@@ -1,0 +1,35 @@
+{
+  "identifier": "AN 5.214",
+  "plTitle": "Bahubhāṇi Sutta",
+  "frTitle": "Le fait de parler abondamment",
+  "description": "Les dangers de parler abondamment et les bienfaits de parler sagement.",
+  "body": [
+    {
+      "pl": "“pañcime, bhikkhave, ādīnavā bahubhāṇismiṃ puggale. katame pañca? musā bhaṇati, pisuṇaṃ bhaṇati, pharusaṃ bhaṇati, samphappalāpaṃ bhaṇati, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. ime kho, bhikkhave, pañca ādīnavā bahubhāṇismiṃ puggale.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [adinava|dangers] pour un individu dans le fait de parler abondamment. Quels sont ces cinq? Il dit des [musavada|faussetés], il [pisunavaca|médit], il parle de manière [pharusavaca|acerbe], il s'engage dans des [samphappalapa|bavardages infructueux] et lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]. Voici, mendiants, quels sont ces cinq [adinava|dangers] pour un individu dans le fait de parler abondamment."
+    },
+    {
+      "pl": "“pañcime, bhikkhave, ānisaṃsā mantabhāṇismiṃ puggale. katame pañca? na musā bhaṇati, na pisuṇaṃ bhaṇati, na pharusaṃ bhaṇati, na samphappalāpaṃ bhaṇati, kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. ime kho, bhikkhave, pañca ānisaṃsā mantabhāṇismiṃ puggale”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces cinq [anisamsa|bienfaits] pour un individu dans le fait de parler sagement. Quels sont ces cinq? Il ne dit pas de [musavada|faussetés], il ne [pisunavaca|médit] pas, il ne parle pas de manière [pharusavaca|acerbe], il ne s'engage pas dans des [samphappalapa|bavardages infructueux] et lors de la rupture du [kaya|corps], après la [marana|mort], il réapparaît dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]. Voici, mendiants, quels sont ces cinq [anisamsa|bienfaits] pour un individu dans le fait de parler sagement."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "adinava",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "kaya",
+    "marana",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "anisamsa",
+    "sugati",
+    "loka",
+    "sagga"
+  ],
+  "translator": "Rémy"
+}

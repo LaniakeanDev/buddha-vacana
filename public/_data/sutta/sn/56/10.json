@@ -1,0 +1,46 @@
+{
+  "identifier": "SN 56.10",
+  "plTitle": "Tiracchānakatha Sutta",
+  "frTitle": "Les conversations animales",
+  "description": "Certaines conversations ne valent pas la peine d'être poursuivies.",
+  "body": [
+    {
+      "pl": "“mā, bhikkhave, anekavihitaṃ tiracchānakathaṃ katheyyātha, seyyathidaṃ rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ, bhayakathaṃ yuddhakathaṃ, annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ, ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ, pubbapetakathaṃ nānattakathaṃ, lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vā. ",
+      "fr": "«[bhikkhu|Mendiants], vous ne vous engagez pas dans les diverses sortes de [i]“[tiracchanakatha|conversations animales]”[/i] telles que les conversations à propos de rois, à propos de voleurs, à propos de ministres, à propos d'armées, à propos de dangers, à propos de guerres, à propos de nourriture, à propos de boissons, à propos de vêtements, à propos de lits, à propos de guirlandes, à propos de parfums, à propos de proches relations, à propos de véhicules, à propos de villages, à propos de villes, à propos de cités, à propos de pays, à propos de femmes, à propos de héros, à propos de la rue, à propos de commérages du puits, conversations à propos des esprits défunts, conversations à propos de diverses distractions, conversations à propos de contes et légendes concernant le monde, de contes et légendes concernant l'océan, à propos de devenir comme ceci ou comme cela."
+    },
+    {
+      "pl": "taṃ kissa hetu? nesā, bhikkhave, kathā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati.",
+      "fr": "Pourquoi cela? Parce que ces conversations ne sont pas [@m_atthasamhita|profitables], qu'elles ne se rapportent pas aux principes de la [brahmacariya|vie brahmique], et qu'elles ne mènent pas au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "kathentā ca kho tumhe, bhikkhave, ‘idaṃ dukkha’nti katheyyātha, ‘ayaṃ dukkha·samudayo’ti katheyyātha, ‘ayaṃ dukkha·nirodho’ti katheyyātha, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti katheyyātha.",
+      "fr": "Au contraire, [bhikkhu|mendiants], lorsque vous parlez, parlez de: [i]“Voici le [dukkha|mal-être]”,[/i] parlez de: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] parlez de: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] parlez de: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    },
+    {
+      "pl": "taṃ kissa hetu? esā, bhikkhave, kathā atthasaṃhitā esā ādibrahmacariyakā esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+      "fr": "Pourquoi cela? Parce que ces propos, [bhikkhu|mendiants], sont [@m_atthasamhita|profitables], qu'ils se rapportent aux principes de la [brahmacariya|vie brahmique], et qu'ils mènent au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "i]“[tiracchanakatha",
+    "@m_atthasamhita",
+    "brahmacariya",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodhi",
+    "nibbana",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
+  "translator": "Rémy"
+}

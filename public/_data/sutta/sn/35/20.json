@@ -1,0 +1,58 @@
+{
+  "identifier": "SN 35.20",
+  "plTitle": "Abhinanda Sutta",
+  "frTitle": "Complaisance",
+  "description": "Il n'y a pas d'issue pour celui qui se complaît dans les objets des sens.",
+  "body": [
+    {
+      "pl": "Yo, bhikkhave, rūpe abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les formes (visibles) se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo, bhikkhave, sadde abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les sons se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo, bhikkhave, gandhe abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les odeurs se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo, bhikkhave, rase abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les saveurs se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo, bhikkhave, phoṭṭhabbe abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les [photthabba|sensations corporelles] se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo, bhikkhave, dhamme abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, ‘a·parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui se complaît dans les [dhamma|phénomènes mentaux] se complaît dans l'[dukkha|insatisfaction]. De celui qui se complaît dans l'[dukkha|insatisfaction], je dis qu'il n'est pas délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, rūpe nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les formes (visibles), ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, sadde nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les sons, ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, gandhe nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les odeurs, ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, rase nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les saveurs, ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, phoṭṭhabbe nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les [photthabba|sensations corporelles], ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    },
+    {
+      "pl": "Yo ca kho, bhikkhave, dhamme nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi.",
+      "fr": "Celui, [bhikkhu|mendiants], qui ne se complaît pas dans les [dhamma|phénomènes mentaux], ne se complaît pas dans l'[dukkha|insatisfaction]. De celui qui ne se complaît pas dans l'[dukkha|insatisfaction], je dis qu'il est délivré de l'[dukkha|insatisfaction]."
+    }
+  ],
+  "keywords": ["bhikkhu", "dukkha", "photthabba", "dhamma"],
+  "translator": "Rémy"
+}

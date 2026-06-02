@@ -1,0 +1,22 @@
+{
+  "identifier": "AN 4.25",
+  "plTitle": "Brahmacariya Sutta",
+  "frTitle": "La vie brahmique",
+  "description": "Un petit rappel au sujet de pourquoi on devient un mendiant.",
+  "body": [
+    {
+      "pl": "“nayidaṃ, bhikkhave, brahmacariyaṃ vussati janakuhanatthaṃ, na janalapanatthaṃ, na lābhasakkārasilokānisaṃsatthaṃ, na itivādappamokkhānisaṃsatthaṃ, na ‘iti maṃ jano jānātū’ti. atha kho idaṃ, bhikkhave, brahmacariyaṃ vussati saṃvaratthaṃ pahānatthaṃ virāgatthaṃ nirodhatthan”ti.",
+      "fr": "[bhikkhu|Mendiants], cette [brahmacariya|vie brahmique] n'est pas vécue pour tromper les gens, ni pour les flatter, ni pour [obtenir] [lss|acquisitions, honneurs et renommée], ni pour gagner dans des débats, ni [en pensant:] [i]“Que les gens sachent que je suis ainsi!”[/i] Mais cette [brahmacariya|vie brahmique], [bhikkhu|mendiants], est vécue pour la [samvara|restreinte], pour l'abandon, pour le [viraga|désintéressement], pour la [nirodha|cessation]."
+    },
+    {
+      "pl": "“saṃvaratthaṃ pahānatthaṃ,[@v]brahmacariyaṃ anītihaṃ.[@v]adesayi so bhagavā,[@v]nibbānogadhagāminaṃ.",
+      "fr": "C'est pour la [samvara|restreinte], pour l'abandon,[@v]Et non par tradition[@v]Que le [bhagava|Fortuné] a professé la [brahmacariya|vie brahmique],[@v]Qui plonge dans et mène vers l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“esa maggo mahattehi,[@v]anuyāto mahesibhi .[@v]ye ye taṃ paṭipajjanti,[@v]yathā buddhena desitaṃ.[@v]dukkhassantaṃ karissanti,[@v]satthusāsanakārino””ti.",
+      "fr": "Cette voie est suivie[@v]Par les grands, par les sages.[@v]Ceux qui la suivent[@v]Comme enseigné par le Bouddha[@v]Mettent fin au [dukkha|mal-être][@v]En suivant les instructions de l'Enseignant."
+    }
+  ],
+  "keywords": ["bhikkhu", "brahmacariya", "lss", "samvara", "viraga", "nirodha", "bhagava", "nibbana", "dukkha"],
+  "translator": "Rémy"
+}

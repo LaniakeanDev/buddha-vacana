@@ -1,0 +1,43 @@
+{
+  "identifier": "AN 9.2",
+  "plTitle": "Nissaya Sutta",
+  "frTitle": "Les soutiens",
+  "description": "Dans quelle mesure un mendiant est-il 'pourvu de soutiens'?",
+  "body": [
+    {
+      "pl": "atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ ... pe ... ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca: ",
+      "fr": "Ce jour-là, un certain [bhikkhu|mendiant] alla voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“‘nissayasampanno nissayasampanno’ti, bhante, vuccati. kittāvatā nu kho, bhante, bhikkhu nissayasampanno hotī”ti?",
+      "fr": "—[bhante|Bhanté], on entend dire: [i]“Pourvu de soutiens, pourvu de soutiens”[/i]. Dans quelle mesure, [bhante|Bhanté], un [bhikkhu|mendiant] est-il pourvu de soutiens?"
+    },
+    {
+      "pl": "“saddhaṃ ce, bhikkhu, bhikkhu nissāya akusalaṃ pajahati kusalaṃ bhāveti, pahīnamevassa taṃ akusalaṃ hoti. hiriṃ ce, bhikkhu, bhikkhu nissāya akusalaṃ pajahati kusalaṃ bhāveti, pahīnamevassa taṃ akusalaṃ hoti. ottappaṃ ce, bhikkhu, bhikkhu nissāya akusalaṃ pajahati kusalaṃ bhāveti, pahīnamevassa taṃ akusalaṃ hoti. vīriyaṃ ce, bhikkhu, bhikkhu nissāya akusalaṃ pajahati kusalaṃ bhāveti, pahīnamevassa taṃ akusalaṃ hoti. paññaṃ ce, bhikkhu, bhikkhu nissāya akusalaṃ pajahati kusalaṃ bhāveti, pahīnamevassa taṃ akusalaṃ hoti. taṃ hissa bhikkhuno akusalaṃ pahīnaṃ hoti suppahīnaṃ, yaṃsa ariyāya paññāya disvā pahīnaṃ”.",
+      "fr": "—Mendiant, si un [bhikkhu|mendiant] soutenu par la [saddha|conviction] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux], il abandonne bien ce qui est [akusala|désavantageux]. Si un [bhikkhu|mendiant] soutenu par la [hiri|honte morale] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux], il abandonne bien ce qui est [akusala|désavantageux]. Si un [bhikkhu|mendiant] soutenu par la [ottappa|crainte morale] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux], il abandonne bien ce qui est [akusala|désavantageux]. Si un [bhikkhu|mendiant] soutenu par l'[viriya|énergie] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux], il abandonne bien ce qui est [akusala|désavantageux]. Si un [bhikkhu|mendiant] soutenu par le [panna|discernement] abandonne ce qui est [akusala|désavantageux] et développe ce qui est [kusala|avantageux], il abandonne bien ce qui est [akusala|désavantageux]. Ce qui est [akusala|désavantageux] et a été abandonné par un [bhikkhu|mendiant] a été bien abandonné lorsqu'il l'a abandonné en l'ayant vu avec un [ariya|noble] [panna|discernement]."
+    },
+    {
+      "pl": "“tena ca pana, bhikkhu, bhikkhunā imesu pañcasu dhammesu patiṭṭhāya cattāro upanissāya vihātabbā. katame cattāro? idha, bhikkhu, bhikkhu saṅkhāyekaṃ paṭisevati, saṅkhāyekaṃ adhivāseti, saṅkhāyekaṃ parivajjeti, saṅkhāyekaṃ vinodeti.",
+      "fr": "De plus, [bhikkhu|mendiant], en s'appuyant sur ces cinq [dhamma|qualités], ce [bhikkhu|mendiant] devrait se baser sur quatre soutiens. Quels sont ces quatre? À cet égard, un [bhikkhu|mendiant], ayant réfléchi, utilise, ayant réfléchi, endure, ayant réfléchi, évite, et ayant réfléchi, élimine."
+    },
+    {
+      "pl": "evaṃ kho, bhikkhu, bhikkhu nissayasampanno hotī”ti.",
+      "fr": "Voici, [bhikkhu|mendiant], comment un [bhikkhu|mendiant] est pourvu de soutiens."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "bhagava",
+    "bhante",
+    "saddha",
+    "akusala",
+    "kusala",
+    "hiri",
+    "ottappa",
+    "viriya",
+    "panna",
+    "ariya",
+    "dhamma"
+  ],
+  "translator": "Rémy"
+}

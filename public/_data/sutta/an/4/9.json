@@ -1,0 +1,18 @@
+{
+  "identifier": "AN 4.9",
+  "plTitle": "Taṇhuppāda Sutta",
+  "frTitle": "L'apparition de l'avidité",
+  "description": "Voici comment l'avidité peut apparaître chez un mendiant.",
+  "body": [
+    {
+      "pl": "“cattārome, bhikkhave, taṇhuppādā yattha bhikkhuno taṇhā uppajjamānā uppajjati. katame cattāro? cīvarahetu vā, bhikkhave, bhikkhuno taṇhā uppajjamānā uppajjati; piṇḍapātahetu vā, bhikkhave, bhikkhuno taṇhā uppajjamānā uppajjati; senāsanahetu vā, bhikkhave, bhikkhuno taṇhā uppajjamānā uppajjati; itibhavābhavahetu vā, bhikkhave, bhikkhuno taṇhā uppajjamānā uppajjati. ime kho, bhikkhave, cattāro taṇhuppādā yattha bhikkhuno taṇhā uppajjamānā uppajjatī”ti.",
+      "fr": "[bhikkhu|Mendiants], il y a ces quatre [types d']apparition de l'[tanha|avidité] en fonction desquels l'[tanha|avidité] apparaît chez un [bhikkhu|mendiant]. Quels sont ces quatre? L'[tanha|avidité] apparaît chez un [bhikkhu|mendiant] à cause des [civara|robes], ou bien l'[tanha|avidité] apparaît chez un [bhikkhu|mendiant] à cause de la [pindapata|nourriture d'aumônes], ou bien l'[tanha|avidité] apparaît chez un [bhikkhu|mendiant] à cause d'un [senasana|gîte], ou bien l'[tanha|avidité] apparaît chez un bhikkhu à cause de l'[bhava|existence] ici ou de l'[bhava|existence] ailleurs. Voici, [bhikkhu|mendiants], quelles sont ces quatre [types d']apparition de l'[tanha|avidité] en fonction desquels l'[tanha|avidité] apparaît chez un [bhikkhu|mendiant]."
+    },
+    {
+      "pl": "[i]“taṇhā dutiyo puriso, [@v]dīghamaddhāna saṃsaraṃ[@v]itthabhāvaññathābhāvaṃ, [@v]saṃsāraṃ nātivattati.[@v][@v]“evamādīnavaṃ ñatvā, [@v]taṇhaṃ dukkhassa sambhavaṃ[@v]vītataṇho anādāno, [@v]sato bhikkhu paribbaje”ti[/i][@v][@v]",
+      "fr": "[i]Avec l'[tanha|avidité] pour compagnon,[@v]Une personne erre pendant très longtemps[@v]De l'[bhava|existence] ici à l'[bhava|existence] ailleurs,[@v]Et ne ne quitte jamais la [samsara|continuation des existences].[@v][@v]Ayant ainsi réalisé ce [adinava|danger],[@v]L'origine du [dukkha|mal-être] dans l'avidité,[@v]Dépourvu d'[tanha|avidité], sans attachement,[@v]Un [bhikkhu|mendiant] devrait aller [sata|présent d'esprit].[/i][@v][@v]"
+    }
+  ],
+  "keywords": ["bhikkhu", "tanha", "civara", "pindapata", "senasana", "bhava", "samsara", "adinava", "dukkha", "sata"],
+  "translator": "Rémy"
+}

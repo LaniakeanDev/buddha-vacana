@@ -1,0 +1,26 @@
+{
+  "identifier": "AN 7.28",
+  "plTitle": "Parihāni Sutta",
+  "frTitle": "Déclin",
+  "description": "Sept points sur lesquels un mendiant en entraînement peut se détériorer ou non.",
+  "body": [
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. tatra kho bhagavā bhikkhū āmantesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi, dans le bois de Jéta, le parc d'Anāthapiṇḍika. Là, il s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "“sattime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. katame satta? kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni tatra sekho bhikkhu na iti paṭisañcikkhati: ‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā tesu yogaṃ āpajjati. ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+      "fr": "Ces sept [dhamma|choses], [bhikkhu|mendiants], mènent à la détérioration d'un mendiant [sekha|en entraînement]. Quelles sont ces sept? La complaisance dans les activités, la complaisance dans les conversations, la complaisance dans le sommeil, la complaisance dans la socialisation, l'absence de [indriyesuguttadvarata|protection à l'entrée des facultés sensorielles], l'absence de [bmt|connaissance de la [bonne] mesure avec la nourriture], et lorsqu'il y a des affaires de la [sangha|communauté] [devant être traitées] dans la [sangha|communauté], un mendiant [sekha|en entraînement] ne considère pas ceci: [i]“Il y a, dans la [sangha|communauté], des aînés de longue date, ayant [pabbajja|quitté le foyer] depuis longtemps, qui prennent [les choses] en charge, ils sauront quoi faire',[/i] et il s'occupe de ces affaires lui-même. Voici, [bhikkhu|mendiants], quelles sont ces sept [dhamma|choses] qui mènent à la détérioration d'un mendiant [sekha|en entraînement]."
+    },
+    {
+      "pl": "“sattime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti. katame satta? na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati: ‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā na tesu yogaṃ āpajjati. ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno aparihānāya saṃvattantī”ti.",
+      "fr": "Ces sept [dhamma|choses], [bhikkhu|mendiants], mènent à la non-détérioration d'un mendiant [sekha|en entraînement]. Quelles sont ces sept? La non-complaisance dans les activités, la non-complaisance dans les discussions, la non-complaisance dans le sommeil, la non-complaisance dans les réunions, la [indriyesuguttadvarata|protection à l'entrée des facultés sensorielles], la [bmt|connaissance de la [bonne] mesure avec la nourriture], et lorsqu'il y a des affaires de la [sangha|communauté] [devant être traitées] dans la [sangha|communauté], un mendiant [sekha|en entraînement] considère ceci: [i]“Il y a dans la [sangha|communauté] des aînés de longue date, ayant [pabbajja|quitté le foyer] depuis longtemps, qui prennent [les choses] en charge, ils sauront quoi faire',[/i] et il ne s'occupe pas de ces affaires lui-même. Voici, [bhikkhu|mendiants], quelles sont ces sept [dhamma|choses] qui mènent à la non-détérioration d'un mendiant [sekha|en entraînement]."
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "dhamma", "sekha", "igdt", "bmt", "sangha", "pabbajja"],
+  "translator": "Rémy"
+}

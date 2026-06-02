@@ -1,0 +1,49 @@
+{
+  "identifier": "Iti 72",
+  "plTitle": "Nissaraṇiya Sutta",
+  "frTitle": "L'émancipation",
+  "description": "Les trois éléments d'émancipation.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“tisso imā, bhikkhave, nissaraṇiyā dhātuyo. katamā tisso? kāmānametaṃ nissaraṇaṃ yadidaṃ nekkhammaṃ, rūpānametaṃ nissaraṇaṃ yadidaṃ āruppaṃ, yaṃ kho pana kiñci bhūtaṃ saṅkhataṃ paṭiccasamuppannaṃ nirodho tassa nissaraṇaṃ — imā kho, bhikkhave, tisso nissaraṇiyā dhātuyo””ti.",
+      "fr": "«[bhikkhu|Mendiants], il y a ces trois [dhatu|éléments] d'[nissarana|émancipation]. Quels sont ces trois? L'[nissarana|émancipation] vis-à-vis des [kama|plaisirs sensuels] est le [nekkhamma|renoncement]; l'[nissarana|émancipation] vis-à-vis des [rupa|formes] est le sans-forme; l'[nissarana|émancipation] vis-à-vis de tout ce qui est venu à l'existence, qui est [sankhata|conditionné], [paticcasamuppada|apparu de manière dépendante], est la [nirodha|cessation]. Voici quels sont ces trois éléments d'[nissarana|émancipation]."
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“kāmanissaraṇaṃ ñatvā, rūpānañca atikkamaṃ. sabbasaṅkhārasamathaṃ, phusaṃ ātāpi sabbadā. ",
+      "fr": "Ayant connu l'[nissarana|émancipation] vis-à-vis de la [kama|sensualité],Ayant transcendé la [rupa|forme],Celui qui est toujours [atapi|ardent] atteintLa tranquillisation de toutes les [sankhara|Constructions]."
+    },
+    {
+      "pl": "“sa ve sammaddaso bhikkhu, yato tattha vimuccati. abhiññāvosito santo, sa ve yogātigo munī””ti.",
+      "fr": "Un tel [bhikkhu|mendiant] qui voit correctementGrâce à cela est libéréMaîtrisant la [abhinna|connaissance directe], calme,Un tel sage s'est défait du joug."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "arahant",
+    "bhikkhu",
+    "dhatu",
+    "nissarana",
+    "kama",
+    "nekkhamma",
+    "rupa",
+    "sankhata",
+    "paticcasamuppada",
+    "nirodha",
+    "atapi",
+    "sankhara",
+    "abhinna"
+  ],
+  "translator": "Sekha"
+}

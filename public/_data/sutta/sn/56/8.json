@@ -1,0 +1,42 @@
+{
+  "identifier": "SN 56.8",
+  "plTitle": "Cinta Sutta",
+  "frTitle": "Les réflexions",
+  "description": "Voici comment nous devrions travailler sur notre manière de réfléchir, en laissant de côté les questionnements métaphysiques inutiles.",
+  "body": [
+    {
+      "pl": "“mā, bhikkhave, pāpakaṃ akusalaṃ cintaṃ cinteyyātha: ‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṃ jīvaṃ taṃ sarīran’ti vā ‘aññaṃ jīvaṃ aññaṃ sarīran’ti vā, ‘hoti tathāgato paraṃ maraṇā’ti vā ‘na hoti tathāgato paraṃ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti vā. taṃ kissa hetu? nesā, bhikkhave, cintā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati.",
+      "fr": "«[bhikkhu|Mendiants], vous ne devriez pas avoir des réflexions [papaka|mauvaises] et [akusala|désavantageuses] [telles que]: [i]“le [loka|monde] est éternel”[/i], ou bien [i]«le [loka|monde] est temporaire»[/i], [i]“le [loka|monde] a une extrémité”[/i], [i]“le [loka|monde] est sans extrémité”[/i], [i]“l'âme et le corps ne font qu'un”[/i], [i]“l'âme et le corps sont différents”[/i], [i]“le [tathagata|Tathagata] existe après la [marana|mort]”[/i], [i]“le [tathagata|Tathagata] n'existe pas après la [marana|mort]”[/i], [i]“le [tathagata|Tathagata] existe et n'existe pas après la [marana|mort]”[/i], ou bien [i]“le [tathagata|Tathagata] ni n'existe ni n'existe pas après la [marana|mort]”[/i]. Pourquoi cela? Parce que ces réflexions ne sont pas [@m_atthasamhita|profitables], qu'elles ne se rapportent pas aux principes de la [brahmacariya|vie brahmique], et qu'elles ne mènent pas au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "“cintentā ca kho tumhe, bhikkhave, ‘idaṃ dukkhan’ti cinteyyātha, ‘ayaṃ dukkhasamudayo’ti cinteyyātha, ‘ayaṃ dukkhanirodho’ti cinteyyātha, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti cinteyyātha. taṃ kissa hetu? esā, bhikkhave, cintā atthasaṃhitā, esā ādibrahmacariyakā, esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+      "fr": "Lorsque vous réfléchissez, [bhikkhu|mendiants], vous devriez réfléchir à: [i]“Voici le [dukkha|mal-être]”,[/i] vous devriez réfléchir à: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] vous devriez réfléchir à: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] vous devriez réfléchir à: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i] Pourquoi cela? Parce que ces réflexions, [bhikkhu|mendiants], sont [@m_atthasamhita|profitables], qu'elles se rapportent aux principes de la [brahmacariya|vie brahmique], et qu'elles mènent au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "papaka",
+    "akusala",
+    "loka",
+    "tathagata",
+    "marana",
+    "@m_atthasamhita",
+    "brahmacariya",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodhi",
+    "nibbana",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
+  "translator": "Rémy"
+}

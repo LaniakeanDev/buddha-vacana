@@ -1,0 +1,992 @@
+{
+  "identifier": "DN 2",
+  "plTitle": "Sāmaññaphala Sutta",
+  "frTitle": "Les fruits de la vie de renoncement",
+  "description": "Le Bouddha explique au roi Ajatassattou quels sont les fruits du renoncement.",
+  "body": [
+    {
+      "pl": "Rājāmacca-kathā",
+      "fr": "Les ministres du roi"
+    },
+    {
+      "pl": "evaṃ me sutaṃ:",
+      "fr": "Ainsi ai-je entendu:"
+    },
+    {
+      "pl": "ekaṃ samayaṃ bhagavā rājagahe viharati jīvakassa komārabhaccassa ambavane mahatā bhikkhusaṅghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi. tena kho pana samayena rājā māgadho ajātasattu vedehiputto tadahuposathe pannarase komudiyā cātumāsiniyā puṇṇāya puṇṇamāya rattiyā rājāmaccaparivuto uparipāsādavaragato nisinno hoti. atha kho rājā māgadho ajātasattu vedehiputto tadahuposathe udānaṃ udānesi:",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait à Rajgiri dans la mangueraie de Jivaka Komārabhatcha, en compagnie d'un grand [sangha|groupe] de [bhikkhu|mendiants] comptant 1250 [bhikkhu|mendiants]. Et en cette occasion, puisque c'était l'[uposatha|Ouposatha] du quinzième jour, la nuit de pleine lune de la saison des nénuphars, le quatrième mois de la saison des pluies, Ajatassattou Védéhipoutta, le roi du Magadha, était assis entouré de ses ministres sur la terrasse au sommet de son palais. Alors Ajatassattou, à l'occasion de l'[uposatha|Ouposatha], exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“ramaṇīyā vata bho dosinā ratti, abhirūpā vata bho dosinā ratti, dassanīyā vata bho dosinā ratti, pāsādikā vata bho dosinā ratti, lakkhaññā vata bho dosinā ratti. kaṃ nu khvajja samaṇaṃ vā brāhmaṇaṃ vā payirupāseyyāma, yaṃ no payirupāsato cittaṃ pasīdeyyā”ti?",
+      "fr": "— Cette nuit de pleine lune est charmante, elle est belle, elle est splendide, elle est sereine, elle porte de bons auspices. Quel [samana|renonçant] ou [brahmana|brahmane] pourrions-nous aller visiter qui rendrait notre [citta|esprit] serein?"
+    },
+    {
+      "pl": "evaṃ vutte, aññataro rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, un certain ministre d'Ajatassattou dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, pūraṇo kassapo: saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo pūraṇaṃ kassapaṃ payirupāsatu. appeva nāma devassa pūraṇaṃ kassapaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Pourana Kassapa: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux. Alors l'un de ses ministres dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, makkhali gosālo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo makkhaliṃ gosālaṃ payirupāsatu. appeva nāma devassa makkhaliṃ gosālaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Makkhali Gossala: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux. Alors l'un de ses ministres dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, ajito kesakambalo saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo ajitaṃ kesakambalaṃ payirupāsatu. appeva nāma devassa ajitaṃ kesakambalaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Ajita Kessakambala: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux. Alors l'un de ses ministres dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, pakudho kaccāyano saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo pakudhaṃ kaccāyanaṃ payirupāsatu. appeva nāma devassa pakudhaṃ kaccāyanaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Pakoudha Kactchayana: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux. Alors l'un de ses ministres dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, sañcayo belaṭṭhaputto saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo sañcayaṃ belaṭṭhaputtaṃ payirupāsatu. appeva nāma devassa sañcayaṃ belaṭṭhaputtaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Santchaya Belatthapoutta: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi. aññataropi kho rājāmacco rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux. Alors l'un de ses ministres dit:"
+    },
+    {
+      "pl": "“ayaṃ, deva, nigaṇṭho nāṭaputto saṅghī ceva gaṇī ca gaṇācariyo ca ñāto yasassī titthakaro sādhusammato bahujanassa rattaññū cirapabbajito addhagato vayoanuppatto. taṃ devo nigaṇṭhaṃ nāṭaputtaṃ payirupāsatu. appeva nāma devassa nigaṇṭhaṃ nāṭaputtaṃ payirupāsato cittaṃ pasīdeyyā”ti.",
+      "fr": "— Votre majesté, il y a Nigantha Natapoutta: il a beaucoup d'adeptes, beaucoup de fidèles, il est l'enseignant de beaucoup de fidèles, il est connu, il est renommé, il est le fondateur d'une foi, hautement estimé par la multitude, il est connu depuis longtemps, il a [pabbajja|quitté le foyer] depuis longtemps, il est âgé, atteint par la vieillesse. Votre majesté pourrait aller le visiter. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto tuṇhī ahosi.",
+      "fr": "Lorsque cela fut dit, le roi Ajatassattou resta silencieux."
+    },
+    {
+      "pl": "Komārabhacca-jīvaka-kathā",
+      "fr": "Jivaka Komarabhatcha"
+    },
+    {
+      "pl": "tena kho pana samayena jīvako komārabhacco rañño māgadhassa ajātasattussa vedehiputtassa avidūre tuṇhībhūto nisinno hoti. atha kho rājā māgadho ajātasattu vedehiputto jīvakaṃ komārabhaccaṃ etadavoca:",
+      "fr": "Pendant ce temps, Jivaka Komarabhatcha se tenait assis à proximité du roi Ajatassattou, en silence. Alors le roi Ajatassattou lui dit:"
+    },
+    {
+      "pl": "“tvaṃ pana, samma jīvaka, kiṃ tuṇhī”ti?",
+      "fr": "— Et toi, Jivaka, pourquoi es-tu silencieux?"
+    },
+    {
+      "pl": "“ayaṃ, deva, bhagavā arahaṃ sammāsambuddho amhākaṃ ambavane viharati mahatā bhikkhusaṅghena saddhiṃ aḍḍhateḷasehi bhikkhusatehi. taṃ kho pana bhagavantaṃ evaṃ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. taṃ devo bhagavantaṃ payirupāsatu. appeva nāma devassa bhagavantaṃ payirupāsato cittaṃ pasīdeyyā’ti.",
+      "fr": "— Votre majesté, ce [bhagava|Fortuné], ce [arahant|Méritant], cet [sammasambuddha|être véritablement éveillé] séjourne dans ma mangueraie, en compagnie d'un grand groupe de [bhikkhu|mendiants] comptant 1250 [bhikkhu|mendiants]. Et la bonne réputation de ce [bhagava|Fortuné] s'est répandue ainsi: [@f_anussati#anussati-1-cl|'Sûrement, c'est un Fortuné, un arahant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé.]' Votre majesté pourrait visiter ce [bhagava|Fortuné]. Peut-être que si votre majesté va le visiter, il rendra son [citta|esprit] serein."
+    },
+    {
+      "pl": "“tena hi, samma jīvaka, hatthiyānāni kappāpehī”ti.",
+      "fr": "— Alors fais préparer les montures d'éléphants, Jivaka."
+    },
+    {
+      "pl": "“evaṃ, devā”ti kho jīvako komārabhacco rañño māgadhassa ajātasattussa vedehiputtassa paṭissuṇitvā pañcamattāni hatthinikāsatāni kappāpetvā rañño ca ārohaṇīyaṃ nāgaṃ, rañño māgadhassa ajātasattussa vedehiputtassa paṭivedesi:",
+      "fr": "— Oui, votre majesté, acquiesça Jivaka Komarabhatcha. Il fit donc préparer un grand nombre d'éléphantes et un mâle à monter pour le roi, puis annonça au roi Ajatassattou:"
+    },
+    {
+      "pl": "“kappitāni kho te, deva, hatthiyānāni, yassadāni kālaṃ maññasī”ti.",
+      "fr": "— Les montures d'éléphants ont été préparées, votre majesté, elles sont maintenant à votre disposition."
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto pañcasu hatthinikāsatesu paccekā itthiyo āropetvā ārohaṇīyaṃ nāgaṃ abhiruhitvā ukkāsu dhāriyamānāsu rājagahamhā niyyāsi mahaccarājānubhāvena, yena jīvakassa komārabhaccassa ambavanaṃ tena pāyāsi.",
+      "fr": "Alors le roi Ajatassattou Védéhipoutta, le roi du Magadha, ayant fait grimper chacune de ses femmes sur une des nombreuses éléphantes, grimpa sur le mâle à monter, et quitta Rajgiri en grande pompe royale, entouré de porteurs de torches, puis se dirigea vers la mangueraie de Jivaka Komarabhatcha."
+    },
+    {
+      "pl": "atha kho rañño māgadhassa ajātasattussa vedehiputtassa avidūre ambavanassa ahudeva bhayaṃ, ahu chambhitattaṃ, ahu lomahaṃso. atha kho rājā māgadho ajātasattu vedehiputto bhīto saṃviggo lomahaṭṭhajāto jīvakaṃ komārabhaccaṃ etadavoca:",
+      "fr": "Arrivé à proximité de la mangueraie, le roi Ajatassattou fut pris de peur, fut pris de panique et eut la chair de poule. Étant effrayé, agité, ayant la chair de poule, il dit à Jivaka Komarabhatcha:"
+    },
+    {
+      "pl": "“kacci maṃ, samma jīvaka, na vañcesi? kacci maṃ, samma jīvaka, na palambhesi? kacci maṃ, samma jīvaka, na paccatthikānaṃ desi? kathañhi nāma tāva mahato bhikkhusaṅghassa aḍḍhateḷasānaṃ bhikkhusatānaṃ neva khipitasaddo bhavissati, na ukkāsitasaddo na nigghoso”ti.",
+      "fr": "— Est-ce que tu ne m'aurais pas trompé, Jivaka? Est-ce que tu ne m'aurais pas dupé, Jivaka? Est-ce que tu ne m'aurais pas livré à un ennemi, Jivaka? Comment se fait-il que de ce grand groupe de [bhikkhu|mendiants] comptant 1250 [bhikkhu|mendiants], ne vienne aucun son d'éternument, ni de râclement de gorge, ni d'éclat de voix?"
+    },
+    {
+      "pl": "“mā bhāyi, mahārāja, mā bhāyi, mahārāja. na taṃ deva, vañcemi; na taṃ, deva, palambhāmi; na taṃ, deva, paccatthikānaṃ demi. abhikkama, mahārāja, abhikkama, mahārāja, ete maṇḍalamāḷe dīpā jhāyantī”ti.",
+      "fr": "— N'ayez crainte, Maharaja, n'ayez crainte. Je n'ai pas trompé votre majesté, je n'ai pas dupé votre majesté, je n'ai pas livré votre majesté à des ennemis. Avancez, Maharaja, avancez, ces lampes sont allumées dans la salle circulaire."
+    },
+    {
+      "pl": "Sāmañña-phala-pucchā",
+      "fr": "La question sur les fruits de la vie de renoncement"
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto yāvatikā nāgassa bhūmi nāgena gantvā, nāgā paccorohitvā, pattikova yena maṇḍalamāḷassa dvāraṃ tenupasaṅkami; upasaṅkamitvā jīvakaṃ komārabhaccaṃ etadavoca:",
+      "fr": "Alors le roi Ajatassattou, s'étant avancé avec les éléphants aussi loin que le terrain le permettait, descendit de son éléphant et se dirigea à pied vers la porte de la salle circulaire."
+    },
+    {
+      "pl": "“kahaṃ pana, samma jīvaka, bhagavā”ti?",
+      "fr": "— Où se trouve le [bhagava|Fortuné], Jivaka?"
+    },
+    {
+      "pl": "“eso, mahārāja, bhagavā; eso, mahārāja, bhagavā majjhimaṃ thambhaṃ nissāya puratthābhimukho nisinno purakkhato bhikkhusaṅghassā”ti.",
+      "fr": "— Voici le [bhagava|Fortuné], Maharaja; c'est le [bhagava|Fortuné] qui est assis adossé au pilier central, tourné vers l'est, face au groupe de [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. ekamantaṃ ṭhito kho rājā māgadho ajātasattu vedehiputto tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā rahadamiva vippasannaṃ udānaṃ udānesi:",
+      "fr": "Alors le roi Ajatassattou Védéhipoutta, le roi du Magadha, approcha le [bhagava|Fortuné] et se tint debout d'un côté. Ayant balayé du regard la [sangha|communauté] des [bhikkhu|mendiants], qui se tenait très silencieuse, tel un étang rempli de sérénité, le roi Ajatassattou exclama cette [udana|exclamation]:"
+    },
+    {
+      "pl": "“iminā me upasamena udayabhaddo kumāro samannāgato hotu, yenetarahi upasamena bhikkhusaṅgho samannāgato”ti.",
+      "fr": "— Si seulement le prince Oudayabhadda était d'un calme égal à celui de la [sangha|communauté] des [bhikkhu|mendiants] en cet instant!"
+    },
+    {
+      "pl": "“agamā kho tvaṃ, mahārāja, yathāpeman”ti.",
+      "fr": "— Maharaja, est-ce que tout va comme vous le souhaitez?"
+    },
+    {
+      "pl": "“piyome, bhante udayabhaddo kumāro. imināme, bhante upasamena udayabhaddo kumāro samannāgato hotu yenetarahi upasamena bhikkhusaṅgho samannāgato”ti.",
+      "fr": "— [bhante|Bhanté], le prince Oudayabhadda m'est cher. [bhante|Bhanté], si seulement le prince Oudayabhadda était d'un calme égal à celui de la [sangha|communauté] des [bhikkhu|mendiants] en cet instant!"
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto bhagavantaṃ abhivādetvā, bhikkhusaṅghassa añjaliṃ paṇāmetvā, ekamantaṃ nisīdi. ekamantaṃ nisinno kho rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca:",
+      "fr": "Alors le roi Ajatassattou rendit hommage au [bhagava|Fortuné], leva ses mains jointes vers la [sangha|communauté] des [bhikkhu|mendiants] et s'assit d'un côté. Lorsqu'il fut assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“puccheyyāmahaṃ, bhante bhagavantaṃ kiñcideva desaṃ, sace me bhagavā okāsaṃ karoti pañhassa veyyākaraṇāyā”ti.",
+      "fr": "— [bhante|Bhanté], je voudrais demander quelque chose, si le [bhagava|Fortuné] consent à répondre à ma question."
+    },
+    {
+      "pl": "“puccha, mahārāja, yadākaṅkhasī”ti.",
+      "fr": "— Questionnez, Maharaja, à propos de ce qui vous tracasse."
+    },
+    {
+      "pl": "“yathā nu kho imāni, bhante puthusippāyatanāni, seyyathidaṃ: hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā āḷārikā kappakā nhāpakā sūdā mālākārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṃgatāni puthusippāyatanāni. te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti; te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ. sakkā nukho, bhante evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun”ti?",
+      "fr": "— [bhante|Bhanté], il y a ces diverses professions: cornacs, cavaliers, conducteurs de char, archers, porte-étendard, adjudants, intendants, fils de seigneur de guerre, éclaireurs, commandos, héros, soldats portant des boucliers, fils d'serfs, cuisiniers, barbiers, donneurs de bains, cuistots, faiseurs de guirlandes, techniciens de surface, confectionneurs de tressages, confectionneurs de paniers, potiers, comptables, messagers, ainsi que toute autre profession similaire. Ceux-ci vivent des fruits de leur compétences qui sont [sanditthika|visibles directement] [ditthevadhamme|dans ce monde visible], et c'est grâce à eux qu'ils se satisfont eux-mêmes et maintiennent leur propre [sukha|bien-être], qu'ils satisfont leurs parents et maintiennent leur [sukha|bien-être], qu'ils satisfont leur femme et enfants et maintiennent leur [sukha|bien-être], qu'ils satisfont leurs amis & compagnons et maintiennent leur [sukha|bien-être], qu'ils fournissent de l'aide aux [samana|renonçants] & [brahmana|brahmanes], des offrandes magnifiques, menant au [sagga|paradis], ayant le [sukha|bien-être] pour résultat, conduisant au [sagga|paradis]. Est-il possible, [bhante|Bhanté], de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“abhijānāsi no tvaṃ, mahārāja, imaṃ pañhaṃ aññe samaṇabrāhmaṇe pucchitā”ti?",
+      "fr": "— Est-ce que vous vous souvenez, Maharaja, avoir posé cette question à d'autres [samana|renonçants] & [brahmana|brahmanes]?"
+    },
+    {
+      "pl": "“abhijānāmahaṃ, bhante imaṃ pañhaṃ aññe samaṇabrāhmaṇe pucchitā”ti.",
+      "fr": "— Je me souviens, [bhante|Bhanté], avoir posé cette question à d'autres [samana|renonçants] & [brahmana|brahmanes]."
+    },
+    {
+      "pl": "“yathā kathaṃ pana te, mahārāja, byākariṃsu, sace te agaru bhāsassū”ti.",
+      "fr": "— Et comment, Maharaja, ont-ils répondu, si cela ne vous dérange pas de le dire?"
+    },
+    {
+      "pl": "“na khome, bhante garu, yatthassa bhagavā nisinno, bhagavantarūpo vā”ti.",
+      "fr": "— Cela ne me dérange pas, [bhante|Bhanté], où que le [bhagava|Fortuné] ou quelqu'un comme lui soit assis."
+    },
+    {
+      "pl": "“tena hi, mahārāja, bhāsassū”ti.",
+      "fr": "— Alors dites-le donc, Maharaja."
+    },
+    {
+      "pl": "Pūraṇa-kassapa-vādo",
+      "fr": "La doctrine de Pourana Kassapa"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena pūraṇo kassapo tenupasaṅkami; upasaṅkamitvā pūraṇena kassapena saddhiṃ sammodiṃ. sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. ekamantaṃ nisinno kho ahaṃ, bhante, pūraṇaṃ kassapaṃ etadavocaṃ: ‘yathā nu kho imāni, bho kassapa, puthusippāyatanāni, seyyathidaṃ: hatthārohā assārohā rathikā... sakkā nu kho, bho kassapa, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Pourana Kassapaet j'ai échangé des courtoisies avec lui. Après un échange de courtoisies et de salutations amicales, je me suis assis d'un côté. Une fois assis là, je lui ai dit: [i]“[bho|Honorable] Kassapa, il y a ces diverses professions: cornacs, cavaliers, conducteurs de char... Est-il possible, [bho|Honorable] Kassapa, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, pūraṇo kassapo maṃ etadavoca: ‘karoto kho, mahārāja, kārayato, chindato chedāpayato, pacato pācāpayato socayato, socāpayato, kilamato kilamāpayato, phandato phandāpayato, pāṇamatipātāpayato, adinnaṃ ādiyato, sandhiṃ chindato, nillopaṃ harato, ekāgārikaṃ karoto, paripanthe tiṭṭhato, paradāraṃ gacchato, musā bhaṇato, karoto na karīyati pāpaṃ. khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. dakkhiṇaṃ cepi gaṅgāya tīraṃ gaccheyya hananto ghātento chindanto chedāpento pacanto pācāpento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. uttarañcepi gaṅgāya tīraṃ gaccheyya dadanto dāpento yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. dānena damena saṃyamena saccavajjena natthi puññaṃ, natthi puññassa āgamo’ti. itthaṃ kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno akiriyaṃ byākāsi.",
+      "fr": "Lorsque ceci fut dit, Pourana Kassapa me dit: [i]“Grand roi, en agissant ou faisant agir d'autres personnes, en mutilant ou en obligeant d'autres personnes à mutiler, en torturant ou en obligeant d'autres personnes à torturer, en infligeant du chagrin ou en obligeant d'autres personnes à infliger du chagrin, en tourmentant ou obligeant d'autres personnes à tourmenter, en intimidant ou obligeant d'autres personnes à intimider, en prenant la vie, en prenant ce qui n'est pas donné, en cambriolant des maisons, en pillant la richesse, en commettant des vols, en brigandant sur les chemins, en commettant l'adultère, en disant des faussetés -- on ne fait pas de mal. Si avec un disque au bord tranchant on devait transformer tous les êtres vivants sur cette terre en un seul tas de viande, en une seule pile de chair, cela n'entraînerait aucun mal, aucun effet de mal. Même si on devait aller tout au long de la rive droite du Gange, en tuant et en obligeant d'autres à tuer, en mutilant et en obligeant d'autres personnes à mutiler, en torturant et en obligeant d'autres personnes à torturer, cela n'entraînerait aucun mal, aucun effet de mal. Même si on devait aller tout au long de la rive gauche du Gange, en donnant et en obligeant d'autres à donner, en offrant des sacrifices et en obligeant d'autres à offrir des sacrifices, cela n'entraînerait aucun mérite , aucun effet de mérite. La générosité, le contrôle de soi, la mesure, et la parole vraie n'entraînent aucun mérite, aucun effet de mérite.”[/i]"
+    },
+    {
+      "pl": "“seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, pūraṇo kassapo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno akiriyaṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, pūraṇassa kassapassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. anabhinanditvā appaṭikositvā anattamano, anattamanavācaṃ anicchāretvā, tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Pourana Kassapa a répondu par la non-action. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue: de la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Pourana Kassapa a répondu par la non-action. L'idée alors m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles de Pourana Kassapa que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Makkhali-gosāla-vādo",
+      "fr": "La doctrine de Makkhali Gossala"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena makkhali gosālo tenupasaṅkami... etadavocaṃ: ‘yathā nu kho imāni, bho gosāla, puthusippāyatanāni, seyyathidaṃ: hatthārohā assārohā rathikā... sakkā nu kho, bho gosāla, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Makkhali Gossala... je lui ai dit: [i]“[bho|Honorable] Gossala, il y a ces diverses professions: cornacs, cavaliers, conducteurs de char... Est-il possible, [bho|Honorable] Gossala, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, makkhali gosālo maṃ etadavoca: ‘natthi mahārāja hetu natthi paccayo sattānaṃ saṃkilesāya, ahetū apaccayā sattā saṃkilissanti. natthi hetu, natthi paccayo sattānaṃ visuddhiyā, ahetū apaccayā sattā visujjhanti. natthi attakāre, natthi parakāre, natthi purisakāre, natthi balaṃ, natthi vīriyaṃ, natthi purisathāmo, natthi purisaparakkamo. sabbe sattā sabbe pāṇā sabbe bhūtā sabbe jīvā avasā abalā avīriyā niyatisaṅgatibhāvapariṇatā chasvevābhijātīsu sukhadukkhaṃ paṭisaṃvedenti. cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni tīṇi ca kammāni kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā dvaṭṭhantarakappā chaḷābhijātiyo aṭṭha purisabhūmiyo ekūnapaññāsa ājīvakasate ekūnapaññāsa paribbājakasate ekūnapaññāsa nāgāvāsasate vīse indriyasate tiṃse nirayasate chattiṃsa rajodhātuyo satta saññīgabbhā satta asaññīgabbhā satta nigaṇṭhigabbhā satta devā satta mānusā satta pisācā satta sarā satta pavuṭā satta pavuṭasatāni satta papātā satta papātasatāni satta supinā satta supinasatāni cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. tattha natthi “imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā aparipakkaṃ vā kammaṃ paripācessāmi, paripakkaṃ vā kammaṃ phussa phussa byantiṃ karissāmī’ti hevaṃ natthi. doṇamite sukhadukkhe pariyantakate saṃsāre, natthi hāyanavaḍḍhane, natthi ukkaṃsāvakaṃse. seyyathāpi nāma suttaguḷe khitte nibbeṭhiyamānameva paleti, evameva bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissantī’ti.",
+      "fr": "Lorsque ceci fut dit, Makkhali Gosala me dit: [i]“Grand roi, il n'y a aucune cause, aucune condition nécessaire, pour souiller les êtres. Les êtres sont souillés sans cause, sans condition nécessaire. Il n'y a ni cause, ni condition nécessaire, pour la purification des êtres. Les êtres sont purifiés sans cause, sans condition nécessaire. Rien n'est auto-causé, rien n'a de cause extérieure, rien n'est causé par l'homme. Il n'y a ni force, ni effort, ni énergie humaine, ni entreprise humaine. Tous les êtres vivants, toute la vie, tous les êtres, toutes les âmes sont impuissants, privés de force, dépourvus d'effort. Sujets aux changements du destin, au don de faire des trouvailles, et à la nature, ils sont sensibles au plaisir et à la douleur dans les six grandes classes de naissance. Il y a 1,406,600 modes principaux d'origine. Il y a 500 sortes de kamma, cinq sortes, et trois sortes; plein kamma et demi kamma. Il y a 62 pistes, 62 sous-éons, six grandes classes de naissance, huit classes d'hommes, 4,900 modes de gagne-pain, 4,900 sortes d'errants, 4,900 demeures de Nagas, 2,000 facultés, 3,000 enfers, 36 domaines de poussière, sept sphères d'êtres perceptifs, sept sphères d'êtres non-perceptifs, sept sortes de plantes jointées, sept sortes de devas, sept sortes d'êtres humains, sept sortes de démons, sept grands lacs, sept noeuds majeurs, sept noeuds mineurs, 700 précipices majeurs, 700 précipices mineurs, 700 rêves majeurs, 700 rêves mineurs, 84,000 grands éons. Après avoir transmigré et erré à travers tous ceux-là, les sages tout autant que les fous mettront fin à la souffrance. Quoiqu'on pourrait imaginer, ‘Par cette moralité, cette pratique, cette austérité, ou cette vie sainte je porterai à maturité le kamma qui n'est pas mûr et éliminerai le kamma mûr chaque fois que je serai touché par lui’ -- c'est impossible. Le plaisir et la douleur sont mesurés, l'errance est déterminée en ses limites. Il n'y a ni raccourcissement ni allongement, ni accélération ni décélération. Tout comme une pelote de fil, quand on la jette, arrive à sa fin simplement par son dévidement, de la même manière, après avoir transmigré et erré, les sages tout autant que les fous mettront fin à la souffrance.”[/i]"
+    },
+    {
+      "pl": "“itthaṃ kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno saṃsārasuddhiṃ byākāsi. seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, makkhali gosālo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno saṃsārasuddhiṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, makkhalissa gosālassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchāretvā, tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Makkhali Gosala a répondu par la purification au moyen de l'errance. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue. De la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Makkhali Gosala a répondu par la purification par l'errance. L'idée m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles de Makkhali Gosala que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Ajita-kesakambala-vādo",
+      "fr": "La doctrine d'Ajita Kessakambala"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena ajito kesakambalo tenupasaṅkami... sakkā nu kho, bho ajita, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Ajita Kessakambala... Est-il possible, [bho|Honorable] Ajita, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, ajito kesakambalo maṃ etadavoca: ‘natthi, mahārāja, dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedenti. cātumahābhūtiko ayaṃ puriso, yadā kālaṅkaroti, pathavī pathavikāyaṃ anupeti anupagacchati, āpo āpokāyaṃ anupeti anupagacchati, tejo tejokāyaṃ anupeti anupagacchati, vāyo vāyokāyaṃ anupeti anupagacchati, ākāsaṃ indriyāni saṅkamanti. āsandipañcamā purisā mataṃ ādāya gacchanti. yāvāḷāhanā padāni paññāyanti. kāpotakāni aṭṭhīni bhavanti, bhassantā āhutiyo. dattupaññattaṃ yadidaṃ dānaṃ. tesaṃ tucchaṃ musā vilāpo ye keci atthikavādaṃ vadanti. bāle ca paṇḍite ca kāyassa bhedā ucchijjanti vinassanti, na honti paraṃ maraṇā’ti.",
+      "fr": "Lorsque ceci fut dit, Ajita Kessakambala me dit: [i]“Maharaja, il n'y a pas ce qui est donné, ni ce qui est sacrifié, ni ce qui est offert, il n'y a pas de résultats aux actions bonnes ou mauvaises, il n'y a pas ce [loka|monde], il n'y a pas d'autre [loka|monde], il n'y a pas de mère, pas de père, pas d'êtres [opapatika|nés spontanément], il n'y a pas dans le [loka|monde] de [samana|renonçants] & [brahmana|brahmanes] avançant correctement, cheminant correctement, qui fassent connaître ce [loka|monde] et l'autre [loka|monde] en les ayant réalisés pour eux-mêmes par [abhinna|connaissance directe]. Chez cet homme composé des quatre grands éléments, lorsqu'il a fait son temps, la Terre retourne à la Terre, l'Eau retourne à l'Eau, le Feu retourne au Feu, le Vent retourne au Vent, les facultés rejoignent l'espace, quatre hommes (et la bière comme cinquième) emmènent le corps, les belles paroles ne font entendre que jusqu'au cimetière, les os deviennent gris. Les offrandes finissent par tomber [de là où on les a mises], le don est l'idéologie des idiots. Les paroles de ceux qui professent le bien sont vides, mensongères et absurdes. Les sots comme les sages, lors de la rupture du [kaya|corps], après la [marana|mort], sont annihilés, détruits et n'existent plus.”[/i]"
+    },
+    {
+      "pl": "“itthaṃ kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno ucchedaṃ byākāsi. seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, ajito kesakambalo sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno ucchedaṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, ajitassa kesakambalassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Ajita Kessakambala a répondu par l'annihilation. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue. De la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Ajita Kessakambala a répondu par l'annihilation. L'idée m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles d'Ajita Kessakambala que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Pakudha-kaccāyana-vādo",
+      "fr": "La doctrine de Pakoudha Kacchayana"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena pakudho kaccāyano tenupasaṅkami... sakkā nu kho, bho kaccāyana, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Pakoudha Kacchayana... Est-il possible, [bho|Honorable] Kacchayana, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, pakudho kaccāyano maṃ etadavoca: ‘sattime, mahārāja, kāyā akaṭā akaṭavidhā animmitā animmātā vañjhā kūṭaṭṭhā esikaṭṭhāyiṭṭhitā. te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti, nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. katame satta? pathavikāyo, āpokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame, ime satta kāyā akaṭā akaṭavidhā animmitā animmātā vañjhā kūṭaṭṭhā esikaṭṭhāyiṭṭhitā. te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti, nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. tattha natthi hantā vā ghātetā vā, sotā vā sāvetā vā, viññātā vā viññāpetā vā. yopi tiṇhena satthena sīsaṃ chindati, na koci kiñci jīvitā voropeti; sattannaṃ tveva kāyānamantarena satthaṃ vivaramanupatatī’ti.",
+      "fr": "Lorsque ceci fut dit, Pakoudha Kacchayana me dit: [i]“Grand roi, il y a ces sept substances -- non-faites, irréductibles, incréées, sans créateur, désolées, stables comme un pic montagneux, se tenant fermes comme un pilier -- qui ne s'altèrent pas, ne changent pas, n'interfèrent pas l'une avec l'autre, sont incapables de se causer l'une à l'autre plaisir, douleur, ou et plaisir et douleur. Quelles sept? La substance-terre, la substance-liquide, la substance-feu, la substance-vent, le plaisir, la douleur, et l'âme en tant que septième. Ce sont là les sept substances -- non-faites, irréductibles, incréées, sans créateur, désolées, stables comme un pic montagneux, se tenant fermes comme un pilier -- qui ne s'altèrent pas, ne changent pas, n'interfèrent pas l'une avec l'autre, et sont incapable de se causer l'une à l'autre plaisir, douleur, ou et plaisir et douleur. Et parmi elles il n'y a aucun tueur ni personne qui fasse tuer, aucun auditeur ni personne qui fasse entendre, ni connaisseur ni personne qui cause la cognition. Lorsque l'on tranche la tête [d'une autre personne], il n'y a personne qui prenne la vie de quiconque. C'est simplement entre les sept substances que passe l'épée.”[/i]"
+    },
+    {
+      "pl": "“itthaṃ kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno aññena aññaṃ byākāsi. seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, pakudho kaccāyano sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno aññena aññaṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, pakudhassa kaccāyanassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ, anabhinanditvā appaṭikkositvā anattamano, anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Pakoudha Kacchayana a répondu par le non-apparentement. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue. De la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Pakoudha Kacchayana a répondu par le non-apparentement. L'idée m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles dePakoudha Kacchayana que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Nigaṇṭha-nāṭa-putta-vādo",
+      "fr": "La doctrine de Nigantha Natapoutta"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena nigaṇṭho nāṭaputto tenupasaṅkami... sakkā nu kho, bho aggivessana, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Nigantha Natapoutta... Est-il possible, [bho|Honorable] Agguivessana, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, nigaṇṭho nāṭaputto maṃ etadavoca: ‘idha, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti. kathañca, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti? idha, mahārāja, nigaṇṭho sabbavārivārito ca hoti, sabbavāriyutto ca, sabbavāridhuto ca, sabbavāriphuṭo ca. evaṃ kho, mahārāja, nigaṇṭho cātuyāmasaṃvarasaṃvuto hoti. yato kho, mahārāja, nigaṇṭho evaṃ cātuyāmasaṃvarasaṃvuto hoti; ayaṃ vuccati, mahārāja, nigaṇṭho gatatto ca yatatto ca ṭhitatto cā’ti.",
+      "fr": "Lorsque ceci fut dit, le Nigantha Natapoutta me dit: [i]“Grand roi, il y a le cas où le Nigantha -- le sans noeuds -- est modéré par la quadruple modération. Et comment le Nigantha est-il modéré par la quadruple modération? Il y a le cas où le Nigantha est gêné par toutes les eaux, conjoint avec toutes les eaux, nettoyé par toutes les eaux, compénétré par toutes les eaux. C'est ainsi que le Nigantha est modéré par la quadruple modération. Lorsque le Nigantha -- un sans noeuds -- est modéré par cette quadruple modération, il est dit être un Sans Noeuds (Nigantha), un fils de Nata (Nataputta), et son moi est parfait, son moi est contrôlé, son moi est établi.”[/i]"
+    },
+    {
+      "pl": "“itthaṃ kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno cātuyāmasaṃvaraṃ byākāsi. seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, nigaṇṭho nāṭaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno cātuyāmasaṃvaraṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, nigaṇṭhassa nāṭaputtassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Nigantha Natapoutta a répondu par la quadruple modération. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue: de la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Nigantha Natapoutta a répondu par la quadruple modération. L'idée m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles de Nigantha Natapoutta que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Sañcaya-belaṭṭha-putta-vādo",
+      "fr": "La doctrine de Sañchaya Bélatthapoutta"
+    },
+    {
+      "pl": "“ekamidāhaṃ, bhante, samayaṃ yena sañcayo belaṭṭhaputto tenupasaṅkami... sakkā nu kho, bho sañcaya, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Un jour, [bhante|Bhanté], je suis allé voir Sañchaya Bélatthapoutta... Est-il possible, [bho|Honorable] Sañchaya, de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“evaṃ vutte, bhante, sañcayo belaṭṭhaputto maṃ etadavoca: ‘atthi paro lokoti iti ce maṃ pucchasi, atthi paro lokoti iti ce me assa, atthi paro lokoti iti te naṃ byākareyyaṃ. evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no. natthi paro loko ... pe ... atthi ca natthi ca paro loko ... pe ... nevatthi na natthi paro loko ... pe ... atthi sattā opapātikā ... pe ... natthi sattā opapātikā ... pe ... atthi ca natthi ca sattā opapātikā ... pe ... nevatthi na natthi sattā opapātikā ... pe ... atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko ... pe ... natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko ... pe ...atthi ca natthi ca sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko ... pe ... nevatthi na natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko ... pe ... hoti tathāgato paraṃ maraṇā ... pe ... na hoti tathāgato paraṃ maraṇā ... pe ... hoti ca na ca hoti tathāgato paraṃ maraṇā ... pe ... neva hoti na na hoti tathāgato paraṃ maraṇāti iti ce maṃ pucchasi, neva hoti na na hoti tathāgato paraṃ maraṇāti iti ce me assa, neva hoti na na hoti tathāgato paraṃ maraṇāti iti te naṃ byākareyyaṃ. evantipi me no, tathātipi me no, aññathātipi me no, notipi me no, no notipi me no’ti.",
+      "fr": "Lorsque ceci fut dit, Sañchaya Bélatthapoutta me dit: [i]“Si vous me demandez s'il existe un autre monde [après la mort], si je pensais qu'il existe un autre monde, est-ce que je vous déclarerais cela? Je ne le pense pas. Je ne pense pas de cette façon. Je ne pense pas autrement. Je ne pense pas que ce n'est pas. Je ne pense pas que ce n'est pas non. Si vous deviez me demander s'il n'existe pas un autre monde... autant c'est que ce n'est pas... ni c'est ni ce n'est pas... s'il y a des êtres qui transmigrent... s'il n'y en a pas... autant il y en a et autant il n'y en a pas... ni il y en a ni il n'y en a pas... si le Tathagata existe après la mort... il n'existe pas... les deux... ni il existe ni n'existe après la mort, est-ce que je vous déclarerais cela? Je ne le pense pas. Je ne pense pas de cette façon. Je ne pense pas autrement. Je ne pense pas que ce n'est pas. Je ne pense pas que ce n'est pas non.”[/i]"
+    },
+    {
+      "pl": "“itthaṃ kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. seyyathāpi, bhante, ambaṃ vā puṭṭho labujaṃ byākareyya, labujaṃ vā puṭṭho ambaṃ byākareyya; evameva kho me, bhante, sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākāsi. tassa mayhaṃ, bhante, etadahosi: ‘ayañca imesaṃ samaṇabrāhmaṇānaṃ sabbabālo sabbamūḷho. kathañhi nāma sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho samāno vikkhepaṃ byākarissatī’ti. tassa mayhaṃ, bhante, etadahosi: ‘kathañhi nāma mādiso samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ apasādetabbaṃ maññeyyā’ti. so kho ahaṃ, bhante, sañcayassa belaṭṭhaputtassa bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. anabhinanditvā appaṭikkositvā anattamano anattamanavācaṃ anicchāretvā tameva vācaṃ anuggaṇhanto anikkujjanto uṭṭhāyāsanā pakkamiṃ.",
+      "fr": "Ainsi, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Sañchaya Bélatthapoutta a répondu par l'évasion. C'est comme si une personne, interrogée à propos d'une mangue, devait répondre par un fruit de l'arbre à pain; ou, interrogée à propos d'un fruit de l'arbre à pain, devait répondre par une mangue: de la même façon, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, Sañchaya Bélatthapoutta a répondu par l'évasion. L'idée m'est venue: [i]“Celui-ci -- parmi ces prêtres et contemplatifs -- est le plus fou et le plus confus de tous. Comment peut-il, interrogé sur un fruit de la vie contemplative, visible ici et maintenant, répondre par l'évasion?”[/i] Et pourtant, l'idée m'est venue: [i]“Comment quelqu'un comme moi pourrait-il imaginer de de me montrer désobligeant envers un prêtre ou un contemplatif vivant en son royaume?”[/i] Et pourtant je n'appréciai pas plus les paroles de Sañchaya Bélatthapoutta que je ne protestai contre elles. N'appréciant ni ne protestant, j'étais insatisfait. Sans exprimer d'insatisfaction, sans accepter son enseignement, sans l'adopter, je me levai de mon siège et partis."
+    },
+    {
+      "pl": "Paṭhama-sandiṭṭhika-sāmañña-phalaṃ ",
+      "fr": "Le premier fruit immédiatement visible de la vie de renoncement"
+    },
+    {
+      "pl": "“sohaṃ, bhante, bhagavantampi pucchāmi: ‘yathā nu kho imāni, bhante, puthusippāyatanāni seyyathidaṃ hatthārohā assārohā rathikā dhanuggahā celakā calakā piṇḍadāyakā uggā rājaputtā pakkhandino mahānāgā sūrā cammayodhino dāsikaputtā āḷārikā kappakā nhāpakā sūdā mālākārā rajakā pesakārā naḷakārā kumbhakārā gaṇakā muddikā, yāni vā panaññānipi evaṃgatāni puthusippāyatanāni, te diṭṭheva dhamme sandiṭṭhikaṃ sippaphalaṃ upajīvanti, te tena attānaṃ sukhenti pīṇenti, mātāpitaro sukhenti pīṇenti, puttadāraṃ sukhenti pīṇenti, mittāmacce sukhenti pīṇenti, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhapenti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ. sakkā nu kho me, bhante, evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun’ti?",
+      "fr": "Du coup, je demande également au [bhagava|Fortuné]: [i][bhante|Bhanté], il y a ces diverses professions: cornacs, cavaliers, conducteurs de char, archers, porte-étendard, adjudants, intendants, fils de seigneur de guerre, éclaireurs, commandos, héros, soldats portant des boucliers, fils d'serfs, cuisiniers, barbiers, donneurs de bains, cuistots, faiseurs de guirlandes, techniciens de surface, confectionneurs de tressages, confectionneurs de paniers, potiers, comptables, messagers, ainsi que toute autre profession similaire. Ceux-ci vivent des fruits de leur compétences qui sont [sanditthika|visibles directement] [ditthevadhamme|dans ce monde visible], et c'est grâce à eux qu'ils se satisfont eux-mêmes et maintiennent leur propre [sukha|bien-être], qu'ils satisfont leurs parents et maintiennent leur [sukha|bien-être], qu'ils satisfont leur femme et enfants et maintiennent leur [sukha|bien-être], qu'ils satisfont leurs amis & compagnons et maintiennent leur [sukha|bien-être], qu'ils fournissent de l'aide aux [samana|renonçants] & [brahmana|brahmanes] des offrandes magnifiques, menant au [sagga|paradis], ayant le [sukha|bien-être] pour résultat, conduisant au [sagga|paradis]. Est-il possible, [bhante|Bhanté], de mettre en lumière un fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?[/i]"
+    },
+    {
+      "pl": "“sakkā, mahārāja. tena hi, mahārāja, taññevettha paṭipucchissāmi, yathā te khameyya, tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, mahārāja, idha te assa puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī mukhullokako. tassa evamassa: ‘acchariyaṃ, vata bho, abbhutaṃ, vata bho, puññānaṃ gati, puññānaṃ vipāko. ayañhi rājā māgadho ajātasattu vedehiputto manusso; ahampi manusso. ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe. ahaṃ panamhissa dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī mukhullokako. so vatassāhaṃ puññāni kareyyaṃ. yaṃnūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.",
+      "fr": "—C'est possible, Maharaja. Pour cela, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous: imaginez qu'il y ait un homme serf, un travailleur, premier levé et dernier couché, prêt à faire tout ce qu'on lui demande, se comportant de manière plaisante, parlant de manière agréable, et prenant en compte jusqu'aux expressions de votre visage. Il se dirait: [i]“C'est vraiment extraordinaire, [bho|Honorable], inouï, la destinée des actions [punna|méritoires], le résultat des actions [punna|méritoires]. Ce roi Ajatassattou Védéhipoutta du Magadha se divertit avec les cinq [kamaguna|agréments des plaisirs sensuels] dont il est pourvu et nanti, on dirait un [deva|déva]. Mais je ne suis qu'un homme serf, un travailleur, premier levé et dernier couché, prêt à faire tout ce qu'on lui demande, se comportant de manière plaisante, parlant de manière agréable, et prenant en compte jusqu'aux expressions du visage [de son maître]. Il faut vraiment que j'accomplisse des actions [punna|méritoires]. Et si, m'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, je [pabbaja|quittais la vie de foyer] pour le [anagariya|sans-foyer]?"
+    },
+    {
+      "pl": "so aparena samayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya. so evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke. taṃ ce te purisā evamāroceyyuṃ: ‘yagghe deva jāneyyāsi, yo te so puriso dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī mukhullokako; so, deva, kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito. so evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke’ti. api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu dāso kammakāro pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī mukhullokako’ti?",
+      "fr": "Plus tard, s'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, il quitterait la vie de foyer pour le [anagariya|sans-foyer]. Ayant ainsi [pabbaja|quitté la vie de foyer], il demeurerait [samvara|restreint] en [kaya|corps], il demeurerait [samvara|restreint] en parole, il demeurerait [samvara|restreint] en [citta|esprit], se satisfaisant du minimum en termes de nourriture et de vêtements, se plaisant à l'isolement. Et si un homme vous annonçait: [i]“Sire, sachez que cet homme qui n'était qu'un serf, un travailleur, premier levé et dernier couché, prêt à faire tout ce qu'on lui demande, se comportant de manière plaisante, parlant de manière agréable, et prenant en compte jusqu'aux expressions de votre visage, s'est rasé les cheveux et la barbe et ayant revêtu les robes ocres, il a [pabbaja|quitté la vie de foyer] pour le [anagariya|sans-foyer]. Ayant ainsi [pabbaja|quitté la vie de foyer], il demeure [samvara|restreint] en [kaya|corps], il demeure [samvara|restreint] en parole, il demeure [samvara|restreint] en [citta|esprit], se satisfaisant du minimum en termes de nourriture et de vêtements, se plaisant à l'isolement.”[/i] Est-ce que vous diriez: [i]“Faites revenir cet homme, pour qu'il redevienne un serf, un travailleur, premier levé et dernier couché, prêt à faire tout ce qu'on lui demande, se comportant de manière plaisante, parlant de manière agréable, et prenant en compte jusqu'aux expressions de mon visage.”[/i]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante. atha kho naṃ mayameva abhivādeyyāmapi, paccuṭṭheyyāmapi, āsanenapi nimanteyyāma, abhinimanteyyāmapi naṃ cīvara-piṇḍapāta-senāsana-gilāna-ppaccaya-bhesajja-parikkhārehi, dhammikampissa rakkhāvaraṇaguttiṃ saṃvidaheyyāmā”ti.",
+      "fr": "—Pour sûr non, [bhante|Bhanté]. Au contraire, je lui rendrais hommage, je me lèverais [à son arrivée en signe de respect], je l'inviterais à s'asseoir et je lui offrirais des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] et des provisions pour les malades, et je lui procurerais la protection, la défense et la garde légitimes."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, mahārāja, yadi evaṃ sante hoti vā sandiṭṭhikaṃ sāmaññaphalaṃ no vā”ti?",
+      "fr": "—Qu'en pensez-vous, Maharaja: puisqu'il en est ainsi, y a-t-il un fruit de la vie de renoncement qui soit [sanditthika|visible directement], ou pas?"
+    },
+    {
+      "pl": "“addhā kho, bhante, evaṃ sante hoti sandiṭṭhikaṃ sāmaññaphalan”ti.",
+      "fr": "—Certainement, [bhante|Bhanté], puisqu'il en est ainsi, il y a un fruit de la vie de renoncement qui est [sanditthika|visible directement]."
+    },
+    {
+      "pl": "“idaṃ kho te, mahārāja, mayā paṭhamaṃ diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññattan”ti.",
+      "fr": "—Voici donc, Maharaja, quel est le premier fruit de la vie de renoncement qui est [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible] dont je vous fais part."
+    },
+    {
+      "pl": "Dutiya-sandiṭṭhika-sāmañña-phalaṃ ",
+      "fr": "Le deuxième fruit immédiatement visible de la vie de renoncement"
+    },
+    {
+      "pl": "“sakkā pana, bhante, aññampi evameva diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetun”ti?",
+      "fr": "—Est-il aussi possible, [bhante|Bhanté], de mettre en lumière un autre fruit de la vie de renoncement qui de la même manière soit [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible]?"
+    },
+    {
+      "pl": "“sakkā, mahārāja. tena hi, mahārāja, taññevettha paṭipucchissāmi. yathā te khameyya, tathā naṃ byākareyyāsi. taṃ kiṃ maññasi, mahārāja, idha te assa puriso kassako gahapatiko karakārako rāsivaḍḍhako. tassa evamassa: ‘acchariyaṃ vata bho, abbhutaṃ vata bho, puññānaṃ gati, puññānaṃ vipāko. ayañhi rājā māgadho ajātasattu vedehiputto manusso, ahampi manusso. ayañhi rājā māgadho ajātasattu vedehiputto pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti, devo maññe. ahaṃ panamhissa kassako gahapatiko karakārako rāsivaḍḍhako. so vatassāhaṃ puññāni kareyyaṃ. yaṃnūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.",
+      "fr": "—C'est possible, Maharaja. Pour cela, je vais vous questionner en retour, répondez comme bon vous semble. Qu'en pensez-vous: imaginez qu'il y ait un homme fermier, chef de foyer, un contribuable amassant des richesses. Il se dirait: [i]“C'est vraiment extraordinaire, [bho|Honorable], inouï, la destinée des actions [punna|méritoires], le résultat des actions [punna|méritoires]. Ce roi Ajatassattou Védéhipoutta du Magadha se divertit avec les cinq [kamaguna|agréments des plaisirs sensuels] dont il est pourvu et nanti, on dirait un [deva|déva]. Mais je ne suis qu'un fermier, un chef de foyer, un contribuable amassant des richesses. Il faut vraiment que j'accomplisse des actions [punna|méritoires]. Et si, m'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, je [pabbaja|quittais la vie de foyer] pour le [anagariya|sans-foyer]?"
+    },
+    {
+      "pl": "“so aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya, appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyya. so evaṃ pabbajito samāno kāyena saṃvuto vihareyya, vācāya saṃvuto vihareyya, manasā saṃvuto vihareyya, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke.",
+      "fr": "Plus tard, ayant abandonné un petit patrimoine ou un grand patrimoine, ayant abandonné un petit cercle de relations ou un grand cercle de relations, s'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, il quitte la vie de foyer pour le [anagariya|sans-foyer]. Ayant ainsi [pabbaja|quitté la vie de foyer], il demeurerait [samvara|restreint] en [kaya|corps], il demeurerait [samvara|restreint] en parole, il demeurerait [samvara|restreint] en [citta|esprit], se satisfaisant du minimum en termes de nourriture et de vêtements, se plaisant à l'isolement."
+    },
+    {
+      "pl": "taṃ ce te purisā evamāroceyyuṃ: ‘yagghe, deva jāneyyāsi, yo te so puriso kassako gahapatiko karakārako rāsivaḍḍhako; so deva kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito. so evaṃ pabbajito samāno kāyena saṃvuto viharati, vācāya saṃvuto viharati, manasā saṃvuto viharati, ghāsacchādanaparamatāya santuṭṭho, abhirato paviveke”ti. api nu tvaṃ evaṃ vadeyyāsi: ‘etu me, bho, so puriso, punadeva hotu kassako gahapatiko karakārako rāsivaḍḍhako’ti?",
+      "fr": "Et si un homme vous annonçait: [i]“Sire, sachez que cet homme qui n'était qu'un fermier, un chef de foyer, un contribuable amassant des richesses, s'est rasé les cheveux et la barbe et ayant revêtu les robes ocres, il a [pabbaja|quitté la vie de foyer] pour le [anagariya|sans-foyer]. Ayant ainsi [pabbaja|quitté la vie de foyer], il demeure [samvara|restreint] en [kaya|corps], il demeure [samvara|restreint] en parole, il demeure [samvara|restreint] en [citta|esprit], se satisfaisant du minimum en termes de nourriture et de vêtements, se plaisant à l'isolement.”[/i] Est-ce que vous diriez: [i]“Faites revenir cet homme, pour qu'il redevienne un fermier, un chef de foyer, un contribuable amassant des richesses.”[/i]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante. atha kho naṃ mayameva abhivādeyyāmapi, paccuṭṭheyyāmapi, āsanenapi nimanteyyāma, abhinimanteyyāmapi naṃ cīvara-piṇḍapāta-senāsana-gilāna-ppaccaya-bhesajja-parikkhārehi, dhammikampissa rakkhāvaraṇaguttiṃ saṃvidaheyyāmā”ti.",
+      "fr": "—Pour sûr non, [bhante|Bhanté]. Au contraire, je lui rendrais hommage, je me lèverais [à son arrivée en signe de respect], je l'inviterais à s'asseoir et je lui offrirais des [civara|robes], de la [pindapata|nourriture d'aumônes], des [senasana|gîtes], des [bhesajja|remèdes] et des provisions pour les malades, et je lui procurerais la protection, la défense et la garde légitimes."
+    },
+    {
+      "pl": "“taṃ kiṃ maññasi, mahārāja, yadi evaṃ sante hoti vā sandiṭṭhikaṃ sāmaññaphalaṃ no vā”ti?",
+      "fr": "—Qu'en pensez-vous, Maharaja: puisqu'il en est ainsi, y a-t-il un fruit de la vie de renoncement qui soit [sanditthika|visible directement], ou pas?"
+    },
+    {
+      "pl": "“addhā kho, bhante, evaṃ sante hoti sandiṭṭhikaṃ sāmaññaphalan”ti.",
+      "fr": "—Certainement, [bhante|Bhanté], puisqu'il en est ainsi, il y a un fruit de la vie de renoncement qui est [sanditthika|visible directement]."
+    },
+    {
+      "pl": "“idaṃ kho te, mahārāja, mayā dutiyaṃ diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññattan”ti.",
+      "fr": "—Voici donc, Maharaja, quel est le deuxième fruit de la vie de renoncement qui est [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible] dont je vous fais part."
+    },
+    {
+      "pl": "Paṇīta-tara-sāmañña-phalaṃ ",
+      "fr": "Un fruit plus élevé de la vie de renoncement"
+    },
+    {
+      "pl": "“sakkā pana, bhante, aññampi diṭṭheva dhamme sandiṭṭhikaṃ sāmaññaphalaṃ paññapetuṃ imehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañcā”ti?",
+      "fr": "Est-il aussi possible, [bhante|Bhanté], de mettre en lumière un autre fruit de la vie de renoncement [sanditthika|visible directement] [ditthevadhamme|dans ce monde visible] qui soit plus excellent et plus élevé que ces fruits de la vie de renoncement [sanditthika|visibles directement]?"
+    },
+    {
+      "pl": "“sakkā, mahārāja. tena hi, mahārāja, suṇohi, sādhukaṃ manasi karohi, bhāsissāmī”ti.",
+      "fr": "C'est possible, Maharaja. Pour cela, Maharaja, écoutez et faites bien attention, je vais parler."
+    },
+    {
+      "pl": "“evaṃ, bhante”ti kho rājā māgadho ajātasattu vedehiputto bhagavato paccassosi. bhagavā etadavoca:",
+      "fr": "Oui, [bhante|Bhanté], répondit Ajatassattou Védéhipoutta, le roi du Magadha au [bhagava|Fortuné]. Celui-ci dit:"
+    },
+    {
+      "pl": "“idha, mahārāja, tathāgato loke uppajjati arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā. so imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti. so dhammaṃ deseti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāseti.",
+      "fr": "À cet égard, Maharaja, un Tathagata apparaît dans le monde, [@f_anussati#anussati-1-cl|un arahant véritablement éveillé, accompli en connaissance et en [bonne] conduite, sublime, connaisseur du monde, suprême guide des personnes désirant l'entraînement, enseignant des dévas et des humains, un Fortuné éveillé]. Il fait connaître ce monde avec ses [deva|[deva|déva]s], ses [mara|Maras], ses [brahma|Brahmas], ses [samana|renonçants] et [brahmana|brahmanes], avec cette génération de [deva|[deva|déva]s] et d'êtres humains, en en ayant fait lui-même l'expérience par [abhinna|connaissance directe]. Il enseigne un [dhamma|Dhamma] qui est bénéfique au début, bénéfique au milieu, bénéfique à la fin, avec la signification et le phrasé corrects, il présente la [brahmacariya|vie brahmique] qui est entièrement complète et pure."
+    },
+    {
+      "pl": "“taṃ dhammaṃ suṇāti gahapati vā gahapatiputto vā aññatarasmiṃ vā kule paccājāto. so taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati. so tena saddhāpaṭilābhena samannāgato iti paṭisañcikkhati: ‘sambādho gharāvāso rajopatho, abbhokāso pabbajjā. nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ. yaṃnūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajeyyan’ti.",
+      "fr": "Un chef de foyer ou le fils d'un chef de foyer, ou bien quelqu'un né dans une quelconque famille, entend cet [dhamma|enseignement]. Ayant entendu cet [dhamma|enseignement], il acquiert de la [saddha|conviction] envers le [tathagata|Tathagata]. Doué de cette [saddha|conviction] qu'il a acquise, il considère ceci: [i]“La vie de foyer est encombrante, c'est un chemin boueux; le départ du foyer, c'est le grand air. Il n'est pas facile, en vivant au foyer, de vivre la [brahmacariya|vie brahmique] qui est absolument complète et pure, polie comme une conque. Et si je me rasais les cheveux et la barbe, que je revêtais les robes ocres et que je [pabbaja|quittais la vie de foyer] pour le [anagariya|sans-foyer]?”[/i]"
+    },
+    {
+      "pl": "“so aparena samayena appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati.",
+      "fr": "Plus tard, ayant abandonné un petit patrimoine ou un grand patrimoine, ayant abandonné un petit cercle de relations ou un grand cercle de relations, s'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, il quitte la vie de foyer pour le [anagariya|sans-foyer]."
+    },
+    {
+      "pl": "“so evaṃ pabbajito samāno pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena samannāgato kusalena, parisuddhājīvo sīlasampanno, indriyesu guttadvāro, satisampajaññena samannāgato, santuṭṭho.",
+      "fr": "Ayant ainsi [pabbajja|quitté le foyer], il demeure [samvara|restreint] par la [samvara|restreinte] du [patimokkha|Pātimokkha], accompli en [bonne] conduite et dans son domaine [d'activité], voyant le danger dans la moindre des fautes, il entreprend les [sikkhapada|règles de l'entraînement] et s'y entraîne, s'adonnant à des [kamma|actions] corporelles et verbales qui sont avantageuses, ayant des [ajiva|moyens de subsistance] purs, étant accompli en [sila|vertu], [indriyesuguttadvarata|protégeant l'entrée de ses facultés sensorielles], pourvu de [sati|présence d'esprit] & [sampajanna|discernement attentif], [santuttha|satisfait [avec ce qu'il a]]."
+    },
+    {
+      "pl": "Cūḷa-sīlaṃ",
+      "fr": "La moindre section sur la vertu"
+    },
+    {
+      "pl": "“kathañca, mahārāja, bhikkhu sīlasampanno hoti? idha, mahārāja, bhikkhu pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti. nihitadaṇḍo nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati. idampissa hoti sīlasmiṃ.",
+      "fr": "Et comment, Maharaja, un [bhikkhu|mendiant] est-il accompli en [sila|vertu]? À cet égard, un [bhikkhu|mendiant], ayant abandonné la [panatipata|destruction de la vie], s'abstient de détruire la vie, et ayant déposé le bâton, déposé les armes, il demeure consciencieux, aimable, ayant de la sollicitude pour le bénéfice de tous les êtres vivants. Cela fait partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“adinnādānaṃ pahāya adinnādānā paṭivirato hoti dinnādāyī dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharati. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné l'[adinnadana|appropriation de ce qui n'a pas été donné], ne prenant que ce qui est donné, ne souhaitant que ce qui est donné, et ne volant pas, il demeure en étant lui-même purifié. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“abrahmacariyaṃ pahāya brahmacārī hoti ārācārī virato methunā gāmadhammā. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné [abrahmacariya|ce qui est contraire à la vie brahmique], il vit la [brahmacariya|vie brahmique], distant, s'abstenant de tout acte sexuel, qui est une chose du village. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“musāvādaṃ pahāya musāvādā paṭivirato hoti saccavādī saccasandho theto paccayiko avisaṃvādako lokassa. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné les [musavada|paroles fausses], il s'abstient des [musavada|paroles fausses], disant la vérité, honnête, digne de confiance, sincère, sans tromper son monde. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti; ito sutvā na amutra akkhātā imesaṃ bhedāya; amutra vā sutvā na imesaṃ akkhātā, amūsaṃ bhedāya. iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā, samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné les [pisunavaca|paroles médisantes], il s'abstient des [pisunavaca|paroles médisantes], il ne répète pas là-bas ce qu'il a entendu ici pour diviser ceux-là de ceux-ci, et il ne répète pas ici ce qu'il a entendu là-bas pour diviser ceux-ci de ceux-là; ainsi, il réconcilie ceux qui sont dans la discorde et promeut la concorde, il se ravit de la concorde, se plaît à la concorde, se réjouit de la concorde et prononce des paroles qui engendrent la concorde. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné les [pharusavaca|paroles acerbes], il s'abstient des [pharusavaca|paroles acerbes]: il prononce des paroles qui sont agréables à entendre, aimables, qui touchent le cœur, qui sont polies, désirées par la multitude, agréables pour la multitude. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ. idampissa hoti sīlasmiṃ.",
+      "fr": "Ayant abandonné les [samphappalapa|bavardages infructueux], il s'abstient des [samphappalapa|bavardages infructueux]: il parle au bon moment, il dit des choses factuelles, bénéfiques, en accord avec l'[dhamma|Enseignement], en accord avec la [vinaya|Discipline], il dit des choses utiles, au bon moment, pour une raison [définie], avec modération, et il dit des choses [@m_atthasamhita|profitables]. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“so bījagāma-bhūtagāma-samārambhā paṭivirato hoti, ekabhattiko hoti rattūparato, virato vikāla-bhojanā, nacca-gīta-vādita-visūka-dassanā paṭivirato hoti, mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā paṭivirato hoti, uccā-sayana-mahā-sayanā paṭivirato hoti, jātarūpa-rajata-paṭiggahaṇā paṭivirato hoti, āmaka-dhañña-paṭiggahaṇā paṭivirato hoti, āmaka-maṃsa-paṭiggahaṇā paṭivirato hoti, itthi-kumārika-paṭiggahaṇā paṭivirato hoti, dāsi-dāsa-paṭiggahaṇā paṭivirato hoti, ajeḷaka-paṭiggahaṇā paṭivirato hoti, kukkuṭasūkara-paṭiggahaṇā paṭivirato hoti, hatthi-gavāssavaḷavā-paṭiggahaṇā paṭivirato hoti, khetta-vatthu-paṭiggahaṇā paṭivirato hoti, dūteyya-pahiṇagaman-ānuyogā paṭivirato hoti, kayavikkayā paṭivirato hoti, tulākūṭa-kaṃsakūṭa-mānakūṭā paṭivirato hoti, ukkoṭana-vañcana-nikati-sāciyogā paṭivirato hoti, chedana-vadha-bandhana-viparāmosā-alopa-saha-sākārā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Il s'abstient d'endommager les graines ou les plantes, il ne mange qu'un repas dans la journée, s'abstenant de manger le soir, s'abstenant de manger dans l'après-midi, il s'abstient de chanter, danser, [d'écouter] de la musique et des divertissements, il s'abstient de porter des guirlandes, parfums, cosmétiques, parures et moyens de s'embellir, il s'abstient [de s'asseoir dans] des sièges ou [de se coucher dans] des lits élevés ou luxueux, il s'abstient d'accepter l'or et l'argent, il s'abstient d'accepter des graines non cuites ou de la viande crue, il s'abstient d'accepter des femmes et des jeunes filles, il s'abstient d'accepter des serfs hommes ou femmes, il s'abstient d'accepter chèvres et moutons, il s'abstient d'accepter volailles et cochons, il s'abstient d'accepter éléphants, bovins, chevaux et juments, il s'abstient d'accepter des champs ou des terres, il s'abstient de servir de messager et de porter des commissions, il s'abstient de s'engager dans le commerce du troc, il s'abstient de recourir aux fausses masses, aux faux métaux et aux fausses mesures, il s'abstient de recourir à la corruption, à la fraude, au trafic et à l'escroquerie, il s'abstient de blesser, frapper, capturer, agresser, piller ou commettre des violences. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "Majjhima-sīlaṃ",
+      "fr": "La section intermédiaire sur la vertu"
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ bījagāma-bhūtagāma-samārambhaṃ anuyuttā viharanti, seyyathidaṃ mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, iti evarūpā bījagāma-bhūtagāma-samārambhā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude d'endommager les graines ou les plantes telles que celles qui se développent sur la base de racines, de tiges, de tubes jointifs (bambous, roseaux, canne à sucre), de bourgeons, ou cinquièmement de graines, il s'abstient d'endommager de telles graines ou plantes. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ sannidhikāraparibhogaṃ anuyuttā viharanti, seyyathidaṃ annasannidhiṃ pānasannidhiṃ vatthasannidhiṃ yānasannidhiṃ sayanasannidhiṃ gandhasannidhiṃ āmisasannidhiṃ, iti vā iti evarūpā sannidhikāraparibhogā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude de stocker des denrées telles que nourriture, boissons, vêtements, véhicules, lits, parfums ou friandises, il s'abstient de stocker de telles denrées. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ visūkadassanaṃ anuyuttā viharanti, seyyathidaṃ naccaṃ gītaṃ vāditaṃ pekkhaṃ akkhānaṃ pāṇissaraṃ vetāḷaṃ kumbhathūṇaṃ sobhanakaṃ caṇḍālaṃ vaṃsaṃ dhovanaṃ hatthiyuddhaṃ assayuddhaṃ mahiṃsayuddhaṃ usabhayuddhaṃ ajayuddhaṃ meṇḍayuddhaṃ kukkuṭayuddhaṃ vaṭṭakayuddhaṃ daṇḍayuddhaṃ muṭṭhiyuddhaṃ nibbuddhaṃ uyyodhikaṃ balaggaṃ senābyūhaṃ anīkadassanaṃ iti vā iti evarūpā visūkadassanā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude d'aller voir des attractions telles que danses, chants, musique, pièces, récitations de légendes, claquements des mains, cymbales et tambours, spectacles, tours d'acrobates et de passe-passe, combats d'éléphants, combats de chevaux, combats de buffles, de taureaux, de boucs, de béliers, de coqs, combats de chars, de bâtons, combats de boxe, de lutte, manœuvres militairess, parades, défilés, inspections des troupes, il s'abstient d'aller voir de telles attractions. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ jūtappamādaṭṭhān-ānuyogaṃ anuyuttā viharanti, seyyathidaṃ aṭṭhapadaṃ dasapadaṃ ākāsaṃ parihārapathaṃ santikaṃ khalikaṃ ghaṭikaṃ salākahatthaṃ akkhaṃ paṅgacīraṃ vaṅkakaṃ mokkhacikaṃ ciṅgulikaṃ pattāḷhakaṃ rathakaṃ dhanukaṃ akkharikaṃ manesikaṃ yathāvajjaṃ iti vā iti evarūpā jūtappamādaṭṭhān-ānuyogā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude de jeux qui engendrent la négligence tels qu'échecs à 8 rangées, échecs à 10 rangées, échecs [i]“en l'air' (dans la tête)[/i], mikado, dés, jeux de bâtons, dessins avec les doigts enduits de couleurs, jeux de dés, souffler dans des tubes en feuilles, jeux avec des charrues miniatures, acrobaties, jeux avec des moulins miniature, avec des mètres mesureurs en feuilles, avec des chars miniature, jeux d'arcs, reconnaissance de lettres dessinées dans les airs ou sur le dos, devinettes, imitation de difformités, il s'abstient de tels jeux qui engendrent la négligence. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ uccāsayana-mahāsayanaṃ anuyuttā viharanti, seyyathidaṃ āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ tūlikaṃ vikatikaṃ uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ kuttakaṃ hatthattharaṃ assattharaṃ rathattharaṃ ajinappaveṇiṃ kadalimiga-pavarapaccattharaṇaṃ sauttaracchadaṃ ubhatolohita-kūpadhānaṃ iti vā iti evarūpā uccāsayana-mahāsayanā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude d'utiliser des lits fastueux et luxueux, tels que sofa, divan, couvre-lit à long poils, couvre-lit tacheté, couvre-lit en laine blanche, un couvre-lit en laine avec figures de fleurs, matelas de coton, couvre-lit de laine décoré de figures animales, couvre-lit de laine à franges, couvre-lit de laine à bordure double, couvre-lit de laine à bordure simple, drap de soie orné de pierres précieuses, drap fait de soie et orné de pierres précieuses, tapis pour danseuses, couverture utilisée pour monter un éléphant, couverture utilisée pour monter un cheval, couverture utilisée sur une charrette, couvre-lit fait de peau d'antilope, couvre-lit fait de peau raffinée de daim kadali, avec un dais et des coussins rouges des deux côtés, il s'abstient d'utiliser de tels lits fastueux et luxueux. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ maṇḍanavibhūsana-ṭṭhānānuyogaṃ anuyuttā viharanti, seyyathidaṃ ucchādanaṃ parimaddanaṃ nhāpanaṃ sambāhanaṃ ādāsaṃ añjanaṃ mālāgandhavilepanaṃ mukhacuṇṇaṃ mukhalepanaṃ hatthabandhaṃ sikhābandhaṃ daṇḍaṃ nāḷikaṃ asiṃ chattaṃ citrupāhanaṃ uṇhīsaṃ maṇiṃ vālabījaniṃ odātāni vatthāni dīghadasāni iti vā iti evarūpā maṇḍanavibhūsanaṭṭhānānuyogā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude d'utiliser des parures et moyens de s'embellir tels que huilage du [kaya|corps], massage, bains parfumés, shampooings, miroirs, mascaras, guirlandes, parfums et cosmétiques, maquillages, crèmes, bracelets, huppes, cannes [décorées], bouteilles [décorées], dagues, ombrelles, sandales, turbans, bijoux, fouets en queue de yak, vêtements blancs à longue bordure, il s'abstient d'utiliser de tels parures et moyens de s'embellir. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ tiracchānakathaṃ anuyuttā viharanti, seyyathidaṃ rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ pubbapetakathaṃ nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vā iti evarūpāya tiracchānakathāya paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude [de s'engager dans] des [i]“[tiracchanakatha|conversations animales]”[/i] telles que les conversations à propos de rois, à propos de voleurs, à propos de ministres, à propos d'armées, à propos de dangers, à propos de guerres, à propos de nourriture, à propos de boissons, à propos de vêtements, à propos de lits, à propos de guirlandes, à propos de parfums, à propos de proches relations, à propos de véhicules, à propos de villages, à propos de villes, à propos de cités, à propos de pays, à propos de femmes, à propos de héros, à propos de la rue, à propos de commérages du puits, conversations à propos des esprits défunts, conversations à propos de diverses distractions, conversations à propos de contes et légendes concernant le monde, de contes et légendes concernant l'océan, à propos de devenir comme ceci ou comme cela, il s'abstient [de s'engager dans] de telles [i]“[tiracchanakatha|conversations animales]”[/i]. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ viggāhikakathaṃ anuyuttā viharanti, seyyathidaṃ na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi, micchā paṭipanno tvamasi, ahamasmi sammā paṭipanno, sahitaṃ me, asahitaṃ te, pure vacanīyaṃ pacchā avaca, pacchā vacanīyaṃ pure avaca, adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosīti iti vā iti evarūpāya viggāhikakathāya paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude [de s'engager dans] des propos conflictuels tels que [i]“Vous ne comprenez pas cet [dhamma|Enseignement] & [vinaya|Discipline]. Moi, je discerne cet [dhamma|Enseignement] & [vinaya|Discipline]. Qu'est-ce que vous comprenez à cet [dhamma|Enseignement] & [vinaya|Discipline]? Vous pratiquez de manière erronée. Moi, je pratique de manière correcte. Moi, je suis cohérent, mais vous, vous ne l'êtes pas. Ce qui est à dire d'abord, vous l'avez dit ensuite; ce qui est à dire ensuite, vous l'avez dit d'abord. Vous avez inversé la procédure. Votre doctrine a été réfutée. Allez sauver votre doctrine. Vous avez été défaits, à moins que vous ne soyez capables de vous désembourber”[/i], il s'abstient [de s'engager dans] de tels propos conflictuels. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpaṃ dūteyyapahiṇagamanānuyogaṃ anuyuttā viharanti, seyyathidaṃ raññaṃ, rājamahāmattānaṃ, khattiyānaṃ, brāhmaṇānaṃ, gahapatikānaṃ, kumārānaṃ: ‘idha gaccha, amutrāgaccha, idaṃ hara, amutra idaṃ āharā’ti iti vā, iti evarūpā dūteyyapahiṇagamanānuyogā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], ont l'habitude de servir de commissionnaires, c'est-à-dire pour des rois, des ministres, des [khattiya|aristocrate]s, des [brahmana|brahmanes], des maîtres de maison ou des jeunes hommes [disant]: [i]“Viens ici, va là-bas, prends ça ici, emporte le là-bas”[/i], il s'abstient de servir de commissionnaire. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te kuhakā ca honti lapakā ca nemittikā ca nippesikā ca lābhena lābhaṃ nijigīṃsitāro ca, iti evarūpā kuhanalapanā paṭivirato hoti. idampissa hoti sīlasmiṃ”.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction], sont faux, flatteurs, insinuateurs, exigeants, et accumulent les acquisitions au moyen d'acquisitions, il s'abstient de telles paroles fausses et flatteries. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "Mahā-sīlaṃ",
+      "fr": "La grande section sur la vertu"
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ aṅgaṃ nimittaṃ uppātaṃ supinaṃ lakkhaṇaṃ mūsikacchinnaṃ aggihomaṃ dabbihomaṃ thusahomaṃ kaṇahomaṃ taṇḍulahomaṃ sappihomaṃ telahomaṃ mukhahomaṃ lohitahomaṃ aṅgavijjā vatthuvijjā khattavijjā sivavijjā bhūtavijjā bhūrivijjā ahivijjā visavijjā vicchikavijjā mūsikavijjā sakuṇavijjā vāyasavijjā pakkajjhānaṃ saraparittāṇaṃ migacakkaṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que [l'interprétation des marques sur] les membres, [l'interprétation des] augures, des météores, des rêves, des particularités physiques, des marques laissées par les souris en rongeant les vêtements, oblations au feu, à la louche, oblations d'épluchures [de riz], de farine de riz, de grains de riz, de beurre, d'huile, oblations [offertes par] la bouche, sacrifices de sang, chiromancie, géomancie, prédictions pour les officiers [du gouvernement], apaisement des démons dans les cimetières, exorcisme, divination de la terre, connaissance des serpents, des poisons, des scorpions, des rats, des oiseaux, des corbeaux, prédiction de la durée de vie, mise en place de charmes protecteurs, divination d'horoscope, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ maṇilakkhaṇaṃ vatthalakkhaṇaṃ daṇḍalakkhaṇaṃ satthalakkhaṇaṃ asilakkhaṇaṃ usulakkhaṇaṃ dhanulakkhaṇaṃ āvudhalakkhaṇaṃ itthilakkhaṇaṃ purisalakkhaṇaṃ kumāralakkhaṇaṃ kumārilakkhaṇaṃ dāsalakkhaṇaṃ dāsilakkhaṇaṃ hatthilakkhaṇaṃ assalakkhaṇaṃ mahiṃsalakkhaṇaṃ usabhalakkhaṇaṃ golakkhaṇaṃ ajalakkhaṇaṃ meṇḍalakkhaṇaṃ kukkuṭalakkhaṇaṃ vaṭṭakalakkhaṇaṃ godhālakkhaṇaṃ kaṇṇikalakkhaṇaṃ kacchapalakkhaṇaṃ migalakkhaṇaṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que la détermination des gemmes porte-bonheur ou porte-malheur, des vêtements, des bâtons, des lances, des épées, des flèches, des arcs, des armes, des femmes, des hommes, des jeunes hommes, des jeunes filles, des hommes serfs, des femmes serfs, des éléphants, des chevaux, des buffles, des taureaux, des vaches, des chèvres, des moutons, des volailles, des cailles, des iguanes, des lapins, des tortues, ou la détermination des daims porte-bonheur ou porte-malheur, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ raññaṃ niyyānaṃ bhavissati, raññaṃ aniyyānaṃ bhavissati, abbhantarānaṃ raññaṃ upayānaṃ bhavissati, bāhirānaṃ raññaṃ apayānaṃ bhavissati, bāhirānaṃ raññaṃ upayānaṃ bhavissati, abbhantarānaṃ raññaṃ apayānaṃ bhavissati, abbhantarānaṃ raññaṃ jayo bhavissati, bāhirānaṃ raññaṃ parājayo bhavissati, bāhirānaṃ raññaṃ jayo bhavissati, abbhantarānaṃ raññaṃ parājayo bhavissati, iti imassa jayo bhavissati, imassa parājayo bhavissati iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que [faire des prédictions:] le roi avancera, le roi reculera, notre roi attaquera et le roi ennemi battra en retraite, le roi ennemi attaquera et notre roi battra en retraite, notre roi sera vainqueur et le roi ennemi sera défait, le roi ennemi sera vainqueur et notre roi sera défait, ainsi il y aura victoire pour celui-ci et défaite pour celui-là, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ candaggāho bhavissati, sūriyaggāho bhavissati, nakkhattaggāho bhavissati, candimasūriyānaṃ pathagamanaṃ bhavissati, candimasūriyānaṃ uppathagamanaṃ bhavissati, nakkhattānaṃ pathagamanaṃ bhavissati, nakkhattānaṃ uppathagamanaṃ bhavissati, ukkāpāto bhavissati, disāḍāho bhavissati, bhūmicālo bhavissati, devadudrabhi bhavissati, candimasūriyanakkhattānaṃ uggamanaṃ ogamanaṃ saṃkilesaṃ vodānaṃ bhavissati, evaṃvipāko candaggāho bhavissati, evaṃvipāko sūriyaggāho bhavissati, evaṃvipāko nakkhattaggāho bhavissati, evaṃvipākaṃ candimasūriyānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ candimasūriyānaṃ uppathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ uppathagamanaṃ bhavissati, evaṃvipāko ukkāpāto bhavissati, evaṃvipāko disāḍāho bhavissati, evaṃvipāko bhūmicālo bhavissati, evaṃvipāko devadudrabhi bhavissati, evaṃvipākaṃ candimasūriyanakkhattānaṃ uggamanaṃ ogamanaṃ saṃkilesaṃ vodānaṃ bhavissati iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que [faire des prédictions:] il y aura une éclipse de lune, il y aura une éclipse de soleil, il y aura une éclipse d'étoile, la lune et le soleil suivront leur course, la lune et le soleil sortiront de leur course, les étoiles suivront leur course, les étoiles sortiront de leur course, il y aura des chutes de météores, il y aura une aurore dans le ciel, il y aura un tremblement de terre, il y aura un grondement dans le ciel, il y aura un lever, un coucher, un assombrissement, un éclaircissement de la lune, du soleil, des étoiles, voici quel sera le résultat de l'éclipse de lune, voici quel sera le résultat de l'éclipse de soleil, voici quel sera le résultat de l'éclipse d'étoile, voici quel sera le résultat du fait que la lune et le soleil suivront leur course, voici quel sera le résultat du fait que la lune et le soleil sortiront de leur course, voici quel sera le résultat du fait que les étoiles suivront leur course, voici quel sera le résultat du fait que les étoiles sortiront de leur course, voici quel sera le résultat du tremblement de terre, voici quel sera le résultat du grondement dans le ciel, voici quel sera le résultat du fait qu'il y aura un lever, un coucher, un assombrissement, un éclaircissement de la lune, du soleil, des étoiles, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo bhavissati, ārogyaṃ bhavissati, muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, lokāyataṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que [faire des prédictions:] il y aura des pluies abondantes, il y aura une sécheresse, il y aura de bonnes récoltes, il y aura une famine, il y aura de la sécurité, il y aura du danger, il y aura des maladies, il n'y aura pas de maladies, ou bien gagnent leur vie en faisant des calculs, de la comptabilité, des computations, de la composition de poésie ou des arts matérialistes, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ āvāhanaṃ vivāhanaṃ saṃvaraṇaṃ vivaraṇaṃ saṅkiraṇaṃ vikiraṇaṃ subhagakaraṇaṃ dubbhagakaraṇaṃ viruddhagabbhakaraṇaṃ jivhānibandhanaṃ hanusaṃhananaṃ hatthābhijappanaṃ hanujappanaṃ kaṇṇajappanaṃ ādāsapañhaṃ kumārikapañhaṃ devapañhaṃ ādiccupaṭṭhānaṃ mahatupaṭṭhānaṃ abbhujjalanaṃ sirivhāyanaṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels qu'arranger des dates de bon augure pour les mariages - celles où la mariée devrait être amenée chez son mari ou celle où elle devrait quitter la famille de ses parents -, pour les fiançailles ou pour les divorces, pour collecter ses créances ou pour investir, réciter des sortilèges pour rendre chanceux ou malchanceux, pour soigner des femmes ayant réalisé un avortement, pour nouer la langue de quelqu'un, pour paralyser ses mâchoires, pour lui faire perdre le contrôle de ses mains, pour lui faire perdre le contrôle de ses mâchoires, ou pour le rendre sourd, [obtenir des réponses à] des questions posées à [un [citta|esprit] dans] un miroir, dans une jeune fille, ou un [deva|déva], vénérer le soleil, vénérer le Grand Brahma, cracher des flammes, ou invoquer la chance, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ santikammaṃ paṇidhikammaṃ bhūtakammaṃ bhūrikammaṃ vassakammaṃ vossakammaṃ vatthukammaṃ vatthuparikammaṃ ācamanaṃ nhāpanaṃ juhanaṃ vamanaṃ virecanaṃ uddhaṃvirecanaṃ adhovirecanaṃ sīsavirecanaṃ kaṇṇatelaṃ nettatappanaṃ natthukammaṃ añjanaṃ paccañjanaṃ sālākiyaṃ sallakattiyaṃ dārakatikicchā, mūlabhesajjānaṃ anuppadānaṃ, osadhīnaṃ paṭimokkho iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato hoti. idampissa hoti sīlasmiṃ.",
+      "fr": "Tandis que certains vénérables [samana|renonçants] & [brahmana|brahmanes], ayant consommé la nourriture donnée par [saddha|conviction] gagnent leur vie au moyen de sciences [i]“animales”[/i], avec des [ajiva|moyens de subsistance] erronés tels que promettre des offrandes aux déités pour leurs faveurs, satisfaire ces faveurs, démonologie, réciter des sortilèges dans des maisons en terre, susciter la virilité, susciter l'impotence, préparer les sites avant la construction, consacrer les sites avant la construction, faire des cérémonies de bains de bouche et de bains, offrir des feux sacrificiels, administrer des vomitifs, des purgatifs, des purgatifs par le haut, des purgatifs par le bas, des purgatifs par la tête, des huiles pour les oreilles, des gouttes pour les yeux, des traitements par le nez, des onguents, des contre-onguents, pratiquer la chirurgie sur les yeux, la chirurgie générale, la pédiatrie, administrer des racines médicinales, combiner des herbes médicinales, il s'abstient de gagner sa vie au moyen de telles sciences [i]“animales”[/i], avec de tels [ajiva|moyens de subsistance] erronés. Cela fait aussi partie de sa [sila|vertu]."
+    },
+    {
+      "pl": "“sa kho so, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. seyyathāpi mahārāja, rājā khattiyo muddhābhisitto nihatapaccāmitto na kutoci bhayaṃ samanupassati, yadidaṃ paccatthikato; evameva kho, mahārāja, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ samanupassati, yadidaṃ sīlasaṃvarato. so iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ paṭisaṃvedeti. evaṃ kho, mahārāja, bhikkhu sīlasampanno hoti.",
+      "fr": "Un [bhikkhu|mendiant] ainsi accompli en [sila|vertu], Maharaja, ne voit aucun danger du fait de sa [samvara|restreinte] par la [sila|vertu]. Tout comme un roi [khattiya|aristocrate] bien consacré ayant défait ses ennemis ne voit aucun danger venant de ses ennemis, de la même manière, un [bhikkhu|mendiant] ainsi accompli en [sila|vertu] ne voit aucun danger du fait de sa [samvara|restreinte] par la [sila|vertu]. Doué de cette [ariya|noble] [khandha|accumulation] de [sila|vertu], il ressent intérieurement le [sukha|bien-être] d'être [anavajja|irréprochable]. Voici, Maharaja, comment un [bhikkhu|mendiant] est accompli en [sila|vertu]."
+    },
+    {
+      "pl": "Indriyasaṃvaro",
+      "fr": "La restreinte des facultés"
+    },
+    {
+      "pl": "“kathañca, mahārāja, bhikkhu indriyesu guttadvāro hoti? idha, mahārāja, bhikkhu cakkhunā rūpaṃ disvā mā nimittaggāhī hohi mānubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjāhi; rakkhāhi cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjāhi.",
+      "fr": "Et comment, Maharaja, un [bhikkhu|mendiant] [indriyesuguttadvarata|protège-t-il l'entrée de ses facultés sensorielles]? À cet égard, Maharaja, [@f_samvara#is-eye|un mendiant, en voyant une forme avec l'œil, ne saisit pas un aspect, ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'œil, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'œil; il entreprend la restreinte de la faculté de l'œil.]"
+    },
+    {
+      "pl": "sotena saddaṃ sutvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ sotindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati sotindriyaṃ; sotindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-ear|En entendant un son avec l'oreille, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'oreille, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'oreille; il entreprend la restreinte de la faculté de l'oreille.]"
+    },
+    {
+      "pl": "ghāṇena gandhaṃ ghāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ ghāṇindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati ghāṇindriyaṃ; ghāṇindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-nose|En sentant une odeur avec le nez, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du nez, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du nez; il entreprend la restreinte de la faculté du nez.]"
+    },
+    {
+      "pl": "jivhāya rasaṃ sāyitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ jivhindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati jivhindriyaṃ; jivhindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-tongue|En goûtant une saveur avec la langue, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de la langue, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de la langue; il entreprend la restreinte de la faculté de la langue.]"
+    },
+    {
+      "pl": "kāyena phoṭṭhabbaṃ phusitvā na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ kāyindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati kāyindriyaṃ; kāyindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-body|En touchant une sensation corporelle avec le corps, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté du corps, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté du corps; il entreprend la restreinte de la faculté du corps.]"
+    },
+    {
+      "pl": "manasā dhammaṃ viññāya na nimitta·ggāhī hoti n·ānubyañjana·ggāhī yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ, abhijjhā·domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati manindriyaṃ; manindriye saṃvaraṃ āpajjati.",
+      "fr": "[@f_samvara#is-mind|En prenant conscience d'un phénomène mental avec l'esprit, il ne saisit pas un aspect, il ne saisit pas un détail sur la base duquel, s'il demeurait sans restreindre la faculté de l'esprit, la convoitise & déplaisance mentale, ainsi que des états mentaux malsains et désavantageux pourraient l'envahir; il poursuit la voie de sa restreinte; il garde la faculté de l'esprit; il entreprend la restreinte de la faculté de l'esprit.]"
+    },
+    {
+      "pl": "so iminā ariyena indriyasaṃvarena samannāgato ajjhattaṃ abyāsekasukhaṃ paṭisaṃvedeti. evaṃ kho, mahārāja, bhikkhu indriyesu guttadvāro hoti.",
+      "fr": "Doué de cette [ariya|noble] [samvara|restreinte] des [indriya|facultés], il ressent intérieurement un pur [sukha|bien-être]. Voici, Maharaja, comment un [bhikkhu|mendiant] [indriyesuguttadvarata|protège l'entrée de ses facultés sensorielles]."
+    },
+    {
+      "pl": "Satisampajaññaṃ",
+      "fr": "Présence d'esprit et discernement attentif"
+    },
+    {
+      "pl": "“kathañca, mahārāja, bhikkhu satisampajaññena samannāgato hoti? idha, mahārāja, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. evaṃ kho, mahārāja, bhikkhu satisampajaññena samannāgato hoti.",
+      "fr": "Et comment, Maharaja, un [bhikkhu|mendiant] est-ilpourvu de [sati|présence d'esprit] & [sampajanna|discernement attentif]? À cet égard, Maharaja, [@f_sampajanna|un bhikkhu, lorsqu'il s'approche et lorsqu'il s'en va, il le fait avec un discernement attentif; lorsqu'il regarde en avant et lorsqu'il regarde alentours, il le fait avec un discernement attentif; lorsqu'il fléchit et lorsqu'il étend [ses membres], il le fait avec un discernement attentif; lorsqu'il porte la robe-manteau, le bol et les robes, il le fait avec un discernement attentif; lorsqu'il mange, lorsqu'il boit, lorsqu'il mâche, lorsqu'il goûte [la nourriture], il le fait avec un discernement attentif; lorsqu'il s'occupe des actes de déféquer et d'uriner, il le fait avec un discernement attentif; lorsqu'il marche, lorsqu'il se tient debout, lorsqu'il est assis, lorsqu'il dort, lorsqu'il est éveillé, lorsqu'il parle et lorsqu'il est silencieux, il le fait avec un discernement attentif.] Voici, Maharaja, comment un [bhikkhu|mendiant] est pourvu de [sati|présence d'esprit] & [sampajanna|discernement attentif]."
+    },
+    {
+      "pl": "Santoso",
+      "fr": "Le contentement"
+    },
+    {
+      "pl": "“kathañca, mahārāja, bhikkhu santuṭṭho hoti? idha, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena, kucchiparihārikena piṇḍapātena. so yena yeneva pakkamati, samādāyeva pakkamati. seyyathāpi, mahārāja, pakkhī sakuṇo yena yeneva ḍeti, sapattabhārova ḍeti. evameva kho, mahārāja, bhikkhu santuṭṭho hoti kāyaparihārikena cīvarena kucchiparihārikena piṇḍapātena. so yena yeneva pakkamati, samādāyeva pakkamati. evaṃ kho, mahārāja, bhikkhu santuṭṭho hoti.",
+      "fr": "Et comment, Maharaja, un [bhikkhu|mendiant] est-il [santuttha|satisfait [avec ce qu'il a]]? À cet égard, un [bhikkhu|mendiant] se [santuttha|satisfait] d'une [civara|robe] pour prendre soin de son [kaya|corps] et de la [pindapata|nourriture d'aumônes] pour prendre soin de son estomac. Où qu'il s'en aille, il s'en va en n'emportant que celles-ci. Tout comme un oiseau ailé, où qu'il s'envole, ne s'envole qu'avec ses ailes pour seul fardeau, de la même manière, un [bhikkhu|mendiant] se [santuttha|satisfait] d'une [civara|robe] pour prendre soin de son [kaya|corps] et de la [pindapata|nourriture d'aumônes] pour prendre soin de son estomac. Où qu'il s'en aille, il s'en va en n'emportant que celles-ci. Voici, Maharaja, comment un [bhikkhu|mendiant] est [santuttha|satisfait [avec ce qu'il a]]."
+    },
+    {
+      "pl": "Nīvaraṇappahānaṃ",
+      "fr": "L'abandon des obstructions"
+    },
+    {
+      "pl": "“so iminā ca ariyena sīlakkhandhena samannāgato, iminā ca ariyena indriyasaṃvarena samannāgato, iminā ca ariyena satisampajaññena samannāgato, imāya ca ariyāya santuṭṭhiyā samannāgato, vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ. so pacchābhattaṃ piṇḍapātappaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.",
+      "fr": "Doué de cette [ariya|noble] [khandha|accumulation] de [sila|vertu], doué de cette [ariya|noble] [samvara|restreinte] des [indriya|facultés], doué de cette [ariya|noble] [sati|présence d'esprit] & [sampajanna|discernement attentif], doué de cette [ariya|noble] [santuttha|satisfaction [avec ce qu'il a]], [@f_vivitta|il a recoursà un lieu de séjour isolé: une forêt, le pied d'un arbre, une colline, une grotte, une caverne, un cimetière, un maquis forestier, le ciel ouvert ou un tas de paille. De retour des aumônes de nourriture, après son repas, il s'assoit jambes croisées, maintenant [son] corps droit, et mettant en place [sa] présence d'esprit entre le nez et la bouche.]"
+    },
+    {
+      "pl": "“so abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti. byāpādappadosaṃ pahāya abyāpannacitto viharati, sabbapāṇabhūtahitānukampī byāpādappadosā cittaṃ parisodheti. thinamiddhaṃ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṃ parisodheti. uddhaccakukkuccaṃ pahāya anuddhato viharati, ajjhattaṃ vūpasantacitto uddhaccakukkuccā cittaṃ parisodheti. vicikicchaṃ pahāya tiṇṇavicikiccho viharati akathaṃkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti.",
+      "fr": "[@f_nivarana|Ayant abandonné la convoitise envers le monde, il reste avec un esprit dénué de convoitise, il purifie son esprit de la convoitise; ayant abandonné la malveillance et la haine, il reste avec un esprit dénué de malveillance, rempli de sollicitude pour la prospérité de tous les êtres vivants, il purifie son esprit de la malveillance; ayant abandonné la torpeur & somnolence, il reste dénué de torpeur & somnolence, percevant la lumière, présent d'esprit, doué d'un discernement attentif, il purifie son esprit de la torpeur & somnolence; ayant abandonné l'agitation mentale & préoccupation, il reste calme, avec un esprit intérieurement apaisé, il purifie son esprit de l'agitation mentale & préoccupation; ayant abandonné le doute, il reste au-delà du doute, sans confusion par rapport aux états mentaux avantageux, il purifie son esprit du doute.]"
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso iṇaṃ ādāya kammante payojeyya. tassa te kammantā samijjheyyuṃ, so yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ kareyya, siyā cassa uttariṃ avasiṭṭhaṃ dārabharaṇāya. tassa evamassa: ‘ahaṃ kho pubbe iṇaṃ ādāya kammante payojesiṃ. tassa me te kammantā samijjhiṃsu. sohaṃ yāni ca porāṇāni iṇamūlāni, tāni ca byantiṃ akāsiṃ, atthi ca me uttariṃ avasiṭṭhaṃ dārabharaṇāyā’ti. so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.",
+      "fr": "Imaginez, Maharaja, qu'un individu ayant contracté une dette se mette au travail. Son travail connaîtrait du succès, il rembourserait ses anciennes dettes, et il en resterait assez pour l'entretien de sa femme. Il se dirait: [i]“Auparavant, j'avais contracté une dette, mais je me suis mis au travail. Mon travail a connu du succès, j'ai remboursé mes anciennes dettes, et il en reste assez pour l'entretien de ma femme.”[/i] En raison de cela, il obtiendrait une [pamojja|joie], il serait pris de [somanassa|gaieté]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso ābādhiko assa dukkhito bāḷhagilāno; bhattañcassa nacchādeyya, na cassa kāye balamattā. so aparena samayena tamhā ābādhā mucceyya; bhattaṃ cassa chādeyya, siyā cassa kāye balamattā. tassa evamassa: ‘ahaṃ kho pubbe ābādhiko ahosiṃ dukkhito bāḷhagilāno; bhattañca me nacchādesi, na ca me āsi kāye balamattā. somhi etarahi tamhā ābādhā mutto; bhattañca me chādeti, atthi ca me kāye balamattā’ti. so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.",
+      "fr": "Imaginez, Maharaja, qu'un individu soit en proie à la maladie, souffrant, gravement malade; il ne digérerait pas sa nourriture et son [kaya|corps] serait sans force. Plus tard, il guérirait de cette maladie, il digérerait sa nourriture et son [kaya|corps] regagnerait de la force. Il se dirait: [i]“Auparavant, j'étais en proie à la maladie, souffrant, gravement malade; je ne digérais pas ma nourriture et mon [kaya|corps] était sans force. Mais maintenant, j'ai guéri de cette maladie, je digère ma nourriture et mon [kaya|corps] a regagné de la force.”[/i] En raison de cela, il obtiendrait une [pamojja|joie], il serait prise de [somanassa|gaieté]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso bandhanāgāre baddho assa. so aparena samayena tamhā bandhanāgārā mucceyya sotthinā abbhayena, na cassa kiñci bhogānaṃ vayo. tassa evamassa: ‘ahaṃ kho pubbe bandhanāgāre baddho ahosiṃ, somhi etarahi tamhā bandhanāgārā mutto sotthinā abbhayena. natthi ca me kiñci bhogānaṃ vayo’ti. so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.",
+      "fr": "Imaginez, Maharaja, qu'un individu soit enfermé dans une prison. Plus tard, il serait libéré de cette prison, en sécurité et hors de danger, sans aucune perte de biens. Il se dirait: [i]“Auparavant, j'étais enfermé dans une prison. Mais maintenant, je suis libéré de cette prison, en sécurité et sans danger, sans aucune perte de biens.”[/i] En raison de cela, il obtiendrait une [pamojja|joie], il serait prise de [somanassa|gaieté]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso dāso assa anattādhīno parādhīno na yenakāmaṃgamo. so aparena samayena tamhā dāsabyā mucceyya attādhīno aparādhīno bhujisso yenakāmaṃgamo. tassa evamassa: ‘ahaṃ kho pubbe dāso ahosiṃ anattādhīno parādhīno na yenakāmaṃgamo. somhi etarahi tamhā dāsabyā mutto attādhīno aparādhīno bhujisso yenakāmaṃgamo’ti. so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.",
+      "fr": "Imaginez, Maharaja, qu'un individu soit un serf, sans indépendance, dépendant d'un autre, ne pouvant aller comme bon lui semble. Plus tard, il serait libéré de cet esclavage, indépendant, ne dépendant pas d'un autre, un homme libre pouvant aller comme bon lui semble. Il se dirait: [i]“Auparavant, j'étais un serf, sans indépendance, dépendant d'un autre, ne pouvant aller comme bon me semblait. Mais maintenant, je suis libéré de cet esclavage, indépendant, ne dépendant pas d'un autre, pouvant aller comme bon me semble.”[/i] En raison de cela, il obtiendrait une [pamojja|joie], il serait prise de [somanassa|gaieté]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso sadhano sabhogo kantāraddhānamaggaṃ paṭipajjeyya dubbhikkhaṃ sappaṭibhayaṃ. so aparena samayena taṃ kantāraṃ nitthareyya sotthinā, gāmantaṃ anupāpuṇeyya khemaṃ appaṭibhayaṃ. tassa evamassa: ‘ahaṃ kho pubbe sadhano sabhogo kantāraddhānamaggaṃ paṭipajjiṃ dubbhikkhaṃ sappaṭibhayaṃ. somhi etarahi taṃ kantāraṃ nitthiṇṇo sotthinā, gāmantaṃ anuppatto khemaṃ appaṭibhayan’ti. so tatonidānaṃ labhetha pāmojjaṃ, adhigaccheyya somanassaṃ.",
+      "fr": "Imaginez, Maharaja, qu'un individu [transportant] des richesses et des biens, voyage sur une longue route dangereuse dans le désert, sans provisions. Plus tard, il sortirait de ce désert en sécurité et il atteindrait un village, soulagé et hors de danger. Il se dirait: [i]“Auparavant, je voyageais avec des richesses et des biens sur une longue route dangereuse dans le désert, sans provisions. Mais maintenant, je suis sorti de ce désert en sécurité et j'ai atteint un village, soulagé et hors de danger.”[/i] En raison de cela, il obtiendrait une [pamojja|joie], il serait prise de [somanassa|gaieté]."
+    },
+    {
+      "pl": "“evameva kho, mahārāja, bhikkhu yathā iṇaṃ yathā rogaṃ yathā bandhanāgāraṃ yathā dāsabyaṃ yathā kantāraddhānamaggaṃ, evaṃ ime pañca nīvaraṇe appahīne attani samanupassati. seyyathāpi, mahārāja, yathā āṇaṇyaṃ yathā ārogyaṃ yathā bandhanāmokkhaṃ yathā bhujissaṃ yathā khemantabhūmiṃ; evameva kho, mahārāja, bhikkhu ime pañca nīvaraṇe pahīne attani samanupassati.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant] considère ces cinq [nivarana|obstructions], lorsqu'elles ne sont pas abandonnées en lui, comme une dette, comme une maladie, comme une prison, comme un esclavage, comme une long route dans le désert. Mais lorsqu'elles sont abandonnées en lui, il considère l'absence de ces cinq [nivarana|obstructions] comme une absence de dette, comme une bonne santé, comme une libération de prison, comme la liberté de l'esclavage, comme un endroit sans danger."
+    },
+    {
+      "pl": "“tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṃ jāyati; pamuditassa pīti jāyati; pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+      "fr": "Lorsqu'il voit que ces cinq [nivarana|obstructions] sont abandonnée en lui, une [pamojja|joie] apparaît en lui. Chez celui qui est dans la [pamojja|joie], l'[piti|exaltation] apparaît. Chez celui qui a un [mana|mental] exalté, le [kaya|corps] se calme. Celui dont le [kaya|corps] est calme demeure dans le [sukha|bien-être]. L'[citta|esprit] de celui qui est dans le [sukha|bien-être] se concentre."
+    },
+    {
+      "pl": "Paṭhamajjhāna",
+      "fr": "Le premier jhana"
+    },
+    {
+      "pl": "“so vivicceva kāmehi, vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. so imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti.",
+      "fr": "[@f_4jhana#1-cl|Séparé des plaisirs sensuels, séparé des états mentaux désavantageux, il entre et demeure dans le premier jhana, qui s'accompagne de pensées actives et passives, avec exaltation et bien-être engendrés par la séparation.] Il baigne, infuse, remplit et imprègne ce même [kaya|corps] de l'[piti|exaltation] engendrée par la [viveka|séparation], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné de l'[piti|exaltation] engendrée par la [viveka|séparation]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya, sāyaṃ nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca paggharaṇī.",
+      "fr": "Imaginez, Maharaja, un commis de bain expérimenté ou l'apprenti d'un commis de bain qui, ayant répandu de la poudre de bain sur une assiette en métal, la malaxerait en y aspergeant de l'eau, faisant de la boule de poudre de bain un mélange onctueux, la transformant en un mélange onctueux, de telle sorte qu'elle soit imprégnée à l'intérieur comme à l'extérieur de mélange onctueux sans pour autant que celui-ci se mette à en couler."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant] baigne, infuse, remplit et imprègne ce même [kaya|corps] de l'[piti|exaltation] engendrée par la [viveka|séparation], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné de l'[piti|exaltation] engendrée par la [viveka|séparation]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Dutiyajjhāna",
+      "fr": "Le deuxième jhāna"
+    },
+    {
+      "pl": "“puna caparaṃ, mahārāja, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. so imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti.",
+      "fr": "Ensuite, Maharaja, un [bhikkhu|mendiant], [@f_4jhana#2-cl|avec l'apaisement des pensées actives et passives, entre et demeure dans le deuxième jhana, avec tranquillisation intérieure et unification de l'esprit, sans pensées actives ni passives, avec exaltation et bien-être engendrés par la concentration.] Il baigne, infuse, remplit et imprègne ce même [kaya|corps] de l'[piti|exaltation] & [sukha|bien-être] engendrés par la [samadhi|concentration], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné de l'[piti|exaltation] & [sukha|bien-être] engendrés par la [samadhi|concentration]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, udakarahado gambhīro ubbhidodako tassa nevassa puratthimāya disāya udakassa āyamukhaṃ, na dakkhiṇāya disāya udakassa āyamukhaṃ, na pacchimāya disāya udakassa āyamukhaṃ, na uttarāya disāya udakassa āyamukhaṃ, devo ca na kālenakālaṃ sammādhāraṃ anuppaveccheyya. atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya, nāssa kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa.",
+      "fr": "Imaginez, Maharaja, une étendue d'eau alimentée par une source profonde. Elle ne serait alimentée ni par des eaux venant de l'est, ni par des eaux venant de l'ouest, ni par des eaux venant du nord, ni par des eaux venant du sud, et elle ne serait pas alimentée régulièrement par des pluies adéquates. Alors le courant d'eau fraîche jaillissant du fond de l'étendue d'eau baignerait, infuserait, remplirait et imprégnerait le lac d'eau fraîche, de telle manière qu'il n'y aurait rien dans toute l'étendue d'eau qui ne soit imprégné d'eau fraîche."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant] baigne, infuse, remplit et imprègne ce même [kaya|corps] de l'[piti|exaltation] & [sukha|bien-être] engendrés par la [samadhi|concentration], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné de l'[piti|exaltation] & [sukha|bien-être] engendrés par la [samadhi|concentration]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Tatiyajjhāna",
+      "fr": "Le troisième jhāna"
+    },
+    {
+      "pl": "“puna caparaṃ, mahārāja, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti, tatiyaṃ jhānaṃ upasampajja viharati. so imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti.",
+      "fr": "Ensuite, Maharaja, un [bhikkhu|mendiant], [@f_4jhana#3-cl|avec la disparition de l'exaltation, il demeure équanime, présent d'esprit et doué d'un discernement attentif, il entre et demeure dans le troisième jhana et ressent dans le corps le bien-être que les êtres nobles décrivent: “équanime et présent d'esprit, il séjourne dans le bien-être”.] Il baigne, infuse, remplit et imprègne ce même [kaya|corps] du [sukha|bien-être] sans [piti|exaltation], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné du [sukha|bien-être] sans [piti|exaltation]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni antonimuggaposīni, tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni paripūrāni paripphuṭāni, nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena vārinā apphuṭaṃ assa.",
+      "fr": "C'est tout comme, Maharaja, dans une mare à lotus bleus ou dans une mare à lotus rouges ou dans une mare à lotus blancs, certains lotus bleus, rouges ou blancs, étant nés dans l'eau, poussent dans l'eau sans en émerger, fleurissent submergés, et sont baignés, infusés, remplis et imprégnés d'eau fraîche du sommet aux racines, de telle manière qu'il n'y ait rien dans ces lotus bleus, rouges ou blancs qui ne soit imprégné d'eau fraîche."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti parippharati, nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant] baigne, infuse, remplit et imprègne ce même [kaya|corps] du [sukha|bien-être] sans [piti|exaltation], de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit imprégné du [sukha|bien-être] sans [piti|exaltation]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Catutthajjhāna",
+      "fr": "Le quatrième jhāna"
+    },
+    {
+      "pl": "“puna caparaṃ, mahārāja, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. so imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti.",
+      "fr": "Ensuite, Maharaja, un [bhikkhu|mendiant], [@f_4jhana#4-cl|abandonnant le bien-être et abandonnant le mal-être, la plaisance et la déplaisance mentales ayant auparavant disparu, entre et demeure dans le quatrième jhana, qui est sans mal-être ni bien-être, purifié par la présence d'esprit due à l'équanimité.] Il se tient assis, ayant imprégné ce même [kaya|corps] avec un [citta|esprit] purifié, immaculé, de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit touché par son [citta|esprit] purifié, immaculé."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso odātena vatthena sasīsaṃ pārupitvā nisinno assa, nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa. evameva kho, mahārāja, bhikkhu imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti, nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti.",
+      "fr": "C'est tout comme, Maharaja, si une personne se tenait assise recouverte d'un vêtement blanc jusqu'à la tête, de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit touché par le vêtement blanc. De la même manière, Maharaja, un [bhikkhu|mendiant] se tient assis, ayant imprégné ce même [kaya|corps] avec un [citta|esprit] purifié, immaculé, de telle manière qu'il n'y ait rien dans tout son [kaya|corps] qui ne soit touché par son [citta|esprit] purifié, immaculé."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Vipassanāñāṇaṃ",
+      "fr": "La connaissance par la vision discernante"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti. so evaṃ pajānāti: ‘ayaṃ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādana-parimaddana-bhedana-viddhaṃsana-dhammo. idañca pana me viññāṇaṃ ettha sitaṃ ettha paṭibaddhan’ti.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la [nanadassana|connaissance & vision]. Il comprend: [i]“Ceci est mon [kaya|corps], il est physique, composé des quatre grands éléments, produit par mère et père, se nourrissant de riz et de gruau, par nature sujet à l'[anicca|impermanence], à l'abrasion, au frottement, au démembrement, à la destruction. Et ceci est ma [vinnana|Conscience], elle en dépend, elle y est attachée.”[/i]"
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno. tatrāssa suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā. tamenaṃ cakkhumā puriso hatthe karitvā paccavekkheyya: ‘ayaṃ kho maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho vippasanno anāvilo sabbākārasampanno; tatridaṃ suttaṃ āvutaṃ nīlaṃ vā pītaṃ vā lohitaṃ vā odātaṃ vā paṇḍusuttaṃ vā’ti.",
+      "fr": "Imaginez, Maharaja, un bijou en béryl, brillant, précieux, octogonal, bien coupé, transparent, pur, sans défaut, et excellent à tout point de vue. Il serait traversé par un fil bleu, jaune, rouge, blanc, ou brun. Alors un homme doué d'une bonne vue, l'ayant pris dans la main, l'examinerait: [i]“Ce bijou en béryl est brillant, précieux, octogonal, bien coupé, transparent, pur, sans défaut, et excellent à tout point de vue. Il est traversé par un fil bleu, jaune, rouge, blanc, ou brun.”[/i]"
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti. so evaṃ pajānāti: ‘ayaṃ kho me kāyo rūpī cātumahābhūtiko mātāpettikasambhavo odanakummāsūpacayo aniccucchādana-parimaddana-bhedana-viddhaṃsana-dhammo; idañca pana me viññāṇaṃ ettha sitaṃ ettha paṭibaddhan’ti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la [nanadassana|connaissance & vision]. Il comprend: [i]“Ceci est mon [kaya|corps], il est physique, composé des quatre grands éléments, produit par mère et père, se nourrissant de riz et de gruau, par nature sujet à l'[anicca|impermanence], à l'abrasion, au frottement, au démembrement, à la destruction. Et ceci est ma [vinnana|Conscience], elle en dépend, elle y est attachée.”[/i]"
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Manomayiddhiñāṇaṃ",
+      "fr": "La connaissance du pouvoir de fabrication par l'esprit"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṃ kāyaṃ abhinimmānāya cittaṃ abhinīharati abhininnāmeti. so imamhā kāyā aññaṃ kāyaṃ abhinimmināti rūpiṃ manomayaṃ sabbaṅgapaccaṅgiṃ ahīnindriyaṃ.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la fabrication d'un [kaya|corps] par le [mana|mental]. Il produit un [kaya|corps] différent de ce [kaya|corps]-ci, [rupa|matériel], fabriqué par le [mana|mental], possédant tous ses membres, majeurs et mineurs, et qui n'est pas inférieur dans ses [indriya|facultés]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso muñjamhā īsikaṃ pavāheyya. tassa evamassa: ‘ayaṃ muñjo, ayaṃ īsikā, añño muñjo, aññā īsikā, muñjamhā tveva īsikā pavāḷhā’ti. seyyathā vā pana, mahārāja, puriso asiṃ kosiyā pavāheyya. tassa evamassa: ‘ayaṃ asi, ayaṃ kosi, añño asi, aññā kosi, kosiyā tveva asi pavāḷho”ti. seyyathā vā pana, mahārāja, puriso ahiṃ karaṇḍā uddhareyya. tassa evamassa: ‘ayaṃ ahi, ayaṃ karaṇḍo. añño ahi, añño karaṇḍo, karaṇḍā tveva ahi ubbhato’ti.",
+      "fr": "Imaginez, Maharaja, qu'un individu extraie un roseau de sa gaine. Il se dirait: [i]“Voici le roseau, voici la gaine, le roseau est une chose et la gaine en est une autre, et le roseau a été extrait de sa gaine.”[/i] Ou bien, Maharaja, imaginez qu'un individu extraie une épée de son fourreau. Il se dirait: [i]“Voici l'épée, voici le fourreau, l'épée est une chose et le fourreau en est une autre, et l'épée a été extraite de son fourreau.[/i] Ou bien, Maharaja, imaginez qu'un individu retire la peau d'un serpent [en mue]. Il se dirait: [i]“Voici le serpent, voici la peau, le serpent est une chose et sa peau en est une autre, et le serpent a été retiré de sa peau.[/i]"
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte manomayaṃ kāyaṃ abhinimmānāya cittaṃ abhinīharati abhininnāmeti. so imamhā kāyā aññaṃ kāyaṃ abhinimmināti rūpiṃ manomayaṃ sabbaṅgapaccaṅgiṃ ahīnindriyaṃ.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la fabrication d'un [kaya|corps] par le [mana|mental]. Il produit un [kaya|corps] différent de ce [kaya|corps]-ci, [rupa|matériel], fabriqué par le [mana|mental], possédant tous ses membres, majeurs et mineurs, et qui n'est pas inférieur dans ses [indriya|facultés]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Iddhividhañāṇaṃ",
+      "fr": "La connaissance des divers pouvoirs psychiques"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṃ abhinīharati abhininnāmeti. so anekavihitaṃ iddhividhaṃ paccanubhoti: ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati seyyathāpi ākāse. pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake. udakepi abhijjamāne gacchati seyyathāpi pathaviyā. ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo. imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati parimajjati. yāva brahmalokāpi kāyena vasaṃ vatteti.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] aux divers [iddhi|pouvoirs psychiques]. Il exerce divers [iddhi|pouvoirs psychiques]: ayant été unique, il devient plusieurs; ayant été plusieurs, il devient unique; il apparaît, il disparaît; il va sans résistance à travers les murs, à travers les remparts, à travers les montagnes, comme à travers l'espace; il plonge dans la terre et en émerge comme dans de l'eau; il marche sur l'eau sans couler, comme sur la terre; il voyage dans les airs assis jambes croisées, comme un oiseau ailé; il touche et effleure les astres si puissants et imposants avec sa main; il exerce une influence avec son [kaya|corps] jusque dans le [loka|monde] de [brahma|Brahma]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, dakkho kumbhakāro vā kumbhakārantevāsī vā suparikammakatāya mattikāya yaṃ yadeva bhājanavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya. seyyathā vā pana, mahārāja, dakkho dantakāro vā dantakārantevāsī vā suparikammakatasmiṃ dantasmiṃ yaṃ yadeva dantavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya. seyyathā vā pana, mahārāja, dakkho suvaṇṇakāro vā suvaṇṇakārantevāsī vā suparikammakatasmiṃ suvaṇṇasmiṃ yaṃ yadeva suvaṇṇavikatiṃ ākaṅkheyya, taṃ tadeva kareyya abhinipphādeyya.",
+      "fr": "Imaginez, Maharaja, un potier expérimenté ou l'apprenti d'un potier qui fabriquerait et façonnerait avec de l'argile bien travaillé n'importe quel récipient qu'il souhaiterait. Ou bien, Maharaja, un travailleur d'ivoire expérimenté ou l'apprenti d'un travailleur d'ivoire qui fabriquerait et façonnerait avec de l'ivoire bien travaillé n'importe quel objet en ivoire qu'il souhaiterait. Ou bien, Maharaja, un orfèvre expérimenté ou l'apprenti d'un orfèvre qui fabriquerait et façonnerait avec de l'or bien travaillé n'importe quel objet en or qu'il souhaiterait."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte iddhividhāya cittaṃ abhinīharati abhininnāmeti. so anekavihitaṃ iddhividhaṃ paccanubhoti: ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati seyyathāpi ākāse. pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake. udakepi abhijjamāne gacchati seyyathāpi pathaviyā. ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo. imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati parimajjati. yāva brahmalokāpi kāyena vasaṃ vatteti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] aux divers [iddhi|pouvoirs psychiques]. Il exerce divers [iddhi|pouvoirs psychiques]: ayant été unique, il devient plusieurs; ayant été plusieurs, il devient unique; il apparaît, il disparaît; il va sans résistance à travers les murs, à travers les remparts, à travers les montagnes, comme à travers l'espace; il plonge dans la terre et en émerge comme dans de l'eau; il marche sur l'eau sans couler, comme sur la terre; il voyage dans les airs assis jambes croisées, comme un oiseau ailé; il touche et effleure les astres si puissants et imposants avec sa main; il exerce une influence avec son [kaya|corps] jusque dans le [loka|monde] de [brahma|Brahma]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Dibbasotañāṇaṃ",
+      "fr": "L'oreille dévique"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. so dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à l'élément oreille [deva|dévique]. Avec l'élément oreille [deva|dévique], qui est pur et au-delà de l'état humain, il entend les deux sortes de sons, ceux des [deva|dévas] et ceux des humains, qu'ils soient éloignés ou proches."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso addhānamaggappaṭipanno. so suṇeyya bherisaddampi mudiṅgasaddampi saṅkhapaṇavadindimasaddampi. tassa evamassa: ‘bherisaddo’ itipi, ‘mudiṅgasaddo’ itipi, ‘saṅkhapaṇavadindimasaddo’ itipi.",
+      "fr": "Imaginez, Maharaja, un homme voyageant sur une longue route. Il entendrait le son d'un tam-tam, le son d'un tambour, ou le son de percussions. Il se dirait: [i]“un tam-tam!', 'un tambour!”[/i] ou bien [i]“des percussions!”[/i]."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte dibbāya sotadhātuyā cittaṃ abhinīharati abhininnāmeti. so dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti dibbe ca mānuse ca ye dūre santike ca.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant],avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à l'élément oreille [deva|dévique]. Avec l'élément oreille [deva|dévique], qui est pur et au-delà de l'état humain, il entend les deux sortes de sons, ceux des [deva|dévas] et ceux des humains, qu'ils soient éloignés ou proches."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Cetopariyañāṇaṃ",
+      "fr": "La connaissance de l'esprit des autres"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte cetopariyañāṇāya cittaṃ abhinīharati abhininnāmeti. so parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti: sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la connaissance de l'esprit des autres. Il comprend l'esprit des autres êtres et des autres individus en l'ayant englobé avec son [citta|esprit]: il comprend un [citta|esprit] sujet à l'[raga|avidité] comme un [citta|esprit] sujet à l'[raga|avidité], et un [citta|esprit] dénué d'[raga|avidité] comme un [citta|esprit] dénué d'[raga|avidité]; il comprend un [citta|esprit] sujet à l'[dosa|aversion] comme un [citta|esprit] sujet à l'[dosa|aversion], et un [citta|esprit] dénué d'[dosa|aversion] comme un [citta|esprit] dénué d'[dosa|aversion]; il comprend un [citta|esprit] sujet à la [moha|délusion] comme un [citta|esprit] sujet à la [moha|délusion], et un [citta|esprit] dénué de [moha|délusion] comme un [citta|esprit] dénué de [moha|délusion]; il comprend un [citta|esprit] clair comme un [citta|esprit] clair, et un [citta|esprit] confus comme un [citta|esprit] confus; il comprend un [citta|esprit] exalté comme un [citta|esprit] exalté, et un [citta|esprit] non-exalté comme un [citta|esprit] non-exalté; il comprend un [citta|esprit] inaccompli comme un [citta|esprit] inaccompli, et un [citta|esprit] suprêmement accompli comme un [citta|esprit] suprêmement accompli; il comprend un [citta|esprit] [samahita|concentré] comme un [citta|esprit] [samahita|concentré], et un [citta|esprit] non-[samahita|concentré] comme un [citta|esprit] non-[samahita|concentré]; il comprend un [citta|esprit] délivré comme un [citta|esprit] délivré, et un [citta|esprit] non-délivré comme un [citta|esprit] non-délivré."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, itthī vā puriso vā daharo yuvā maṇḍanajātiko ādāse vā parisuddhe pariyodāte acche vā udakapatte sakaṃ mukhanimittaṃ paccavekkhamāno sakaṇikaṃ vā ‘sakaṇikan’ti jāneyya, akaṇikaṃ vā ‘akaṇikan’ti jāneyya.",
+      "fr": "Imaginez, Maharaja, une femme ou un homme, jeune, peu avancé en âge, qui aime les parures, contemplant son reflet dans un miroir ou dans un récipient d'eau pure, propre et claire: il reconnaîtrait la présence d'une tache comme la présence d'une tache et l'absence d'une tache comme l'absence d'une tache."
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte cetopariyañāṇāya cittaṃ abhinīharati abhininnāmeti. so parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti: sarāgaṃ vā cittaṃ ‘sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ ‘vītadosaṃ cittan’ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittan’ti pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, saṅkhittaṃ vā cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ cittan’ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, sauttaraṃ vā cittaṃ ‘sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan”ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la connaissance de l'esprit des autres. Il comprend l'esprit des autres êtres et des autres individus en l'ayant englobé avec son [citta|esprit]: il comprend un [citta|esprit] sujet à l'[raga|avidité] comme un [citta|esprit] sujet à l'[raga|avidité], et un [citta|esprit] dénué d'[raga|avidité] comme un [citta|esprit] dénué d'[raga|avidité]; il comprend un [citta|esprit] sujet à l'[dosa|aversion] comme un [citta|esprit] sujet à l'[dosa|aversion], et un [citta|esprit] dénué d'[dosa|aversion] comme un [citta|esprit] dénué d'[dosa|aversion]; il comprend un [citta|esprit] sujet à la [moha|délusion] comme un [citta|esprit] sujet à la [moha|délusion], et un [citta|esprit] dénué de [moha|délusion] comme un [citta|esprit] dénué de [moha|délusion]; il comprend un [citta|esprit] clair comme un [citta|esprit] clair, et un [citta|esprit] confus comme un [citta|esprit] confus; il comprend un [citta|esprit] exalté comme un [citta|esprit] exalté, et un [citta|esprit] non-exalté comme un [citta|esprit] non-exalté; il comprend un [citta|esprit] inaccompli comme un [citta|esprit] inaccompli, et un [citta|esprit] suprêmement accompli comme un [citta|esprit] suprêmement accompli; il comprend un [citta|esprit] [samahita|concentré] comme un [citta|esprit] [samahita|concentré], et un [citta|esprit] non-[samahita|concentré] comme un [citta|esprit] non-[samahita|concentré]; il comprend un [citta|esprit] délivré comme un [citta|esprit] délivré, et un [citta|esprit] non-délivré comme un [citta|esprit] non-délivré."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Pubbenivāsānussatiñāṇaṃ",
+      "fr": "La remémoration des existences passées"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhininnāmeti. so anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ: ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la [pubbenivasanussatinana|connaissance de la remémoration des existences passées]. Il se rappelle ses diverses existences passées, telles que: une naissance, deux [jati|naissances], trois [jati|naissances], quatre [jati|naissances], cinq [jati|naissances], dix [jati|naissances], vingt [jati|naissances], trente [jati|naissances], quarante [jati|naissances],cinquante [jati|naissances], cent [jati|naissances], mille [jati|naissances], cent mille [jati|naissances], plusieurs [kappa|cycles] d'expansion, plusieurs [kappa|cycles] de contraction, plusieurs [kappa|cycles] d'expansion et de contraction: [i]“dans cette existence-là, j'avais tel nom, je venais de telle famille, j'avais telle apparence, telle était ma nourriture, telle était mon expérience du [sukha|bien-être] et du [dukkha|mal-être], telle fut la fin de ma vie, et trépassant de là, je suis réapparu là-bas; dans cette existence là-bas, j'avais tel nom, je venais de telle famille, j'avais telle apparence, telle était ma nourriture, telle était mon expérience du [sukha|bien-être] et du [dukkha|mal-être], telle fut la fin de ma vie, et trépassant de là, je suis réapparu ici”[/i], il se rappelle ainsi ses diverses existences passées avec leurs particularités et leurs détails."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, puriso sakamhā gāmā aññaṃ gāmaṃ gaccheyya, tamhāpi gāmā aññaṃ gāmaṃ gaccheyya. so tamhā gāmā sakaṃyeva gāmaṃ paccāgaccheyya. tassa evamassa: ‘ahaṃ kho sakamhā gāmā amuṃ gāmaṃ agacchiṃ, tatrāpi evaṃ aṭṭhāsiṃ, evaṃ nisīdiṃ, evaṃ abhāsiṃ, evaṃ tuṇhī ahosiṃ, tamhāpi gāmā amuṃ gāmaṃ agacchiṃ, tatrāpi evaṃ aṭṭhāsiṃ, evaṃ nisīdiṃ, evaṃ abhāsiṃ, evaṃ tuṇhī ahosiṃ, somhi tamhā gāmā sakaṃyeva gāmaṃ paccāgato’ti.",
+      "fr": "Imaginez, Maharaja, qu'un homme aille de son village à un autre village, et que de ce village-là, il se rende à un autre village. De cet autre village-là, il reviendrait à son propre village. Il se dirait: [i]“Je suis allé de mon village à ce village-ci, et là je me suis tenu debout comme ceci, je me suis tenu assis comme ceci, j'ai parlé comme ceci, je suis resté silencieux comme ceci, puis de ce village-ci je suis allé à ce village-là, et là je me suis tenu debout comme cela, je me suis tenu assis comme cela, j'ai parlé comme cela, je suis resté silencieux comme cela, puis de ce village-là je suis revenu à mon propre village.”[/i]"
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ abhinīharati abhininnāmeti. so anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, ‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti, iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la [pubbenivasanussatinana|connaissance de la remémoration des existences passées]. Il se rappelle ses diverses existences passées, telles que: une naissance, deux [jati|naissances], trois [jati|naissances], quatre [jati|naissances], cinq [jati|naissances], dix [jati|naissances], vingt [jati|naissances], trente [jati|naissances], quarante [jati|naissances],cinquante [jati|naissances], cent [jati|naissances], mille [jati|naissances], cent mille [jati|naissances], plusieurs [kappa|cycles] d'expansion, plusieurs [kappa|cycles] de contraction, plusieurs [kappa|cycles] d'expansion et de contraction: [i]“dans cette existence-là, j'avais tel nom, je venais de telle famille, j'avais telle apparence, telle était ma nourriture, telle était mon expérience du [sukha|bien-être] et du [dukkha|mal-être], telle fut la fin de ma vie, et trépassant de là, je suis réapparu là-bas; dans cette existence là-bas, j'avais tel nom, je venais de telle famille, j'avais telle apparence, telle était ma nourriture, telle était mon expérience du [sukha|bien-être] et du [dukkha|mal-être], telle fut la fin de ma vie, et trépassant de là, je suis réapparu ici”[/i], il se rappelle ainsi ses diverses existences passées avec leurs particularités et leurs détails."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Dibbacakkhuñāṇaṃ",
+      "fr": "L'œil dévique"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhinīharati abhininnāmeti. so dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā. te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā. ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la [sattanamcutupapatanana|connaissance du trépas et de la réapparition des êtres]. Avec l'œil [deva|déva], qui est pur et au-delà de l'état humain, il voit les êtres trépassant et réapparaissant, inférieurs ou superbes, beaux ou laids, heureux ou malheureux, il comprend comment les êtres réapparaissent en fonction de leurs [kamma|actions]: [i]“ces êtres-ci, qui pratiquaient la [duccarita|méconduite] corporelle, la [duccarita|méconduite] verbale, la [duccarita|méconduite] mentale, qui méprisaient les [ariya|êtres nobles], qui avaient des [micchaditthi|vues erronées], qui entreprenaient des [kamma|actions] sur la base de [micchaditthi|vues erronées], lors de la rupture du [kaya|corps], après la [marana|mort], sont réapparus dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]; et ces êtres-ci, qui pratiquaient la [sucarita|bonne conduite] corporelle, la [sucarita|bonne conduite] verbale, la [sucarita|bonne conduite] mentale, qui ne méprisaient pas les [ariya|êtres nobles], qui avaient des [sammaditthi|vues correctes], qui entreprenaient des [kamma|actions] sur la base de [sammaditthi|vues correctes], lors de la rupture du [kaya|corps], après la [marana|mort], sont réapparus dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]”[/i]. Ainsi, avec l'œil [deva|déva], qui est pur et au-delà de l'état humain, il voit les êtres trépassant et réapparaissant, inférieurs ou superbes, beaux ou laids, heureux ou malheureux, il comprend comment les êtres réapparaissent en fonction de leurs [kamma|actions]."
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, majjhe siṅghāṭake pāsādo. tattha cakkhumā puriso ṭhito passeyya manusse gehaṃ pavisantepi nikkhamantepi rathikāyapi vīthiṃ sañcarante majjhe siṅghāṭake nisinnepi. tassa evamassa: ‘ete manussā gehaṃ pavisanti, ete nikkhamanti, ete rathikāya vīthiṃ sañcaranti, ete majjhe siṅghāṭake nisinnā’ti.",
+      "fr": "Imaginez, Maharaja, que sur la place centrale [d'une ville], il y ait un bâtiment d'où un homme doué d'une bonne vue et se tenant debout verrait les gens entrer et sortir d'une maison, marcher dans la rue, et rester assis sur la place centrale. Il se dirait: [i]“Ces gens entrent dans la maison, ceux-là en sortent, ceux-ci marchent dans la rue et ceux-là restent assis sur la place centrale.”[/i]"
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ abhinīharati abhininnāmeti. so dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā. ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate; yathākammūpage satte pajānāti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la [sattanamcutupapatanana|connaissance du trépas et de la réapparition des êtres]. Avec l'œil [deva|déva], qui est pur et au-delà de l'état humain, il voit les êtres trépassant et réapparaissant, inférieurs ou superbes, beaux ou laids, heureux ou malheureux, il comprend comment les êtres réapparaissent en fonction de leurs [kamma|actions]: [i]“ces êtres-ci, qui pratiquaient la [duccarita|méconduite] corporelle, la [duccarita|méconduite] verbale, la [duccarita|méconduite] mentale, qui méprisaient les [ariya|êtres nobles], qui avaient des [micchaditthi|vues erronées], qui entreprenaient des [kamma|actions] sur la base de [micchaditthi|vues erronées], lors de la rupture du [kaya|corps], après la [marana|mort], sont réapparus dans une [apaya|existence infortunée], une [duggati|mauvaise destination], un [vinipata|monde inférieur], ou en [niraya|enfer]; et ces êtres-ci, qui pratiquaient la [sucarita|bonne conduite] corporelle, la [sucarita|bonne conduite] verbale, la [sucarita|bonne conduite] mentale, qui ne méprisaient pas les [ariya|êtres nobles], qui avaient des [sammaditthi|vues correctes], qui entreprenaient des [kamma|actions] sur la base de [sammaditthi|vues correctes], lors de la rupture du [kaya|corps], après la [marana|mort], sont réapparus dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque]”[/i]. Ainsi, avec l'œil [deva|déva], qui est pur et au-delà de l'état humain, il voit les êtres trépassant et réapparaissant, inférieurs ou superbes, beaux ou laids, heureux ou malheureux, il comprend comment les êtres réapparaissent en fonction de leurs [kamma|actions]."
+    },
+    {
+      "pl": "idampi kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca.",
+      "fr": "Voici, Maharaja, un fruit de la vie de renoncement [sanditthika|visible directement] qui est plus excellent et plus élevé que les précédents fruits de la vie de renoncement [sanditthika|visibles directement]."
+    },
+    {
+      "pl": "Āsavakkhayañāṇa",
+      "fr": "La destruction des impuretés mentales"
+    },
+    {
+      "pl": "“so evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhinīharati abhininnāmeti. so idaṃ dukkhanti yathābhūtaṃ pajānāti, ayaṃ dukkhasamudayoti yathābhūtaṃ pajānāti, ayaṃ dukkhanirodhoti yathābhūtaṃ pajānāti, ayaṃ dukkhanirodhagāminī paṭipadāti yathābhūtaṃ pajānāti. ime āsavāti yathābhūtaṃ pajānāti, ayaṃ āsavasamudayoti yathābhūtaṃ pajānāti, ayaṃ āsavanirodhoti yathābhūtaṃ pajānāti, ayaṃ āsavanirodhagāminī paṭipadāti yathābhūtaṃ pajānāti. tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati, ‘vimuttasmiṃ vimuttami’ti ñāṇaṃ hoti, ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti.",
+      "fr": "Avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, il dirige et applique son [citta|esprit] à la [nana|connaissance] de la destructiondes [asava|impuretés mentales]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|apparition du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici les [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[samudaya|apparition] des [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [nirodha|cessation] des [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [patipada|voie] menant à la [nirodha|cessation] des [asava|impuretés mentales]”[/i]. Voyant ainsi, comprenant ainsi, son [citta|esprit] est délivré des [asava|impuretés mentales] liées à la [kama|sensualité], son [citta|esprit] est délivré des [asava|impuretés mentales] liées à l'[bhava|existence], son [citta|esprit] est délivré des [asava|impuretés mentales] liées à l'[avijja|ignorance]. Avec la [vimutti|libération], il y a la [nana|connaissance]: [i]“Je suis délivré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    },
+    {
+      "pl": "“seyyathāpi, mahārāja, pabbatasaṅkhepe udakarahado accho vippasanno anāvilo. tattha cakkhumā puriso tīre ṭhito passeyya sippisambukampi sakkharakathalampi macchagumbampi carantampi tiṭṭhantampi. tassa evamassa. ‘ayaṃ kho udakarahado accho vippasanno anāvilo. tatrime sippisambukāpi sakkharakathalāpi macchagumbāpi carantipi tiṭṭhantipī’ti.",
+      "fr": "Imaginez, Maharaja, que dans une chaîne de montagne, il y ait une étendue d'eau claire, limpide et pure. Un homme doué d'une bonne vue, se tenant debout sur le bord, pourrait voir les coquillages, les graviers et cailloux, et les bancs de poissons nageant ou se reposant dans l'eau. Il se dirait: [i]“Cette étendue d'eau est claire, limpide et pure, et dedans, il y a des coquillages, des graviers et cailloux, et des bancs de poissons nageant ou se reposant dans l'eau.”[/i]"
+    },
+    {
+      "pl": "evameva kho, mahārāja, bhikkhu evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ abhinīharati abhininnāmeti. ‘so idaṃ dukkhan’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. ‘ime āsavāti yathābhūtaṃ pajānāti, ‘ayaṃ āsavasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ āsavanirodhagāminī paṭipadāti yathābhūtaṃ pajānāti. tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati, bhavāsavāpi cittaṃ vimuccati, avijjāsavāpi cittaṃ vimuccati, ‘vimuttasmiṃ vimuttamiti ñāṇaṃ hoti, ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti. idaṃ kho, mahārāja, sandiṭṭhikaṃ sāmaññaphalaṃ purimehi sandiṭṭhikehi sāmaññaphalehi abhikkantatarañca paṇītatarañca. imasmā ca pana, mahārāja, sandiṭṭhikā sāmaññaphalā aññaṃ sandiṭṭhikaṃ sāmaññaphalaṃ uttaritaraṃ vā paṇītataraṃ vā natthī”ti.",
+      "fr": "De la même manière, Maharaja, un [bhikkhu|mendiant], avec un [citta|esprit] ainsi [samahita|concentré], purifié, immaculé, sans tache, dénué de souillure, malléable, maniable, stable, ayant atteint l'imperturbabilité, dirige et applique son [citta|esprit] à la [nana|connaissance] de l'élimination complète des [asava|impuretés mentales]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici le [dukkha|mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[dukkhasamudaya|apparition du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dukkhanirodha|cessation du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [dngp|voie menant à la cessation du mal-être]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici les [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici l'[samudaya|apparition] des [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [nirodha|cessation] des [asava|impuretés mentales]”[/i]. Il comprend, [yathabhutam|tel que c'est réellement]: [i]“Voici la [patipada|voie] menant à la [nirodha|cessation] des [asava|impuretés mentales]”[/i]. Voyant ainsi, comprenant ainsi, son [citta|esprit] est délivré des [asava|impuretés mentales] liées à la [kama|sensualité], son [citta|esprit] est délivré des [asava|impuretés mentales] liées à l'[bhava|existence], son [citta|esprit] est délivré des [asava|impuretés mentales] liées à l'[avijja|ignorance]. Avec la [vimutti|libération], il y a la [nana|connaissance]: [i]“Je suis délivré”[/i]. Il comprend: [i]“C'en est fini de la [jati|naissance], la [brahmacariya|vie brahmique] a été menée à son but, ce qui devait être fait a été fait, il n'y aura plus aucune autre existence.”[/i]"
+    },
+    {
+      "pl": "Ajātasattūpāsakattapaṭivedanā",
+      "fr": "Ajatassattou se déclare un disciple séculier"
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, Ajatassattou Védéhipoutta, le roi du Magadha, dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “abhikkantaṃ, bhante, abhikkantaṃ, bhante. seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ, bhante, bhagavatā anekapariyāyena dhammo pakāsito. esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gataṃ.",
+      "fr": "—C'est excellent, [bhante|Bhanté], excellent! Tout comme on redresserait ce qui était renversé, ou bien on révélerait ce qui était caché, ou on montrerait le chemin à quelqu'un qui se serait perdu, ou on allumerait une lampe dans l'obscurité [en pensant:] [i]“Ceux qui possèdent une bonne vue verront les formes”[/i], de la même manière le [bhagava|Fortuné] a expliqué le [dhamma|Dhamma] de diverses façons. [bhante|Bhanté], je vais en refuge au [bhagava|Fortuné], ainsi qu'au [dhamma|Dhamma] et à la [sangha|Communauté] des [bhikkhu|mendiants]. Que le [bhagava|Fortuné] me considère comme un [upasaka|disciple] étant allé en refuge à compter d'aujourd'hui et pour la vie."
+    },
+    {
+      "pl": "accayo maṃ, bhante, accagamā: yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yohaṃ pitaraṃ dhammikaṃ dhammarājānaṃ issariyakāraṇā jīvitā voropesiṃ. tassa me, bhante bhagavā accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti.",
+      "fr": "[bhante|Bhanté], j'ai commis une transgression: j'ai été si [baala|sot], si ignorant, si [akusala|malavisé] que, par soif de pouvoir, j'ai pris la vie de mon père, qui était un homme [sila|vertu]eux, un roi [sila|vertu]eux. [bhante|Bhanté], que le [bhagava|Fortuné] accepte ma transgression comme étant une transgression, pour ma [samvara|restreinte] à l'avenir."
+    },
+    {
+      "pl": "“taggha tvaṃ, mahārāja, accayo accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yaṃ tvaṃ pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā voropesi. yato ca kho tvaṃ, mahārāja, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, taṃ te mayaṃ paṭiggaṇhāma. vuddhihesā, mahārāja, ariyassa vinaye, yo accayaṃ accayato disvā yathādhammaṃ paṭikaroti, āyatiṃ saṃvaraṃ āpajjatī”ti.",
+      "fr": "—Assurément, Maharaja, vous avez commis une transgression: vous avez été si [baala|sot], si ignorant, si [akusala|malavisé] que, par soif de pouvoir, vous avez pris la vie de votre père, qui était un homme [sila|vertu]eux, un roi [sila|vertu]eux. Maharaja, puisqu'en ayant vu votre transgression comme une transgression, vous vous repentez en accord avec le [dhamma|Dhamma], je l'accepte. Maharaja, c'est un progrès dans la [vinaya|discipline] du [ariya|noble] que de se repentir en accord avec le [dhamma|Dhamma] en ayant vu sa transgression comme une transgression, et de pratiquer la [samvara|restreinte] à l'avenir."
+    },
+    {
+      "pl": "evaṃ vutte, rājā māgadho ajātasattu vedehiputto bhagavantaṃ etadavoca:",
+      "fr": "Lorsque cela fut dit, Ajatassattou Védéhipoutta, le roi du Magadha, dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "— “handa ca dāni mayaṃ, bhante, gacchāma bahukiccā mayaṃ bahukaraṇīyā”ti.",
+      "fr": "—[bhante|Bhanté], il est maintenant temps que nous partions, car nous avons beaucoup de devoirs et beaucoup de choses à faire."
+    },
+    {
+      "pl": "“yassadāni tvaṃ, mahārāja, kālaṃ maññasī”ti.",
+      "fr": "—Il est temps maintenant, Maharaja, de faire ce que vous pensez [être le plus approprié]."
+    },
+    {
+      "pl": "atha kho rājā māgadho ajātasattu vedehiputto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.atha kho bhagavā acirapakkantassa rañño māgadhassa ajātasattussa vedehiputtassa bhikkhū āmantesi:",
+      "fr": "Alors Ajatassattou Védéhipoutta, le roi du Magadha, ayant approuvé les paroles du [bhagava|Fortuné] et s'en étant réjoui, se leva de son siège, lui rendit hommage en le maintenant à sa droite, et s'en alla. Peu après que le roi Ajatassattou s'en soit allé,le [bhagava|Fortuné] s'adressa aux [bhikkhu|mendiants]:"
+    },
+    {
+      "pl": "— “khatāyaṃ, bhikkhave, rājā. upahatāyaṃ, bhikkhave, rājā. sacāyaṃ, bhikkhave, rājā pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā na voropessatha, imasmiññeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ uppajjissathā”ti.",
+      "fr": "—Ce roi est déraciné, [bhikkhu|mendiants], ce roi est ruiné. Si ce roi n'avait pas pris la vie de son père, qui était un homme [sila|vertu]eux, un roi [sila|vertu]eux, alors sur ce même siège, l'[dhammacakkhu|œil du Dhamma], immaculé et sans tache, serait apparu en lui."
+    },
+    {
+      "pl": "idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+      "fr": "Voici ce que dit le [bhagava|Fortuné]. Ravis, les [bhikkhu|mendiants] apprécièrent ses paroles."
+    }
+  ],
+  "keywords": [
+    "bhagava",
+    "sangha",
+    "bhikkhu",
+    "uposatha",
+    "udana",
+    "samana",
+    "brahmana",
+    "citta",
+    "pabbajja",
+    "arahant",
+    "sammasambuddha",
+    "@f_anussati#anussati-1-cl",
+    "bhante",
+    "sanditthika",
+    "ditthevadhamme",
+    "sukha",
+    "sagga",
+    "i]“[bho",
+    "bho",
+    "loka",
+    "opapatika",
+    "abhinna",
+    "kaya",
+    "marana",
+    "i][bhante",
+    "punna",
+    "kamaguna",
+    "deva",
+    "pabbaja",
+    "anagariya",
+    "samvara",
+    "civara",
+    "pindapata",
+    "senasana",
+    "bhesajja",
+    "mara",
+    "brahma",
+    "dhamma",
+    "brahmacariya",
+    "saddha",
+    "tathagata",
+    "patimokkha",
+    "sikkhapada",
+    "kamma",
+    "ajiva",
+    "sila",
+    "igdt",
+    "sati",
+    "sampajanna",
+    "santuttha",
+    "panatipata",
+    "adinnadana",
+    "abrahmacariya",
+    "musavada",
+    "pisunavaca",
+    "pharusavaca",
+    "samphappalapa",
+    "vinaya",
+    "@m_atthasamhita",
+    "i]“[tiracchanakatha",
+    "khattiya",
+    "ariya",
+    "khandha",
+    "anavajja",
+    "@f_samvara#is-eye",
+    "@f_samvara#is-ear",
+    "@f_samvara#is-nose",
+    "@f_samvara#is-tongue",
+    "@f_samvara#is-body",
+    "@f_samvara#is-mind",
+    "indriya",
+    "@f_sampajanna",
+    "@f_vivitta",
+    "@f_nivarana",
+    "pamojja",
+    "somanassa",
+    "nivarana",
+    "piti",
+    "mana",
+    "@f_4jhana#1-cl",
+    "viveka",
+    "@f_4jhana#2-cl",
+    "samadhi",
+    "@f_4jhana#3-cl",
+    "@f_4jhana#4-cl",
+    "samahita",
+    "nanadassana",
+    "anicca",
+    "vinnana",
+    "rupa",
+    "iddhi",
+    "raga",
+    "dosa",
+    "moha",
+    "pubbenivasanussatinana",
+    "jati",
+    "kappa",
+    "dukkha",
+    "sattanamcutupapatanana",
+    "duccarita",
+    "micchaditthi",
+    "apaya",
+    "duggati",
+    "vinipata",
+    "niraya",
+    "sucarita",
+    "sammaditthi",
+    "sugati",
+    "nana",
+    "asava",
+    "yathabhutam",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp",
+    "samudaya",
+    "nirodha",
+    "patipada",
+    "kama",
+    "bhava",
+    "avijja",
+    "vimutti",
+    "upasaka",
+    "baala",
+    "akusala",
+    "dhammacakkhu"
+  ],
+  "translator": " Rémy"
+}

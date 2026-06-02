@@ -1,0 +1,32 @@
+{
+  "identifier": "AN 10.121",
+  "plTitle": "Pubbaá¹…gama Sutta",
+  "frTitle": "Le prÃ©curseur",
+  "description": "Voici quel est le prÃ©curseur, le signe avant-coureur des Ã©tats avantageux.",
+  "body": [
+    {
+      "pl": "â€œsÅ«riyassa, bhikkhave, udayato etaá¹ƒ pubbaá¹…gamaá¹ƒ etaá¹ƒ pubbanimittaá¹ƒ, yadidaá¹ƒ â€” aruá¹‡uggaá¹ƒ. evamevaá¹ƒ kho, bhikkhave, kusalÄnaá¹ƒ dhammÄnaá¹ƒ etaá¹ƒ pubbaá¹…gamaá¹ƒ etaá¹ƒ pubbanimittaá¹ƒ, yadidaá¹ƒ â€” sammÄdiá¹­á¹­hi. ",
+      "fr": "[bhikkhu|Mendiants], voici quel est le prÃ©curseur et le signe avant-coureur du lever du soleil: l'aurore. De la mÃªme maniÃ¨re, voici quel est le prÃ©curseur et le signe avant-coureur des [dhamma|Ã©tats] [kusala|avantageux]: la [sammaditthi|vue correcte]."
+    },
+    {
+      "pl": "sammÄdiá¹­á¹­hikassa, bhikkhave, sammÄsaá¹…kappo pahoti, sammÄsaá¹…kappassa sammÄvÄcÄ pahoti, sammÄkammanto pahoti, sammÄkammantassa sammÄÄjÄ«vo pahoti, sammÄÄjÄ«vassa sammÄvÄyÄmo pahoti, sammÄvÄyÄmassa sammÄsati pahoti, sammÄsatissa sammÄsamÄdhi pahoti, sammÄsamÄdhissa sammÄÃ±Äá¹‡aá¹ƒ pahoti, sammÄÃ±Äá¹‡issa sammÄvimutti pahotÄ«â€ti.",
+      "fr": "Chez celui qui a une [sammaditthi|vue correcte], [sammasankappa|l'aspiration correcte] apparaÃ®t. Chez celui qui a une [sammasankappa|aspiration correcte], [sammavaca|la parole correcte] apparaÃ®t. Chez celui qui a une [sammavaca|parole correcte], [sammakammanta|l'action correcte] apparaÃ®t. Chez celui qui a une [sammakammanta|action correcte], [sammaajiva|les moyens de subsistance corrects] apparaissent. Chez celui qui a des [sammaajiva|moyens de subsistance corrects], [sammavayama|l'effort correct] apparaÃ®t. Chez celui qui a [sammavayama|un effort correct], [sammasati|la prÃ©sence d'esprit correcte] apparaÃ®t. Chez celui qui a [sammasati|une prÃ©sence d'esprit correcte], la [sammasamadhi|concentration correcte] apparaÃ®t.Chez celui qui a une [sammasamadhi|concentration correcte], la [nana|connaissance] correcte apparaÃ®t.Chez celui qui a une [nana|connaissance] correcte, la [vimutti|libÃ©ration] correcte apparaÃ®t."
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "kusala",
+    "sammaditthi",
+    "sammasankappa",
+    "sammavaca",
+    "sammakammanta",
+    "sammaajiva",
+    "sammavayama",
+    "sammasati",
+    "sammasamadhi",
+    "nana",
+    "vimutti"
+  ],
+  "translator": "Sekha"
+}

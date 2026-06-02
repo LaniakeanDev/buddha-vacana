@@ -1,0 +1,38 @@
+{
+  "identifier": "Iti 21",
+  "plTitle": "Pasannacitta Sutta",
+  "frTitle": "Un esprit serein",
+  "description": "Ce soutta est un doublon d'AN 1.44 (ou vice versa) assorti de strophes, sur le bienfait de mourir avec un esprit serein.",
+  "body": [
+    {
+      "pl": "vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ",
+      "fr": "J'ai entendu que ceci a été dit par le [bhagava|Fortuné], ceci a été dit par le [arahant|Méritant]:"
+    },
+    {
+      "pl": "“idhāhaṃ, bhikkhave, ekaccaṃ puggalaṃ pasannacittaṃ evaṃ cetasā ceto paricca pajānāmi — ‘imamhi cāyaṃ samaye puggalo kālaṃ kareyya yathābhataṃ nikkhitto evaṃ sagge’. taṃ kissa hetu? cittaṃ hissa, bhikkhave, pasannaṃ. cetopasādahetu kho pana, bhikkhave, evamidhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī””ti.",
+      "fr": "«[bhikkhu|Mendiants], ayant englobé avec mon [citta|esprit] l'[citta|esprit] d'un certain individu d'[citta|esprit] serein, je discerne: [i]“Si cet individu devait mourir maintenant, il irait au [sagga|paradis] comme s'il y était emmené et déposé.”[/i] Pourquoi cela? Parce que son [citta|esprit] est serein. C'est à [hetu|cause] de la sérénité de l'[citta|esprit], [bhikkhu|mendiants], que lors de la rupture du [kaya|corps], après la [marana|mort], certains [satta|êtres] réapparaissent dans une [sugati|bonne destination], dans un [loka|monde] [sagga|paradisiaque].»"
+    },
+    {
+      "pl": "etamatthaṃ bhagavā avoca. tatthetaṃ iti vuccati",
+      "fr": "Le [bhagava|Fortuné] a parlé à ce sujet. On en dit ceci:"
+    },
+    {
+      "pl": "“pasannacittaṃ ñatvāna,[@v]ekaccaṃ idha puggalaṃ.[@v]etamatthañca byākāsi,[@v]buddho bhikkhūna santike.",
+      "fr": "Ayant décelé l'[citta|esprit] serein[@v]D'une certaine personne,[@v]Le Bouddha parla de ce sujet[@v]En présence des [bhikkhu|mendiants]."
+    },
+    {
+      "pl": "“imamhi cāyaṃ samaye,[@v]kālaṃ kayirātha puggalo.[@v]sugatiṃ upapajjeyya,[@v]cittaṃ hissa pasāditaṃ.",
+      "fr": "Si en cet instant[@v]Cette personne trépassait,[@v]Elle réapparaîtrait dans une [sugati|bonne destination][@v]Car son [citta|esprit] est serein."
+    },
+    {
+      "pl": "“yathā haritvā nikkhipeyya, evameva tathāvidho. cetopasādahetu hi, sattā gacchanti suggatin””ti.",
+      "fr": "Comme s'il était emporté et déposé,[@v]Il se retrouve là-bas.[@v]À cause de la sérénité de leur esprit[@v]Les êtres se rendent dans une [sugati|bonne destination]."
+    },
+    {
+      "pl": "ayampi attho vutto bhagavatā, iti me sutanti.",
+      "fr": "Voici le sujet dont le [bhagava|Fortuné] a parlé, ainsi ai-je entendu."
+    }
+  ],
+  "keywords": ["bhagava", "arahant", "bhikkhu", "citta", "sagga", "hetu", "kaya", "marana", "satta", "sugati", "loka"],
+  "translator": "Sekha"
+}

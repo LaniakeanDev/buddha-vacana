@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "identifier": "SN 27.1",
+    "plTitle": "Cakkhu Sutta",
+    "frTitle": "L'œil",
+    "description": "Le désir et l'avidité envers les organes des sens sont des impuretés auxquelles il faut renoncer.",
+    "keywords": ["chanda", "raga", "bhikkhu", "upakkilesa", "citta", "mana", "nekkhamma", "dhamma", "abhinna"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 0
+  },
+  {
+    "identifier": "SN 27.2",
+    "plTitle": "Rūpa Sutta",
+    "frTitle": "Les formes",
+    "description": "Le désir et l'avidité envers les objets des sens sont des impuretés auxquelles il faut renoncer.",
+    "keywords": ["chanda", "raga", "bhikkhu", "upakkilesa", "citta", "nekkhamma", "dhamma", "abhinna"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 27.3",
+    "plTitle": "Viññāṇa Sutta",
+    "frTitle": "La Conscience",
+    "description": "Le désir et l'avidité envers les consciences sensorielles sont des impuretés auxquelles il faut renoncer.",
+    "keywords": [
+      "chanda",
+      "raga",
+      "vinnana",
+      "bhikkhu",
+      "upakkilesa",
+      "citta",
+      "mana",
+      "nekkhamma",
+      "dhamma",
+      "abhinna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 27.4",
+    "plTitle": "Samphassa Sutta",
+    "frTitle": "Le contact",
+    "description": "Le désir et l'avidité envers les contacts sensoriels sont des impuretés auxquelles il faut renoncer.",
+    "keywords": ["chanda", "raga", "phassa", "bhikkhu", "upakkilesa", "citta", "nekkhamma", "dhamma", "abhinna"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "4",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 27.5",
+    "plTitle": "Samphassaja Sutta",
+    "frTitle": "Engendré par le contact",
+    "description": "Le désir et l'avidité envers les ressentis engendrés par les contacts sensoriels sont des impuretés auxquelles il faut renoncer.",
+    "keywords": [
+      "chanda",
+      "raga",
+      "vedana",
+      "phassa",
+      "bhikkhu",
+      "upakkilesa",
+      "citta",
+      "nekkhamma",
+      "dhamma",
+      "abhinna"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "5",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 27.6",
+    "plTitle": "Saññā Sutta",
+    "frTitle": "Perceptions",
+    "description": "Le désir et l'avidité envers les perceptions des objets des sens sont des impuretés auxquelles il faut renoncer.",
+    "keywords": ["chanda", "raga", "sanna", "bhikkhu", "upakkilesa", "citta", "nekkhamma", "dhamma", "abhinna"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "6",
+    "readingTime": 1
+  }
+]

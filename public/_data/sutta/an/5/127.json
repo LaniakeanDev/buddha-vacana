@@ -1,0 +1,34 @@
+{
+  "identifier": "AN 5.127",
+  "plTitle": "Vapakāsa Sutta",
+  "frTitle": "Vivre à l'écart",
+  "description": "Cinq caractéristiques qui permettent de savoir si un mendiant est prêt à vivre seul, à l'écart de la Communauté.",
+  "body": [
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu nālaṃ saṅghamhā vapakāsituṃ. katamehi pañcahi? ",
+      "fr": "S'il est pourvu de cinq [dhamma|particularités], [bhikkhu|mendiants], un [bhikkhu|mendiant] n'est pas prêt à vivre à l'écart de la [sangha|Communauté]. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu asantuṭṭho hoti itarītarena cīvarena, asantuṭṭho hoti itarītarena piṇḍapātena, asantuṭṭho hoti itarītarena senāsanena, asantuṭṭho hoti itarītarena gilāna-ppaccaya-bhesajja-parikkhārena, kāma-saṅkappa-bahulo ca viharati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] ne se satisfait pas de n'importe quelles [civara|robes] [il obtient], il ne se satisfait pas de n'importe quelle [pindapata|nourriture d'aumônes] [il obtient], il ne se satisfait pas n'importe quel [senasana|gîte] [il obtient], il ne se satisfait pas n'importe quels [bhesajja|remèdes] & provisions pour les malades [il obtient]; il reste absorbé dans des pensées de [kama|sensualité]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu nālaṃ saṅghamhā vapakāsituṃ.",
+      "fr": "S'il est pourvu de ces cinq [dhamma|particularités], [bhikkhu|mendiants], un [bhikkhu|mendiant] n'est pas prêt à vivre à l'écart de la [sangha|Communauté]."
+    },
+    {
+      "pl": "“pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ saṅghamhā vapakāsituṃ. katamehi pañcahi?",
+      "fr": "S'il est pourvu de cinq [dhamma|particularités], [bhikkhu|mendiants], un [bhikkhu|mendiant] est prêt à vivre à l'écart de la [sangha|Communauté]. Quelles sont ces cinq?"
+    },
+    {
+      "pl": "idha, bhikkhave, bhikkhu santuṭṭho hoti itarītarena cīvarena, santuṭṭho hoti itarītarena piṇḍapātena, santuṭṭho hoti itarītarena senāsanena, santuṭṭho hoti itarītarena gilāna-ppaccaya-bhesajja-parikkhārena, nekkhamma-saṅkappa-bahulo ca viharati.",
+      "fr": "À cet égard, [bhikkhu|mendiants], un [bhikkhu|mendiant] se satisfait de n'importe quelles [civara|robes] [il obtient], il se satisfait de n'importe quelle [pindapata|nourriture d'aumônes] [il obtient], il se satisfait de n'importe quel [senasana|gîte] [il obtient], il se satisfait de n'importe quels [bhesajja|remèdes] & provisions pour les malades [il obtient]; il reste absorbé dans des pensées de [nekkhama|renoncement]."
+    },
+    {
+      "pl": "imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu alaṃ saṅghamhā vapakāsitun”ti.",
+      "fr": "S'il est pourvu de ces cinq [dhamma|particularités], [bhikkhu|mendiants], un [bhikkhu|mendiant] est prêt à vivre à l'écart de la [sangha|Communauté]."
+    }
+  ],
+  "keywords": ["dhamma", "bhikkhu", "sangha", "civara", "pindapata", "senasana", "bhesajja", "kama", "nekkhama"],
+  "translator": "Rémy"
+}

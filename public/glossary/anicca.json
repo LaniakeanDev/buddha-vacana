@@ -1,0 +1,121 @@
+{
+  "id": "anicca",
+  "title": "aniccā",
+  "translation": ["impermanent, éphémère, changeant."],
+  "body": [
+    {
+      "p": [
+        "L'impermanence des phénomènes est le fait qu'ils apparaissent, se transforment, et disparaissent.",
+        "Cette caractéristique affecte tous les phénomènes de l'existence, physiques et mentaux, sans exception."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.136]",
+        "text": [
+          {
+            "pl": "Uppādā vā, bhikkhave, tathāgatānaṃ anuppādā vā tathāgatānaṃ, ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā: sabbe saṅkhārā aniccā.",
+            "fr": "Mendiants, qu'un Tathagata soit apparu [dans le monde] ou qu'aucun Tathagata ne soit apparu [dans le monde], cette loi, cette stabilité du Dhamma, cette fixité du Dhamma restent immuables: tous les phénomènes construits sont impermanents."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le terme aniccā est souvent accompagné de “par nature voué au changement” (vipariṇāmadhammo), parfois de “changeant” (vipariṇāmino) et “variable” (aññathābhāvino), comme par exemple à [@$SN 25.2].",
+        "Aniccā est une des trois caractéristiques de tous les phénomènes ([tilakkhana|tilakkhaṇa]), et est considérée comme étant la plus facile des trois à observer, sa compréhension entraînant naturellement la compréhension des deux autres.",
+        "L'une des raisons pour lesquelles il est important de remarquer et bien comprendre l'impermanence des phénomènes est que leur nature insatisfaisante devient alors claire:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$SN 22.15]",
+        "text": [
+          {
+            "pl": "rūpaṃ, bhikkhave, aniccaṃ. yadaniccaṃ taṃ dukkhaṃ",
+            "fr": "Mendiants, la Forme est impermanente. Ce qui est impermanent est insatisfaisant."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.104]",
+        "text": [
+          {
+            "pl": "yaṃ loko anicco dukkho vipariṇāmadhammo, ayaṃ loke ādīnavo",
+            "fr": "Le fait que le monde soit impermanent, insatisfaisant et par nature sujet au changement constitue le désavantage du monde"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Ne pas réussir à prendre la mesure du fait que les phénomènes sont impermanents est considéré comme un trouble mental:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.49]",
+        "text": [
+          {
+            "pl": "anicce, bhikkhave, niccanti saññāvipallāso cittavipallāso diṭṭhivipallāso",
+            "fr": "Considérer ce qui est impermanent comme étant permanent est une inversion de la perception, une inversion de l'esprit, une inversion de la vue"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Une personne qui ne comprend pas correctement l'impermanence des phénomènes souffre de ce manque de compréhension, mais pas un noble disciple qui appréhende les phénomènes correctement:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 8.6]",
+        "text": [
+          {
+            "pl": "“assutavato, bhikkhave, puthujjanassa uppajjati lābho. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti.",
+            "fr": "Mendiants, lorsque le gain apparaît à un individu ordinaire sans instruction, il ne considère pas ceci: “Ce gain qui m'est apparu est impermanent, insatisfaisant, par nature sujet au changement” et ne le comprend pas tel que c'est réellement. "
+          },
+          {
+            "pl": "uppajjati alābho. so na iti paṭisañcikkhati: ‘uppanno kho me ayaṃ alābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ nappajānāti. (…)",
+            "fr": "Lorsque la perte lui apparaît, il ne considère pas ceci: “Cette perte qui m'est apparue est impermanente, insatisfaisante, par nature sujette au changement” et ne le comprend pas tel que c'est réellement. (…) "
+          },
+          {
+            "pl": "tassa lābhopi cittaṃ pariyādāya tiṭṭhati, alābhopi cittaṃ pariyādāya tiṭṭhati (…)",
+            "fr": "Le gain s'empare de son esprit, la perte s'empare de son esprit (…)"
+          },
+          {
+            "pl": "“sutavato ca kho, bhikkhave, ariyasāvakassa uppajjati lābho. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ lābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti.",
+            "fr": "Mendiants, lorsque le gain apparaît à un noble disciple instruit, il considère ceci: “Ce gain qui m'est apparu est impermanent, insatisfaisant, par nature sujet au changement” et le comprend tel que c'est réellement."
+          },
+          {
+            "pl": "uppajjati alābho. so iti paṭisañcikkhati: ‘uppanno kho me ayaṃ alābho; so ca kho anicco dukkho vipariṇāmadhammo’ti yathābhūtaṃ pajānāti. (…)",
+            "fr": "Lorsque la perte lui apparaît, il considère ceci: “Cette perte qui m'est apparue est impermanente, insatisfaisante, par nature sujette au changement” et le comprend tel que c'est réellement. (…)"
+          },
+          {
+            "pl": "“tassa lābhopi cittaṃ na pariyādāya tiṭṭhati, alābhopi cittaṃ na pariyādāya tiṭṭhati (…)",
+            "fr": "Le gain ne s'empare pas de son esprit, la perte ne s'empare pas de son esprit, la gloire ne s'empare pas de son esprit (…)"
+          },
+          {
+            "pl": "so uppannaṃ lābhaṃ nānurujjhati, alābhe nappaṭivirujjhati",
+            "fr": "Il n'est pas attiré par le gain qui est apparu et ne répugne pas à la perte"
+          }
+        ]
+      }
+    },
+    { "p": ["Celui qui comprend correctement l'impermanence des phénomènes se rapproche de la libération:"] },
+    {
+      "quote": {
+        "source": "[@$SN 22.43]",
+        "text": [
+          {
+            "pl": "saṅkhārānaṃ tveva, bhikkhave, aniccataṃ viditvā vipariṇāmaṃ virāgaṃ nirodhaṃ, pubbe ceva saṅkhārā etarahi ca sabbe saṅkhārā aniccā dukkhā vipariṇāmadhammāti, evametaṃ yathābhūtaṃ sammappaññāya passato ye sokaparidevadukkhadomanassupāyāsā te pahīyanti.",
+            "fr": "Lorsqu'on a compris l'impermanence des Constructions, leur changement, leur disparition, leur cessation, [en se disant:] “Les Constructions passées aussi bien que les Constructions présentes, sont impermanentes, insatisfaisantes, par nature sujettes au changement”, lorsqu'on voit ainsi tel que c'est réellement avec le discernement correct, le chagrin, les lamentations, les douleurs, les déplaisances mentales et la détresse sont abandonnés."
+          }
+        ]
+      }
+    }
+  ]
+}

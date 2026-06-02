@@ -1,0 +1,32 @@
+{
+  "identifier": "SN 1.23",
+  "plTitle": "Jaṭā Sutta",
+  "frTitle": "Les nœuds",
+  "description": "Qui peut démêler ces nœuds?",
+  "body": [
+    {
+      "pl": "[devatā:][i]“anto jaṭā bahi jaṭā, jaṭāya jaṭitā pajā.taṃ taṃ gotama pucchāmi, ko imaṃ vijaṭaye jaṭan”ti.[/i]",
+      "fr": "[Un déva:][i]Nœuds à l'intérieur, nœuds à l'extérieur,Les gens sont entortillés de nœuds.Alors je demande à Gotama:Qui peut démêler ces nœuds?[/i]"
+    },
+    {
+      "pl": "[bhagavā:][i]“sīle patiṭṭhāya naro sapañño, cittaṃ paññañca bhāvayaṃ,ātāpī nipako bhikkhu, so imaṃ vijaṭaye jaṭaṃ.“yesaṃ rāgo ca doso ca, avijjā ca virājitā,khīṇāsavā arahanto, tesaṃ vijaṭitā jaṭā.“yattha nāmañca rūpañca, asesaṃ uparujjhati.paṭighaṃ rūpasaññā ca, etthesā chijjate jaṭā”ti. [/i]",
+      "fr": "[Le Fortuné:][i]Un homme [panna|lucide], ayant établi la [sila|vertu],Développant l'[citta|esprit] et le [panna|discernement],Un [bhikkhu|mendiant] ardent et alerteEst celui qui démêle ces nœuds.Ceux qui ont éradiqué [raga|avidité],[dosa|Aversion] et [avijja|ignorance],Les [arahant|Méritants] ayant détruit les [asava|impuretés mentales],Chez eux les nœuds sont démêlés.Là où le [nama|Nom] et la [rupa|Forme]Cessent complètement,Ainsi que la [patigha|répulsion] et la [sanna|perception] de la [rupa|Forme]C'est là que les nœuds sont coupés.[/i]"
+    }
+  ],
+  "keywords": [
+    "panna",
+    "sila",
+    "citta",
+    "bhikkhu",
+    "raga",
+    "dosa",
+    "avijja",
+    "arahant",
+    "asava",
+    "nama",
+    "rupa",
+    "patigha",
+    "sanna"
+  ],
+  "translator": "Rémy"
+}

@@ -1,0 +1,22 @@
+{
+  "identifier": "SN 20.4",
+  "plTitle": "Okkhā Sutta",
+  "frTitle": "Les marmites de riz",
+  "description": "Une allégorie expliquant combien développer la bienveillance est bien plus bénéfique que de faire des dons charitables.",
+  "body": [
+    {
+      "pl": "sāvatthiyaṃ viharati … pe …",
+      "fr": "Un jour, le [bhagava|Fortuné] séjournait près de Savatthi (…)"
+    },
+    {
+      "pl": "“yo, bhikkhave, pubbaṇhasamayaṃ okkhāsataṃ dānaṃ dadeyya, yo majjhanhikasamayaṃ okkhāsataṃ dānaṃ dadeyya, yo sāyanhasamayaṃ okkhāsataṃ dānaṃ dadeyya, yo vā pubbaṇhasamayaṃ antamaso gadduhanamattampi mettacittaṃ bhāveyya, yo vā majjhanhikasamayaṃ antamaso gadduhanamattampi mettacittaṃ bhāveyya, yo vā sāyanhasamayaṃ antamaso gadduhanamattampi mettacittaṃ bhāveyya, idaṃ tato mahapphalataraṃ.",
+      "fr": "[bhikkhu|Mendiants], par rapport à celui qui ferait le don de cent marmites de riz le matin, de cent marmites de riz à midi, et de cent marmites de riz le soir, celui qui pratique l'[citta|esprit] de [metta|bienveillance] le matin, ne serait-ce que le temps qu'il faut pour presser le pis d'une vache, qui pratique l'[citta|esprit] de [metta|bienveillance] à midi, ne serait-ce que le temps qu'il faut pour presser le pis d'une vache, qui pratique l'[citta|esprit] de [metta|bienveillance] le soir, ne serait-ce que le temps qu'il faut pour presser le pis d'une vache, en tire de plus grand fruits."
+    },
+    {
+      "pl": "tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ — ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’’ti. evañhi vo, bhikkhave, sikkhitabban””ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants], vous devriez vous entraîner ainsi: [i]“Nous développerons la [cetovimutti|libération de l'esprit] par la [metta|bienveillance], nous la cultiverons, nous en ferons notre véhicule, nous en ferons notre terrain, nous l'établirons, nous l'accumulerons, nous la perfectionnerons.”[/i] Voici, [bhikkhu|mendiants], comment vous devriez vous entraîner."
+    }
+  ],
+  "keywords": ["bhagava", "bhikkhu", "citta", "metta", "cetovimutti"],
+  "translator": "Sekha"
+}

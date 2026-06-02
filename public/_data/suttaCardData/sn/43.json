@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "identifier": "SN 43.1",
+    "plTitle": "Kāyagatāsati Sutta",
+    "frTitle": "La présence d'esprit dirigée vers le corps",
+    "description": "Ce qu'est l'Inconstruit, avec la présence d'esprit dirigée vers le corps.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "kayagatasati", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "1",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.10",
+    "plTitle": "Bojjhaṅga Sutta",
+    "frTitle": "Les facteurs d'Éveil",
+    "description": "Ce qu'est l'Inconstruit, avec les facteurs d'Éveil.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "bojjhanga", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "10",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.11",
+    "plTitle": "Maggaṅga Sutta",
+    "frTitle": "Les composantes de la voie",
+    "description": "Ce qu'est l'Inconstruit, ainsi qu'un moyen d'y parvenir.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "ariyaatthangikamagga", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "11",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.2",
+    "plTitle": "Samathavipassanā Sutta",
+    "frTitle": "Tranquillité et vision discernante",
+    "description": "Ce qu'est l'Inconstruit, avec la tranquillité et la vision discernante.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "samatha", "vipassana", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "2",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.3",
+    "plTitle": "Savitakkasavicāra Sutta",
+    "frTitle": "Avec pensées actives et passives",
+    "description": "Ce qu'est l'Inconstruit, avec trois types de concentration.",
+    "keywords": [
+      "bhikkhu",
+      "asankhata",
+      "raga",
+      "dosa",
+      "moha",
+      "samadhi",
+      "#vitakka",
+      "vicara",
+      "vitakka",
+      "savaka",
+      "jhana",
+      "pamada"
+    ],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "3",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.5",
+    "plTitle": "Satipaṭṭhāna Sutta",
+    "frTitle": "Les mises en place de la présence d'esprit",
+    "description": "Ce qu'est l'Inconstruit, avec les quatre mises en place de la présence d'esprit.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "satipatthana", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "5",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.6",
+    "plTitle": "Sammappadhāna Sutta",
+    "frTitle": "Les efforts corrects",
+    "description": "Ce qu'est l'Inconstruit, avec les quatre efforts corrects.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "sammappadhana", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "6",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.7",
+    "plTitle": "Iddhipāda Sutta",
+    "frTitle": "Les bases des pouvoirs psychiques",
+    "description": "Ce qu'est l'Inconstruit, avec les quatre bases des pouvoirs psychiques.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "iddhipada", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "7",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.8",
+    "plTitle": "Indriya Sutta",
+    "frTitle": "Les facultés spirituelles",
+    "description": "Ce qu'est l'Inconstruit, avec les cinq facultés spirituelles.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "indriya", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "8",
+    "readingTime": 1
+  },
+  {
+    "identifier": "SN 43.9",
+    "plTitle": "Bala Sutta",
+    "frTitle": "Les forces spirituelles",
+    "description": "Ce qu'est l'Inconstruit, avec les cinq forces spirituelles.",
+    "keywords": ["bhikkhu", "asankhata", "raga", "dosa", "moha", "bala", "savaka", "jhana", "pamada"],
+    "translator": "Rémy",
+    "nikaya": "sn",
+    "id": "9",
+    "readingTime": 1
+  }
+]

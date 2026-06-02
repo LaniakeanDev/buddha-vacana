@@ -1,0 +1,75 @@
+{
+  "identifier": "AN 3.77",
+  "plTitle": "Bhava Sutta",
+  "frTitle": "L'existence",
+  "description": "Ananda demande au Bouddha ce qu'est l'existence (bhava). La différence avec le soutta précédent est que celui-ci substitue 'intention et aspiration' à 'Conscience' comme élément induisant le renouvellement de l'existence.",
+  "body": [
+    {
+      "pl": "atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:",
+      "fr": "En cette occasion, le [ayasma|vénérable] Ananda vint voir le [bhagava|Fortuné], lui rendit hommage, puis s'assit d'un côté. Une fois assis là, il dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“bhavo, bhavoti, bhante, vuccati. kittāvatā nu kho, bhante, bhavo hotī”ti?",
+      "fr": "«[bhante|Bhanté], on entend dire: [i]“[bhava|Existence], [bhava|existence]”[/i]. De quelle manière, [bhante|Bhanté], y a-t-il [bhava|existence]?"
+    },
+    {
+      "pl": "“kāmadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?",
+      "fr": "—Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] de la [kama|sensualité], est-ce qu'on discernerait l'[bhava|existence] dans [le domaine de] la [kama|sensualité]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+      "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que l'[cetana|intention] et l'aspiration des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] inférieur. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
+    },
+    {
+      "pl": "“rūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho rūpabhavo paññāyethā”ti?",
+      "fr": "Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] de la [rupa|forme], est-ce qu'on discernerait l'[bhava|existence] dans [le domaine de] la [rupa|forme]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“iti kho ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ majjhimāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+      "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que l'[cetana|intention] et l'aspiration des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] intermédiaire. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
+    },
+    {
+      "pl": "“arūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho arūpabhavo paññāyethā”ti?",
+      "fr": "Ananda, s'il n'y avait pas d'[kamma|action] portant ses fruits dans le [dhatu|domaine] du [arupa|sans-forme], est-ce qu'on discernerait l'[bhava|existence] dans le [domaine du] [arupa|sans-forme]?"
+    },
+    {
+      "pl": "“no hetaṃ, bhante”.",
+      "fr": "—Non, [bhante|Bhanté]."
+    },
+    {
+      "pl": "“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ paṇītāya dhātuyā cetanā patiṭṭhitā patthanā patiṭṭhitā. evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+      "fr": "—Ainsi, Ananda, l'[kamma|action] est le champ, la [vinnana|Conscience] est la graine, la [tanha|Soif] est l'humidité pour que l'[cetana|intention] et l'aspiration des êtres [nivarana|obstrués] par l'[avijja|ignorance] et [samyojana|entravés] par la [tanha|Soif] soit établie dans un [dhatu|domaine] élevé. C'est ainsi qu'il y a production d'[bhava|existence] renouvelée dans le futur."
+    },
+    {
+      "pl": "evaṃ kho, ānanda, bhavo hotī”ti.",
+      "fr": "Voici, Ananda, comment il y a [bhava|existence].» "
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "i]“[bhava",
+    "bhava",
+    "kamma",
+    "dhatu",
+    "kama",
+    "vinnana",
+    "tanha",
+    "cetana",
+    "nivarana",
+    "avijja",
+    "samyojana",
+    "rupa",
+    "arupa"
+  ],
+  "translator": "Rémy"
+}

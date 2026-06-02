@@ -1,4 +1,6 @@
 // import { ISuttaCardData } from '@/types/exports';
+// import fs from 'fs';
+// import path from 'path';
 
 const hasRequiredProperties = (obj: object, keys: string[]): boolean => {
   return keys.every((key) => key in obj);
@@ -146,6 +148,7 @@ export function isISuttaData(data: unknown): data is ISuttaData {
   if (typeof data !== 'object' || data === null) {
     return false;
   }
+  // const logPath = path.join(process.cwd(), 'scripts/log.txt');
 
   // Type assertion to access properties
   const potentialSutta = data as Record<string, unknown>;
@@ -155,33 +158,46 @@ export function isISuttaData(data: unknown): data is ISuttaData {
     typeof potentialSutta.identifier !== 'string' ||
     typeof potentialSutta.plTitle !== 'string' ||
     typeof potentialSutta.frTitle !== 'string' ||
-    typeof potentialSutta.description !== 'string'
+    typeof potentialSutta.description !== 'string' ||
+    typeof potentialSutta.translator !== 'string'
   ) {
+    // logError(logPath, 'top level type error');
     return false;
   }
 
   // Check body is an array
   if (!Array.isArray(potentialSutta.body)) {
+    // logError(logPath, 'body is not array');
     return false;
   }
   // Validate each block in body
   for (const block of potentialSutta.body) {
     if (typeof block !== 'object' || block === null) {
+      // logError(logPath, `${block} is null or not an object`);
       return false;
     }
     // Check required block properties
     if (typeof (block as ISuttaBlock).fr !== 'string' || typeof (block as ISuttaBlock).pl !== 'string') {
+      // logError(logPath, `${block.pl} | ${block.fr} misses fr or pl`);
       return false;
     }
   }
 
-  if (!Array.isArray(potentialSutta.keywords)) return false;
-  for (const keyword of potentialSutta.keywords) {
-    if (typeof keyword !== 'string') return false;
-  }
+  // if (!Array.isArray(potentialSutta.keywords)) return false;
+  // for (const keyword of potentialSutta.keywords) {
+  //   if (typeof keyword !== 'string') return false;
+  // }
 
   return true;
 }
+
+// function logError(outputFile: string, message: string) {
+//   try {
+//     fs.writeFileSync(outputFile, message, 'utf8');
+//   } catch (error) {
+//     console.error('Failed to write to log file:', error);
+//   }
+// }
 
 /**
  * Check that the contents are correctly structured as an array of ISuttaData

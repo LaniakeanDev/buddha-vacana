@@ -1,0 +1,47 @@
+{
+  "identifier": "SN 56.9",
+  "plTitle": "Viggāhikakathā Sutta",
+  "frTitle": "Les propos conflictuels",
+  "description": "Les joutes verbales sont improductives et doivent être évitées. Il y a quatre choses dont il est bien plus utile de parler.",
+  "body": [
+    {
+      "pl": "Mā, bhikkhave, viggāhikakathaṃ katheyyātha: ‘na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi. Kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi! Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca; pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ. Āropito te vādo, cara vādappamokkhāya. Niggahitosi, nibbeṭhehi vā sace pahosī’ti.",
+      "fr": "«[bhikkhu|Mendiants], ne tenez pas de propos conflictuels [tels que:] [i]“Vous ne comprenez pas cet [dhamma|Enseignement] & [vinaya|Discipline]. Moi, je comprends cet [dhamma|Enseignement] & [vinaya|Discipline]. Qu'est-ce que vous comprenez à cet [dhamma|Enseignement] & [vinaya|Discipline]? Vous pratiquez de manière erronée. Moi, je pratique de manière correcte. Moi, je suis cohérent, mais vous, vous ne l'êtes pas. Ce qui est à dire d'abord, vous l'avez dit ensuite; ce qui est à dire ensuite, vous l'avez dit d'abord. Vous avez inversé la procédure. Votre doctrine a été réfutée. Allez sauver votre doctrine. Vous avez été défaits, à moins que vous ne soyez capables de vous désembourber.”[/i]"
+    },
+    {
+      "pl": "Taṃ kissa hetu? Nesā, bhikkhave, kathā atthasaṃhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati.",
+      "fr": "Pourquoi cela? Parce que ces propos, [bhikkhu|mendiants], ne sont pas [@m_atthasamhita|profitables], qu'ils ne se rapportent pas aux principes de la [brahmacariya|vie brahmique], et qu'ils ne mènent pas au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "Kathentā ca kho tumhe, bhikkhave, ‘idaṃ dukkha’nti katheyyātha, ‘ayaṃ dukkha·samudayo’ti katheyyātha, ‘ayaṃ dukkha·nirodho’ti katheyyātha, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti katheyyātha.",
+      "fr": "Au contraire, [bhikkhu|mendiants], lorsque vous parlez, parlez de: [i]“Voici le [dukkha|mal-être]”,[/i] parlez de: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] parlez de: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] parlez de: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]"
+    },
+    {
+      "pl": "Taṃ kissa hetu? Esā, bhikkhave, kathā atthasaṃhitā esā ādibrahmacariyakā esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+      "fr": "Pourquoi cela? Parce que ces propos, [bhikkhu|mendiants], sont [@m_atthasamhita|profitables], qu'ils se rapportent aux principes de la [brahmacariya|vie brahmique], et qu'ils mènent au [nibbida|désenchantement], au [viraga|désintéressement], à la [nirodha|cessation], à la [upasama|quiétude], à la [abhinna|connaissance directe], à l'[sambodhi|éveil], à l'[nibbana|Extinction]."
+    },
+    {
+      "pl": "Tasmātiha, bhikkhave, ‘idaṃ dukkha’nti yogo karaṇīyo, ‘ayaṃ dukkha·samudayo’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodho’ti yogo karaṇīyo, ‘ayaṃ dukkha·nirodha·gāminī paṭipadā’ti yogo karaṇīyo ti.",
+      "fr": "C'est pourquoi, [bhikkhu|mendiants],le travail [de contemplation] est à faire: [i]“Voici le [dukkha|mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhasamudaya|l'origine du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dukkhanirodha|la cessation du mal-être]”,[/i] le travail [de contemplation] est à faire: [i]“Voici [dngp|la voie menant à la cessation du mal-être]”.[/i]»"
+    }
+  ],
+  "keywords": [
+    "bhikkhu",
+    "dhamma",
+    "vinaya",
+    "@m_atthasamhita",
+    "brahmacariya",
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodhi",
+    "nibbana",
+    "dukkha",
+    "dukkhasamudaya",
+    "dukkhanirodha",
+    "dngp"
+  ],
+  "translator": "Rémy"
+}

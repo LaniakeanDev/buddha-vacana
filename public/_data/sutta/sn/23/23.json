@@ -1,0 +1,41 @@
+{
+  "identifier": "SN 23.23",
+  "plTitle": "Māra Sutta",
+  "frTitle": "Le Tueur",
+  "description": "Radha demande au Bouddha de l'exhorter en bref.",
+  "body": [
+    {
+      "pl": "Sāvatthinidānaṃ. ",
+      "fr": "À Savatthi."
+    },
+    {
+      "pl": "atha kho āyasmā rādho yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca",
+      "fr": "Assis d'un côté, le [ayasma|vénérable] Radha dit au [bhagava|Fortuné]:"
+    },
+    {
+      "pl": "“sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.",
+      "fr": "«Il serait bon, [bhante|Bhanté], que le [bhagava|Fortuné] m'enseigne le [dhamma|Dhamma] en bref, de telle manière qu'ayant entendu le [dhamma|Dhamma] de la part du [bhagava|Fortuné], je demeure seul, isolé, [appamada|assidu], [atapi|ardent] et voué à l'effort."
+    },
+    {
+      "pl": "“yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. ko ca, rādha, māro? rūpaṃ kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. vedanā māro; tatra te chando pahātabbo ... pe ... saññā māro; tatra te chando pahātabbo ... pe ... saṅkhārā māro; tatra te chando pahātabbo ... pe ... viññāṇaṃ māro; tatra te chando pahātabbo ... pe ... yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.",
+      "fr": "—Radha, tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers le Tueur. Et qu'est-ce, Radha, que le Tueur? La [rupa|Forme], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle. Le [vedana|Ressenti](…) La [sanna|Perception] (…) Les [sankhara|Constructions] (…) La [vinnana|Conscience], Radha, est le [mara|Tueur]. Tu devrais abandonner le [chanda|désir], tu devrais abandonner l'[raga|avidité], tu devrais abandonner le [chanda|désir] avide envers elle.»"
+    }
+  ],
+  "keywords": [
+    "ayasma",
+    "bhagava",
+    "bhante",
+    "dhamma",
+    "appamada",
+    "atapi",
+    "chanda",
+    "raga",
+    "rupa",
+    "mara",
+    "vedana",
+    "sanna",
+    "sankhara",
+    "vinnana"
+  ],
+  "translator": "Sekha"
+}

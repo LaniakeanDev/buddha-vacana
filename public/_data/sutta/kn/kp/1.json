@@ -1,0 +1,22 @@
+{
+  "identifier": "Kp 1",
+  "plTitle": "Saraṇattaya",
+  "frTitle": "Les trois refuges",
+  "description": "La formule des trois refuges.",
+  "body": [
+    {
+      "pl": "buddhaṃ saraṇaṃ gacchāmi.[@v]dhammaṃ saraṇaṃ gacchāmi.[@v]saṅghaṃ saraṇaṃ gacchāmi.",
+      "fr": "Je vais en refuge au Bouddha.[@v]Je vais en refuge au [dhamma|Dhamma].[@v]Je vais en refuge à la [sangha|Communauté]."
+    },
+    {
+      "pl": "dutiyampi buddhaṃ saraṇaṃ gacchāmi.[@v]dutiyampi dhammaṃ saraṇaṃ gacchāmi.[@v]dutiyampi saṅghaṃ saraṇaṃ gacchāmi.",
+      "fr": "Une deuxième fois, je vais en refuge au Bouddha.[@v]Une deuxième fois, je vais en refuge au [dhamma|Dhamma].[@v]Une deuxième fois, je vais en refuge à la [sangha|Communauté]."
+    },
+    {
+      "pl": "tatiyampi buddhaṃ saraṇaṃ gacchāmi.[@v]tatiyampi dhammaṃ saraṇaṃ gacchāmi.[@v]tatiyampi saṅghaṃ saraṇaṃ gacchāmi.",
+      "fr": "Une troisième fois, je vais en refuge au Bouddha.[@v]Une troisième fois, je vais en refuge au [dhamma|Dhamma].[@v]Une troisième fois, je vais en refuge à la [sangha|Communauté]."
+    }
+  ],
+  "keywords": ["dhamma", "sangha"],
+  "translator": "Sekha"
+}

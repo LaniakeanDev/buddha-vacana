@@ -1,0 +1,98 @@
+[
+  {
+    "identifier": "Kp 1",
+    "plTitle": "Saraṇattaya",
+    "frTitle": "Les trois refuges",
+    "description": "La formule des trois refuges.",
+    "keywords": [
+      "@v]Je vais en refuge au [dhamma",
+      "@v]Je vais en refuge à la [sangha",
+      "@v]Une deuxième fois, je vais en refuge au [dhamma",
+      "@v]Une deuxième fois, je vais en refuge à la [sangha",
+      "@v]Une troisième fois, je vais en refuge au [dhamma",
+      "@v]Une troisième fois, je vais en refuge à la [sangha"
+    ],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "1",
+    "readingTime": 0
+  },
+  {
+    "identifier": "Kp 2",
+    "plTitle": "Dasasikkhāpada",
+    "frTitle": "Les dix règles de l'entraînement",
+    "description": "Voici les dix règles de l'entraînement qui s'adressent aux mendiants novices.",
+    "keywords": ["sikkhapada", "abrahmacariya", "musavada", "suramerayamajjapamadatthana"],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "2",
+    "readingTime": 1
+  },
+  {
+    "identifier": "Kp 3",
+    "plTitle": "Dvattiṃsākāra",
+    "frTitle": "Les trente-deux composants du corps",
+    "description": "La récitation de ces trente-deux parties du corps est utile pour désenchanter un novice vis-à-vis du corps et l'aider à se rendre compte qu'il n'est qu'un ensemble de choses peu ragoûtantes.",
+    "keywords": [],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "3",
+    "readingTime": 0
+  },
+  {
+    "identifier": "Kp 5",
+    "plTitle": "Maṅgala Sutta",
+    "frTitle": "Les bienfaits",
+    "description": "Un soutta très fréquemment récité où un déva demande au Bouddha quel est le plus haut bienfait et reçoit une liste en réponse.",
+    "keywords": [
+      "bhagava",
+      "deva",
+      "baala",
+      "@v]S'associer aux [pandita",
+      "@v]Avoir fait du [punna",
+      "@v][vinaya",
+      "sikkha",
+      "dhamma",
+      "@v]Se passer de prendre des intoxicants[@v]Et être assidu dans les [dhamma",
+      "@v]Contentement et gratitude[@v]Écouter l'[dhamma",
+      "@v]Aller voir les [samana",
+      "@v]Avoir des conversations régulières au sujet de l'[dhamma",
+      "brahmacariya",
+      "@v]Vision des [ariyasacca",
+      "@v]Et réalisation de l'[nibbana",
+      "@v]L'[citta"
+    ],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "5",
+    "readingTime": 2
+  },
+  {
+    "identifier": "Kp 6",
+    "plTitle": "Ratana Sutta",
+    "frTitle": "Les trésors",
+    "description": "Un autre soutta très couramment récité sur les trésors que sont le Bouddha, le Dhamma et la Communauté.",
+    "keywords": [],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "6",
+    "readingTime": 4
+  },
+  {
+    "identifier": "Kp 9",
+    "plTitle": "Mettā Sutta",
+    "frTitle": "La bienveillance",
+    "description": "Encore un soutta très prisé dans les manuels de récitation théravadins, sur la pratique de la bienveillance.",
+    "keywords": [
+      "@v]Ni ne méprise qui que ce soit où que ce soit[@v]À cause de provocation ou d'hostilité[@v]Qu'ils ne se souhaitent pas de la [dukkha",
+      "metta",
+      "ditthi",
+      "@v][sila",
+      "@v]Ayant éliminé le désir pour les [kama"
+    ],
+    "translator": "Sekha",
+    "nikaya": "kn",
+    "id": "9",
+    "readingTime": 1
+  }
+]
