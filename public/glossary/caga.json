@@ -1,0 +1,42 @@
+{
+  "id": "caga",
+  "title": "cāga",
+  "translation": ["1) générosité", "2) renoncement"],
+  "body": [
+    { "p": ["L'accomplissement en générosité (cāgasampadā) est défini dans le [@$an08-054|Dīghajāṇu Sutta]:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 8.54]",
+        "text": [
+          {
+            "pl": "“katamā ca, byagghapajja, cāgasampadā? idha, byagghapajja, kulaputto vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato.",
+            "fr": "Et qu'est-ce que l'accomplissement en générosité? À cet égard, un gentilhomme vit à la maison avec un esprit dépourvu de la souillure de l'avarice, librement généreux, la main ouverte, se plaisant à faire des dons, accessible aux demandes, se plaisant à donner et à partager."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Une personne qui est ainsi généreuse est reconnue comme ayant de la conviction ([saddha|saddhā]) et de la confiance (pasanna) à [@$AN 3.42]."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 2.143]",
+        "text": [
+          {
+            "pl": "“dveme, bhikkhave, cāgā. katame dve? āmisacāgo ca dhammacāgo ca. ime kho, bhikkhave, dve cāgā. etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ cāgānaṃ yadidaṃ dhammacāgo”ti.",
+            "fr": "Il y a, mendiants, ces deux [types de] générosité. Quels sont ces deux? La générosité au travers des choses matérielles et la générosité au travers du Dhamma. Voici, mendiants, quels sont ces deux [types de] générosité. De ces deux [types de] générosité, le plus éminent est la générosité au travers du Dhamma."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À SN 55.6 et SN 55.39, la générosité est mentionnée comme étant le quatrième facteur d'entrée dans le courant ([sotapattiyanga|sotāpattiyaṅga]) à la place des vertus ([sila|sīlā]) chères aux êtres nobles. À [@$SN 55.32], elle est citée comme le quatrième flux de mérite, flux avantageux, nourriture du bien-être (puññābhisandā kusalābhisandā sukhassāhārā).",
+        "[@$AN 5.157] explique pourquoi une allocution au sujet de la générosité est mal adressée à quelqu'un d'avare.",
+        "La générosité appraît fréquemment dans une liste d'habitudes à développer, avec la conviction ([saddha|saddhā]), la vertu ([sila|sīlā]), l'instruction ([sutava|suta]) et le discernement ([panna|paññā]). À [@$AN 2.33], faire progresser ses parents dans ces domaines, y compris celui de la générosité est le seul moyen de les rétribuer pour tous leurs efforts."
+      ]
+    }
+  ]
+}

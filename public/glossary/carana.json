@@ -1,0 +1,28 @@
+{
+  "id": "carana",
+  "title": "caraṇa",
+  "translation": ["conduite, comportement."],
+  "body": [
+    {
+      "p": [
+        "Ce qui relève de la conduite est défini dans le [@$chris_053|Sekha Sutta]. Il s'agit de la vertu ([sila|sīlā]), la protection à l'entrée des facultés sensorielles ([indriyesuguttadvarata|indriyesu guttadvāro]), la modération dans la nourriture ([bmt|bhojane matt·aññutā]), la consécration à l'état de veille ([jagariyamanuyoga|jāgariyaṃ anuyoga]), la conviction ([saddha|saddhā]), la honte morale ([hiri|hiri]), la crainte morale ([ottappa|ottappa]), l'instruction, la tonification de l'énergie ([araddhaviriya|āraddha·vīriya]), la présence d'esprit ([sati|sati]), le discernement ([panna|paññā]), et les quatre [jhana|jhana]s:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$chris_053|MN 53]",
+        "text": [
+          {
+            "pl": " “kathañca, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti? idha, mahānāma, ariyasāvako saddho hoti… hirimā hoti… ottappī hoti… bahussuto hoti… āraddhavīriyo viharati… satimā hot… paññavā hoti… evaṃ kho, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti.",
+            "fr": "Et comment un noble disciple possède-t-il sept qualités? Il est convaincu (…) il a de la honte morale (…) de la crainte morale (…) il est très instruit (…) il a tonifié son énergie (…) il est présent d'esprit (…) il a du discernement (…) Voici comment un noble disciple possède sept qualités."
+          },
+          { "pl": "…", "fr": " (…)" },
+          {
+            "pl": "“yampi, mahānāma, ariyasāvako sīlasampanno hoti, idampissa hoti caraṇasmiṃ; yampi, mahānāma, ariyasāvako indriyesu guttadvāro hoti, idampissa hoti caraṇasmiṃ; yampi, mahānāma, ariyasāvako bhojane mattaññū hoti, idampissa hoti caraṇasmiṃ; yampi, mahānāma, ariyasāvako jāgariyaṃ anuyutto hoti, idampissa hoti caraṇasmiṃ; yampi, mahānāma, ariyasāvako sattahi saddhammehi samannāgato hoti, idampissa hoti caraṇasmiṃ; yampi, mahānāma, ariyasāvako catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī, idampissa hoti caraṇasmiṃ.",
+            "fr": "Lorsqu'un noble disciple est accompli en vertu, cela relève de sa conduite. Lorsqu'un noble disciple protège l'entrée de ses facultés sensorielles, cela relève de sa conduite.Lorsqu'un noble disciple connait la [bonne] mesure avec la nourriture, cela relève de sa conduite.Lorsqu'un noble disciple est dédié à l'état de veille, cela relève de sa conduite.Lorsqu'un noble disciple possède les sept qualités, cela relève de sa conduite.Lorsqu'un noble disciple obtient à volonté, aisément et sans difficulté les quatre jhanas, états d'esprit élevés qui fournissent un séjour agréable dans le monde visible, cela relève de sa conduite."
+          }
+        ]
+      }
+    }
+  ]
+}
