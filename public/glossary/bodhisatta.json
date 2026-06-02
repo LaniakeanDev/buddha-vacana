@@ -1,0 +1,78 @@
+{
+  "id": "bodhisatta",
+  "title": "bodhisatta",
+  "breakdown": "[[bodhi|bodhi]+[@m_satta|satta]]",
+  "translation": ["être d'Éveil, individu destiné à devenir un Bouddha ([sammasambuddha|sammā-Sambuddha])."],
+  "body": [
+    {
+      "p": [
+        "Dans les souttas, le Bouddha n'utilise ce terme qu'en référence à lui-même, à une époque antérieure à son Éveil ([bodhi|bodhi]). Cela suggère (sans toutefois le démontrer) qu'à l'origine le mot n'aurait été utilisé qu'en connexion avec la dernière vie du Bouddha, dans des contextes tels que «avant mon Éveil, lorsque je n'étais qu'un être d'Éveil, pas encore éveillé», bien que certains souttas utilisent le terme en référence à toute personne destinée à devenir un Bouddha. Cependant, il y a des éléments portant à croire que ces derniers souttas sont des productions tardives reflétant l'évolution historique du bouddhisme au cours des siècles qui ont suivi la mort du Bouddha.",
+        "Le premier type de soutta dans lequel apparaît le terme [i]bodhisatta[/i] est lorsque le Bouddha raconte sa quête de l'Éveil, avec ses essais et ses échecs: [@$chris_026|MN 26], [@$chris_036|36], [@$chris_085|85], 100."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]e.g. MN 85[/b]",
+        "text": [
+          {
+            "pl": "“mayhampi kho, rājakumāra, pubbeva sambodhā anabhisambuddhassa [b]bodhisattasseva[/b] sato etadahosi — ‘na kho sukhena sukhaṃ adhigantabbaṃ, dukkhena kho sukhaṃ adhigantabban’ti. so kho ahaṃ, rājakumāra, aparena samayena daharova samāno susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṃ mātāpitūnaṃ assumukhānaṃ rudantānaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajiṃ. so evaṃ pabbajito samāno kiṃkusalagavesī anuttaraṃ santivarapadaṃ pariyesamāno yena āḷāro kālāmo tenupasaṅkamiṃ; upasaṅkamitvā āḷāraṃ kālāmaṃ etadavocaṃ — ‘icchāmahaṃ, āvuso kālāma, imasmiṃ dhammavinaye brahmacariyaṃ caritun’ti.",
+            "fr": "A moi aussi, prince, avant mon Éveil complet, lorsque je n'étais qu'un [b]être d'Éveil[/b], pas encore éveillé, je me suis dit que ce n’était pas par le bien-être que l’on accédait au bien-être, mais que c'était par le mal-être qu'on accédait au bien-être. Alors plus tard, étant encore jeune, les cheveux noirs, possédant les bienfaits de la jeunesse, dans mes premières années, contre la volonté de mes parents, qui pleuraient, le visage en pleurs, m'étant rasé les cheveux et la barbe, ayant revêtu les robes ocres, je quittai la vie de foyer pour le sans-foyer. Ayant ainsi quitté le foyer, recherchant ce qui est avantageux, recherchant un état de paix suprême, j'allai voir Alara Kalama et lui dit: “Ami Kalama, je souhaite vivre la vie brahmique selon cet enseignement et discipline.”"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le deuxième type de soutta dans lequel apparaît le terme [i]bodhisatta[/i] est lorsque le Bouddha raconte comment sa recherche de la vérité avant son Éveil a façonné son Enseignement ([dhamma|Dhamma]). Ainsi, à [@$SN 12.10] et [@$65], il raconte comment il a découvert l'apparition conditionnée ([paticcasamuppada|paṭicca·samuppāda]). À [@$chris_128|MN 128] et AN 8.64, il explique comment il a stabilisé la perception de la lumière [i](obhāsa)[/i] et la vision des formes [i](dassana rūpānaṃ)[/i]. À [@$SN 51.11] et 21, il raconte comment il a cherché le moyen de développer les chemins du pouvoir psychique ([iddhipada|iddhipāda]). À [@$AN 9.41], il explique comment il a recherché successivement des niveaux de plus en plus élevés de libération ([vimutti|vimutti]) à travers les [jhana|jhāna].",
+        "Dans certains souttas, le Bouddha se rappelle avoir cherché l'agrément ([assada|assāda]), le désavantage ([adinava|ādīnava]) et l'émancipation ([nissarana|nissaraṇa]) par rapport à divers phénomènes:"
+      ]
+    },
+    {
+      "list": [
+        "la sensualité ([kama|kāma]) à [@$MN 14]",
+        "les quatre éléments matériels ([dhatu|dhātu]) à SN 14.31",
+        "les cinq accumulations ([khandha|khandha]) à [@$SN 22.26]",
+        "les six sens à [@$SN 35.13]",
+        "les objets des sens à [@$SN 35.14]",
+        "les ressentis ([vedana|vedanā]) à SN 36.24",
+        "le monde en général ([loka|loka]) à [@$AN 3.104]"
+      ]
+    },
+    {
+      "p": [
+        "Dans le troisième type de soutta où apparaît le terme [i]bodhisatta[/i], le Bouddha raconte ses réflexions ou ses pratiques avant son Éveil."
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@e.g. [@$MN 19]]",
+        "text": [
+          {
+            "pl": "“pubbeva me, bhikkhave, sambodhā anabhisambuddhassa [b]bodhisattasseva[/b] sato etadahosi — ‘yaṃnūnāhaṃ dvidhā katvā dvidhā katvā vitakke vihareyyan’ti. so kho ahaṃ, bhikkhave, yo cāyaṃ kāmavitakko yo ca byāpādavitakko yo ca vihiṃsāvitakko — imaṃ ekaṃ bhāgamakāsiṃ; yo cāyaṃ nekkhammavitakko yo ca abyāpādavitakko yo ca avihiṃsāvitakko — imaṃ dutiyaṃ bhāgamakāsiṃ.",
+            "fr": "Mendiants, avant mon Éveil, lorsque je n'étais qu'un [b]être d'Éveil[/b], pas encore éveillé, je me suis dit: “Et si je séparais mes pensées en deux?” Alors je mis dans un premier groupe les pensées de sensualité, les pensées de malveillance, et les pensées de non-inoffensivité, et je mis dans un second groupe les pensées de renoncement, les pensées de bienveillance et les pensées de non-nuisance."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "À [@$SN 54.8], le Bouddha mentionne sa pratique de la présence de l'esprit sur la respiration ([anapanassati|ānāpānassati]) avant son Éveil. À AN 5.68, il mentionne sa pratique des chemins du pouvoir psychique ([iddhipada|iddhipāda]). À SN 35.117, il raconte avoir remarqué: “Mon esprit est souvent distrait vers les cinq types d'agréments de la sensualité dont je faisais l'expérience dans le passé, ou dans le présent ou ceux d'un futur proche” [i](yeme pañca kāmaguṇā cetaso samphuṭṭhapubbā… tatra me cittaṃ bahulaṃ gacchamānaṃ gaccheyya paccuppannesu vā appaṃ vā anāgatesu)[/i].",
+        "À [@$AN 5.196], le Bouddha se rappelle cinq rêves qu'il a faits avant son Éveil.",
+        "Dans tous les cas ci-dessus, qui représentent la vaste majorité des souttas où apparaît le terme [i]bodhisatta[/i], ce dernier fait référence au Bouddha dans sa dernière existence, avant son Éveil. Il y a une autre classe de souttas utilisant également ce terme, qui développent la mythologie des Bouddhas et racontent ce qui s'est produit lors des anciennes incarnations du Bouddha ou de Bouddhas précédents, avec des mentions d'événements mondiaux surnaturels, et partant du principe que le temps est cyclique, les êtres humains ayant toujours existé depuis la nuit des temps. Il y a des indications montrant que ces souttas ont probablement une origine tardive.",
+        "Nous savons en effet qu'historiquement il y a eu une évolution dans la littérature bouddhiste, qui est reflétée dans le Kathāvatthu. N. Dutt observe dans «Buddhist Sects in India» (p221) que durant la pédiode [i]«du bouddhisme ancien ou du Hīnayāna pur (environ 450 à 350 av. J.-C.) (...) le récit de la Vie du Bouddha commençait généralement au moment de la renonciation du prince Siddhartha pour se poursuivre jusqu'à son accomplissement de la Bodhi, avec des références occasionnelles à ses existences antérieures, comme dans le Mahāgovinda Sutta (DN 19) ou le Mahāsudassana Sutta (DN 17). La conception d'un Bodhisattva accomplissant les pāramī était floue, pour ne pas dire inconnue.»[/i]",
+        "N. Dutt (p248) contraste cela avec les tendances qui sont apparues ensuite durant la période du «bouddhisme Hīnayāna mixte (environ 350 à 100 av. J.-C.)», au cours de laquelle [i]«un intérêt accru fut suscité chez les laïcs en popularisant le bouddhisme à travers les Jātakas et les Avadānas. (...) Une grande importance fut accordée à la composition des Jātakas et des Avadānas, et un mérite religieux considérable était attaché à leur lecture, leur écriture, leur illustration et leur sculpture. Cela captiva l'imagination des laïcs comme un moyen d'acquérir du mérite religieux, et se traduisit par la création de nombreuses sculptures, dont seules quelques-unes sont conservées à Sanchi et Bhārhut. L'initiative d'avoir popularisé la religion grâce aux Jātakas et aux Avadānas revient, dans un premier temps, aux Sarvāstivādins, et plus tard, aux Theravādins. (...) Le récit de la Vie du Bouddha ne commençait plus au moment de la renonciation de Siddhartha, mais à partir de la première résolution (praṇidhāna) faite par le brahmane Sumedha, et de la prophétie (vyākaraṇa) faite par le Bouddha Dīpaṃkara.»[/i]",
+        "Il est à noter que les Mahasanghikas étaient également des producteurs prolifiques de Jātakas.",
+        "L'engouement des laïcs bouddhistes pour les Jātakas et autres histoires mythologiques similaires a survécu jusqu'à aujourd'hui dans les pays asiatiques, et est directement observable de nos jours.",
+        "Le premier soutta présentant un tel contenu mythologique est DN 14 (Mahāpadāna Sutta : la grande légende). Ce titre fait référence aux sept derniers Bouddhas, au cours des derniers «91 éons». La vie du Bouddha Vipassi à cette période extrêmement ancienne (en principe bien avant l'émergence de l'humanité sur Terre) est racontée en des termes très similaires aux versions premières de la vie du Bouddha Gotama. Tous les Bouddhas y sont décrits comme faisant les mêmes expériences dans leur dernière vie.",
+        "Govind Chandra Pande, dans son livre «Studies in the Origins of Buddhism» (p94), remarque qu'«un changement d'atmosphère est indéniable», comparé au soutta précédent, DN 13, qu'il classifie comme «ancien». Il continue: [i]“Les vies des Bouddhas suivent un archétype immuable ; tout leur déroulement n'est que la manifestation de normes éternelles (Dhammatā). La liste des Bouddhas antérieurs s'est déjà élargie pour compter six noms, et les trente-deux marques de grandeur sont mentionnées en détail. Le titre même du sutta (Mahāpadāna) suggère son caractère tardif. Les «apadānas» devinrent plus tard un genre littéraire populaire, mais le mot lui-même, avec ce sens, n'est pas ancien.”[/i]",
+        "Pande explique à la p29 : [i]“La tendance théologique la plus significative [après 350 av. J.-C.] fut l'apothéose du Bouddha. L'idée d'un être incomparablement supérieur à toutes les créatures, y compris les dieux, et qui s'incarne de temps à autre, réellement ou en apparence, selon une norme fixe (Dhammatā) et uniquement par compassion, est sans précédent. Elle est tout à fait étrangère aux textes les plus anciens et a dû se développer progressivement. (...) La mention de Bouddhas antérieurs (comme Sikhī), de Bouddhas futurs (comme Metteyya), du «bodhisatta», des Pacceka-Buddha, des « miracles de la naissance » et le récit de la vie du Bouddha comme étant gouvernée par la «Dhammatā» – voilà autant de caractéristiques qui émergent comme étant tardives. (...) On assista également au développement du dogme physiognomonique des trente-deux «Mahāpurisalakkhaṇas» [marques d'un Grand Homme] (ceux-ci sont déclarés être une doctrine brahmanique dans le DN 3).”[/i]",
+        "Tout ceci semble indiquer que DN 14 a été composé à une époque relativement tardive, probablement au moins un siècle après la mort du Bouddha.",
+        "Le deuxième soutta présentant ce type de contenu mythologique est [@$chris_123|MN 123]: Acchariya-abbhūta Sutta - Discours sur le merveilleux et l'extraordinaire. Lors d'une réunion de mendiants, Ananda raconte les événements merveilleux et extraordinaires qui ont précédé et accompagné la naissance du Bouddha.",
+        "Pande note, dans «Studies in the Origins of Buddhism» (p140) : [i]“Le Soutta 123 décrit un grand nombre de «abbhuta-dhammas» (phénomènes merveilleux) qui doivent accompagner les préparations prénatales et la naissance finale d'un «Bodhisatta». Ce soutta appartient manifestement à une période où le Bouddha était considéré comme une divinité à part entière, ou même plus encore, et où sa naissance était une descente miraculeuse du divin.”[/i]",
+        "Comme pour DN 14, ce soutta a probablement été composé à une période tardive.",
+        "AN 4.127 et AN 8.70 partagent beaucoup de texte avec DN 14 et MN 123 et peuvent donc être soumis aux mêmes observations. Ud 5.2 est classifié par Chande (p74) comme tardif, puisque ce soutta «présuppose une bouddhologie bien développée» (ce qu'il considère comme un signe de caractère tardif). En effet, Ud 5.2 «décrit comment les mères des Bodhisattas doivent avoir [invariablement] une vie courte».",
+        "Pour approfondir le sujet, voir «The Genesis of the Bodhisattva Ideal» par Bhikkhu Anālayo."
+      ]
+    }
+  ]
+}

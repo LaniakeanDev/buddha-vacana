@@ -1,0 +1,351 @@
+{
+  "id": "bhava",
+  "title": "bhava",
+  "translation": ["(état d')existence, vie, devenir, processus de l'existence."],
+  "body": [
+    {
+      "p": [
+        "[i]Bhava[/i] ne signifie pas 'existence' dans le sens ontologique du terme, comme l'existence d'un édifice à un endroit donné ou d'un nombre hypothétique ayant des propriétés étranges, ce qui correspondrait plutôt au mot [i]«atthitā»[/i], dérivé du verbe [i]atthi[/i] et que l'on trouve par exemple à [@$SN 12.15].",
+        "Le sens du mot [i]bhava[/i] est décrit par Vén. Bodhi comme [i]«une existence concrète et sensible dans l'une des trois sphères d'existence proposées par la cosmologie bouddhiste» (concrete sentient existence in one of the three realms of existence posited by Buddhist cosmology)[/i], tandis que Vén. Thanissaro suggère qu'il signifie [i]«un sens de l'identité dans une expérience mondaine particulière: le sens de ce que vous êtes, centré sur un désir particulier, dans votre sens personnel du monde comme étant lié à ce désir» (a sense of identity in a particular world of experience: your sense of what you are, focused on a particular desire, in your personal sense of the world as related to that desire)[/i], et insiste sur le fait que le mot a à la fois une connotation psychologique et une connotation cosmologique. Il rajoute également: [i]«ce n'est pas la source de laquelle nous venons, c'est quelque chose qui est produit par l'activité de notre esprit» (it’s not the source from which we come; it’s something produced by the activity of our minds).[/i]",
+        "Cependant, Vén. Bodhi explique qu'il en est revenu à utiliser le terme [i]«existence»[/i] pour traduire [i]bhava[/i], après que les défauts du terme [i]«devenir»[/i] lui aient été mis en évidence.",
+        "La définition explicite que l'on trouve dans les souttas mentionne trois types de [i]bhava[/i]:"
+      ]
+    },
+    { "list": ["1. [kamabhava|kāma·bhava]", "2[rupabhava|rūpa·bhava]", "3[arupabhava|arūpa·bhava]"] },
+    { "p": ["On trouve cette définition par exemple dans le Bhavapañhā Sutta:"] },
+    {
+      "quote": {
+        "source": "[@$b]SN 38.13</a>[/b]",
+        "text": [
+          {
+            "pl": "—“‘bhavo, bhavo’ti, āvuso sāriputta, vuccati. katamo nu kho, āvuso, bhavo”ti?",
+            "fr": "—[i]'Existence, existence»[/i], entend-on dire, ami Saripoutta. Mais qu'est-ce donc que l'existence?"
+          },
+          {
+            "pl": "—“tayo me, āvuso, bhavā: kāmabhavo, rūpabhavo, arūpabhavo. ime kho, āvuso, tayo bhavā”ti.",
+            "fr": "—Ami, il y a ces trois [types d']existence: l'existence [dans la sphère] sensuelle, l'existence [dans la sphère] matérielle, et l'existence [dans la sphère] immatérielle. Voici, ami, quels sont ces trois types d'existence."
+          },
+          {
+            "pl": "—“atthi panāvuso, maggo atthi paṭipadā, etesaṃ bhavānaṃ pariññāyā”ti?",
+            "fr": "—Mais, ami, y a-t-il une voie, y a-t-il un sentier pour la compréhension complète de cette existence?"
+          },
+          {
+            "pl": "—“atthi kho, āvuso, maggo atthi paṭipadā, etesaṃ bhavānaṃ pariññāyā”ti.",
+            "fr": "—Il y a une voie, il y a un sentier pour la compréhension complète de cette existence."
+          },
+          {
+            "pl": "—“katamo, panāvuso, maggo katamā paṭipadā, etesaṃ bhavānaṃ pariññāyā”ti?",
+            "fr": "—Et quelle est cette voie, quel est ce sentier pour la compréhension complète de cette existence?"
+          },
+          {
+            "pl": "“ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etesaṃ bhavānaṃ pariññāya...",
+            "fr": "C'est cette noble voie à huit composantes, ami, qui est pour la compréhension complète de cette existence..."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[@$SN 45.164] répète essentiellement la même chose, et rajoute que la noble voie à huit composantes ([aam|ariya aṭṭh·aṅgika magga]) est également pour leur connaissance directe ([abhinna|abhiññā]), leur destruction complète (parikkhaya), et leur abandon ([pahana|pahāna]).",
+        "On trouve la même description en trois composantes [i](kāmabhavo, rūpabhavo, arūpabhavo)[/i] dans le Vibhaṅga Sutta, qui définit le terme dans le contexte de l'apparition conditionnée ([paticcasamuppada|paṭicca·samuppāda]), dans laquelle [i]bhava[/i] est conditionné par l'attachement ([upadana|upādāna]) et à son tour conditionne la naissance ([jati|jāti]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 12.2]",
+        "text": [
+          { "pl": "upādāna·paccayā bhavo;", "fr": "à cause de l'attachement, l'existence;" },
+          { "pl": "bhava·paccayā jāti;", "fr": "à cause de l'existence, la naissance;" },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "Katamo ca, bhikkhave, bhavo? Tayo·me, bhikkhave, bhavā: kāma·bhavo, rūpa·bhavo, arūpa·bhavo. Ayaṃ vuccati, bhikkhave, bhavo.",
+            "fr": "Et qu'est-ce, mendiants, que l'existence? Il y a ces trois [types d']existence: l'existence [dans la sphère] sensuelle, l'existence [dans la sphère] matérielle, et l'existence [dans la sphère] immatérielle. Voici ce qu'on appelle l'existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Certains souttas expliquent que l'action ([kamma|kamma]), la Conscience ([vinnana|viññāṇa]) et la Soif ([tanha|taṇhā]) jouent un rôle dans la 'production d'existence renouvelée dans le futur' [i](āyatiṃ puna·bbhav·ābhinibbatti)[/i], comme par exemple le Bhava Sutta:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.76]",
+        "text": [
+          {
+            "pl": "—“bhavo, bhavoti, bhante, vuccati. kittāvatā nu kho, bhante, bhavo hotī”ti?",
+            "fr": "—Bhanté, on entend dire: 'Existence, existence'. De quelle manière, Bhanté, y a-t-il existence?"
+          },
+          {
+            "pl": "—“kāmadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?",
+            "fr": "—Ananda, s'il n'y avait pas d'action portant ses fruits dans le domaine de la sensualité, est-ce qu'on discernerait l'existence dans [le domaine de] la sensualité?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          {
+            "pl": "—“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho. avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+            "fr": "—Ainsi, Ananda, l'action est le champ, la Conscience est la graine, la Soif est l'humidité pour que la Conscience des êtres obstrués par l'ignorance et entravés par la Soif soit établie dans un domaine inférieur. C'est ainsi qu'il y a production d'existence renouvelée dans le futur."
+          },
+          {
+            "pl": "—rūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho rūpabhavo paññāyethā”ti?",
+            "fr": "—Ananda, s'il n'y avait pas d'action portant ses fruits dans le domaine de la forme, est-ce qu'on discernerait l'existence dans [le domaine de] la forme?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          {
+            "pl": "—“iti kho ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho. avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ majjhimāya dhātuyā viññāṇaṃ patiṭṭhitaṃ evaṃ āyatiṃ punabbhavābhinibbatti hoti.",
+            "fr": "—Ainsi, Ananda, l'action est le champ, la Conscience est la graine, la Soif est l'humidité pour que la Conscience des êtres obstrués par l'ignorance et entravés par la Soif soit établie dans un domaine intermédiaire. C'est ainsi qu'il y a production d'existence renouvelée dans le futur."
+          },
+          {
+            "pl": "“arūpadhātuvepakkañca, ānanda, kammaṃ nābhavissa, api nu kho arūpabhavo paññāyethā”ti?",
+            "fr": "Ananda, s'il n'y avait pas d'action portant ses fruits dans le domaine du sans-forme, est-ce qu'on discernerait l'existence dans le [domaine du] sans-forme?"
+          },
+          { "pl": "—“no hetaṃ, bhante”.", "fr": "—Non, Bhanté." },
+          {
+            "pl": "—“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho. avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ paṇītāya dhātuyā viññāṇaṃ patiṭṭhitaṃ evaṃ āyatiṃ punabbhavābhinibbatti hoti. evaṃ kho, ānanda, bhavo hotī”ti.",
+            "fr": "—Ainsi, Ananda, l'action est le champ, la Conscience est la graine, la Soif est l'humidité pour que la Conscience des êtres obstrués par l'ignorance et entravés par la Soif soit établie dans un domaine élevé. C'est ainsi qu'il y a production d'existence renouvelée dans le futur."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le soutta suivant répète exactement le même discours,sauf que ce n'est plus la Conscience ([vinnana|viññāṇa]) qui s'établit aux différents niveaux mais la volition ([cetana|cetanā]) et l'aspiration ([i]patthanā[/i]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.77]",
+        "text": [
+          {
+            "pl": "“iti kho, ānanda, kammaṃ khettaṃ, viññāṇaṃ bījaṃ, taṇhā sneho. avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya dhātuyā [b]cetanā[/b] patiṭṭhitā [b]patthanā[/b] patiṭṭhitā evaṃ āyatiṃ punabbhavābhinibbatti hoti”.",
+            "fr": "Ainsi, Ananda, l'action est le champ, la Conscience est la graine, la Soif est l'humidité pour que [b]la volition et l'aspiration[/b] des êtres obstrués par l'ignorance et entravés par la Soif soit établie dans un domaine inférieur. C'est ainsi qu'il y a production d'existence renouvelée dans le futur."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "SN 23.3 explique que [i]bhava[/i] apparaît à cause du désir ([chanda|chanda]), de l'avidité ([raga|rāga]), de la complaisance [i](nandi)[/i], de la Soif ([tanha|taṇhā]), de l'attachement ([upadana|upādāna]), des aspirations de l'esprit [i](cetaso adhiṭṭhānā)[/i], des adhérences [i](abhinivesa)[/i], et des penchants latents ([anusaya|anusaya]) liés aux cinq accumulations ([khandha|khandha]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 23.3[/b]",
+        "text": [
+          {
+            "pl": "— “‘bhavanetti, bhavanettī’ti, bhante, vuccati. katamā nu kho, bhante, bhavanetti, katamo bhavanettinirodho”ti?",
+            "fr": "—Bhanté, on entend dire: [i]«Le conduit vers l'existence, le conduit vers l'existence.»[/i] Qu'est-ce, Bhanté que le conduit vers l'existence, et qu'est-ce que la cessation du conduit vers l'existence?"
+          },
+          {
+            "pl": "“rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā: ayaṃ vuccati bhavanetti. tesaṃ nirodho bhavanettinirodho.",
+            "fr": "Radha, le désir l'avidité, la complaisance, la Soif, l'attachement, les déterminations mentales, inclinations & penchants latents envers la Forme: c'est ce qu'on appelle le conduit vers l'existence. Leur cessation est la cessation du conduit vers l'existence."
+          },
+          {
+            "pl": "vedanāya... saññāya... saṅkhāresu ... viññāṇe yo chando ... pe ... adhiṭṭhānābhinivesānusayā — ayaṃ vuccati bhavanetti. tesaṃ nirodho bhavanettinirodho”ti.",
+            "fr": "Le désir l'avidité, la complaisance, la Soif, l'attachement, les déterminations mentales, inclinations & penchants latents envers le Ressenti (…) la Perception (…) les Constructions (…) la Conscience: c'est ce qu'on appelle le conduit vers l'existence. Leur cessation est la cessation du conduit vers l'existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Le Majjhe Sutta insiste sur la Soif ([tanha|taṇhā]) comme étant une cause majeure de la production de [i]bhava (bhavassa abhinibbattiyā)[/i]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 6.61[/b]",
+        "text": [
+          {
+            "pl": "taṇhā sibbinī: taṇhā hi naṃ sibbati tassa tasseva bhavassa abhinibbattiyā",
+            "fr": "la Soif est la couturière: la Soif nous coud à la production de telle ou telle existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "De plus, la Soif d'existence ([i]bhava[/i]·[tanha|taṇhā]) n'a pas de point de départ et est enracinée dans l'ignorance ([avijja|avijjā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.62]",
+        "text": [
+          {
+            "pl": "“purimā, bhikkhave, koṭi na paññāyati bhavataṇhāya: ‘ito pubbe bhavataṇhā nāhosi, atha pacchā samabhavī’ti. evañcetaṃ, bhikkhave, vuccati, atha ca pana paññāyati: ‘idappaccayā bhavataṇhā’ti.",
+            "fr": "Mendiants, il n'est pas possible de discerner un commencement à la Soif de devenir, dont on puisse dire: 'Avant ceci, il n'y avait pas de Soif de devenir, elle est apparue ensuite.' Cependant, mendiants, on peut discerner une condition spécifique de la Soif de devenir, dont on peut dire: 'À cause de cela, il y a Soif de devenir.' "
+          },
+          {
+            "pl": "“bhavataṇhāmpāhaṃ, bhikkhave, sāhāraṃ vadāmi, no anāhāraṃ. ko cāhāro bhavataṇhāya? ‘avijjā’tissa vacanīyaṃ.",
+            "fr": "Mendiants, je déclare que la Soif de devenir a elle aussi un nutriment, qu'elle n'est pas sans nutriment. Et quel est le nutriment de la Soif de devenir? 'L'ignorance' devrait être la réponse."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans le Bhāra Sutta, la Soif ([tanha|taṇhā]) menant à l'existence renouvelée (pono·bhavikā), laquelle comprend la Soif d'existence ([i]bhava[/i]·[tanha|taṇhā]) et la Soif de non-existence ([vibhavatanha|vibhava·taṇhā]), est appelée 'la prise du fardeau' [i](bhār·ādāna)[/i]. Dans l'Ejā Sutta, le monde entier cherche la complaisance dans [i]bhava[/i]:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 35.91[/b]",
+        "text": [
+          {
+            "pl": "aññathābhāvī bhavasatto loko bhavameva abhinandati.",
+            "fr": "Le monde, devenant autre, attaché à l'existence, ne cherche de complaisance que dans l'existence."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'ensemble de questions qui sont caractérisées à [@$SN 56.8] comme non-profitables sont présentées dans le Sāriputtakoṭṭhika Sutta comme étant importantes seulement pour quelqu'un qui se complaît dans l'existence:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 44.6[/b]",
+        "text": [
+          {
+            "pl": "bhavārāmassa kho, āvuso, bhavaratassa bhavasammuditassa, bhavanirodhaṃ ajānato apassato yathābhūtaṃ, ‘hoti tathāgato paraṃ maraṇā’tipissa hoti ... pe ... ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa hoti.",
+            "fr": "C'est celui qui se plaît à l'existence, qui se complaît dans l'existence, qui se réjouit de l'existence, sans connaître et sans voir la cessation de l'existence telle qu'elle est vraiment, qui pense: [i]«le Tathagata existe après la mort»[/i] (…) [i]«le Tathagata ni existe ni n'existe pas après la mort»[/i]."
+          },
+          {
+            "pl": "na bhavārāmassa kho, āvuso, na bhavaratassa na bhavasammuditassa, bhavanirodhaṃ jānato passato yathābhūtaṃ, ‘hoti tathāgato paraṃ maraṇā’tipissa na hoti ... pe ... ‘neva hoti na na hoti tathāgato paraṃ maraṇā’tipissa na hoti. ayampi kho, āvuso, pariyāyo, yenetaṃ abyākataṃ bhagavatā”ti.",
+            "fr": "Mais, ami, celui qui ne se plaît pas à l'existence, qui se complaît pas dans l'existence, qui ne se réjouit pas de l'existence, connaissant et voyant la cessation de l'existence telle qu'elle est vraiment, ne pense pas: [i]«le Tathagata existe après la mort»[/i] (…) [i]«le Tathagata ni existe ni n'existe pas après la mort»[/i]."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans le Nibbedhika Sutta, une existence particulière est déterminée par le résultat ([vipaka|vipāka]) des plaisirs de la sensualité ([kama|kāmā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 6.63]",
+        "text": [
+          {
+            "pl": "“katamo ca, bhikkhave, kāmānaṃ vipāko? yaṃ kho, bhikkhave, kāmayamāno tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti puññabhāgiyaṃ vā apuññabhāgiyaṃ vā, ayaṃ vuccati, bhikkhave, kāmānaṃ vipāko.",
+            "fr": "Et quel est le résultat des plaisirs de la sensualité? Celui qui veut la sensualité produit un état d'existence correspondant, soit du côté du mérite, soit du côté du démérite. Voici ce qu'on appelle le résulat des plaisirs de la sensualité."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans l'Āgantuka Sutta, la Soif d'existence ([bhavatanha|bhava·taṇhā]) est abandonnée par connaissance directe ([abhinna|abhiññā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 45.159]",
+        "text": [
+          {
+            "pl": "katame ca, bhikkhave, dhammā abhiññā pahātabbā? avijjā ca bhavataṇhā ca. ime, bhikkhave, dhammā abhiññā pahātabbā.",
+            "fr": "Et quels sont, mendiants, les états mentaux devant être abandonnés par connaissance directe? L'ignorance et la Soif d'existence. Voici, mendiants, quels sont les états mentaux devant être abandonnés par connaissance directe."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans le Sāriputta Sutta, la cessation de [i]bhava[/i] est explicitement expliquée comme étant identique à l'Extinction ([nibbana|Nibbāna]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 10.7]",
+        "text": [
+          {
+            "pl": "Seyyathāpi, āvuso, sakalikaggissa jhāyamānassa aññāva acci uppajjati aññāva acci nirujjhati; evamevaṃ kho, āvuso, ‘bhavanirodho nibbānaṃ bhavanirodho nibbānan’ti aññāva saññā uppajjati aññāva saññā nirujjhati. ‘Bhavanirodho nibbānan’ti saññī ca panāhaṃ, āvuso, tasmiṃ samaye ahosin”ti.",
+            "fr": "Tout comme, ami, lorsqu'un feu de brindilles brûle, une flamme apparaît et une autre flamme disparaît, de la même manière, une perception apparaissait, et une autre perception disparaissait: 'La cessation de l'existence est l'Extinction, la cessation de l'existence est l'Extinction.' Ami, à ce moment-là, je percevais: 'La cessation de l'existence est l'Extinction.'"
+          }
+        ]
+      }
+    },
+    { "p": ["Dans une expression qui revient régulièrement, lorsqu'une personne remplit l'entraînement:"] },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.104]",
+        "text": [
+          {
+            "pl": "Ñāṇañca pana me dassanaṃ udapādi: ‘akuppā me vimutti; ayamantimā jāti; natthi dāni punabbhavo’”ti.",
+            "fr": "La connaissance & vision apparut en moi: «La libération de mon esprit est inébranlable, ceci est ma dernière naissance, maintenant il n'y aura plus d'existence supplémentaire.» "
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "L'Aniccasaññā Sutta explique comment la perception de l'impermanence élimine l'avidité d'existence ([i]bhava[/i]·[raga|rāga]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 22.102]",
+        "text": [
+          {
+            "pl": " “aniccasaññā, bhikkhave, bhāvitā bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ [b]bhavarāgaṃ[/b] pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanati”.",
+            "fr": "Mendiants, lorsque la perception de l'impermanence est développée et cultivée, elle met un terme à toute avidité sensuelle, elle met un terme à toute avidité envers la Forme, elle met un terme à toute [b]avidité d'existence[/b], elle met un terme à toute ignorance, et elle élimine toute prétention 'Je suis'."
+          },
+          { "pl": "...", "fr": "..." },
+          {
+            "pl": "“kathaṃ bhāvitā ca, bhikkhave, aniccasaññā kathaṃ bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanati? ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo; iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti: evaṃ bhāvitā kho, bhikkhave, aniccasaññā evaṃ bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ samūhanatī”ti.",
+            "fr": "Et comment, mendiants, la perception de l'impermanence est-elle développée, comment est-elle cultivée afin de mettre un terme à toute avidité sensuelle, de mettre un terme à toute avidité envers la Forme, de mettre un terme à toute avidité d'existence, de mettre un terme à toute ignorance, et d'éliminer toute prétention 'Je suis'? 'Voici la Forme, voici l'apparition de la Forme, voici l'extinction de la Forme; voici le Ressenti, voici l'apparition du Ressenti, voici l'extinction du Ressenti; voici la Perception, voici l'apparition de la Perception, voici l'extinction de la Perception; voici les Constructions, voici l'apparition des Constructions, voici l'extinction des Constructions; voici la Conscience, voici l'apparition de la Conscience, voici l'extinction de la Conscience.' Voici, mendiants, comment la perception de l'impermanence est développée, comment elle est cultivée de mettre un terme à toute avidité sensuelle, de mettre un terme à toute avidité envers la Forme, de mettre un terme à toute avidité d'existence, de mettre un terme à toute ignorance, et d'éliminer toute prétention 'Je suis'."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "[i]Bhava[/i] apparaît également de manière notable en tant que l'une des trois impuretés mentales ([asava|āsava]s, [@$SN 45.163]), l'une des trois Soif ([tanha|taṇhā], [@$SN 45.170]), l'une des trois recherches ([i]esana[/i], [@$SN 45.161]), l'un des quatre jougs ([yoga|yoga]s, [@$AN 4.10], [@$SN 45.172]), l'une des quatre inondations ([i]ogha[/i], [@$SN 45.171]), l'une des sept entraves spirituelles ([samyojana|saṃyojana]s, dans la liste donnée à [b]AN 7.8[/b]), l'un des sept penchants latents ([anusaya|anusaya]s, [@$SN 45.175]). En ce qui concerne les phénomènes sus-cités (qui incluent tous [i]bhava[/i]), la noble voie à huit composantes ([aam|ariya aṭṭhaṅgika magga]) est recommandée dans SN 45 pour certaines des, ou toutes les actions suivantes: la connaissance directe ([abhinna|abhiññā]), la compréhension complète [i](pariññā)[/i], la destruction complète [i](parikkhaya)[/i], et l'abandon ([pahana|pahāna]).",
+        "Dans le cas des quatre jougs ([yoga|yoga]), le Yoga Sutta offre davantage de détail:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 4.10]",
+        "text": [
+          {
+            "pl": "“Cattārome, bhikkhave, yogā. Katame cattāro? Kāmayogo, bhavayogo, diṭṭhiyogo, avijjāyogo...",
+            "fr": "Il y a, mendiants, ces quatre jougs. Quels sont ces quatre? Le joug de la sensualité, le joug de l'existence, le joug des vues et le joug de l'ignorance..."
+          },
+          {
+            "pl": "Bhavayogo ca kathaṃ hoti? Idha, bhikkhave, ekacco bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti. Tassa bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ appajānato yo bhavesu bhavarāgo bhavanandī bhavasneho bhavamucchā bhavapipāsā bhavapariḷāho bhavajjhosānaṃ bhavataṇhā sānuseti. Ayaṃ vuccati, bhikkhave, bhavayogo...",
+            "fr": "Et qu'est-ce, mendiants, que le joug de l'existence? En cela, mendiants, un certain individu ne discerne pas tels qu'ils sont réellement l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'existence. Ne comprenant pas tels qu'ils sont réellement l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'existence, l'avidité d'existence, la complaisance dans l'existence, l'attraction envers l'existence, l'engouement pour l'existence, la soif d'existence, la fièvre d'existence, l'attachement à l'existence et la Soif d'existence expriment leur tendance par rapport à l'existence. Voici, mendiants, ce qu'on appelle le joug de l'existence..."
+          },
+          {
+            "pl": "Bhava­yoga­visaṃ­yogo ca kathaṃ hoti? Idha, bhikkhave, ekacco bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti. Tassa bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānato yo bhavesu bhavarāgo bhavanandī bhavasneho bhavamucchā bhavapipāsā bhavapariḷāho bhavajjhosānaṃ bhavataṇhā sā nānuseti. Ayaṃ vuccati, bhikkhave, bhava­yoga­visaṃyogo.",
+            "fr": "Et qu'est-ce, mendiants, que la sortie du joug de l'existence? En cela, mendiants, un certain individu discerne tels qu'ils sont réellement l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'existence. Comprenant tels qu'ils sont réellement l'apparition, la disparition, l'attrait, le désavantage et l'émancipation par rapport à l'existence, l'avidité envers l'existence, la complaisance dans l'existence, l'attraction envers l'existence, l'engouement pour l'existence, la soif d'existence, la fièvre d'existence, l'attachement à l'existence et la Soif d'existence n'expriment pas leur tendance par rapport à l'existence. Voici, mendiants, ce qu'on appelle la sortie du joug de l'existence."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 5.170[/b]",
+        "text": [
+          {
+            "pl": "atthāvuso, nevasaññānāsaññāyatanūpagā devā, idaṃ bhavānaṃ aggan”ti.",
+            "fr": "Ami, il y a les dévas de la sphère de ni-perception-ni-non-perception: c'est le plus haut état d'existence."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 1.328[/b]",
+        "text": [
+          {
+            "pl": "“seyyathāpi, bhikkhave, appamattakopi gūtho duggandho hoti; evamevaṃ kho ahaṃ, bhikkhave, appamattakampi bhavaṃ na vaṇṇemi, antamaso accharāsaṅghātamattampi”.",
+            "fr": "Tout comme, mendiants, même une toute petite quantité d'excréments est malodorante, de la même manière, je ne recommande pas une toute petite quantité d'existence, ne serait-ce que pour une fraction de seconde."
+          }
+        ]
+      }
+    }
+  ]
+}

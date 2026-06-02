@@ -1,0 +1,46 @@
+{
+  "id": "bhikkhu",
+  "title": "bhikkhu",
+  "translation": [
+    "mendiant (spirituel), receveur d'aumônes, celui qui vit d’aumônes. Le terme féminin équivalent est [bhikkhuni|bhikkhuni]."
+  ],
+  "body": [
+    {
+      "p": [
+        "Ce choix sémantique souligne la dépendance volontaire du moine envers les dons des laïcs. Le terme désigne en pratique un moine pleinement ordonné dans la tradition du Bouddha, une personne ayant renoncé à la vie laïque et aux attaches mondaines (famille, possessions, carrière etc.), pour rejoindre la Communauté monastique ([sangha|Sangha]), mener une vie de simplicité et se vouer exclusivement à la pratique de l'Enseignement ([dhamma|Dhamma]).",
+        "Un bhikkhou est caractérisé par la pauvreté, le célibat, le renoncement ([nekkhamma|nekkhamma]), l'humilité et une pratique sans relâche. Il se soumet aux règles de vie qu'il a choisi de respecter, parmi lesquelles 227 sont définies dans le [patimokkha|Pātimokkha], les autres étant exposées dans la Discipline ([vinaya|Vinaya]). Ces règles couvrent la moralité, la discipline, les relations sociales, la gestion des biens et les comportements appropriés. Quatre transgressions majeures ([parajika|pārājika]) entraînent la perte immédiate et irrévocable du statut monastique : rapport sexuel, vol, meurtre, et fausse revendication de pouvoirs spirituels.",
+        "Cependant, s'il le souhaite, un bhikkhou peut à tout moment abandonner ses vœux par un acte très simple.",
+        "À noter également qu'en pratique, lors de sa tournée d'aumônes ([pindapata|piṇḍapāta]), un bhikkhou ne demande pas (activement) l'aumône à des inconnus, il se contente de se tenir (passivement) debout devant les maisons, car il vit essentiellement de ce qui est offert spontanément. La tournée d'aumônes est à la fois un moyen de subsistance et un exercice d'humilité, de détachement et de liaison avec la communauté.",
+        "Le statut de bhikkhou n'est pas une fin en soi, mais le véhicule le plus propice pour se consacrer entièrement à la pratique du Dhamma. Chaque élément de son mode de vie est organisé pour soutenir sa pratique spirituelle. Ses seules possessions sont typiquement sa robe ([civara|cīvara]), un bol à aumônes (patta), et quelques articles essentiels.",
+        "Le bhikkhou consacre en principe son temps à la méditation ([bhavana|bhāvanā]), à l’étude des textes, et à l’enseignement du [dhamma|Dhamma]. Le but est d'atteindre l'Éveil ([bodhi|bodhi]) et l'Extinction ([nibbana|Nibbāna]).",
+        "Le bhikkhou incarne l’un des trois joyaux ([tiratana|tiratana]), ainsi qu'un modèle de conduite éthique et spirituelle pour la communauté laïque. S'il est vertueux, il est considéré comme un « champ de mérite » pour les laïcs, dont les offrandes soutiennent la pratique et génèrent des résultats positifs ([vipaka|vipāka]) pour les donateurs. Il offre en retour enseignement, conseil moral et exemple spirituel.",
+        "Pour devenir bhikkhou, un certain nombre de facteurs doivent être réunis. Il faut avoir au moins 20 ans, participer à une cérémonie au cours de laquelle les formules correctes doivent être prononcées, organisée dans un espace spécial appelé sima, en présence d'au moins cinq bhikkhous, et il faut répondre de manière satisfaisante à 15 questions. À noter qu'il faut être un homme libre et avoir la permission de ses parents (voir [@$MN 82]). L’ordination du bhikkhou s’effectue en deux étapes, qui peuvent se dérouler ou non à des moments différents:",
+        "1. Le «Départ du foyer» ([pabbajja|pabbajjā]), qui fait du candidat un novice (sāmaṇera).",
+        "2. L’ordination complète ([upasampada|upasampada]), qui fait du candidat un bhikkhou de plein droit.",
+        "Un bhikkhou nouvellement ordonné doit vivre en dépendance ([nissaya|nissaya]) d'un précepteur ([upajjhaya|upajjhāya]) pendant 5 ans.",
+        "Le concept de bhikkhou s'inscrit dans le courant plus large des renonçants ([samana|samaṇa]) qui préexistait le Bouddha, qu'il avait rejoint avant d'atteindre l'Éveil, notamment en suivant les enseignements d'Alara Kalama et Oudaka Ramapoutta (e.g. [@$MN 26]). Une liste des doctrines prônées par les principaux enseignants de l'époque se trouve dans le [@Sāmaññaphala Sutta], un discours qui par ailleurs liste les bénéfices de devenir un renonçant sous l'égide du Bouddha. Un certain nombre de concepts utilisés par le Bouddha étaient déjà en vogue dans le mouvement des [samana|samaṇa] de l'époque, tels que les Actes ([kamma|kamma] i.e. “karma”), le cycle des renaissances ([samsara|saṃsāra]), la vie ascétique, la non-violence, la libération ([vimutti|vimutti]), la méditation. Le Bouddha démarque son enseignement avec le concept de la voie médiane ([majjhimapatipada|majjhimā patipadā]), rejetant à la fois le laisser-aller sensuel et les mortifications.",
+        "Bien entendu, l'habit ne fait pas le moine:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$Dhp 266 - 267]",
+        "text": [
+          {
+            "pl": "na tena bhikkhu so hoti, yāvatā bhikkhate pare.vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā.",
+            "fr": "Il n'est pas un mendiantSimplement parce qu'il mendie.S'il adopte la vie des gens de foyer,Il ne peut pas devenir un mendiant."
+          },
+          {
+            "pl": "yodha puññañca pāpañca, bāhetvā brahmacariyavā.saṅkhāya loke carati, sa ve “bhikkhū”ti vuccati.",
+            "fr": "Celui qui abandonne le mériteComme le démérite, vivant la vie brahmique,Qui vit dans ce monde en le comprenant,Celui-là est appelé un mendiant."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans l'[@$an05-114|Andhakavinda Sutta], le Bouddha recommande cinq exhortations pour les bhikkhous néophytes, et dans le [b][an10-048|Pabbajita Abhiṇha Sutta][/b], il propose dix sujets de réflexion quotidiens pour tout bhikkhou. Dans le [b][mn107|Gaṇaka Moggallāna Sutta][/b], il explique l'entraînement graduel pour les bhikkhous."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "baala",
+  "title": "bāla",
+  "translation": ["sot, homme ignorant, ayant un bas caractère, de basses habitudes."],
+  "body": [
+    {
+      "quote": {
+        "source": "[@$@$AN 3.2]",
+        "text": [
+          {
+            "pl": "“kammalakkhaṇo, bhikkhave, bālo... tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? kāyaduccaritena, vacīduccaritena, manoduccaritena.",
+            "fr": "Mendiants, un sot est caractérisé par ses actions... Mendiants, celui qui est pourvu de trois habitudes est à reconnaître comme un sot. Quelles sont ces trois? La méconduite corporelle, la méconduite verbale et la méconduite mentale."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$b]AN 10.236</a>[/b]",
+        "text": [
+          {
+            "pl": "“cattārīsāya, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi cattārīsāya? attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti, pāṇātipātassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Mendiants, un individu possédant quarante caractéristiques devrait être reconnu comme un sot. Quelles sont ces quarante? Il détruit lui-même la vie, il incite les autres à détruire la vie, il approuve la destruction de la vie et fait l'éloge de la destruction de la vie."
+          },
+          {
+            "pl": "attanā ca adinnādāyī hoti, parañca adinnādāne samādapeti, adinnādāne ca samanuñño hoti, adinnādānassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Il s'approprie lui-même ce qui n'a pas été donné, il incite les autres à s'approprier ce qui n'a pas été donné, il approuve l'appropriation de ce qui n'a pas été donné et fait l'éloge de l'appropriation de ce qui n'a pas été donné."
+          },
+          {
+            "pl": "attanā ca kāmesumicchācārī hoti, parañca kāmesumicchācāre samādapeti, kāmesumicchācāre ca samanuñño hoti, kāmesumicchācārassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Il se méconduit lui-même en raison [des plaisirs] de la sensualité, il incite les autres à se méconduire en raison [des plaisirs] de la sensualité, il approuve la méconduite en raison [des plaisirs] de la sensualité et fait l'éloge de la méconduite en raison [des plaisirs] de la sensualité."
+          },
+          {
+            "pl": "attanā ca musāvādī hoti, parañca musāvāde samādapeti, musāvāde ca samanuñño hoti, musāvādassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Il parle lui-même faussement, il incite les autres à parler faussement, il approuve les paroles fausses et fait l'éloge des paroles fausses."
+          },
+          {
+            "pl": "attanā ca pisuṇavāco hoti, parañca pisuṇāya vācāya samādapeti, pisuṇāya vācāya ca samanuñño hoti, pisuṇāya vācāya ca vaṇṇaṃ bhāsati;",
+            "fr": "Il parle lui-même de manière médisante, il incite les autres à parler de manière médisante, il approuve les paroles médisantes et fait l'éloge des paroles médisantes."
+          },
+          {
+            "pl": "attanā ca pharusavāco hoti, parañca pharusāya vācāya samādapeti, pharusāya vācāya ca samanuñño hoti, pharusāya vācāya ca vaṇṇaṃ bhāsati;",
+            "fr": "Il parle lui-même de manière acerbe, il incite les autres à parler de manière acerbe, il approuve les paroles acerbes et fait l'éloge des paroles acerbes."
+          },
+          {
+            "pl": "attanā ca samphappalāpī hoti, parañca samphappalāpe samādapeti, samphappalāpe ca samanuñño hoti, samphappalāpassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Il s'engage lui-même dans des bavardages infructueux, il incite les autres aux bavardages infructueux, il approuve les bavardages infructueux et fait l'éloge des bavardages infructueux."
+          },
+          {
+            "pl": "attanā ca abhijjhālu hoti, parañca abhijjhāya samādapeti, abhijjhāya ca samanuñño hoti, abhijjhāya ca vaṇṇaṃ bhāsati;",
+            "fr": "Il est lui-même envieux, il incite les autres à être envieux, il approuve l'envie et fait l'éloge de l'envie."
+          },
+          {
+            "pl": "attanā ca byāpannacitto hoti, parañca byāpāde samādapeti, byāpāde ca samanuñño hoti, byāpādassa ca vaṇṇaṃ bhāsati;",
+            "fr": "Il est lui-même malveillant, il incite les autres à la malveillance, il approuve la malveillance et fait l'éloge de la malveillance."
+          },
+          {
+            "pl": "attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti, micchādiṭṭhiyā ca samanuñño hoti, micchādiṭṭhiyā ca vaṇṇaṃ bhāsati.",
+            "fr": "Il a lui-même une vue erronée, il incite les autres à la vue erronée, il approuve la vue erronée et fait l'éloge de la vue erronée."
+          }
+        ]
+      }
+    },
+    {
+      "quote": {
+        "source": "[@$@$AN 3.5]",
+        "text": [
+          {
+            "pl": "“tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. katamehi tīhi? ayoniso pañhaṃ kattā hoti, ayoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi nābbhanumoditā hoti.",
+            "fr": "Mendiants, celui qui est pourvu de trois traits est à reconnaître comme étant un sot. Quels sont ces trois? Il formule une question de manière inappropriée, il répond à une question de manière inappropriée, et lorsque celui répond à une question de manière appropriée avec des mots et des phrases bien choisis et cohérents, il ne l'approuve pas."
+          }
+        ]
+      }
+    },
+    { "p": ["[asappurisa|Asappurisa] est fréquemment juxtaposé à [i]bāla[/i]:"] },
+    {
+      "quote": {
+        "source": "[@$@$MN 129]",
+        "text": [{ "pl": "‘bālo ayaṃ bhavaṃ asappuriso’’ti.", "fr": "Cet individu est un sot, une mauvaise personne." }]
+      }
+    },
+    {
+      "p": [
+        "Parmi les autres synonymes, on trouve [i]akusala[/i] (désavantageux, SN 1.35), [i]mūḷha[/i] (stupide, SN 1.35), [i]abyatta[/i] (incompétent, AN 9.35), [i]akhettaññū[/i] (sans expérience, littéralement 'ne conaissant pas le sujet', AN 9.35), [i]dummedha[/i] (de peu de discernment, AN 3.57). L'antonyme de [i]bāla[/i] est [pandita|paṇḍita]. La plus longue description de ce qu'est un [i]bāla[/i], contrastée avec celle d'un [pandita|paṇḍita], qui possède des traits de caractère opposés, apparaît dans le Bālapaṇḍita Sutta:"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$MN 129]",
+        "text": [
+          {
+            "pl": "“tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni. katamāni tīṇi? idha, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca. no cetaṃ, bhikkhave, bālo duccintitacintī ca abhavissa dubbhāsitabhāsī ca dukkaṭakammakārī ca kena naṃ paṇḍitā jāneyyuṃ: ‘bālo ayaṃ bhavaṃ asappuriso’’ti? yasmā ca kho, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca tasmā naṃ paṇḍitā jānanti: ‘bālo ayaṃ bhavaṃ asappuriso’’ti.",
+            "fr": "Mendiants, un sot a trois caractéristiques, attributs et distinctions. Quels sont ces trois? Un sot pense de mauvaises pensées, il prononce de mauvaises paroles, il effectue de mauvaises actions. Si un sot ne pensait pas, ne parlait pas et n'agissait pas mal, comment un sage pourrait-il le reconnaître ainsi: 'Celui-là est un homme sot et indigne'? Mais puisque le sot est quelqu'un qui pense de mauvaises pensées, qui prononce de mauvaises paroles, et qui effectue de mauvaises actions, le sage le reconnaît ainsi: 'Celui-là est un homme sot et indigne'."
+          },
+          {
+            "pl": "sa kho so, bhikkhave, bālo tividhaṃ diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedeti. sace, bhikkhave, bālo sabhāyaṃ vā nisinno hoti, rathikāya vā nisinno hoti, siṅghāṭake vā nisinno hoti, tatra ce jano tajjaṃ tassāruppaṃ kathaṃ manteti. sace, bhikkhave, bālo pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti, tatra, bhikkhave, bālassa evaṃ hoti: ‘yaṃ kho jano tajjaṃ tassāruppaṃ kathaṃ manteti, saṃvijjanteva te dhammā mayi, ahañca tesu dhammesu sandissāmī’ti. idaṃ, bhikkhave, bālo paṭhamaṃ diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+            "fr": "Un sot ressent du déplaisir et de l'affliction ici et maintenant de trois manières. Si un sot est au milieu d'une foule, au coin d'une rue, ou sur une place, et que les gens y discutent de sujets pertinents, alors, si ce sot est quelqu'un qui détruit la vie des êtres vivants, qui s'empare de ce qui n'a pas été donné, qui se comporte mal en rapport aux plaisirs sensuels, qui ne dit pas la vérité, et qui boit du vin, des liqueurs et prend des intoxicants - qui induisent la négligence - il pense: 'Ces gens discutent de sujets pertinents. Ces choses sont présentes en moi, et on me voit m'y engager'. Voici la première sorte de déplaisir et d'affliction que le sot ressent ici et maintenant."
+          },
+          {
+            "pl": "“puna caparaṃ, bhikkhave, bālo passati rājāno coraṃ āgucāriṃ gahetvā vividhā kammakāraṇā kārente: kasāhipi tāḷente vettehipi tāḷente... asināpi sīsaṃ chindante. tatra, bhikkhave, bālassa evaṃ hoti: ‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu rājāno coraṃ āgucāriṃ gahetvā vividhā kammakāraṇā kārenti: kasāhipi tāḷenti ... asināpi sīsaṃ chindanti; saṃvijjanteva te dhammā mayi, ahañca tesu dhammesu sandissāmi. maṃ cepi rājāno jāneyyuṃ, mampi rājāno gahetvā vividhā kammakāraṇā kāreyyuṃ kasāhipi tāḷeyyuṃ ... jīvantampi sūle uttāseyyuṃ, asināpi sīsaṃ chindeyyun’ti. idampi, bhikkhave, bālo dutiyaṃ diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+            "fr": "De plus, lorsqu'un voleur coupable est capturé, un sot voit les rois lui infliger différentes sortes de tortures. Ils le font fouetter, battre avec des bâtons, battre avec des matraques. Ils lui font couper les mains, couper les pieds, couper les mains et les pieds. Ils lui font couper les oreilles, couper le nez, couper les oreilles et le nez; ils lui font subir la 'casserole à porridge', le 'rasement du coquillage poli', la 'bouche de Rahu', la 'guirlande de feu', la 'main enflammée', les 'épées d'herbe', le 'vêtement d'écorces', 'l'antilope enflammée', les 'crochets à viande', le 'gravage de pièces', le 'décapage à la lessive', le 'pivot sur un pieu', le 'lit enroulé'. Ils le font asperger d'huile brûlante, le font dévorer par des chiens, le font empaler vivants sur des pieux, lui font couper la tête avec une épée. Alors le sot pense: 'À cause de mauvaises actions telles que celles-ci, lorsqu'un voleur est capturé, les rois lui infligent différentes sortes de tortures. Ils le font fouetter... couper la tête avec une épée. Ces choses sont présentes en moi, et on me voit m'y engager'. Voici la seconde sorte de déplaisir et d'affliction que le sot ressent ici et maintenant."
+          },
+          {
+            "pl": "“puna caparaṃ, bhikkhave, bālaṃ pīṭhasamārūḷhaṃ vā mañcasamārūḷhaṃ vā chamāyaṃ vā semānaṃ, yānissa pubbe pāpakāni kammāni katāni kāyena duccaritāni vācāya duccaritāni manasā duccaritāni tānissa tamhi samaye olambanti ajjholambanti abhippalambanti. seyyathāpi, bhikkhave, mahataṃ pabbatakūṭānaṃ chāyā sāyanhasamayaṃ pathaviyā olambanti ajjholambanti abhippalambanti; evameva kho, bhikkhave, bālaṃ pīṭhasamārūḷhaṃ vā mañcasamārūḷhaṃ vā chamāyaṃ vā semānaṃ, yānissa pubbe pāpakāni kammāni katāni kāyena duccaritāni vācāya duccaritāni manasā duccaritāni tānissa tamhi samaye olambanti ajjholambanti abhippalambanti.",
+            "fr": "De plus, lorsqu'un sot est au repos sur une chaise, ou sur son lit, ou sur le sol, il pense aux mauvaises actions qu'il a faites dans le passé, physiquement, verbalement ou en pensée - elles le couvrent, s'étendent sur lui et l'enveloppent. Tout comme l'ombre d'un haut pic montagneux couvre la terre, s'étend sur elle et l'enveloppe, de même lorsqu'un sot est au repos sur une chaise, ou sur son lit, ou sur le sol, il pense aux mauvaises actions qu'il a faites dans le passé, physiquement, verbalement ou en pensée - elles le couvrent, s'étendent sur lui et l'enveloppent. "
+          },
+          {
+            "pl": "tatra, bhikkhave, bālassa evaṃ hoti: ‘akataṃ vata me kalyāṇaṃ, akataṃ kusalaṃ, akataṃ bhīruttāṇaṃ; kataṃ pāpaṃ, kataṃ luddaṃ, kataṃ kibbisaṃ. yāvatā, bho, akatakalyāṇānaṃ akatakusalānaṃ akatabhīruttāṇānaṃ katapāpānaṃ kataluddānaṃ katakibbisānaṃ gati taṃ gatiṃ pecca gacchāmī’ti. so socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati. idampi, bhikkhave, bālo tatiyaṃ diṭṭheva dhamme dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+            "fr": "Alors il pense: 'Je n'ai pas fait ce qui est bon et méritoire, je n'ai pas dissipé la peur de ceux qui étaient effrayés, j'ai fait ce qui est mauvais, cruel, méchant. Lorsque je mourrai, j'irai rejoindre ceux qui n'ont pas fait ce qui est bon et méritoire, qui n'ont pas dissipé la peur de ceux qui étaient effrayés, qui ont fait ce qui est mauvais, cruel, méchant.' Il est affligé, il se lamente, il se frappe la poitrine et devient désespéré. Voici la troisième sorte de déplaisir et d'affliction que le sot ressent ici et maintenant."
+          },
+          {
+            "pl": "“sa kho so, bhikkhave, bālo kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati.",
+            "fr": "Un sot qui s'est mal comporté physiquement, verbalement et en pensées, lors de la dissolution du corps, après la mort, réapparaît dans un état de privation, une destination malheureuse, voire en enfer."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Comme nous l'avons vu plus haut, un [i]bāla[/i] se caractérise par son mauvais comportement. À [@$AN 2.136], un [i]bāla[/i] se comporte mal vis-à-vis de sa mère et/ou son père. À la fin de [@DN 2], le roi Ajatasattu déclare être lui-même un [i]bāla[/i] parce qu'il a fait tuer son propre père. À [@$AN 2.137], un [i]bāla[/i] se comporte mal vis-à-vis du Bouddha ou d'un de ses disciples. À SN 1.35, certains dévas déclarent être des [i]bāla[/i]s parce qu'ils ont essayé de trouver des fautes chez le Bouddha.",
+        "Souvent, le mauvais comportement d'un [i]bāla[/i] s'explique par le fait qu'il ne prend pas en considération les résultats de ses actions. À SN 2.22, un [i]bāla[/i] pense que la bonne fortune est de son côté tant que son mauvais comportement ne porte pas de fruits. À [@$SN 3.15], un [i]bāla[/i] qui agit de manière erronée se comporte comme un ennemi envers lui-même, parce qu'il sera confronté aux conséquences déplaisantes de ses actions. À SN 7.4, si un [i]bāla[/i] fait du tord à un homme innocent, à une personne pure, alors de mauvaise choses viennent à lui comme de la poussière jetée à contre-vent. ",
+        "Le mauvais comportement d'un [i]bāla[/i] est souvent verbal. À SN 6.9, un [i]bāla[/i] qui s'engage dans la diffamation se coupe lui-même avec une hache qui se trouve dans sa bouche. À SN 7.3, un [i]bāla[/i] pense qu'il est victorieux dans une querelle verbale lorsqu'il s'égosille de manière acerbe. À [@$MN 65], un mendiant se dit avoir été un [i]bāla[/i] parce qu'il a déclaré qu'il refuserait de respecter une nouvelle règle émise par le Bouddha (ne pas manger l'après-midi). À SN 16.6, un groupe de mendiants déclare être un groupe de [i]bāla[/i]s après avoir été réprimandés par le Bouddha pour être entrés en compétition par rapport à leur érudition, à qui pouvait parler le plus, mieux ou plus longtemps. À [@$MN 140], un mendiant se dit être un [i]bāla[/i] parce que, n'ayant pas reconnu le Bouddha, il s'est adressé à lui avec l'appellation [avuso|āvuso].",
+        "Un [i]bāla[/i] peut également être reconnu par son appétit pour [kama|kāmā]. À MN 106, il est dit que les [kama|kāmā] sont inconstants, creux, vains, trompeurs, illusoires, et le sujet de conversation des [i]bāla[/i]s [i](bāla·lāpana)[/i]. À [@$AN 2.38], quelle que soit l'ancienneté d'un aîné, s'il jouit des [kama|kāmā], s'il brûle d'une fièvre à leur encontre, s'il est consumé par des pensées à leur égard et est désireux de les obtenir, il est considéré comme un [i]bāla[/i].",
+        "Quelqu'un qui manque de générosité est un [i]bāla[/i], comme il est précisé à SN 1.32: [i]«Ce que craint l'avare qui ne donne pas est la menace même qui s'abat sur celui qui ne donne pas. La faim et la soif que craint l'avare touchent ce même sot dans ce monde-ci et dans l'au-delà.»[/i] À [@$AN 3.57], un [i]bāla[/i] ne sert pas 'les saints' ([i]sante[/i], qui signifie les arahants d'après le commentaire).",
+        "Quelqu'un qui manque de sagesse et de discernement et qui en conséquence s'engage dans des actions idiotes est un [i]bāla[/i]. À [@$chris_034|MN 34], un bouvier est considéré comme un [i]bāla[/i] parce qu'au dernier mois le la mousson (après d'abondantes pluies) il a fait traverser le Gange à son bétail à un endroit qui n'a pas de gué, sans avoir examiné les rives du fleuve. À SN 2.22, un [i]bāla[/i] qui quitte le Dhamma pour suivre une voie qui lui est opposée est comme un char qui a quitté la surface plate offerte par la grand route pour se lancer sur un sentier cahoteux, et qui ensuite déplore la casse de son essieu. À [@$AN 4.115], un [i]bāla[/i] ne prend pas note du fait que certaines actions sont désagréables à réaliser et pourtant seraient bénéfiques sur le long terme, et que certaines actions, bien qu'elles soient agréables à réaliser, s'avèrent être nocives sur le long terme, et en conséquence, il agit contre son intérêt. À SN 9.3, un [i]bāla[/i] regarde mais ne voit pas, il entend le Dhamma mais il ne le comprend pas et n'en saisit pas le sens. À [@$SN 1.10], [i]«En ayant des attentes pour le futur, en ayant des regrets pour le passé, les [i]bāla[/i]s se fanent et s'assèchent, tels des roseaux verts coupés.»[/i].",
+        "Une personne peut également être considérée comme un [i]bāla[/i] dans le contexte monastique. À [@$AN 2.98], on trouve un [i]bāla[/i] qui prend en charge ce qui ne lui revient pas (en termes de responsabilités) et un autre qui au contraire ne prend pas en charge ce qui lui revient. De la même manière, à [@$AN 2.104] et 106, on trouve un [i]bāla[/i] qui perçoit ce qui n'est pas conforme au Dhamma (resp. la Discipline) comme étant conforme avec le Dhamma (resp. la Discipline) et vice versa. On trouve également à SN 47.3 un mendiant demandant au Bouddha de lui professer un enseignement avant qu'il aille séjourner dans l'isolement, diligent, ardent et résolu, mais celui-ci répond que certains [i]bāla[/i]s font une telle requête et ensuite ne parviennent pas à vivre dans l'isolement, et choisissent finalement de suivre le Bouddha à la trace.",
+        "Il est dit à [@$AN 3.1] que tous les périls, les calamités et les infortunes qui sont dans le monde apparaissent toujours à cause de [i]bāla[/i]s. À SN 1.36, il est dit que les [i]bāla[/i]s se vouent à [pamada|pamāda] [i](pamādam·anuyuñjanti)[/i]. À [@$AN 2.134], un [i]bāla[/i], sans avoir vérifié les faits, fait l'éloge de quelqu'un qui mériterait des critiques et critique quelqu'un qui mériterait des éloges. À [@$AN 2.135], sans avoir vérifié les faits, il croit à une allégation qui devrait inspirer la suspicion, et rejette une déclaration qui devrait inspirer la confiance.",
+        "À AN 8.27, la force ([bala|bala]) d'un sot [i](bāla)[/i] est de se plaindre [i](ujjhatti·balā bālā)[/i]."
+      ]
+    }
+  ]
+}

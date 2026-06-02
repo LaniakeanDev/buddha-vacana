@@ -1,0 +1,25 @@
+{
+  "id": "bho",
+  "title": "bho",
+  "translation": ["Honorable, Sieur, Monsieur."],
+  "body": [
+    {
+      "p": [
+        "[i]Bho[/i] est la forme vocative de [i]bhavant[/i], lui-même considéré comme une contraction de [bhagava|bhagavant]. Il s'agit d'un terme respectueux que les brahmanes de bonne famille utilisent entre eux comme appellatif. L'utilisation de ce mot suggère ainsi un respect lié à l'appartenance, ou à défaut l'assimilation de l'interlocuteur à une élite de la société, ce que les disciples du Bouddha considèrent comme inapproprié envers ce dernier.",
+        "Dans les souttas, les brahmanes l'utilisent entre eux et sont les seuls à l'utiliser envers le Bouddha. L'utilisation de cet appellatif à son encontre indique alors toujours que le locuteur est un brahmane qui n'est pas encore devenu un disciple du Bouddha.",
+        "Il semble que le terme soit également utilisé dans un sens plus large comme un appellatif respectueux mais quelque peu condescendant, notamment dans l'expression récurrente [i]ambho purisa[/i], qui pourrait se traduire par «mon cher», «mon bon», «mon brave».",
+        "Le terme est discuté à [@Dhp 396], dans le cadre d'une discussion au sujet de ce qu'est un véritable brahmane:"
+      ]
+    },
+    {
+      "quote": {
+        "text": [
+          {
+            "pl": "na cāhaṃ brāhmaṇaṃ brūmi, yonijaṃ mattisambhavaṃ.bhovādi nāma so hoti, sace hoti sakiñcano.akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+            "fr": "Je ne dis pas de quelqu'un qu'il est un BrahmaneD'après le sein de la mère [dont il est né].Il n'est qu'une personne qui utilise l'appellatif «Honorable» S'il est encore attaché.C'est celui qui n'a rien, qui est sans attachementQue j'appelle Brahmane."
+          }
+        ]
+      }
+    }
+  ]
+}

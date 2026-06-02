@@ -1,0 +1,49 @@
+{
+  "id": "bodhipakkhiyadhamma",
+  "title": "bodhipakkhiya dhammā",
+  "breakdown": "[[bodhi|bodhi]+[@m_pakkhiya|pakkhiya]+[dhamma|dhamma]]",
+  "translation": ["qualités / états mentaux / choses / phénomènes menant à l'Éveil."],
+  "body": [
+    {
+      "p": [
+        "Le terme est défini explicitement six fois dans l'Indriya Saṃyutta, et fait référence aux cinq facultés spirituelles ([indriya|indriya]), en particulier le discernement ([panna|paññā]):"
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$b]SN 48.51[/b]",
+        "text": [
+          {
+            "pl": "“katame ca, bhikkhave, [b]bodhipakkhiyā dhammā[/b]? saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; vīriyindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; satindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; samādhindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati.",
+            "fr": "Et quelles sont [b]les qualités menant à l'Éveil[/b]? La faculté de conviction est une qualité [menant à] l'Éveil, car elle mène à l'Éveil. La faculté d'énergie (…)La faculté de présence d'esprit (…)La faculté de concentration (…) La faculté de discernement est une qualité [menant à] l'Éveil, car elle mène à l'Éveil. "
+          },
+          {
+            "pl": "seyyathāpi, bhikkhave, ye keci tiracchānagatā pāṇā, sīho migarājā tesaṃ aggamakkhāyati, yadidaṃ — thāmena javena sūrena; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ bodhāyā”ti.",
+            "fr": "Tout comme le lion, roi des animaux, est considéré comme le meilleur des animaux en termes de force, vitesse et courage, de la même manière, la faculté de discernement est considérée comme la meilleure des qualités [menant à] l'Éveil, en termes d'Éveil."
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Il y a une croyance populaire que l'expression désigne un ensemble de 37 concepts, que l'on trouve en effet regroupés ensemble à [@$DN 16], 28, 29, MN 77, 103, [@$104], [@$118], [@$chris_149|149], [@$AN 7.71], [@$AN 8.19], AN 10.90, [@$SN 22.81] et [@$SN 22.101], mais contrairement au cas ci-dessus, sans être explicitement appelés [i]bodhipakkhiyā dhammā[/i]:"
+      ]
+    },
+    {
+      "list": [
+        "1-4. les quatre [satipatthana|satipaṭṭhāna]s",
+        "5-8. les quatre [sammappadhana|sammappadhāna]s",
+        "9-12. les quatre [iddhipada|iddhipāda]s",
+        "13-17. les cinq [indriya|indriya]s spirituelles",
+        "18-22. les cinq [bala|bala]s",
+        "23-29. les sept [bojjhanga|bojjhaṅga]s",
+        "30-37. l'[aam|ariya aṭṭhaṅgika magga]"
+      ]
+    },
+    {
+      "p": [
+        "Une expression très similaire est utilisée à [@$AN 9.1], où sont listées neuf «causes du développement des états mentaux participant à l'Éveil» (sambodhipakkhikānaṃ dhammānaṃ upanisā bhāvanāyā)."
+      ]
+    }
+  ]
+}

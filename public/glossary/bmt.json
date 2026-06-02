@@ -1,0 +1,32 @@
+{
+  "id": "bmt",
+  "title": "bhojane mattaññutā",
+  "breakdown": "[[@m_bhojana|bhojana] [@m_matta|matta]+[@m_annu|aññū]+[@m_-ta|tā]]",
+  "translation": ["modération dans la nourriture, litt: connaissance de la [bonne] mesure dans la nourriture."],
+  "body": [
+    {
+      "p": [
+        "Cette pratique est décrite par la formule qui est analysée en détail [@f_bhojan|ici]. C'est la même formule qui décrit l'usage correct de la nourriture d'aumônes ([pindapata|piṇḍapāta]) en tant que l'une des quatre provisions ([paccaya|paccaya]). Une allégorie est donnée dans le [@$sn35-239|Rathopama Sutta]: "
+      ]
+    },
+    {
+      "quote": {
+        "source": "[@$@$SN 35.239]",
+        "text": [
+          {
+            "pl": "seyyathāpi, bhikkhave, puriso vaṇaṃ ālimpeyya yāvadeva rohanatthāya, seyyathā vā pana akkhaṃ abbhañjeyya yāvadeva bhārassa nittharaṇatthāya, evaṃ kho, bhikkhave, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti",
+            "fr": "Tout comme, mendiants, un homme oint une plaie uniquement pour la faire guérir, ou graisse un essieu uniquement pour transporter une charge, de la même manière, un mendiant mange la nourriture en ayant des réflexions judicieuses"
+          }
+        ]
+      }
+    },
+    {
+      "p": [
+        "Dans les souttas, l'expression «modération dans la nourriture» ([i]bhojane mattaññutā[/i]) s'accompagne généralement de «protection à l'entrée des facultés sensorielles» ([indriyesuguttadvarata|indriyesu guttadvāratā]), ainsi que «consécration à l'état de veille» ([jagariyamanuyoga|jāgariyaṃ anuyoga]). Il est dit dans le [@$sn35-239|Rathopama Sutta] que lorsqu'un mendiant réalise ces trois pratiques, il vit plein de joie dans le monde visible [i](diṭṭh·eva dhamme sukha·somanassa·bahulo viharati)[/i], et il a mis en place les conditions pour la destruction des impuretés mentales ([i]yoni cassa āraddhā hoti [asava|āsav]ānaṃ khayāya[/i]). Dans l'[@$an03-016|Apaṇṇaka Sutta], un tel mendiant «pratique la voie sans faute» [i](apaṇṇaka·paṭipadaṃ paṭipanno hoti)[/i].",
+        "À [@$AN 6.77], la modération dans la nourriture rend «possible d'atteindre un état surhumain, une distinction en connaissance & vision digne des êtres nobles» [i](bhabbo [umd|uttari-manussa-dhamma]ṃ alam-[ariya|ariya]-[nanadassana|ñāṇa·dassana]-visesaṃ sacchikātuṃ)[/i].",
+        "À [@$AN 6.117], la modération dans la nourriture est une condition nécessaire pour la pratique des quatre mises en place de la présence d'esprit ([satipatthana|satipaṭṭhāna]).",
+        "Dans la Discipline ([vinaya|Vinaya]), dans l'histoire sur l'origine de la règle Pd 3 du code de discipline ([patimokkha|pātimokkha]), des mendiants acceptent de la nourriture d'une famille pauvre qui offre tellement qu'elle devient encore plus pauve, et les gens se mettent à critiquer ces mendiants pour ne pas avoir su se modérer: [i]“kathañhi nāma samaṇā sakyaputtiyā na mattaṃ jānitvā paṭiggahessanti!” (“Comment des renonçants fils des Sakyans peuvent-ils accepter, sans savoir se modérer?)[/i]."
+      ]
+    }
+  ]
+}
